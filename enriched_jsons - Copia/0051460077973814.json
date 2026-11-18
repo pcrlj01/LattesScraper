@@ -1,0 +1,1887 @@
+{
+  "name": "Yona Lopes",
+  "lattes_id": "0051460077973814",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Analysis of line distance elements for various IBR controllers and system conditions",
+          "autores": "PINHEIRO, PAULO HENRIQUE ; FRANÇA, BRUNO W. ; LOPES, YONA ; CHAKRABORTY, SOHAM ; BAINY, RÔMULO G. ; LEI, HANGTIAN ; JOHNSON, BRIAN K. ; MANSON, SCOTT ; WANG, JING ; MAHMUD, RASEL ; HOKE, ANDY ; KRUSE, CAMERON J.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 252, p. 112370, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2025.112370",
+          "citacao_completa": "PINHEIRO, PAULO HENRIQUE ; FRANÇA, BRUNO W. ; LOPES, YONA ; CHAKRABORTY, SOHAM ; BAINY, RÔMULO G. ; LEI, HANGTIAN ; JOHNSON, BRIAN K. ; MANSON, SCOTT ; WANG, JING ; MAHMUD, RASEL ; HOKE, ANDY ; KRUSE, CAMERON J. . Analysis of line distance elements for various IBR controllers and system conditions. ELECTRIC POWER SYSTEMS RESEARCH , v. 252, p. 112370, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A novel SDN-based mechanism for multi-service communication in POTT teleprotection compliant with IEC 61850",
+          "autores": "VILLÓN BERROCAL, JUAN D. ; LOPES, YONA ; TAVARES, MARIA C.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 260, p. 113300, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113300",
+          "citacao_completa": "VILLÓN BERROCAL, JUAN D. ; LOPES, YONA ; TAVARES, MARIA C. . A novel SDN-based mechanism for multi-service communication in POTT teleprotection compliant with IEC 61850. ELECTRIC POWER SYSTEMS RESEARCH , v. 260, p. 113300, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Battery energy storage systems associated with transmission lines: implementation proposal with IEC 61850 standard and feasibility case study",
+          "autores": "AYELLO, MATHEUS ; LOPES, YONA",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 241, p. 111382-111392, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.111382",
+          "citacao_completa": "AYELLO, MATHEUS ; LOPES, YONA . Battery energy storage systems associated with transmission lines: implementation proposal with IEC 61850 standard and feasibility case study. ELECTRIC POWER SYSTEMS RESEARCH , v. 241, p. 111382-111392, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Systematic Literature Review of Electric Vehicles within the Expansion Planning of Electrical Power Systems",
+          "autores": "DA COSTA OLIVEIRA SANTOS, RACHEL ; ABUD, TIAGO PIRES ; LOPES, YONA ; BORBA, BRUNO SOARES MOREIRA CESAR",
+          "periodico": "Results In Engineering , v. 25, p. 104500, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.rineng.2025.104500",
+          "citacao_completa": "DA COSTA OLIVEIRA SANTOS, RACHEL ; ABUD, TIAGO PIRES ; LOPES, YONA ; BORBA, BRUNO SOARES MOREIRA CESAR . Systematic Literature Review of Electric Vehicles within the Expansion Planning of Electrical Power Systems. Results In Engineering , v. 25, p. 104500, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Using Sampled Values in Line Differential Protection - Analyzing the Scheme Feasibility and Protection Performance Under Communication Stress Scenarios",
+          "autores": "AYELLO, MATHEUS ; SILVA, N. F. M. ; ; LOPES, Y.",
+          "periodico": "Electric Power Systems Research. ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 110217-110229, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.11021",
+          "citacao_completa": "AYELLO, MATHEUS ; SILVA, N. F. M. ; ; LOPES, Y. . Using Sampled Values in Line Differential Protection - Analyzing the Scheme Feasibility and Protection Performance Under Communication Stress Scenarios. Electric Power Systems Research. ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 110217-110229, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Metaverse framework for power systems: Proposal and case study",
+          "autores": "MENEZES, C. C. ; CUNHA NETO, H. N. ; SIQUEIRA, G. C. ; SANTOS, M. H. M. N. ; ; LOPES, Y.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 237, p. 111039-111049, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.111039",
+          "citacao_completa": "MENEZES, C. C. ; CUNHA NETO, H. N. ; SIQUEIRA, G. C. ; SANTOS, M. H. M. N. ; ; LOPES, Y. . Metaverse framework for power systems: Proposal and case study. ELECTRIC POWER SYSTEMS RESEARCH , v. 237, p. 111039-111049, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Survey on Extended Reality, Digital Twins, and Metaverse Applications in Power Systems",
+          "autores": "MENEZES, CAROLINA ; FRANÇA, BRUNO ; LOPES, YONA",
+          "periodico": "IEEE Internet of Things Journal , v. 11, p. 34953-34977, 2024.",
+          "doi": "http://dx.doi.org/10.1109/jiot.2024.3450813",
+          "citacao_completa": "MENEZES, CAROLINA ; FRANÇA, BRUNO ; LOPES, YONA . A Survey on Extended Reality, Digital Twins, and Metaverse Applications in Power Systems. IEEE Internet of Things Journal , v. 11, p. 34953-34977, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Shared e-bike operational planning under different relocation schemes: A smart campus case",
+          "autores": "BITENCOURT, LEONARDO ; BORBA, BRUNO ; DIAS, DANIEL ; BITENCOURT, ALEXANDRE ; LOPES, YONA ; FERNANDES, NATALIA",
+          "periodico": "Results In Engineering , v. 22, p. 102368-102380, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.rineng.2024.102368",
+          "citacao_completa": "BITENCOURT, LEONARDO ; BORBA, BRUNO ; DIAS, DANIEL ; BITENCOURT, ALEXANDRE ; LOPES, YONA ; FERNANDES, NATALIA . Shared e-bike operational planning under different relocation schemes: A smart campus case. Results In Engineering , v. 22, p. 102368-102380, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Security analysis of digitized substations: A systematic review of GOOSE messages",
+          "autores": "SILVEIRA, PEDRO ; SILVA, EDELBERTO FRANCO ; GALLETTA, ANTONINO ; LOPES, YONA",
+          "periodico": "Internet Of Things , v. 1, p. 100760-100785, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.iot.2023.100760",
+          "citacao_completa": "SILVEIRA, PEDRO ; SILVA, EDELBERTO FRANCO ; GALLETTA, ANTONINO ; LOPES, YONA . Security analysis of digitized substations: A systematic review of GOOSE messages. Internet Of Things , v. 1, p. 100760-100785, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Interoperability based on IEC 61850 standard: Systematic literature review, certification method proposal, and case study",
+          "autores": "LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 220, p. 109355-109366, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109355",
+          "citacao_completa": "LEITE, M. F. A. ; LOPES, Y. . Interoperability based on IEC 61850 standard: Systematic literature review, certification method proposal, and case study. ELECTRIC POWER SYSTEMS RESEARCH , v. 220, p. 109355-109366, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Enabling Emulation and Evaluation of IEC 61850 Networks with TITAN",
+          "autores": "SOARES, ARTHUR A. Z. ; SOARES, LEONARDO F. ; MATTOS, DOUGLAS P. ; PINHEIRO, PAULO H. B. S. ; QUINCOZES, SILVIO E. ; FERREIRA, VINICIUS C. ; APOSTOLO, GUILHERME H. ; CARRARA, GABRIEL R. ; MORAES, IGOR M. ; ALBUQUERQUE, CELIO ; LOPES, YONA ; ;",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/access.2021.3068366",
+          "citacao_completa": "SOARES, ARTHUR A. Z. ; SOARES, LEONARDO F. ; MATTOS, DOUGLAS P. ; PINHEIRO, PAULO H. B. S. ; QUINCOZES, SILVIO E. ; FERREIRA, VINICIUS C. ; APOSTOLO, GUILHERME H. ; CARRARA, GABRIEL R. ; MORAES, IGOR M. ; ALBUQUERQUE, CELIO ; LOPES, YONA ; ; . Enabling Emulation and Evaluation of IEC 61850 Networks with TITAN. IEEE Access , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "3AS: Authentication, Authorization, and Accountability for SDN-based Smart Grids",
+          "autores": "SOARES, ARTHUR A. Z. ; LOPES, YONA ; PASSOS, DIEGO ; ;",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/access.2021.3090346",
+          "citacao_completa": "SOARES, ARTHUR A. Z. ; LOPES, YONA ; PASSOS, DIEGO ; ; . 3AS: Authentication, Authorization, and Accountability for SDN-based Smart Grids. IEEE Access , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Dynamic Adaptive Protection based on IEC 61850",
+          "autores": "FERRARI, V. ; LOPES, Y.",
+          "periodico": "IEEE Latin America Transactions , v. 18, p. 1302-1310, 2020.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2020.9099773",
+          "citacao_completa": "FERRARI, V. ; LOPES, Y. . Dynamic Adaptive Protection based on IEC 61850. IEEE Latin America Transactions , v. 18, p. 1302-1310, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "SDN-based Teleprotection and Control Power Systems: A study of available controllers and their suitability",
+          "autores": "ZOPELLARO SOARES, ARTHUR A. ; LUCAS VIEIRA, JUAN ; QUINCOZES, SILVIO E. ; FERREIRA, VINICIUS C. ; UCHÔA, LUANA M. ; LOPES, YONA ; PASSOS, DIEGO ; ; MONTEIRO MORAES, IGOR ; MUCHALUAT'SAADE, DÉBORA ; ALBUQUERQUE, CÉLIO",
+          "periodico": "International Journal of Network Management , v. 1, p. 1, 2020.",
+          "doi": "http://dx.doi.org/10.1002/nem.2112",
+          "citacao_completa": "ZOPELLARO SOARES, ARTHUR A. ; LUCAS VIEIRA, JUAN ; QUINCOZES, SILVIO E. ; FERREIRA, VINICIUS C. ; UCHÔA, LUANA M. ; LOPES, YONA ; PASSOS, DIEGO ; ; MONTEIRO MORAES, IGOR ; MUCHALUAT'SAADE, DÉBORA ; ALBUQUERQUE, CÉLIO . SDN-based Teleprotection and Control Power Systems: A study of available controllers and their suitability. International Journal of Network Management , v. 1, p. 1, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Defleger-Eco: A Mechanism for Demand-side Management for Residential Users in Brazil",
+          "autores": "CASTRO, T. B. ; ; ; LOPES, Y.",
+          "periodico": "MULTIVERSO - REVISTA ELETRÔNICA DO CAMPUS JUIZ DE FORA , v. 1, p. 1, 2020.",
+          "doi": "",
+          "citacao_completa": "CASTRO, T. B. ; ; ; LOPES, Y. . Defleger-Eco: A Mechanism for Demand-side Management for Residential Users in Brazil. MULTIVERSO - REVISTA ELETRÔNICA DO CAMPUS JUIZ DE FORA , v. 1, p. 1, 2020."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Quality of Service for Wireless Network Implementation in Advanced Metering Infrastructure",
+          "autores": "LOPES, Y. ; ; ALBUQUERQUE, C. V. N. ; ;",
+          "periodico": "IEEE Latin America Transactions , v. 15, p. 1875-1880, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tla.2017.8071230",
+          "citacao_completa": "LOPES, Y. ; ; ALBUQUERQUE, C. V. N. ; ; . Quality of Service for Wireless Network Implementation in Advanced Metering Infrastructure. IEEE Latin America Transactions , v. 15, p. 1875-1880, 2017."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Volume3: Capacitaçãoe treinamentodepessoas",
+          "autores": "SILVA, A. F. ; DARE, E. F. ; ARAUJO, P. M. ; SILVEIRA, P. ; SIQUEIRA, R. L. ; OLIVEIRA, S. ; LOPES, Y.",
+          "periodico": "In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). SegurançaCibernética, umaabordagemprática paraosetorelétrico brasileiro. 1ed.: , 2024, v. 3, p. 1-41.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. F. ; DARE, E. F. ; ARAUJO, P. M. ; SILVEIRA, P. ; SIQUEIRA, R. L. ; OLIVEIRA, S. ; LOPES, Y. . Volume3: Capacitaçãoe treinamentodepessoas. In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). SegurançaCibernética, umaabordagemprática paraosetorelétrico brasileiro. 1ed.: , 2024, v. 3, p. 1-41."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Volume 2 - Especificar soluções e projetos que mitiguem os riscos e vulnerabilidades mapeadas",
+          "autores": "SILVA, A. F. ; DARE, E. F. ; ARAUJO, P. M. ; SILVEIRA, P. ; SIQUEIRA, R. L. ; OLIVEIRA, S. ; LOPES, Y.",
+          "periodico": "In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). Segurança Cibernética, uma abordagem prática para o setor elétrico Brasileiro. 1ed.: , 2023, v. 2, p. 1-31.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. F. ; DARE, E. F. ; ARAUJO, P. M. ; SILVEIRA, P. ; SIQUEIRA, R. L. ; OLIVEIRA, S. ; LOPES, Y. . Volume 2 - Especificar soluções e projetos que mitiguem os riscos e vulnerabilidades mapeadas. In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). Segurança Cibernética, uma abordagem prática para o setor elétrico Brasileiro. 1ed.: , 2023, v. 2, p. 1-31."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Provendo Segurança em Cidades Inteligentes: Aplicações, Desafios e Tendências em Mobilidade Elétrica e Tarifação Inteligente com NFTs",
+          "autores": "MANN, P. ; SCOFANO, G. ; CUNHA NETO, H. N. ; LOPES, Y. ; MATTOS, D. M. F. ;",
+          "periodico": "Minicursos do SBSEG 2022. 1ed.: , 2022, v. , p. 1-.",
+          "doi": "",
+          "citacao_completa": "MANN, P. ; SCOFANO, G. ; CUNHA NETO, H. N. ; LOPES, Y. ; MATTOS, D. M. F. ; . Provendo Segurança em Cidades Inteligentes: Aplicações, Desafios e Tendências em Mobilidade Elétrica e Tarifação Inteligente com NFTs. Minicursos do SBSEG 2022. 1ed.: , 2022, v. , p. 1-."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Volume 1: Identificar ameaças, vulnerabilidades e riscos para sua empresa",
+          "autores": "HELUANY, J. B. ; SILVA, G. D. ; CAMPELO, L. A. K. ; PIGOSSI JUNIOR, A. C. ; BUHLER, C. ; CORTES, F. R. ; SILVEIRA, P. ; LOPES, Y. ; SIQUEIRA, R. L.",
+          "periodico": "In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). Segurança Cibernética, uma abordagem prática para o setor elétrico Brasileiro.. 1ed.: , 2022, v. 1, p. 1-48.",
+          "doi": "",
+          "citacao_completa": "HELUANY, J. B. ; SILVA, G. D. ; CAMPELO, L. A. K. ; PIGOSSI JUNIOR, A. C. ; BUHLER, C. ; CORTES, F. R. ; SILVEIRA, P. ; LOPES, Y. ; SIQUEIRA, R. L. . Volume 1: Identificar ameaças, vulnerabilidades e riscos para sua empresa. In: CIGRE Brasil; Grupo de Trabalho D2.01. (Org.). Segurança Cibernética, uma abordagem prática para o setor elétrico Brasileiro.. 1ed.: , 2022, v. 1, p. 1-48."
+        },
+        {
+          "ano": 2021,
+          "titulo": "LATÊNCIA NA COMUNICAÇÃO PARA ESQUEMAS DE TELEPROTEÇÃO: REQUISITOS, AVALIAÇÕES E MEIOS DE TRANSMISSÃO",
+          "autores": "Santos, Mayara Helena Moreira Nogueira dos ; Ayello, Matheus Felipe ; Pinheiro, Paulo Henrique Barbosa de Souza ; Pinho, André da Costa ; Colombini, Angelo Cesar ; Fortes, Márcio Zamboti ; LOPES, YONA",
+          "periodico": "Engenharia Elétrica: Desenvolvimento e Inovação Tecnológica. 1ed.: Atena Editora, 2021, v. , p. 325-342.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.73421220224",
+          "citacao_completa": "Santos, Mayara Helena Moreira Nogueira dos ; Ayello, Matheus Felipe ; Pinheiro, Paulo Henrique Barbosa de Souza ; Pinho, André da Costa ; Colombini, Angelo Cesar ; Fortes, Márcio Zamboti ; LOPES, YONA . LATÊNCIA NA COMUNICAÇÃO PARA ESQUEMAS DE TELEPROTEÇÃO: REQUISITOS, AVALIAÇÕES E MEIOS DE TRANSMISSÃO. Engenharia Elétrica: Desenvolvimento e Inovação Tecnológica. 1ed.: Atena Editora, 2021, v. , p. 325-342."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PROTEÇÃO DIFERENCIAL DE LINHAS - UMA ABORDAGEM USANDO SAMPLED VALUES",
+          "autores": "Leite, Matheus Felipe Ayello ; Cruz, Arthur Augusto Pereira ; Colombini, Angelo Cesar ; Fortes, Márcio Zamboti ; LOPES, YONA",
+          "periodico": "Engenharia Elétrica: Desenvolvimento e Inovação Tecnológica. 1ed.: Atena Editora, 2021, v. , p. 54-70.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.7342122025",
+          "citacao_completa": "Leite, Matheus Felipe Ayello ; Cruz, Arthur Augusto Pereira ; Colombini, Angelo Cesar ; Fortes, Márcio Zamboti ; LOPES, YONA . PROTEÇÃO DIFERENCIAL DE LINHAS - UMA ABORDAGEM USANDO SAMPLED VALUES. Engenharia Elétrica: Desenvolvimento e Inovação Tecnológica. 1ed.: Atena Editora, 2021, v. , p. 54-70."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Desafios de Segurança e Confiabilidade na Comunicação para Smart Grids",
+          "autores": "LOPES, Y. ; ; CASTRO, T. B. ; FARIAS, V. S. ;",
+          "periodico": "Livro de Minicursos do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg). 1ed.Niterói: , 2016, v. , p. 1-40.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; CASTRO, T. B. ; FARIAS, V. S. ; . Desafios de Segurança e Confiabilidade na Comunicação para Smart Grids. Livro de Minicursos do Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg). 1ed.Niterói: , 2016, v. , p. 1-40."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Vulnerabilities and Threats in Smart Grid Communication Networks",
+          "autores": "LOPES, YONA ; Fernandes, Natalia Castro ; Bornia de Castro, Tiago ; Farias, Vitor dos Santos ; Noce, Julia Drummond ; Marques, João Pedro ;",
+          "periodico": "Security Solutions and Applied Cryptography in Smart Grid Communications. 1ed.: IGI Global, 2016, v. , p. 1-28.",
+          "doi": "http://dx.doi.org/10.4018/978-1-5225-1829-7.ch001",
+          "citacao_completa": "LOPES, YONA ; Fernandes, Natalia Castro ; Bornia de Castro, Tiago ; Farias, Vitor dos Santos ; Noce, Julia Drummond ; Marques, João Pedro ; . Vulnerabilities and Threats in Smart Grid Communication Networks. Security Solutions and Applied Cryptography in Smart Grid Communications. 1ed.: IGI Global, 2016, v. , p. 1-28."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Geração Distribuída de Energia: Desafios e Perspectivas em Redes de Comunicação",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "Livro de Minicursos do SBRC 2015. 1ed.: , 2015, v. , p. 1-52.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Geração Distribuída de Energia: Desafios e Perspectivas em Redes de Comunicação. Livro de Minicursos do SBRC 2015. 1ed.: , 2015, v. , p. 1-52."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Smart Grid e IEC 61850: Novos Desafios em Redes e Telecomunicações para o Sistema Elétrico.",
+          "autores": "LOPES, Y. ; FRANCO, R. ; ACOSTA, D. L. ; SANTOS, M. ; CALHAU, F. ; ; MARTINS, J. S. B. ;",
+          "periodico": "In: Sociedade Brasileira de Telecomunicações (SBrT); Universidade de Brasília (UnB). (Org.). XXX Simpósio Brasileiro de Telecomunicações. 1ed.: , 2012, v. 1, p. 1-44.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; FRANCO, R. ; ACOSTA, D. L. ; SANTOS, M. ; CALHAU, F. ; ; MARTINS, J. S. B. ; . Smart Grid e IEC 61850: Novos Desafios em Redes e Telecomunicações para o Sistema Elétrico.. In: Sociedade Brasileira de Telecomunicações (SBrT); Universidade de Brasília (UnB). (Org.). XXX Simpósio Brasileiro de Telecomunicações. 1ed.: , 2012, v. 1, p. 1-44."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "DEFLEGER-ECO: SISTEMA PARA GESTÃO PELO LADO DA DEMANDA EM RESIDÊNCIAS NO BRASIL",
+          "autores": "CASTRO, T. B. ; ; ; LOPES, Y.",
+          "periodico": "Multiverso - Revista Eletrônica, Juiz de Fora - MG, p. p. e437, 16 out. 2020.",
+          "doi": "",
+          "citacao_completa": "CASTRO, T. B. ; ; ; LOPES, Y. . DEFLEGER-ECO: SISTEMA PARA GESTÃO PELO LADO DA DEMANDA EM RESIDÊNCIAS NO BRASIL. Multiverso - Revista Eletrônica, Juiz de Fora - MG, p. p. e437, 16 out. 2020."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Interface",
+          "autores": "LOPES, Y. ; ROCHA, G.",
+          "periodico": "O fim da escuridão na rede de comunicação, Campinas - SP, p. 1 - 8, 01 dez. 2014.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ROCHA, G. . Interface. O fim da escuridão na rede de comunicação, Campinas - SP, p. 1 - 8, 01 dez. 2014."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Solução de segurança de rede em um Sistema Especial de Proteção de grande porte: SEP das Interligações Norte-Nordeste-Sudeste",
+          "autores": "CARDOSO, I. S. ; LOPES, Y. ; ; CUNHA NETO, H. N. ; BRUNS, F. ; SIQUEIRA, G. C. ; CABRAL, M. ; MELCHERT, F. ; PICHELI, J. ; ABOUD, R.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, I. S. ; LOPES, Y. ; ; CUNHA NETO, H. N. ; BRUNS, F. ; SIQUEIRA, G. C. ; CABRAL, M. ; MELCHERT, F. ; PICHELI, J. ; ABOUD, R. . Solução de segurança de rede em um Sistema Especial de Proteção de grande porte: SEP das Interligações Norte-Nordeste-Sudeste. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Implantação e testes do maior Sistema Especial de Proteção do SIN: SEP das Interligações Norte-Nordeste-Sudeste",
+          "autores": "CARDOSO, I. S. ; OLIVEIRA, E. F. ; ROSA, B. P. ; LOPES, Y. ; ; CUNHA NETO, H. N. ; QUINTINO, T. ; CABO, R. S. J. ; CABRAL, M. ; ABOUD, R. ; TEIXEIRA, V. A. ; AMANCIO, J. M. ; TEIXEIRA, M. V. P.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, I. S. ; OLIVEIRA, E. F. ; ROSA, B. P. ; LOPES, Y. ; ; CUNHA NETO, H. N. ; QUINTINO, T. ; CABO, R. S. J. ; CABRAL, M. ; ABOUD, R. ; TEIXEIRA, V. A. ; AMANCIO, J. M. ; TEIXEIRA, M. V. P. . Implantação e testes do maior Sistema Especial de Proteção do SIN: SEP das Interligações Norte-Nordeste-Sudeste. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Diretrizes para Interpretação e Uso de Informações de Monitoramento em Subestações Digitais: Análise Eficiente do Barramento de Processos",
+          "autores": "MINORU, P. ; TAKEDA, A. ; AYELLO, MATHEUS ; SOARES, A. A. Z. ; WEISHAUPT, R. ; LOPES, Y.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "MINORU, P. ; TAKEDA, A. ; AYELLO, MATHEUS ; SOARES, A. A. Z. ; WEISHAUPT, R. ; LOPES, Y. . Diretrizes para Interpretação e Uso de Informações de Monitoramento em Subestações Digitais: Análise Eficiente do Barramento de Processos. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoramento de Barramento de Processo em Subestações Digitais: Plano de Inspeção e Testes com Múltiplos Fabricantes",
+          "autores": "ALEXANDRINO, M. ; LUNARDI, M. C. ; AYELLO, MATHEUS ; SOARES, A. A. Z. ; LOPES, Y.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "ALEXANDRINO, M. ; LUNARDI, M. C. ; AYELLO, MATHEUS ; SOARES, A. A. Z. ; LOPES, Y. . Monitoramento de Barramento de Processo em Subestações Digitais: Plano de Inspeção e Testes com Múltiplos Fabricantes. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Implementação e Validação de Monitoramento de Rede para Barramento de Processo na Subestação Cerro Chato: Desafios da implementação em Anel HSR",
+          "autores": "MOREIRA, T. ; ARTHUR A. Z., SOARES ; AYELLO, MATHEUS ; CRUZ, A. ; QUINTINO, T. ; LOPES, Y.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "MOREIRA, T. ; ARTHUR A. Z., SOARES ; AYELLO, MATHEUS ; CRUZ, A. ; QUINTINO, T. ; LOPES, Y. . Implementação e Validação de Monitoramento de Rede para Barramento de Processo na Subestação Cerro Chato: Desafios da implementação em Anel HSR. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife, PE. XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoramento de Redes em Anel HSR: Avaliação de Desempenho e Benefícios para a Operação Confiável de Subestações Digitais",
+          "autores": "LOPES, Y. ; THEBIT, M. ; MOREIRA, T. ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; THEBIT, M. ; MOREIRA, T. ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A. . Monitoramento de Redes em Anel HSR: Avaliação de Desempenho e Benefícios para a Operação Confiável de Subestações Digitais. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Avaliação do Impacto de um Sistema de Monitoramento de Rede no SEP das Interligações Norte-Nordeste-Sudeste sob condições de Ataque Cibernético",
+          "autores": "; CARDOSO, I. S. ; BRUNS, F. ; CUNHA NETO, H. N. ; LOPES, Y.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025, Foz do Iguaçu. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "; CARDOSO, I. S. ; BRUNS, F. ; CUNHA NETO, H. N. ; LOPES, Y. . Avaliação do Impacto de um Sistema de Monitoramento de Rede no SEP das Interligações Norte-Nordeste-Sudeste sob condições de Ataque Cibernético. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025, Foz do Iguaçu. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Comparação de Estratégias de Monitoramento do Barramento de Processos em Redes HSR na Subestação Cerro Chato: Avaliação do Equilíbrio entre Eficácia, Impacto Operacional e Viabilidade",
+          "autores": "LOPES, Y. ; MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025, Foz do Iguaçu. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A. . Comparação de Estratégias de Monitoramento do Barramento de Processos em Redes HSR na Subestação Cerro Chato: Avaliação do Equilíbrio entre Eficácia, Impacto Operacional e Viabilidade. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025, Foz do Iguaçu. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Detecção de Falhas de Sincronismo em Ambientes com Múltiplos Fabricantes: Avaliação de Requisitos do ONS e Contribuições para o PIT da Eletrobras CGT Eletrosul",
+          "autores": "ALEXANDRINO, M. ; LUNARDI, M. C. ; SOARES, A. A. Z. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "ALEXANDRINO, M. ; LUNARDI, M. C. ; SOARES, A. A. Z. ; LEITE, M. F. A. ; LOPES, Y. . Detecção de Falhas de Sincronismo em Ambientes com Múltiplos Fabricantes: Avaliação de Requisitos do ONS e Contribuições para o PIT da Eletrobras CGT Eletrosul. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise da Implementação de Diretrizes para Interpretação de Informações de Alarmes de Monitoramento em Subestações Digitais Apresentação: Natalia C",
+          "autores": "TAKEDA, A. ; ; SOARES, A. A. Z. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "Fernandes. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "TAKEDA, A. ; ; SOARES, A. A. Z. ; LEITE, M. F. A. ; LOPES, Y. . Análise da Implementação de Diretrizes para Interpretação de Informações de Alarmes de Monitoramento em Subestações Digitais Apresentação: Natalia C. Fernandes. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise do Uso de Redes 5G para o Envio de Mensagens R-GOOSE em Aplicações de Missão Crítica no Setor Elétrico",
+          "autores": "SIQUEIRA, J. M. ; LEITE, M. F. A. ; SILVA, G. ; FREIBLATT, E. S. ; ESTEVES, R. ; LOPES, Y.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; LEITE, M. F. A. ; SILVA, G. ; FREIBLATT, E. S. ; ESTEVES, R. ; LOPES, Y. . Análise do Uso de Redes 5G para o Envio de Mensagens R-GOOSE em Aplicações de Missão Crítica no Setor Elétrico. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Sistema de Monitoramento SCADA para Detecções de ataques cibernéticos: Estudo de Caso do SEP N-NE-SE",
+          "autores": "SILVEIRA, P. ; BRUNS, F. ; CUNHA NETO, H. N. ; LOPES, Y.",
+          "periodico": "In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, P. ; BRUNS, F. ; CUNHA NETO, H. N. ; LOPES, Y. . Sistema de Monitoramento SCADA para Detecções de ataques cibernéticos: Estudo de Caso do SEP N-NE-SE. In: XIV SIMPASE - Simpósio de Automação de Sistemas Elétricos, 2025. XIV SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Método Sistemático e Métrica de Avaliação para Programas de Inclusão Feminina no Setor Elétrico: Um Estudo Pioneiro em Colaboração com Universidades e Empresas Brasileiras",
+          "autores": "LOPES, Y. ; ; BRASIL, E. M. B. ; BITTENCOURT, A. A. ; DESIRE, G. ; MELO, M. ; SIQUEIRA, J. M. ; OLIVEIRA, C. ; AUGUSTO, A. A. ; ANDRADE, C. M. ; BRAZ, J.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII SNPTEE, 2025.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; BRASIL, E. M. B. ; BITTENCOURT, A. A. ; DESIRE, G. ; MELO, M. ; SIQUEIRA, J. M. ; OLIVEIRA, C. ; AUGUSTO, A. A. ; ANDRADE, C. M. ; BRAZ, J. . Método Sistemático e Métrica de Avaliação para Programas de Inclusão Feminina no Setor Elétrico: Um Estudo Pioneiro em Colaboração com Universidades e Empresas Brasileiras. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII SNPTEE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modernização de Currículo de Engenharia Elétrica ? Estudo de Caso da Universidade Federal Fluminense",
+          "autores": "AUGUSTO, A. A. ; LOPES, Y. ; SAAS, F. ; ZANGHI, R.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII SNPTEE, 2025.",
+          "doi": "",
+          "citacao_completa": "AUGUSTO, A. A. ; LOPES, Y. ; SAAS, F. ; ZANGHI, R. . Modernização de Currículo de Engenharia Elétrica ? Estudo de Caso da Universidade Federal Fluminense. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025. XXVIII SNPTEE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Avaliação de Desempenho de Mensagens R-GOOSE para Aplicações de Restrição Temporal Críticas no Setor Elétrico",
+          "autores": "SIQUEIRA, J. M. ; AYELLO, MATHEUS ; LOPES, Y.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2025, São João Del Rei. SBSE 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; AYELLO, MATHEUS ; LOPES, Y. . Avaliação de Desempenho de Mensagens R-GOOSE para Aplicações de Restrição Temporal Críticas no Setor Elétrico. In: Simpósio Brasileiro de Sistemas Elétricos, 2025, São João Del Rei. SBSE 2025, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoramento de Ponto de Entrega de Gás Natural com IEC 61850 e ISA 101: Potencial Aplicação em Plantas Industriais",
+          "autores": "MARTINS, N. S. ; SANTOS, M. H. ; SIQUEIRA, G. C. ; LOPES, Y.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2025, São Joao del Rei. SBAI 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "MARTINS, N. S. ; SANTOS, M. H. ; SIQUEIRA, G. C. ; LOPES, Y. . Monitoramento de Ponto de Entrega de Gás Natural com IEC 61850 e ISA 101: Potencial Aplicação em Plantas Industriais. In: Simpósio Brasileiro de Automação Inteligente, 2025, São Joao del Rei. SBAI 2025, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Metodologia para Modelagem de Subestações Digitais baseadas na Norma IEC 61850: Estudo de Caso da Subestação Digital Lorena com Interoperabilidade.",
+          "autores": "SIQUEIRA, G. C. ; AYELLO, MATHEUS ; SANTOS, M. H. ; LOPES, Y.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2025. SBAI 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, G. C. ; AYELLO, MATHEUS ; SANTOS, M. H. ; LOPES, Y. . Metodologia para Modelagem de Subestações Digitais baseadas na Norma IEC 61850: Estudo de Caso da Subestação Digital Lorena com Interoperabilidade.. In: Simpósio Brasileiro de Automação Inteligente, 2025. SBAI 2025, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Methodology for Modeling Digital Substations Based on IEC 61850 Standard: Case Study of Digital Substation of Lorena with Interoperability",
+          "autores": "SIQUEIRA, G. C. ; AYELLO, MATHEUS ; SANTOS, M. H. ; CASTAN, D. S. ; LOPES, Y.",
+          "periodico": "In: Grid of the Future Symposium, 2025, Denver USA. 2025 Grid of the Future Symposium, 2025.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, G. C. ; AYELLO, MATHEUS ; SANTOS, M. H. ; CASTAN, D. S. ; LOPES, Y. . Methodology for Modeling Digital Substations Based on IEC 61850 Standard: Case Study of Digital Substation of Lorena with Interoperability. In: Grid of the Future Symposium, 2025, Denver USA. 2025 Grid of the Future Symposium, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Enabling Hardware-In-the-Loop for Digital Substations: Virtual Protection Tester",
+          "autores": "SOARES, ARTHUR A. Z. ; PINHEIRO, PAULO H. B. S. ; FRANÇA, BRUNO WANDERLEY ; LOPES, YONA ; ;",
+          "periodico": "In: 2025 IEEE Symposium on Computers and Communications (ISCC), 2025, Bologna. 2025 IEEE Symposium on Computers and Communications (ISCC), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/iscc65549.2025.11326528",
+          "citacao_completa": "SOARES, ARTHUR A. Z. ; PINHEIRO, PAULO H. B. S. ; FRANÇA, BRUNO WANDERLEY ; LOPES, YONA ; ; . Enabling Hardware-In-the-Loop for Digital Substations: Virtual Protection Tester. In: 2025 IEEE Symposium on Computers and Communications (ISCC), 2025, Bologna. 2025 IEEE Symposium on Computers and Communications (ISCC), 2025. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Monitoramento e Modelagem de Dados da IEC 61850 em Plantas Industriais: Estudo de Caso",
+          "autores": "MARTINS, N. S. ; SANTOS, M. H. ; SIQUEIRA, G. C. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "MARTINS, N. S. ; SANTOS, M. H. ; SIQUEIRA, G. C. ; LEITE, M. F. A. ; LOPES, Y. . Monitoramento e Modelagem de Dados da IEC 61850 em Plantas Industriais: Estudo de Caso. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise da segurança de relés de proteção no contexto da injeção de dados falsos em mensagens R-GOOSE",
+          "autores": "RIBEIRO, F. B. ; SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; FRIZZINI, P. ; LOPES, Y.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, F. B. ; SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; FRIZZINI, P. ; LOPES, Y. . Análise da segurança de relés de proteção no contexto da injeção de dados falsos em mensagens R-GOOSE. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Implementação da Função Verificação de Sincronismo com Base no Padrão IEC 61850 90-5",
+          "autores": "AZEVEDO, G. G. ; LEITE, M. F. A. ; LOPES, Y. ; PITTA, I. C. ; SANTOS, M. H. ; HENRIQUES, H. O.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "AZEVEDO, G. G. ; LEITE, M. F. A. ; LOPES, Y. ; PITTA, I. C. ; SANTOS, M. H. ; HENRIQUES, H. O. . Implementação da Função Verificação de Sincronismo com Base no Padrão IEC 61850 90-5. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Avaliação da Viabilidade do Protocolo MMS e do Modelo de Dados IEC 61850-90-5 para Monitoramento de Sincrofasores em WAMPACs",
+          "autores": "SIQUEIRA, J. M. ; AZEVEDO, R. M. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; AZEVEDO, R. M. ; LEITE, M. F. A. ; LOPES, Y. . Avaliação da Viabilidade do Protocolo MMS e do Modelo de Dados IEC 61850-90-5 para Monitoramento de Sincrofasores em WAMPACs. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Inversores Inteligentes para Geração Fotovoltaica: Proposta de Modelo e Implementação",
+          "autores": "SANTOS, M. H. ; SIQUEIRA, G. C. ; LEITE, M. F. A. ; DIAS, D. H. N. ; LOPES, Y.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. H. ; SIQUEIRA, G. C. ; LEITE, M. F. A. ; DIAS, D. H. N. ; LOPES, Y. . Inversores Inteligentes para Geração Fotovoltaica: Proposta de Modelo e Implementação. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática (CBA 2024), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Desenvolvimento de Brochura Técnica sobre Sistemas de Monitoramento de Rede em SPCS com uso da Norma IEC 61850 no Âmbito do CIGRE Brasil",
+          "autores": "ALEXANDRINO, M. ; FLORES, P. H. ; OLIVEIRA, D. B. ; LISBOA, G. ; LOPES, Y. ; LELLYS, D.",
+          "periodico": "In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024.",
+          "doi": "",
+          "citacao_completa": "ALEXANDRINO, M. ; FLORES, P. H. ; OLIVEIRA, D. B. ; LISBOA, G. ; LOPES, Y. ; LELLYS, D. . Desenvolvimento de Brochura Técnica sobre Sistemas de Monitoramento de Rede em SPCS com uso da Norma IEC 61850 no Âmbito do CIGRE Brasil. In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Um modelo de Interface Otimizado para Treinamento: MInimizando Erros e Tempos de Resposta em Subestações Digitais",
+          "autores": "SOARES, A. A. Z. ; ARAUJO, A. S. ; LEITE, M. F. A. ; CUNHA NETO, H. N. ; BOTELHO, C. Q. B. ; SANTOS, M. H. ; LOPES, Y.",
+          "periodico": "In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024.",
+          "doi": "",
+          "citacao_completa": "SOARES, A. A. Z. ; ARAUJO, A. S. ; LEITE, M. F. A. ; CUNHA NETO, H. N. ; BOTELHO, C. Q. B. ; SANTOS, M. H. ; LOPES, Y. . Um modelo de Interface Otimizado para Treinamento: MInimizando Erros e Tempos de Resposta em Subestações Digitais. In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise Comparativa da Implementação LCCH por Diferentes Fornecedores na Supervisão do Barramento de Processo",
+          "autores": "SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; LOPES, Y. . Análise Comparativa da Implementação LCCH por Diferentes Fornecedores na Supervisão do Barramento de Processo. In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII Seminário Técnico de Proteção e Controle ( XVII STPC), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "SISTEMA SCADA PARA EFICIÊNCIA EM USINAS FOTOVOLTAICAS DIGITALIZADAS BASEADAS EM IEC61850",
+          "autores": "SIQUEIRA, GIOVANNA ; HELENA, MAYARA ; PITTA, IZABELLA ; ZAMBOTI, MARCIO ; FIGUEIREDO, GILBERTO ; DIAS, DANIEL ; LOPES, YONA",
+          "periodico": "In: Anais CBENS 2024, 2024.",
+          "doi": "http://dx.doi.org/10.59627/cbens.2024.2524",
+          "citacao_completa": "SIQUEIRA, GIOVANNA ; HELENA, MAYARA ; PITTA, IZABELLA ; ZAMBOTI, MARCIO ; FIGUEIREDO, GILBERTO ; DIAS, DANIEL ; LOPES, YONA . SISTEMA SCADA PARA EFICIÊNCIA EM USINAS FOTOVOLTAICAS DIGITALIZADAS BASEADAS EM IEC61850. In: Anais CBENS 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise da Segurança das Mensagens R-GOOSE Frente a Ataques Cibernéticos de Injeção de Dados Falsos",
+          "autores": "BRUNS, F. ; SILVA, N. F. M. ; SANTOS, M. H. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: Congresso Brasileiro de Automatica, 2024. Congresso Brasileiro de Automatica, 2024.",
+          "doi": "",
+          "citacao_completa": "BRUNS, F. ; SILVA, N. F. M. ; SANTOS, M. H. ; LEITE, M. F. A. ; LOPES, Y. . Análise da Segurança das Mensagens R-GOOSE Frente a Ataques Cibernéticos de Injeção de Dados Falsos. In: Congresso Brasileiro de Automatica, 2024. Congresso Brasileiro de Automatica, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Aprimorando a Interoperabilidade em Sistemas de Veículos Elétricos Compartilhados e Geração Distribuída Através da Norma IEC 61850",
+          "autores": "LEITE, M. F. A. ; FRIZZINI, P. ; MAGALHAES, J. ; BRUNS, F. ; LOPES, Y.",
+          "periodico": "In: 8° Congresso Brasileiro de Geração Distribuída (CBGD 2023), 2023, Belo Horizonte, MG. 8° Congresso Brasileiro de Geração Distribuída (CBGD 2023), 2023.",
+          "doi": "",
+          "citacao_completa": "LEITE, M. F. A. ; FRIZZINI, P. ; MAGALHAES, J. ; BRUNS, F. ; LOPES, Y. . Aprimorando a Interoperabilidade em Sistemas de Veículos Elétricos Compartilhados e Geração Distribuída Através da Norma IEC 61850. In: 8° Congresso Brasileiro de Geração Distribuída (CBGD 2023), 2023, Belo Horizonte, MG. 8° Congresso Brasileiro de Geração Distribuída (CBGD 2023), 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Security Mechanisms for R-GOOSE and R-SV Messaging Over a 5G Network",
+          "autores": "RIBEIRO, FÁBIO BRUNS ; DA SILVA, NÍCOLAS F. M. ; LOPES, YONA",
+          "periodico": "In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/WCNPS60622.2023.10344999",
+          "citacao_completa": "RIBEIRO, FÁBIO BRUNS ; DA SILVA, NÍCOLAS F. M. ; LOPES, YONA . Security Mechanisms for R-GOOSE and R-SV Messaging Over a 5G Network. In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Shared Electric Vehicle Systems Based on IEC 61850-90-8: Implementation Proposal and Proof of Concept",
+          "autores": "PITTA, IZABELLA ; AYELLO, MATHEUS ; HELENA, MAYARA ; LOPES, YONA",
+          "periodico": "In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps60622.2023.10344780",
+          "citacao_completa": "PITTA, IZABELLA ; AYELLO, MATHEUS ; HELENA, MAYARA ; LOPES, YONA . Shared Electric Vehicle Systems Based on IEC 61850-90-8: Implementation Proposal and Proof of Concept. In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Enabling Digital Twins for Smart Substation Networks",
+          "autores": "SOARES, ARTHUR A. Z. ; LOPES, YONA ; ; ; MOSSÉ, DANIEL",
+          "periodico": "In: 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2023, Glasgow. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SmartGridComm57358.2023.10333905",
+          "citacao_completa": "SOARES, ARTHUR A. Z. ; LOPES, YONA ; ; ; MOSSÉ, DANIEL . Enabling Digital Twins for Smart Substation Networks. In: 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2023, Glasgow. 2023 IEEE International Conference on Communications, Control, and Computing Technologies for Smart Grids (SmartGridComm), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Monitoring and Diagnostic System for Dry-Type Transformers Using Machine Learning Techniques",
+          "autores": "MARTINS, F. G. R. ; LOPES, Y. ; ; ; SOTELO, G. ; AUGUSTO, A. A. ; COLOMBINI, A. C. ; Pinho, André da Costa ; ARTHUR A. Z., SOARES",
+          "periodico": "In: Offshore Technology Conference Brasil, 2023, Rio de Janeiro. Offshore Technology Conference Brasil, 2023.",
+          "doi": "",
+          "citacao_completa": "MARTINS, F. G. R. ; LOPES, Y. ; ; ; SOTELO, G. ; AUGUSTO, A. A. ; COLOMBINI, A. C. ; Pinho, André da Costa ; ARTHUR A. Z., SOARES . Monitoring and Diagnostic System for Dry-Type Transformers Using Machine Learning Techniques. In: Offshore Technology Conference Brasil, 2023, Rio de Janeiro. Offshore Technology Conference Brasil, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Implementação De Um Sistema De Monitoramento Integrado Para Atender ás Novas Diretrizes De Rede do ONS em Subestações Digitais",
+          "autores": "SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; LOPES, Y.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. H. ; SILVA, N. F. M. ; LEITE, M. F. A. ; LOPES, Y. . Implementação De Um Sistema De Monitoramento Integrado Para Atender ás Novas Diretrizes De Rede do ONS em Subestações Digitais. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Sistema de Supervisão e Controle para Diagnóstico de Faltas e Gestão de ativos de Usinas Fotovoltaicas Baseado na IEC 61850",
+          "autores": "SIQUEIRA, G. C. ; SANTOS, M. H. ; LEITE, M. F. A. ; FIGUEIREDO, G. ; LOPES, Y.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. SBSE, 2023.",
+          "doi": "http://dx.doi.org/10.20906/SBAI-SBSE-2023/4100",
+          "citacao_completa": "SIQUEIRA, G. C. ; SANTOS, M. H. ; LEITE, M. F. A. ; FIGUEIREDO, G. ; LOPES, Y. . Sistema de Supervisão e Controle para Diagnóstico de Faltas e Gestão de ativos de Usinas Fotovoltaicas Baseado na IEC 61850. In: Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. SBSE, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Proteção Diferencial de Linhas baseada em Sampled Values: Avaliação da Viabilidade de Implementação e Impactos causados pelo Comportamento da rede de Comunicação",
+          "autores": "LEITE, M. F. A. ; CRUZ, A. ; ; LOPES, Y.",
+          "periodico": "In: XXVI SNPTEE, 2022, Rio de Janeiro. XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022.",
+          "doi": "",
+          "citacao_completa": "LEITE, M. F. A. ; CRUZ, A. ; ; LOPES, Y. . Proteção Diferencial de Linhas baseada em Sampled Values: Avaliação da Viabilidade de Implementação e Impactos causados pelo Comportamento da rede de Comunicação. In: XXVI SNPTEE, 2022, Rio de Janeiro. XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Plataforma de Monitoramento Completo de Barramento de Processo Baseado na Norma IEC 61850",
+          "autores": "LIMA, P. ; FERRARI, V. ; GONCALVES, E. A. ; SILVEIRA, M. G. ; LOPES, Y.",
+          "periodico": "In: XXVI SNPTEE, 2022, Rio de Janeiro. XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022.",
+          "doi": "",
+          "citacao_completa": "LIMA, P. ; FERRARI, V. ; GONCALVES, E. A. ; SILVEIRA, M. G. ; LOPES, Y. . Plataforma de Monitoramento Completo de Barramento de Processo Baseado na Norma IEC 61850. In: XXVI SNPTEE, 2022, Rio de Janeiro. XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Panorama 5G para o Setor Elétrico: Requisitos, Aplicações e Prova de Conceito",
+          "autores": "SIQUEIRA, J. M. ; PEDREIRA, A. C. ; SANTOS, M. H. M. N. ; ; PINHEIRO, I. C. ; BALBI, H. D. ; LOPES, Y.",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2022, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "http://dx.doi.org/10.20906/sbse.v2i1.3155",
+          "citacao_completa": "SIQUEIRA, J. M. ; PEDREIRA, A. C. ; SANTOS, M. H. M. N. ; ; PINHEIRO, I. C. ; BALBI, H. D. ; LOPES, Y. . Panorama 5G para o Setor Elétrico: Requisitos, Aplicações e Prova de Conceito. In: IX Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2022, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aplicações e Requisitos para o uso da Tecnologia 5G em Sistemas de Proteção, Controle e Supervisão",
+          "autores": "SIQUEIRA, J. M. ; SANTOS, M. H. M. N. ; PEDREIRA, A. C. ; LOPES, YONA",
+          "periodico": "In: XVI Seminário Técnico de Proteção e Controle, 2022, Rio de Janeiro. XVI Seminário Técnico de Proteção e Controle, 2022.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; SANTOS, M. H. M. N. ; PEDREIRA, A. C. ; LOPES, YONA . Aplicações e Requisitos para o uso da Tecnologia 5G em Sistemas de Proteção, Controle e Supervisão. In: XVI Seminário Técnico de Proteção e Controle, 2022, Rio de Janeiro. XVI Seminário Técnico de Proteção e Controle, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "THANOS: Teleprotection Holistic Application for ONOS Controller",
+          "autores": "VIEIRA, J. L. ; FERREIRA, V. C. ; BASTOS, I. V. ; QUINCOZES, S. ; OLIVEIRA, W. ; LOPES, Y. ; PASSOS, D. G. ; ALBUQUERQUE, C. V. N. ; MORAES, I. M. ; MAGALHAES, L. C. S. ; ;",
+          "periodico": "In: IFIP/IEEE International Symposium on Integrated Network Management (IM 2021), 2021, Bordeaux. Proceeding of IFIP/IEEE International Symposium on Integrated Network Management, 2021.",
+          "doi": "",
+          "citacao_completa": "VIEIRA, J. L. ; FERREIRA, V. C. ; BASTOS, I. V. ; QUINCOZES, S. ; OLIVEIRA, W. ; LOPES, Y. ; PASSOS, D. G. ; ALBUQUERQUE, C. V. N. ; MORAES, I. M. ; MAGALHAES, L. C. S. ; ; . THANOS: Teleprotection Holistic Application for ONOS Controller. In: IFIP/IEEE International Symposium on Integrated Network Management (IM 2021), 2021, Bordeaux. Proceeding of IFIP/IEEE International Symposium on Integrated Network Management, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "BEM: A Framework based on Business Intelligence, Quality of Experience, and Car Park Management",
+          "autores": "ARAUJO, ADRIEL SANTOS ; CAMARA, BRUNO ; DOCEK, FLAVIO ; GASPAR, LUCAS ; LOPES, YONA",
+          "periodico": "In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói. 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020. p. 429.",
+          "doi": "http://dx.doi.org/10.1109/IWSSIP48289.2020.9145442",
+          "citacao_completa": "ARAUJO, ADRIEL SANTOS ; CAMARA, BRUNO ; DOCEK, FLAVIO ; GASPAR, LUCAS ; LOPES, YONA . BEM: A Framework based on Business Intelligence, Quality of Experience, and Car Park Management. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói. 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020. p. 429."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Demand-Side Management Framework for Smart Cities",
+          "autores": "MENTZINGEN, FABIO ; MARTINS, WILIAN ; ALVES, RAPHAEL ; LOPES, YONA",
+          "periodico": "In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói. 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020. p. 435.",
+          "doi": "http://dx.doi.org/10.1109/iwssip48289.2020.9145058",
+          "citacao_completa": "MENTZINGEN, FABIO ; MARTINS, WILIAN ; ALVES, RAPHAEL ; LOPES, YONA . Demand-Side Management Framework for Smart Cities. In: 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020, Niterói. 2020 International Conference on Systems, Signals and Image Processing (IWSSIP), 2020. p. 435."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Transferência de Disparo Permissivo por Sobrealcance (POTT): Avaliação no Desempenho da Comunicação",
+          "autores": "SANTOS, M. H. ; LEITE, M. F. A. ; PINHEIRO, P. ; PINHO, A. C. ; COLOMBINI, A. C. ; LOPES, Y.",
+          "periodico": "In: VIII Simpósio Brasileiro de Sistemas Elétricos, 2020. VIII Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. H. ; LEITE, M. F. A. ; PINHEIRO, P. ; PINHO, A. C. ; COLOMBINI, A. C. ; LOPES, Y. . Transferência de Disparo Permissivo por Sobrealcance (POTT): Avaliação no Desempenho da Comunicação. In: VIII Simpósio Brasileiro de Sistemas Elétricos, 2020. VIII Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Sampled Values em Proteção Diferencial de Linhas: Desafios de Implementação",
+          "autores": "LEITE, M. F. A. ; CRUZ, A. ; COLOMBINI, A. C. ; LOPES, Y.",
+          "periodico": "In: VIII Simpósio Brasileiro de Sistemas Elétricos, 2020. VIII Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "",
+          "citacao_completa": "LEITE, M. F. A. ; CRUZ, A. ; COLOMBINI, A. C. ; LOPES, Y. . Sampled Values em Proteção Diferencial de Linhas: Desafios de Implementação. In: VIII Simpósio Brasileiro de Sistemas Elétricos, 2020. VIII Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "An Efficient Authentication Mechanism based on Software-Defined Networks for Electric Vehicles",
+          "autores": "SOARES, ARTHUR A. Z. ; MATTOS, DIOGO M. F. ; LOPES, YONA ; MEDEIROS, DIANNE S. V. ; ;",
+          "periodico": "In: 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), 2019, Vancouver. 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), 2019. p. 2471.",
+          "doi": "http://dx.doi.org/10.1109/isie.2019.8781306",
+          "citacao_completa": "SOARES, ARTHUR A. Z. ; MATTOS, DIOGO M. F. ; LOPES, YONA ; MEDEIROS, DIANNE S. V. ; ; . An Efficient Authentication Mechanism based on Software-Defined Networks for Electric Vehicles. In: 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), 2019, Vancouver. 2019 IEEE 28th International Symposium on Industrial Electronics (ISIE), 2019. p. 2471."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Survey and Comparison of SDN Controllers for Teleprotection and Control Power Systems",
+          "autores": "QUINCOZES, S. ; SOARES, A. A. Z. ; OLIVEIRA, W. ; CORDEIRO, E. B. ; LIMA, R. ; ; FERREIRA, V. C. ; LOPES, Y. ; VIEIRA, J. L. ; UCHOA, L. ; CUNHA NETO, H. N. ; SOARES, L. F. ; ; PASSOS, D. G. ; ALBUQUERQUE, C. V. N.",
+          "periodico": "In: Latin American Network Operations and Management Symposium (LANOMS), 2019, Niterói. LANOMS 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "QUINCOZES, S. ; SOARES, A. A. Z. ; OLIVEIRA, W. ; CORDEIRO, E. B. ; LIMA, R. ; ; FERREIRA, V. C. ; LOPES, Y. ; VIEIRA, J. L. ; UCHOA, L. ; CUNHA NETO, H. N. ; SOARES, L. F. ; ; PASSOS, D. G. ; ALBUQUERQUE, C. V. N. . Survey and Comparison of SDN Controllers for Teleprotection and Control Power Systems. In: Latin American Network Operations and Management Symposium (LANOMS), 2019, Niterói. LANOMS 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "IEC 61850 Packet Generator for Testing Substation Communication",
+          "autores": "MATTOS, DOUGLAS P. DE ; MAGALHAES, LUIZ C. SCHARA ; ; ARTHUR A. Z., SOARES ; SOARES, LEONARDO F. ; DELFINO, ALLAN ; UCHOA, LUANA ; FETNANDES, NATALIA C. ; LOPES, YONA ; MOARES, IGOR ; ALBUQUERQUE, CELIO",
+          "periodico": "In: 2019 IEEE PES AsiaPacific Power and Energy Engineering Conference (APPEEC), 2019, Macao. 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/appeec45492.2019.8994338",
+          "citacao_completa": "MATTOS, DOUGLAS P. DE ; MAGALHAES, LUIZ C. SCHARA ; ; ARTHUR A. Z., SOARES ; SOARES, LEONARDO F. ; DELFINO, ALLAN ; UCHOA, LUANA ; FETNANDES, NATALIA C. ; LOPES, YONA ; MOARES, IGOR ; ALBUQUERQUE, CELIO . IEC 61850 Packet Generator for Testing Substation Communication. In: 2019 IEEE PES AsiaPacific Power and Energy Engineering Conference (APPEEC), 2019, Macao. 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), 2019. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Smart grid communication: Requirements and SCADA protocols analysis",
+          "autores": "LOPES, YONA ; ; OBRACZKA, KATIA",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395880",
+          "citacao_completa": "LOPES, YONA ; ; OBRACZKA, KATIA . Smart grid communication: Requirements and SCADA protocols analysis. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Analysis of sympathetic tripping problem in photovoltaic distributed generation with IEC 61850",
+          "autores": "ROCHA, GIULIANO LUCIO NASCIMENTO ; LOPES, YONA",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395682",
+          "citacao_completa": "ROCHA, GIULIANO LUCIO NASCIMENTO ; LOPES, YONA . Analysis of sympathetic tripping problem in photovoltaic distributed generation with IEC 61850. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Substation security mechanism based on SDN and MMS",
+          "autores": "PIGOSSI, ANTONIO CARLOS ; LOPES, YONA",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395683",
+          "citacao_completa": "PIGOSSI, ANTONIO CARLOS ; LOPES, YONA . Substation security mechanism based on SDN and MMS. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Teleprotection over SONET based on IEC 61850",
+          "autores": "OLIVEIRA, WELLINGTON ; LOPES, YONA",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395834",
+          "citacao_completa": "OLIVEIRA, WELLINGTON ; LOPES, YONA . Teleprotection over SONET based on IEC 61850. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Power protection asset manager with IEC 61850",
+          "autores": "ABI-RAMIA, MARCO ANTONIO ; ; ; LOPES, YONA",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395628",
+          "citacao_completa": "ABI-RAMIA, MARCO ANTONIO ; ; ; LOPES, YONA . Power protection asset manager with IEC 61850. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "ARES: An autonomic and resilient framework for smart grids",
+          "autores": "LOPES, YONA ; Fernandes, Natalia Castro ; ; OBRACZKA, KATIA",
+          "periodico": "In: 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2017, Lisbon. 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2017. p. 222.",
+          "doi": "http://dx.doi.org/10.23919/inm.2017.7987283",
+          "citacao_completa": "LOPES, YONA ; Fernandes, Natalia Castro ; ; OBRACZKA, KATIA . ARES: An autonomic and resilient framework for smart grids. In: 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2017, Lisbon. 2017 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2017. p. 222."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Analisando o Comportamento de Ambientes de Experimentação baseados em OpenFlow",
+          "autores": "OLIVEIRA, R. A. ; LOPES, Y. ; ;",
+          "periodico": "In: XXII Workshop de Gerência e Operação de Redes e Serviços, 2017, Belém. WGRS 2017, 2017.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, R. A. ; LOPES, Y. ; ; . Analisando o Comportamento de Ambientes de Experimentação baseados em OpenFlow. In: XXII Workshop de Gerência e Operação de Redes e Serviços, 2017, Belém. WGRS 2017, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Identifying vulnerabilities in smart gric communication networks of electrical substations using GEESE 2.0",
+          "autores": "NOCE, JULIA ; LOPES, YONA ; ; ALBUQUERQUE, CELIO V. N. ;",
+          "periodico": "In: 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE), 2017, Edinburgh. 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE), 2017. p. 111.",
+          "doi": "http://dx.doi.org/10.1109/isie.2017.8001232",
+          "citacao_completa": "NOCE, JULIA ; LOPES, YONA ; ; ALBUQUERQUE, CELIO V. N. ; . Identifying vulnerabilities in smart gric communication networks of electrical substations using GEESE 2.0. In: 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE), 2017, Edinburgh. 2017 IEEE 26th International Symposium on Industrial Electronics (ISIE), 2017. p. 111."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Aumento da Confiabilidade de Esquemas de Proteção entre Subestações com uso de Redes de Comunicação Multiplexadas no Tempo",
+          "autores": "OLIVEIRA, W. ; LOPES, YONA ; MAGALHAES, F.",
+          "periodico": "In: XII Simpósio de Automação de Sistemas Elétricos, 2017, Rio de Janeiro. XII Simpósio de Automação de Sistemas Elétricos, 2017.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, W. ; LOPES, YONA ; MAGALHAES, F. . Aumento da Confiabilidade de Esquemas de Proteção entre Subestações com uso de Redes de Comunicação Multiplexadas no Tempo. In: XII Simpósio de Automação de Sistemas Elétricos, 2017, Rio de Janeiro. XII Simpósio de Automação de Sistemas Elétricos, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Comunicação Resiliente e Autonômica para Proteção e Controle das Smart Grids",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBRT), 2016, Santarém, Pará. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Comunicação Resiliente e Autonômica para Proteção e Controle das Smart Grids. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBRT), 2016, Santarém, Pará. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Tupã: Um Arcabouço de Comunicação Para o uso Racional de Energia Elétrica",
+          "autores": "LEITE, R. G. ; LOPES, Y.",
+          "periodico": "In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBRT), 2016, Santarém, Pará. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016.",
+          "doi": "",
+          "citacao_completa": "LEITE, R. G. ; LOPES, Y. . Tupã: Um Arcabouço de Comunicação Para o uso Racional de Energia Elétrica. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBRT), 2016, Santarém, Pará. XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Identificando Falhas de Segurança na Rede de Comunicação de Subestações Digitalizadas em Redes Elétricas Inteligentes Utilizando GEESE 2.0",
+          "autores": "NOCE, J. D. ; LOPES, Y. ; ;",
+          "periodico": "In: XXI Congresso Brasileiro de Automática, 2016, Vitória. XXI Congresso Brasileiro de Automática (CBA), 2016.",
+          "doi": "",
+          "citacao_completa": "NOCE, J. D. ; LOPES, Y. ; ; . Identificando Falhas de Segurança na Rede de Comunicação de Subestações Digitalizadas em Redes Elétricas Inteligentes Utilizando GEESE 2.0. In: XXI Congresso Brasileiro de Automática, 2016, Vitória. XXI Congresso Brasileiro de Automática (CBA), 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "SMARTFlow",
+          "autores": "LOPES, YONA ; ; ;",
+          "periodico": "In: the 30th Annual ACM Symposium, 2015, Salamanca. Proceedings of the 30th Annual ACM Symposium on Applied Computing - SAC '15. New York: ACM Press. p. 2212.",
+          "doi": "http://dx.doi.org/10.1145/2695664.2695733",
+          "citacao_completa": "LOPES, YONA ; ; ; . SMARTFlow. In: the 30th Annual ACM Symposium, 2015, Salamanca. Proceedings of the 30th Annual ACM Symposium on Applied Computing - SAC '15. New York: ACM Press. p. 2212."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Geese: A traffic generator for performance and security evaluation of IEC 61850 networks",
+          "autores": "LOPES, YONA ; ; ;",
+          "periodico": "In: 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE), 2015, Buzios. 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE). p. 687.",
+          "doi": "http://dx.doi.org/10.1109/isie.2015.7281552",
+          "citacao_completa": "LOPES, YONA ; ; ; . Geese: A traffic generator for performance and security evaluation of IEC 61850 networks. In: 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE), 2015, Buzios. 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE). p. 687."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Uma proposta para a Autoconfiguração de Redes de Subestação IEC 61850 baseada em OpenFlow",
+          "autores": "LOPES, YONA ; ;",
+          "periodico": "In: XIX Workshop de Gerência e Operação de Redes( WGRS) - SBRC, 2014, Florianópolis. ANAIS SBRC 2014, 2014. p. 1-14.",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA ; ; . Uma proposta para a Autoconfiguração de Redes de Subestação IEC 61850 baseada em OpenFlow. In: XIX Workshop de Gerência e Operação de Redes( WGRS) - SBRC, 2014, Florianópolis. ANAIS SBRC 2014, 2014. p. 1-14."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Reconhecimento Automático de Modulação Digital e Demodulação de sinais baseado em Redes Neurais Artiﬁciais",
+          "autores": "LOPES, YONA ; ACOSTA, D. L. ; COUTINHO, A. J. C. R. ; SOUZA, F. E. ; SILVA, J. M. M. ; PANARO, J. S. G.",
+          "periodico": "In: XXX Simpósio Brasileiro de Telecomunicações (SBrT'12), 2012, Brasília. Reconhecimento Automático de Modulação Digital e Demodulação de sinais baseado em Redes Neurais Artiﬁciais, 2012. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA ; ACOSTA, D. L. ; COUTINHO, A. J. C. R. ; SOUZA, F. E. ; SILVA, J. M. M. ; PANARO, J. S. G. . Reconhecimento Automático de Modulação Digital e Demodulação de sinais baseado em Redes Neurais Artiﬁciais. In: XXX Simpósio Brasileiro de Telecomunicações (SBrT'12), 2012, Brasília. Reconhecimento Automático de Modulação Digital e Demodulação de sinais baseado em Redes Neurais Artiﬁciais, 2012. p. 1-6."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "5G and the Power System Applications Requirements",
+          "autores": "SIQUEIRA, J. M. ; PEDREIRA, A. C. ; LOPES, Y.",
+          "periodico": "In: Paris CIGRE Session 2022, 2022, Paris. Paris CIGRE Session 2022, 2022.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; PEDREIRA, A. C. ; LOPES, Y. . 5G and the Power System Applications Requirements. In: Paris CIGRE Session 2022, 2022, Paris. Paris CIGRE Session 2022, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aplicações e Requisitos para uso da tecnologia 5G no Setor Elétrico",
+          "autores": "SIQUEIRA, J. M. ; LOPES, Y.",
+          "periodico": "In: XXVI SNPTEE, 2022. XXVI SNPTEE, 2022.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, J. M. ; LOPES, Y. . Aplicações e Requisitos para uso da tecnologia 5G no Setor Elétrico. In: XXVI SNPTEE, 2022. XXVI SNPTEE, 2022."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Smart Grid para o Sistema Elétrico - Motivação, Implantação e Desafios em TI, Redes e Telecomunicações",
+          "autores": "; LOPES, YONA ; MARTINS, J. ; ; CALHAU, F.",
+          "periodico": "In: IEEE Smart Grid Workshop - Trends & Best Practices, 2013, Salvador - BA. IEEE Smart Grid Workshop - Trends & Best Practices.",
+          "doi": "",
+          "citacao_completa": "; LOPES, YONA ; MARTINS, J. ; ; CALHAU, F. . Smart Grid para o Sistema Elétrico - Motivação, Implantação e Desafios em TI, Redes e Telecomunicações. In: IEEE Smart Grid Workshop - Trends & Best Practices, 2013, Salvador - BA. IEEE Smart Grid Workshop - Trends & Best Practices."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Gestão de Identidades em Redes de Automação de Subestações",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "In: XIX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), 2019, São Paulo. IX Workshop de Gestão de Identidades Digitais (WGID), 2019.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Gestão de Identidades em Redes de Automação de Subestações. In: XIX Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg), 2019, São Paulo. IX Workshop de Gestão de Identidades Digitais (WGID), 2019."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Monitoramento de Redes em Anel HSR: Avaliação de Desempenho e Benefícios para a Operação Confiável de Subestações Digitais",
+          "autores": "LOPES, Y. ; THEBIT, M. ; MOREIRA, T. ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A.",
+          "periodico": "2025. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; THEBIT, M. ; MOREIRA, T. ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A. . Monitoramento de Redes em Anel HSR: Avaliação de Desempenho e Benefícios para a Operação Confiável de Subestações Digitais. 2025. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Comparação de Estratégias de Monitoramento do Barramento de Processos em Redes HSR na Subestação Cerro Chato: Avaliação do Equilíbrio entre Eficácia, Impacto Operacional e Viabilidade",
+          "autores": "LOPES, Y. ; MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A.",
+          "periodico": "2025. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; SIQUEIRA, G. C. ; LEITE, M. F. A. . Comparação de Estratégias de Monitoramento do Barramento de Processos em Redes HSR na Subestação Cerro Chato: Avaliação do Equilíbrio entre Eficácia, Impacto Operacional e Viabilidade. 2025. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Método Sistemático e Métrica de Avaliação para Programas de Inclusão Feminina no Setor Elétrico: Um Estudo Pioneiro em Colaboração com Universidades e Empresas Brasileiras",
+          "autores": "LOPES, Y. ; FERNANDES, NATALIA ; SIQUEIRA, J. M. ; BRAZ, J. ; DESIRE, G. ; BITTENCOURT, A. A. ; ANDRADE, C. M. ; OLIVEIRA, C. ; MELO, M. ; BRASIL, E. M. B.",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; FERNANDES, NATALIA ; SIQUEIRA, J. M. ; BRAZ, J. ; DESIRE, G. ; BITTENCOURT, A. A. ; ANDRADE, C. M. ; OLIVEIRA, C. ; MELO, M. ; BRASIL, E. M. B. . Método Sistemático e Métrica de Avaliação para Programas de Inclusão Feminina no Setor Elétrico: Um Estudo Pioneiro em Colaboração com Universidades e Empresas Brasileiras. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Implementação e Validação de Monitoramento de Rede para Barramento de Processo na Subestação Cerro Chato: Desafios da implementação em Anel HSR",
+          "autores": "MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; LEITE, M. F. A. ; QUINTINO, T. ; LOPES, Y.",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "MOREIRA, T. ; Cruz, Arthur Augusto Pereira ; SOARES, A. A. Z. ; LEITE, M. F. A. ; QUINTINO, T. ; LOPES, Y. . Implementação e Validação de Monitoramento de Rede para Barramento de Processo na Subestação Cerro Chato: Desafios da implementação em Anel HSR. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Requisitos Mínimos de rede do SEP-N-NE-SE: A Rede de Comunicação do Maior SEP Tipo 1 do SIN",
+          "autores": "LOPES, Y.",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Requisitos Mínimos de rede do SEP-N-NE-SE: A Rede de Comunicação do Maior SEP Tipo 1 do SIN. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Distrito da Cantareira e a proposta de um Centro de Pesquisa, Desenvolvimento Tecnológico e Inovação e Transformação Digital e Transição Energética.",
+          "autores": "LOPES, Y. ; PRADO, C. A.",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; PRADO, C. A. . Distrito da Cantareira e a proposta de um Centro de Pesquisa, Desenvolvimento Tecnológico e Inovação e Transformação Digital e Transição Energética.. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Digital Transformation in Power Systems: Initiatives and Research Focus Areas at UFF",
+          "autores": "LOPES, Y.",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Digital Transformation in Power Systems: Initiatives and Research Focus Areas at UFF. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Sistema de Monitoramento SCADA para Detecções de ataques cibernéticos: Estudo de Caso do SEP N-NE-SE",
+          "autores": "SILVEIRA, PEDRO ; CUNHA NETO, H. N. ; RIBEIRO, F. B. ; LOPES, Y.",
+          "periodico": "2025. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, PEDRO ; CUNHA NETO, H. N. ; RIBEIRO, F. B. ; LOPES, Y. . Sistema de Monitoramento SCADA para Detecções de ataques cibernéticos: Estudo de Caso do SEP N-NE-SE. 2025. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Projeto 5GIRLS: A Mulher na Tecnologia 5G",
+          "autores": "LOPES, YONA",
+          "periodico": "2022. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA . Projeto 5GIRLS: A Mulher na Tecnologia 5G. 2022. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Ensino Técnico - Um primeiro passo?",
+          "autores": "LOPES, Y.",
+          "periodico": "2021. (Apresentação de Trabalho/Comunicação).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Ensino Técnico - Um primeiro passo?. 2021. (Apresentação de Trabalho/Comunicação)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comunicação para Smart Grids: Oportunidades e Desafios",
+          "autores": "LOPES, Y.",
+          "periodico": "2020. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Comunicação para Smart Grids: Oportunidades e Desafios. 2020. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Gestão de Identidades em Redes de Automação de Subestações",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Gestão de Identidades em Redes de Automação de Subestações. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desempenho e Alta Disponibilidade nas Redes de Comunicação de Subestações",
+          "autores": "LOPES, Y.",
+          "periodico": "2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Desempenho e Alta Disponibilidade nas Redes de Comunicação de Subestações. 2019. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Computação Aplicada a Redes Elétricas Inteligentes: Oportunidades e Desafios",
+          "autores": "LOPES, Y.",
+          "periodico": "2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Computação Aplicada a Redes Elétricas Inteligentes: Oportunidades e Desafios. 2019. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Smart Grid Communication: Requirements and SCADA Protocols Analysis",
+          "autores": "LOPES, Y. ; ; ; OBRACZKA, K.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; ; OBRACZKA, K. . Smart Grid Communication: Requirements and SCADA Protocols Analysis. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Teleprotection over SONET based on IEC 61850",
+          "autores": "OLIVEIRA, W. ; LOPES, YONA",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, W. ; LOPES, YONA . Teleprotection over SONET based on IEC 61850. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Power Protection Asset Manager with IEC 61850",
+          "autores": "ABI-RAMIA JR, M. A. ; ; ; LOPES, Y.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "ABI-RAMIA JR, M. A. ; ; ; LOPES, Y. . Power Protection Asset Manager with IEC 61850. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An autonomic and resilient framework for Smart Grids",
+          "autores": "LOPES, Y.",
+          "periodico": "2018. (Apresentação de Trabalho/Comunicação).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . An autonomic and resilient framework for Smart Grids. 2018. (Apresentação de Trabalho/Comunicação)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "ARES: An Autonomic and Resilient Framework for Smart Grids",
+          "autores": "LOPES, Y. ; ; ; OBRACZKA, K.",
+          "periodico": "2017. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; ; OBRACZKA, K. . ARES: An Autonomic and Resilient Framework for Smart Grids. 2017. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Comunicação Resiliente e Autonômica para Proteção e Controle das Smart Grids",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "2016. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Comunicação Resiliente e Autonômica para Proteção e Controle das Smart Grids. 2016. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Minicurso: Desafios de Segurança e Confiabilidade na Comunicação para Smart Grids",
+          "autores": "LOPES, Y. ; ; CASTRO, T. B. ; FARIAS, V. S. ;",
+          "periodico": "2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; CASTRO, T. B. ; FARIAS, V. S. ; . Minicurso: Desafios de Segurança e Confiabilidade na Comunicação para Smart Grids. 2016. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Minicurso: Geração Distribuída de Energia: Desafios e Perspectivas em Redes de Comunicação",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "2015. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Minicurso: Geração Distribuída de Energia: Desafios e Perspectivas em Redes de Comunicação. 2015. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Geese: A Traffic Generator for Performance and Security Evaluation of IEC 61850 Networks",
+          "autores": "LOPES, Y. ; ; ;",
+          "periodico": "2015. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; ; . Geese: A Traffic Generator for Performance and Security Evaluation of IEC 61850 Networks. 2015. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "SMARTFlow: A solution for autonomic management and control of communication networks for Smart Grids",
+          "autores": "LOPES, Y. ; ; ;",
+          "periodico": "2015. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; ; . SMARTFlow: A solution for autonomic management and control of communication networks for Smart Grids. 2015. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Uma proposta para a Autoconfiguração de Redes de Subestação IEC 61850 baseada em OpenFlow",
+          "autores": "LOPES, Y. ; ;",
+          "periodico": "2014. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; . Uma proposta para a Autoconfiguração de Redes de Subestação IEC 61850 baseada em OpenFlow. 2014. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Minicurso: Smart Grid para o Sistema Elétrico - Motivação, Implantação e Desafios em TI, Redes e Telecomunicações",
+          "autores": "; LOPES, Y. ; MARTINS, J. S. B. ; CALHAU, F. ;",
+          "periodico": "2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "; LOPES, Y. ; MARTINS, J. S. B. ; CALHAU, F. ; . Minicurso: Smart Grid para o Sistema Elétrico - Motivação, Implantação e Desafios em TI, Redes e Telecomunicações. 2013. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Minicurso: Smart Grid e IEC 61850: Novos Desaﬁos em Redes e Telecomunicações para o Sistema Elétrico",
+          "autores": "LOPES, Y. ; FRANCO, R. ; ACOSTA, D. L. ; SANTOS, M. ; CALHAU, F. ; ; MARTINS, J. S. B. ;",
+          "periodico": "2012. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; FRANCO, R. ; ACOSTA, D. L. ; SANTOS, M. ; CALHAU, F. ; ; MARTINS, J. S. B. ; . Minicurso: Smart Grid e IEC 61850: Novos Desaﬁos em Redes e Telecomunicações para o Sistema Elétrico. 2012. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Novas Técnicas de Autoconfiguração para redes locais baseadas na norma IEC 61850",
+          "autores": "LOPES, Y.",
+          "periodico": "2012. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Novas Técnicas de Autoconfiguração para redes locais baseadas na norma IEC 61850. 2012. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Estudo da Matriz de Serviços da rede PSR de Furnas",
+          "autores": "LOPES, Y.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Estudo da Matriz de Serviços da rede PSR de Furnas. 2011. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "VI Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos: Sistema inteligente de monitoramento de energia baseado em rede de sensores sem fio para Smart Grid",
+          "autores": "MARTINS, W. S. O. ; MENTZINGEN, F. R. ; ALVES, R. C. ; SOUZA, G. C. ; LOPES, Y.",
+          "periodico": "Rio de Janeiro 2017 (Anais).",
+          "doi": "",
+          "citacao_completa": "MARTINS, W. S. O. ; MENTZINGEN, F. R. ; ALVES, R. C. ; SOUZA, G. C. ; LOPES, Y. . VI Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos: Sistema inteligente de monitoramento de energia baseado em rede de sensores sem fio para Smart Grid. Rio de Janeiro 2017 (Anais)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "V Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos: TUPÃ: Um Arcabouço de Comunicação para o uso Racional de Energia Elétrica",
+          "autores": "LEITE, R. G. ; LOPES, YONA",
+          "periodico": "Rio de Janeiro 2016 (Anais).",
+          "doi": "",
+          "citacao_completa": "LEITE, R. G. ; LOPES, YONA . V Prêmio Crea-RJ de Trabalhos Científicos e Tecnológicos: TUPÃ: Um Arcabouço de Comunicação para o uso Racional de Energia Elétrica. Rio de Janeiro 2016 (Anais)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A2 - Introdução a Automação de Subestações- SEL U 2015 (Desenvolvimento e revisão de Material de Curso).",
+          "autores": "LOPES, YONA",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA . A2 - Introdução a Automação de Subestações- SEL U 2015 (Desenvolvimento e revisão de Material de Curso)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A4- Introdução à Norma IEC 61850 - SEL U 2015 (Desenvolvimento e revisão de Material de Curso).",
+          "autores": "LOPES, YONA",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA . A4- Introdução à Norma IEC 61850 - SEL U 2015 (Desenvolvimento e revisão de Material de Curso)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A5- Prático com a Norma IEC 61850 - SEL U 2015 (Desenvolvimento e revisão de Material de Curso).",
+          "autores": "LOPES, YONA",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA . A5- Prático com a Norma IEC 61850 - SEL U 2015 (Desenvolvimento e revisão de Material de Curso)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Assessor Científico de Comitê de Estudos CE-D2 (Sistemas de Informação e Telecomunicação para Sistemas Elétricos)",
+          "autores": "LOPES, Y.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Assessor Científico de Comitê de Estudos CE-D2 (Sistemas de Informação e Telecomunicação para Sistemas Elétricos). 2021."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Componentes ARES",
+          "autores": "LOPES, Y. ; ; ; OBRACZKA, K.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; ; ; OBRACZKA, K. . Componentes ARES. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "GEESE 2.0",
+          "autores": "NOCE, J. D. ; LOPES, Y. ; ;",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "NOCE, J. D. ; LOPES, Y. ; ; . GEESE 2.0. 2017."
+        },
+        {
+          "ano": 2013,
+          "titulo": "GEESE",
+          "autores": "LOPES, Y.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . GEESE. 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "SMARTFlow",
+          "autores": "LOPES, Y. ;",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; . SMARTFlow. 2013."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Revisão Crítica: XIX ERIAC (Encontro Regional Ibero-americano do CIGRE)",
+          "autores": "LOPES, Y.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: XIX ERIAC (Encontro Regional Ibero-americano do CIGRE). 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisão Crítica: VIII Simpósio Brasileiro de Sistemas Elétricos (SBSE)",
+          "autores": "LOPES, Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: VIII Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisão Crítica: The 27th International Conference on Systems, Signals and Image Processing",
+          "autores": "LOPES, Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: The 27th International Conference on Systems, Signals and Image Processing. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisão Crítica: XXIII Congresso Brasileiro de Automática",
+          "autores": "LOPES, Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: XXIII Congresso Brasileiro de Automática. 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Revisão Crítica: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (CBQEE)",
+          "autores": "LOPES, Y.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (CBQEE). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Revisão Crítica: XIX Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg) - WGID",
+          "autores": "LOPES, Y.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: XIX Simpósio Brasileiro em Segurança da Informação e de Sistemas Computacionais (SBSeg) - WGID. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisão Crítica: Simpósio Brasileiro de Sistemas Elétricos (SBSE)",
+          "autores": "LOPES, Y.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Revisão Crítica: Simpósio Brasileiro de Sistemas Elétricos (SBSE). 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Elaboração/Revisão de PPC (Projeto Pedagógico de Curso) - Pós-Graduação (Lato Sensu) em Engenharia de Automação de Sistemas Elétricos.",
+          "autores": "LOPES, Y.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Elaboração/Revisão de PPC (Projeto Pedagógico de Curso) - Pós-Graduação (Lato Sensu) em Engenharia de Automação de Sistemas Elétricos.. 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Elaboração/Revisão de material técnico",
+          "autores": "LOPES, Y.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Elaboração/Revisão de material técnico. 2014."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Mesa Redonda: Ser Mulher Cientista da Computação: trajetórias de sucesso e perspectivas",
+          "autores": "LOPES, YONA ; BRAGANHOLO, V. ; SALGADO, L. C. C. ; AVELINO, M.",
+          "periodico": "2023. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "LOPES, YONA ; BRAGANHOLO, V. ; SALGADO, L. C. C. ; AVELINO, M. . Mesa Redonda: Ser Mulher Cientista da Computação: trajetórias de sucesso e perspectivas. 2023. (Programa de rádio ou TV/Mesa redonda)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Mulheres em todos os Espaços",
+          "autores": "LOPES, Y. ; COUTINHO, A. C. ; LETA, F.",
+          "periodico": "2021. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; COUTINHO, A. C. ; LETA, F. . Mulheres em todos os Espaços. 2021. (Programa de rádio ou TV/Mesa redonda)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Workshop sobre Aplicações Práticas do Barramento de Processo - CE B5",
+          "autores": "LOPES, Y. ; KREFTA, G. ; REBOLLAR, G. ; ABOUD, R.",
+          "periodico": "2019. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. ; KREFTA, G. ; REBOLLAR, G. ; ABOUD, R. . Workshop sobre Aplicações Práticas do Barramento de Processo - CE B5. 2019. (Programa de rádio ou TV/Mesa redonda)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Educação & Carreira",
+          "autores": "LOPES, Y.",
+          "periodico": "2015. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Educação & Carreira. 2015. (Programa de rádio ou TV/Entrevista)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Tecnologia SDN promove o fim da escuridão na rede de comunicação",
+          "autores": "LOPES, Y.",
+          "periodico": "2014. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Tecnologia SDN promove o fim da escuridão na rede de comunicação. 2014. (Programa de rádio ou TV/Entrevista)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Curso de Especialização em Automação de Sistemas Elétricos ? CEASE (AS 208 ? Protocolos de Comunicação e Norma IEC 61850)",
+          "autores": "LOPES, Y.",
+          "periodico": "2015. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . Curso de Especialização em Automação de Sistemas Elétricos ? CEASE (AS 208 ? Protocolos de Comunicação e Norma IEC 61850). 2015. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A2 - Introdução à Automação de Subestações",
+          "autores": "LOPES, Y.",
+          "periodico": "2015. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . A2 - Introdução à Automação de Subestações. 2015. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A5 - Prático com a Norma IEC 61850",
+          "autores": "LOPES, Y.",
+          "periodico": "2015. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . A5 - Prático com a Norma IEC 61850. 2015. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A4 - Introdução à Norma IEC 61850",
+          "autores": "LOPES, Y.",
+          "periodico": "2015. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "LOPES, Y. . A4 - Introdução à Norma IEC 61850. 2015. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Performance assessment of R-GOOSE over 5G networks for mission-critical power system applications",
+          "membros": "LOPES, Y. ; CASTELLANOS, P. V. G.; ISSICABA, D.; FRAIDENRAICH, G.",
+          "candidato": "Joyce Meireles Siqueira",
+          "citacao_completa": "LOPES, Y. ; CASTELLANOS, P. V. G.; ISSICABA, D.; FRAIDENRAICH, G.. Participação em banca de Joyce Meireles Siqueira. Performance assessment of R-GOOSE over 5G networks for mission-critical power system applications. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modelagem de fluxos de dados e atraso fim a fim em redes de subestações digitais: uma extensão de modelo da norma IEC 61850",
+          "membros": "; LOPES, Y. ; MEDEIROS, DIANNE S. V.; CUNHA NETO, H. N.",
+          "candidato": "Nícolas Fulli Martins da Silva",
+          "citacao_completa": "; LOPES, Y. ; MEDEIROS, DIANNE S. V.; CUNHA NETO, H. N.. Participação em banca de Nícolas Fulli Martins da Silva. Modelagem de fluxos de dados e atraso fim a fim em redes de subestações digitais: uma extensão de modelo da norma IEC 61850. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": "SCADA-Based Detection Framework: Enhancing Cybersecurity in IEC 61850-based Substations",
+          "membros": "LOPES, Y. ; ; CUNHA NETO, H. N.; SILVA, EDELBERTO FRANCO; CARVALHO, L. K.",
+          "candidato": "Pedro da Silveira Santana Pinheiro da Silva",
+          "citacao_completa": "LOPES, Y. ; ; CUNHA NETO, H. N.; SILVA, EDELBERTO FRANCO; CARVALHO, L. K.. Participação em banca de Pedro da Silveira Santana Pinheiro da Silva. SCADA-Based Detection Framework: Enhancing Cybersecurity in IEC 61850-based Substations. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Proposta de Modelo de Monitoramento Escalável para Integração de Recursos Energéticos Distribuídos ao Sistema Elétrico com Base na Norma IEC 61850",
+          "membros": "LOPES, Y. ; DIAS, B. H.; SCHETINGER, A. M.; PINTO FILHO, G. F.; DIAS, D. H. N.",
+          "candidato": "Izabella Cozendey Pitta",
+          "citacao_completa": "LOPES, Y. ; DIAS, B. H.; SCHETINGER, A. M.; PINTO FILHO, G. F.; DIAS, D. H. N.. Participação em banca de Izabella Cozendey Pitta. Proposta de Modelo de Monitoramento Escalável para Integração de Recursos Energéticos Distribuídos ao Sistema Elétrico com Base na Norma IEC 61850. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Proteção de Barras em Subestações Digitais: Uma Abordagem Baseada em Revisão Sistemática, Modelo de Classificação Conceitual e Análise de Integridade frente à Degradação de Rede",
+          "membros": "LOPES, Y. ; LOPES., F. V.;",
+          "candidato": "Mayara Helena Moreira Nogueira dos Santos",
+          "citacao_completa": "LOPES, Y. ; LOPES., F. V.; . Participação em banca de Mayara Helena Moreira Nogueira dos Santos. Proteção de Barras em Subestações Digitais: Uma Abordagem Baseada em Revisão Sistemática, Modelo de Classificação Conceitual e Análise de Integridade frente à Degradação de Rede. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Metaverse Framework for Power Systems: Proposal and Case Study of a Solar Power Plant",
+          "membros": "LOPES, Y. ; ; FIGUEIREDO, G.; DIAS, D. H. N.; CUNHA NETO, H. N.",
+          "candidato": "Carolina Cunha de Menezes",
+          "citacao_completa": "LOPES, Y. ; ; FIGUEIREDO, G.; DIAS, D. H. N.; CUNHA NETO, H. N.. Participação em banca de Carolina Cunha de Menezes. Metaverse Framework for Power Systems: Proposal and Case Study of a Solar Power Plant. 2024. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": "The Use of Sampled Values in Line Differential Protection Schemes",
+          "membros": "LOPES, YONA ; ; TAVARES, M. C. D.",
+          "candidato": "Matheus Felipe Ayello Leite",
+          "citacao_completa": "LOPES, YONA ; ; TAVARES, M. C. D.. Participação em banca de Matheus Felipe Ayello Leite. The Use of Sampled Values in Line Differential Protection Schemes. 2023. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Inserção de Veículos Elétricos no Planejamento da Expansão de Sistemas de Energia: uma Revisão Sistemática da Literatura Visando um Melhor Dimensionamento da Demanda",
+          "membros": "BORBA, B. S. M. C.; LOPES, Y. ; ; CANHA, L. N.",
+          "candidato": "Rachel da Costa Oliveira Santos",
+          "citacao_completa": "BORBA, B. S. M. C.; LOPES, Y. ; ; CANHA, L. N.. Participação em banca de Rachel da Costa Oliveira Santos. Inserção de Veículos Elétricos no Planejamento da Expansão de Sistemas de Energia: uma Revisão Sistemática da Literatura Visando um Melhor Dimensionamento da Demanda. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Proteção de Perda de Sincronismo Integrada: uma nova abordagem para Aumento da Confiabilidade Operativa no Sistema Elétrico de Potência Interligado",
+          "membros": "LOPES, Y. ; ; LOPES., F. V.",
+          "candidato": "Ronald Serra Jogaib Cabo",
+          "citacao_completa": "LOPES, Y. ; ; LOPES., F. V.. Participação em banca de Ronald Serra Jogaib Cabo. Proteção de Perda de Sincronismo Integrada: uma nova abordagem para Aumento da Confiabilidade Operativa no Sistema Elétrico de Potência Interligado. 2022. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Estudos baseados na IEC 61850 90-17 para monitoramento e proteção em eventos de qualidade de energia em Geração Distribuída.",
+          "membros": "LOPES, Y. ; ; OLIVEIRA, J. G.; HENRIQUES, H. O.",
+          "candidato": "Nathália Cristina Valadão Duarte",
+          "citacao_completa": "LOPES, Y. ; ; OLIVEIRA, J. G.; HENRIQUES, H. O.. Participação em banca de Nathália Cristina Valadão Duarte. Estudos baseados na IEC 61850 90-17 para monitoramento e proteção em eventos de qualidade de energia em Geração Distribuída.. 2022. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Avaliação Crítica da Qualidade da Energia utilizando POWER BI: Estudo de Caso",
+          "membros": "; LOPES, Y. ; LIMA, A. G. G.; GODOY, R. B.",
+          "candidato": "Guilherme Moreira Quintanilha",
+          "citacao_completa": "; LOPES, Y. ; LIMA, A. G. G.; GODOY, R. B.. Participação em banca de Guilherme Moreira Quintanilha. Avaliação Crítica da Qualidade da Energia utilizando POWER BI: Estudo de Caso. 2021. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Desenvolvimento de Amplificador de Potência para Testes de Proteção Fasorial de Sistema de Potência Trifásico",
+          "membros": "; ZANGHI, R.; LOPES, Y. ; TAVARES, M. C. D.",
+          "candidato": "Paulo Henrique Barbosa de Souza Pinheiro",
+          "citacao_completa": "; ZANGHI, R.; LOPES, Y. ; TAVARES, M. C. D.. Participação em banca de Paulo Henrique Barbosa de Souza Pinheiro. Desenvolvimento de Amplificador de Potência para Testes de Proteção Fasorial de Sistema de Potência Trifásico. 2021. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e de Telecomunicações (PPGEET)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2019,
+          "titulo": "3AS: Autenticação, Autorização e Auditoria para Smart Grids",
+          "membros": "; ; LOPES, YONA ; MORAES, I. M.; REZENDE, J. F.",
+          "candidato": "Arthur Albuquerque Zopellaro Soares",
+          "citacao_completa": "; ; LOPES, YONA ; MORAES, I. M.; REZENDE, J. F.. Participação em banca de Arthur Albuquerque Zopellaro Soares. 3AS: Autenticação, Autorização e Auditoria para Smart Grids. 2019. Dissertação (Mestrado em CIÊNCIAS DA COMPUTAÇÃO) - Universidade Federal Fluminense."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "APRIMORAMENTO DA RESILIÊNCIA DE UNIDADES DE PROTEÇÃO POR MEIO DA MITIGAÇÃO DOS IMPACTOS DA PERDA DE MENSAGENS SAMPLED VALUES NO CONTEXTO DA NORMA IEC 61850",
+          "membros": "MORAIS, A. P.; CARDOSO JUNIOR, G.; GUTIERRES, L. F. F.; NETTO, U. C.; LOPES, Y.",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "MORAIS, A. P.; CARDOSO JUNIOR, G.; GUTIERRES, L. F. F.; NETTO, U. C.; LOPES, Y. . Participação em banca de Ângelo Felipe Sartori. APRIMORAMENTO DA RESILIÊNCIA DE UNIDADES DE PROTEÇÃO POR MEIO DA MITIGAÇÃO DOS IMPACTOS DA PERDA DE MENSAGENS SAMPLED VALUES NO CONTEXTO DA NORMA IEC 61850. 2025. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "DT-Smart: A Digital Twin Framework for Digital Substation Communication based on IEC 61850",
+          "membros": "; LOPES, Y. ; ; ALBUQUERQUE, C. V. N.; PASSOS, DIEGO; MORAES, I. M.; MOSSE, D.",
+          "candidato": "Arthur Albuquerque Zopellaro Soares",
+          "citacao_completa": "; LOPES, Y. ; ; ALBUQUERQUE, C. V. N.; PASSOS, DIEGO; MORAES, I. M.; MOSSE, D.. Participação em banca de Arthur Albuquerque Zopellaro Soares. DT-Smart: A Digital Twin Framework for Digital Substation Communication based on IEC 61850. 2025. Tese (Doutorado em Pós-Graduação em Computação da UFF) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Contributions for Ground Distance Protection in Nonhomogeneous Power Systems",
+          "membros": "FRANÇA, BRUNO; LOPES, Y. ; JOHNSON, B. K.; ; SILVA, K. M. E.; LOPES., F. V.; GUZMAN, A.",
+          "candidato": "Paulo Henrique Barbosa de Souza Pinheiro",
+          "citacao_completa": "FRANÇA, BRUNO; LOPES, Y. ; JOHNSON, B. K.; ; SILVA, K. M. E.; LOPES., F. V.; GUZMAN, A.. Participação em banca de Paulo Henrique Barbosa de Souza Pinheiro. Contributions for Ground Distance Protection in Nonhomogeneous Power Systems. 2025. Tese (Doutorado em Doutorado em Engenharia Elétrica e de Telecomunicações) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ereno: an Extensible Tool for Generating Realistic IEC 61850 Intrusion Detection Datasets",
+          "membros": "ALBUQUERQUE, C. V. N.; PASSOS, D. G.; MOSSE, D.; MORAES, I. M.; RUBINSTEIN, M. G.; KAZIENKO, J. F.; LOPES, Y.",
+          "candidato": "Silvio Ereno Quincozes",
+          "citacao_completa": "ALBUQUERQUE, C. V. N.; PASSOS, D. G.; MOSSE, D.; MORAES, I. M.; RUBINSTEIN, M. G.; KAZIENKO, J. F.; LOPES, Y. . Participação em banca de Silvio Ereno Quincozes. Ereno: an Extensible Tool for Generating Realistic IEC 61850 Intrusion Detection Datasets. 2022. Tese (Doutorado em Doutorado em Computação) - Universidade Federal Fluminense."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "CODIEC: Um novo método para comissionamento de subestações digitais baseadas na norma IEC 61850",
+          "membros": "LOPES, Y. ; ; MORAIS, A. P.; OLIVEIRA, A. L.; LIMA JUNIOR, J. R.",
+          "candidato": "Matheus Felipe Ayello Leite",
+          "citacao_completa": "LOPES, Y. ; ; MORAIS, A. P.; OLIVEIRA, A. L.; LIMA JUNIOR, J. R.. Participação em banca de Matheus Felipe Ayello Leite. CODIEC: Um novo método para comissionamento de subestações digitais baseadas na norma IEC 61850. 2025. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica e de Telecomunicações) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DT-Smart: A Digital Twin Solution for Digital Substation Communication Based on IEC 61850",
+          "membros": "; ; LOPES, YONA ; ALBUQUERQUE, C. V. N.; MOSSE, D.",
+          "candidato": "Arthur Albuquerque Zopellaro Soares",
+          "citacao_completa": "; ; LOPES, YONA ; ALBUQUERQUE, C. V. N.; MOSSE, D.. Participação em banca de Arthur Albuquerque Zopellaro Soares. DT-Smart: A Digital Twin Solution for Digital Substation Communication Based on IEC 61850. 2023. Exame de qualificação (Doutorando em Doutorado em Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Proteção Diferencial de Barra Centralizada Imune a Pacotes Sampled Values Corrompidos: Uma Abordagem Fundamentada na Norma IEC 61850",
+          "membros": "MORAIS, A. P.; LOPES, Y. ; GUTIERRES, L. F. F.; OLIVEIRA, A. L.; NETTO, U. C.",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "MORAIS, A. P.; LOPES, Y. ; GUTIERRES, L. F. F.; OLIVEIRA, A. L.; NETTO, U. C.. Participação em banca de Ângelo Felipe Sartori. Proteção Diferencial de Barra Centralizada Imune a Pacotes Sampled Values Corrompidos: Uma Abordagem Fundamentada na Norma IEC 61850. 2023. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Detecção e Prevenção de Intrusões em Subestações Elétricas Inteligentes",
+          "membros": "PASSOS, DIEGO; MORAES, I. M.; MOSSE, D.; RUBINSTEIN, M. G.; LOPES, Y.",
+          "candidato": "Silvio Ereno Quincozes",
+          "citacao_completa": "PASSOS, DIEGO; MORAES, I. M.; MOSSE, D.; RUBINSTEIN, M. G.; LOPES, Y. . Participação em banca de Silvio Ereno Quincozes. Detecção e Prevenção de Intrusões em Subestações Elétricas Inteligentes. 2019. Exame de qualificação (Doutorando em Doutorado em Computação) - Universidade Federal Fluminense."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Influência do RSTP na transmissão de mensagens GOOSE",
+          "membros": "LOPES, Y. ; LIMA, P.",
+          "candidato": "Wellington Henrique de Bessa Bortolozo",
+          "citacao_completa": "LOPES, Y. ; LIMA, P.. Participação em banca de Wellington Henrique de Bessa Bortolozo. Influência do RSTP na transmissão de mensagens GOOSE. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Retrofit de Redes IEC 61850 Utilizando Redes Definidas por Software",
+          "membros": "OLIVEIRA, W.; LOPES, Y.",
+          "candidato": "Felipe Serazzi Melchert",
+          "citacao_completa": "OLIVEIRA, W.; LOPES, Y. . Participação em banca de Felipe Serazzi Melchert. Retrofit de Redes IEC 61850 Utilizando Redes Definidas por Software. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Ferrari",
+          "membros": "LOPES, Y. ; OLIVEIRA, W.",
+          "candidato": "Vinicius V",
+          "citacao_completa": "LOPES, Y. ; OLIVEIRA, W.. Participação em banca de Vinicius V. Ferrari. Proteção Adaptativa Dinâmica baseada na Norma IEC 61850: Sistema Industrial com Unidades de Cogeração. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise da Robustez na Comunicação entre IED e Supervisório Utilizando MMS",
+          "membros": "LOPES, Y. ; LOLLO, F.",
+          "candidato": "Luís Cláudio Barbosa de Melo",
+          "citacao_completa": "LOPES, Y. ; LOLLO, F.. Participação em banca de Luís Cláudio Barbosa de Melo. Análise da Robustez na Comunicação entre IED e Supervisório Utilizando MMS. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Redes em Anel com Uso de Mensagens GOOSE: Análise de Latência e Tempos de Recomposição",
+          "membros": "OLIVEIRA, W.; LOPES, YONA",
+          "candidato": "João Vitor Leal Neto",
+          "citacao_completa": "OLIVEIRA, W.; LOPES, YONA . Participação em banca de João Vitor Leal Neto. Redes em Anel com Uso de Mensagens GOOSE: Análise de Latência e Tempos de Recomposição. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Proposição de Modelagem de um esquema de Rejeição de Cargas Industrial Utilizando a Norma IEC 61850-7-420",
+          "membros": "LOPES, YONA ; MARRA, A. F.",
+          "candidato": "Celso Augusto Ribeiro de Carvalho Neto",
+          "citacao_completa": "LOPES, YONA ; MARRA, A. F.. Participação em banca de Celso Augusto Ribeiro de Carvalho Neto. Proposição de Modelagem de um esquema de Rejeição de Cargas Industrial Utilizando a Norma IEC 61850-7-420. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Uso de Redes Sem Fio Mesh Para Tráfego do Protocolo GOOSE",
+          "membros": "LOPES, YONA ; CARDOSO, R.",
+          "candidato": "Paulo Vitor Magacho da Silva",
+          "citacao_completa": "LOPES, YONA ; CARDOSO, R.. Participação em banca de Paulo Vitor Magacho da Silva. Uso de Redes Sem Fio Mesh Para Tráfego do Protocolo GOOSE. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Utilização de conceitos da Norma IEC 61850 para evitar o trip Indevido em Redes de Distribuição com GD do Tipo Fotovoltaica",
+          "membros": "LOPES, YONA ; MARRA, A. F.",
+          "candidato": "Giuliano Lucio Nascimento Rocha",
+          "citacao_completa": "LOPES, YONA ; MARRA, A. F.. Participação em banca de Giuliano Lucio Nascimento Rocha. Utilização de conceitos da Norma IEC 61850 para evitar o trip Indevido em Redes de Distribuição com GD do Tipo Fotovoltaica. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Mecanismo de Segurança em Subestações baseado em SDN e Mensagens MMS",
+          "membros": "LOPES, YONA ; GIMENEZ, E. J. C.",
+          "candidato": "Antonio Carlos Pigossi Júnior",
+          "citacao_completa": "LOPES, YONA ; GIMENEZ, E. J. C.. Participação em banca de Antonio Carlos Pigossi Júnior. Mecanismo de Segurança em Subestações baseado em SDN e Mensagens MMS. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Redução de Fator de Impacto com Aplicação de Sistemas de Comunicação em Redes de Distribuição.",
+          "membros": "LOPES, YONA ; ROCHA, G.",
+          "candidato": "Camila Oliveira",
+          "citacao_completa": "LOPES, YONA ; ROCHA, G.. Participação em banca de Camila Oliveira. .Redução de Fator de Impacto com Aplicação de Sistemas de Comunicação em Redes de Distribuição.. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Aplicação dos Métodos RSTP, PRP e HSR e Redes SDN em Subestações: Uma Análise Comparativa",
+          "membros": "LOPES, Y.",
+          "candidato": "Bruno Cesar Vitti",
+          "citacao_completa": "LOPES, Y. . Participação em banca de Bruno Cesar Vitti. Aplicação dos Métodos RSTP, PRP e HSR e Redes SDN em Subestações: Uma Análise Comparativa. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Automação de Sistemas Elétricos Pela Norma IEC 61850",
+          "membros": "LOLLO, F.; LOPES, Y.",
+          "candidato": "Renan Augusto de Oliveira",
+          "citacao_completa": "LOLLO, F.; LOPES, Y. . Participação em banca de Renan Augusto de Oliveira. Automação de Sistemas Elétricos Pela Norma IEC 61850. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Descarte de Carga por nível de Subfrequência utilizando a norma IEC 61850",
+          "membros": "FRANCO., P. H.; LOPES, Y.",
+          "candidato": "Daniel Betti Rocco",
+          "citacao_completa": "FRANCO., P. H.; LOPES, Y. . Participação em banca de Daniel Betti Rocco. Descarte de Carga por nível de Subfrequência utilizando a norma IEC 61850. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Adequação dos Projetos para Controle de Subestações de Transmissão e Distribuição de Energia Elétrica à Norma IEC 61850",
+          "membros": "LOLLO, F.; LOPES, Y.",
+          "candidato": "Rodrigo Lúcio Silva",
+          "citacao_completa": "LOLLO, F.; LOPES, Y. . Participação em banca de Rodrigo Lúcio Silva. Adequação dos Projetos para Controle de Subestações de Transmissão e Distribuição de Energia Elétrica à Norma IEC 61850. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Redes Definidas por Software como Solução Confiável para Comunicação do Barramento de Processo da IEC 61850",
+          "membros": "LOPES, Y.",
+          "candidato": "André Furquim Marra",
+          "citacao_completa": "LOPES, Y. . Participação em banca de André Furquim Marra. Redes Definidas por Software como Solução Confiável para Comunicação do Barramento de Processo da IEC 61850. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Aumento de Confiabilidade de Esquemas de Proteção entre Subestações com uso de Redes de Comunicação Multiplexadas no Tempo",
+          "membros": "LOPES, Y.",
+          "candidato": "Wellington Oliveira",
+          "citacao_completa": "LOPES, Y. . Participação em banca de Wellington Oliveira. Aumento de Confiabilidade de Esquemas de Proteção entre Subestações com uso de Redes de Comunicação Multiplexadas no Tempo. 2016. Monografia (Aperfeiçoamento/Especialização em Especialização em Automação de Sistemas Elétricos) - Instituto Nacional de Telecomunicações."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".Metodologia para Modelagem de Subestações Digitais baseadas na Norma IEC 61850: Estudo de Caso da Subestação Digital Lorena",
+          "membros": "LOPES, Y. ; SANTOS, M. H.; AUGUSTO, A. A.;",
+          "candidato": "Giovanna Carvalho de Siqueira",
+          "citacao_completa": "LOPES, Y. ; SANTOS, M. H.; AUGUSTO, A. A.; . Participação em banca de Giovanna Carvalho de Siqueira.Metodologia para Modelagem de Subestações Digitais baseadas na Norma IEC 61850: Estudo de Caso da Subestação Digital Lorena. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Detecção de Ciberataques em Redes de Subestação: Um Modelo Otimizado utilizando os Requisitos de Monitoramento do ONS",
+          "membros": "; LOPES, Y. ; MEDEIROS, D. S. V.; OLIVEIRA, N. R.",
+          "candidato": "Fábio Bruns Ribeiro",
+          "citacao_completa": "; LOPES, Y. ; MEDEIROS, D. S. V.; OLIVEIRA, N. R.. Participação em banca de Fábio Bruns Ribeiro.Detecção de Ciberataques em Redes de Subestação: Um Modelo Otimizado utilizando os Requisitos de Monitoramento do ONS. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Gestão de Ativos em um Ponto de Entrega de Gás Natural: Supervisão e Modelagem de Dados com IEC 61850",
+          "membros": "LOPES, Y. ; SANTOS, M. H.; PINHO, A. C.; DIAS, D. H. N.",
+          "candidato": "Nájila Siqueira Martins",
+          "citacao_completa": "LOPES, Y. ; SANTOS, M. H.; PINHO, A. C.; DIAS, D. H. N.. Participação em banca de Nájila Siqueira Martins.Gestão de Ativos em um Ponto de Entrega de Gás Natural: Supervisão e Modelagem de Dados com IEC 61850. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".A Importância da Seletividade em Proteção de Redes de Distribuição: Estudo de Caso no Alimentador MAR03 da Subestação 13,8 kV Maricá/RJ",
+          "membros": "LOPES, Y. ; LEITE, M. F. A.; ;",
+          "candidato": "Lucas Figueiredo",
+          "citacao_completa": "LOPES, Y. ; LEITE, M. F. A.; ; . Participação em banca de Lucas Figueiredo.A Importância da Seletividade em Proteção de Redes de Distribuição: Estudo de Caso no Alimentador MAR03 da Subestação 13,8 kV Maricá/RJ. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Gamificação baseada em comportamento do usuário para otimização do sistema MOVE UFF de compartilhamento de bikes elétricas.",
+          "membros": "; LOPES, Y. ; ; SEIXAS, F. L.",
+          "candidato": "Bruno Augusto Rodrigues de Mello Moreira",
+          "citacao_completa": "; LOPES, Y. ; ; SEIXAS, F. L.. Participação em banca de Bruno Augusto Rodrigues de Mello Moreira.Gamificação baseada em comportamento do usuário para otimização do sistema MOVE UFF de compartilhamento de bikes elétricas.. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Implementação do sistema de armazenamento de dados para o projeto MOVE UFF: uma abordagem com blockchain e LGPD",
+          "membros": "; MEDEIROS, D. S. V.; LOPES, Y.",
+          "candidato": "Larissa Moraes Miranda e Paulo Victor Oliveira da Silva",
+          "citacao_completa": "; MEDEIROS, D. S. V.; LOPES, Y. . Participação em banca de Larissa Moraes Miranda e Paulo Victor Oliveira da Silva.Implementação do sistema de armazenamento de dados para o projeto MOVE UFF: uma abordagem com blockchain e LGPD. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Modernização de Centros de Operação do Sistema Interligado Nacional",
+          "membros": "LOPES, Y. ; ; LEITE, M. F. A.",
+          "candidato": "Bruno Lemos Silva",
+          "citacao_completa": "LOPES, Y. ; ; LEITE, M. F. A.. Participação em banca de Bruno Lemos Silva.Modernização de Centros de Operação do Sistema Interligado Nacional. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Impacto das Métricas de comunicação na atuação da proteção diferencial de linha baseada em IEC 61850.",
+          "membros": "; LOPES, Y. ; ; SILVA, J. M. M.",
+          "candidato": "Nicolas Fulli Martins da Silva",
+          "citacao_completa": "; LOPES, Y. ; ; SILVA, J. M. M.. Participação em banca de Nicolas Fulli Martins da Silva.Impacto das Métricas de comunicação na atuação da proteção diferencial de linha baseada em IEC 61850.. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Proposta e Prova de Conceito baseada na IEC 61850-90-8 para Mobilidade Elétrica na UFF",
+          "membros": "LOPES, Y. ; BORBA, B. S. M. C.; DIAS, D. H. N.",
+          "candidato": "Izabella Cozendey Pitta",
+          "citacao_completa": "LOPES, Y. ; BORBA, B. S. M. C.; DIAS, D. H. N.. Participação em banca de Izabella Cozendey Pitta.Proposta e Prova de Conceito baseada na IEC 61850-90-8 para Mobilidade Elétrica na UFF. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise da viabilidade económica de um projeto Híbrido Offshore",
+          "membros": "BORBA, B. S. M. C.; LOPES, Y. ; GOULARD, F.",
+          "candidato": "Yasmin Caídas Gomes",
+          "citacao_completa": "BORBA, B. S. M. C.; LOPES, Y. ; GOULARD, F.. Participação em banca de Yasmin Caídas Gomes.Análise da viabilidade económica de um projeto Híbrido Offshore. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Métodos de Testes em Sistemas Automatizados em Subestações de Energia",
+          "membros": "; ; LOPES, Y.",
+          "candidato": "Vitor da Silva Soares",
+          "citacao_completa": "; ; LOPES, Y. . Participação em banca de Vitor da Silva Soares.Métodos de Testes em Sistemas Automatizados em Subestações de Energia. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise e Simulação das Funções Anti-Ilhamento Aplicadas em Sistemas com Geração Distribuída em Média Tensão",
+          "membros": "; LOPES, Y. ; OLIVEIRA, C. H. V. R.; BIAZ, B. M.",
+          "candidato": "Bruno Martins de Biaz",
+          "citacao_completa": "; LOPES, Y. ; OLIVEIRA, C. H. V. R.; BIAZ, B. M.. Participação em banca de Bruno Martins de Biaz.Análise e Simulação das Funções Anti-Ilhamento Aplicadas em Sistemas com Geração Distribuída em Média Tensão. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Sistema de Monitoramento Integrado baseado nos Novos Procedimentos de Rede do ONS para Adequação a Subestações Digitais",
+          "membros": "LOPES, Y. ; PINHO, A. C.; OLIVEIRA, D. B.",
+          "candidato": "Mayara Helena Moreira Nogueira dos Santos",
+          "citacao_completa": "LOPES, Y. ; PINHO, A. C.; OLIVEIRA, D. B.. Participação em banca de Mayara Helena Moreira Nogueira dos Santos.Sistema de Monitoramento Integrado baseado nos Novos Procedimentos de Rede do ONS para Adequação a Subestações Digitais. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Modernização de Centros de Operação do Sistema Interligado Nacional",
+          "membros": "LOPES, Y. ; ; LEITE, M. F. A.",
+          "candidato": "Bruno Lemos Silva",
+          "citacao_completa": "LOPES, Y. ; ; LEITE, M. F. A.. Participação em banca de Bruno Lemos Silva.Modernização de Centros de Operação do Sistema Interligado Nacional. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Interoperabilidade com Base na Norma IEC 61850: Revisão Sistemática e Estudo de Caso",
+          "membros": "LOPES, YONA ; COLOMBINI, A. C.; PINHEIRO, PAULO H. B. S.",
+          "candidato": "Matheus Felipe Ayello Leite",
+          "citacao_completa": "LOPES, YONA ; COLOMBINI, A. C.; PINHEIRO, PAULO H. B. S.. Participação em banca de Matheus Felipe Ayello Leite.Interoperabilidade com Base na Norma IEC 61850: Revisão Sistemática e Estudo de Caso. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Uma Revisão Sistemática da Literatura a Respeito do uso da Tecnologia de comunicação 5G",
+          "membros": "ANTAYHUA, R. A. R.; LOPES, Y. ; KRUGER, T. P.",
+          "candidato": "Carolina Giusti Tisott",
+          "citacao_completa": "ANTAYHUA, R. A. R.; LOPES, Y. ; KRUGER, T. P.. Participação em banca de Carolina Giusti Tisott.Uma Revisão Sistemática da Literatura a Respeito do uso da Tecnologia de comunicação 5G. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Teleproteção Aplicada a Transmissão de Energia Elétrica: Estudo de Caso do TDD baseado na Norma IEC 61850",
+          "membros": "LOPES, Y. ; PINHEIRO, P. H. B. S.; PINHO, A. C.; Fortes, Márcio Zamboti",
+          "candidato": "Joao Gabriel Norberto Costa de Carvalho",
+          "citacao_completa": "LOPES, Y. ; PINHEIRO, P. H. B. S.; PINHO, A. C.; Fortes, Márcio Zamboti. Participação em banca de Joao Gabriel Norberto Costa de Carvalho.Teleproteção Aplicada a Transmissão de Energia Elétrica: Estudo de Caso do TDD baseado na Norma IEC 61850. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Gerenciamento de Carga e Descarga de Veículos Elétricos Baseado em Priorização",
+          "membros": "LOPES, Y. ; PIVOTTO, C.",
+          "candidato": "Vagner Mello",
+          "citacao_completa": "LOPES, Y. ; PIVOTTO, C.. Participação em banca de Vagner Mello.Gerenciamento de Carga e Descarga de Veículos Elétricos Baseado em Priorização. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Instituto Infnet do Rio de Janeiro."
+        },
+        {
+          "ano": 2018,
+          "titulo": "L Filho, Diego Soares, Renato Machado.Sistema e Infraestrutura de Gerenciamento Controle para Implementação de Resposta à Demanda",
+          "membros": "LOPES, Y. ; RIBEIRO, I.",
+          "candidato": "Flavio Augusto do N",
+          "citacao_completa": "LOPES, Y. ; RIBEIRO, I.. Participação em banca de Flavio Augusto do N. L Filho, Diego Soares, Renato Machado.Sistema e Infraestrutura de Gerenciamento Controle para Implementação de Resposta à Demanda. 2018. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Infnet do Rio de Janeiro."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Desenvolvimento de um Sistema Supervisório baseado na aplicação da IEC 61850 para implementação de funções de proteção e esquemas de teleproteção",
+          "membros": "; HENRIQUES, H. O.; BORGES, T. T.; LOPES, Y.",
+          "candidato": "Jorge Ribeiro de Moraes Júnior",
+          "citacao_completa": "; HENRIQUES, H. O.; BORGES, T. T.; LOPES, Y. . Participação em banca de Jorge Ribeiro de Moraes Júnior.Desenvolvimento de um Sistema Supervisório baseado na aplicação da IEC 61850 para implementação de funções de proteção e esquemas de teleproteção. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Métodos Numéricos, um Modelo Prático de Ensino e Acompanhamento das Aulas Teóricas",
+          "membros": "BALBI, H. D.; LOPES, Y.",
+          "candidato": "Paulo Maurício de Souza Mota",
+          "citacao_completa": "BALBI, H. D.; LOPES, Y. . Participação em banca de Paulo Maurício de Souza Mota.Métodos Numéricos, um Modelo Prático de Ensino e Acompanhamento das Aulas Teóricas. 2016. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Supervisão, controle e proteção através da Norma IEC 61850: Experiência utilizando os relés de proteção SEL-421 e SEL-451",
+          "membros": "; LOPES, Y. ;",
+          "candidato": "Quilherme Quacchia Miranda",
+          "citacao_completa": "; LOPES, Y. ; . Participação em banca de Quilherme Quacchia Miranda.Supervisão, controle e proteção através da Norma IEC 61850: Experiência utilizando os relés de proteção SEL-421 e SEL-451. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".SPARZ ­ Um Sistema de Estacionamento Inteligente com ZigBee e RFID",
+          "membros": "LOPES, Y. ; BOTELHO, T. A. T.; BARCELOS, A. O. P.",
+          "candidato": "Bruno Ribeiro, Flavio Docek, Lucas Quaresma",
+          "citacao_completa": "LOPES, Y. ; BOTELHO, T. A. T.; BARCELOS, A. O. P.. Participação em banca de Bruno Ribeiro, Flavio Docek, Lucas Quaresma.SPARZ ­ Um Sistema de Estacionamento Inteligente com ZigBee e RFID. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Instituto Infnet do Rio de Janeiro."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Sistema Inteligente de Monitoramento Elétrico baseado em Redes de Sensores sem Fio para Smart Grid",
+          "membros": "LOPES, Y. ; BOTELHO, T. A. T.; MAIA, L. P.",
+          "candidato": "Fabio Mentzingen,Gilmar Souza, Raphael Alves, Wilian Martins",
+          "citacao_completa": "LOPES, Y. ; BOTELHO, T. A. T.; MAIA, L. P.. Participação em banca de Fabio Mentzingen,Gilmar Souza, Raphael Alves, Wilian Martins.Sistema Inteligente de Monitoramento Elétrico baseado em Redes de Sensores sem Fio para Smart Grid. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Instituto Infnet do Rio de Janeiro."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Utilização da ferramenta pfSense como uma alternativa segura para o controle de acesso de clientes à internet",
+          "membros": "BRANDAO, J. S.; LOPES, Y.",
+          "candidato": "Raffael Chacon",
+          "citacao_completa": "BRANDAO, J. S.; LOPES, Y. . Participação em banca de Raffael Chacon.Utilização da ferramenta pfSense como uma alternativa segura para o controle de acesso de clientes à internet. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Ataque e Análise a Vulnerabilidades comuns em redes domésticas: Criptografia WEP e DNS Spoofing",
+          "membros": "SOUSA, C. O.; LOPES, Y.",
+          "candidato": "André Ricardo de Carvalho Saraiva e Pedro Melo dos Santos",
+          "citacao_completa": "SOUSA, C. O.; LOPES, Y. . Participação em banca de André Ricardo de Carvalho Saraiva e Pedro Melo dos Santos.Ataque e Análise a Vulnerabilidades comuns em redes domésticas: Criptografia WEP e DNS Spoofing. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Mineração de Dados Aplicada ao Sistema de Proteção Física Empresarial",
+          "membros": "LOPES, Y. ; FREITAS, A.; BENTO, L.",
+          "candidato": "Alexandre Monteiro Martins",
+          "citacao_completa": "LOPES, Y. ; FREITAS, A.; BENTO, L.. Participação em banca de Alexandre Monteiro Martins.Mineração de Dados Aplicada ao Sistema de Proteção Física Empresarial. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Impressão 3D empregando o ambiente Openscad e as replicadoras makerbot replicator 2 e makerbot replicator 5th generation",
+          "membros": "BALBI, H. D.; LOPES, Y.",
+          "candidato": "Luiz Henrique Zeferino",
+          "citacao_completa": "BALBI, H. D.; LOPES, Y. . Participação em banca de Luiz Henrique Zeferino.Impressão 3D empregando o ambiente Openscad e as replicadoras makerbot replicator 2 e makerbot replicator 5th generation. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Implementação de serviços de rede em pequenas e médias empresas utilizando Linux",
+          "membros": "BALBI, H. D.; LOPES, Y.",
+          "candidato": "Nilson Nogueira Junior",
+          "citacao_completa": "BALBI, H. D.; LOPES, Y. . Participação em banca de Nilson Nogueira Junior.Implementação de serviços de rede em pequenas e médias empresas utilizando Linux. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Tupã: Um arcabouço de comunicação para o uso racional de energia elétrica.",
+          "membros": "LOPES, Y. ; BOTELHO, T. A. T.; MAIA, L. P.",
+          "candidato": "Rodrigo Gonçalves Leite",
+          "citacao_completa": "LOPES, Y. ; BOTELHO, T. A. T.; MAIA, L. P.. Participação em banca de Rodrigo Gonçalves Leite.Tupã: Um arcabouço de comunicação para o uso racional de energia elétrica.. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Instituto Infnet do Rio de Janeiro."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Análise e Ensaios das Funções do Relé de Distribuição Modelo SEL-451 e Elaboração de Manual Simplificado de Operação",
+          "membros": "; SAAS, F.; LOPES, Y.",
+          "candidato": "Isabella Maria de Castro Wajcman",
+          "citacao_completa": "; SAAS, F.; LOPES, Y. . Participação em banca de Isabella Maria de Castro Wajcman.Análise e Ensaios das Funções do Relé de Distribuição Modelo SEL-451 e Elaboração de Manual Simplificado de Operação. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".A Utilização de Softwares no Primeiro Ciclo do Ensino Fundamental: Influências no Processo de Aquisição da Leitura e Escrita",
+          "membros": "LOPES, Y. ; ORLEANS, L. F.",
+          "candidato": "Elizabeth Maria De Carvalho",
+          "citacao_completa": "LOPES, Y. ; ORLEANS, L. F.. Participação em banca de Elizabeth Maria De Carvalho.A Utilização de Softwares no Primeiro Ciclo do Ensino Fundamental: Influências no Processo de Aquisição da Leitura e Escrita. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".SisCIS: Um Sistema De Controle De Inventário E Pedidos De Serviços De Informática",
+          "membros": "LOPES, Y. ; SOUSA, C. O.",
+          "candidato": "Alex Sander Almeida Da Silva e Jailson Jackson De Melo Filho",
+          "citacao_completa": "LOPES, Y. ; SOUSA, C. O.. Participação em banca de Alex Sander Almeida Da Silva e Jailson Jackson De Melo Filho.SisCIS: Um Sistema De Controle De Inventário E Pedidos De Serviços De Informática. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Sentinela: Sistema de Monitoração para Manutenção Preventiva Veicular",
+          "membros": "LOPES, Y. ; BALBI, H. D.",
+          "candidato": "Wilson Ferreira Filho e Sergio Valente Da Silva Junior",
+          "citacao_completa": "LOPES, Y. ; BALBI, H. D.. Participação em banca de Wilson Ferreira Filho e Sergio Valente Da Silva Junior.Sentinela: Sistema de Monitoração para Manutenção Preventiva Veicular. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Minimizando os Riscos de uma Invasão em uma Rede Local de Pequena Empresa Através de Software Livre",
+          "membros": "LOPES, Y. ; SOUSA, C. O.",
+          "candidato": "Cleydson Dos Santos Cândido",
+          "citacao_completa": "LOPES, Y. ; SOUSA, C. O.. Participação em banca de Cleydson Dos Santos Cândido.Minimizando os Riscos de uma Invasão em uma Rede Local de Pequena Empresa Através de Software Livre. 2015. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação (CEDERJ)) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Virtualização de Servidores VOIP",
+          "membros": "LOPES, Y. ; Balbi, Helga Dolorico",
+          "candidato": "Jucilar de Souza Esmeraldo e Perla da Cunha Maciel",
+          "citacao_completa": "LOPES, Y. ; Balbi, Helga Dolorico. Participação em banca de Jucilar de Souza Esmeraldo e Perla da Cunha Maciel.Virtualização de Servidores VOIP. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".SAP ? Tecnologias e Funcionalidades",
+          "membros": "Lôbo, M. T. F.; LOPES, Y.",
+          "candidato": "Jorge Henrique Assis de Mendonça",
+          "citacao_completa": "Lôbo, M. T. F.; LOPES, Y. . Participação em banca de Jorge Henrique Assis de Mendonça.SAP ? Tecnologias e Funcionalidades. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Um estudo sobre o HTML e suas novas funcionalidades",
+          "membros": "BALBI, H. D.; LOPES, Y. ; SEIXAS, F. L.",
+          "candidato": "Taiane Antunes Moreira Paiva",
+          "citacao_completa": "BALBI, H. D.; LOPES, Y. ; SEIXAS, F. L.. Participação em banca de Taiane Antunes Moreira Paiva.Um estudo sobre o HTML e suas novas funcionalidades. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Um diagnóstico para redes de sensores sem fio evidenciando a conservação de energia",
+          "membros": "SOUSA, C. O.; LOPES, Y.",
+          "candidato": "Juarez Ribeiro da Silva",
+          "citacao_completa": "SOUSA, C. O.; LOPES, Y. . Participação em banca de Juarez Ribeiro da Silva.Um diagnóstico para redes de sensores sem fio evidenciando a conservação de energia. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".HAAR-Like Reconhecimento de Padrões - Desempenho e Eficiência entre HAAR e LBP",
+          "membros": "DEMBOGURSKI, B. J.; LOPES, Y.",
+          "candidato": "Leandro Almeida Pereira",
+          "citacao_completa": "DEMBOGURSKI, B. J.; LOPES, Y. . Participação em banca de Leandro Almeida Pereira.HAAR-Like Reconhecimento de Padrões - Desempenho e Eficiência entre HAAR e LBP. 2014. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Sistemas de Computação) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Coordenação da Proteção de Linhas Aéreas de Subtransmissao da Light",
+          "membros": "; GUIMARÃES, C. H. C.; LOPES, Y.",
+          "candidato": "Glauber Medina Lee Faria",
+          "citacao_completa": "; GUIMARÃES, C. H. C.; LOPES, Y. . Participação em banca de Glauber Medina Lee Faria.Coordenação da Proteção de Linhas Aéreas de Subtransmissao da Light. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "LOPES, Y. ; MARTINS, F. G. R.; . Banca de seleção de Bolsista de Doutorado na modalidade de bolsa DAI / CNPq - Edital 05",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LOPES, Y. ; MARTINS, F. G. R.; . Banca de seleção de Bolsista de Doutorado na modalidade de bolsa DAI / CNPq - Edital 05/2023. 2023. Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2023,
+          "titulo": "LOPES, Y. ; MARTINS, F. G. R.; . Banca de seleção de Bolsista de Doutorado na modalidade de bolsa DAI / CNPq - Edital 04",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LOPES, Y. ; MARTINS, F. G. R.; . Banca de seleção de Bolsista de Doutorado na modalidade de bolsa DAI / CNPq - Edital 04/2023. 2023. Universidade Federal Fluminense."
+        }
+      ]
+    }
+  ]
+}

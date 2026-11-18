@@ -1,0 +1,552 @@
+{
+  "name": "Edivan Laercio Carvalho da Silva",
+  "lattes_id": "7572444750472723",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Air-Core Coupled Inductor Based Modular Solid-State Circuit Breaker With Reduced Components for DC Buildings",
+          "autores": "POGULAGUNTLA, ADITYA ; DSA, DANIEL ; YAGNA, GRIDDALURU VENKATA ; BANAVATH, SATISH NAIK ; CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 1, p. 1-1, 2024.",
+          "doi": "http://dx.doi.org/10.1109/JESTPE.2024.3485735",
+          "citacao_completa": "POGULAGUNTLA, ADITYA ; DSA, DANIEL ; YAGNA, GRIDDALURU VENKATA ; BANAVATH, SATISH NAIK ; CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; VINNIKOV, DMITRI . Air-Core Coupled Inductor Based Modular Solid-State Circuit Breaker With Reduced Components for DC Buildings. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 1, p. 1-1, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Adaptive Frequency-Based Power Management for Off-Grid Hybrid Photovoltaic Converters",
+          "autores": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO ; STEIN, CARLOS MARCELO DE OLIVEIRA ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC",
+          "periodico": "REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202440, 2024.",
+          "doi": "http://dx.doi.org/10.18618/rep.e202440",
+          "citacao_completa": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO ; STEIN, CARLOS MARCELO DE OLIVEIRA ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC . Adaptive Frequency-Based Power Management for Off-Grid Hybrid Photovoltaic Converters. REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202440, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Implementation of Protection Features for a Modular Bidirectional Solid-State Battery Disconnector",
+          "autores": "DSA, DANIEL ; CHINNUSAMY, ABHINAV ; BANAVATH, SATISH NAIK ; CARVALHO, EDIVAN LAERCIO",
+          "periodico": "IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 1, p. 1-1, 2024.",
+          "doi": "http://dx.doi.org/10.1109/JESTPE.2024.3502157",
+          "citacao_completa": "DSA, DANIEL ; CHINNUSAMY, ABHINAV ; BANAVATH, SATISH NAIK ; CARVALHO, EDIVAN LAERCIO . Implementation of Protection Features for a Modular Bidirectional Solid-State Battery Disconnector. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 1, p. 1-1, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Magnetically Integrated Multiport Converter for Energy Management in DC-Powered Buildings",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; BLINOV, ANDREI ; BANAVATH, SATISH NAIK ; VINNIKOV, DMITRI",
+          "periodico": "REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202445, 2024.",
+          "doi": "http://dx.doi.org/10.18618/REP.e202445",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; BLINOV, ANDREI ; BANAVATH, SATISH NAIK ; VINNIKOV, DMITRI . Magnetically Integrated Multiport Converter for Energy Management in DC-Powered Buildings. REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202445, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "P R: Partial Power Postregulated Grid-Forming Converter for Prosumer DC Buildings",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; HASSANPOUR, NASER ; BLINOV, ANDREI ; RATHORE, AKSHAY KUMAR ; VINNIKOV, DMITRI",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-10, 2024.",
+          "doi": "http://dx.doi.org/10.1109/TIE.2024.3423358",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; HASSANPOUR, NASER ; BLINOV, ANDREI ; RATHORE, AKSHAY KUMAR ; VINNIKOV, DMITRI . P R: Partial Power Postregulated Grid-Forming Converter for Prosumer DC Buildings. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-10, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Extended ZVS-on/ZCS-off range for CF-DAB Converter Under DCM Operation at Residential Energy Storage Systems",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; ; FELIPE, CARLA A. ; STEIN, CARLOS MARCELO DE OLIVEIRA ; ; ; VINNIKOV, DMITRI",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/access.2023.3327219",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; ; FELIPE, CARLA A. ; STEIN, CARLOS MARCELO DE OLIVEIRA ; ; ; VINNIKOV, DMITRI . Extended ZVS-on/ZCS-off range for CF-DAB Converter Under DCM Operation at Residential Energy Storage Systems. IEEE Access , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Three-Phase Bidirectional Isolated AC-DC Matrix-Converter with Full Soft-Switching Range",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; EMILIANI, PIETRO ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2023.3327224",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; EMILIANI, PIETRO ; CHUB, ANDRII ; VINNIKOV, DMITRI . Three-Phase Bidirectional Isolated AC-DC Matrix-Converter with Full Soft-Switching Range. IEEE Access , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Design Considerations of Dual-Active Bridge DC Grid-Forming Converter for DC Buildings",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; SIDOROVA, ALEKSANDRA ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-11, 2023.",
+          "doi": "http://dx.doi.org/10.1109/TIE.2023.3331125",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; SIDOROVA, ALEKSANDRA ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI . Design Considerations of Dual-Active Bridge DC Grid-Forming Converter for DC Buildings. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-11, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Distributed Price-Based Power Management for Multi-buses DC Nanogrids EEMS",
+          "autores": "Carvalho, Edivan L. ; ; ;",
+          "periodico": "IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 11, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/JESTPE.2022.3152101",
+          "citacao_completa": "Carvalho, Edivan L. ; ; ; . Distributed Price-Based Power Management for Multi-buses DC Nanogrids EEMS. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 11, p. 1-1, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Hybrid Inverter and Control Strategy for Enabling the PV Generation Dispatch Using Extra-Low-Voltage Batteries",
+          "autores": "MENEGHETTI, LUIZ HENRIQUE ; CARVALHO, EDIVAN LAERCIO ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC ; ;",
+          "periodico": "Energies , v. 15, p. 7539-20, 2022.",
+          "doi": "http://dx.doi.org/10.3390/en15207539",
+          "citacao_completa": "MENEGHETTI, LUIZ HENRIQUE ; CARVALHO, EDIVAN LAERCIO ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC ; ; . Hybrid Inverter and Control Strategy for Enabling the PV Generation Dispatch Using Extra-Low-Voltage Batteries. Energies , v. 15, p. 7539-20, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Grid Integration of DC Buildings: Standards, Requirements and Power Converter Topologies",
+          "autores": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Emiliani, P. ; de Carne, G. ; Vinnikov, D.",
+          "periodico": "Ieee Open Journal Of Power Electronics , v. 1, p. 1-27, 2022.",
+          "doi": "http://dx.doi.org/10.1109/OJPEL.2022.3217741",
+          "citacao_completa": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Emiliani, P. ; de Carne, G. ; Vinnikov, D. . Grid Integration of DC Buildings: Standards, Requirements and Power Converter Topologies. Ieee Open Journal Of Power Electronics , v. 1, p. 1-27, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Price-Response Matrices Design Methodology for Electrical Energy Management Systems Based on DC Bus Signalling",
+          "autores": "; Carvalho, Edivan L. ; ;",
+          "periodico": "Energies , v. 14, p. 1787-19, 2021.",
+          "doi": "http://dx.doi.org/10.3390/en14061787",
+          "citacao_completa": "; Carvalho, Edivan L. ; ; . Price-Response Matrices Design Methodology for Electrical Energy Management Systems Based on DC Bus Signalling. Energies , v. 14, p. 1787-19, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Asymmetrical-PWM DAB Converter with extended ZVS/ZCS Range and Reduced Circulating Current for ESS Applications",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; FELIPE, CARLA APARECIDA ; ; ; ;",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TPEL.2021.3078734",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; FELIPE, CARLA APARECIDA ; ; ; ; . Asymmetrical-PWM DAB Converter with extended ZVS/ZCS Range and Reduced Circulating Current for ESS Applications. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PRICE-RESPONSE VECTORS BASED POWER MANAGEMENT FOR NANOGRIDS CONTROL",
+          "autores": "LAERCIO CARVALHO, EDIVAN ; ; A. FELIPE, CARLA ; ;",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 26, p. 1-9, 2021.",
+          "doi": "http://dx.doi.org/10.18618/REP.2021.4.0027",
+          "citacao_completa": "LAERCIO CARVALHO, EDIVAN ; ; A. FELIPE, CARLA ; ; . PRICE-RESPONSE VECTORS BASED POWER MANAGEMENT FOR NANOGRIDS CONTROL. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 26, p. 1-9, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Asymmetrical Pulse-Width Modulation Strategy for Current-Fed Dual Active Bridge Bidirectional Isolated Converter Applied to Energy Storage Systems",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; MENEGHETTI, LUIZ HENRIQUE ; CARATI, EMERSON GIOVANI ; ; STEIN, CARLOS MARCELO DE OLIVEIRA ;",
+          "periodico": "Energies , v. 13, p. 3475, 2020.",
+          "doi": "http://dx.doi.org/10.3390/en13133475",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; MENEGHETTI, LUIZ HENRIQUE ; CARATI, EMERSON GIOVANI ; ; STEIN, CARLOS MARCELO DE OLIVEIRA ; . Asymmetrical Pulse-Width Modulation Strategy for Current-Fed Dual Active Bridge Bidirectional Isolated Converter Applied to Energy Storage Systems. Energies , v. 13, p. 3475, 2020."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Development of an Isolated Bidirectional Converter Applied on Charging and Discharging of Batteries Banks",
+          "autores": "LAERCIO CARVALHO, EDIVAN ; GIOVANI CARATI, EMERSON ; ; ;",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 1-11, 2018.",
+          "doi": "http://dx.doi.org/10.18618/rep.2018.3.2791",
+          "citacao_completa": "LAERCIO CARVALHO, EDIVAN ; GIOVANI CARATI, EMERSON ; ; ; . Development of an Isolated Bidirectional Converter Applied on Charging and Discharging of Batteries Banks. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 1-11, 2018."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Resonant DC Transformer for Grid-Interactive Energy Efficient Buildings",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; RATHORE, AKSHAY KUMAR ; VINNIKOV, DMITRI",
+          "periodico": "In: 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2024, Gdynia. 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/CPE-POWERENG60842.2024.10604353",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; RATHORE, AKSHAY KUMAR ; VINNIKOV, DMITRI . Resonant DC Transformer for Grid-Interactive Energy Efficient Buildings. In: 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2024, Gdynia. 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Series-Parallel Resonant Current-Source DC-DC Converter with Wide Output Voltage Range",
+          "autores": "BLINOV, ANDREI ; CARVALHO, EDIVAN LAERCIO ; VERBYTSKYI, IEVGEN ; VINNIKOV, DMITRI",
+          "periodico": "In: 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2024, Gdynia. 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/CPE-POWERENG60842.2024.10604346",
+          "citacao_completa": "BLINOV, ANDREI ; CARVALHO, EDIVAN LAERCIO ; VERBYTSKYI, IEVGEN ; VINNIKOV, DMITRI . Series-Parallel Resonant Current-Source DC-DC Converter with Wide Output Voltage Range. In: 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2024, Gdynia. 2024 IEEE 18th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Addressing Cross-Coupling Issues in Magnetically Integrated Three-Port DC-DC Converters",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; SOHAIL, UMER ; CHUB, ANDRII",
+          "periodico": "In: 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024, Pilsen. 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024. v. 21. p. 1-5.",
+          "doi": "http://dx.doi.org/10.1109/PEMC61721.2024.10726373",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; SOHAIL, UMER ; CHUB, ANDRII . Addressing Cross-Coupling Issues in Magnetically Integrated Three-Port DC-DC Converters. In: 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024, Pilsen. 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024. v. 21. p. 1-5."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Comparative Evaluation of a DAB Converter and SRC for DC Buildings Application",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; BLINOV, ANDREI ; BANAVATH, SATISH NAIK ; VINNIKOV, DMITRI",
+          "periodico": "In: 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024, Pilsen. 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024. v. 21. p. 1-5.",
+          "doi": "http://dx.doi.org/10.1109/PEMC61721.2024.10726346",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; BLINOV, ANDREI ; BANAVATH, SATISH NAIK ; VINNIKOV, DMITRI . Comparative Evaluation of a DAB Converter and SRC for DC Buildings Application. In: 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024, Pilsen. 2024 IEEE 21st International Power Electronics and Motion Control Conference (PEMC), 2024. v. 21. p. 1-5."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Comparison of Decoupling Control Strategies for Multiple Active Bridge DC-DC Converter",
+          "autores": "CAI, YICONG ; BUTICCHI, GIAMPAOLO ; GU, CHUNYANG ; LI, JING ; CARVALHO, EDIVAN LAERCIO ; ZHANG, HE",
+          "periodico": "In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/CPE-POWERENG58103.2023.10227395",
+          "citacao_completa": "CAI, YICONG ; BUTICCHI, GIAMPAOLO ; GU, CHUNYANG ; LI, JING ; CARVALHO, EDIVAN LAERCIO ; ZHANG, HE . Comparison of Decoupling Control Strategies for Multiple Active Bridge DC-DC Converter. In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Evaluation of Dual-Active Bridge Converter for DC Energy Buildings",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; SIDOROVA, ALEKSANDRA ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/CPE-POWERENG58103.2023.10227460",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; SIDOROVA, ALEKSANDRA ; CHUB, ANDRII ; VINNIKOV, DMITRI . Evaluation of Dual-Active Bridge Converter for DC Energy Buildings. In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Inverters for Power Systems with Renewable Sources: Basic Topologies and Purposes",
+          "autores": "YAMNENKO, IULIIA ; TERESHCHENKO, TETIANA ; FEDIN, IHOR ; LAERCIO CARVALHO, EDIVAN ; KOZHUSHKO, YULIIA ; BONDARENKO, OLEKSANDR",
+          "periodico": "In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/CPE-POWERENG58103.2023.10227384",
+          "citacao_completa": "YAMNENKO, IULIIA ; TERESHCHENKO, TETIANA ; FEDIN, IHOR ; LAERCIO CARVALHO, EDIVAN ; KOZHUSHKO, YULIIA ; BONDARENKO, OLEKSANDR . Inverters for Power Systems with Renewable Sources: Basic Topologies and Purposes. In: 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPEPOWERENG), 2023, Tallinn. 2023 IEEE 17th International Conference on Compatibility, Power Electronics and Power Engineering (CPE-POWERENG), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Effect of Droop Control Curves on the Efficiency of Dual-Active Bridge Converters",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "In: IECON 2023 49th Annual Conference of the IEEE Industrial Electronics Society, 2023, Singapore. IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/IECON51785.2023.10312056",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI . Effect of Droop Control Curves on the Efficiency of Dual-Active Bridge Converters. In: IECON 2023 49th Annual Conference of the IEEE Industrial Electronics Society, 2023, Singapore. IECON 2023- 49th Annual Conference of the IEEE Industrial Electronics Society, 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Analysis of the Use of Supercapacitors and Batteries as Energy Storage Elements for Off-Grid Hybrid Photovoltaic Inverters",
+          "autores": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO ; ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10407182",
+          "citacao_completa": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO ; ; CARATI, EMERSON GIOVANI ; DENARDIN, GUSTAVO WEBER ; DA COSTA, JEAN PATRIC . Analysis of the Use of Supercapacitors and Batteries as Energy Storage Elements for Off-Grid Hybrid Photovoltaic Inverters. In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Bidirectional Solid-State DC Circuit Breaker for the Protection of Residential and Commercial DC Buildings",
+          "autores": "P, ADITYA ; YAGNA, VENKATA ; BANOTH, THARUN ; CHUB, ANDRII ; CARVALHO, EDIVAN LAERCIO ; BANAVATH, SATISH NAIK",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10407460",
+          "citacao_completa": "P, ADITYA ; YAGNA, VENKATA ; BANOTH, THARUN ; CHUB, ANDRII ; CARVALHO, EDIVAN LAERCIO ; BANAVATH, SATISH NAIK . Bidirectional Solid-State DC Circuit Breaker for the Protection of Residential and Commercial DC Buildings. In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Multi-port i-AFE Converter for Grid-Interactive Buildings: Design Requirements and Efficiency Evaluation",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; GALKIN, ILYA ; VINNIKOV, DMITRI",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10408230",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; GALKIN, ILYA ; VINNIKOV, DMITRI . Multi-port i-AFE Converter for Grid-Interactive Buildings: Design Requirements and Efficiency Evaluation. In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Dynamic Reconfiguration for Wide Output Voltage Range Isolated Buck-Boost PFC Converter",
+          "autores": "VERBYTSKYI, IEVGEN ; NADEEM, MOHAMMAD MAHAD ; BLINOV, ANDREI ; CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10407792",
+          "citacao_completa": "VERBYTSKYI, IEVGEN ; NADEEM, MOHAMMAD MAHAD ; BLINOV, ANDREI ; CARVALHO, EDIVAN LAERCIO ; CHUB, ANDRII ; VINNIKOV, DMITRI . Dynamic Reconfiguration for Wide Output Voltage Range Isolated Buck-Boost PFC Converter. In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "An Overview of State Estimation for Battery Management Systems",
+          "autores": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO",
+          "periodico": "In: 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023, Santa Maria. 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/sepoc58810.2023.10322602",
+          "citacao_completa": "GONSCHOROWSKI, EZEQUIEL ; ; CARVALHO, EDIVAN LAERCIO . An Overview of State Estimation for Battery Management Systems. In: 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023, Santa Maria. 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Overview of Single-Stage Isolated AC-DC Topologies for Interfacing DC and AC Grids",
+          "autores": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Vinnikov, D.",
+          "periodico": "In: 2022 IEEE 13th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2022, Kiel. 2022 IEEE 13th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2022.",
+          "doi": "http://dx.doi.org/10.1109/PEDG54999.2022.9923249",
+          "citacao_completa": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Vinnikov, D. . Overview of Single-Stage Isolated AC-DC Topologies for Interfacing DC and AC Grids. In: 2022 IEEE 13th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2022, Kiel. 2022 IEEE 13th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Analysis of Holdup Time for DC Grid-Forming Isolated Active Front-End Converters",
+          "autores": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI",
+          "periodico": "In: IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022, Brussels. IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/IECON49645.2022.9969075",
+          "citacao_completa": "CARVALHO, EDIVAN LAERCIO ; BLINOV, ANDREI ; CHUB, ANDRII ; VINNIKOV, DMITRI . Analysis of Holdup Time for DC Grid-Forming Isolated Active Front-End Converters. In: IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022, Brussels. IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022. p. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Experimental Evaluation of a Dual DC Buses Nanogrid with Interlink Converter",
+          "autores": "Carvalho, Edivan L. ; ; ;",
+          "periodico": "In: 2021 Brazilian Power Electronics Conference (COBEP), 2021, João Pessoa. 2021 Brazilian Power Electronics Conference (COBEP), 2021. v. único. p. 1-5.",
+          "doi": "http://dx.doi.org/10.1109/COBEP53665.2021.9684037",
+          "citacao_completa": "Carvalho, Edivan L. ; ; ; . Experimental Evaluation of a Dual DC Buses Nanogrid with Interlink Converter. In: 2021 Brazilian Power Electronics Conference (COBEP), 2021, João Pessoa. 2021 Brazilian Power Electronics Conference (COBEP), 2021. v. único. p. 1-5."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Price-Based DC Bus Signaling for Nanogrids Power Management",
+          "autores": "Carvalho, E. L. ; ; ;",
+          "periodico": "In: 16th Brazilian Power Electronics Conference - COBEP, 2021, João Pessoa. 16th Brazilian Power Electronics Conference - COBEP, 2021. v. único. p. 1-5.",
+          "doi": "http://dx.doi.org/10.1109/COBEP53665.2021.9684069",
+          "citacao_completa": "Carvalho, E. L. ; ; ; . Price-Based DC Bus Signaling for Nanogrids Power Management. In: 16th Brazilian Power Electronics Conference - COBEP, 2021, João Pessoa. 16th Brazilian Power Electronics Conference - COBEP, 2021. v. único. p. 1-5."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analytical Methodology to Design Third-Order Filter LCL for Battery Chargers",
+          "autores": "Felipe, C. A. ; Carvalho, E. L. ; Carati, E. ; ; ;",
+          "periodico": "In: IEEE International Conference on Industrial Technology - ICIT 2020, 2020, Buenos Aires. Proceedings of the 2020 IEEE International Conference on Industrial Technology, 2020. v. único. p. 444-449.",
+          "doi": "http://dx.doi.org/10.1109/ICIT45562.2020.9067120",
+          "citacao_completa": "Felipe, C. A. ; Carvalho, E. L. ; Carati, E. ; ; ; . Analytical Methodology to Design Third-Order Filter LCL for Battery Chargers. In: IEEE International Conference on Industrial Technology - ICIT 2020, 2020, Buenos Aires. Proceedings of the 2020 IEEE International Conference on Industrial Technology, 2020. v. único. p. 444-449."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bidirectional Interlink Converter for Bipolar DC Microgrids",
+          "autores": "Carvalho, E. L. ; Meneghetti, L. H. ; ; ;",
+          "periodico": "In: IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019, Gramado. Proceedings of IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019. v. único.",
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895334",
+          "citacao_completa": "Carvalho, E. L. ; Meneghetti, L. H. ; ; ; . Bidirectional Interlink Converter for Bipolar DC Microgrids. In: IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019, Gramado. Proceedings of IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019. v. único."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Multifunctional PV Converter for Uninterrupted Power Supply",
+          "autores": "Meneghetti, L. H. ; Carvalho, Edivan L. ; Carati, E. ; ; ; Nadal, Z. L. I. ;",
+          "periodico": "In: IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019, Gramado. Proceedings of IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019. v. único.",
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895322",
+          "citacao_completa": "Meneghetti, L. H. ; Carvalho, Edivan L. ; Carati, E. ; ; ; Nadal, Z. L. I. ; . Multifunctional PV Converter for Uninterrupted Power Supply. In: IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019, Gramado. Proceedings of IEEE PES Innovative Smart Grid Technologies Latin America 2019, 2019. v. único."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Energy Storage System for Programmable Dispatch of Photovoltaic Generation",
+          "autores": "Meneghetti, L. H. ; Carvalho, Edivan L. ; Carati, E. ; ; ;",
+          "periodico": "In: 21st European Conference on Power Electronics and Applications, 2019, Genova. Proceedings of European Conference on Power Electronics and Applications 2019, 2019. v. único.",
+          "doi": "http://dx.doi.org/10.23919/EPE.2019.8914918",
+          "citacao_completa": "Meneghetti, L. H. ; Carvalho, Edivan L. ; Carati, E. ; ; ; . Energy Storage System for Programmable Dispatch of Photovoltaic Generation. In: 21st European Conference on Power Electronics and Applications, 2019, Genova. Proceedings of European Conference on Power Electronics and Applications 2019, 2019. v. único."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Control Strategy and Power Management for Multifunctional Inverters with BESS and Reactive Power Compensation",
+          "autores": "Meneghetti, L. H. ; Carvalho, E. L. ; Schimidt, G. B. K. ; Carati, E. ; ; ; Nadal, Z. L. I. ;",
+          "periodico": "In: 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference, 2019, Santos. Proceedings. Recife: SOBRAEP, 2019. v. único.",
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065726",
+          "citacao_completa": "Meneghetti, L. H. ; Carvalho, E. L. ; Schimidt, G. B. K. ; Carati, E. ; ; ; Nadal, Z. L. I. ; . Control Strategy and Power Management for Multifunctional Inverters with BESS and Reactive Power Compensation. In: 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference, 2019, Santos. Proceedings. Recife: SOBRAEP, 2019. v. único."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Control Strategy for Multifunctional PV Converter",
+          "autores": "MENEGHETTI, LUIZ HENRIQUE ; LAERCIO CARVALHO, EDIVAN ; CARATI, EMERSON GIOVANI ; ; ; LUIZ IENSEN NADAL, ZENO ;",
+          "periodico": "In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. v. único. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065727",
+          "citacao_completa": "MENEGHETTI, LUIZ HENRIQUE ; LAERCIO CARVALHO, EDIVAN ; CARATI, EMERSON GIOVANI ; ; ; LUIZ IENSEN NADAL, ZENO ; . Control Strategy for Multifunctional PV Converter. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. v. único. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "COMPARAÇÃO ENTRE DIFERENTES MODULAÇÕES APLICADAS A CONVERSORES EM PONTE-COMPLETA ALIMENTADOS POR CORRENTE",
+          "autores": "Edivan Laercio Carvalho ; EMERSON CARATI ; ; ;",
+          "periodico": "In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018. v. Único.",
+          "doi": "http://dx.doi.org/10.20906/CPS/CBA2018-0170",
+          "citacao_completa": "Edivan Laercio Carvalho ; EMERSON CARATI ; ; ; . COMPARAÇÃO ENTRE DIFERENTES MODULAÇÕES APLICADAS A CONVERSORES EM PONTE-COMPLETA ALIMENTADOS POR CORRENTE. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018. v. Único."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Discrete-Time Robust Adaptive Controller Applied to a Bidirectional Isolated Converter",
+          "autores": "Carvalho, E. L. ; ; ;",
+          "periodico": "In: 1th Seminar on Power Electronics and Control, 2018, Santa Maria. Proceedings of 11th Seminar on Power Electronics and Control, 2018. v. único.",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. ; ; ; . A Discrete-Time Robust Adaptive Controller Applied to a Bidirectional Isolated Converter. In: 1th Seminar on Power Electronics and Control, 2018, Santa Maria. Proceedings of 11th Seminar on Power Electronics and Control, 2018. v. único."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Comparison of Different Modulations Applied to a Multilevel Flying Capacitor Inverter",
+          "autores": "Carvalho, E. L. ; ; Vieira, R. P. ; ;",
+          "periodico": "In: 11th Seminar on Power Electronics and Control, 2018, Santa Maria. Proceedings of 11th Seminar on Power Electronics and Control, 2018. v. único.",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. ; ; Vieira, R. P. ; ; . A Comparison of Different Modulations Applied to a Multilevel Flying Capacitor Inverter. In: 11th Seminar on Power Electronics and Control, 2018, Santa Maria. Proceedings of 11th Seminar on Power Electronics and Control, 2018. v. único."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Small-Signal Modeling and Analysis of an Isolated Bidirectional Battery Charger",
+          "autores": "Carvalho, E. L. ; Carati, E. ; ; ;",
+          "periodico": "In: INDUSCON 2018 13th IEEE/IAS International Conference on Industry Applications, 2018, São Paulo. Conference Proceedings of INDUSCON 2018 IEEE/IAS, 2018. v. único.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2018.8627309",
+          "citacao_completa": "Carvalho, E. L. ; Carati, E. ; ; ; . Small-Signal Modeling and Analysis of an Isolated Bidirectional Battery Charger. In: INDUSCON 2018 13th IEEE/IAS International Conference on Industry Applications, 2018, São Paulo. Conference Proceedings of INDUSCON 2018 IEEE/IAS, 2018. v. único."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Design and Analysis of a Bidirectional Battery Charger",
+          "autores": "Carvalho, E. L. ; Carati, E. ; ; ;",
+          "periodico": "In: 8th International Symposium on Power Electronics for Distributed Generation Systems - PEDG 2017, 2017, Florianópolis. Proceedings of 8th International Symposium on Power Electronics for Distributed Generation Systems - PEDG 2017, 2017. v. único.",
+          "doi": "http://dx.doi.org/10.1109/PEDG.2017.7972526",
+          "citacao_completa": "Carvalho, E. L. ; Carati, E. ; ; ; . Design and Analysis of a Bidirectional Battery Charger. In: 8th International Symposium on Power Electronics for Distributed Generation Systems - PEDG 2017, 2017, Florianópolis. Proceedings of 8th International Symposium on Power Electronics for Distributed Generation Systems - PEDG 2017, 2017. v. único."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Analysis, Design and Implementation of an Isolated Full-Bridge Converter for Battery Charging",
+          "autores": "Carvalho, E. L. ; Carati, E. ; ; ;",
+          "periodico": "In: Brazilian Power Electronics Conference - COBEP, 2017, Juiz de Fora -MG. Anais, 2017, 2017. v. único.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2017.8257344",
+          "citacao_completa": "Carvalho, E. L. ; Carati, E. ; ; ; . Analysis, Design and Implementation of an Isolated Full-Bridge Converter for Battery Charging. In: Brazilian Power Electronics Conference - COBEP, 2017, Juiz de Fora -MG. Anais, 2017, 2017. v. único."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Power Electronics for Energy-Efficient Buildings and Districts",
+          "autores": "Carvalho, Edivan L.",
+          "periodico": "2024. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "Carvalho, Edivan L. . Power Electronics for Energy-Efficient Buildings and Districts. 2024. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Dual-Active Bridge Converter Design for DC Buildings",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2023. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Dual-Active Bridge Converter Design for DC Buildings. 2023. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Evaluation of Dual-Active Bridge Converter for DC Energy Buildings",
+          "autores": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Vinnikov, D.",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, Edivan L. ; Blinov, A. ; Chub, A. ; Vinnikov, D. . Evaluation of Dual-Active Bridge Converter for DC Energy Buildings. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Inverters for Power Systems with Renewable Sources: Basic Topologies and Purposes",
+          "autores": "YAMNENKO, I. ; TERESHCHENKO, T. ; Fedin, I. ; Carvalho, E. L. ; KOZHUSHKO, Y. ; Bondarenko, O.",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "YAMNENKO, I. ; TERESHCHENKO, T. ; Fedin, I. ; Carvalho, E. L. ; KOZHUSHKO, Y. ; Bondarenko, O. . Inverters for Power Systems with Renewable Sources: Basic Topologies and Purposes. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Comparison of Decoupling Control Strategies for Multiple Active Bridge DC-DC Converter",
+          "autores": "CAI, Y. ; BUTICCHI, G. ; GU, C. ; LI, J. ; Carvalho, Edivan L. ; ZHANG, H.",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "CAI, Y. ; BUTICCHI, G. ; GU, C. ; LI, J. ; Carvalho, Edivan L. ; ZHANG, H. . Comparison of Decoupling Control Strategies for Multiple Active Bridge DC-DC Converter. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Energy Efficient DC Buildings and Districts",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2023. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Energy Efficient DC Buildings and Districts. 2023. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Analysis of Holdup Time for DC Grid-Forming Isolated Active Front-End Converters",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2022. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Analysis of Holdup Time for DC Grid-Forming Isolated Active Front-End Converters. 2022. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Overview of Single-Stage Isolated AC-DC Topologies for Interfacing DC and AC Grids",
+          "autores": "Carvalho, E. L. ; Blinov, A. ; Chub, A. ; Vinnikov, D.",
+          "periodico": "2022. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. ; Blinov, A. ; Chub, A. ; Vinnikov, D. . Overview of Single-Stage Isolated AC-DC Topologies for Interfacing DC and AC Grids. 2022. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Overview of Active Frond End Converter Topologies for Residential DC Microgrids",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2022. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Overview of Active Frond End Converter Topologies for Residential DC Microgrids. 2022. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Active-front End converter for Dc buildings",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2022. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Active-front End converter for Dc buildings. 2022. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Active Front-End Converters for DC Buildings",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2022. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Active Front-End Converters for DC Buildings. 2022. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Price-Based DC Bus Signaling for Nanogrids Power Management",
+          "autores": "Carvalho, E. L. ; ; ;",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. ; ; ; . Price-Based DC Bus Signaling for Nanogrids Power Management. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Experimental Evaluation of a Dual DC Buses Nanogrid with Interlink Converter",
+          "autores": "Carvalho, E. L. ; ; ;",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. ; ; ; . Experimental Evaluation of a Dual DC Buses Nanogrid with Interlink Converter. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bidirectional Interlink Converter for Bipolar DC Microgrids",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . Bidirectional Interlink Converter for Bipolar DC Microgrids. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Discrete-Time Robust Adaptive Controller Applied to a Bidirectional Isolated Converter",
+          "autores": "Carvalho, E. L.",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Carvalho, E. L. . A Discrete-Time Robust Adaptive Controller Applied to a Bidirectional Isolated Converter. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Analysis, Design and Implementation of an Isolated Full-Bridge Converter for Battery Charging",
+          "autores": "CARVALHO, E. L.",
+          "periodico": "2017. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. L. . Analysis, Design and Implementation of an Isolated Full-Bridge Converter for Battery Charging. 2017. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Design and Analysis of a Bidirectional Battery Charger",
+          "autores": "CARVALHO, E. L.",
+          "periodico": "2017. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. L. . Design and Analysis of a Bidirectional Battery Charger. 2017. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": ".Estudo de comportamento de respostas do conversor cc-cc DAB com aplicações de sinais de excitações",
+          "membros": "Carvalho, Edivan L. ; Nardi, C.",
+          "candidato": "Barbara de Oliveira Koop",
+          "citacao_completa": "Carvalho, Edivan L. ; Nardi, C.. Participação em banca de Barbara de Oliveira Koop.Estudo de comportamento de respostas do conversor cc-cc DAB com aplicações de sinais de excitações. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - União de Ensino do Sudoeste do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Proposta de utilização de um transformador de alta frequência pra efetuar a carga de baterias",
+          "membros": "Carvalho, Edivan L. ; Nardi, C.",
+          "candidato": "Mauricio Pavan",
+          "citacao_completa": "Carvalho, Edivan L. ; Nardi, C.. Participação em banca de Mauricio Pavan.Proposta de utilização de um transformador de alta frequência pra efetuar a carga de baterias. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - União de Ensino do Sudoeste do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudo de caso de dimensionamento de sistema de geração de energia fotovoltaica para pequeno comércio",
+          "membros": "Carvalho, Edivan L. ; Zamodzki, R.",
+          "candidato": "Duciclei Bernardi e Evandro Perone",
+          "citacao_completa": "Carvalho, Edivan L. ; Zamodzki, R.. Participação em banca de Duciclei Bernardi e Evandro Perone.Estudo de caso de dimensionamento de sistema de geração de energia fotovoltaica para pequeno comércio. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Faculdade de Pato Branco."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Casanova e Thiago L",
+          "membros": "Carvalho, Edivan L. ; Lukasievicz, T.",
+          "candidato": "Marcos H",
+          "citacao_completa": "Carvalho, Edivan L. ; Lukasievicz, T.. Participação em banca de Marcos H. Casanova e Thiago L. Kerchner.Melhoria da eficiência energética em sistema de refrigeração de unidade industrial de aves na etapa de condensação. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Faculdade de Pato Branco."
+        }
+      ]
+    }
+  ]
+}

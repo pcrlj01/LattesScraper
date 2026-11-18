@@ -1,0 +1,847 @@
+{
+  "name": "Washington Luiz Araujo Neves",
+  "lattes_id": "3107104665517286",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "FILHO, JOSÉ F. B. DE F. ; NEVES, WASHINGTON L. A. ; COSTA, FLAVIO B. . Photovoltaic Module Temperature Prediction Model Incorporating Wind Direction and Precipitation Effects. IEEE Journal of Photovoltaics , v. 15, p. 701-711, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/jphotov.2025.3574778"
+        },
+        {
+          "texto": "MACHADO, EUBIS PEREIRA ; FERNANDES, DAMÁSIO ; NEVES, WASHINGTON LUIZ ARAÚJO . Phasor correction of coupling capacitor voltage transformers for high-performance protection. ELECTRIC POWER SYSTEMS RESEARCH , v. 220, p. 109326, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109326"
+        },
+        {
+          "texto": "VIEIRA, JÚLIO CÉSAR CÂNDIDO ; FERNANDES, DAMÁSIO ; NEVES, WASHINGTON LUIZ ARAÚJO ; LOPES, FELIPE VIGOLVINO . Fault diagnosis in bipolar HVDC systems based on traveling wave theory by monitoring data from one terminal. ELECTRIC POWER SYSTEMS RESEARCH , v. 223, p. 109594, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109594"
+        },
+        {
+          "texto": "DANTAS, FELIPE B. ; FERNANDES, DAMÁSIO ; NEVES, WASHINGTON L. A. ; BRANCO, ALANA K. X. B. ; COSTA, FLAVIO B. . Optimal Inverter-Based Resource Installation to Minimize Technical Energy Losses in Distribution Systems. IEEE Access , v. 11, p. 123961-123976, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/access.2023.3330083"
+        },
+        {
+          "texto": "REIS, R.L.A. ; LOPES, F.V. ; NEVES, W.L.A. ; FERNANDES Jr., D. ; ALMEIDA NETO, F.G. . Effects of CCVT stray capacitances on traveling wave-based applications. ELECTRIC POWER SYSTEMS RESEARCH , v. 195, p. 107154, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107154"
+        },
+        {
+          "texto": "REIS, R.L.A. ; LOPES, F.V. ; NEVES, W.L.A. ; FERNANDES Jr., D. ; RIBEIRO, C.M.S. ; CUNHA, G.A. . An improved single-ended correlation-based fault location technique using traveling waves. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 132, p. 107167, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107167"
+        },
+        {
+          "texto": "CAMPOS, J. T. L. S ; NEVES, W. L. A ; ; . New Methodology for Evaluation of Non-pilot Relay Distance Protection. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 30, p. 113-124, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s40313-018-00432-z"
+        },
+        {
+          "texto": "LEITE JUNIOR, EDUARDO ; LOPES, FELIPE V. ; COSTA, FLAVIO BEZERRA ; NEVES, WASHINGTON LUIZ ARAUJO . Closed-Form Solution for Traveling Wave-Based Fault Location on Non-Homogeneous Lines. IEEE TRANSACTIONS ON POWER DELIVERY , v. 34, p. 1-1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2019.2900674"
+        },
+        {
+          "texto": "BARROS, DAPHNE ; NEVES, WASHINGTON LUIZ ARAUJO ; DANTAS, KARCIUS MARCELUS . Controlled Switching of Series Compensated Transmission Lines: Challenges and Solutions. IEEE TRANSACTIONS ON POWER DELIVERY , v. 34, p. 1-1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2019.2916807"
+        },
+        {
+          "texto": "REIS, R. L. A. ; NEVES, W. L. A. ; LOPES, F. V. ; FERNANDES Jr., D. . Coupling Capacitor Voltage Transformers Models and Impacts on Electric Power Systems: A Review. IEEE TRANSACTIONS ON POWER DELIVERY , v. 34, p. 1-1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2019.2908390"
+        },
+        {
+          "texto": "; BARROS, D. ; REIS, R. ; COSTA, C. ; NASCIMENTO, J. ; BRITO, N. S. D. ; NEVES, W. L. A. ; MORAES, S. . Methodology for Protection Performance Evaluation on Power Transmission Networks. IEEE Transactions on Power Delivery , v. 33, p. 769-778, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2017.2710084"
+        },
+        {
+          "texto": "REIS, RAPHAEL L.A. ; NEVES, WASHINGTON L.A. ; FERNANDES, DAMÁSIO . Influence of instrument transformers and anti-aliasing filters on the performance of fault locators. ELECTRIC POWER SYSTEMS RESEARCH , v. 162, p. 142-149, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2018.05.016"
+        },
+        {
+          "texto": "GREGORY, R. C. F. ; SANTOS, A. C. ; OLIVEIRA, J. C. ; CHAVES, M. L. R. ; DANTAS, K. M. C. ; NEVES, W. L. A. ; FERNANDES JR, D. ; FONSECA, LUIZ C. A. . Performance Analysis of Controlled Reclosing Procedure of Transmission Lines under Non-ideal Conditions. IEEE Latin America Transactions , v. 16, p. 1164-1170, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . A new phasor estimation method for digital protective relays. Electric Power Systems Research (Print) , v. 142, p. 227-236, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2016.10.001"
+        },
+        {
+          "texto": "COSTA, Cecília ; REIS, R. L. A. ; ; LIMA, R. C. D. ; BRITO, N. S. D. ; NEVES, W. L. A. ; MORAES, S. R. D. . Methodology for Designing Automatic Database for Electric Power System Protection Studies. INTERNATIONAL JOURNAL OF MECHANICAL ENGINEERING AND AUTOMATION , v. 4, p. 54-61, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, E. P. ; FERNANDES Jr., D. ; NEVES, W. L. A. . Tunning CCVT Frequency Response Data for Improvement of Numerical Distance Protection. IEEE TRANSACTIONS ON POWER DELIVERY , v. PP, p. 1-1, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2017.2725941"
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. ; . Real-Time Traveling-Wave-Based Fault Location Using Two-Terminal Unsynchronized Data. IEEE Transactions on Power Delivery , v. 30, p. 1067-1076, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2014.2380774"
+        },
+        {
+          "texto": "; KUSEL, B. F. ; ; ; NEVES, W. L. A. . Fault Location on Transmission Lines Little Longer Than Half-Wavelength. Electric Power Systems Research (Print) , v. 114, p. 101-109, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . An Approach for Controlled Reclosing of Shunt-Compensated Transmission Lines. IEEE Transactions on Power Delivery , v. 29, p. 1203-1211, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; NEVES, W. L. A. ; . Coupling Capacitor Voltage Transformer: A Device to Correct its Secondary Voltage in Real Time. Journal of Control Automation and Electrical Systems , v. 24, p. 339-348, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . A Traveling-Wave Detection Method Based on Park's Transformation for Fault Locators. IEEE Transactions on Power Delivery , v. 28, p. 1626-1634, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2013.2260182"
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CARDOSO, G. A. ; . Chaveamento Controlado de Linhas de Transmissão: Uma Abordagem em Tempo Real via RTDS. Revista Controle & Automação da Sociedade Brasileira de Automação , v. 22, p. 157-168, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "ROSENTINO JR, A. J. P. ; ; ; GUIMARÃES, R. ; CHAVES, M. L. R. ; ; ; NEVES, W. L. A. . Modelling and Analysis of Electromechanical Stress in Transformers Caused by Short-circuits. Renewable Energy and Power Quality Journal , v. 9, p. 1/432-6, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . Distance Protection Using a Wavelet-Based Filtering Algorithm. Electric Power Systems Research (Print) , v. 80, p. 84-90, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu . Coupling Capacitor Voltage Transformer: A Model for Electromagnetic Transient Studies. Electric Power Systems Research , v. 77, p. 125-134, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "NAREDO, J. L. ; RAMIREZ, A. ; AMETANI, A. ; Gutierrez, A. ; MANSOLDO, A. ; GOLE, A. ; LIMA, A. ; GUSTAVSEN, B. ; WILCOX, D. ; URIBE, F. ; MOREIRA, F. ; De Leon, F. ; MARTINEZ, J. ; GUARDADO, L. ; DAVILA, M. ; M. Ritual ; NAGAOKA, N. ; WATSON, N. ; GOMEZ, P. ; NEVES, W. L. A. ; et.al . z -Transform-Based Methods for Electromagnetic Transient Simulations. IEEE Transactions on Power Delivery , v. 22, p. 1799-1805, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "ABDULSALAM, S. G. ; XU, W. ; NEVES, W. L. A. ; Liu, X. . Estimation of Transformer Saturation Characteristics From Inrush Current Waveforms. IEEE Transactions on Power Delivery , v. 21, p. 170-177, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Robust phase-domain transmission line representation based on time-domain fitting. Electric Power Systems Research , v. 76, p. 608-615, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Phase-Domain Transmission Line Models Considering Frequency-Dependent Transformation Matrices. IEEE Transactions on Power Delivery , v. 19, n.2, p. 708-714, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CAVALCANTI, Max Norat . Transmission Line Shunt Conductance from Measurements. IEEE Transactions on Power Delivery , v. 19, n.2, p. 722-729, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; ; XU, W. . Practical Distribution Transformer Models For Harmonic Studies. IEEE Transactions on Power Delivery, Nova Iorque, USA, v. 10, n.2, p. 906-912, 1995.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; . Saturation Curves Of Delta Connected Transformers. IEEE Transactions on Power Delivery, Nova Iorque, USA, v. 10, n.3, p. 1432-1437, 1995.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; . On Modelling Iron Core Nonlinearities. IEEE Transactions on Power Systems, Nova Iorque, USA, v. 8, n.2, p. 417-425, 1993.",
+          "ano": 1993,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "ARAÚJO, A. E. A. ; NEVES, W. L. A. . Transitórios Eletromagnéticos em Sistemas de Energia. 1a. ed. Belo Horizonte: Editora UFMG, 2005. v. 2000. 261p .",
+          "ano": 2000,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "VIEIRA, J. C. C. ; ; NEVES, W. L. A. ; . Challenges in Application of the Traveling Wave-Based Fault Location Methods Applied to HVDC Systems: Evaluation of Classical One- and Two-Terminal Methods. In: International Conference on Harmonics & Quality of Power (ICHQP), 2022, Napoles. 20th International Conference on Harmonics & Quality of Power (ICHQP), 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/ICHQP53011.2022.9808569"
+        },
+        {
+          "texto": "VÍTOR M. RAMOS ; DAMÁSIO FERNANDES JR. ; Washington A. Neves . Análise de um Aerogerador com Gerador de Indução Duplamente Alimentado Durante um Afundamento de Tensão. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/CBA2022/3681"
+        },
+        {
+          "texto": "FELIPE BARROS DANTAS ; MATHEUS DANTAS DE LUCENA ; DAMÁSIO FERNADES JUNIOR ; Washington Luiz Araújo Neves . Optimal Installation of Wind Turbines to Minimize Energy Losses. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/sbse.v2i1.3143"
+        },
+        {
+          "texto": "VIEIRA, J. C. C. ; FERNANDES Jr., D. ; NEVES, W. L. A. . Um Método para Diagnóstico de Faltas em Sistema HVDC Utilizando Dados de Um Terminal e Transformada Wavelet. In: XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021, 2021, Evento Online. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, J. C. C. ; FERNANDES Jr., D. ; NEVES, W. L. A . Diagnóstico Completo de Faltas em um Sistema HVDC Baseado na Teoria de Ondas Viajantes e em Dados de Monitoramento de Um Terminal.. In: XV Simpósio Brasileiro de Automação Inteligente - SBAI 2021, 2021, Online. XV Simpósio Brasileiro de Automação Inteligente - SBAI 2021, 2021. p. 601-607.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.20906/sbai2021/216159"
+        },
+        {
+          "texto": "RAMOS, V. M. ; FERNANDES Jr., D. ; NEVES, W. L. A. . Modelagem e Simulação de um Aerogerador com Gerador de Indução Duplamente Alimentado e Controle de Velocidade para Maximização da Potência Gerada. In: XV Simpósio Brasileiro de Automação Inteligente - SBAI 2021, 2021, Rio Grande (Online). XV Simpósio Brasileiro de Automação Inteligente - SBAI 2021, 2021. p. 1544-1550.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.20906/sbai2021/216560"
+        },
+        {
+          "texto": "SILVEIRA, M. I. P. ; REIS, R. L. A. ; NEVES, W. L. A. . Localização de Curtos-Circuitos em Linhas de Transmissão: Desafios para os Métodos Baseados no Domínio do Tempo com Dados de Um Terminal. In: XXIII Congresso Brasileiro de Automática (CBA), 2020, 2020, Santa Maria, RS (online). XXIII Congresso Brasileiro de Automática (CBA), 2020, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "F. A. O. Goveia ; NEVES, W. L. A ; REIS, R. L. A. . Computational Tools To Assist Relay Settings Of Pilot Scheme. In: The Annual IEEE Canadian Conference on Electrical and Computer Engineering, 2019, Edmonton. The Annual IEEE Canadian Conference on Electrical and Computer Engineering, 2019., 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "F. A. O. Goveia ; NEVES, W. L. A ; REIS, R. L. A. . Incorrect Operations of Pilot Scheme with Ground Overcurrent Protection. In: he Annual IEEE Canadian Conference on Electrical and Computer Engineering, 2019, Edmonton. he Annual IEEE Canadian Conference on Electrical and Computer Engineering, 2019, Edmonton, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, P. V. B. ; NEVES, W. L. A ; FERNANDES JR, D. ; REIS, R. L. A. . Influência do Sistema de Aquisição de Dados Sobre Algoritmos de Localização de Faltas Baseados em Componentes Fundamentais. In: XVIII Encontro Regional Ibero-americano do Cigré (ERIAC 2019), 2019, Foz do Iguaçu. XVIII Encontro Regional Ibero-americano do Cigré (ERIAC 2019), 2019, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; NEVES, W. L. A. . Influência da Correção da Resposta Transitória dos TPC: Aplicação em SEP de 230 e 500 kV. In: Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal. VI Simpósio Brasileiro de Sistemas Elétricos - SBSE 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "REIS, R. L. A. ; NEVES, W. L. A. ; ; . Influência de Transformadores para Instrumentos e Filtros Anti-Aliasing sobre Localizadores de Faltas Baseados na Teoria de Ondas Viajantes. In: Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal. VI Simpósio Brasileiro de Sistemas Elétricos - SBSE 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . Enhancing Phasor Estimation in Digital Protective Relays. In: International Confrence on Power System Transients, 2015, Cavtat. International Conference on Power System Transients, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. . Influência dos Erros Transitórios Apresentados pelos TC e TPC na Atuação de um Relé de Distância. In: Conferência Brasileira sobre Qualidade da Energia Elétrica, 2015, Campina Grande. Conferência Brasileira sobre Qualidade da Energia Elétrica -CBQEE 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "REIS, R. L. A. ; ; NEVES, W. L. A. ; FERNANDES JR, D. . Influence of Coupling Voltage Transformers on Travelling Wave-Based Fault Locators.. In: International Conference on Power Systems Transients, 2015, Cavtat. International Conference on Power Systems Transients - IPST 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; FERNANDES JR, D. ; . Controlled Switching of Transmission Line with Series Compensation. In: International Conference on Power Systems Transients, 2015, Cavtat. International Conference on Power Systems Transients - IPST 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MELO, Y. M. P. ; ; NEVES, W. L. A. ; FERNANDES JR, D. . A Comparison of Transmission Line Fault Detection Methods. In: International Conference on Power Systems Transients, 2015, Cavtat. International Conference on Power Systems Transients - IPST 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, C. A. ; ; NEVES, W. L. A. . Benefícios da Correção da Tensão Secundária de TPCs sobre a Localização de Faltas Baseada em CComponentes Fundamentas. In: SBSE, 2014, Foz do Iguaçu. SBSE 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Localização de Faltas em Linhas de Transmissão: Revisão da Literatura e Tendências Recentes. In: Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçu. SBSE 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. ; . Suportabilidade Dielétrica de Disjuntores em Manobras Controladas de Energização de Linhas de Transmissão. In: Simpósio Brasileiro de Sistemas Elétricos, 2014. SBSE 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Influência de TPCs no Chaveamento Controlado de Linhas de Transmissão. In: Simpósio Brasileiro de Sistemas Elétricos, 2014. SBSE 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Methodology for Evaluation of Relay Digital Filters during a Fault. In: IEEE PES General Meeting Conference & Exposition, 2014, Washington, DC. IEEE PES General Meeting Conference & Exposition, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Impact of Anti-Aliasing Filter and Mimic Filter on Digital Protection Relaying. In: Congresso Brasileiro de Automática, 2014, Belo Horizonte. CBA 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . A TDQ-Based Fault Detector for Digital Power System Relaying. In: IEEE PES General Meeting Conference & Exposition, 2014. IEEE PES General Meeting Conference & Exposition, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Melhoria do Desempenho da Proteção de Distância via Correção dos Transitórios de Baixa Frequência de Transformadores de Potencial Capacitivos. In: Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçu. SBSE 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Real Time Evaluation of PMU-Based Fault Locators. In: IPST, 2013, Vancouver. International Power System Transients Conference, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Um algoritmo para Localização de Faltas em Tempo Real sem o Uso de GPS. In: ERIAC, 2013, Foz do Iguaçu. ERIAC 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. ; ; SOUSA, B. A. . A Transient Based Approach to Diagnose High Impedance Faults on Smart Distribution Networks. In: IEEE/PES Conference on Innovative Smart Grid Technologies Latin America, 2013, São Paulo. IEEE/PES Conference on Innovative Smart Grid Technologies Latin America, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Influência dos Transformadores de Potencial Capacitivos e Filtros Anti-aliasing sobre algoritmos de Localzação de Faltas Baseadas em Componentes Transitórias. In: Conferência Brasileira Sobre a Qualidade da Energia Elétrica, 2013, Araxá-MG. CBQEE 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Uma Proposta para Evitar o Religamento Trifásico de Linhas de Transmissão sob Condição de Defeitos Fase-Terra. In: Encontro Regional Ibero-Americano do CIGRE, 2013, Foz do Iguaçu. XV Encontro Regional Ibero-Americano do CIGRE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . A Suitable Method for Line Controlled Switching. In: International Conference on Power System Transients, 2013, Vancouver. IPST, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Chaveamento Controlado Aplicado Ao Religamento Rápido De Linhas De Transmissão. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013, Brasília. SNPTEE 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. . Planejamento e Alternativas de Adequabilidade de Equipamentos de Média Tensão à TRT. In: Conferência Brasileira sobre Qualidade da Energia Elétrica. In: Conferência Brasileira sobre Qualidade da Energia Elétrica, 2013, Araxá-MG. CBQEE 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Transients Detection in EHV Transmission Lines Using Park s Transformation. In: IEEE/PES Transmission and Distribution Conference, 2012, Orlando. IEEE/PES Transmission and Distribution Conference, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; MELO, Y. M. P. ; ; NEVES, W. L. A. . Detecção de Faltas em Linhas de Transmissão: Uma Abordagem em Tempo Real via DSP. In: Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiania. Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, C. A. ; ; NEVES, W. L. A. ; CARDOSO, L. F. ; . Redução de Erros na Estimação Fasorial de Tensão via Correção dos Sinais Secundários de Transformadores de Potencial Capacitivos. In: Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiania. Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; ; NEVES, W. L. A. ; ; ; . Um Método para Correção da Tensão Secundária de Transformadores de Potencial Capacitivos: Validação em Tempo Real. In: Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiania. Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . ANÁLISE DA INFLUÊNCIA DOS TRANSFORMADORES DE POTENCIAL CAPACITIVOS SOBRE A LOCALIZAÇÃO DE FALTAS BASEADA NA TEORIA DE ONDAS VIAJANTES. In: Congresso Brasileiro de Automática, 2012, Campina Grande. Congresso Brasileiro de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, C. A. ; ; NEVES, W. L. A. ; ; ; CARDOSO, L. F. ; . AVALIAÇÃO DO IMPACTO DA CORREÇÃO DA TENSÃO SECUNDÁRIA DE TRANSFORMADORES DE POTENCIAL CAPACITIVOS SOBRE A PROTEÇÃO DE DISTÂNCIA. In: Congresso Brasileiro de Automática, 2012, Campina Grande. Congresso Brasileiro de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Transients Detection in EHV Transmission Lines Using Park's Transformation. In: IEEE/PES Transmission and Distribution Conference and Eposition, 2012, Orlando, Flórida, E.U.A.. IEEE/PES Transmission and Distribution Conference and Eposition, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . Detecção da Extinção de Defeitos em Linhas de Transmissão para Religamento Trifásico. In: Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiania. SBSE 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. ; . Estudo de Surtos Decorrentes de Manobras em Bancos de Capacitores - Procedimentos Computacionais e Medidas Mitigadoras. In: Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia. SBSE 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. . Avaliação da Influência da Suportabilidade Dielétrica do Disjuntor no Desempenho de um Método de Chaveamento Controlado Aplicado a Manobras de Linhas de Transmissão. In: Congresso Brasileiro de Automática, 2012, Campina Grande. CBA 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Investigação dos Distúrbios da Tensão Secundária de Transformadores de Potencial Capacitivos no Desempenho da Proteção de Distância de Linhas de Transmissão. In: Congresso Brasileiro de Automática, 2012, Campina Grande. CBA 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ROSENTINO JR, A. J. P. ; ; ; GUIMARÃES, R. ; CHAVES, M. L. R. ; ; ; NEVES, W. L. A. . Modelling and Analysis of Electromechanical Stress in Transformers Caused by Short-Circuits. In: International Conference on Renewable Energies and Power Quality, 2011, Las Palmas. International Conference on Renewable Energies and Power Quality, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CARDOSO, G. A. ; . Real Time Implementation of Transmission Line Controlled Switching. In: International Conference on Power Systems Transients, 2011, Delft. International Conference on Power Systems Transients, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; NEVES, W. L. A. . Correction of the Secondary Voltage of Coupling Capacitor Voltage Transformers in Real Time. In: International Conference on Power Systems Transients, 2011, Delft. International Conference on Power Systems Transients, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Fault Location on Transmission Lines Based on Travelling Waves. In: International Conference on Power Systems Transients, 2011, Delft. International Conference on Power Systems Transients, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Correção de Distúrbios da Tensão Secundária de Transformadores de Potencial Capacitivos - Impacto sobre a Estimação de Fasores. In: Encontro Regional Ibero-americano do CIGRÉ, 2011, Ciudad del Este. Encontro Regional Ibero-americano do CIGRÉ, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. . Consecução de um Dispositivo para Redução do Pico da Tensão de Restabelecimento Transitória. In: Encontro Regional Ibero-americano do CIGRÉ, 2011, Ciudad del Este. Encontro Regional Ibero-americano do CIGRÉ, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Um Compensador para a Correção da Tensão Secundária de Transformadores de Potencial Capacitivos em Tempo Real. In: Conferência Brasileira sobre Qualidade da Energia Elétrica, 2011, Cuiabá. Conferência Brasileira sobre Qualidade da Energia Elétrica, 2011. p. 499-504.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Soares, R. M. ; ; NEVES, W. L. A. ; . Estudo da Adequabilidade de Disjuntores de Média e Alta Tensão Devido às Solicitações de TRT - Procedimentos e Medidas Mitigadoras. In: Congresso de Inovação Tecnológica em Energia Elétrica, 2011, Fortaleza. Congresso de Inovação Tecnológica em Energia Elétrica, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; ; BALTAR, F. J. A. ; ROSENTINO JR, A. J. P. ; ; ; GUIMARÃES, R. ; CHAVES, M. L. R. ; . A Comparative Investigation of Electromechanical Stresses on Transformers Caused by Inrush and Short-Circuit Currents. In: Electrical Power Quality and Utilization, 2011, Lisboa. Electrical Power Quality and Utilization, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. ; . An Adaptive Fault Location Method for Smart Distribution and Transmission Grids. In: IEEE PES Conference on Innovative Smart Grid Technologies, 2011, Medellin. IEEE PES Conference on Innovative Smart Grid Technologies, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; ; ; ; Souza, J. E. M. . Impacto da Conexão de Máquinas de Grande Porte em Uma Rede de Distribuição Real. In: Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010, Belém. Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; . Mitigação de Tensão de Restabelecimento Transitória em Equipamentos de Média Tensão. In: Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010, Belém. Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; NEVES, W. L. A. ; . Um Filtro Digital Recursivo para Correção da Tensão Secundária de Transformadores de Potencial Capacitivos: Uma Abordagem em Tempo Real. In: Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010, Belém. Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. A. ; ; NEVES, W. L. A. ; . Um Dispositivo para Correção da Tensão Secundária de Transformadores de Potencial Capacitivos: Aplicação em Tempo Real. In: Congresso Brasileiro de Automática, 2010, Bonito - MS. Congresso Brasileiro de Automática - CBA 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Um Algoritmo de Estimação de Fasores para a Proteção de Distância de Linhas de Transmissão. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. Simpósio Brasileiro de Sistemas Elétricos, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. ; . Análise no Domínio da Frequência para Alocação de Equivalentes de Redes nos Sistemas Elétricos. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. Simpósio Brasileiro de Sistemas Elétricos - III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. ; . Estratégia no Domínio da Frequência para Alocação de Equivalentes de Redes Elétricas. In: Bolivian Engineering and Technology Congress, 2010, La Paz - Bolívia. Bolivian Engineering and Technology Congress (BETCON 2010), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. . Device to Limit Transient Recovery Voltage. In: IEEE/PES Transmission and Distribution Conference and Exposition Latin America, 2010, São Paulo - SP. IEEE/PES T&D Conference and Exposition Latin America, 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. . Síntese de Redes Elétricas via Modelo Dependente da Frequência: Estimação de Parâmetros e Análise no Domínio da Frequência. In: Congresso Brasileiro de Automática, 2010, Bonito - MS. Congresso Brasileiro de Automática (CBA 2010), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Correção Numérica de Distúrbios da Tensão Secundária de Transformadores de Potencial Capacitivo. In: Congresso Brasileiro de Automática, 2010, Bonito - MS. Congresso Brasileiro de Automática - XVIII CBA, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Análise do Comportamento de Transformadores de Potencial Capacitivos frente a Sobretensões em Sistemas Elétricos de Potência. In: Congresso Brasileiro de Automática, 2010. Congresso Brasileiro de Automática - XVIII CBA, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . A Recursive Filter to Correct Disturbance in the Secondary Voltage of Coupling Capacitor Voltage Transformers. In: International Symposium on High Voltage Engineering, 2009., 2009, Cape Town. International Symposium on High Voltage Engineering, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Uma Técnica para Compensação Dinâmica de Transformadores de Potencial Capacitivos.. In: Encontro Regional Iberoamericano do Cigré, 2009, Puerto Iguazu. ERIAC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. ; SILVA, C. A. ; . Uma Metodologia para Compensação Dinâmica da Tensão Secundária de Transformadores de Potencial Capacitivos.. In: SNPTEE 2009, 2009, Recife. SNPTEE 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . Aplicação de Chaveamento Controlado para Manobras de Religamento de Linhas de Transmissão: Estudo de Casos. In: ERIAC 2009, 2009, Puerto Iguazu. ERIAC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; Soares, R. M. . Efeitos da Representação de Equivalentes de Redes Elétricas em Análises de TRT: Estudo de Casos. In: VIII Conferência Brasileira sobre Qualidade da Energia Elétrica (CBQEE), 2009, Blumenau, SC. VIII Conferência Brasileira sobre Qualidade da Energia Elétrica (CBQEE).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CARDOSO, G. A. ; . On Applying Controlled Switching to Transmission Lines: Case Studies. In: International Power System Transients, 2009, Kyoto. IPST 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CARDOSO, G. A. ; . Avaliação de Chaveamento Controlado de Linhas de Transmissão em Tempo Real via RTDS. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife-PE. Seminário Nacional de Produção e Transmissão de Energia Elétrica - XX SNPTEE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO, G. A. ; NEVES, W. L. A. ; ; ; . Uma Chave Controlada para Redução de Sobretensões de Manobra em Linhas de Transmissão. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2009, Recife. Seminário Nacional de Produção e Transmissão de Energia Elétrica - XX SNPTEE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; ; ; . Manobras em Sistemas de Distribuição: Impacto em Consumidores Residenciais. In: Conferência Brasileira sobre Qualidade da Energia Elétrica - VIII CBQEE, 2009, Blumenau - SC. Conferência Brasileira sobre Qualidade da Energia Elétrica - VIII CBQEE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Estimação de Fasores Baseada na Transformada Wavelet para Uso na Proteção de Distância. In: Simpósio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte. Simpósio Brasileiro de Sistemas Elétricos - SBSE2008, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . High-Speed Distance Protection Using A Wavelet-Based Filtering Algorithm. In: Power System Computation Confrence (PSCC), 2008, 2008, Glasgow. Power System Computation Confrence (PSCC), 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . Distance Protection Using a Novel Phasor Estimation Algorithm Based on Wavelet Transform. In: IEEE Power & Energy General Meeting, 2008, Pittsburg. IEEE Power & Energy General Meeting, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; ; . Redução de Sobretensões de Manobras em Linhas de Transmissão via Chaveamento Controlado. In: Simpósio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte. Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; ; . Mitigation of Switching Overvoltages in Transmission Lines via Controlled Switching. In: IEEE PES General Meeting, 2008, Pittsburgh. 2008 IEEE PES General Meeting, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, C. A. ; NEVES, W. L. A. ; . Uma Metodologia para o Cálculo de Parâmetros de Transformadores de Potencial Capacitivos. In: Simpósio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte. Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; SILVA, C. A. ; . A Coupling Capacitor Voltage Transformer Model from Laboratory Measurements. In: CIGRÉ SC A3 International Technical Colloquium, 2007, Rio de Janeiro. Proceendings of the CIGRÉ SC A3 International Technical Colloquium, 2007., 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; ; . Chaveamento Controlado de Linhas de Transmissão.. In: Conferência Brasileira sobre Qualidade da Energia Elétrica, 2007,, 2007, Santos. Anais da Conferência Brasileira sobre Qualidade da Energia Elétrica - VII CBQEE, 2007., 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; . EMTP Applied to Evaluate Three-Terminal Line Distance Protection Schemes. In: International Conference on Power Systems Transients, 2007, Lyon, França. International Conference on Power Systems Transients, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; XU, W. ; . An Algorithm for Finding the Steady State Solution of Electric Networks. In: 2006 IEEE PES Transmission and Distribution Conference and Exposition: Latin America, 2006, Caracas. 2006 IEEE PES Transmission and Distribution Conference and Exposition: Latin America.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu ; . Comparisons Between Lab Measurements and Digital Simulations for a Coupling Capacitor Voltage Transformer. In: IEEE/PES T&D 2006 Latin America, 2006, Caracas. Anais do IEEE/PES T&D 2006 Latin America.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu ; . Estudos no Domínio da Freqüência para Transformadores de Potencial Capacitivos: Estado da Arte e Modelagem. In: Simpósio Brasileiro de Sistemas Elétricos, 2006, Campina Grande. Anais do Simpósio Brasileiro de Sistemas Elétricos.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. ; ; . Linhas de Transmissão Acopladas: Cálculo de Parâmetros para Estudos de Fluxo de Potência. In: Simpósio Brasileiro de Sistemas Elétricos, 2006, Campina Grande. Anais do Simpósio Brasileiro de Sistemas Elétricos.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu ; . Coupling Capacitor Voltage Transformer: Laboratory Tests and Digital Simulations. In: International Conference on Power Systems Transients, 2005, Montreal. Proceedings of the International Conference on Power Systems Transients (IPST?05) in Montreal, Canada on June 19-23, 2005, Paper No. IPST05 - 076.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; SOUSA, B. A. ; . Computation of Transmission Line Parameters for Power Flow Studies. In: Canadian Conference on Electrical and Computer Engineering, 2005, Saskatoon. Proceedings of the 18th Canadian Conference on Electrical and Computer Engineering, 2005, Saskatoon, Canada.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; SOUSA, B. A. ; ; . Representação de Linhas de Transmissão Mutuamente Acopladas em Estudos de Fluxo de Potência. In: IEEE/PES T&D 2004 Latin America, 2004, São Paulo. IEEE/PES T&D 2004 Latin America, 2004, São Paulo - SP, 2004..",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu ; . Transformador de Potencial Capacitivo: Um Modelo Validado por Medições em Laboratório. In: IEEE/PES T&D 2004 Latin America, 2004, São Paulo - SP. IEEE/PES T&D 2004 Latin America.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; ; SILVA, Sandra Sayonara Bispo ; ; ; FONTES, Alessandro V ; . Classificação de Faltas via Redes Neurais Artificiais. In: Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2003, Aracaju. V Seminário Brasileiro sobre Qualidade de Energia Elétrica - V SBQEE, 2003. v. 1. p. 163-168.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; LIMA, Antonio Carlos S . Cálculo de Parâmetros de Linhas de Transmissão Considerando a Dependência destes com a Freqüência. In: Seminário Brasileiro sobre Qualidade da Energia Elétrica, 2003, Aracaju. Seminário Brasileiro sobre Qualidade da Energia Elétrica-V SBQEE, 2003. v. 1. p. 187-192.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; LIMA, Antonio Carlos S . Modelos de Linhas de Transmissão no Domínio de Fases: Estado da Arte. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2003. XVII SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA- XVII SBQEE.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Método de Ajuste Vetorial Aplicado à Síntese de Funções Racionais em Modelos de Linhas de Transmissão. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2003, Uberlândia. XVII SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - XVII SNPTEE, 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; ; LIMA, Antonio Carlos S . Método de Ajuste Vetorial Aplicado à Síntese de Respostas em Freqüência por Funções Racionais. In: Seminário Brasileiro sobre Qualidade da Energia Elétrica, 2003, Aracaju. V Seminário Brasileiro sobre Qualidade da Energia Elétrica - V SBQEE, 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Robust Phase-Domain Transmission Line Representation Based on Time-Domain Fitting. In: International Conference on Power Systems Transients, 2003. International Conference on Power Systems Transients -IPST'03.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu ; . Um Modelo de Transformador de Potencial Capacitivo para Estudos de Sobretensões Transitórias. In: Seminário Brasileiro sobre Qualidade da Energia Elétrica, 2003, Aracaju. V Seminário Brasileiro sobre Qualidade da Energia Elétrica - V SBQEE, 2003. v. 1. p. 175-180.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; VASCONCELOS, José Carlos Rosa e Silva de Abreu . A Coupling Capacitor Voltage Transformer Representation for Electromagnetic Transient Studies. In: International Conference on Power Systems Transients, 2003, New Orleans. International Conference on Power Systems Transients - IPST'03, 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "VASCONCELOS, José Carlos Rosa e Silva de Abreu ; FREIRA, Antonio Roseval ; NEVES, W. L. A. ; . Subsídios para Modelagem de Transformadores de Potencial Capacitivos em Função da Freqüência. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2003. XVII SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - XVII SNPTEE.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NEVES, W. L. A. . Sobretensões Transitórias Decorrentes de Manobras de Bancos de Capacitores. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do VI CBA - Congresso Brasileiro de Automática, 2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Linhas de Transmissão: Análise de Modelos Utilizados em Estudos sobre Qualidade da Energia Elétrica. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do XIV Congresso Brasileiro de Automática, 2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CAVALCANTI, Max Norat . Medições em Laboratório para Estimativa da Condutância de Linhas de Transmissão Aéreas. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do XIV Congresso Brasileiro de Automática, 2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Modelo de Linhas de Transmissão no Domínio de Fases: Cálculo da Admitância Característica e do Fator de Propagação. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do XIV Congresso Brasileiro de Automática, 2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Modelo de Linhas de Transmissão no Domínio de Fases: Método de Ajuste Vetorial Aplicado a Síntese de Funções Racionais. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do XIV Congresso Brasileiro de Automática, 2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Modelos de Linhas de Transmissão no Domínio de Fases: Estado da Arte. In: CBA - Congresso Brasileiro de Automática, 2002, Natal-RN. Anais do XIV Congresso Brasileiro de Automática, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Frequency-Dependent Transformation Matrices for Phase-Domain Transmission Line Models. In: IEEE PES Summer Meeting, 2001, Vancouver. Proceedings of the IEEE Power Engineering Society Summer Meeting, 2001. p. 1782-1787.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; ; CAVALCANTI, Max Norat . The Effect of Shunt Conductance on Transmission Line Models. In: International Power Sistem Transients - IPST'2001 Conference, 2001, Rio de Janeiro. Proceedings of the 4th International Conference on Power Systems Transients, 2001. p. 49-54.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Modelos de Linhas de Transmissão no Domínio de Fases: Estudos sobre Qualidade da Energia Elétrica. In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2001, Porto Alegre. Anais do VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2001. p. 169-174.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. . Estudos de Distorção Harmonica Em Sistemas de Transmissão. In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2001, Porto Alegre. Anais do IV SBQEE - Seminário Brasileiro sobre Qualidade da Energia Elétrica, 2001. p. 175-181.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . MODELO PRECISO DE BAIXA ORDEM PARA LINHAS DE TRANSMISSÃO AÉREAS E CABOS SUBTERRÂNEOS. In: III Encontro Nacional de Engenharia de Alta Tensão, 2000, Campina Grande. Anais do III ENEAT, 01 a 04 de junho, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . LINHAS DE TRANSMISSÃO A PARÂMETROS DEPENDENTES DA FREQUÊNCIA: DOMÍNIO DE FASES VERSUS DOMÍNIO MODAL. In: III Encontro Nacional de Engenharia de Alta Tensão, 2000, Campina Grande. Anais do III ENEAT, 01 a 04 de junho, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . CÁLCULO DE PARÂMETROS PARA TRANSFORMADORES DE POTENCIAL CAPACITIVO. In: III Encontro Nacional de Engenharia de Alta Tensão, 2000, Campina Grande. Anais do III ENEAT, 01 a 04 de junho, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. ; SOUSA, B. A. ; MELO, M. O. B. C. ; ALVES, F. R. ; . TENSÃO DE RESTABELECIMENTO TRANSITÓRIA EM DISJUNTORES DE CLASSE 15 kV. In: III Encontro Nacional de Engenharia de Alta Tensão, 2000, Campina Grande. Anais do III ENEAT, 01 a 04 de junho, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . IDENTIFICAÇÃO DE PARÂMETROS PARA TRANSFORMADORES DE POTENCIAL CAPACITIVOS. In: XIII Congresso Brasileiro de Automática, 2000, Florianópolis. Anais do XIII CBA, 11 a 14 de setembro, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . SIMULAÇÃO DE TRANSITÓRIOS EM LINHAS DE TRANSMISSÃO NO DOMÍNIO DE FASES. In: XIII Congresso Brasileiro de Automática, 2000, Florianópolis. Anais do XIII CBA, 11 a 14 de setembr, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . SENSIBILIDADE DE MODELOS DE LINHAS DE TRANSMISSÃO DEVIDA À CONDUTÂNCIA. In: XIII Congresso Brasileiro de Automática, 2000, Florianópolis. Anais do XIII CBA, 11 a 14 de setembro, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Frequency-Dependent Low order Approximation of Transmission Line Parameters. In: International Power System Transients - IPST'99 Conference, 1999, Budapest. Proceedings of IPST'99. Budapeste, Hungria, 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "; ; NEVES, W. L. A. ; SOUSA, B. A. ; ALVES, F. R. ; MELO, M. O. B. C. ; . Estudos de Trt Em Disjuntores de Classe 15 Kv. In: III Congresso Latino Americano de Distribuição de Energia Elétrica, 1998. Estudos de TRT em disjuntores de classe 15 kV.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Transmission Lines: Fitting Technique Optimization. In: International Power Sistem Transients - IPST'97 Conference, 1997, Seattle. Transmission Lines: Fitting Technique Optimization. Seattle, Washington, USA, 1997. p. 79-83.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; NEVES, W. L. A. . Linhas de Transmissão: Modelo Computacional Otimizado. In: XIV SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 1997. Linhas de Transmissão: Modelo Computacional Otimizado. BELÉM - PA - BRASIL.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. ; . Transformer Core Modelling. In: International Power Sistem Transients - IPST'95 Conference, 1995. Transformer Core Modelling. Lisboa, Portugal. p. 125-130.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. . Practical Distribution Transformer Models for Harmonic Studies. In: IEEE SUMMER MEETING, 1994, SAN FRANCISCO. SAN FRANCISCO, CALIFORNIA, USA, 1994.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. . Saturation Curves of Delta Connected Transformers from Measurements. In: IEEE SUMMER MEETING, 1994, SAN FRANCISCO. SAN FRANCISCO, CALIFORNIA, USA, 1994.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. . On Modelling Iron Core Nonlinearities. In: IEEE Winter Meeting, 1992, NEW YORK. NEW YORK, USA, 1992.",
+          "ano": 1992,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. . Prototype Magnetic Designs and Loss Measurements for The Dual Frequency Booster Synchroton.. In: IEEE Particle Accelerator Conference, 1989, cHICAGO. Proceedings of IEEE Particle Accelerator Conference. CHICAGO, USA, 1989.",
+          "ano": 1989,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A. . Loss Measurements Programs at TRIUMF. In: The KAON PDS Magnetic Design Workshop, 1988, VANCOUVER. Proceedings of The KAON PDS Magnetic Design Workshop. Vancouver, B.C. Canada, 1988.",
+          "ano": 1988,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MELO, Y. M. P. ; ; ; NEVES, W. L. A. . Localização de faltas em linhas de transmissão: estudo de métodos baseados na teoria das ondas viajantes e na análise de componentes de frequência fundamental. In: Congresso Brasileito de Automática, 2012, Campina Grande. Congresso Brasileito de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "items": [
+        {
+          "texto": "; ; NEVES, W. L. A. . An Approach for Controlled Reclosing of Shunt-Compensated Transmission Lines. IEEE Transactions on Power Delivery , 2014.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

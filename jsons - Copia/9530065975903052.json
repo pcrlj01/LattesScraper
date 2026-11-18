@@ -1,0 +1,918 @@
+{
+  "name": "Eduardo Pestana de Aguiar",
+  "lattes_id": "9530065975903052",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "PUSSENTE, GUILHERME A. N. ; BIUNDINI, IAGO Z. ; MARCATO, ANDRE L. M. ; DE AGUIAR, EDUARDO P. . Advanced drone-based powerline inspection using image segmentation and adaptive visual control. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 47, p. ---, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-05370-3"
+        },
+        {
+          "texto": "ALVES, KAIKE SA TELES ROCHA ; DE AGUIAR, EDUARDO PESTANA . NFISiS: New Perspectives on Fuzzy Inference Systems for Renewable Energy Forecasting. Journal Of Control Automation And Electrical Systems , v. -, p. ---, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/s40313-025-01228-8"
+        },
+        {
+          "texto": "ALVES, KAIKE SA TELES ROCHA ; DE JESUS, CAIAN DUTRA ; DE AGUIAR, EDUARDO PESTANA . A new Takagi-Sugeno-Kang model to time series forecasting. ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE , v. 133, p. 108155, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.engappai.2024.108155"
+        },
+        {
+          "texto": "DIAS, UALISON R. F. ; VARGAS E PINTO, ARTHUR C. ; MONTEIRO, HENRIQUE L. M. ; PESTANA DE AGUIAR, EDUARDO . New perspectives for the intelligent rolling stock classification in railways: an artificial neural networks-based approach. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 46, p. ---, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-04769-2"
+        },
+        {
+          "texto": "SA TELES ROCHA ALVES, KAIKE ; BALLINI, ROSANGELA ; PESTANA DE AGUIAR, EDUARDO . Financial Series Forecasting: A New Fuzzy Inference System for Crisp Values and Interval-Valued Predictions. Computational Economics , v. 65, p. 3673-3731, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s10614-024-10670-w"
+        },
+        {
+          "texto": "PUSSENTE, GUILHERME A. N. ; DE AGUIAR, EDUARDO P. ; MARCATO, ANDRE L. M. ; PINTO, MILENA F. . UAV Power Line Tracking Control Based on a Type-2 Fuzzy-PID Approach. ROBOTICS , v. 12, p. 60, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/robotics12020060"
+        },
+        {
+          "texto": "VARGAS PINTO, ARTHUR C. ; DA SILVA, LARISSA C. C. ; SILVA, PETRÔNIO C. L. ; GUIMARÃES, FREDERICO G. ; DE AGUIAR, EDUARDO P. . Autonomous data partitioning for type-2 fuzzy set based time series. Evolving Systems , v. -, p. -, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s12530-023-09532-x"
+        },
+        {
+          "texto": "CASTRO, ALESSANDRO ; MARCATO, ANDRÉ ; AGUIAR, EDUARDO . Multifractal Analysis of the Brazilian Electricity Market.. IEEE Access , v. -, p. 1-1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/access.2023.3313099"
+        },
+        {
+          "texto": "DIAS, JAIR MOREIRA ; MENDES, ADRIANO FERNANDO ; PESTANA DE AGUIAR, EDUARDO ; SILVEIRA, LUAN COSTA ; NOEL DIAS, MARIA FERNANDA ; BARBOSA RAPOSO, NÁDIA REZENDE . Interobserver Agreement and Satisfaction With the use of Telemedicine for Evaluating low Back Pain: A Primary, Observational, Cross-Sectional, Analytical Study. GLOBAL SPINE JOURNAL , v. -, p. -, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1177/21925682231194453"
+        },
+        {
+          "texto": "ROCHA, M. V. G. ; ALVES, KAIKE SA TELES ROCHA ; QUEIROZ, E. R. C. ; OLIVEIRA, F. L. C. ; HELL, M. B. ; AGUIAR, E. P. . Power Transformers Thermal Modeling Based on the Modified Set-Membership Evolving Multivariable Gaussian and Variable Step-Size Evolving Multivariable Gaussian. Journal Of Control Automation And Electrical Systems , p. -, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00865-z"
+        },
+        {
+          "texto": "HELL, MICHELL ; PESTANA DE AGUIAR, EDUARDO ; SOARES, NIELSON ; GOLIATT, LEONARDO . A Data-Driven Time-Series Fault Prediction Framework for Dynamically Evolving Large-Scale Data Streaming Systems. International Journal of Fuzzy Systems , v. -, p. ---, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s40815-022-01292-1"
+        },
+        {
+          "texto": "NETO, CARLOS M. VIRIATO ; HONORIO, LUCA G. ; DE AGUIAR, EDUARDO P. . Semi-supervised deep rule-based approach for the classification of Wagon Bogie springs condition. EVOLVING SYSTEMS , v. -, p. ---, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s12530-022-09440-6"
+        },
+        {
+          "texto": "FONSECA, L. D. ; AGUIAR, E. P. . Stochastic Optimization Combined with Type-2 Fuzzy Logic System for the Classification of Trends in Hot Boxes and Hot Wheels. International Journal Of Fuzzy Systems , v. -, p. -, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s40815-022-01326-8"
+        },
+        {
+          "texto": "PINTO, ARTHUR CAIO VARGAS ; FERNANDES, THIAGO ESTERCI ; SILVA, PETRÔNIO C. L. ; GUIMARÃES, FREDERICO G. ; WAGNER, CHRISTIAN ; PESTANA DE AGUIAR, EDUARDO . Interval type-2 fuzzy set based time series forecasting using a data-driven partitioning approach. EVOLVING SYSTEMS , v. -, p. ---, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s12530-022-09452-2"
+        },
+        {
+          "texto": "BARINO, FELIPE OLIVEIRA ; DE AGUIAR, EDUARDO PESTANA ; DE MELLO HONORIO, LEONARDO ; SILVA, VINICIUS NUNES HENRIQUE ; LOPEZ-BARBERO, ANDRES PABLO ; DOS SANTOS, ALEXANDRE BESSA . A Fuzzy Approach to LPFG-Based Optical Sensor Processing and Interrogation. IEEE Transactions on Instrumentation and Measurement , v. 71, p. 1-7, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tim.2022.3216390"
+        },
+        {
+          "texto": "LIMA, JOÃO ; MEDEIROS, ALVARO ; AGUIAR, EDUARDO ; JR., VICENTE ; GUERRA, TARCIANA . User-Level Handover Decision Making Based on Machine Learning Approaches. Journal of Communication and Information Systems (JCIS), , v. 37, p. 104-108, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14209/jcis.2022.11"
+        },
+        {
+          "texto": "GONÇALVES DA ROCHA, MARCOS V. ; HELL, MICHEL B. ; ROCHA ALVES, KAIKE SA T. ; CYRINO OLIVEIRA, FERNANDO L. ; PESTANA DE AGUIAR, EDUARDO . Power Transformers Thermal Modeling using an Enhanced Set-Membership Multivariable Gaussian Evolving Fuzzy System. ELECTRIC POWER SYSTEMS RESEARCH , v. 194, p. 107088, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107088"
+        },
+        {
+          "texto": "FERNANDES, THIAGO E. ; DE AGUIAR, EDUARDO P. . A new model to prevent failures in gas turbine engines based on TSFRESH, self-organized direction aware data partitioning algorithm and machine learning techniques. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 43, p. 261, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s40430-021-02956-z"
+        },
+        {
+          "texto": "QUEIROZ, EDUARDO RAVAGLIA CAMPOS ; ALVES, KAIKE SA TELES ROCHA ; CYRINO OLIVEIRA, FERNANDO LUIZ ; PESTANA DE AGUIAR, EDUARDO . Variable step-size evolving participatory learning with kernel recursive least squares applied to gas prices forecasting in Brazil. Evolving Systems , v. -, p. -, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s12530-021-09388-z"
+        },
+        {
+          "texto": "SOARES, NIELSON ; AGUIAR, E. P. ; SOUZA, AMANDA CAMPOS ; FONSECA, L. G. . Unsupervised Machine Learning Techniques to Prevent Faults in Railroad Switch Machines. International Journal of Critical Infrastructure Protection , v. 33, p. 100423, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ijcip.2021.100423"
+        },
+        {
+          "texto": "ALVES, KAIKE SA TELES ROCHA ; PESTANA DE AGUIAR, EDUARDO . A novel rule-based evolving Fuzzy System applied to the thermal modeling of power transformers. APPLIED SOFT COMPUTING , v. 112, p. 107764, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.asoc.2021.107764"
+        },
+        {
+          "texto": "CHAWLA, YASH ; RADZIWON, AGNIESZKA ; SCARINGELLA, LAURENT ; CARLSON, EWA LAZARCZYK ; GRECO, MARCO ; SILVEIRA, PAULO DUARTE ; DE AGUIAR, EDUARDO PESTANA ; SHEN, QINGYANG ; WILL, MARKUS ; KOWALSKA-PYZALSKA, ANNA . Predictors and outcomes of individual knowledge on early-stage pandemic: Social media, information credibility, public opinion, and behaviour in a large-scale global study. INFORMATION PROCESSING & MANAGEMENT , v. 58, p. 102720, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ipm.2021.102720"
+        },
+        {
+          "texto": "FERNANDES, THIAGO E. ; FERREIRA, MATHEUS A. M. ; MIRANDA, GUILHERME P. C. DE ; DUTRA, ALEXANDRE F. ; ANTUNES, MATHEUS P. ; SILVA, MARCOS V. G. R. DA ; AGUIAR, EDUARDO P. DE . Classification of Lathe?s Cutting Tool Wear Based on an Autonomous Machine Learning Model. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 33, p. 167-182, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00819-5"
+        },
+        {
+          "texto": "ABRITTA, RAMON ; PANOEIRO, FREDERICO F. ; DE AGUIAR, EDUARDO P. ; HONÓRIO, LEONARDO DE M. ; MARCATO, ANDRÉ L. M. ; DA SILVA JUNIOR, IVO C. . Fuzzy system applied to a hydraulic turbine efficiency curve fitting. ELECTRICAL ENGINEERING , v. -, p. ---, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s00202-020-00951-6"
+        },
+        {
+          "texto": "ALVES, KAIKE SA TELES ROCHA ; HELL, MICHEL ; CYRINO OLIVEIRA, FERNANDO LUIZ ; DE AGUIAR, EDUARDO P. . An enhanced set-membership evolving participatory learning with kernel recursive least squares applied to thermal modeling of power transformers. ELECTRIC POWER SYSTEMS RESEARCH , v. 184, p. 106334, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106334"
+        },
+        {
+          "texto": "CORRÊA, LUIZ A. ; DE A. OLIVEIRA, IAGO ; DE MEDEIROS, ALVARO AUGUSTO MACHADO ; DOS SANTOS, ALEXANDRE B. ; AGUIAR, EDUARDO P. DE ; SILVEIRA, DANIEL D. . Wideband FPGA-based digital modulator programming and practical validation techniques. ANALOG INTEGRATED CIRCUITS AND SIGNAL PROCESSING , v. -, p. ---, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s10470-020-01673-2"
+        },
+        {
+          "texto": "RAVAGLIA CAMPOS QUEIROZ, EDUARDO ; COSTA, RODRIGO PEROBELI SILVA ; OLIVEIRA, FERNANDO LUIZ CYRINO ; MARCATO, ANDRÉ LUÍS MARQUES ; AGUIAR, EDUARDO PESTANA DE . AUTONOMOUS LANDING OF UAV: A COMPARISON BETWEEN TYPE-1 AND TYPE-2 FUZZY LOGIC SYSTEMS. REVISTA MUNDI ENGENHARIA, TECNOLOGIA E GESTÃO , v. 5, p. ---, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.21575/25254782rmetg2020vol5n61286"
+        },
+        {
+          "texto": "SOUZA, AMANDA CAMPOS ; SILVA, GULLIVER CATÃO ; CALDEIRA, LECINO ; DE ALMEIDA NOGUEIRA, FERNANDO MARQUES ; JUNIOR, MOISÉS LUIZ LAGARES ; DE AGUIAR, EDUARDO PESTANA . An enhanced method for the identification of ferritic morphologies in welded fusion zones based on gray-level co-occurrence matrix: A computational intelligence approach. PROCEEDINGS OF THE INSTITUTION OF MECHANICAL ENGINEERS, PART C: JOURNAL OF MECHANICAL ENGINEERING SCIENCE (ONLINE) , v. 235, p. 095440622094226-1240, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1177/0954406220942268"
+        },
+        {
+          "texto": "DE AGUIAR, EDUARDO P. ; FERNANDES, THIAGO E. ; NOGUEIRA, FERNANDO M. DE A. ; SILVEIRA, DANIEL D. ; VELLASCO, MARLEY M. B. R. ; RIBEIRO, MOISÉS V. . A New Model to Distinguish Railhead Defects Based on Set-Membership Type-2 Fuzzy Logic System. International Journal of Fuzzy Systems , v. 23, p. 1057-1069, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s40815-020-00945-3"
+        },
+        {
+          "texto": "CAMPOS, R. A. ; AMARAL, R. P. F. ; SOARES, N. ; FONSECA, L. G. ; LAGARES JUNIOR, M. L. ; AGUIAR, E. P. . A new model to distinguish welds performed by short-circuit GMAW based on FRESH algorithm and MLP ANN. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 41, p. 120, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s40430-019-1607-0"
+        },
+        {
+          "texto": "CALDERANO, PEDRO H. S. ; RIBEIRO, MATEUS G. C. ; AMARAL, R. P. F. ; VELLASCO, MARLEY M. B. R. ; TANSCHEIT, RICARDO ; AGUIAR, E. P. . An enhanced aircraft engine gas path diagnostic method based on upper and lower singleton type-2 fuzzy logic system. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 41, p. 70, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s40430-019-1567-4"
+        },
+        {
+          "texto": "DE SOUZA, JOÃO PEDRO CARVALHO ; MARCATO, ANDRÉ LUÍS MARQUES ; DE AGUIAR, EDUARDO PESTANA ; JUCÁ, MARCO AURÉLIO ; TEIXEIRA, ALEXANDRE MENEZES . Autonomous Landing of UAV Based on Artificial Neural Network Supervised by Fuzzy Logic. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. 1-10, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s40313-019-00465-y"
+        },
+        {
+          "texto": "AMARAL, R. P. F. ; RIBEIRO, MOISÉS V. ; AGUIAR, E. P. . Type-1 and singleton fuzzy logic system trained by a fast scaled conjugate gradient methods for dealing with binary classification problems. NEUROCOMPUTING , v. 355, p. 57-70, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.neucom.2019.05.002"
+        },
+        {
+          "texto": "AGUIAR, E. P. ; AMARAL, RENAN P. F. ; ; RIBEIRO, M. V. . An enhanced singleton type-2 fuzzy logic system for fault classification in a railroad switch machine. ELECTRIC POWER SYSTEMS RESEARCH , v. 158, p. 195-206, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.12.018"
+        },
+        {
+          "texto": "SALMENTO, M. L. G. ; AGUIAR, E. P. ; CAMPONOGARA, A. ; RIBEIRO, M. V. . An Enhanced Receiver for an Impulsive UWB-based PLC System for Low-Bit Rate Applications. DIGITAL SIGNAL PROCESSING , v. 70, p. 145-154, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.dsp.2017.08.003"
+        },
+        {
+          "texto": "SANTIS, R. B. ; AGUIAR, E. P. ; FONSECA, L. G. . Multi-criteria supplier selection using fuzzy analytic hierarchy process: case study from a Brazilian railway operator. BRAZILIAN JOURNAL OF OPERATIONS AND PRODUCTION MANAGEMENT , v. 14, p. 428-437, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.14488/bjopm.2017.v14.n3.a15"
+        },
+        {
+          "texto": "DE AGUIAR, EDUARDO P. ; DE A. NOGUEIRA, FERNANDO M. ; VELLASCO, MARLEY M. B. R. ; RIBEIRO, MOISES V. . Set-Membership Type-1 Fuzzy Logic System Applied to Fault Classification in a Switch Machine. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS , v. 18, p. 2703-2712, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tits.2017.2659620"
+        },
+        {
+          "texto": "SANTIS, R. B. ; AGUIAR, E. P. ; FONSECA, L. G. . Artificial Neural Networks for Material Classification in Purchasing Portfolio Management. REVISTA INTERDISCIPLINAR DE PESQUISA EM ENGENHARIA , v. 2, p. 39-50, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DE AGUIAR, EDUARDO P. ; NOGUEIRA, FERNANDO M. DE A. ; AMARAL, RENAN P. F. ; FABRI, DIEGO F. ; ROSSIGNOLI, SÉRGIO C. DE A. ; FERREIRA, JOSÉ G. ; VELLASCO, MARLEY M. B. R. ; TANSCHEIT, RICARDO ; VELLASCO, PEDRO C. G. DA S. ; RIBEIRO, MOISÉS V. . EANN 2014: a fuzzy logic system trained by conjugate gradient methods for fault classification in a switch machine. NEURAL COMPUTING & APPLICATIONS (INTERNET) , v. 27, p. 1175-1189, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1007/s00521-015-1917-9"
+        },
+        {
+          "texto": "AGUIAR, E. P. ; ; ; Ribeiro, MoisÉs Vidal . . IEEE TRANSACTIONS ON POWER DELIVERY , v. 24, p. 2459-2460, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2009.2028750"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "Aguiar, Eduardo ; SILVA, L. P. V. ; MOREIRA, A. ; FONSECA, L. G. ; Nogueira, F. M. A. ; Vellasco, Marley ; RIBEIRO, M. V. . Type-1 Fuzzy Logic System Applied to Classification of Rail Head Defects. In: Marcos Eduardo Ribeiro do Valle Mesquita; Graçaliz Pereira Dimuro; Regivan Hugo Nunes Santiago; Estevão Esmi Laureano. (Org.). Recentes Avanços em Sistemas Fuzzy. IVed.: , 2016, v. , p. 269-280.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, EDUARDO ; Nogueira, Fernando ; Amaral, Renan ; Fabri, Diego ; Rossignoli, Sérgio ; Ferreira, José Geraldo ; Vellasco, Marley ; TANSCHEIT, RICARDO ; ; Vellasco, Pedro . Classification of Events in Switch Machines Using Bayes, Fuzzy Logic System and Neural Network. Communications in Computer and Information Science. 459ed.: Springer International Publishing, 2014, v. , p. 81-91.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-11071-4_8"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "VARGAS E PINTO, ARTHUR CAIO ; ORANG, OMID ; GUIMARÃES, FREDERICO GADELHA ; DE AGUIAR, EDUARDO PESTANA . A New Data-Driven Interval Type-2 Fuzzy Forecasting Approach for Load Forecasting. In: 2025 IEEE International Conference on Fuzzy Systems (FUZZ), 2025, Reims. 2025 IEEE International Conference on Fuzzy Systems (FUZZ), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/fuzz62266.2025.11197671"
+        },
+        {
+          "texto": "CAMANDAROBA, C. G. M. ; WERNECK, S. S. ; MELLOS, J. Z. C. ; JESUS, C. D. ; MATHEUS A. M. FERREIRA ; GUIMARAES, F. G. ; AGUIAR, E. P. . A Federated Learning Approach for Distributed Solar Irradiance Forecasting. In: XVII Congresso Brasileiro de Inteligência Computacional, 2025, Belo Horizonte. XVII Congresso Brasileiro de Inteligência Computacional, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CRISTIANO G. M. CAMANDAROBA ; CAMILLE V. M. B. DE OLIVEIRA ; CAIAN D. DE JESUS ; MATHEUS A. M. FERREIRA ; GUILHERME A. N. PUSSENTE ; GERALDO F. NETO ; EDUARDO P. DE AGUIAR . Forecasting Power Generation in Photovoltaic Plants using Artificial Neural Networks and Transfer Learning. In: Congresso Brasileiro de Automática CBA, 2024, Rio de Janeiro, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.20906/CBA2024/4230"
+        },
+        {
+          "texto": "LIMA, JOÃO P. S. H. ; DE MEDEIROS, ÁLVARO A. M. ; DE AGUIAR, EDUARDO P. ; SILVA, EDELBERTO F. ; DE SOUSA, VICENTE A. ; NUNES, MARCELO L. ; REIS, ALYSSON L. . Deep Learning-Based Handover Prediction for 5G and Beyond Networks. In: ICC 2023 IEEE International Conference on Communications, 2023, Rome. ICC 2023 - IEEE International Conference on Communications, 2023. p. 3468.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/ICC45041.2023.10279195"
+        },
+        {
+          "texto": "PEREIRA, VICTOR HUGO ; ALVES, KAIKE ; AGUIAR, EDUARDO . A Machine Learning approach to predict Length of Stay of vehicles in an inbound logistics operation. In: Congresso Brasileiro de Inteligência Computacional, 2023. Anais do XVI Congresso Brasileiro de Inteligência Computacional. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/cbic2023-005"
+        },
+        {
+          "texto": "ALVES, KAIKE ; BALLINI, ROSANGELA ; AGUIAR, EDUARDO . A New Fuzzy Inference System Applied to Time Series Forecasting. In: Congresso Brasileiro de Inteligência Computacional, 2023. Anais do XVI Congresso Brasileiro de Inteligência Computacional. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/cbic2023-003"
+        },
+        {
+          "texto": "ANDRETTO, RAEL FONSECA ; AGUIAR, EDUARDO . A Machine Learning Application in Brazilian Railway Crew Rostering. In: Congresso Brasileiro de Inteligência Computacional, 2023. Anais do XVI Congresso Brasileiro de Inteligência Computacional. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/CBIC2023-023"
+        },
+        {
+          "texto": "DE OLIVEIRA MARQUES, EDUARDO SANTOS ; ALVES, KAIKE SA TELES ROCHA ; PEKASLAN, DIRENC ; DE AGUIAR, EDUARDO PESTANA . Kernel Evolving Participatory Fuzzy Modeling for Time Series Forecasting: New Perspectives Based on Similarity Measures. In: 2022 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2022, Larnaca. 2022 IEEE International Conference on Evolving and Adaptive Intelligent Systems (EAIS), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/EAIS51927.2022.9787687"
+        },
+        {
+          "texto": "FERREIRA, MATHEUS A. M. ; FERNANDES, THIAGO E. ; MIRANDA, GUILHERME P. C. ; SILVA, MARCOS V. G. ; AGUIAR, EDUARDO PESTANA DE . Análise de Relevância de Atributos para Classificação de Falhas de Ferramentas de Corte Utilizando TSFRESH. In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2022.1570823732"
+        },
+        {
+          "texto": "DE OLIVEIRA MARQUES, EDUARDO SANTOS ; ALVES, KAIKE SA TELES ROCHA ; PEKASLAN, DIRENC ; DE AGUIAR, EDUARDO PESTANA . Kernel Evolving Participatory Fuzzy Modeling for Time Series Forecasting: New Perspectives Based on Distance Measures. In: 2022 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2022, Padua. 2022 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/FUZZ-IEEE55066.2022.9882602"
+        },
+        {
+          "texto": "ALVES, KAIKE SA TELES ROCHA ; PEKASLAN, DIRENC ; WAGNER, CHRISTIAN ; DE AGUIAR, EDUARDO PESTANA . A New evolving Fuzzy System with Mechanisms to Deal With Uncertainties in Times Series Forecasting. In: 2022 IEEE Latin American Conference on Computational Intelligence (LACCI), 2022, Montevideo. 2022 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/la-cci54402.2022.9981311"
+        },
+        {
+          "texto": "UALISON R. F. DIAS ; LUCIANO M. A. FILHO ; JOSÉ M. DE SEIXAS ; EDUARDO P. DE AGUIAR . Self-Organizing Fuzzy Rule-Based Approach for Muons Classification in High Energy Physics. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/CBA2022/3509"
+        },
+        {
+          "texto": "SENA, CÉLIA SIMÕES ARREGUY DE ; AGUIAR, EDUARDO PESTANA DE ; OLIVEIRA, LEONARDO WILLER DE . METODOLOGIA DE DIMENSIONAMENTO DE BATERIAS BASEADA EM LÓGICA FUZZY. In: SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2022, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2022-157346"
+        },
+        {
+          "texto": "THIAGO E. FERNANDES ; MATHEUS A. M. FERREIRA ; GUILHERME P. C. DE MIRANDA ; MARCOS V. G. R. DA SILVA ; EDUARDO P. DE AGUIAR . Multivariate Time Series and Machine Learning Techniques for the multi-class Classification of Lathe?s Cutting Tools Wear Condition. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/CBA2022/3585"
+        },
+        {
+          "texto": "E PINTO, ARTHUR C. V. ; SILVA, PETRONIO C. L. ; GUIMARAES, FREDERICO G. ; WAGNER, CHRISTIAN ; DE AGUIAR, EDUARDO P. . Self-Organised Direction Aware Data Partitioning for Type-2 Fuzzy Time Series Prediction. In: 2021 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2021, Luxembourg. 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/fuzz45933.2021.9494452"
+        },
+        {
+          "texto": "CAMPOS QUEIROZ, EDUARDO RAVAGLIA ; TELES ROCHA ALVES, KAIKE SA ; CYRINO OLIVEIRA, FERNANDO LUIZ ; DE AGUIAR, EDUARDO PESTANA . Evolving Fuzzy Modeling with Variable Step-Size applied to Gas Prices Forecasting in Brazil. In: 2021 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2021, Luxembourg. 2021 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/fuzz45933.2021.9494405"
+        },
+        {
+          "texto": "VIRIATO NETO, CARLOS MANUEL ; HONORIO, LUCA GARCIA ; AGUIAR, EDUARDO . Deep Rule-Based Approach for the Classification of Wagon Bogie Springs Condition. In: Congresso Brasileiro de Inteligência Computacional, 2021. Anais do 15. Congresso Brasileiro de Inteligência Computacional. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.21528/CBIC2021-48"
+        },
+        {
+          "texto": "NAMORATO PUSSSENTE, GUILHERME AUGUSTO ; HENRIQUE SANTA MARIA, TIAGO ; MARQUES MARCATO, ANDRE LUIS ; PESTANA DE AGUIAR, EDUARDO . Trajectory Detection Method for Transmission Line Path Following Control. In: 2021 Latin American Robotics Symposium (LARS), 2021 Brazilian Symposium on Robotics (SBR), and 2021 Workshop on Robotics in Education (WRE), 2021, Natal. 2021 Latin American Robotics Symposium (LARS), 2021 Brazilian Symposium on Robotics (SBR), and 2021 Workshop on Robotics in Education (WRE), 2021. p. 42.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/LARS/SBR/WRE54079.2021.9605373"
+        },
+        {
+          "texto": "DIAS, UALISON ; AGUIAR, EDUARDO ; HELL, MICHEL ; MEDEIROS, ALVARO ; SILVEIRA, DANIEL . Self-Organizing Fuzzy Rule-Based Approach for Dealing with the Classification of Indoor Environments for IoT Applications. In: XVI Encontro Nacional de Inteligência Artificial e Computacional, 2020. Anais do Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2020. p. 1044.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5753/eniac.2019.9356"
+        },
+        {
+          "texto": "SANTA MARIA, TIAGO HENRIQUE ; NAMORATO PUSSSENTE, GUILHERME AUGUSTO ; MARQUES MARCATO, ANDRE LUIS ; DE AGUIAR, EDUARDO PESTANA . NMPC controller applied to an UAV Path Following Problem. In: 2020 Latin American Robotics Symposium (LARS), 2020 Brazilian Symposium on Robotics (SBR) and 2020 Workshop on Robotics in Education (WRE), 2020, Natal. 2020 Latin American Robotics Symposium (LARS), 2020 Brazilian Symposium on Robotics (SBR) and 2020 Workshop on Robotics in Education (WRE), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre51543.2020.9307008"
+        },
+        {
+          "texto": "CAMPBEL, HUGO ; MARTINELLI, RAFAEL ; PESTANA DE AGUIAR, EDUARDO . Otimização da Logística de Manutenção baseada no Planejamento da Distribuição de Materiais em uma Malha Ferroviária. In: ANAIS DO SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2020-122696"
+        },
+        {
+          "texto": "P. M. DE SOUZA, DANILO ; P. DE AGUIAR, EDUARDO ; SA T. R. ALVES, KAIKE ; V. G. DA ROCHA, MARCOS ; E. FERNANDES, THIAGO ; B. HELL, MICHEL ; L. C. OLIVEIRA, FERNANDO ; DA S. CHRISTO, ELIANE . Modelagem Térmica de Transformadores de Potência Baseada em SODA e Sistema de Inferência Fuzzy Otimizado por Enxame de Partículas. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1542"
+        },
+        {
+          "texto": "V. E PINTO, ARTHUR CAIO ; C. L. SILVA, PETRÔNIO ; G. GUIMARÃES, FREDERICO ; P. DE AGUIAR, EDUARDO . Séries Temporais Fuzzy do Tipo-2. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1401"
+        },
+        {
+          "texto": "E. FERNANDES, THIAGO ; P. C. DE MIRANDA, GUILHERME ; F. DUTRA, ALEXANDRE ; A. M. FERREIRA, MATHEUS ; P. ANTUNES, MATHEUS ; V. G. R. DA SILVA, MARCOS ; P. DE AGUIAR, EDUARDO . An Autonomous Model to Classify Lathe's Cutting Tools Based on TSFRESH, Self-Organised Direction Aware Data Partitioning Algorithm and Machine Learning Techniques. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1092"
+        },
+        {
+          "texto": "V. G. DA ROCHA, MARCOS ; SA T. R. ALVES, KAIKE ; B. HELL, MICHEL ; L. C. OLIVEIRA, FERNANDO ; P. DE AGUIAR, EDUARDO . Modelagem Térmica de Transformadores de Potência Baseada em um Sistema Fuzzy Evolutivo Set-Membership Gaussiano Multivariado. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1024"
+        },
+        {
+          "texto": "RAVAGLIA CAMPOS QUEIROZ, EDUARDO ; SA TELES ROCHA ALVES, KAIKE ; CYRINO OLIVEIRA, FERNANDO LUIZ ; PESTANA DE AGUIAR, EDUARDO . Modelagem nebulosa evolutiva participativa com passo de adaptação variável aplicada a previsão de preços do óleo diesel no Brasil. In: Congresso Brasileiro de Automática 2020, 2020, Porto Alegre. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1039"
+        },
+        {
+          "texto": "QUEIROZ, E. R. C. ; COSTA, R. ; OLIVEIRA, F. L. C. ; MARCATO, A. L. M. ; AGUIAR, E. P. . Autonomous Landing of Uav: A Comparison Between Type-1 and Type-2 Fuzzy Logic Systems. In: XXII Encontro Nacional de Modelagem Computacional, 2019, Juiz de Fora. XXII Encontro Nacional de Modelagem Computacional, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "QUEIROZ, E. R. C. ; AGUIAR, E. P. ; OLIVEIRA, F. L. C. ; FERNANDES, D. A. . Da (im)previsibilidade do futebol sob a ótica da distribuição de poisson. In: XXII Encontro Nacional de Modelagem Computacional, 2019, Juiz de Fora. XXII Encontro Nacional de Modelagem Computacional, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DIAS, F. M. ; CABRAL, T. W. ; NAJI, R. ; AGUIAR, E. P. ; LIMA, M. A. A. ; SILVA, L. R. M. ; HONORIO, L. M. . Extração de Sinal de ECG Fetal Compressado Utilizando Sistema de Inferência Neuro-Fuzzy Adaptativo. In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019, Petrópolis. XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.14209/SBRT.2019.1570558851"
+        },
+        {
+          "texto": "LIMA, J. P. S. H. ; MEDEIROS, A. A. M. ; AGUIAR, E. P. ; SILVEIRA, D. D. ; FONSECA, L. D. ; GUERRA, T. C. B. ; SOUSA JUNIOR, V. A. ; DANTAS, Y. . Sistemas Fuzzy aplicados ao Handover em Redes LTE com Falhas de Cobertura. In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019, Petrópolis. XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.14209/SBRT.2019.1570557660"
+        },
+        {
+          "texto": "RAVAGLIA CAMPOS QUEIROZ, EDUARDO ; A. SERAPIÃO, LEONARDO ; DOS SANTOS, ALEXANDRE BESSA ; COELHO, THIAGO VIEIRA NOGUEIRA ; D. SILVEIRA, DANIEL ; PESTANA DE AGUIAR, EDUARDO . Type-2 Fuzzy Logic System Applied to a Temperature Control of an Electric Oven. In: ANAIS DO 14º SIMPóSIO BRASILEIRO DE AUTOMAçãO INTELIGENTE, 2019. Anais do 14º Simpósio Brasileiro de Automação Inteligente, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.17648/sbai-2019-111175"
+        },
+        {
+          "texto": "CAIO VARGAS E PINTO, ARTHUR ; HENRIQUE SANTA MARIA, TIAGO ; GONÇALVES OLIVEIRA, JANAINA ; MARCATO, ANDRÉ ; PESTANA DE AGUIAR, EDUARDO . Controlador MPPT baseado em Lógica Fuzzy Aplicado a um Sistema Fotovoltaico Conectado à uma Rede. In: ANAIS DO 14º SIMPóSIO BRASILEIRO DE AUTOMAçãO INTELIGENTE, 2019. Anais do 14º Simpósio Brasileiro de Automação Inteligente, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.17648/sbai-2019-111205"
+        },
+        {
+          "texto": "RIBEIRO, M. G. ; CALDERANO, P. H. ; MENEZES, I. F. M. ; TANSCHEIT, R. ; ; AGUIAR, E. P. . Detection and Classification of Faults in Aeronautical Gas Turbine Engine: a Comparison Between two Fuzzy Logic Systems. In: IEEE World Congress on Computational Intelligence, 2018, Rio de Janeiro. IEEE World Congress on Computational Intelligence, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/FUZZ-IEEE.2018.8491444"
+        },
+        {
+          "texto": "CAMPOS, RAFAELA ABREU ; PIAZZAROLI FINOTTI AMARAL, RENAN ; MOTA DE MENEZES, IVAN FABIO ; GOLIATT DA FONSECA, LEONARDO ; LAGARES, MOISES LUIZ ; PESTANA DE AGUIAR, EDUARDO . Classification of Short Circuit GMA Welding using Type-1 and Singleton Fuzzy Logic System. In: 2018 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2018, Rio de Janeiro. 2018 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/fuzz-ieee.2018.8491599"
+        },
+        {
+          "texto": "DE AGUIAR, EDUARDO P. ; AMARAL, RENAN P. F. ; VELLASCO, MARLEY M. B. R. ; RIBEIRO, MOISES V. . Computing derivatives in interval type-2 fuzzy logic systems trained by steepest descent method for fault classification in a switch machine. In: 2017 IEEE International Conference on Fuzzy Systems (FUZZIEEE), 2017, Naples. 2017 IEEE International Conference on Fuzzy Systems (FUZZ-IEEE), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/fuzz-ieee.2017.8015381"
+        },
+        {
+          "texto": "CAMPOS, R. A. ; AMARAL, RENAN P. F. ; FONSECA, L. G. ; LAGARES JUNIOR, M. L. ; DE AGUIAR, EDUARDO P. . Classification of Short Circuit GMA Welding using Type-1 and Singleton Fuzzy Logic System. In: XXXVIII Ibero-Latin American Congress on Computational Methods in Engineering, 2017, Florianópolis. XXXVIII Ibero-Latin American Congress on Computational Methods in Engineering, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BOUHID, A. Q. Z. ; AMARAL, RENAN P. F. ; FONSECA, L. G. ; AGUIAR, E. P. . Classification of Faults in Switch Machine using Type-1 and Non-singleton Fuzzy Logic System Trained by Hestenes and Stiefel's Conjugate Gradient Method. In: XXXVIII IberianLatin American Congress on Computational Methods in Engineering, 2017, Florianopolis, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.20906/cps/cilamce2017-0755"
+        },
+        {
+          "texto": "SOARES, N. ; SANTIS, R. B. ; de Aguiar, E. P. . Máquinas de aprendizado extremo para a predição do volume de clones de eucaliptos. In: XXXVIII IberianLatin American Congress on Computational Methods in Engineering, 2017, Florianopolis, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.20906/cps/cilamce2017-1298"
+        },
+        {
+          "texto": "SOARES, N. ; FONSECA, L. G. ; Aguiar, E. P. de . Failure Classification in Electric Switch Machines Using Symbolic Concepts and Computational Intelligence. In: XXXVIII IberianLatin American Congress on Computational Methods in Engineering, 2017, Florianopolis, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.20906/cps/cilamce2017-1021"
+        },
+        {
+          "texto": "DE SANTIS, RODRIGO BARBOSA ; DE AGUIAR, EDUARDO PESTANA ; GOLIATT, LEONARDO . Predicting material backorders in inventory management using machine learning. In: 2017 IEEE Latin American Conference on Computational Intelligence (LACCI), 2017, Arequipa. 2017 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/la-cci.2017.8285684"
+        },
+        {
+          "texto": "Aguiar, E. P. de ; SILVA, L. P. V. ; MOREIRA, A. ; FONSECA, L. G. ; ; RIBEIRO, M. V. . Type-1 Fuzzy Logic System Applied to Classification of Rail Head Defects. In: IV Congresso Brasileiro de Sistemas Fuzzy, 2016, Campinas. IV Congresso Brasileiro de Sistemas Fuzzy, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SANTIS, R. B. ; Aguiar, E. P. de ; FONSECA, L. G. . Artificial Neural Network for Material Classification in Purchase Portfolio Management. In: XXXVII Ibero-Latin American Congress on Computational Methods in Engineering, 2016, Brasília - DF. XXXVII Ibero-Latin American Congress on Computational Methods in Engineering, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ENGELENDER, DARLENE ; FILOMENO, MATEUS ; SANTOS, FELIPE ; OLIVEIRA, THIAGO ; RIBEIRO, MOISES ; AGUIAR, EDUARDO . Análise do Uso de Bloqueadores em Sistemas Power Line Communication. In: XXXIII Simpósio Brasileiro de Telecomunicações, 2015. Anais de XXXIII Simpósio Brasileiro de Telecomunicações.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2015.42"
+        },
+        {
+          "texto": "SALMENTO, M. L. G. ; de Aguiar, E. P. ; RIBEIRO, M. V. . Reduced Rank Adaptive Filter with Variable Step Size for Impulsive UWB PLC Systems. In: XXXIII Simpósio Brasileiro de Telecomunicações, 2015, Juiz de Fora. XXXIII Simpósio Brasileiro de Telecomunicações, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "VICTOR BICALHO CIVINELLI DE ALMEIDA ; KARLA APARECIDA PERINE LAGARES ; EDUARDO PESTANA DE AGUIAR ; MOISÉS LUIZ LAGARES JÚNIOR . CLASSIFICATION OF SHORT CIRCUIT GMA WELDING USING ARTIFICIAL NEURAL NETWORK. In: 23rd ABCM International Congress of Mechanical Engineering, 2015, Rio de Janeiro, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.20906/CPS/COB-2015-1860"
+        },
+        {
+          "texto": "AGUIAR, E. P. ; Nogueira, F. M. A. ; FABRI, D. ; ROSSIGNOLI, S. ; FERREIRA, J. G. ; ; TANSCHEIT, R. ; RIBEIRO, M. V. ; VELLASCO, P. . Classification of Events in Switch Machines using Bayes, Fuzzy Logic System and Neural Network. In: 15th International Conference on Engineering Applications of Neural Networks, 2014, Sofia/Bulgária. 15th International Conference on Engineering Applications of Neural Networks, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Procaci, A. O. ; Silva, C. M. ; Carvalho, L. M. M. ; Almeida, V. B. C. ; AGUIAR, E. P. . Desenvolvimento de veículos urbanos sustentáveis. In: IX Encontro Mineiro de Engenharia de Produção e I Encontro Mineiro de Engenharia Mecânica, 2013, Juiz de Fora. Anais do IX Encontro Mineiro de Engenharia de Produção e I Encontro Mineiro de Engenharia Mecânica, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; Marques, Cristiano Augusto ; ; Duque, Carlos ; . Classificação de Distúrbios para QEE utilizando EOS e Redes Neurais. In: VIII Conferência Brasileira sobre Qualidade da Energia Elétrica, 2009, Blumenau/SC. Anais da VIII Conferência Brasileira sobre Qualidade da Energia Elétrica ? Blumenau/SC ? Brasil, 2009. p. 300-305.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. . Classificação de Distúrbios Baseada em Estatística de Ordem Superior: Novas Perpectivas. In: Trabalho de Diploma - Engenharia de Controle e Automação - UNIFEI/2008, 2008, Itajubá. Anais do Trabalho de Diploma - Engenharia de Controle e Automação - UNIFEI/2008, 2008.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. ; RIBEIRO, M.V. ; SILVA, L. E. B. . Classificação de Distúrbios Baseada Em Estatística De Ordem Superior: Novas Perspectivas. In: Jornada de Iniciação Científica ? 2008 - Universidade Federal de Itajubá - V Semana Nacional de Ciência e Tecnologia, 2008, Itajubá. RESUMOS DA JORNADA DE INICIAÇÃO CIENTIFÍCA - UNIFEI/2008, 2008.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "items": [
+        {
+          "texto": "WERNECK, S. S. ; ANDRADE, L. M. ; FERREIRA, M. M. A. ; AGUIAR, E. P. ; FERREIRA, G. F. . Predicting Waiting Times for Deceased Donor Kidney Transplantation in Brazil: A Machine Learning Approach Using Cox Regression and XGBoost Models. American Journal of Transplantation , 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.ajt.2025.07.2123"
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. ; PEREIRA, M. A. ; A. M. FERREIRA, MATHEUS ; FERNANDES, T. E. ; SILVA, M. V. R. G. ; DUTRA, A. F. . An Autonomous Model to Classify Lathe's Cutting Tools Based on TSFRESH, Self-Organised Direction Aware Data Partitioning Algorithm and Machine Learning Techniques. Sociedade Brasileira de Automática, 2020 (Vídeo).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. . Programa Speed Lab AI de Pré-incubação do Centro Regional de Inovação e Transferência de Tecnologia (Critt/UFJF). 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. . Consultoria para avaliação de propostas - Fundação de Desenvolvimento da Pesquisa ( Fundep/UFMG) - Linha VI do Programa Mover ( Rota 2020) - Conectividade Veicular. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. . Chamada CNPq Nº 09/2023 - Bolsas de Produtividade em Pesquisa - PQ. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. . Chamada CNPq/MCTI Nº 10/2023 - Demanda Universal - Faixa B - Grupos Consolidados. 2023.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. . Relatório das Atividades Desenvolvidas durante o Estágio Feito no Laboratório de Sistemas Eletrônicos/UFJF. 2008.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. . Matlab. 2013. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. . Microcontroladores MC68HC11. 2009. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "EDUARDO P. DE AGUIAR ; SILVA, P. C. L.; PINTO, A. C. V. E.. Participação em banca de Caian Dutra de Jesus. Criação de Base de Dados Inédita de Usinas Solares e Aplicação em Previsão de Geração de Energia com Redes Neurais Otimizadas por Aprendizado por Transferência. 2025. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, F. L. C.; CASTRO, A. O. S.; PESSANHA, J. F. M.; AGUIAR, E. P. . Participação em banca de Vitor Hugo Pinheiro Marques. Modelos de simulação para análise de incerteza na previsão de produção de óleo em plataformas da bacia de Campos. 2024. Dissertação (Mestrado em Engenharia de Produção) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, A. R.; AGUIAR, E. P. ; BHERING, F. P.; SALES, R. L.. Participação em banca de Dalila Miranda Trindade. Internet das Coisas Aplicada à Cadeia Produtiva do Sorvete. 2024. Dissertação (Mestrado em AUTOMAÇÃO E SISTEMAS) - Centro Federal de Educação Tecnológica de Minas Gerais.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; ZUBEN, F. J. V.; FONSECA, L. G.. Participação em banca de Lara Dutra Fonseca. Swarm Intelligence Algorithm combined with Type-2 Fuzzy Logic System for the classification of trends in Hot Boxes and Hot Wheels. 2024. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "EDUARDO P. DE AGUIAR ; AMARAL, J. L. M.; NOBREGA, R. A.. Participação em banca de Victor Hugo Soares Pereira. Aplicação de Algoritmos de Aprendizado de Máquina na Previsão do Indicador de Tempo de Permanência de Veículos em uma Usina Siderúrgica. 2024. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES JUNIOR, A. C. L.; SIMAS FILHO, E. F.; ASSIS, T. A.; AGUIAR, E. P. ; OLIVEIRA, F. A.. Participação em banca de BASSEM YOUSSEF MAKHOUL JUNIOR. SIMULAÇÃO DO ENRUGAMENTO CINÉTICO NO CRESCIMENTO DE INTERFACES EM MATERIAIS MULTICAMADAS UTILIZANDO APRENDIZADO DE MÁQUINA. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; RIBEIRO, M. V.; BASTOS-FILHO, C. J. A.. Participação em banca de Matheus Augusto Malta Ferreira. Classificação Multiclasse Baseada em Séries Temporais Multivariadas do Estágio de Operação de Ferramentas de Corte de Torno. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; ; FONSECA, L. G.. Participação em banca de Rael Fonseca Andretto. Aprendizado de Máquina para Alocação de Equipagem Ferroviária. 2023. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; MARCATO, A. L. M.; PINTO, M. F.; SANTOS, A. B.. Participação em banca de Guilherme Augusto Namorato Pussente. Método de estimativa de trajetória para seguimento de linhas de transmissão através de veículos multirrotores. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; PESSIN, G.; OLIVEIRA, L. W.; AYALA, H. V. H.. Participação em banca de Carlos Manuel Viriato Neto. Semi-supervised Deep Rule-Based Approach for the Classification of Wagon Bogie Springs Condition. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MEDEIROS, A. A. M.; AGUIAR, E. P. ; SILVA, E. F.; FACINA, M. S. P.. Participação em banca de João Paulo Sales Henriques Lima. Aplicações de Handover Inteligente em Redes Celulares Baseadas em Aprendizado de Máquina. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, L. G.; CURY, A. A.; AGUIAR, E. P. ; SCHIAVONI, F. L.. Participação em banca de Tales Humberto de Aquino Borato. Aprendizado de Máquina para a Classificação Automática de Pratos de Bateria Conforme a Proporção de Estanho Presente em suas Ligas de Bronze. 2022. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, L. G.; CURY, A. A.; AGUIAR, E. P. ; SCHIAVONI, F. L.; MOURA, E. P.. Participação em banca de Tales Humberto de Aquino Boratto. Aprendizado de Máquina para a Classificação Automática de Pratos de Bateria Conforme a Proporção de Estanho Presente em suas Ligas de Bronze. 2022. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PINTO, R. M.; MARCATO, A. L. M.; PESSOA, A. A.; AGUIAR, E. P. . Participação em banca de Hugo Costa Campbel. Otimização da Logística de Manutenção baseada no Planejamento da Distribuição de Materiais em uma Malha Ferroviária. 2021. Dissertação (Mestrado em Engenharia de Produção) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; MARCATO, A. L. M.; PINTO, M. F.; SANTOS, A. B.. Participação em banca de Tiago Henrique Santa Maria. Controlador NMPC para seguimentos visuais aplicados a um VANT. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CYRINO OLIVEIRA, FERNANDO L.; AGUIAR, E. P. ; ; LEITE, D. F.. Participação em banca de Eduardo Ravaglia Campos Queiroz. Variable Step-Size evolving Participatory Learning with Kernel Recursive Least Squares model applied to Gas Prices Forecasting in Brazil. 2021. Dissertação (Mestrado em Engenharia de Produção) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; GUIMARAES, F. G.; MARCATO, A. L. M.. Participação em banca de Marcos Vinícius Gonçalves da Rocha. Power Transformers Thermal Modeling using an Enhanced Set-Membership Multivariable Gaussian Evolving Fuzzy System. 2020. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, N. M. F.; D?AMORE, R.; VICTOR JUNIOR, M. H.; AGUIAR, E. P. . Participação em banca de Conrado Nunes. CLASSIFICAÇÃO DE FALHAS DE MÁQUINAS DE CHAVE ELÉTRICAS ATRAVÉS DE APRENDIZADO DE MÁQUINA. 2020. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Instituto Tecnológico de Aeronáutica.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDINO, H. S.; BARBOSA, H. J. C.; AGUIAR, E. P. ; MANFRINI, F. A. L.. Participação em banca de Leandro Silva Lima. Uma Abordagem Multiobjetivo Usando Programação Genética Cartesiana Para Projeto de Circuitos Digitais Aproximados. 2019. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CHRISTO, E. S.; COSTA, K. A.; HERNANDEZ, C. T.; ALVAREZ, G. B.; ASSIS, W. L. S.; AGUIAR, E. P. . Participação em banca de Caroline de Oliveira Costa Souza Rosa. Estudo de complementaridade entre as energias hidrelétrica, eólica e fotovoltaica nas regiões Sudeste e Centro-Oeste. 2019. Dissertação (Mestrado em Modelagem Computacional em Ciência e Tecnologia) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SEIXAS, J. M.; GOMES, J. G. R. C.; GIRALDI, G. A.; CARVALHO, W. P.; DE AGUIAR, EDUARDO P. ; MOURA JUNIOR, N. N.. Participação em banca de Carlos Eduardo Covas Costa. REPRESENTAÇÃO DA INFORMAÇÃO EM CALORIMETRIA DE ALTAS ENERGIAS UTILIZANDO AUTO-CODIFICADORES. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; BARBOSA, B. H. G.; MARCATO, A. L. M.. Participação em banca de João Pedro Carvalho de Souza. Pouso Autonômo de Vants Baseado em Rede Neural Artificial Supervisionado por Loógica Fuzzy. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; FONSECA, L. G.; SILVA, E. K.; CAMPOS, L. C. D.. Participação em banca de Nielson Soares. Aplicação de técnicas de inteligência computacional no diagnóstico de aparelhos de mudança de via. 2018. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; FONSECA, L. G.; CAMPOS, L. C. D.; SILVA, E. K.. Participação em banca de Rodrigo Barbosa De Santis. Prediução de Falta de Materiais no Contexto de Gestão Inteligente de Inventário: Uma Aplicação de Aprendizado Desbalanceado. 2018. Dissertação (Mestrado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; SILVA JUNIOR, I. C.; GUIMARAES, F. G.; RIBEIRO, M. V.. Participação em banca de Renan Piazzaroli Finotti Aamaral. Type-1 and Singleton Fuzzy Logic System Trained by a Fast Scaled Conjugate Gradient Methods for Dealing with Classification Problems. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "DE AGIUAR, E. P. ; ; MARCATO, A. L. M.; CONCEICAO, A. G. S.; SANTOS, A. B.; MALDONADO, M. A. R.. Participação em banca de Guilherme Augusto Namorato Pussente. Planejamento de missões de inspeção de linhas de distribuição através de VANTs. 2026. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; MARCATO, ANDRE L. M.; GUIMARAES, F. G.; WAGNER, CHRISTIAN; EVSUKOFF, A. G.; RIBEIRO, M. V.; BARRETO, G. A.. Participação em banca de Arthur Caio Vargas e Pinto. Data-driven Partitioning Approaches for Type-2 Fuzzy Set Based Time Series. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "E. P. Aguiar ; SILVA, P. C. L.; PINTO, A. C. V. E.; RIBEIRO, M. V.; PEKASLAN, DIRENC; GUIMARAES, F. G.. Participação em banca de Kaike Sa Teles Rocha Alves. NFISiS: New Perspectives on Fuzzy Inference Systems Applied to Renewable Energy, Finance, and Cryptocurrency. 2025. Tese (Doutorado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; GUIMARAES, F. G.; OLIVEIRA, L. W.; ANDRADE FILHO, L. M.; SILVA, P. C. L.. Participação em banca de Ualison Rodrigo Ferreira Dias. New Perspectives for the Intelligent Rolling Stock Classification in Railways: An Artificial Neural Networks-Based Approach. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Aguiar, E. P. de ; SILVA, P. C. L.; GUIMARAES, F. G.; CAMINHAS, W. M.; ALCALA, S. G. S.. Participação em banca de Luiz Rogërio de Freitas Júnior. NEW METHODS FOR PREDICTING REMAINING USEFUL LIFE IN EQUIPMENT BASED ON VISIBILITY GRAPH AND FUZZY SYMBOLIC REPRESENTATION. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Minas Gerais.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; MARCATO, A. L. M.; HONORIO, L. M.; PASSOS FILHO, J. A.; CYRINO OLIVEIRA, FERNANDO L.; PESSANHA, J. F. M.. Participação em banca de Alessandro de Lima Castro. Análise Multifractal do Mercado Brasileiro de Eletricidade. 2023. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MARCATO, A. L. M.; PINTO, M. F.; CONCEICAO, A. G. S.; AGUIAR, E. P. ; SILVA JUNIOR, I. C.. Participação em banca de Iago Zanuti Biundini. Planejamento Online de Caminhos por Cobertura através de Meta-Heurística. 2022. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE FILHO, L. M.; AMARAL, J. L. M.; AGUIAR, E. P. ; PERALVA, B. S.; SILVA, L. R. M.. Participação em banca de Tiago Motta Quirino. Aprendizado Online de Redes Neurais Artificiais Aplicadas à Reconstrução de Energia no Calorímetro Hadrônico do ATLAS. 2022. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "TANSCHEIT, R.; ; LEITE, K. T. F.; DELGADO, M. R. B. S.; AMARAL, J. L. M.; AGUIAR, E. P. . Participação em banca de Marco Antonio da Cunha Ferreira. GPFIS-Forecast+: um Sistema Fuzzy do Tipo 2 para Previsão de Séries Temporais baseado em Programação Genética. 2020. Tese (Doutorado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "GUIMARAES, F. G.; WEISS-COHEN, M.; BALLINI, R.; AGUIAR, E. P. ; SILVA, R. C. P.; CARPI, L.. Participação em banca de Carlos Alberto Severiano Junior. Evolving Spatio-temporal Forecasting Models for Renewable Energy Systems. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Minas Gerais.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MARCATO, A. L. M.; SILVA JUNIOR, I. C.; BELATI, E. A.; OLIVEIRA, F. L. C.; OLIVEIRA, L. W.; AGUIAR, E. P. . Participação em banca de Wolmar Araújo Neto. Localização de Robôs Móveis Utilizando o Novo Algoritmo de Morcegos Baseado em Líderes. 2019. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARCATO, A. L. M.; URDIALES, C.; HONORIO, L. M.; DANTAS, M. A. R.; CAPRETZ, M.; CONCEICAO, A. G. S.; AGUIAR, E. P. . Participação em banca de Milena Faria Pinto. ARCog: An Aerial Robotics Cognitive Architecture. 2019. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, F. L. C.; SOUZA, R. C.; PESSANHA, J. F. M.; AGUIAR, E. P. ; GOMES, D. T.. Participação em banca de Tiago Mendes Dantas. Combining to succeed: A novel strategy to improve forecasts from Exponential Smoothing models. 2018. Tese (Doutorado em Engenharia de Produção) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. ; GUIMARAES, F. G.; SILVA, P. C. L.; FONSECA, L. G.. Participação em banca de Kaike Sa Teles Rocha Alves. A new Takagi-Sugeno-Kang model for time series forecasting. 2024. Exame de qualificação (Doutorando em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; GUIMARAES, F. G.; WAGNER, CHRISTIAN; BARRETO, G. A.; RIBEIRO, M. V.. Participação em banca de Arthur Caio Vargas e Pinto. Interval type-2 Fuzzy Set Based Time Series Forecasting Using a Data-driven Partitioning Approach. 2021. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MARCATO, A. L. M.; PINTO, M. F.; CONCEICAO, A. G. S.; AGUIAR, E. P. . Participação em banca de Iago Zanuti Biundini. Planejamento online de caminhos por cobertura através de meta-heurística. 2021. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MARCATO, A. L. M.; AGUIAR, E. P. ; SOUZA, R. C.; PASSOS FILHO, J. A.; HONORIO, L. M.. Participação em banca de Alessandro de Lima Castro. Previsão e Geração de Séries Sintéticas de Vazão em bases Mensal e Diária de usinas do Sistema Interligado Nacional usando modelos ANFIS e Redes Neurais Adversárias.. 2020. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE FILHO, L. M.; AGUIAR, E. P. ; AMARAL, J. L. M.. Participação em banca de TIAGO MOTTA QUIRINO. APRENDIZADO ONLINE DE REDES NEURAIS ARTIFICIAIS À RECONSTRUÇÃO DE ENERGIA NO CALORÍMETRO HADRÔNICO DO ATLAS. 2020. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "TANSCHEIT, R.; VELLASCO, M. M. B. R.; LEITE, K. T. F.; DELGADO, M. R. B. S.; AGUIAR, E. P. . Participação em banca de Marco Antônio da Cunha Ferreira. GPFIS-Forecast+: um Sistema Fuzzy do Tipo 2 para Previsao de Séries Temporais baseado em Programacão Genética. 2018. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica - Pontifícia Universidade Católica, RJ) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "MELO, C. B.; AGUIAR, E. P. ; ANDRADE, R. G.. Participação em banca de Jussara dos Santos Ferreira. SELEÇÃO, VALIDAÇÃO E APLICAÇÃO DE INDICADORES PARA A CONSTRUÇÃO DE ÍNDICE DE SEGURANÇA HÍDRICA INDUSTRIAL. 2024. Exame de qualificação (Mestrando em Engenharia Civil) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MELO, C. B.; FERREIRA, J. S.; AGUIAR, E. P. . Participação em banca de Renan Rodrigues Campos da Silva.AVALIAÇÃO DA VULNERABILIDADE HÍDRICA AMBIENTAL DE BACIAS HIDROGRÁFICAS ATRAVÉS DA INTEGRAÇÃO GIS E FUZZY AHP. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Sanitaria e Ambiental) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; ROCHA ALVES, KAIKE SA T.; PICORONE, A. A. M.. Participação em banca de Victor Hugo Soares Pereira.A Machine Learning approach to predict Length of Stay of vehicles in an inbound logistics operation. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; GRAVEL, M.; PAULA, D. G.; ASSIS, M.. Participação em banca de Luca Garcia Honório.Semi-supervised Deep Rule-Based Approach For The Classification of Railhead Defects. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; MOREIRA, F.; SILVA, G. G.; FIRJAM FILHO, R. A.. Participação em banca de Lara Dutra Fonseca.Stochastic Optimization Combined with Type-2 Fuzzy Logic System for the Classification of Trends in Hotboxes and Hot Wheels. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MARCOMINI, R. F.; PICORONE, A. A. M.; AGUIAR, E. P. . Participação em banca de Amanda Rodrigues de Melo.OTIMIZAÇÃO DE HIPERPARÂMETROS DO ALGORITMO DE MACHINE LEARNING kNN PARA PREVISÃO DAS PROPRIEDADES MECÂNICAS DO AÇO. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MEDEIROS, A. A. M.; LIMA, J. P. S. H.; AGUIAR, E. P. . Participação em banca de Luan Patrick Feitosa de Melo.Otimização do desempenho do classificador de caracteres óticos em um algoritmo de reconhecimento de placas de veículos brasileiros. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Telecomunicações) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; SOUZA FILHO, R. S.; Nogueira, F. M. A.. Participação em banca de André Luiz Rodrigues Ribeiro.Simulated Annealing Aplicado ao Problema do Caixeiro Viajante. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Nogueira, F. M. A.; MOREIRA FILHO, R. M.; AGUIAR, E. P. . Participação em banca de MARIA RIBEIRO DAIBERT.APLICAÇÃO DE METAHEURÍSTICA SIMULATED ANNEALING EM PROBLEMA DE GERAÇÃO DE ESCALAS DE TRABALHO PARA CONDUTORES EM EMPRESAS DE TRANSPORTE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; Nogueira, F. M. A.; PICORONE, A. A. M.. Participação em banca de Leonardo Rocha Vidal.USO DA PROEMINÊNCIA GEOGRÁFICA PARA IDENTIFICAÇÃO DE CLASSES EM UMA POPULAÇÃO. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; AGUIAR, E. P. ; LOPES, V. L. M.. Participação em banca de Victor Goretti Aguiar.Análise de Tensões por Processamento Digital de Imagens Obtidas por Fotoelasticidade. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, Eduardo de ; AMARAL, RENAN P. F.; SCARI, A. S.; LAGARES JUNIOR, M. L.. Participação em banca de Lucas Pereira Verneck da Silva.Type-1 Fuzzy Logic System Applied to Classification of Rail Head Defects. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Aguiar, E. P. de ; Nogueira, F. M. A.; MARCAL, S.. Participação em banca de Ariane Fonseca.Simulação de Eventos Discretos como Ferramenta de Estudo de Capacidade: A Modelagem de um Pátio Ferroviário. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Aguiar, E. P. de ; SILVEIRA, D. D.; BOHORQUEZ, W. O. I.. Participação em banca de Leonardo Araújo Serapião.Type-2 Fuzzy Logic System Applied to Temperature Control of an Electric Oven. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "de Aguiar, E. P. ; RIBEIRO, M. V.; HONORIO, L. M.. Participação em banca de Renan Piazzaroli Finotti Amaral.Classificação de Eventos em Aparelhos de Mudança de Vias do Setor Ferroviário Utilizando Sistema de Inferência Fuzzy do Tipo-2. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Aguiar, E. P. de ; CASTRO, E. B.; MILANEZ, B.. Participação em banca de Rodrigo Barbosa de Santis.Seleção de Fornecedores na Cadeia Ferroviária: Proposta Demodelo Baseado em Método Multicritério para Apoio à Decisão. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Nogueira, F. M. A.; AGUIAR, E. P. ; MACHADO, M. N.. Participação em banca de Leandro Roberto Pereira..SIMULAÇÃO DE UMA OPERAÇÃO FERROVIÁRIA EM UM TRECHO DE CAPACIDADE DE CIRCULAÇÃO REDUZIDA: SISTEMA CREMALHEIRA MRS LOGÍSTICA S.A... 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Nogueira, F. M. A.; AGUIAR, E. P. ; MOREIRA FILHO, R. M.. Participação em banca de Larissa Gabriela de Abreu Toledo.Metaheurística Simulated Annealing Aplicada em problemas de Job Shop Scheduling com Restrições.. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P. ; PAGOTTO, C. R.; ALVES, L. H. D.. Participação em banca de Felipe Lima Bronté.Manutenção Preditiva Através de Análise de Óleo Lubrificante. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPOS, F. P. V.; FERNANDES, D.; de Aguiar, E. P. . Participação em banca de Pedro Gabriel da Silva Guimarães.Gerenciamento de Energias Alternativas Inteligentes. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Telecomunicações) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "AGUIAR, E. P. ; ELOY, F. S.; AYALA, H. V. H.. Edital: 10/2021 - Concurso N.: 009, Classe A: Professor Adjunto A - Aréa: Projetos de Máquinas. 2021. Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, M. A. C.; AGUIAR, E. P. ; LOPES, V. L. M.. Professor substituto do Departamento de Engenharia de Produção e Mecânica na disciplina Dinâmica dos Fluidos e Sistemas de Fluidos Mecânicos, Edital nº 33, de 09 de outubro de 2017. 2017. Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

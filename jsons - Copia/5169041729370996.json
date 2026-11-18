@@ -1,0 +1,67 @@
+{
+  "name": "Lucas Damasceno Silva",
+  "lattes_id": "5169041729370996",
+  "publications": [
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DINIZ, MERCEDES ; RENDEIRO, PEDRO ; SILVA, MARCOS ; SILVA, LUCAS ; RAMALHO, LEONARDO . Management of Remote Operations in IoT Systems. In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023, Belém-PA. Anais da XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023. p. 85-86.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RENDEIRO, PEDRO ; LEITE, JAMILE LEITE ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Connectivity Evaluation of ESP32 in Outdoor Scenarios. In: Computer on the Beach, 2023, Florianópolis - Santa Catarin. Anais do XIV Computer on the Beach - COTB'23, 2023. v. 14. p. 333-338.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.14210/cotb.v14.p333-338"
+        },
+        {
+          "texto": "BRITO, FLAVIO ; SILVA, LUCAS ; RAMALHO, LEONARDO ; LINS, SILVIA ; LINDER, NEIVA ; KLAUTAU, ALDEBARO . Compression of Activation Signals from Split Deep Neural Network. In: 2022 IEEE LatinAmerican Conference on Communications (LATINCOM), 2022, Rio de Janeiro. 2022 IEEE Latin-American Conference on Communications (LATINCOM), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/LATINCOM56090.2022.10000526"
+        },
+        {
+          "texto": "SILVA, LUCAS ; BRITO, FLAVIO ; RAMALHO, LEONARDO ; KLAUTAU, ALDEBARO . Compressão dos Sinais de Ativação de Redes Neurais Profundas Particionadas. In: X Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2020, Natal-RN. Anais da X Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2020. p. 105-106.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "BRASIL, CAIO B. ; OLIVEIRA, RYAN ; OLIVEIRA, AILTON P ; BRAUN, CARNOT ; SILVA, LUCAS ; CORREA, ILAN S ; KLAUTAU, ALDEBARO . Automatic Generation of Images Using Unreal Engine for Supervised Learning. In: XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2023, São José dos Campos-SP. Anais do XLI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2023.1570920088"
+        },
+        {
+          "texto": "RENDEIRO, PEDRO ; LEITE, JAMILE L ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Performance Evaluation of ESP32 in Outdoor Links. In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí-MG. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2022.1570825034"
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "SILVA, LUCAS ; KLAUTAU, ALDEBARO . Métodos de Particionamento de Redes Neurais Profundas e Compressão das Funções de Ativação. 2021. (Apresentação de Trabalho/Seminário).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, LUCAS ; KLAUTAU, ALDEBARO . Técnicas de Compressão em Tempo Real para o Fronthaul de Redes Celulares 5G e B5G adotando Arquitetura C-RAN. 2020. (Apresentação de Trabalho/Seminário).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, LUCAS ; BRITO, FLAVIO ; RAMALHO, LEONARDO ; KLAUTAU, ALDEBARO . Compressão dos Sinais de Ativação de Redes Neurais Profundas Particionadas. 2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

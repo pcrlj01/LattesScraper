@@ -1,0 +1,842 @@
+{
+  "name": "Marjorie Maria Bellinello",
+  "lattes_id": "8909250312645491",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Uso de mineração de dados para priorização no planejamento de manutenção preventiva",
+          "autores": "OBAL, T. M. ; BELLINELLO, M.M. ; PETROVIC, S.",
+          "periodico": "PROCEEDING SERIES OF THE BRAZILIAN SOCIETY OF COMPUTATIONAL AND APPLIED MATHEMATICS , v. 11, p. 1-7, 2025.",
+          "doi": "",
+          "citacao_completa": "OBAL, T. M. ; BELLINELLO, M.M. ; PETROVIC, S. . Uso de mineração de dados para priorização no planejamento de manutenção preventiva. PROCEEDING SERIES OF THE BRAZILIAN SOCIETY OF COMPUTATIONAL AND APPLIED MATHEMATICS , v. 11, p. 1-7, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS)",
+          "autores": "BELLINELLO, MARJORIE MARIA ; RODRIGUES, MARCELO ; MARIANO, CARLOS HENRIQUE ; RIGONI, EMERSON ; WALENIA, PAULO SÉRGIO ; DE SOUZA, GILBERTO FRANCISCO MARTHA ; BARACY, YAGO LAFOURCADE ; BENEDITO, RAPHAEL AUGUSTO DE SOUZA ; SALLES, GISELE MARIA DE OLIVEIRA",
+          "periodico": "FOCO (FACULDADE NOVO MILÊNIO) , v. 16, p. e2394-18, 2023.",
+          "doi": "http://dx.doi.org/10.54751/revistafoco.v16n6-149",
+          "citacao_completa": "BELLINELLO, MARJORIE MARIA ; RODRIGUES, MARCELO ; MARIANO, CARLOS HENRIQUE ; RIGONI, EMERSON ; WALENIA, PAULO SÉRGIO ; DE SOUZA, GILBERTO FRANCISCO MARTHA ; BARACY, YAGO LAFOURCADE ; BENEDITO, RAPHAEL AUGUSTO DE SOUZA ; SALLES, GISELE MARIA DE OLIVEIRA . METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS). FOCO (FACULDADE NOVO MILÊNIO) , v. 16, p. e2394-18, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Metodologia Six Sigma Suportada Pelo Método BWM para a Escolha de Indicadores O&M Padronizados pelas Normas ANEEL E BS 15341: Aplicação no Setor Energético",
+          "autores": "DA COSTA, LUANA APARECIDA GRACHEKI ; TONI, VINICIUS MARTINS DIAS ; BOTELHO, MATHEUS EIJI TORIY ; BELLINELLO, MARJORIE MARIA ; RODRIGUES, MARCELO ; RIGONI, EMERSON",
+          "periodico": "Brazilian Journal of Business , v. 5, p. 563-578, 2023.",
+          "doi": "http://dx.doi.org/10.34140/bjbv5n1-036",
+          "citacao_completa": "DA COSTA, LUANA APARECIDA GRACHEKI ; TONI, VINICIUS MARTINS DIAS ; BOTELHO, MATHEUS EIJI TORIY ; BELLINELLO, MARJORIE MARIA ; RODRIGUES, MARCELO ; RIGONI, EMERSON . Metodologia Six Sigma Suportada Pelo Método BWM para a Escolha de Indicadores O&M Padronizados pelas Normas ANEEL E BS 15341: Aplicação no Setor Energético. Brazilian Journal of Business , v. 5, p. 563-578, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Entropy-MAUT integrated approach supported by Fuzzy K-means: a robust tool for determining critical components for maintenance monitoring and a case study of Kaplan hydro generator unit",
+          "autores": "BELLINELLO,MARJORIE M. ; ANTOMARIONI, S. ; ; BEVILACQUA, M. ; CIARAPICA, F. E.",
+          "periodico": "Produção (São Paulo) , v. 32, p. 1-24, 2022.",
+          "doi": "http://dx.doi.org/10.1590/0103-6513.20210066",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; ANTOMARIONI, S. ; ; BEVILACQUA, M. ; CIARAPICA, F. E. . Entropy-MAUT integrated approach supported by Fuzzy K-means: a robust tool for determining critical components for maintenance monitoring and a case study of Kaplan hydro generator unit. Produção (São Paulo) , v. 32, p. 1-24, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Power Plants Maintenance Performance Indicators: A Novel Consolidated Corporate Approach Grounded on Rational Decision Method",
+          "autores": "MURAD, C. A. ; BELLINELLO, MARJORIE M. ; SILVA, A.J ; NETTO, ADHERBAL CAMINADA ; DE SOUZA, GILBERTO F.M. ; Nabeta, S.I",
+          "periodico": "SSRN Electronic Journals: The English & Commonwealth Law Abstracts Journal , p. 1-20, 2022.",
+          "doi": "http://dx.doi.org/10.2139/ssrn.4075241",
+          "citacao_completa": "MURAD, C. A. ; BELLINELLO, MARJORIE M. ; SILVA, A.J ; NETTO, ADHERBAL CAMINADA ; DE SOUZA, GILBERTO F.M. ; Nabeta, S.I . Power Plants Maintenance Performance Indicators: A Novel Consolidated Corporate Approach Grounded on Rational Decision Method. SSRN Electronic Journals: The English & Commonwealth Law Abstracts Journal , p. 1-20, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A novel methodology employed for ranking and consolidating performance indicators in holding companies with multiple power plants based on multi-criteria decision-making method.",
+          "autores": "MURAD, C.A. ; BELLINELLO, M.M. ; SILVA, A.J. ; NETTO, A. CAMINADA ; DE SOUZA, G.F.M. ; NABETA, S.I.",
+          "periodico": "OPERATIONS RESEARCH PERSPECTIVES , v. 9, p. 100254-1, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.orp.2022.100254",
+          "citacao_completa": "MURAD, C.A. ; BELLINELLO, M.M. ; SILVA, A.J. ; NETTO, A. CAMINADA ; DE SOUZA, G.F.M. ; NABETA, S.I. . A novel methodology employed for ranking and consolidating performance indicators in holding companies with multiple power plants based on multi-criteria decision-making method.. OPERATIONS RESEARCH PERSPECTIVES , v. 9, p. 100254-1, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Deciding a Multicriteria Decision-Making (MCDM) Method to Prioritize Maintenance Work Orders of Hydroelectric Power Plants",
+          "autores": "DA SILVA, RENAN FAVARÃO ; BELLINELLO, MARJORIE MARIA ; DE SOUZA, GILBERTO FRANCISCO MARTHA ; ANTOMARIONI, SARA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE",
+          "periodico": "Energies , v. 14, p. 8281, 2021.",
+          "doi": "http://dx.doi.org/10.3390/en14248281",
+          "citacao_completa": "DA SILVA, RENAN FAVARÃO ; BELLINELLO, MARJORIE MARIA ; DE SOUZA, GILBERTO FRANCISCO MARTHA ; ANTOMARIONI, SARA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE . Deciding a Multicriteria Decision-Making (MCDM) Method to Prioritize Maintenance Work Orders of Hydroelectric Power Plants. Energies , v. 14, p. 8281, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "PAL-VMEA: A Novel Method for Enhancing Decision-Making Consistency in Maintenance Management",
+          "autores": "BELLINELLO, MARJORIE M. ; MICHALSKI, MIGUEL A. C. ; MELANI, ARTHUR H. A. ; NETTO, ADHERBAL CAMINADA ; MURAD, CARLOS A. ; SOUZA, GILBERTO F. M.",
+          "periodico": "Applied Sciences-Basel , v. 10, p. 8040, 2020.",
+          "doi": "http://dx.doi.org/10.3390/app10228040",
+          "citacao_completa": "BELLINELLO, MARJORIE M. ; MICHALSKI, MIGUEL A. C. ; MELANI, ARTHUR H. A. ; NETTO, ADHERBAL CAMINADA ; MURAD, CARLOS A. ; SOUZA, GILBERTO F. M. . PAL-VMEA: A Novel Method for Enhancing Decision-Making Consistency in Maintenance Management. Applied Sciences-Basel , v. 10, p. 8040, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Data-Driven Approach to Extend Failure Analysis: A Framework Development and a Case Study on a Hydroelectric Power Plant",
+          "autores": "ANTOMARIONI, SARA ; BELLINELLO, MARJORIE MARIA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE ; DA SILVA, RENAN FAVARÃO ; DE SOUZA, GILBERTO FRANCISCO MARTHA",
+          "periodico": "Energies , v. 13, p. 6400, 2020.",
+          "doi": "http://dx.doi.org/10.3390/en13236400",
+          "citacao_completa": "ANTOMARIONI, SARA ; BELLINELLO, MARJORIE MARIA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE ; DA SILVA, RENAN FAVARÃO ; DE SOUZA, GILBERTO FRANCISCO MARTHA . A Data-Driven Approach to Extend Failure Analysis: A Framework Development and a Case Study on a Hydroelectric Power Plant. Energies , v. 13, p. 6400, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Implantação da mcc em um sistema de refrigeração de uma indústria de resina para MDF: um estudo de caso",
+          "autores": "BELINELLI, MARJORIE ; Vilchak, L. ; SAVOLDI, A. ; LIMA, Wagner B. ; RODRIGUES, M. ; OLIVEIRA, C. C.",
+          "periodico": "Brazilian Journal of Business , v. 1, p. 963-978, 2019.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, MARJORIE ; Vilchak, L. ; SAVOLDI, A. ; LIMA, Wagner B. ; RODRIGUES, M. ; OLIVEIRA, C. C. . Implantação da mcc em um sistema de refrigeração de uma indústria de resina para MDF: um estudo de caso. Brazilian Journal of Business , v. 1, p. 963-978, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Prioritization of the Industrial Maintenance Activities According its Ergonomics Risks using Multi-criteria Analysis AHP",
+          "autores": "BELINELLI, M. M. ; ZATTAR, I. C. ; SILVA, M. M. ; SELEME, R. ; ; RODRIGUES, M. ; OLIVEIRA, C. C. ; SAVOLDI, A.",
+          "periodico": "INTERNATIONAL JOURNAL OF ENGINEERING TRENDS AND TECHNOLOGY , v. 59, p. 214-222, 2018.",
+          "doi": "http://dx.doi.org/10.14445/22315381/ijett-v59p241",
+          "citacao_completa": "BELINELLI, M. M. ; ZATTAR, I. C. ; SILVA, M. M. ; SELEME, R. ; ; RODRIGUES, M. ; OLIVEIRA, C. C. ; SAVOLDI, A. . Prioritization of the Industrial Maintenance Activities According its Ergonomics Risks using Multi-criteria Analysis AHP. INTERNATIONAL JOURNAL OF ENGINEERING TRENDS AND TECHNOLOGY , v. 59, p. 214-222, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Health in the rural environment: a postural evaluation of milking workers in Brazil",
+          "autores": "OLIVEIRA, C. C. ; XAVIER, A. A. P. ; ULBRICHT, L. ; MORO, A. R. P. ; BELINELLI, M. M.",
+          "periodico": "CAHIERS AGRICULTURES , v. 27, p. 35004, 2018.",
+          "doi": "http://dx.doi.org/10.1051/cagri/2018021",
+          "citacao_completa": "OLIVEIRA, C. C. ; XAVIER, A. A. P. ; ULBRICHT, L. ; MORO, A. R. P. ; BELINELLI, M. M. . Health in the rural environment: a postural evaluation of milking workers in Brazil. CAHIERS AGRICULTURES , v. 27, p. 35004, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Ergonomic evaluation of workload by milk production - a bibliometric analysis",
+          "autores": "DE OLIVEIRA, CLAUDILAINE CALDAS ; PEREIRA MORO, ANTÔNIO RENATO ; ULBRICHT, LEANDRA ; BELINELLI, MARJORIE ; DE SOUZA, GILBERTO F.M. ; GABRIEL, MICHELE ; ZATTAR, IZABEL CRISTINA",
+          "periodico": "ANNALS OF AGRICULTURAL AND ENVIRONMENTAL MEDICINE , v. 24, p. 376-382, 2017.",
+          "doi": "http://dx.doi.org/10.26444/aaem/75505",
+          "citacao_completa": "DE OLIVEIRA, CLAUDILAINE CALDAS ; PEREIRA MORO, ANTÔNIO RENATO ; ULBRICHT, LEANDRA ; BELINELLI, MARJORIE ; DE SOUZA, GILBERTO F.M. ; GABRIEL, MICHELE ; ZATTAR, IZABEL CRISTINA . Ergonomic evaluation of workload by milk production - a bibliometric analysis. ANNALS OF AGRICULTURAL AND ENVIRONMENTAL MEDICINE , v. 24, p. 376-382, 2017."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implantação de Planos de Lubrificação Industrial: Estudo de caso em uma Indústria Papeleira",
+          "autores": "BELINELLI, M. M. ; SCANDELARI, L. ; ; MULLER, L.V.",
+          "periodico": "REVISTA DE ENGENHARIA E TECNOLOGIA , v. 1, p. 88-99, 2009.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; SCANDELARI, L. ; ; MULLER, L.V. . Implantação de Planos de Lubrificação Industrial: Estudo de caso em uma Indústria Papeleira. REVISTA DE ENGENHARIA E TECNOLOGIA , v. 1, p. 88-99, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS)",
+          "autores": "BELLINELLO,MARJORIE M. ; BARACY, Y. L. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; RODRIGUES, M. ; MARIANO, C. H. ; ; SALLES, GISELE MARIA DE OLIVEIRA",
+          "periodico": "In: Barbara Luzia Sartor Bonfim Catapan.. (Org.). Society and culture. 1ed.Curitiba: Editora Foco, 2025, v. 1, p. 26-43.",
+          "doi": "",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; BARACY, Y. L. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; RODRIGUES, M. ; MARIANO, C. H. ; ; SALLES, GISELE MARIA DE OLIVEIRA . METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS). In: Barbara Luzia Sartor Bonfim Catapan.. (Org.). Society and culture. 1ed.Curitiba: Editora Foco, 2025, v. 1, p. 26-43."
+        },
+        {
+          "ano": 2023,
+          "titulo": "APLICAÇÃO DE MÉTODO PSF COMBINADO COM SPAR-H PARA ANALISAR A INFLUÊNCIA HUMANA EM ATIVIDADES DE MANUTENÇÃO DE USINAS HIDRELÉTRICAS",
+          "autores": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO, MARJORIE M. ; RIGONI, E. ; RODRIGUES, M.",
+          "periodico": "ENGENHARIA 4.0 ERA DA PRODUÇÃO INTELIGENTE VOL.11. 11ed.São Luís do Maranhão: Editora Pascal, 2023, v. 11, p. 100-111.",
+          "doi": "http://dx.doi.org/10.29327/5170404.1-8",
+          "citacao_completa": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO, MARJORIE M. ; RIGONI, E. ; RODRIGUES, M. . APLICAÇÃO DE MÉTODO PSF COMBINADO COM SPAR-H PARA ANALISAR A INFLUÊNCIA HUMANA EM ATIVIDADES DE MANUTENÇÃO DE USINAS HIDRELÉTRICAS. ENGENHARIA 4.0 ERA DA PRODUÇÃO INTELIGENTE VOL.11. 11ed.São Luís do Maranhão: Editora Pascal, 2023, v. 11, p. 100-111."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Aplicação de um Método Integrado com Técnica AHP e FUZZY SAW para Ordenação dos Riscos de Modos e Efeitos de Falha:Estudo de Caso em uma Indústria de Papel e Celulose",
+          "autores": "BISCAIA, R. V. B. ; KCHECINSKI ,A. ; KOVALESKI, J. L. ; BELINELLI, M. M. ; BRAGHINI JUNIOR, A.",
+          "periodico": "In: UNIFEI - Universidade Federal de Itajubá. (Org.). Coletânea Brasileira - Engenharia de Produção 3. 1ed.Itajubá: Stellata Editora, 2019, v. 3, p. 85-99.",
+          "doi": "",
+          "citacao_completa": "BISCAIA, R. V. B. ; KCHECINSKI ,A. ; KOVALESKI, J. L. ; BELINELLI, M. M. ; BRAGHINI JUNIOR, A. . Aplicação de um Método Integrado com Técnica AHP e FUZZY SAW para Ordenação dos Riscos de Modos e Efeitos de Falha:Estudo de Caso em uma Indústria de Papel e Celulose. In: UNIFEI - Universidade Federal de Itajubá. (Org.). Coletânea Brasileira - Engenharia de Produção 3. 1ed.Itajubá: Stellata Editora, 2019, v. 3, p. 85-99."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Method Selection of Lubrication Policy Centered in Reliability: Application in Food Industry.",
+          "autores": "BELINELLI, M. M. ;",
+          "periodico": "In: Michael Beer;Siu-Kui Au;Jim W. Hail. (Org.). In: M.Beer; S.K. Au; J.W.Hail (editors). Vulnerability, Uncertainty, and Risk Quantification, Mitigation, and Management: Proceedings of the ICVRAM/ISUMA (2014). 1ed.New York: Curran Associates Incorporation, 2014, v. 1, p. 1-2889.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; . Method Selection of Lubrication Policy Centered in Reliability: Application in Food Industry.. In: Michael Beer;Siu-Kui Au;Jim W. Hail. (Org.). In: M.Beer; S.K. Au; J.W.Hail (editors). Vulnerability, Uncertainty, and Risk Quantification, Mitigation, and Management: Proceedings of the ICVRAM/ISUMA (2014). 1ed.New York: Curran Associates Incorporation, 2014, v. 1, p. 1-2889."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Application of Quality Tools for Failure Analysis in Mechanical Systems of Industrial Bench Drill Presses - A Case Study in a Farm Harvester Factory",
+          "autores": "BELINELLI, M. M. ; ; PORTUGAL, E. M. ; KAMINSKI, E.",
+          "periodico": "In: Industrial Engineering & Operations Management Society. (Org.). Proceedings of the 3rd International Conference on Industrial Engine (IEOM) - 2012. 3ed.New York: Curran Associates, Inc, 2012, v. 1, p. 2293-2302.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; ; PORTUGAL, E. M. ; KAMINSKI, E. . Application of Quality Tools for Failure Analysis in Mechanical Systems of Industrial Bench Drill Presses - A Case Study in a Farm Harvester Factory. In: Industrial Engineering & Operations Management Society. (Org.). Proceedings of the 3rd International Conference on Industrial Engine (IEOM) - 2012. 3ed.New York: Curran Associates, Inc, 2012, v. 1, p. 2293-2302."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Decision-making approach to support the selection of remotely operated inspection methods of FPSO tanks",
+          "autores": "DA SILVA, RENAN FAVARÃO ; ; BELLINELLO, MARJORIE M. ; NETTO, A. C.",
+          "periodico": "In: 44th International Conference on Ocean, Offshore and Arctic Engineering - OMAE 2025, 2025, Vancouver. Proceedings of the ASME 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "DA SILVA, RENAN FAVARÃO ; ; BELLINELLO, MARJORIE M. ; NETTO, A. C. . Decision-making approach to support the selection of remotely operated inspection methods of FPSO tanks. In: 44th International Conference on Ocean, Offshore and Arctic Engineering - OMAE 2025, 2025, Vancouver. Proceedings of the ASME 2025, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Uso de Mineração de Dados para Priorização no Planejamento de Manutenção Preventiva",
+          "autores": "OBAL, T. M. ; BELLINELLO, M.M. ; PETROVIC, S.",
+          "periodico": "In: XLIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2024, 2024, Porto de Galinhas. XLIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "OBAL, T. M. ; BELLINELLO, M.M. ; PETROVIC, S. . Uso de Mineração de Dados para Priorização no Planejamento de Manutenção Preventiva. In: XLIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2024, 2024, Porto de Galinhas. XLIII Congresso Nacional de Matemática Aplicada e Computacional - CNMAC 2024, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Desenvolvimento de Smart System para Auxílio do PCM no Advento da Indústria 4.0",
+          "autores": "SOARES,Gustavo A. ; BELLINELLO, M.M. ; KCHECINSKI ,A. ; RODRIGUES, MARCELO ; RIGONI, EMERSON ; MARIANO, C. H. ; BENEDITO, R. A. S. ; WALÊNIA, P.C.",
+          "periodico": "In: 38º ABRAMAN CBMGA - CONGRESSO BRASILEIRO DE MANUTENÇÃO E GESTÃO DE ATIVOS, 2023, Curitiba. 38º ABRAMAN CBMGA - CONGRESSO BRASILEIRO DE MANUTENÇÃO E GESTÃO DE ATIVOS, 2023.",
+          "doi": "",
+          "citacao_completa": "SOARES,Gustavo A. ; BELLINELLO, M.M. ; KCHECINSKI ,A. ; RODRIGUES, MARCELO ; RIGONI, EMERSON ; MARIANO, C. H. ; BENEDITO, R. A. S. ; WALÊNIA, P.C. . Desenvolvimento de Smart System para Auxílio do PCM no Advento da Indústria 4.0. In: 38º ABRAMAN CBMGA - CONGRESSO BRASILEIRO DE MANUTENÇÃO E GESTÃO DE ATIVOS, 2023, Curitiba. 38º ABRAMAN CBMGA - CONGRESSO BRASILEIRO DE MANUTENÇÃO E GESTÃO DE ATIVOS, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS)",
+          "autores": "BELLINELLO, MARJORIE M. ; RODRIGUES, M. ; MARIANO, C.H. ; RIGONI, E. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; ; BARACY, Y. L. ; SALLES, Gisele M. O.",
+          "periodico": "In: XXVI ? SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. XXVI SNPTEE ? Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022.",
+          "doi": "",
+          "citacao_completa": "BELLINELLO, MARJORIE M. ; RODRIGUES, M. ; MARIANO, C.H. ; RIGONI, E. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; ; BARACY, Y. L. ; SALLES, Gisele M. O. . METODOLOGIA FUZZY-FMECA APLICADA EM POLÍTICA DE MANUTENÇÃO EM HIDROGERADORES TIPO FRANCIS: ESTUDO DE CASO PARA A UHE GOVERNADOR JOSÉ RICHA (SALTO CAXIAS). In: XXVI ? SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. XXVI SNPTEE ? Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "The Natural Language Processing (NLP) Algorithm Integrated with FMECA Analysis Applied in the Maintenance Plans Development to Power Generation System Assets",
+          "autores": "TONI, V.M.D. ; COSTA, L. A. ; BOTELHO, M. E. ; BELLINELLO, MARJORIE MARIA ; RODRIGUES, M. ; RIGONI, E.",
+          "periodico": "In: 3rd IEOM - South American Conference on Industrial Engineering and Operations Management in Paraguay, 2022, Asuncion. 3rd IEOM - South American Conference on Industrial Engineering and Operations Management in Paraguay, 2022. v. 1.",
+          "doi": "",
+          "citacao_completa": "TONI, V.M.D. ; COSTA, L. A. ; BOTELHO, M. E. ; BELLINELLO, MARJORIE MARIA ; RODRIGUES, M. ; RIGONI, E. . The Natural Language Processing (NLP) Algorithm Integrated with FMECA Analysis Applied in the Maintenance Plans Development to Power Generation System Assets. In: 3rd IEOM - South American Conference on Industrial Engineering and Operations Management in Paraguay, 2022, Asuncion. 3rd IEOM - South American Conference on Industrial Engineering and Operations Management in Paraguay, 2022. v. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Reliability Centered Maintenance - Quantitative (RCM-Q) Applied to Hydropower Plants: Analysis from the Zero-Base Transition to the Quantitative Process",
+          "autores": "BELLINELLO, MARJORIE MARIA ; RODRIGUES, M. ; RIGONI, E. ; MARIANO, C.H. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; BARACY, Y. L. ; DE SOUZA, GILBERTO F.M. ; SALLES, Gisele M. O.",
+          "periodico": "In: ESREL 2022 - 32nd European Safety and Reliability Conference, 2022, Dublin. ESREL 2022 - 32nd European Safety and Reliability Conference : Understanding and Managing Risk and Reliability for a Sustainable Future, 2022. v. 1.",
+          "doi": "",
+          "citacao_completa": "BELLINELLO, MARJORIE MARIA ; RODRIGUES, M. ; RIGONI, E. ; MARIANO, C.H. ; BENEDITO, R. A. S. ; WALENIA, P. S. ; BARACY, Y. L. ; DE SOUZA, GILBERTO F.M. ; SALLES, Gisele M. O. . Reliability Centered Maintenance - Quantitative (RCM-Q) Applied to Hydropower Plants: Analysis from the Zero-Base Transition to the Quantitative Process. In: ESREL 2022 - 32nd European Safety and Reliability Conference, 2022, Dublin. ESREL 2022 - 32nd European Safety and Reliability Conference : Understanding and Managing Risk and Reliability for a Sustainable Future, 2022. v. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Genetic algorithm applied in the structuring of maintenance routes in the energy generation sector electric",
+          "autores": "AMARAL, G.S. ; PEREIRA, A. I. ; BELLINELLO, MARJORIE MARIA",
+          "periodico": "In: SASYR - 2nd Symposium of Applied Science for Young Researchers, 2022, Bragança. SASYR - 2nd Symposium of Applied Science for Young Researchers 2022. Bragança, 2022.",
+          "doi": "",
+          "citacao_completa": "AMARAL, G.S. ; PEREIRA, A. I. ; BELLINELLO, MARJORIE MARIA . Genetic algorithm applied in the structuring of maintenance routes in the energy generation sector electric. In: SASYR - 2nd Symposium of Applied Science for Young Researchers, 2022, Bragança. SASYR - 2nd Symposium of Applied Science for Young Researchers 2022. Bragança, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Metodologia SIX SIGMA Suportada pelo Método BWM para a Escolha de Indicadores O&M Padronizados pelas Normas ANEEL e BS 15341: Aplicação no Setor Energético",
+          "autores": "COSTA, L. A. G. ; BOTELHO, M. E. ; TONI, V.M.D. ; BELLINELLO, M.M. ; RODRIGUES, M.",
+          "periodico": "In: XLII ENEGEP - ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO, 2022, Foz do Iguaçu. \"Contribuição da Engenharia de Produção para a Transformação Digital da Indústria Brasileira\", 2022. v. 1.",
+          "doi": "",
+          "citacao_completa": "COSTA, L. A. G. ; BOTELHO, M. E. ; TONI, V.M.D. ; BELLINELLO, M.M. ; RODRIGUES, M. . Metodologia SIX SIGMA Suportada pelo Método BWM para a Escolha de Indicadores O&M Padronizados pelas Normas ANEEL e BS 15341: Aplicação no Setor Energético. In: XLII ENEGEP - ENCONTRO NACIONAL DE ENGENHARIA DE PRODUÇÃO, 2022, Foz do Iguaçu. \"Contribuição da Engenharia de Produção para a Transformação Digital da Indústria Brasileira\", 2022. v. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "APLICAÇÃO DE MÉTODO PSF COMBINADO COM SPAR-H PARA ANALISAR A INFLUÊNCIA HUMANA EM ATIVIDADES DE MANUTENÇÃO DE USINAS HIDRELÉTRICAS",
+          "autores": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO,MARJORIE M. ; RIGONI, E.",
+          "periodico": "In: XXIX SIMPEP - Simpósio de Engenharia de produção, 2022, Bauru. XXIX SIMPEP - Simpósio de Engenharia de produção: Resiliência na Cadeia de Suprimentos, 2022. v. 1. p. 1-18.",
+          "doi": "",
+          "citacao_completa": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO,MARJORIE M. ; RIGONI, E. . APLICAÇÃO DE MÉTODO PSF COMBINADO COM SPAR-H PARA ANALISAR A INFLUÊNCIA HUMANA EM ATIVIDADES DE MANUTENÇÃO DE USINAS HIDRELÉTRICAS. In: XXIX SIMPEP - Simpósio de Engenharia de produção, 2022, Bauru. XXIX SIMPEP - Simpósio de Engenharia de produção: Resiliência na Cadeia de Suprimentos, 2022. v. 1. p. 1-18."
+        },
+        {
+          "ano": 2022,
+          "titulo": "DESENVOLVIMENTO DE PLANOS DE MANUTENÇÃO COM PROCESSAMENTO DE LINGUAGEM NATURAL: APLICAÇÃO EM SISTEMA DE GERAÇÃO DE ENERGIA,",
+          "autores": "TONI, V.M.D. ; COSTA, L. A. G. ; BOTELHO, M. E. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E.",
+          "periodico": "In: XXVII Seminário de IniciaçãoCientífica e Tecnológica da UTFPR, 2022, Santa Helena. PESQUISA, EXTENSÃO E INOVAÇÃO, CAMINHOS PARA SUSTENTABILIDADE, 2022.",
+          "doi": "",
+          "citacao_completa": "TONI, V.M.D. ; COSTA, L. A. G. ; BOTELHO, M. E. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E. . DESENVOLVIMENTO DE PLANOS DE MANUTENÇÃO COM PROCESSAMENTO DE LINGUAGEM NATURAL: APLICAÇÃO EM SISTEMA DE GERAÇÃO DE ENERGIA,. In: XXVII Seminário de IniciaçãoCientífica e Tecnológica da UTFPR, 2022, Santa Helena. PESQUISA, EXTENSÃO E INOVAÇÃO, CAMINHOS PARA SUSTENTABILIDADE, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aplicação do método híbrido PSF & SPAR-H para analisar a influência humana em atividades de manutenção de Usinas Hidrelétricas",
+          "autores": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E.",
+          "periodico": "In: XXVII Seminário de Iniciação Científica e Tecnológica (SICITE) da UTFPR, 2022, Santa helena. Pesquisa, Extensão e Inovação: Caminhos para a Sustentabilidade, 2022.",
+          "doi": "",
+          "citacao_completa": "BOTELHO, M. E. ; COSTA, L. A. G. ; TONI, V.M.D. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E. . Aplicação do método híbrido PSF & SPAR-H para analisar a influência humana em atividades de manutenção de Usinas Hidrelétricas. In: XXVII Seminário de Iniciação Científica e Tecnológica (SICITE) da UTFPR, 2022, Santa helena. Pesquisa, Extensão e Inovação: Caminhos para a Sustentabilidade, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Automatização do processo de determinação de indicadores O&M fundamentada pela metodologia Six Sigma e método híbrido BWM-AIJ,",
+          "autores": "COSTA, L. A. G. ; TONI, V.M.D. ; BOTELHO, M. E. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E.",
+          "periodico": "In: XXVII Seminário de Iniciação Científica e Tecnológica (SICITE) da UTFPR, 2022, Santa Helena. Pesquisa, Extensão e Inovação: Caminhos para a Sustentabilidade, 2022.",
+          "doi": "",
+          "citacao_completa": "COSTA, L. A. G. ; TONI, V.M.D. ; BOTELHO, M. E. ; BELLINELLO,MARJORIE M. ; RODRIGUES, M. ; RIGONI, E. . Automatização do processo de determinação de indicadores O&M fundamentada pela metodologia Six Sigma e método híbrido BWM-AIJ,. In: XXVII Seminário de Iniciação Científica e Tecnológica (SICITE) da UTFPR, 2022, Santa Helena. Pesquisa, Extensão e Inovação: Caminhos para a Sustentabilidade, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Game Theory Supporting a Decision-Making Process to Reduce Losses in Hydro Generating Plants Overhaul Delays",
+          "autores": "SILVA, A.J ; BELLINELLO,MARJORIE M. ; ; NETTO, A. C. ; MURAD, C. A. ; Nabeta, S.I",
+          "periodico": "In: 2nd South American Conference on Industrial Engineering and Operations Management - IEOM 2021, 2021, São Paulo. Proceedings ? 2021 São o Paulo IEOM Conference, 2021.",
+          "doi": "",
+          "citacao_completa": "SILVA, A.J ; BELLINELLO,MARJORIE M. ; ; NETTO, A. C. ; MURAD, C. A. ; Nabeta, S.I . Game Theory Supporting a Decision-Making Process to Reduce Losses in Hydro Generating Plants Overhaul Delays. In: 2nd South American Conference on Industrial Engineering and Operations Management - IEOM 2021, 2021, São Paulo. Proceedings ? 2021 São o Paulo IEOM Conference, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Defining Operator Driven Reliability Inspection Routes through Reliability, Risk Analysis and Quality Control Techniques",
+          "autores": "NETTO, A. C. ; MELANI,A.H.de A. ; CARVALHO, M. A. ; MURAD, C. A. ; BELLINELLO,MARJORIE M. ; SOUZA, GILBERTO F. M.",
+          "periodico": "In: 2021 Annual Reliability and Maintainability Symposium (RAMS), 2021, Orlando. Proceedings of Annual Reliability and Maintainability Symposium (RAMS) 2021. Orlando, 2021.",
+          "doi": "http://dx.doi.org/10.1109/RAMS48097.2021.9605740",
+          "citacao_completa": "NETTO, A. C. ; MELANI,A.H.de A. ; CARVALHO, M. A. ; MURAD, C. A. ; BELLINELLO,MARJORIE M. ; SOUZA, GILBERTO F. M. . Defining Operator Driven Reliability Inspection Routes through Reliability, Risk Analysis and Quality Control Techniques. In: 2021 Annual Reliability and Maintainability Symposium (RAMS), 2021, Orlando. Proceedings of Annual Reliability and Maintainability Symposium (RAMS) 2021. Orlando, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Improving the Reliability of the Critical Asset Maintenance Plan Using Entropy and MAUT Approaches: A Hydropower Plant Case Study",
+          "autores": "MURAD, C. A. ; BELLINELLO,MARJORIE M. ; SILVA, A.J ; ; NETTO, A. C. ; MELANI, ARTHUR H. A. ; CARVALHO, M. A.",
+          "periodico": "In: ESREL 2021 - 31st European Safety and Reliability Conference, 2021, Angers. Proceedings of the 31st European Safety and Reliability Conference (ESREL 2021). Singapore: Research Publishing Services, 2021. v. 1. p. 3039-186.",
+          "doi": "http://dx.doi.org/10.3850/978-981-18-2016-8 186-cd",
+          "citacao_completa": "MURAD, C. A. ; BELLINELLO,MARJORIE M. ; SILVA, A.J ; ; NETTO, A. C. ; MELANI, ARTHUR H. A. ; CARVALHO, M. A. . Improving the Reliability of the Critical Asset Maintenance Plan Using Entropy and MAUT Approaches: A Hydropower Plant Case Study. In: ESREL 2021 - 31st European Safety and Reliability Conference, 2021, Angers. Proceedings of the 31st European Safety and Reliability Conference (ESREL 2021). Singapore: Research Publishing Services, 2021. v. 1. p. 3039-186."
+        },
+        {
+          "ano": 2021,
+          "titulo": "DEVELOPMENT OF AN INDUSTRIAL ASSET MANAGEMENT MATURITY ANALYSIS METHOD APPLIED TO HYDROELECTRIC POWER PLANTS MAINTENANCE",
+          "autores": "WALÊNIA, P.C. ; RODRIGUES, M. ; BELLINELLO,MARJORIE M. ; RIGONI, E. ; ; SALLES, Gisele M. O.",
+          "periodico": "In: COBEM 2021 - 26th International Congress of Mechanical Engineering, 2021, Florianópolis. COBEM 2021 - Mechanical Engineering: Tailoring the Future, 2021.",
+          "doi": "",
+          "citacao_completa": "WALÊNIA, P.C. ; RODRIGUES, M. ; BELLINELLO,MARJORIE M. ; RIGONI, E. ; ; SALLES, Gisele M. O. . DEVELOPMENT OF AN INDUSTRIAL ASSET MANAGEMENT MATURITY ANALYSIS METHOD APPLIED TO HYDROELECTRIC POWER PLANTS MAINTENANCE. In: COBEM 2021 - 26th International Congress of Mechanical Engineering, 2021, Florianópolis. COBEM 2021 - Mechanical Engineering: Tailoring the Future, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "MODELO PARA ANÁLISE DE MATURIDADE DO SISTEMA DE GESTÃO DA MANUTENÇÃO DE USINAS HIDRELÉTRICAS ALINHADO AO FORMULÁRIO DARDO",
+          "autores": "RODRIGUES, M. ; MARIANO, C. H. ; RIGONI, E. ; BELLINELLO, MARJORIE M. ; AMARAL, G.S. ; ISSICABA, D. ; Venturini , L.F.",
+          "periodico": "In: 36o CBMGA - Congresso Brasileiro de Manutenção e Gestão de Ativos - Online (ABRAMAN) ., 2021, Rio de Janeiro. 36o CBMGA - ABRAMAN Congresso Brasileiro de Manutenção e Gestão de Ativos - Online., 2021.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, M. ; MARIANO, C. H. ; RIGONI, E. ; BELLINELLO, MARJORIE M. ; AMARAL, G.S. ; ISSICABA, D. ; Venturini , L.F. . MODELO PARA ANÁLISE DE MATURIDADE DO SISTEMA DE GESTÃO DA MANUTENÇÃO DE USINAS HIDRELÉTRICAS ALINHADO AO FORMULÁRIO DARDO. In: 36o CBMGA - Congresso Brasileiro de Manutenção e Gestão de Ativos - Online (ABRAMAN) ., 2021, Rio de Janeiro. 36o CBMGA - ABRAMAN Congresso Brasileiro de Manutenção e Gestão de Ativos - Online., 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Paraconsistent Annotated Logic (PAL) Applied in the Decision-Making Process of Maintenance Policy for Kaplan Turbine",
+          "autores": "BELLINELLO,MARJORIE M. ; ; MURAD, C. A. ; NETTO, A. C. ; MELANI,A.H.de A. ; CARVALHO, M. A. ; RODRIGUES, M.",
+          "periodico": "In: ESREL 2020 - 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), 2020, Veneza. Reliability, safety and security for a truly sustainable world, 2020.",
+          "doi": "",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; ; MURAD, C. A. ; NETTO, A. C. ; MELANI,A.H.de A. ; CARVALHO, M. A. ; RODRIGUES, M. . Paraconsistent Annotated Logic (PAL) Applied in the Decision-Making Process of Maintenance Policy for Kaplan Turbine. In: ESREL 2020 - 30th European Safety and Reliability Conference and 15th Probabilistic Safety Assessment and Management Conference (ESREL2020 PSAM15), 2020, Veneza. Reliability, safety and security for a truly sustainable world, 2020."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Application of the AHP multi criteria analysis method for the decision-making in industrial maintenance activities: Case study in a food company",
+          "autores": "Razente, H.B. ; BELINELLI, M. M. ; ; RODRIGUES, M. ; SILVA, M. M. ; SAVOLDI, A.",
+          "periodico": "In: 2018 ICVRAM ISUMA UNCERTAINTIES Conference, 2018, Florianópolis. Proceedings of the joint ICVRAM ISUMA UNCERTAINTIES conference 2018. São Paulo: ABCM- Associação Brasileira de Engenharia e Ciências Mecânicas, 2018. v. 1. p. 1-15.",
+          "doi": "",
+          "citacao_completa": "Razente, H.B. ; BELINELLI, M. M. ; ; RODRIGUES, M. ; SILVA, M. M. ; SAVOLDI, A. . Application of the AHP multi criteria analysis method for the decision-making in industrial maintenance activities: Case study in a food company. In: 2018 ICVRAM ISUMA UNCERTAINTIES Conference, 2018, Florianópolis. Proceedings of the joint ICVRAM ISUMA UNCERTAINTIES conference 2018. São Paulo: ABCM- Associação Brasileira de Engenharia e Ciências Mecânicas, 2018. v. 1. p. 1-15."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Aplicação de um método integrado com técnicas AHP e Fuzzy SAW para ordenação dos riscos de modos e efeitos de falhas: estudo de caso em uma indústria de papel e celulose",
+          "autores": "BISCAIA, R. V. B. ; KCHECINSKI ,A. ; KOVALESKI, J. L. ; BELINELLI, M. M. ; BRAGHINI JUNIOR, A.",
+          "periodico": "In: VIII - CONBREPRO -Congresso Brasileiro de Engenharia de Produção, 2018, Ponta Grossa. Anais CONBREPRO 2018 - As Engenharias e a Indústria 4.0 - Aprepro, 2018.",
+          "doi": "",
+          "citacao_completa": "BISCAIA, R. V. B. ; KCHECINSKI ,A. ; KOVALESKI, J. L. ; BELINELLI, M. M. ; BRAGHINI JUNIOR, A. . Aplicação de um método integrado com técnicas AHP e Fuzzy SAW para ordenação dos riscos de modos e efeitos de falhas: estudo de caso em uma indústria de papel e celulose. In: VIII - CONBREPRO -Congresso Brasileiro de Engenharia de Produção, 2018, Ponta Grossa. Anais CONBREPRO 2018 - As Engenharias e a Indústria 4.0 - Aprepro, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Implantação da metodologia MCC em uma indústria de resinas: estudo de caso do sistema de refrigeração para reatores.",
+          "autores": "BELINELLI, M. M. ; Vilchak, L. ; SAVOLDI, A. ; RODRIGUES, M. ; OLIVEIRA, C. C.",
+          "periodico": "In: XXXVII Encontro Nacional de Engenharia de Produção - ENEGEP, 2017, Joinville. ?A Engenharia de Produção e as novas tecnologias produtivas: indústria 4.0, manufatura aditiva e outras abordagens avançadas de produção?. Rio de Janeiro: ABEPRO -Associação Brasileira de Engenharia de Produção, 2017. p. 1-19.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; Vilchak, L. ; SAVOLDI, A. ; RODRIGUES, M. ; OLIVEIRA, C. C. . Implantação da metodologia MCC em uma indústria de resinas: estudo de caso do sistema de refrigeração para reatores.. In: XXXVII Encontro Nacional de Engenharia de Produção - ENEGEP, 2017, Joinville. ?A Engenharia de Produção e as novas tecnologias produtivas: indústria 4.0, manufatura aditiva e outras abordagens avançadas de produção?. Rio de Janeiro: ABEPRO -Associação Brasileira de Engenharia de Produção, 2017. p. 1-19."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Health in rural environment: an evaluation of postural workers in milking",
+          "autores": "OLIVEIRA, C. C. ; XAVIER, A. A. P. ; ULBRICHT, L. ; MORO, A. R. P. ; BELINELLI, M. M.",
+          "periodico": "In: International Symposium on Work in agriculture, 2016, Maringá. International Symposium on Work in agriculture. Maringá: UEM - Universidade Estadual de Maringá, 2016.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, C. C. ; XAVIER, A. A. P. ; ULBRICHT, L. ; MORO, A. R. P. ; BELINELLI, M. M. . Health in rural environment: an evaluation of postural workers in milking. In: International Symposium on Work in agriculture, 2016, Maringá. International Symposium on Work in agriculture. Maringá: UEM - Universidade Estadual de Maringá, 2016."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Method Selection of Lubrication Policy Centered in Reliability: Application in Food Industry Machinery",
+          "autores": "BELINELLI, M. M. ;",
+          "periodico": "In: ICVRAM 2014 & ISUMA 2014 - Second International Conference on Vulnerability and Risk Analysis and Management & Sixth International Symposium on Uncertainty Modelling Analysis, 2014, Liverpool. Vulnerability, Uncertainty, and Risk: Quantification, Mitigation, and Management. Liverpool: American Society of Civil Engineers, 2014. p. 2880-2889.",
+          "doi": "http://dx.doi.org/10.1061/9780784413609.290",
+          "citacao_completa": "BELINELLI, M. M. ; . Method Selection of Lubrication Policy Centered in Reliability: Application in Food Industry Machinery. In: ICVRAM 2014 & ISUMA 2014 - Second International Conference on Vulnerability and Risk Analysis and Management & Sixth International Symposium on Uncertainty Modelling Analysis, 2014, Liverpool. Vulnerability, Uncertainty, and Risk: Quantification, Mitigation, and Management. Liverpool: American Society of Civil Engineers, 2014. p. 2880-2889."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Development of method failure analysis and risk related to industrial lubrication applied in Food Industry Machinery",
+          "autores": "BELINELLI, M. M. ;",
+          "periodico": "In: 2013 ESREL - European Safety and Reliability Congress, 2013, Amsterdam. Safety, Reliability and Risk Analysis: Beyond the Horizon. London: CRC Press Taylor & Francis Group, 2013. p. 941-948.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; . Development of method failure analysis and risk related to industrial lubrication applied in Food Industry Machinery. In: 2013 ESREL - European Safety and Reliability Congress, 2013, Amsterdam. Safety, Reliability and Risk Analysis: Beyond the Horizon. London: CRC Press Taylor & Francis Group, 2013. p. 941-948."
+        },
+        {
+          "ano": 2013,
+          "titulo": "PROJECT MODIFICATION OF THE BODYWORK CONVEYOR SYSTEM FOR INCREASING MAINTAINABILITY",
+          "autores": "BELINELLI, M. M. ; ; MULLER, L.V.",
+          "periodico": "In: ICPR 22 - 22 nd International Conference on Production Research, 2013, Foz do Iguaçu. 22nd International Conference on Production Research (ICPR 22) ? CHALLENGES FOR SUSTAINABLE OPERATIONS.. Curitiba: Editora PUC, 2013. v. 22.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; ; MULLER, L.V. . PROJECT MODIFICATION OF THE BODYWORK CONVEYOR SYSTEM FOR INCREASING MAINTAINABILITY. In: ICPR 22 - 22 nd International Conference on Production Research, 2013, Foz do Iguaçu. 22nd International Conference on Production Research (ICPR 22) ? CHALLENGES FOR SUSTAINABLE OPERATIONS.. Curitiba: Editora PUC, 2013. v. 22."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Application of Quality Tools for Failure Analysis in Mechanical Systems of Industrial Bench Drill Presses - A Case Study in a Farm Harvester Factory",
+          "autores": "BELINELLI, M. M. ; ; PORTUGAL, E. M. ; KAMINSKI, E.",
+          "periodico": "In: IEOM 2012 - 3rd International Conference on Industrial Engineering and Operations Management, 2012, Istambul. 3rd International Conference on Industrial Engineering and Operations Management (IEOM 2012). Istambul, 2012. p. 1391-1400.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; ; PORTUGAL, E. M. ; KAMINSKI, E. . Application of Quality Tools for Failure Analysis in Mechanical Systems of Industrial Bench Drill Presses - A Case Study in a Farm Harvester Factory. In: IEOM 2012 - 3rd International Conference on Industrial Engineering and Operations Management, 2012, Istambul. 3rd International Conference on Industrial Engineering and Operations Management (IEOM 2012). Istambul, 2012. p. 1391-1400."
+        },
+        {
+          "ano": 2012,
+          "titulo": "ANÁLISE DE CONFIABILIDADE DE UM SISTEMA DE PROCESSAMENTO DE CAVACOS DE MÁQUINAS OPERATRIZES - ESTUDO DE CASO EM UMA INDÚSTRIA METALÚRGICA",
+          "autores": "BELINELLI, M. M. ; ; STOEKLY, J. C. ; STOEKLY, B. P.",
+          "periodico": "In: CONEM 2012 - VII Congresso Nacional de Engenharia Mecânica, 2012, São Luis do Maranhão. CONEM 2012 - ?ENGENHARIA EM DESTAQUE?, 2012.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; ; STOEKLY, J. C. ; STOEKLY, B. P. . ANÁLISE DE CONFIABILIDADE DE UM SISTEMA DE PROCESSAMENTO DE CAVACOS DE MÁQUINAS OPERATRIZES - ESTUDO DE CASO EM UMA INDÚSTRIA METALÚRGICA. In: CONEM 2012 - VII Congresso Nacional de Engenharia Mecânica, 2012, São Luis do Maranhão. CONEM 2012 - ?ENGENHARIA EM DESTAQUE?, 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Implantation of Total Productive Maintenance on Forklift Machines: Case Study in a Steel Industry",
+          "autores": "BELINELLI, M. M. ; RODRIGUES, M. ; BEHAINNE, J. J. R. ;",
+          "periodico": "In: ICIEOM - International Conference on Industrial Engineering and Operations Management, 2010, São Carlos - SP. XVI ICIEOM - International Conference on Industrial Engineering and Operations Management, 2010. v. XVI.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; RODRIGUES, M. ; BEHAINNE, J. J. R. ; . Implantation of Total Productive Maintenance on Forklift Machines: Case Study in a Steel Industry. In: ICIEOM - International Conference on Industrial Engineering and Operations Management, 2010, São Carlos - SP. XVI ICIEOM - International Conference on Industrial Engineering and Operations Management, 2010. v. XVI."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A importância do HACCP (Hazard Analysis and Critical Control Point ) na Gestão da Lubrificação Industrial: Aplicação do Lubrificante adequado para o maquinário do setor Alimentício",
+          "autores": "BELINELLI, M. M. ; LIMA, I.A. ; BEHAINNE, J. J. R. ; RODRIGUES, M.",
+          "periodico": "In: ENEGEP - Encontro Nacional de Engenharia de Produção, 2010, São Carlos-SP. XXX ENEGEP - Encontro Nacional de Engenharia de Produção, 2010. v. XXX.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; LIMA, I.A. ; BEHAINNE, J. J. R. ; RODRIGUES, M. . A importância do HACCP (Hazard Analysis and Critical Control Point ) na Gestão da Lubrificação Industrial: Aplicação do Lubrificante adequado para o maquinário do setor Alimentício. In: ENEGEP - Encontro Nacional de Engenharia de Produção, 2010, São Carlos-SP. XXX ENEGEP - Encontro Nacional de Engenharia de Produção, 2010. v. XXX."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A Manutenção Produtiva Total (TPM) como Ferramenta para Aumento de Disponibilidade de Máquina: Estudo de Caso em uma Indústria do Ramo Siderúrgico.",
+          "autores": "BELINELLI, M. M. ; ; FRASSON, A. C.",
+          "periodico": "In: XVI SIMPEP - Simpósio de Engenharia de Produção, 2009, Bauru. Anais - XVI SIMPEP - Simpósio de Engenharia de Produção. Bauru: Unesp, 2009. v. Único.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; ; FRASSON, A. C. . A Manutenção Produtiva Total (TPM) como Ferramenta para Aumento de Disponibilidade de Máquina: Estudo de Caso em uma Indústria do Ramo Siderúrgico.. In: XVI SIMPEP - Simpósio de Engenharia de Produção, 2009, Bauru. Anais - XVI SIMPEP - Simpósio de Engenharia de Produção. Bauru: Unesp, 2009. v. Único."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Desenvolvimento de um Sistema Informatizado para Auxílio da Gestão de Lubrificação Industrial: Aplicação em uma Empresa Prestadora de Serviço de Usinagem.",
+          "autores": "BELINELLI, M. M. ;",
+          "periodico": "In: XVI SIMPEP - Simpósio de Engenharia de Produção, 2009, Bauru. Anais - SIMPEP. Bauru: Unesp, 2009. v. Único.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; . Desenvolvimento de um Sistema Informatizado para Auxílio da Gestão de Lubrificação Industrial: Aplicação em uma Empresa Prestadora de Serviço de Usinagem.. In: XVI SIMPEP - Simpósio de Engenharia de Produção, 2009, Bauru. Anais - SIMPEP. Bauru: Unesp, 2009. v. Único."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implantação de Planos de Lubrificação Industrial: Estudo de Caso em uma Indústria Papeleira.",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "In: IV Seminário Catarinense de Manutenção, 2009, Joinville. IV Seminário Catarinense de Manutenção. Curitiba: ABRAMAN, 2009.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . Implantação de Planos de Lubrificação Industrial: Estudo de Caso em uma Indústria Papeleira.. In: IV Seminário Catarinense de Manutenção, 2009, Joinville. IV Seminário Catarinense de Manutenção. Curitiba: ABRAMAN, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Queueing System Analysis: a case study.",
+          "autores": "FERREIRA, J. C. ; GERALDES, C. A. S. ; ALMEIDA, J. P. P. ; BELINELLI, M. M.",
+          "periodico": "In: 2ª Escola de Verão & Simpósio de Dupla Diplomação DD2019, 2019, Bragança. 2ª Escola de Verão & Simpósio de Dupla Diplomação DD2019, 2019. v. 2.",
+          "doi": "",
+          "citacao_completa": "FERREIRA, J. C. ; GERALDES, C. A. S. ; ALMEIDA, J. P. P. ; BELINELLI, M. M. . Queueing System Analysis: a case study.. In: 2ª Escola de Verão & Simpósio de Dupla Diplomação DD2019, 2019, Bragança. 2ª Escola de Verão & Simpósio de Dupla Diplomação DD2019, 2019. v. 2."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Abordagem Integrada Entropia-MAUT suportada por Fuzzy K-means: Uma ferramenta Robusta para Determinação de Componentes Críticos de Unidades Hidrogeradoras do Tipo Kaplan",
+          "autores": "BELLINELLO,MARJORIE M. ; ANTOMARIONI, SARA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE ;",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; ANTOMARIONI, SARA ; BEVILACQUA, MAURIZIO ; CIARAPICA, FILIPPO EMANUELE ; . Abordagem Integrada Entropia-MAUT suportada por Fuzzy K-means: Uma ferramenta Robusta para Determinação de Componentes Críticos de Unidades Hidrogeradoras do Tipo Kaplan. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implantação de Planos de Lubrifcação Industrial: Estudo de Caso em uma Indústria Papeleira",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "2009. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . Implantação de Planos de Lubrifcação Industrial: Estudo de Caso em uma Indústria Papeleira. 2009. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Implantação de Manutenção Preventiva em Máquinas Empilhadeiras",
+          "autores": "BELINELLI, M. M. ; MARTINS, A.R. ; SOUZA, A.S",
+          "periodico": "2008. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; MARTINS, A.R. ; SOUZA, A.S . Implantação de Manutenção Preventiva em Máquinas Empilhadeiras. 2008. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Consultor ad hoc na análise do Relatório Técnico, da Chamada 24/2012 - Programa de Pesquisa Básica e Aplicada, da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná.",
+          "autores": "BELINELLI, M. M. ; BRAGHINI JUNIOR, A.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; BRAGHINI JUNIOR, A. . Consultor ad hoc na análise do Relatório Técnico, da Chamada 24/2012 - Programa de Pesquisa Básica e Aplicada, da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná.. 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Consultor ad hoc na análise do Relatório Técnico, da Chamada 21/2015 - Programa de Pesquisa Básica e Aplicada, da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná.",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . Consultor ad hoc na análise do Relatório Técnico, da Chamada 21/2015 - Programa de Pesquisa Básica e Aplicada, da Fundação Araucária de Apoio ao Desenvolvimento Científico e Tecnológico do Paraná.. 2017."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "LUBECONTROL",
+          "autores": "BELINELLI, M. M. ; SAVOLDI, A.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. ; SAVOLDI, A. . LUBECONTROL. 2010."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Aplicação de Métodos Decisórios Multicritérios no gerenciamento da Manutenção",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "2018. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . Aplicação de Métodos Decisórios Multicritérios no gerenciamento da Manutenção. 2018. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Gerenciamento de Manutenção Industrial",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "2012. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . Gerenciamento de Manutenção Industrial. 2012. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "FMEA - Análise de Modo e Efeito de Falha",
+          "autores": "BELINELLI, M. M.",
+          "periodico": "2011. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "BELINELLI, M. M. . FMEA - Análise de Modo e Efeito de Falha. 2011. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "PROPOSIÇÃO E ANÁLISE DE POLÍTICAS DE MANUTENÇÃO FLEXÍVEIS PARA SISTEMAS DE MANUFATURA",
+          "membros": "M.M.BELLINELLO ; SILVA, L. B. L.; ALBERTI, A. R.",
+          "candidato": "THALIA DE MOURA DE QUEIROZ",
+          "citacao_completa": "M.M.BELLINELLO ; SILVA, L. B. L.; ALBERTI, A. R.. Participação em banca de THALIA DE MOURA DE QUEIROZ. PROPOSIÇÃO E ANÁLISE DE POLÍTICAS DE MANUTENÇÃO FLEXÍVEIS PARA SISTEMAS DE MANUFATURA. 2026. Dissertação (Mestrado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA DE PRODUÇÃO) - Universidade Federal de Pernambuco."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "\"MÉTODO PARA OTIMIZAÇÃO DE PROCESSOS UTILIZANDO CONFIABILIDADE E PESQUISA OPERACIONAL NO AMBIENTE DA INDÚSTRIA 4.0''",
+          "membros": "BELLINELLO,MARJORIE M. ; DE SOUZA, GILBERTO F.M.; MENDES, A. B.",
+          "candidato": "Eder Costa Cassettari",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; DE SOUZA, GILBERTO F.M.; MENDES, A. B.. Participação em banca de Eder Costa Cassettari. \"MÉTODO PARA OTIMIZAÇÃO DE PROCESSOS UTILIZANDO CONFIABILIDADE E PESQUISA OPERACIONAL NO AMBIENTE DA INDÚSTRIA 4.0''. 2022. Tese (Doutorado em Engenharia Mecânica) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Learning decision maker preferences using machine learning in multicriteria problems",
+          "membros": "BELLINELLO, MARJORIE MARIA ; TAKAHASHI, R. H. C.; MENEGHINI, I. R.; DUARTE, L. T.; GUIMARAES, F. G.",
+          "candidato": "Marcos Antônio Alves",
+          "citacao_completa": "BELLINELLO, MARJORIE MARIA ; TAKAHASHI, R. H. C.; MENEGHINI, I. R.; DUARTE, L. T.; GUIMARAES, F. G.. Participação em banca de Marcos Antônio Alves. Learning decision maker preferences using machine learning in multicriteria problems. 2021. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal de Minas Gerais."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Desenvolvimento de um Método de Gestão de Lubrificação Industrial para Indústrias de Alimentos de Produtos em Conserva",
+          "membros": "; RODRIGUES, M.; ZATTAR, I. C.; SELEME, R.; ISOLDI, S.",
+          "candidato": "Jones Anschau",
+          "citacao_completa": "; RODRIGUES, M.; ZATTAR, I. C.; SELEME, R.; ISOLDI, S.. Participação em banca de Jones Anschau. Desenvolvimento de um Método de Gestão de Lubrificação Industrial para Indústrias de Alimentos de Produtos em Conserva. 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Proposta de um Método para Monitoramento de Empresas de Base Tecnológica Incubadas, a apartir do modelo CERNE",
+          "membros": "; LIMA, I.A.; ZATTAR, I. C.; VOLPI, N. M. P.; CLETO, M. G.",
+          "candidato": "Rosângela Rosa Luciane da Silva",
+          "citacao_completa": "; LIMA, I.A.; ZATTAR, I. C.; VOLPI, N. M. P.; CLETO, M. G.. Participação em banca de Rosângela Rosa Luciane da Silva. Proposta de um Método para Monitoramento de Empresas de Base Tecnológica Incubadas, a apartir do modelo CERNE. 2015. Exame de qualificação (Mestrando em Mestrado em Engenharia de Produção) - Universidade Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "ANÁLISE CRÍTICA AO PROCESSO DE IMPLANTAÇÃO DA MANUTENÇÃO CENTRADA EM CONFIABILIDADE(MCC) EM UMA PLANTA DE BENEFICIAMENTO DE MINÉRIO DE FERRO",
+          "membros": "BELLINELLO, MARJORIE MARIA ; DE SOUZA, GILBERTO F.M.",
+          "candidato": "Robert Cristian Rodrigues dos Santos",
+          "citacao_completa": "BELLINELLO, MARJORIE MARIA ; DE SOUZA, GILBERTO F.M.. Participação em banca de Robert Cristian Rodrigues dos Santos. ANÁLISE CRÍTICA AO PROCESSO DE IMPLANTAÇÃO DA MANUTENÇÃO CENTRADA EM CONFIABILIDADE(MCC) EM UMA PLANTA DE BENEFICIAMENTO DE MINÉRIO DE FERRO. 2021. Monografia (Aperfeiçoamento/Especialização em MBA em Engenharia e Gestão da Manufatura e Manutenção) - Escola Politécnica da Universidade de São Paulo."
+        },
+        {
+          "ano": 2020,
+          "titulo": "APLICAÇÃO DA MANUTENÇÃO CENTRADA EM CONFIABILIDADE (MCC) EM EQUIPAMENTOS EMPACOTADORES DE MACARRÃO INSTANTÂNEO",
+          "membros": "BELLINELLO,MARJORIE M. ;",
+          "candidato": "WILLIANS SILVA MANO",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; . Participação em banca de WILLIANS SILVA MANO. APLICAÇÃO DA MANUTENÇÃO CENTRADA EM CONFIABILIDADE (MCC) EM EQUIPAMENTOS EMPACOTADORES DE MACARRÃO INSTANTÂNEO. 2020. Monografia (Aperfeiçoamento/Especialização em MBA em Engenharia e Gestão de Manufatura e Manutenção -USP) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Manutenção Centrada em Confiabilidade em Máquina de Conversão de Papel Tissue",
+          "membros": "BELLINELLO,MARJORIE M. ; DE SOUZA, GILBERTO F.M.",
+          "candidato": "CLAYTON ROBERTO PRISMIC",
+          "citacao_completa": "BELLINELLO,MARJORIE M. ; DE SOUZA, GILBERTO F.M.. Participação em banca de CLAYTON ROBERTO PRISMIC. Manutenção Centrada em Confiabilidade em Máquina de Conversão de Papel Tissue. 2020. Monografia (Aperfeiçoamento/Especialização em MBA em Engenharia e Gestão de Manufatura e Manutenção -USP) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento e implantação de um sistema gerencial do processo de lubrificação na Indústria Papeleira com foco na otimização da confiabilidade",
+          "membros": ";",
+          "candidato": "Erick Alan Tranoulis",
+          "citacao_completa": "; . Participação em banca de Erick Alan Tranoulis. Desenvolvimento e implantação de um sistema gerencial do processo de lubrificação na Indústria Papeleira com foco na otimização da confiabilidade. 2019. Monografia (Aperfeiçoamento/Especialização em MBA em Engenharia e Gestão de Manufatura e Manutenção -USP) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Aplicação da manutenção centrada na confiabilidade para sistemas de proteção com dispositivos eletrônicos inteligentes",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "André Luiz Jordão",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de André Luiz Jordão. Aplicação da manutenção centrada na confiabilidade para sistemas de proteção com dispositivos eletrônicos inteligentes. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise da viabilidade de substituição de baterias alcalinas por baterias chumbo-ácidas",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Christian Kutter Dobke",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Christian Kutter Dobke. Análise da viabilidade de substituição de baterias alcalinas por baterias chumbo-ácidas. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Confiabilidade na Gestão de Estoque de Peças Sobressalentes para Manutenção",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Fernando Borchadt",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Fernando Borchadt. Confiabilidade na Gestão de Estoque de Peças Sobressalentes para Manutenção. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Manutenção Centrada na Confiabilidade Aplicada ao Sistema de Monitoramento de Gases dos Transformadores Principais da Usina de Itaipu",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Fernando Cesar Barbado Farias",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Fernando Cesar Barbado Farias. Manutenção Centrada na Confiabilidade Aplicada ao Sistema de Monitoramento de Gases dos Transformadores Principais da Usina de Itaipu. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Aplicação de Frameworks de Gerenciamento de Serviços de Ti para a Gestão da Manutenção de Sistemas de Controle Industrial",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Marcos Aloe Yamamoto",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Marcos Aloe Yamamoto. Aplicação de Frameworks de Gerenciamento de Serviços de Ti para a Gestão da Manutenção de Sistemas de Controle Industrial. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Aplicação da Manutenção Centrada na Confiabilidade em um Disjuntor de Alta Tensão",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Mario Augusto Caetano Dos Santos",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Mario Augusto Caetano Dos Santos. Aplicação da Manutenção Centrada na Confiabilidade em um Disjuntor de Alta Tensão. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Gestión de Mantenimiento Aplicado a los Centros de Control de Motores de las Unidades de La ITAIPU Binacional",
+          "membros": "GUERRA, J. C. C.;",
+          "candidato": "Rodrigo Guillermo Candido Alarcon Caballero",
+          "citacao_completa": "GUERRA, J. C. C.; . Participação em banca de Rodrigo Guillermo Candido Alarcon Caballero. Gestión de Mantenimiento Aplicado a los Centros de Control de Motores de las Unidades de La ITAIPU Binacional. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Mantenimiento Centrado en Confiabilidad de las Llaves Seccionadoras de la Subestación Margen Derecha de la ITAIPU Binacional",
+          "membros": "RODRIGUES, M.;",
+          "candidato": "Vicente Daniel Mendoza Rivarola",
+          "citacao_completa": "RODRIGUES, M.; . Participação em banca de Vicente Daniel Mendoza Rivarola. Mantenimiento Centrado en Confiabilidad de las Llaves Seccionadoras de la Subestación Margen Derecha de la ITAIPU Binacional. 2019. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Implantação de Instruções de Trabalho para Atividades de Lubrificação em uma Indústria Farmacêutica",
+          "membros": ";",
+          "candidato": "Juliana Akutsu Ohe,",
+          "citacao_completa": "; . Participação em banca de Juliana Akutsu Ohe,. Implantação de Instruções de Trabalho para Atividades de Lubrificação em uma Indústria Farmacêutica. 2018. Monografia (Aperfeiçoamento/Especialização em MBA em Engenharia e Gestão de Manufatura e Manutenção -USP) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Estudo das Manutenções Periódicas Civis da Central Hidrelétrica ITAIPU, com estabelecimento de possíveis indicadores",
+          "membros": "; RODRIGUES, M.; Peixoto, A.A.",
+          "candidato": "Marcel Tomoshigue Unten",
+          "citacao_completa": "; RODRIGUES, M.; Peixoto, A.A.. Participação em banca de Marcel Tomoshigue Unten. Estudo das Manutenções Periódicas Civis da Central Hidrelétrica ITAIPU, com estabelecimento de possíveis indicadores. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Gestión del Mantenimiento de los Tableros de Supervisión de los Cojinetes de las Unidades Generadoras de la ITAIPU Binacional Basado em el Sistema de Monitoreo Matrix-UG",
+          "membros": "; Peixoto, A.A.",
+          "candidato": "Juan Carlos Obelar Benitez",
+          "citacao_completa": "; Peixoto, A.A.. Participação em banca de Juan Carlos Obelar Benitez. Gestión del Mantenimiento de los Tableros de Supervisión de los Cojinetes de las Unidades Generadoras de la ITAIPU Binacional Basado em el Sistema de Monitoreo Matrix-UG. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação da Qualidade nos Serviços de Limpeza na Área Industrial da ITAIPU Binaciona",
+          "membros": "; Zoccoli, U",
+          "candidato": "JOÃO FELIPE BETINELI",
+          "citacao_completa": "; Zoccoli, U. Participação em banca de JOÃO FELIPE BETINELI. Avaliação da Qualidade nos Serviços de Limpeza na Área Industrial da ITAIPU Binaciona. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Géstion de Ingeniería de Mantenimiento Eléctrico em la Aplicación de Acciones Estructurantes em CCM de la Central Hidroeléctrica de la ITAIPU Binacional",
+          "membros": "; LIMA, I.A.",
+          "candidato": "Júlio Cesar Romero Ayala",
+          "citacao_completa": "; LIMA, I.A.. Participação em banca de Júlio Cesar Romero Ayala. Géstion de Ingeniería de Mantenimiento Eléctrico em la Aplicación de Acciones Estructurantes em CCM de la Central Hidroeléctrica de la ITAIPU Binacional. 2017. Monografia (Aperfeiçoamento/Especialização em Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Implantação do Sistema de Coleta de Dados Operacionais da Usina Termoelétrica de Figueira -SCDCDE UTE FRA",
+          "membros": "; GUERRA, J. C. C.",
+          "candidato": "José Boz Neto",
+          "citacao_completa": "; GUERRA, J. C. C.. Participação em banca de José Boz Neto. Implantação do Sistema de Coleta de Dados Operacionais da Usina Termoelétrica de Figueira -SCDCDE UTE FRA. 2014. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Plano de Negócio: Gestão da Manutenção Predial em Redes Bancárias de Curitiba",
+          "membros": "; GUERRA, J. C. C.",
+          "candidato": "Alexandre Savi da Silva",
+          "citacao_completa": "; GUERRA, J. C. C.. Participação em banca de Alexandre Savi da Silva. Plano de Negócio: Gestão da Manutenção Predial em Redes Bancárias de Curitiba. 2014. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sistema Operacional : Organizar e Estruturar o Sistema de Gerenciamento de Manutenção",
+          "membros": "; GUERRA, J. C. C.",
+          "candidato": "Antônio Carlos Walter Maciel",
+          "citacao_completa": "; GUERRA, J. C. C.. Participação em banca de Antônio Carlos Walter Maciel. Sistema Operacional : Organizar e Estruturar o Sistema de Gerenciamento de Manutenção. 2014. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Relação entre Performance a as 4 Fases de Confiabilização",
+          "membros": "; PIRES, S.",
+          "candidato": "Marcos Aurélio Trevisan",
+          "citacao_completa": "; PIRES, S.. Participação em banca de Marcos Aurélio Trevisan. Relação entre Performance a as 4 Fases de Confiabilização. 2012. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Avaliação do Desempenho da Gestão de Ativos após a Suspensão do Programa de Manutenção Autônoma em uma Indústria de Cartões de PVC",
+          "membros": "; PIRES, S.",
+          "candidato": "Jamur Niquele",
+          "citacao_completa": "; PIRES, S.. Participação em banca de Jamur Niquele. Avaliação do Desempenho da Gestão de Ativos após a Suspensão do Programa de Manutenção Autônoma em uma Indústria de Cartões de PVC. 2012. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Proposta de Estruturação Básica da Manutenção Industrial para Controle de Ativos",
+          "membros": "; PIRES, S.; GUERRA, J. C. C.",
+          "candidato": "José Eli Pascoal",
+          "citacao_completa": "; PIRES, S.; GUERRA, J. C. C.. Participação em banca de José Eli Pascoal. Proposta de Estruturação Básica da Manutenção Industrial para Controle de Ativos. 2012. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estudo Econômico e Financeiro de Substituição de Equipamentos Injetora de Plástico , em uma empresa fabricante de Componentes Automotivos",
+          "membros": "; RODRIGUES, M.",
+          "candidato": "Patrícia Mokrycki",
+          "citacao_completa": "; RODRIGUES, M.. Participação em banca de Patrícia Mokrycki. Estudo Econômico e Financeiro de Substituição de Equipamentos Injetora de Plástico , em uma empresa fabricante de Componentes Automotivos. 2012. Monografia (Aperfeiçoamento/Especialização em Gerência de Manutenção) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".\"TRANSFORMAÇÃO DIGITAL APLICADA AO GERENCIAMENTO DE ORDENS DE MANUTENÇÃO: ESTUDO DE CASO EM UMA INDÚSTRIA NO SETOR DE USINAGEM\"",
+          "membros": "M.M.BELLINELLO ; RIGONI, E.; RODRIGUES, M.",
+          "candidato": "Caio dos Santos Tanaka e Felippe Vernizze Sousa Nadolny,",
+          "citacao_completa": "M.M.BELLINELLO ; RIGONI, E.; RODRIGUES, M.. Participação em banca de Caio dos Santos Tanaka e Felippe Vernizze Sousa Nadolny,.\"TRANSFORMAÇÃO DIGITAL APLICADA AO GERENCIAMENTO DE ORDENS DE MANUTENÇÃO: ESTUDO DE CASO EM UMA INDÚSTRIA NO SETOR DE USINAGEM\". 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Estudo para implementação da manutenção autônoma e ferramentas de gestão com foco em eliminar desperdício de uma empresa de usinagem",
+          "membros": "; SILVA, Andressa Becker",
+          "candidato": "Thiago Giulianno Otto; Nelson Toshio Izaki; Marcelo Pereira",
+          "citacao_completa": "; SILVA, Andressa Becker. Participação em banca de Thiago Giulianno Otto; Nelson Toshio Izaki; Marcelo Pereira.Estudo para implementação da manutenção autônoma e ferramentas de gestão com foco em eliminar desperdício de uma empresa de usinagem. 2011. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Gestão da Produção Industrial) - CENTRO TECNOLÓGICO DA UNIVERSIDADE POSITIVO."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "BELLINELLO, MARJORIE M. ; BISCAIA, R. V. B.. Professor do Magistério Federal no Câmpus Guarapuava - Professor Substituto",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BELLINELLO, MARJORIE M. ; BISCAIA, R. V. B.. Professor do Magistério Federal no Câmpus Guarapuava - Professor Substituto - Edital n.2 001/2022-PS-GP. 2022. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "BELLINELLO, MARJORIE M. ; DAUM, H. H.; MIYAHARA, R. Y.. CONCURSO PARA PROFESSOR DO MAGISTÉRIO SUPERIOR - CLASSE A, DENOM",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BELLINELLO, MARJORIE M. ; DAUM, H. H.; MIYAHARA, R. Y.. CONCURSO PARA PROFESSOR DO MAGISTÉRIO SUPERIOR - CLASSE A, DENOMINAÇÃO ADJUNTO A - EDITAL DE ABERTURA - CONCURSO PÚBLICO Nº 015/2021-CPCP-GP. 2022."
+        },
+        {
+          "ano": 2019,
+          "titulo": "BISCAIA, R. V. B.; ; FERREIRA, L. J. F.. Professor do Magistério Federal no Câmpus Guarapuava -Professor Substituto. 201",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BISCAIA, R. V. B.; ; FERREIRA, L. J. F.. Professor do Magistério Federal no Câmpus Guarapuava -Professor Substituto. 2019. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "J.JAVAREZ L.; RAMALHO D.A.; ROSA S.N.; . Professor do Magistério Superior Classe A Denominação Assistente A. 2017. Unive",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "J.JAVAREZ L.; RAMALHO D.A.; ROSA S.N.; . Professor do Magistério Superior Classe A Denominação Assistente A. 2017. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "; RODRIGUES, M.; FREIRE JUNIOR, W. A.. Professor do Magistério Superior Classe A Denominação Assistente A. 2016. Univers",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; RODRIGUES, M.; FREIRE JUNIOR, W. A.. Professor do Magistério Superior Classe A Denominação Assistente A. 2016. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "RODRIGUES, M.; HOLZMANN, H. A.; . Professor do Magistério Superior - Assistente A. 2016. Universidade Tecnológica Federa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "RODRIGUES, M.; HOLZMANN, H. A.; . Professor do Magistério Superior - Assistente A. 2016. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "BELINELLI, M. M. . XXVI Seminário de Iniciação Científica e Tecnológica - SICITE 2021. 2021. Universidade Tecnológica Fe",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BELINELLI, M. M. . XXVI Seminário de Iniciação Científica e Tecnológica - SICITE 2021. 2021. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

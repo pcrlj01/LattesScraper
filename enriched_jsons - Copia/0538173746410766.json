@@ -1,0 +1,911 @@
+{
+  "name": "Carlos Raniery Paula dos Santos",
+  "lattes_id": "0538173746410766",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Customizable Mapping of Virtualized Network Services in Multi-datacenter Environments Based on Genetic Metaheuristics",
+          "autores": "GARCIA, V. F. ; Marcelo Caggiani Luizelli ; Santos, Carlos R. P. dos ; SPINOSA, E. ; Elias P. Duarte Jr.",
+          "periodico": "Journal of Network and Systems Management , v. 31, p. 1-31, 2023.",
+          "doi": "http://dx.doi.org/10.1007/s10922-023-09760-1",
+          "citacao_completa": "GARCIA, V. F. ; Marcelo Caggiani Luizelli ; Santos, Carlos R. P. dos ; SPINOSA, E. ; Elias P. Duarte Jr. . Customizable Mapping of Virtualized Network Services in Multi-datacenter Environments Based on Genetic Metaheuristics. Journal of Network and Systems Management , v. 31, p. 1-31, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Customizable Deployment of NFV Services",
+          "autores": "FULBER-GARCIA, VINICIUS ; Huff, Alexandre ; MARCUZZO, LEONARDO DA C. ; LUIZELLI, MARCELO C. ; SCHAEFFER-FILHO, ALBERTO E. ; GRANVILLE, LISANDRO Z. ; DOS SANTOS, CARLOS R. P. ; JUNIOR, ELIAS P. DUARTE",
+          "periodico": "Journal of Network and Systems Management , v. 29, p. 1-27, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s10922-021-09604-w",
+          "citacao_completa": "FULBER-GARCIA, VINICIUS ; Huff, Alexandre ; MARCUZZO, LEONARDO DA C. ; LUIZELLI, MARCELO C. ; SCHAEFFER-FILHO, ALBERTO E. ; GRANVILLE, LISANDRO Z. ; DOS SANTOS, CARLOS R. P. ; JUNIOR, ELIAS P. DUARTE . Customizable Deployment of NFV Services. Journal of Network and Systems Management , v. 29, p. 1-27, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "On the design and development of emulation platforms for NFV-based infrastructures",
+          "autores": "DE TURCK, FILIP ; SCHAEFFER FILHO, ALBERTO EGON ; GRANVILLE, LISANDRO ZAMBENEDETTI ; FRANCO, MURIEL FIGUEREDO ; BONDAN, LUCAS ; DOS SANTOS, CARLOS R.P. ; DA CRUZ MARCUZZO, LEONARDO ; DUARTE JR., ELIAS PROCÓPIO ; TAVARES, THALES NICOLAI ; DE SOUZA, GIOVANNI VENÂNCIO ; GARCIA, VINÍCIUS FÜLBER",
+          "periodico": "INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING (ONLINE) , v. 11, p. 230, 2020.",
+          "doi": "http://dx.doi.org/10.1504/ijguc.2020.10026553",
+          "citacao_completa": "DE TURCK, FILIP ; SCHAEFFER FILHO, ALBERTO EGON ; GRANVILLE, LISANDRO ZAMBENEDETTI ; FRANCO, MURIEL FIGUEREDO ; BONDAN, LUCAS ; DOS SANTOS, CARLOS R.P. ; DA CRUZ MARCUZZO, LEONARDO ; DUARTE JR., ELIAS PROCÓPIO ; TAVARES, THALES NICOLAI ; DE SOUZA, GIOVANNI VENÂNCIO ; GARCIA, VINÍCIUS FÜLBER . On the design and development of emulation platforms for NFV-based infrastructures. INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING (ONLINE) , v. 11, p. 230, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Network service topology: Formalization, taxonomy and the CUSTOM specification model",
+          "autores": "FULBER-GARCIA, VINICIUS ; DUARTE, ELIAS P. ; Huff, Alexandre ; DOS SANTOS, CARLOS R.P.",
+          "periodico": "Computer Networks , v. 178, p. 107337, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.comnet.2020.107337",
+          "citacao_completa": "FULBER-GARCIA, VINICIUS ; DUARTE, ELIAS P. ; Huff, Alexandre ; DOS SANTOS, CARLOS R.P. . Network service topology: Formalization, taxonomy and the CUSTOM specification model. Computer Networks , v. 178, p. 107337, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Counselors network for intrusion detection",
+          "autores": "QUINCOZES, SILVIO E. ; RANIERY, CARLOS ; CERETTA NUNES, RAUL ; ALBUQUERQUE, CÉLIO ; PASSOS, DIEGO ; MOSSÉ, DANIEL",
+          "periodico": "International Journal of Network Management , v. 30, p. e2111, 2020.",
+          "doi": "http://dx.doi.org/10.1002/nem.2111",
+          "citacao_completa": "QUINCOZES, SILVIO E. ; RANIERY, CARLOS ; CERETTA NUNES, RAUL ; ALBUQUERQUE, CÉLIO ; PASSOS, DIEGO ; MOSSÉ, DANIEL . Counselors network for intrusion detection. International Journal of Network Management , v. 30, p. e2111, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "FENDE: Marketplace-Based Distribution, Execution, and Life Cycle Management of VNFs",
+          "autores": "BONDAN, LUCAS ; FRANCO, MURIEL F. ; MARCUZZO, LEONARDO ; VENANCIO, GIOVANNI ; SANTOS, RICARDO L. ; PFITSCHER, RICARDO J. ; SCHEID, EDER J. ; STILLER, BURKHARD ; DE TURCK, FILIP ; DUARTE, ELIAS P. ; SCHAEFFER-FILHO, ALBERTO E. ; Santos, Carlos R. P. dos ; GRANVILLE, LISANDRO Z.",
+          "periodico": "IEEE COMMUNICATIONS MAGAZINE , v. 57, p. 13-19, 2019.",
+          "doi": "http://dx.doi.org/10.1109/mcom.2018.1800507",
+          "citacao_completa": "BONDAN, LUCAS ; FRANCO, MURIEL F. ; MARCUZZO, LEONARDO ; VENANCIO, GIOVANNI ; SANTOS, RICARDO L. ; PFITSCHER, RICARDO J. ; SCHEID, EDER J. ; STILLER, BURKHARD ; DE TURCK, FILIP ; DUARTE, ELIAS P. ; SCHAEFFER-FILHO, ALBERTO E. ; Santos, Carlos R. P. dos ; GRANVILLE, LISANDRO Z. . FENDE: Marketplace-Based Distribution, Execution, and Life Cycle Management of VNFs. IEEE COMMUNICATIONS MAGAZINE , v. 57, p. 13-19, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Beyond VNFM: Filling the gaps of the ETSI VNF manager to fully support VNF life cycle operations",
+          "autores": "VENÂNCIO, GIOVANNI ; GARCIA, VINÍCIUS FULBER ; CRUZ MARCUZZO, LEONARDO ; TAVARES, THALES NICOLAI ; FRANCO, MURIEL FIGUEREDO ; BONDAN, LUCAS ; SCHAEFFER'FILHO, ALBERTO EGON ; Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; P. DUARTE, ELIAS",
+          "periodico": "International Journal of Network Management , v. 1, p. e2068, 2019.",
+          "doi": "http://dx.doi.org/10.1002/nem.2068",
+          "citacao_completa": "VENÂNCIO, GIOVANNI ; GARCIA, VINÍCIUS FULBER ; CRUZ MARCUZZO, LEONARDO ; TAVARES, THALES NICOLAI ; FRANCO, MURIEL FIGUEREDO ; BONDAN, LUCAS ; SCHAEFFER'FILHO, ALBERTO EGON ; Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; P. DUARTE, ELIAS . Beyond VNFM: Filling the gaps of the ETSI VNF manager to fully support VNF life cycle operations. International Journal of Network Management , v. 1, p. e2068, 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Updated Taxonomy for the Network and Service Management Research Field",
+          "autores": "VAN DER HOOFT, JEROEN ; CLAEYS, MAXIM ; BOUTEN, NIELS ; WAUTERS, TIM ; SCHÖNWÄLDER, JÜRGEN ; PRAS, AIKO ; STILLER, BURKHARD ; CHARALAMBIDES, MARINOS ; BADONNEL, RÉMI ; SERRAT, JOAN ; DOS SANTOS, CARLOS RANIERY PAULA ; DE TURCK, FILIP",
+          "periodico": "Journal of Network and Systems Management , v. 1, p. 1-19, 2017.",
+          "doi": "http://dx.doi.org/10.1007/s10922-017-9443-y",
+          "citacao_completa": "VAN DER HOOFT, JEROEN ; CLAEYS, MAXIM ; BOUTEN, NIELS ; WAUTERS, TIM ; SCHÖNWÄLDER, JÜRGEN ; PRAS, AIKO ; STILLER, BURKHARD ; CHARALAMBIDES, MARINOS ; BADONNEL, RÉMI ; SERRAT, JOAN ; DOS SANTOS, CARLOS RANIERY PAULA ; DE TURCK, FILIP . Updated Taxonomy for the Network and Service Management Research Field. Journal of Network and Systems Management , v. 1, p. 1-19, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Taxonomy for the Network and Service Management Research Field",
+          "autores": "DOS SANTOS, CARLOS RANIERY PAULA ; FAMAEY, JEROEN ; SCHÖNWÄLDER, JÜRGEN ; GRANVILLE, LISANDRO ZAMBENEDETTI ; PRAS, AIKO ; DE TURCK, FILIP",
+          "periodico": "Journal of Network and Systems Management , v. 1, p. 1, 2016.",
+          "doi": "http://dx.doi.org/10.1007/s10922-015-9363-7",
+          "citacao_completa": "DOS SANTOS, CARLOS RANIERY PAULA ; FAMAEY, JEROEN ; SCHÖNWÄLDER, JÜRGEN ; GRANVILLE, LISANDRO ZAMBENEDETTI ; PRAS, AIKO ; DE TURCK, FILIP . Taxonomy for the Network and Service Management Research Field. Journal of Network and Systems Management , v. 1, p. 1, 2016."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Monitoring Virtual Nodes using mashups",
+          "autores": "Oscar M. Caicedo Rendon ; SANTOS, Carlos Raniery Paula dos ; JACOBS, A. S. ;",
+          "periodico": "Computer Networks (1999) , v. 64, p. 55-70, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.comnet.2014.02.007",
+          "citacao_completa": "Oscar M. Caicedo Rendon ; SANTOS, Carlos Raniery Paula dos ; JACOBS, A. S. ; . Monitoring Virtual Nodes using mashups. Computer Networks (1999) , v. 64, p. 55-70, 2014."
+        },
+        {
+          "ano": 2010,
+          "titulo": "On Using Mashups for Composing Network Management Applications",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ;",
+          "periodico": "IEEE Communications Magazine (Print) , v. 48, p. 112-122, 2010.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ; . On Using Mashups for Composing Network Management Applications. IEEE Communications Magazine (Print) , v. 48, p. 112-122, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Um Sistema de Gerenciamento de Redes Baseado em Mashups",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ; ; ;",
+          "periodico": "Revista Brasileira de Redes de Computadores e Sistemas Distribuídos , v. 2, p. 1-15, 2009.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; ; ; . Um Sistema de Gerenciamento de Redes Baseado em Mashups. Revista Brasileira de Redes de Computadores e Sistemas Distribuídos , v. 2, p. 1-15, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Os Desafios de Cibersegurança dos Referenciais do BCS/SBC",
+          "autores": "Santos, Aldri ; Santin, Altair ; Grégio, André ; RANIERY, CARLOS ; Batista, Daniel ; Medeiros, Dianne ; Kreutz, Diego ; Mattos, Diogo ; Franco, Edelberto ; Moraes, Igor ; Pereira Jr., Lourenço ; Simplicio, Marcos ; Nogueira, Michele ; Wangham, Michelle ; Fernandes, Natalia ; Miani, Rodrigo",
+          "periodico": "IV Seminário dos Grandes Desafios da Computação no Brasil: Trabalhos Apresentados. 4ed.: SBC, 2024, v. , p. 57-61.",
+          "doi": "http://dx.doi.org/10.5753/sbc.16840.7.10",
+          "citacao_completa": "Santos, Aldri ; Santin, Altair ; Grégio, André ; RANIERY, CARLOS ; Batista, Daniel ; Medeiros, Dianne ; Kreutz, Diego ; Mattos, Diogo ; Franco, Edelberto ; Moraes, Igor ; Pereira Jr., Lourenço ; Simplicio, Marcos ; Nogueira, Michele ; Wangham, Michelle ; Fernandes, Natalia ; Miani, Rodrigo . Os Desafios de Cibersegurança dos Referenciais do BCS/SBC. IV Seminário dos Grandes Desafios da Computação no Brasil: Trabalhos Apresentados. 4ed.: SBC, 2024, v. , p. 57-61."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Intelligent Mapping of Virtualized Services on Multi-domain Networks",
+          "autores": "GARCIA, V. F. ; CAGGIANI LUIZELLI, MARCELO ; DOS SANTOS, CARLOS R. P. ; SPINOSA, E. J. ; Elias P. Duarte Jr.",
+          "periodico": "In: Abraham, A.; Pllana, S.; Casalino, G.; Ma, K.; Bajaj, A.. (Org.). Intelligent Systems Design and Applications. ISDA 2022. Lecture Notes in Networks and Systems. 1ed.Berlin: Springer, 2022, v. 646, p. 480-490.",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-27440-4_46",
+          "citacao_completa": "GARCIA, V. F. ; CAGGIANI LUIZELLI, MARCELO ; DOS SANTOS, CARLOS R. P. ; SPINOSA, E. J. ; Elias P. Duarte Jr. . Intelligent Mapping of Virtualized Services on Multi-domain Networks. In: Abraham, A.; Pllana, S.; Casalino, G.; Ma, K.; Bajaj, A.. (Org.). Intelligent Systems Design and Applications. ISDA 2022. Lecture Notes in Networks and Systems. 1ed.Berlin: Springer, 2022, v. 646, p. 480-490."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Mashup-Based Approach to Optimize Human Performance in IT Service Management",
+          "autores": "Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; Loewenstern, David ; Shwartz, Larisa ; Anerousis, Nikos",
+          "periodico": "Maximizing Management Performance and Quality with Service Analytics. 1ed.: IGI Global, 2015, v. , p. 300-336.",
+          "doi": "http://dx.doi.org/10.4018/978-1-4666-8496-6.ch011",
+          "citacao_completa": "Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; Loewenstern, David ; Shwartz, Larisa ; Anerousis, Nikos . A Mashup-Based Approach to Optimize Human Performance in IT Service Management. Maximizing Management Performance and Quality with Service Analytics. 1ed.: IGI Global, 2015, v. , p. 300-336."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A P2P-Based Strongly Distributed Network Polling Solution",
+          "autores": "Cristina Melchiors ; Dionatan Mattjie ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; ;",
+          "periodico": "In: Al-Sakib Khan Pathan; Mukaddim Pathan; Hae Young Lee. (Org.). Advancements in Distributed Computing and Internet Technologies: Trends and Issues. Hershey: IGI Global, 2011, v. , p. 289-313.",
+          "doi": "",
+          "citacao_completa": "Cristina Melchiors ; Dionatan Mattjie ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; ; . A P2P-Based Strongly Distributed Network Polling Solution. In: Al-Sakib Khan Pathan; Mukaddim Pathan; Hae Young Lee. (Org.). Advancements in Distributed Computing and Internet Technologies: Trends and Issues. Hershey: IGI Global, 2011, v. , p. 289-313."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Aprimorando a Detecção de APTs com Geração de Dados Sintéticos Baseada em GAN-Transformers",
+          "autores": "COSSETIN NETO, ALFREDO ; PREGARDIER, RAFEL C. ; Santos, Carlos R. P. dos ; FULBER-GARCIA, VINICIUS ; SILVA, LUIS A. L.",
+          "periodico": "In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025). Porto Alegre: SBC, 2025. p. 131-146.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2025.11378",
+          "citacao_completa": "COSSETIN NETO, ALFREDO ; PREGARDIER, RAFEL C. ; Santos, Carlos R. P. dos ; FULBER-GARCIA, VINICIUS ; SILVA, LUIS A. L. . Aprimorando a Detecção de APTs com Geração de Dados Sintéticos Baseada em GAN-Transformers. In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025). Porto Alegre: SBC, 2025. p. 131-146."
+        },
+        {
+          "ano": 2025,
+          "titulo": "TITAN DGA: Uma GAN Otimizada por Divergência KL com Autoencoder Baseado em Transformers para Geração de Domínios Maliciosos",
+          "autores": "PREGARDIER, RAFAEL C. ; BIANCHI JR., LUIZ A. C. ; COSSETIN NETO, ALFREDO ; FULBER-GARCIA, VINICIUS ; SILVA, LUIS A. L. ; Santos, Carlos R. P. dos",
+          "periodico": "In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025). Porto Alegre: SBC, 2025. p. 855-870.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2025.11400",
+          "citacao_completa": "PREGARDIER, RAFAEL C. ; BIANCHI JR., LUIZ A. C. ; COSSETIN NETO, ALFREDO ; FULBER-GARCIA, VINICIUS ; SILVA, LUIS A. L. ; Santos, Carlos R. P. dos . TITAN DGA: Uma GAN Otimizada por Divergência KL com Autoencoder Baseado em Transformers para Geração de Domínios Maliciosos. In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025). Porto Alegre: SBC, 2025. p. 855-870."
+        },
+        {
+          "ano": 2025,
+          "titulo": "2Pack-GAN: Exploring Transfer Learning to Fine-Tune Generative Adversarial Networks for Network Packet Generation",
+          "autores": "BIANCHI, LUIZ A.C. ; PREGARDIER, RAFAEL C. ; SILVA, LUIS A. L. ; DOS SANTOS, CARLOS R. P.",
+          "periodico": "In: NOMS 20252025 IEEE Network Operations and Management Symposium, 2025, Honolulu. NOMS 2025-2025 IEEE Network Operations and Management Symposium, 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/noms57970.2025.11073639",
+          "citacao_completa": "BIANCHI, LUIZ A.C. ; PREGARDIER, RAFAEL C. ; SILVA, LUIS A. L. ; DOS SANTOS, CARLOS R. P. . 2Pack-GAN: Exploring Transfer Learning to Fine-Tune Generative Adversarial Networks for Network Packet Generation. In: NOMS 20252025 IEEE Network Operations and Management Symposium, 2025, Honolulu. NOMS 2025-2025 IEEE Network Operations and Management Symposium, 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "TITAN DGA: Enhancing DGA Evasiveness through a Transformer-based Autoencoder and Adversarial Self-Augmentation",
+          "autores": "PREGARDIER, R. C. ; BIANCHI JUNIOR, L. C. ; GARCIA, V. F. ; STILLER, BURKHARD ; SILVA, L. A. L. ; Santos, Carlos R. P. dos",
+          "periodico": "In: 21st International Conference on Network and Service Management, 2025, Bolonha. 21st International Conference on Network and Service Management, 2025.",
+          "doi": "",
+          "citacao_completa": "PREGARDIER, R. C. ; BIANCHI JUNIOR, L. C. ; GARCIA, V. F. ; STILLER, BURKHARD ; SILVA, L. A. L. ; Santos, Carlos R. P. dos . TITAN DGA: Enhancing DGA Evasiveness through a Transformer-based Autoencoder and Adversarial Self-Augmentation. In: 21st International Conference on Network and Service Management, 2025, Bolonha. 21st International Conference on Network and Service Management, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DINT: A Dynamic Algorithm for In-band Network Telemetry",
+          "autores": "BRUM, HENRIQUE B. ; Santos, Carlos R. P. dos ; FERRETO, TIAGO C.",
+          "periodico": "In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2023, Brasil. Anais do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2023), 2023. p. 225.",
+          "doi": "http://dx.doi.org/10.5753/sbrc.2023.531",
+          "citacao_completa": "BRUM, HENRIQUE B. ; Santos, Carlos R. P. dos ; FERRETO, TIAGO C. . DINT: A Dynamic Algorithm for In-band Network Telemetry. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2023, Brasil. Anais do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2023), 2023. p. 225."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Providing Fine-grained Network Metrics for Monitoring Applications using In-band Telemetry",
+          "autores": "BRUM, HENRIQUE B. ; DOS SANTOS, CARLOS R. P. ; FERRETO, TIAGO C.",
+          "periodico": "In: 2023 IEEE 9th International Conference on Network Softwarization (NetSoft), 2023, Madrid. 2023 IEEE 9th International Conference on Network Softwarization (NetSoft), 2023. p. 116.",
+          "doi": "http://dx.doi.org/10.1109/NetSoft57336.2023.10175472",
+          "citacao_completa": "BRUM, HENRIQUE B. ; DOS SANTOS, CARLOS R. P. ; FERRETO, TIAGO C. . Providing Fine-grained Network Metrics for Monitoring Applications using In-band Telemetry. In: 2023 IEEE 9th International Conference on Network Softwarization (NetSoft), 2023, Madrid. 2023 IEEE 9th International Conference on Network Softwarization (NetSoft), 2023. p. 116."
+        },
+        {
+          "ano": 2023,
+          "titulo": "An ETSI-Compliant Architecture for the Element Management System: The Key for Holistic NFV Management",
+          "autores": "FULBER-GARCIA, VINICIUS ; FLAUZINO, JOSÉ ; DOS SANTOS, CARLOS R. P. ; DUARTE, ELIAS P.",
+          "periodico": "In: 2023 19th International Conference on Network and Service Management (CNSM), 2023, Niagara Falls. 2023 19th International Conference on Network and Service Management (CNSM), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.23919/cnsm59352.2023.10327882",
+          "citacao_completa": "FULBER-GARCIA, VINICIUS ; FLAUZINO, JOSÉ ; DOS SANTOS, CARLOS R. P. ; DUARTE, ELIAS P. . An ETSI-Compliant Architecture for the Element Management System: The Key for Holistic NFV Management. In: 2023 19th International Conference on Network and Service Management (CNSM), 2023, Niagara Falls. 2023 19th International Conference on Network and Service Management (CNSM), 2023. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "BG-IDPS: Detecção e Prevenção de Intrusões em Tempo Real em Switches eBPF com o Filtro de Pacotes Berkeley e a Metaheurística GRASP-FS",
+          "autores": "CARVALHO, DIEGO ; QUINCOZES, VAGNER E. ; QUINCOZES, SILVIO E. ; KAZIENKO, JULIANO F. ; SANTOS, Carlos Raniery Paula dos",
+          "periodico": "In: Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais, 2022, Brasil. Anais do XXII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2022), 2022. p. 139-152.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2022.225326",
+          "citacao_completa": "CARVALHO, DIEGO ; QUINCOZES, VAGNER E. ; QUINCOZES, SILVIO E. ; KAZIENKO, JULIANO F. ; SANTOS, Carlos Raniery Paula dos . BG-IDPS: Detecção e Prevenção de Intrusões em Tempo Real em Switches eBPF com o Filtro de Pacotes Berkeley e a Metaheurística GRASP-FS. In: Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais, 2022, Brasil. Anais do XXII Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2022), 2022. p. 139-152."
+        },
+        {
+          "ano": 2020,
+          "titulo": "CUSCO: A Customizable Solution for NFV Composition",
+          "autores": "GARCIA, V. F. ; Marcelo Caggiani Luizelli ; CRP dos Santos ; Elias P. Duarte Jr.",
+          "periodico": "In: International Conference on Advanced Information Networking and Applications, 2020, Caserta. The 34th International Conference on Advanced Information Networking and Applications, 2020.",
+          "doi": "",
+          "citacao_completa": "GARCIA, V. F. ; Marcelo Caggiani Luizelli ; CRP dos Santos ; Elias P. Duarte Jr. . CUSCO: A Customizable Solution for NFV Composition. In: International Conference on Advanced Information Networking and Applications, 2020, Caserta. The 34th International Conference on Advanced Information Networking and Applications, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mapeamento Customizado de Serviços de Rede em Múltiplos Domínios Baseado em Heurísticas Genéticas",
+          "autores": "GARCIA, V. F. ; Carlos R. P. dos Santos ; SPINOSA, E. J. ; Elias P. Duarte Jr.",
+          "periodico": "In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 2020, Rio de Janeiro. ANAIS PRINCIPAIS DO SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 2020.",
+          "doi": "http://dx.doi.org/10.5753/sbrc.2020.12304",
+          "citacao_completa": "GARCIA, V. F. ; Carlos R. P. dos Santos ; SPINOSA, E. J. ; Elias P. Duarte Jr. . Mapeamento Customizado de Serviços de Rede em Múltiplos Domínios Baseado em Heurísticas Genéticas. In: SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 2020, Rio de Janeiro. ANAIS PRINCIPAIS DO SIMPÓSIO BRASILEIRO DE REDES DE COMPUTADORES E SISTEMAS DISTRIBUÍDOS (SBRC), 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Enabling Partial Offload of Virtualized Network Functions into the Programmable Data Plane",
+          "autores": "MARCUZZO, LEONARDO DA C. ; DOS SANTOS, CARLOS R. P.",
+          "periodico": "In: 2020 IEEE LatinAmerican Conference on Communications (LATINCOM), 2020, Santo Domingo. 2020 IEEE Latin-American Conference on Communications (LATINCOM), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LATINCOM50620.2020.9282299",
+          "citacao_completa": "MARCUZZO, LEONARDO DA C. ; DOS SANTOS, CARLOS R. P. . Enabling Partial Offload of Virtualized Network Functions into the Programmable Data Plane. In: 2020 IEEE LatinAmerican Conference on Communications (LATINCOM), 2020, Santo Domingo. 2020 IEEE Latin-American Conference on Communications (LATINCOM), 2020. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "An NSH-Enabled Architecture for VirtualizedNetwork Function Platforms",
+          "autores": "GARCIA, V. F. ; Marcuzzo, L. C ; Venâncio, Giovanni ; BONDAN, LUCAS ; ; Schaeffer-Filho, A. ; Carlos R. P. dos Santos ; ; Elias P. Duarte Jr.",
+          "periodico": "In: 33rd International Conference on Advanced Information Networking and Applications (AINA-2019), 2019, Japão. 33rd International Conference on Advanced Information Networking and Applications (AINA-2019), 2019.",
+          "doi": "",
+          "citacao_completa": "GARCIA, V. F. ; Marcuzzo, L. C ; Venâncio, Giovanni ; BONDAN, LUCAS ; ; Schaeffer-Filho, A. ; Carlos R. P. dos Santos ; ; Elias P. Duarte Jr. . An NSH-Enabled Architecture for VirtualizedNetwork Function Platforms. In: 33rd International Conference on Advanced Information Networking and Applications (AINA-2019), 2019, Japão. 33rd International Conference on Advanced Information Networking and Applications (AINA-2019), 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Network Service for Preventing Data Leakage from IoT Cloud-assisted Equipment",
+          "autores": "V.A. Cunha ; Eduardo da Silva ; CARVALHO, M. B. ; Corujo, D. ; BARRACA, JOAO P. ; Gomes, D.G. ; Schaeffer-Filho, A. ; Carlos R P dos Santos ; ; AGUIAR, R. L.",
+          "periodico": "In: IEEE International Symposium on Computer and Communications - ISCC, 2019, Barcelona. IEEE International Symposium on Computer and Communications - ISCC, 2019.",
+          "doi": "",
+          "citacao_completa": "V.A. Cunha ; Eduardo da Silva ; CARVALHO, M. B. ; Corujo, D. ; BARRACA, JOAO P. ; Gomes, D.G. ; Schaeffer-Filho, A. ; Carlos R P dos Santos ; ; AGUIAR, R. L. . A Network Service for Preventing Data Leakage from IoT Cloud-assisted Equipment. In: IEEE International Symposium on Computer and Communications - ISCC, 2019, Barcelona. IEEE International Symposium on Computer and Communications - ISCC, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Safeguarding from abuse by IoT vendors: Edge messages verification of cloud-assisted equipment",
+          "autores": "V.A. Cunha ; Eduardo da Silva ; CARVALHO, M. B. ; Corujo, D. ; BARRACA, JOAO P. ; Gomes, D.G. ; Schaeffer-Filho, A. ; CRP Dos Santos ; ; AGUIAR, R. L.",
+          "periodico": "In: 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019, Arlignton. 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019.",
+          "doi": "",
+          "citacao_completa": "V.A. Cunha ; Eduardo da Silva ; CARVALHO, M. B. ; Corujo, D. ; BARRACA, JOAO P. ; Gomes, D.G. ; Schaeffer-Filho, A. ; CRP Dos Santos ; ; AGUIAR, R. L. . Safeguarding from abuse by IoT vendors: Edge messages verification of cloud-assisted equipment. In: 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019, Arlignton. 2019 IFIP/IEEE Symposium on Integrated Network and Service Management (IM), 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "On the Design of a Flexible Architecture for Virtualized Network Function Platforms",
+          "autores": "GARCIA, V. F. ; Marcuzzo, L. C ; Huff, Alexandre ; Bondan, L. ; ; Schaeffer-Filho, A. ; CRP Dos Santos ; ; Elias P. Duarte Jr.",
+          "periodico": "In: IEEE Global Communications Conference, 2019, Waikoloa. IEEE Global Communications Conference, 2019.",
+          "doi": "",
+          "citacao_completa": "GARCIA, V. F. ; Marcuzzo, L. C ; Huff, Alexandre ; Bondan, L. ; ; Schaeffer-Filho, A. ; CRP Dos Santos ; ; Elias P. Duarte Jr. . On the Design of a Flexible Architecture for Virtualized Network Function Platforms. In: IEEE Global Communications Conference, 2019, Waikoloa. IEEE Global Communications Conference, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Counselors-Based Intrusion Detection Architecture",
+          "autores": "Silvio Quincozes ; Raul Ceretta ; CRP Dos Santos ; Célio Vinicius Neves de Albuquerque ; Diego Passos ; Daniel Mossé",
+          "periodico": "In: Latin American Network Operations and Management Symposium, 2019, Niterói. 9th Latin American Network Operations and Management Symposium, 2019.",
+          "doi": "",
+          "citacao_completa": "Silvio Quincozes ; Raul Ceretta ; CRP Dos Santos ; Célio Vinicius Neves de Albuquerque ; Diego Passos ; Daniel Mossé . A Counselors-Based Intrusion Detection Architecture. In: Latin American Network Operations and Management Symposium, 2019, Niterói. 9th Latin American Network Operations and Management Symposium, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Uma Solução Flexível e Personalizável para a Composição de Cadeias de Função de Serviço",
+          "autores": "GARCIA, VINICIUS FÜLBER ; CAGGIANI LUIZELLI, MARCELO ; DUARTE JR., ELIAS P. ; Paula dos Santos, Carlos Raniery",
+          "periodico": "In: XXIV Workshop de Gerência e Operação de Redes e Serviços, 2019, Gramado. Anais do Workshop de Gerência e Operação de Redes e Serviços, 2019. p. 99.",
+          "doi": "http://dx.doi.org/10.5753/wgrs.2019.7686",
+          "citacao_completa": "GARCIA, VINICIUS FÜLBER ; CAGGIANI LUIZELLI, MARCELO ; DUARTE JR., ELIAS P. ; Paula dos Santos, Carlos Raniery . Uma Solução Flexível e Personalizável para a Composição de Cadeias de Função de Serviço. In: XXIV Workshop de Gerência e Operação de Redes e Serviços, 2019, Gramado. Anais do Workshop de Gerência e Operação de Redes e Serviços, 2019. p. 99."
+        },
+        {
+          "ano": 2018,
+          "titulo": "NIEP: NFV Infrastructure Emulation Platform",
+          "autores": "TAVARES, THALES NICOLAI ; DA CRUZ MARCUZZO, LEONARDO ; FULBER GARCIA, VINICIUS ; VENANCIO DE SOUZA, GIOVANNI ; FIGUEREDO FRANCO, MURIEL ; BONDAN, LUCAS ; DE TURCK, FILIP ; GRANVILLE, LISANDRO ZAMBENEDETTI ; PROCOPIO DUARTE JUNIOR, ELIAS ; RANIERY PAULA DOS SANTOS, CARLOS ; SCHAEFFER-FILHO, ALBERTO EGON",
+          "periodico": "In: 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018, Krakow. 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018. p. 173.",
+          "doi": "http://dx.doi.org/10.1109/aina.2018.00037",
+          "citacao_completa": "TAVARES, THALES NICOLAI ; DA CRUZ MARCUZZO, LEONARDO ; FULBER GARCIA, VINICIUS ; VENANCIO DE SOUZA, GIOVANNI ; FIGUEREDO FRANCO, MURIEL ; BONDAN, LUCAS ; DE TURCK, FILIP ; GRANVILLE, LISANDRO ZAMBENEDETTI ; PROCOPIO DUARTE JUNIOR, ELIAS ; RANIERY PAULA DOS SANTOS, CARLOS ; SCHAEFFER-FILHO, ALBERTO EGON . NIEP: NFV Infrastructure Emulation Platform. In: 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018, Krakow. 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018. p. 173."
+        },
+        {
+          "ano": 2018,
+          "titulo": "DeMONS: A DDoS Mitigation NFV Solution",
+          "autores": "FULBER GARCIA, VINICIUS ; DE FREITAS GAIARDO, GUILHERME ; DA CRUZ MARCUZZO, LEONARDO ; CERETTA NUNES, RAUL ; Paula dos Santos, Carlos Raniery",
+          "periodico": "In: 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018, Krakow. 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA). IEEE, 2018. p. 769-769.",
+          "doi": "http://dx.doi.org/10.1109/aina.2018.00115",
+          "citacao_completa": "FULBER GARCIA, VINICIUS ; DE FREITAS GAIARDO, GUILHERME ; DA CRUZ MARCUZZO, LEONARDO ; CERETTA NUNES, RAUL ; Paula dos Santos, Carlos Raniery . DeMONS: A DDoS Mitigation NFV Solution. In: 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA), 2018, Krakow. 2018 IEEE 32nd International Conference on Advanced Information Networking and Applications (AINA). IEEE, 2018. p. 769-769."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Uma Abordagem Holística para a Definição de Service Chains Utilizando Click-on-OSv sobre Diferentes Plataformas NFV",
+          "autores": "Huff, Alexandre ; Venâncio, Giovanni ; DA CRUZ MARCUZZO, LEONARDO ; Carlos R. P. dos Santos ; PROCOPIO DUARTE JUNIOR, ELIAS",
+          "periodico": "In: SBRC - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2018, Campos do Jordão. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC). Porto Alegre: SBC, 2018. v. 36.",
+          "doi": "",
+          "citacao_completa": "Huff, Alexandre ; Venâncio, Giovanni ; DA CRUZ MARCUZZO, LEONARDO ; Carlos R. P. dos Santos ; PROCOPIO DUARTE JUNIOR, ELIAS . Uma Abordagem Holística para a Definição de Service Chains Utilizando Click-on-OSv sobre Diferentes Plataformas NFV. In: SBRC - Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2018, Campos do Jordão. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC). Porto Alegre: SBC, 2018. v. 36."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Holistic Approach to Define Service Chains Using Click-on-OSv on Different NFV Platform",
+          "autores": "Huff, Alexandre ; VENANCIO DE SOUZA, GIOVANNI ; DA CRUZ MARCUZZO, LEONARDO ; FULBER GARCIA, VINICIUS ; RANIERY PAULA DOS SANTOS, CARLOS ; Elias P. Duarte Jr.",
+          "periodico": "In: GLOBECOM - IEEE Global Communications Conference, 2018, Abu Dhabi. 2018 IEEE Global Communications Conference: Communications Software, Services and Multimedia Apps (Globecom2018 CSSMA). Piscataway, NJ: IEEE, 2018.",
+          "doi": "",
+          "citacao_completa": "Huff, Alexandre ; VENANCIO DE SOUZA, GIOVANNI ; DA CRUZ MARCUZZO, LEONARDO ; FULBER GARCIA, VINICIUS ; RANIERY PAULA DOS SANTOS, CARLOS ; Elias P. Duarte Jr. . A Holistic Approach to Define Service Chains Using Click-on-OSv on Different NFV Platform. In: GLOBECOM - IEEE Global Communications Conference, 2018, Abu Dhabi. 2018 IEEE Global Communications Conference: Communications Software, Services and Multimedia Apps (Globecom2018 CSSMA). Piscataway, NJ: IEEE, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Orchestrating an SFC-enabled SSL/TLS traffic processing architecture using MANO",
+          "autores": "Sousa, E ; V.A. Cunha ; de Carvalho, M. B. ; Corujo, D. ; João Paulo Barraca ; Gomes, D.G. ; Schaeffer-Filho, A. ; SANTOS, Carlos Raniery Paula dos ; ; AGUIAR, R. L.",
+          "periodico": "In: NFV-SDN - IEEE Conference on Network Function Virtualization and Software Defined Networks, 2018, Verona, Italy. NFV-SDN - IEEE Conference on Network Function Virtualization and Software Defined Networks. Piscataway, NJ: IEEE, 2018.",
+          "doi": "",
+          "citacao_completa": "Sousa, E ; V.A. Cunha ; de Carvalho, M. B. ; Corujo, D. ; João Paulo Barraca ; Gomes, D.G. ; Schaeffer-Filho, A. ; SANTOS, Carlos Raniery Paula dos ; ; AGUIAR, R. L. . Orchestrating an SFC-enabled SSL/TLS traffic processing architecture using MANO. In: NFV-SDN - IEEE Conference on Network Function Virtualization and Software Defined Networks, 2018, Verona, Italy. NFV-SDN - IEEE Conference on Network Function Virtualization and Software Defined Networks. Piscataway, NJ: IEEE, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An SFC-enabled approach for processing SSL/TLS encrypted traffic in Future Enterprise Networks",
+          "autores": "CUNHA, VITOR A. ; DE CARVALHO, MARCIO B. ; CORUJO, DANIEL ; BARRACA, JOAO P. ; GOMES, DIOGO ; SCHAEFFER-FILHO, ALBERTO E. ; DOS SANTOS, CARLOS R. P. ; GRANVILLE, LISANDRO Z. ; AGUIAR, RUI L.",
+          "periodico": "In: 2018 IEEE Symposium on Computers and Communications (ISCC), 2018, Natal. 2018 IEEE Symposium on Computers and Communications (ISCC), 2018. p. 01013.",
+          "doi": "http://dx.doi.org/10.1109/ISCC.2018.8538564",
+          "citacao_completa": "CUNHA, VITOR A. ; DE CARVALHO, MARCIO B. ; CORUJO, DANIEL ; BARRACA, JOAO P. ; GOMES, DIOGO ; SCHAEFFER-FILHO, ALBERTO E. ; DOS SANTOS, CARLOS R. P. ; GRANVILLE, LISANDRO Z. ; AGUIAR, RUI L. . An SFC-enabled approach for processing SSL/TLS encrypted traffic in Future Enterprise Networks. In: 2018 IEEE Symposium on Computers and Communications (ISCC), 2018, Natal. 2018 IEEE Symposium on Computers and Communications (ISCC), 2018. p. 01013."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Ativando Funções de Rede Virtualizadas: Modelo de Desenvolvimento e Nova Plataforma",
+          "autores": "Marcuzzo, L. C ; GARCIA, V. F. ; DOS SANTOS, CARLOS RANIERY PAULA",
+          "periodico": "In: Workshop Pré-IETF (WPIETF), 2018, Natal. Anais do Workshop Pré-IETF (WPIETF_CSBC). Porto Alegre: SBC, 2018.",
+          "doi": "",
+          "citacao_completa": "Marcuzzo, L. C ; GARCIA, V. F. ; DOS SANTOS, CARLOS RANIERY PAULA . Ativando Funções de Rede Virtualizadas: Modelo de Desenvolvimento e Nova Plataforma. In: Workshop Pré-IETF (WPIETF), 2018, Natal. Anais do Workshop Pré-IETF (WPIETF_CSBC). Porto Alegre: SBC, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Uma Solução para Mitigação de Ataques DDoS Através de Tecnologia NFV",
+          "autores": "GARCIA, V. F. ; DE FREITAS GAIARDO, GUILHERME ; Marcuzzo, L. C ; TAVARES, THALES NICOLAI ; SILVA, N. C. B. ; Monteiro, Anderson ; CERETTA NUNES, RAUL ; RANIERY PAULA DOS SANTOS, CARLOS",
+          "periodico": "In: Workshop de Segurança Cibernética em Dispositivos Conectados, 2018, Campos do Jordão. Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC_SBRC), 2018.",
+          "doi": "",
+          "citacao_completa": "GARCIA, V. F. ; DE FREITAS GAIARDO, GUILHERME ; Marcuzzo, L. C ; TAVARES, THALES NICOLAI ; SILVA, N. C. B. ; Monteiro, Anderson ; CERETTA NUNES, RAUL ; RANIERY PAULA DOS SANTOS, CARLOS . Uma Solução para Mitigação de Ataques DDoS Através de Tecnologia NFV. In: Workshop de Segurança Cibernética em Dispositivos Conectados, 2018, Campos do Jordão. Workshop de Segurança Cibernética em Dispositivos Conectados (WSCDC_SBRC), 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Simplificando o Gerenciamento do Ciclo de Vida de Funções Virtualizadas de Rede",
+          "autores": "Venâncio, Giovanni ; GARCIA, V. F. ; Marcuzzo, L. C ; TAVARES, THALES NICOLAI ; FIGUEREDO FRANCO, MURIEL ; BONDAN, LUCAS ; Schaeffer-Filho, A. ; RANIERY PAULA DOS SANTOS, CARLOS ; ; Elias P. Duarte Jr.",
+          "periodico": "In: Workshop de Gerência e Operação de Redes e Serviços (WGRS_SBRC), 2018, Campos do Jordão. ANAIS DO XXIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS - SBRC 2018). Porto Alegre: SBC, 2018.",
+          "doi": "",
+          "citacao_completa": "Venâncio, Giovanni ; GARCIA, V. F. ; Marcuzzo, L. C ; TAVARES, THALES NICOLAI ; FIGUEREDO FRANCO, MURIEL ; BONDAN, LUCAS ; Schaeffer-Filho, A. ; RANIERY PAULA DOS SANTOS, CARLOS ; ; Elias P. Duarte Jr. . Simplificando o Gerenciamento do Ciclo de Vida de Funções Virtualizadas de Rede. In: Workshop de Gerência e Operação de Redes e Serviços (WGRS_SBRC), 2018, Campos do Jordão. ANAIS DO XXIII WORKSHOP DE GERÊNCIA E OPERAÇÃO DE REDES E SERVIÇOS (WGRS - SBRC 2018). Porto Alegre: SBC, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Comparing virtualization solutions for NFV deployment: A network management perspective",
+          "autores": "BONDAN, LUCAS ; DOS SANTOS, CARLOS RANIERY PAULA ; GRANVILLE, LISANDRO ZAMBENEDETTI",
+          "periodico": "In: 2016 IEEE Symposium on Computers and Communication (ISCC), 2016, Messina. 2016 IEEE Symposium on Computers and Communication (ISCC), 2016. p. 669.",
+          "doi": "http://dx.doi.org/10.1109/iscc.2016.7543814",
+          "citacao_completa": "BONDAN, LUCAS ; DOS SANTOS, CARLOS RANIERY PAULA ; GRANVILLE, LISANDRO ZAMBENEDETTI . Comparing virtualization solutions for NFV deployment: A network management perspective. In: 2016 IEEE Symposium on Computers and Communication (ISCC), 2016, Messina. 2016 IEEE Symposium on Computers and Communication (ISCC), 2016. p. 669."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Refactoring Internet of Things middleware through Software-Defined Network",
+          "autores": "Arbiza, L. ; ; SANTOS, Carlos Raniery Paula dos ; ;",
+          "periodico": "In: 30th ACM/SIGAPP Symposium On Applied Computing, 2015, Salamanca. 30th ACM/SIGAPP Symposium On Applied Computing, 2015.",
+          "doi": "",
+          "citacao_completa": "Arbiza, L. ; ; SANTOS, Carlos Raniery Paula dos ; ; . Refactoring Internet of Things middleware through Software-Defined Network. In: 30th ACM/SIGAPP Symposium On Applied Computing, 2015, Salamanca. 30th ACM/SIGAPP Symposium On Applied Computing, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Machine-assisted Cyber Threat Analysis using Conceptual Knowledge Discovery",
+          "autores": "Martín Barrère ; Gustavo Betarte ; Víctor Codocedo ; Marcelo Rodríguez ; Hernán Astudillo ; Marcelo Aliquintuy ; Javier Baliosian ; CRP dos Santos ; ; ; Amedeo Napoli",
+          "periodico": "In: Workshop What can FCA do for Artificial Intelligence?, 2015, Buenos Aires. Proceedings of the International FCA4AI 2015, 2015. p. 75-85.",
+          "doi": "",
+          "citacao_completa": "Martín Barrère ; Gustavo Betarte ; Víctor Codocedo ; Marcelo Rodríguez ; Hernán Astudillo ; Marcelo Aliquintuy ; Javier Baliosian ; CRP dos Santos ; ; ; Amedeo Napoli . Machine-assisted Cyber Threat Analysis using Conceptual Knowledge Discovery. In: Workshop What can FCA do for Artificial Intelligence?, 2015, Buenos Aires. Proceedings of the International FCA4AI 2015, 2015. p. 75-85."
+        },
+        {
+          "ano": 2015,
+          "titulo": "The interplay between timeliness and scalability in cloud monitoring systems",
+          "autores": "DA CUNHA RODRIGUES, GUILHERME ; CALHEIROS, RODRIGO N. ; DE CARVALHO, MARCIO BARBOSA ; Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; TAROUCO, LIANE ; BUYYA, RAJKUMAR",
+          "periodico": "In: 2015 IEEE Symposium on Computers and Communication (ISCC), 2015, Larnaca. 2015 IEEE Symposium on Computers and Communication (ISCC), 2015. p. 776.",
+          "doi": "http://dx.doi.org/10.1109/iscc.2015.7405608",
+          "citacao_completa": "DA CUNHA RODRIGUES, GUILHERME ; CALHEIROS, RODRIGO N. ; DE CARVALHO, MARCIO BARBOSA ; Paula dos Santos, Carlos Raniery ; GRANVILLE, LISANDRO ZAMBENEDETTI ; TAROUCO, LIANE ; BUYYA, RAJKUMAR . The interplay between timeliness and scalability in cloud monitoring systems. In: 2015 IEEE Symposium on Computers and Communication (ISCC), 2015, Larnaca. 2015 IEEE Symposium on Computers and Communication (ISCC), 2015. p. 776."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Quality Improvement and Quantitative Modeling Using Mashups for Human Error Prevention",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; Loewenstern, D. ; Shwartz, L. ; Anerousis, N. ;",
+          "periodico": "In: 13th IFIP/IEEE Symposium on Integrated Network and Service Management (IM 2013), 2013, Gent. 13th IFIP/IEEE Symposium on Integrated Network and Service Management (IM 2013), 2013.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; Loewenstern, D. ; Shwartz, L. ; Anerousis, N. ; . Quality Improvement and Quantitative Modeling Using Mashups for Human Error Prevention. In: 13th IFIP/IEEE Symposium on Integrated Network and Service Management (IM 2013), 2013, Gent. 13th IFIP/IEEE Symposium on Integrated Network and Service Management (IM 2013), 2013."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Data Confidentiality Architecture for Developing Management Mashups",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; Cheng, W ; ; ; Anerousis, N.",
+          "periodico": "In: 12th IFIP/IEEE International Symposium on Integrated Network Management, 2011, Dublin. Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management, 2011. p. 49-56.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; Cheng, W ; ; ; Anerousis, N. . A Data Confidentiality Architecture for Developing Management Mashups. In: 12th IFIP/IEEE International Symposium on Integrated Network Management, 2011, Dublin. Proceedings of the 12th IFIP/IEEE International Symposium on Integrated Network Management, 2011. p. 49-56."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Performance Management and Quantitative Modeling of IT Service Processes Using Mashup Patterns",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; Cheng, W ; Loewenstern, D. ; Shwartz, L. ; Anerousis, N.",
+          "periodico": "In: 7th International Conference on Network and Service Management (CNSM 2010), 2011, Paris. Proceedings of the 7th International Conference on Network and Service Management, 2011. p. 1-9.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; Cheng, W ; Loewenstern, D. ; Shwartz, L. ; Anerousis, N. . Performance Management and Quantitative Modeling of IT Service Processes Using Mashup Patterns. In: 7th International Conference on Network and Service Management (CNSM 2010), 2011, Paris. Proceedings of the 7th International Conference on Network and Service Management, 2011. p. 1-9."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Botnet master detection using a mashup-based approach",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ;",
+          "periodico": "In: 7th Latin American Network Operations and Management Symposium, 2011, Quito. Proceedings of the 7th Latin American Network Operations and Management Symposium, 2011. p. 390-393.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ; . Botnet master detection using a mashup-based approach. In: 7th Latin American Network Operations and Management Symposium, 2011, Quito. Proceedings of the 7th Latin American Network Operations and Management Symposium, 2011. p. 390-393."
+        },
+        {
+          "ano": 2010,
+          "titulo": "On the Feasibility of Web 2.0 Technologies for Network Management: A Mashup-Based Approach",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ; ;",
+          "periodico": "In: 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010), 2010, Osaka. 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010), 2010.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; ; . On the Feasibility of Web 2.0 Technologies for Network Management: A Mashup-Based Approach. In: 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010), 2010, Osaka. 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010), 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "On the Impact of Using Presence Services in P2P-based Network Management Systems",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ;",
+          "periodico": "In: IEEE Global Communications Conference (GLOBECOM), 2010, Miami. Proceedings of the IEEE Global Communications Conference - 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ; . On the Impact of Using Presence Services in P2P-based Network Management Systems. In: IEEE Global Communications Conference (GLOBECOM), 2010, Miami. Proceedings of the IEEE Global Communications Conference - 2010, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Um Sistema de Gerenciamento de Redes Baseado em Mashups",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ; ; ;",
+          "periodico": "In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2009, Recife. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2009. p. 25-29.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; ; ; . Um Sistema de Gerenciamento de Redes Baseado em Mashups. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2009, Recife. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2009. p. 25-29."
+        },
+        {
+          "ano": 2062,
+          "titulo": "On the Design and Performance Evaluation of Notification Support for P2P-Based Network Management",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; ; Luis Fernando Dalla Santa ; ; ; Maria Janilce Bosquiroli Almeida ;",
+          "periodico": "In: Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008, Fortaleza. Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008. v. 2. p. 2057-2062.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; ; Luis Fernando Dalla Santa ; ; ; Maria Janilce Bosquiroli Almeida ; . On the Design and Performance Evaluation of Notification Support for P2P-Based Network Management. In: Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008, Fortaleza. Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008. v. 2. p. 2057-2062."
+        },
+        {
+          "ano": 2094,
+          "titulo": "On the Performance of Employing Presence Services in P2P-Based Network Management Systems",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ;",
+          "periodico": "In: 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008, Fortaleza. Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008. v. 2. p. 2090-2094.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ; . On the Performance of Employing Presence Services in P2P-Based Network Management Systems. In: 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008, Fortaleza. Proceedings of the 23rd Annual ACM Symposium on Applied Computing - SAC 2008, 2008. v. 2. p. 2090-2094."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Performance Evaluation of Notifications in a Web Services and P2P-Based Network Management Overlay",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ;",
+          "periodico": "In: 31st IEEE International Computer Software and Applications Conference (COMPSAC 2007), 2007, Beijing. Proceedings of the 31st IEEE International Computer Software and Applications Conference - Vol. 1 - (COMPSAC 2007), 2007. v. 1. p. 241-250.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; ; ; Maria Janilce Bosquiroli Almeida ; . Performance Evaluation of Notifications in a Web Services and P2P-Based Network Management Overlay. In: 31st IEEE International Computer Software and Applications Conference (COMPSAC 2007), 2007, Beijing. Proceedings of the 31st IEEE International Computer Software and Applications Conference - Vol. 1 - (COMPSAC 2007), 2007. v. 1. p. 241-250."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Self-managed services over a P2P-based Network Management Overlay",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ; ; Maria Janilce Bosquiroli Almeida ;",
+          "periodico": "In: Latin American Autonomic Computing - LAACS 2007, 2007, Petrópolis. Latin American Autonomic Computing - LAACS 2007, 2007.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; ; Maria Janilce Bosquiroli Almeida ; . Self-managed services over a P2P-based Network Management Overlay. In: Latin American Autonomic Computing - LAACS 2007, 2007, Petrópolis. Latin American Autonomic Computing - LAACS 2007, 2007."
+        },
+        {
+          "ano": 2005,
+          "titulo": "museuM: Uma Aplicação de m-Learning com Realidade Virtual",
+          "autores": "ANDRADE, Rossana Maria de Castro ; RIOS, Riverson ; BARROS FILHO, Edgar Marçal de ; SANTOS, Carlos Raniery Paula dos",
+          "periodico": "In: SEMISH - SBC, 2005, São Leopoldo. Seminário Integrado de Software e Hardware, 2005.",
+          "doi": "",
+          "citacao_completa": "ANDRADE, Rossana Maria de Castro ; RIOS, Riverson ; BARROS FILHO, Edgar Marçal de ; SANTOS, Carlos Raniery Paula dos . museuM: Uma Aplicação de m-Learning com Realidade Virtual. In: SEMISH - SBC, 2005, São Leopoldo. Seminário Integrado de Software e Hardware, 2005."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "FENDE",
+          "autores": "BONDAN, LUCAS ; FRANCO, MURIEL F. ; SCHAEFFER-FILHO, ALBERTO E. ; GRANVILLE, LISANDRO Z. ; MARCUZZO, LEONARDO ; SCHNEIDER, CASSIANO A. D. S. ; DOS SANTOS, CARLOS R. P. ; VENÂNCIO, GIOVANNI ; DUARTE, ELIAS P.",
+          "periodico": "In: the ACM SIGCOMM 2018 Conference, 2018, Budapest. Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos - SIGCOMM '18, 2018. p. 135-137.",
+          "doi": "http://dx.doi.org/10.1145/3234200.3234235",
+          "citacao_completa": "BONDAN, LUCAS ; FRANCO, MURIEL F. ; SCHAEFFER-FILHO, ALBERTO E. ; GRANVILLE, LISANDRO Z. ; MARCUZZO, LEONARDO ; SCHNEIDER, CASSIANO A. D. S. ; DOS SANTOS, CARLOS R. P. ; VENÂNCIO, GIOVANNI ; DUARTE, ELIAS P. . FENDE. In: the ACM SIGCOMM 2018 Conference, 2018, Budapest. Proceedings of the ACM SIGCOMM 2018 Conference on Posters and Demos - SIGCOMM '18, 2018. p. 135-137."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Click-on-OSv: A Platform for Running Click-based Middleboxes",
+          "autores": "Marcuzzo, L. C ; GARCIA, V. F. ; Schaeffer-Filho, A. ; ; dos Santos, C. R. P",
+          "periodico": "In: IFIP/IEEE International Symposium on Integrated Network Management - Demonstration Session, 2017, Lisboa. IFIP/IEEE International Symposium on Integrated Network Management, 2017.",
+          "doi": "",
+          "citacao_completa": "Marcuzzo, L. C ; GARCIA, V. F. ; Schaeffer-Filho, A. ; ; dos Santos, C. R. P . Click-on-OSv: A Platform for Running Click-based Middleboxes. In: IFIP/IEEE International Symposium on Integrated Network Management - Demonstration Session, 2017, Lisboa. IFIP/IEEE International Symposium on Integrated Network Management, 2017."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Management Requirements for ClickOS-based Network Function Virtualization",
+          "autores": "Bondan, L. ; SANTOS, Carlos Raniery Paula dos ;",
+          "periodico": "In: 10th International Conference on Network and Service Management, 2014, Rio de Janeiro. 10th International Conference on Network and Service Management (CNSM), 2014. p. 447-450.",
+          "doi": "",
+          "citacao_completa": "Bondan, L. ; SANTOS, Carlos Raniery Paula dos ; . Management Requirements for ClickOS-based Network Function Virtualization. In: 10th International Conference on Network and Service Management, 2014, Rio de Janeiro. 10th International Conference on Network and Service Management (CNSM), 2014. p. 447-450."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A Network Polling Solution through a P2P-based Distributed Management Environment",
+          "autores": "Cristina Melchiors ; Alessandro dos Santos ; Dionatan Mattjie ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; ;",
+          "periodico": "In: 25th Symposium On Applied Computing, 2010, Sierre. 25th Symposium On Applied Computing, 2010.",
+          "doi": "",
+          "citacao_completa": "Cristina Melchiors ; Alessandro dos Santos ; Dionatan Mattjie ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; ; . A Network Polling Solution through a P2P-based Distributed Management Environment. In: 25th Symposium On Applied Computing, 2010, Sierre. 25th Symposium On Applied Computing, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Botnet Master Detection Using a Mashup-based Approach",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ;",
+          "periodico": "In: 6th International Conference on Network and Service Management (CNSM 2010), 2010, Niagara Falls. Proceedings of the 6th International Conference on Network and Service Management, 2010. p. 390-393.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; CERON, J. M. ; ; . Botnet Master Detection Using a Mashup-based Approach. In: 6th International Conference on Network and Service Management (CNSM 2010), 2010, Niagara Falls. Proceedings of the 6th International Conference on Network and Service Management, 2010. p. 390-393."
+        },
+        {
+          "ano": 2005,
+          "titulo": "MuseuM - Uma aplicação de m-Learning",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "In: Encontro de Iniciação Científica da UFC, 2005, Fortaleza. Encontro de Iniciação Científica da UFC, 2005.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . MuseuM - Uma aplicação de m-Learning. In: Encontro de Iniciação Científica da UFC, 2005, Fortaleza. Encontro de Iniciação Científica da UFC, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento de Portais usando a Especificação JSR-168",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ANDRADE, Rossana Maria de Castro ; GONÇALVES, Carlos Hairon Ribeiro",
+          "periodico": "In: Encontro de Iniciação Científica do CEFET-CE, 2005, Fortaleza, 2005.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ANDRADE, Rossana Maria de Castro ; GONÇALVES, Carlos Hairon Ribeiro . Desenvolvimento de Portais usando a Especificação JSR-168. In: Encontro de Iniciação Científica do CEFET-CE, 2005, Fortaleza, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvendo Aplicações utilizando o Framesec para a provisão de segurança Fim-a-Fim",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; SILVA, Robson Franklin Vieira da ; ANDRADE, Rossana Maria de Castro ; BRINGEL FILHO, José de Ribamar",
+          "periodico": "In: Encontro de Iniciação Científica do CEFET-CE, 2005, Fortaleza. Encontro de Iniciação Científica do CEFET-CE, 2005.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; SILVA, Robson Franklin Vieira da ; ANDRADE, Rossana Maria de Castro ; BRINGEL FILHO, José de Ribamar . Desenvolvendo Aplicações utilizando o Framesec para a provisão de segurança Fim-a-Fim. In: Encontro de Iniciação Científica do CEFET-CE, 2005, Fortaleza. Encontro de Iniciação Científica do CEFET-CE, 2005."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Gerenciamento de Desempenho e Modelagem Quantitativa Usando Padrões de Mashup",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Gerenciamento de Desempenho e Modelagem Quantitativa Usando Padrões de Mashup. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "On Using Mashups for Composing Management Applications",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . On Using Mashups for Composing Management Applications. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Performance Management and Quantitative Modeling of IT Service Processes Using Mashup Patterns",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Performance Management and Quantitative Modeling of IT Service Processes Using Mashup Patterns. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Sistemas P2P e suas aplicações",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2008. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Sistemas P2P e suas aplicações. 2008. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistemas P2P e suas aplicações",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Sistemas P2P e suas aplicações. 2007. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Gerenciamento de Redes Usando P2P",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Gerenciamento de Redes Usando P2P. 2007. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "ManP2P - Um Sistema de Gerência de Redes Baseado em Tecnologias P2P",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ;",
+          "periodico": "2007. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; . ManP2P - Um Sistema de Gerência de Redes Baseado em Tecnologias P2P. 2007. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Self-managed services over a P2P-based Network Management Overlay",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ;",
+          "periodico": "2007. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; . Self-managed services over a P2P-based Network Management Overlay. 2007. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento de Aplicações para Dispositivo Móveis utilizando BREW",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2005. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Desenvolvimento de Aplicações para Dispositivo Móveis utilizando BREW. 2005. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2008,
+          "titulo": "Uso de Serviços de Presença em Sistemas P2P de Gerenciamento de Redes",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; Maria Janilce Bosquiroli Almeida",
+          "periodico": "Porto Alegre: CPGCC da UFRGS, 2008 (Dissertação de Mestrado).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; Maria Janilce Bosquiroli Almeida . Uso de Serviços de Presença em Sistemas P2P de Gerenciamento de Redes. Porto Alegre: CPGCC da UFRGS, 2008 (Dissertação de Mestrado)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Investigação do Uso de Ferramentas de Workflow Para o Desenvolvimento de Mashups Aplicados no Gerenciamento de Redes",
+          "autores": "SANTOS, Carlos Raniery Paula dos ;",
+          "periodico": "Porto Alegre: CPGCC da UFRGS, 2008 (Trabalho Individual).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; . Investigação do Uso de Ferramentas de Workflow Para o Desenvolvimento de Mashups Aplicados no Gerenciamento de Redes. Porto Alegre: CPGCC da UFRGS, 2008 (Trabalho Individual)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Sistemas de Gerenciamento de Redes Usando Tecnologias P2P",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; Maria Janilce Bosquiroli Almeida",
+          "periodico": "Porto Alegre: CPGCC da UFRGS, 2006 (Trabalho Individual).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; Maria Janilce Bosquiroli Almeida . Sistemas de Gerenciamento de Redes Usando Tecnologias P2P. Porto Alegre: CPGCC da UFRGS, 2006 (Trabalho Individual)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "DSStarView",
+          "autores": "SANTOS, Carlos Raniery Paula dos ; ; Luciano Paschoal Gaspary ; Weverton Cordeiro da Costa Lima ; Fabio Daitx",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos ; ; Luciano Paschoal Gaspary ; Weverton Cordeiro da Costa Lima ; Fabio Daitx . DSStarView. 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "NetManagementMashup (NMM)",
+          "autores": "; SANTOS, Carlos Raniery Paula dos ;",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, Carlos Raniery Paula dos ; . NetManagementMashup (NMM). 2009."
+        },
+        {
+          "ano": 2007,
+          "titulo": "ManP2P",
+          "autores": "; ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; Cristina Melchiors",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "; ; SANTOS, Carlos Raniery Paula dos ; André Panisson ; Cristina Melchiors . ManP2P. 2007."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2005,
+          "titulo": "Apresentação do MuseuM e outros trabalhos do Grupo de Computação Móvel",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2005. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Apresentação do MuseuM e outros trabalhos do Grupo de Computação Móvel. 2005. (Programa de rádio ou TV/Entrevista)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2009,
+          "titulo": "Revisor do Workshop de Software Livre",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Workshop de Software Livre. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos - Workshop de Gerência e Operação de Redes e Serviços",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuidos - Workshop de Gerência e Operação de Redes e Serviços. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do Congresso da Sociedade Brasileira de Computação - Simpósio Brasileiro de Computação Ubíqua e Pervasiva",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Congresso da Sociedade Brasileira de Computação - Simpósio Brasileiro de Computação Ubíqua e Pervasiva. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do 5th IFIP/ACM Latin America Networking Conference",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do 5th IFIP/ACM Latin America Networking Conference. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do 7th ACM International Symposium on Mobility Management and Wireless Access",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do 7th ACM International Symposium on Mobility Management and Wireless Access. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do IFIP/IEEE New Technologies, Mobility and Security",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do IFIP/IEEE New Technologies, Mobility and Security. 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor do 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010)",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2009. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do 12th IEEE/IFIP Network Operations & Management Symposium (NOMS 2010). 2009. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor do Workshop de Software Livre",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2008. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Workshop de Software Livre. 2008. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor do Latin American Autonomic Computing Symposium",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2008. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Latin American Autonomic Computing Symposium. 2008. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor do Conferencia Latinoamericana de Informática - CLEI",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2008. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Conferencia Latinoamericana de Informática - CLEI. 2008. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Monitoria da disciplina de Qualidade de Serviço em Redes IP do curso de especialização em Tecnologias, Gerência e Segurança de Redes de Computadores",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Monitor de Disciplina de Especialização).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Monitoria da disciplina de Qualidade de Serviço em Redes IP do curso de especialização em Tecnologias, Gerência e Segurança de Redes de Computadores. 2007. (Monitor de Disciplina de Especialização)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Revisor do Workshop de Software Livre",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Workshop de Software Livre. 2007. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Revisor do Simpósio Brasileiro de Telecomunicações",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do Simpósio Brasileiro de Telecomunicações. 2007. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Revisor do IEEE GIIS2007 - IEEE International Global Information Infrastructure Symposium",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2007. (Revisão de Artigo).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Revisor do IEEE GIIS2007 - IEEE International Global Information Infrastructure Symposium. 2007. (Revisão de Artigo)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Programação em dispositivos móveis usando J2ME",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2005. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Programação em dispositivos móveis usando J2ME. 2005. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Programação em dispositivos móveis usando BREW",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2005. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Programação em dispositivos móveis usando BREW. 2005. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento de páginas WEB com PHP 4",
+          "autores": "SANTOS, Carlos Raniery Paula dos",
+          "periodico": "2005. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SANTOS, Carlos Raniery Paula dos . Desenvolvimento de páginas WEB com PHP 4. 2005. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Consistent In-Network Composition and Modular Data Plane Programming",
+          "membros": "Schaeffer-Filho, A.; Santos, Carlos R. P. dos ; Weverton Cordeiro da Costa Lima; WICKBOLDT, J. A.",
+          "candidato": "Ricardo Parizotto",
+          "citacao_completa": "Schaeffer-Filho, A.; Santos, Carlos R. P. dos ; Weverton Cordeiro da Costa Lima; WICKBOLDT, J. A.. Participação em banca de Ricardo Parizotto. Consistent In-Network Composition and Modular Data Plane Programming. 2020. Dissertação (Mestrado em Computação) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Prevendo e Identificando Fluxos Elefantes em Redes de Ponto de Troca de Tráfego com Suporte à Programabilidade",
+          "membros": "Schaeffer-Filho, A.; ; Carlos R. P. dos Santos ;",
+          "candidato": "Marcus Vinicius Brito da Silva",
+          "citacao_completa": "Schaeffer-Filho, A.; ; Carlos R. P. dos Santos ; . Participação em banca de Marcus Vinicius Brito da Silva. Prevendo e Identificando Fluxos Elefantes em Redes de Ponto de Troca de Tráfego com Suporte à Programabilidade. 2019. Dissertação (Mestrado em PPGC - Programa de Pós Graduação em Computação UFRGS) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2018,
+          "titulo": "SUCCEEd: Um Framework de Suporte a Criação e Execução de Workflows para SAS em Ambientes IoT",
+          "membros": "ANDRADE, Rossana Maria de Castro; CARVALHO, W. V.; MAIA, M. E. F.; RANIERY PAULA DOS SANTOS, CARLOS ; SOUSA, E. R.; NOGUEIRA, T. P.",
+          "candidato": "Belmondo Rodrigues Aragão Junior",
+          "citacao_completa": "ANDRADE, Rossana Maria de Castro; CARVALHO, W. V.; MAIA, M. E. F.; RANIERY PAULA DOS SANTOS, CARLOS ; SOUSA, E. R.; NOGUEIRA, T. P.. Participação em banca de Belmondo Rodrigues Aragão Junior. SUCCEEd: Um Framework de Suporte a Criação e Execução de Workflows para SAS em Ambientes IoT. 2018. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2018,
+          "titulo": "AnyBone: Um Backbone Virtual Baseado em NFV com Serviços de Difusão de Mensagens",
+          "membros": "Elias P. Duarte Jr.; TURCHETTI, R.; SANTOS, Carlos Raniery Paula dos ; ALMEIDA, E.; Huff, Alexandre",
+          "candidato": "Giovanni Venâncio de Souza",
+          "citacao_completa": "Elias P. Duarte Jr.; TURCHETTI, R.; SANTOS, Carlos Raniery Paula dos ; ALMEIDA, E.; Huff, Alexandre. Participação em banca de Giovanni Venâncio de Souza. AnyBone: Um Backbone Virtual Baseado em NFV com Serviços de Difusão de Mensagens. 2018. Dissertação (Mestrado em Informática) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Um Framework para a Construção Automatizada de Cloud Monitoring Slices Baseados em Múltiplas Soluções de Monitoramento",
+          "membros": "Luciano Paschoal Gaspary; Elias P. Duarte Jr.; CRP dos Santos ;",
+          "candidato": "Marcio Barbosa de Carvalho",
+          "citacao_completa": "Luciano Paschoal Gaspary; Elias P. Duarte Jr.; CRP dos Santos ; . Participação em banca de Marcio Barbosa de Carvalho. Um Framework para a Construção Automatizada de Cloud Monitoring Slices Baseados em Múltiplas Soluções de Monitoramento. 2015. Dissertação (Mestrado em PPGC - Programa de Pós Graduação em Computação UFRGS) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A Self-Healing Service for Computer Networks Maintenance",
+          "membros": "; Schaeffer-Filho, A.; SANTOS, Carlos Raniery Paula dos ; Elias P. Duarte Jr.",
+          "candidato": "Pedro Arthur Pinheiro Rosa Duarte",
+          "citacao_completa": "; Schaeffer-Filho, A.; SANTOS, Carlos Raniery Paula dos ; Elias P. Duarte Jr.. Participação em banca de Pedro Arthur Pinheiro Rosa Duarte. A Self-Healing Service for Computer Networks Maintenance. 2014. Dissertação (Mestrado em PPGC - Programa de Pós Graduação em Computação UFRGS) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": ".PaperTool: Uma ferramenta para suporte à Revisão Sistemática da Literatura",
+          "membros": "; Santos, Carlos R. P. dos ; NUNES, I.",
+          "candidato": "GUILHERME GRAVA FERREIRA",
+          "citacao_completa": "; Santos, Carlos R. P. dos ; NUNES, I.. Participação em banca de GUILHERME GRAVA FERREIRA.PaperTool: Uma ferramenta para suporte à Revisão Sistemática da Literatura. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Implantação de um Ambiente de TI Gerenciável e Integrado ao osTicket No CCSH/UFSM",
+          "membros": "Medina, Roseclea Duarte; FRANCISCATO, F. T.; SANTOS, Carlos Raniery Paula dos",
+          "candidato": "Kevin Vinicius Teixeira Costa",
+          "citacao_completa": "Medina, Roseclea Duarte; FRANCISCATO, F. T.; SANTOS, Carlos Raniery Paula dos . Participação em banca de Kevin Vinicius Teixeira Costa.Implantação de um Ambiente de TI Gerenciável e Integrado ao osTicket No CCSH/UFSM. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,128 @@
+{
+  "name": "Angelo Felipe Sartori",
+  "lattes_id": "3743461763934473",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "SARTORI, ÂNGELO FELIPE ; DE MORAIS, ADRIANO PERES ; NETTO, ULISSES CHEMIN ; LIMA, DIOMAR ADONIS COPETTI ; BERNARDON, DANIEL PINHEIRO ; HOKAMA, WAGNER SEIZO . Performance Analysis of Overcurrent Protection under Corrupted Sampled Value Frames: A Hardware-in-the-Loop Approach. Energies , v. 16, p. 3386, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16083386"
+        },
+        {
+          "texto": "SARTORI, A.F. ; MORAIS, A.P. ; CARDOSO, G. ; FREITAS-GUTIERRES, L.F. ; MARCHESAN, G. . A morphological approach for turn-to-turn fault detection in synchronous split-phase generators. ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107555"
+        },
+        {
+          "texto": "LIMA, DIOMAR A. C. ; BERNARDON, DANIEL P. ; MORAIS, ADRIANO P. ; OLIVEIRA, AÉCIO L. ; HOKAMA, WAGNER S. ; CONCEIÇÃO, JÚLIA B. R. ; SARTORI, ÂNGELO F. . Review of Bus Differential Protection Using IEC 61850. Energies , v. 15, p. 9537, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15249537"
+        },
+        {
+          "texto": "RABELO, S. ; CARDOSO JR., G. ; SARTORI, A.F. ; Maurício Baraciol Gasparin . Estudo de caso com uma rede reduzida em baixa tensão, a dois condutores, alimentando cargas trifásicas. Revista Científica Multidisciplinar Núcleo do Conhecimento , v. 1, p. 1, 2021.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "BUDZINSKI, F. ; SARTORI, Ângelo ; MORAIS, A. P. ; BERNARDON, D. P. ; HOKAMA, W.S. ; NETTO, U.C. . Complementary UML diagrams for the IEC 61850-6 Standard. In: INDUSCON, 2025, São Sebastião. 16th IEEE International Conference on Industry Applications - INDUSCON 2025, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A.F. ; MORAIS, A. P. ; HOKAMA, W.S. ; TRINDADE, M. ; BLASI, T. M. ; NETTO, U.C. . Experiência da CPFL Energia com o uso de simulação digital em tempo real em testes com subestações digitais fundamentadas na norma IEC 61850. In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII STPC, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A.F. ; MORAIS, A. P. ; NETTO, U.C. ; ROSANELLI, A. A. ; DIANA, B. R. S. ; LIMA, D . Análise comparativa de metodologias para mitigação de faltas entre espiras em geradores síncronos de fase dividida. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro/ RJ. Sociedade Brasileira de Automática, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, D ; BERNARDON, D.P. ; HOKAMA, W.S. ; MORAIS, A. P. ; OLIVEIRA, A. L. ; SARTORI, A.F. . Contribuição ao tratamento da dessincronização de dados no Process Bus: dessincronização por erro de medição. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro/ RJ. Sociedade Brasileira de Automática, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; SARTORI, A.F. ; VELOSO, J. F. . Comportamento da Função de Proteção 21 frente a Mensagens Sampled Values Corrompidos. In: Seminar on Power Electronics and Control, 2024, Santa Maria/RS. SEPOC, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Adrion Andrei Rosanelli ; Carlos Henrique Barriquelo ; SARTORI, A.F. ; Adriano Peres de Morais ; Daniel Pinheiro Bernardon ; Wagner Seizo Hokama ; Rebeca Gonçalves Sena . Analysis and Comparison of Ressampling Schemes: an Approach Based on IEC 61850-9-2. In: Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Sociedade Brasileira de Automática, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Adrion Andrei Rosanelli ; Carlos Henrique Barriquelo ; SARTORI, Ângelo ; Adriano Peres de Morais ; Daniel Pinheiro Bernardon ; Wagner Seizo Hokama . Analysis of Real Time Implementation of Ressampling Schemes: An Approach Based on IEC 61850-9-2. In: 5th Seminar on Power Electronics and Control, 2023, Santa Maria. SEPOC, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Adriano Peres de Morais ; SARTORI, Ângelo ; CASSOL, J. A. ; Daniel Pinheiro Bernardon ; Ulisses Chemin Netto ; Wagner Seizo Hokama ; CONCEIÇÃO, J. B. R. ; LIMA, D . Real-time digital simulation and IEC 61850 standard: interoperability test between OPAL-RT and typhoon HIL simulators. In: International Conference on Electricity Distribution, 2023, Roma. CIRED, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "HOKAMA, W.S. ; CONCEIÇÃO, J. B. R. ; Jr, O.F. ; BERNARDON, D.P. ; SARTORI, A.F. . Experiencia da CPFL na implantação do Process Bus em subestações de distribuição de energia elétrica. In: XVI STPC - SEMINÁRIO TÉCNICO DE PROTEÇÃO E CONTROLE, 2022, Rio de Janeiro. ., 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CASSOL, J. A. ; WONTROBA, A. ; PEREIRA, I. B. ; SARTORI, A.F. ; GUARDA, F. G. K. ; MORAIS, A. P. . Desenvolvimento de Plataforma de Testes Virtuais em Tempo Real para Dispositivos Eletr?onicos Inteligentes com Função de Detecção de Faltas de Alta Impedância. In: XXIV Congresso Brasileiro de Automática, 2022, Fortaleza/CE. Sociedade Brasileira de Automática, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A.F. ; MORAIS, A. P. ; LIMA, D ; NETTO, U.C. ; BERNARDON, D.P. ; HOKAMA, W.S. ; CONCEIÇÃO, J. B. R. . Proteção Diferencial de Barras de Subestações de Distribuição: Análise do funcionamento de metodologias fundamentadas na Norma IEC 61850. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/cba2022/3329"
+        },
+        {
+          "texto": "OLIVEIRA, C. A. S. ; MORAIS, A. P. ; SARTORI, A.F. ; GUARDA, Fernando ; CARDOSO JR., G. ; FREITAS GUTIERRES, L. F. . Estudo de caso com uma rede reduzida em baixa tensão, a dois condutores, alimentando cargas trifásicas. In: 13th Seminar on Power Electronics and Control, 2021, Santa Maria/RS. 13th Seminar on Power Electronics and Control, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A.F. ; MORAIS, A. P. ; CARDOSO JR., G. ; FREITAS GUTIERRES, L. F. ; RABELO, S. ; OLIVEIRA, C. A. S. . Detecção de Faltas entre Espiras em Geradores Síncronos de Fase Dividida: Uma Análise Comparativa entre configurações de proteção. In: XXIII Congresso Brasileiro de Automática (CBA 2020), 2020, Virtual. Congresso Brasileiro de Automática. Campinas-SP: Sociedade Brasileira de Automática, 2020. v. 2.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "SARTORI, A.F. ; SPECHT, Luciano. Pivotto. ; SALVADORI, Fabiano ; CAMPOS, Mauricio ; LEMOS, Jacson Weich . Sistema Automático de Aquisição de Temperatura (S2AT). In: XXII Congresso de Iniciação Científica e Tecnológica em Engenharia - CRICTE, 2007, Passo Fundo. CRICTE, 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "GIACOMINI, J. C.; SARTORI, A.F. ; PIOVESAN, T.. Participação em banca de Victor Hugo Luft Zamberlan.Retrofit de Mesa de Soldagem em Célula Robotizada. 2026. Trabalho de Conclusão de Curso (Graduação em Superior de Tecnologia em Automação Industrial) - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "BOASKI, M. A. F.; SARTORI, A.F. ; SILVA, J. P. W.. Participação em banca de Luis Henrique Barbosa Fritck.Retrofitting de Máquina de Usinagem Mandriladora TOS. 2026. Trabalho de Conclusão de Curso (Graduação em Superior de Tecnologia em Automação Industrial) - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA FARROUPILHA.",
+          "ano": 2026,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

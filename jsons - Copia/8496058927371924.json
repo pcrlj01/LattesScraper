@@ -1,0 +1,753 @@
+{
+  "name": "Patricia Della Méa Plentz",
+  "lattes_id": "8496058927371924",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "PFLEGER, S. G. ; HAERTEL, M. E. M. ; Plentz, P.D.M. . UV-C Disinfection Robots: A Systematic Review. Journal of Field Robotics , v. 1, p. 1-25, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1002/rob.22555"
+        },
+        {
+          "texto": "PFLEGER, S. G. ; HAERTEL, M. E. M. ; Plentz, P.D.M. . UV-C surface disinfection: minimal physics considerations, dynamic vs static light sources, and simulations insights. CONTRIBUCIONES A LAS CIENCIAS SOCIALES , v. 17, p. e7944, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.55905/revconv.17n.6-363"
+        },
+        {
+          "texto": "KUNZ CECHINEL, ALAN ; SOARES, CARLOS EDUARDO ; PFLEGER, SERGIO GENILSON ; DE OLIVEIRA, LEONARDO LUIZ GAMBALONGA ALVES ; AMÉRICO DE ANDRADE, EDERSON ; DAMO BERTOLI, CLAUDIA ; DE ROLT, CARLOS ROBERTO ; DE PIERI, EDSON ROBERTO ; PLENTZ, PATRICIA DELLA MÉA ; RÖNING, JUHA . Mobile Robot + IoT: Project of Sustainable Technology for Sanitizing Broiler Poultry Litter. SENSORS , v. 24, p. 3049, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.3390/s24103049"
+        },
+        {
+          "texto": "ALVES, P. V. A. ; Plentz, P.D.M. ; FERNANDES, M. A. C. . Proposal of a Real-Time Test Platform for Tactile Internet Systems. SENSORS , v. 22, p. 1-14, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BORIN, LAIS ; LIMA, GEORGE ; CASTRO, MÁRCIO ; PLENTZ, PATRICIA D. M. . Dynamic power management under the RUN scheduling algorithm: a slack filling approach. REAL-TIME SYSTEMS , v. 1, p. 1-1, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s11241-021-09367-2"
+        },
+        {
+          "texto": "GOMES, E. H. A. ; COSTA, F. ; ROLT, C. R. ; Plentz, P.D.M. ; DANTAS, M. A. R. . A Survey from Real-Time to Near Real-Time Applications in Fog Computing Environments. Telecom , v. 1, p. 489-517, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/telecom2040028"
+        },
+        {
+          "texto": "CECHINEL, ALAN KUNZ ; DE PIERI, EDSON ROBERTO ; FERNANDES PEREZ, ANDERSON LUIZ ; MÉA PLENTZ, PATRICIA DELLA . Multi-robot Task Allocation Using Island Model Genetic Algorithm. IFAC-PAPERSONLINE , v. 54, p. 558-563, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2021.08.063"
+        },
+        {
+          "texto": "GOMES, ELIZA H.A. ; DANTAS, MARIO A.R. ; PLENTZ, PATRICIA D.M. . A proposal for a healthcare environment with a real-time approach. INTERNATIONAL JOURNAL OF GRID AND UTILITY COMPUTING (ONLINE) , v. 11, p. 398, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1504/ijguc.2020.107623"
+        },
+        {
+          "texto": "DE ROLT, CARLOS ; DAHLKE, FABIANO ; SOARES, CARLOS ; PLENTZ, PATRICIA ; SCUSSEL, VILDES ; DANTAS, MARIO ; GOMES, ELIZA . Use of IoT to Real-time Monitoring of Storage Silo and Ozone Gas Fungal Decontamination Strategy. INTERNATIONAL JOURNAL OF COMPUTER APPLICATIONS , v. 175, p. 1-7, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5120/ijca2020920663"
+        },
+        {
+          "texto": "GOMES, E. H. A. ; PLENTZ, P. D. M. ; ROLT, C. R. ; DANTAS, M. A. R. . A survey on data stream, big data and real-time. International Journal of Networking and Virtual Organisations , v. 20, p. 143-167, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1504/ijnvo.2019.10018377"
+        },
+        {
+          "texto": "PENNA, PEDRO HENRIQUE ; A. GOMES, ANTÔNIO TADEU ; CASTRO, MÁRCIO ; D.M. PLENTZ, PATRICIA ; C. FREITAS, HENRIQUE ; BROQUEDIS, FRANÇOIS ; MÉHAUT, JEAN-FRANÇOIS . A comprehensive performance evaluation of the BinLPT workload-aware loop scheduler. CONCURRENCY AND COMPUTATION-PRACTICE & EXPERIENCE , v. v1, p. e5170, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1002/cpe.5170"
+        },
+        {
+          "texto": "PFLEGER, SERGIO G. ; PLENTZ, PATRICIA D. M. ; ROCHA, RODRIGO C. O. ; PEREIRA, ALYSON D. ; CASTRO, MÁRCIO . Real-time video denoising on multicores and GPUs with Kalman-based and Bilateral filters fusion. Journal of Real-Time Image Processing (Print) , v. 1, p. 1, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1007/s11554-016-0659-y"
+        },
+        {
+          "texto": "MONTEIRO, E. R. B. ; PLENTZ, P. D. M. ; DE PIERI, E. R. . Deadline Missing Prediction for Mobile Robots through the Use of Historical Data. WORD ACADEMY OF SCIENCE, ENGINEERING AND TECHONOLOGY , v. 8, p. 723-731, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.5281/zenodo.1092319"
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; Montez, C. ; de Oliveira, R.S. . AS prediction mechanism for distributed threads systems. Journal of Parallel and Distributed Computing (Print) , p. 1367-1376, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1016/j.jpdc.2011.05.002"
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Deadline Missing Prediction Through the Use of Milestones. Computing and Informatics , v. 30, p. 657-679, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Deadline missing predictor based on aperiodic server queue length for distributed systems. COMPUTER COMMUNICATIONS , v. 31, p. 4167-4175, 2008.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.1016/j.comcom.2008.09.020"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "Plentz, P.D.M. ; RIBEIRO, T. M. M. ; RAHMIG, H. F. C. ; BULCAO-NETO, R. F. ; SENE JR, I. G. ; MORALES, A. S. . Digital transformation: challenges about IoT and AI in High Pressure Die Casting (HPDC). In: International Symposium on Applied Computational Intelligence and Informatics (SACI), 2025, Budapest, Hungary. IEEE 19th International Symposium on Applied Computational Intelligence and Informatics (SACI 2025). Budapest: IEEE Romania Section, 2025. v. 1. p. 1-1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MORALES, A. S. ; BERTINETTI, L. ; OLIVEIRA, M. ; F. FILHO, D. ; PEREIRA, A. ; RAHMIG, H. F. C. ; RIBEIRO, T. M. M. ; BULCAO-NETO, R. F. ; SENE JR, I. G. ; Plentz, P.D.M. . Digital Transformation in HPDC: Maintenance Forecasting and Remaining Useful Life of Die. In: IEEE International Conference on Emerging Technologies and Factory Automation - ETFA, 2025, Porto, Portugal. 30th IEEE International Conference on Emerging Technologies and Factory Automation - ETFA 2025. Nova Iorque, NY, USA: Institute of Electrical and Electronics Engineers, Inc. (IEEE), 2025. v. 1. p. 1-1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FELIX, R. ; Plentz, P.D.M. ; HAUCK, J. C. R. . Approach to Deploying Batch File Data Products in a Big Data Environment. In: International Conference on Internet of Things, Big Data and Security, 2025, Porto, Portugal. 10th International Conference on Internet of Things, Big Data and Security (IoTBDS 2025). Portugal: Scitepress, 2025. v. 1. p. 1-1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PFLEGER, S. G. ; RONING, J. ; Plentz, P.D.M. . Sweeping UV-C Disinfection: a Mathematical Approach. In: International Conference on Information Fusion, 2023, Charleston, USA. 26th International Conference on Information Fusion. New York, USA: IEEE Xplore, 2023. v. 1. p. 1-1.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RIBAS, N. G. ; OLIVEIRA, A. ; WATANUKI, H. ; Plentz, P.D.M. . Monitoramento de Logs da Plataforma HPCC SYSTEMS em Cloud. In: Computer on The Beach, 2023, Florianópolis, SC. 14th Computer on The Beach. Florianópolis, SC: Univale, 2023. v. 1. p. 1-1.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CECHINEL, A. K. ; ; Plentz, P.D.M. ; RONING, J. . Hanging Drone: An Approach to UAV Landing for Monitoring. In: International Conference on Informatics in Control, Automation and Robotics (ICINCO), 2023, Rome, Italy. 20th International Conference on Informatics in Control, Automation and Robotics (ICINCO), 2023. v. 1. p. 1.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, G. ; RONING, J. ; CARVALHO, J. T. ; PLENTZ, P. D. M. . Efficient Task Allocation in Smart Warehouses with Multi-delivery Stations and Heterogeneous Robots. In: International Conference on Information Fusion, 2022, Linköping. 25th International Conference on Information Fusion. United States: IEEE in IEEEXplore, 2022. v. 1. p. 1-1.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, G. ; CARVALHO, J. T. ; PLENTZ, PATRICIA DELLA MEA . On the Effect of Heterogeneous Robot Fleets on Smart Warehouses' Energy and Operating Costs. In: Brazilian Symposium on Computing Systems Engineering (SBESC), 2022, Fortaleza, Ceará. 2022 XII Brazilian Symposium on Computing Systems Engineering (SBESC). Washington, DC, USA: IEEE Xplore, 2022. v. 1. p. 1-1.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, G. ; CARVALHO, J. T. ; PLENTZ, PATRICIA DELLA MEA . An Experimental Analysis of Smart Warehouses' Order Flow in Robot Energy Consumption. In: Latin American Robotics Symposium/Brazilian Robotics Symposium, 2022, São Bernardo do Campo, São Pau. 19th IEEE Latin American Robotics Symposium - LARS 2022. Washington, DC, USA: IEEE Xplore, 2022. v. 1. p. 1-1.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "VARELLA, L. ; WATANUKI, H. ; BARUCHI, A. ; Plentz, P.D.M. . Orquestração de Aplicações de Computação de Alta Performance em Ambientes Cloud Conteinerizados. In: XXI Escola Regional de Alto Desempenho da Região Sul (ERAD/RS 2021), 2021, Joinville. Anais da XXI Escola Regional de Alto Desempenho da Região Sul. Porto Altegre: SBC Open Lib, 2021. v. 1. p. 1-1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, GEORGE ; PLENTZ, PATRICIA D. M. ; CARVALHO, JONATA TYSKA . Multi-Constrained Voronoi-Based Task Allocator for Smart-Warehouses. In: 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021, Timisoara. 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021. p. 515.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/SACI51354.2021.9465629"
+        },
+        {
+          "texto": "LOURENCO, LUAN LUCAS ; OLIVEIRA, GEORGE ; MEA PLENTZ, PATRICIA DELLA ; RONING, JUHA . Achieving reliable communication between Kafka and ROS through bridge codes. In: 2021 20th International Conference on Advanced Robotics (ICAR), 2021, Ljubljana. 2021 20th International Conference on Advanced Robotics (ICAR), 2021. v. 1. p. 324-329.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/ICAR53236.2021.9659422"
+        },
+        {
+          "texto": "PFLEGER, SERGIO GENILSON ; PLENTZ, PATRICIA DELLA MEA . Computational Capacity Analysis of Platforms for Low-Cost Autonomous Ultraviolet Germicidal Robots. In: 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021, Timisoara. 2021 IEEE 15th International Symposium on Applied Computational Intelligence and Informatics (SACI), 2021. p. 527.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/SACI51354.2021.9465624"
+        },
+        {
+          "texto": "CECHINEL, A. K. ; PEREZ, A. L. F. ; Plentz, P.D.M. ; . Autonomous mobile robot using distance and priority as logistics task cost. In: Annual Conference of the IEEE Industrial Electronics Society (IECON), 2020, Singapore. Proceedings of the Annual Conference of the IEEE Industrial Electronics Society (IECON). United States: Institute of Electrical and Electronics Engineers ( IEEE ), 2020. v. 0. p. 0-0.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. F. ; Plentz, P.D.M. ; . Development of a Generic Framework for Multi-robot Systems. In: Annual Conference of the IEEE Industrial Electronics Society (IECON), 2020, Singapore. Proceedings of the Annual Conference of the IEEE Industrial Electronics Society (IECON). United States: Institute of Electrical and Electronics Engineers ( IEEE ), 2020. v. 0. p. 0-0.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, A. S. ; PLENTZ, PATRICIA D. M. ; . A Behavior Tree Designing Tool for Online Evaluation. In: Annual Conference of the IEEE Industrial Electronics Society (IECON), 2020, Singapore. Proceedings of the Annual Conference of the IEEE Industrial Electronics Society (IECON). United States: Institute of Electrical and Electronics Engineers ( IEEE ), 2020. v. 0. p. 0-0.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, ELIZA H.A. ; ZANATTA, R. ; Plentz, P.D.M. ; ROLT, C. R. ; DANTAS, M. A. R. . An Approach of Time Constraint of Data Intensive Scalable in e-Health Environment. In: Advances on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), 2020, Virtual. International Conference on P2P, Parallel, Grid, Cloud and Internet Computing. Switzerland: Springer, Cham, 2020. v. 158. p. 158-169.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, E. H. A. ; UMILIO, F. ; DANTAS, M. A. R. ; Plentz, P.D.M. . An Ambient Assisted Living Research Approach Targeting Real-Time Challenges. In: Annual Conference of the IEEE Industrial Electronics Society, 2018, Washington, DC, USA. 44th Annual Conference of the IEEE Industrial Electronics Society., 2018. v. 0. p. 0-0.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; . An Overview on Real-Time Constraints for Ambient Intelligence (AmI). In: ACS/IEEE International Conference on Computer Systems and Applications - AICCSA, 2018, Aqaba, Jordânia. 15th ACS/IEEE International Conference on Computer Systems and Applications AICCSA 2018, 2018. v. 0. p. 0-0.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, E. H. A. ; DANTAS, M. A. R. ; PLENTZ, P. D. M. . A Real-Time Fog Computing Approach for Healthcare Environment. In: 3PGCIC - International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, 2018, Taichung, Taiwan. Proceedings of the 13th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC-2018). Switzerland: Springer, 2018. p. 85-95.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGOSTINHO, BRUNO MACHADO ; ROTTA, GIOVANNI ; DELLA MEA PLENTZ, PATRICIA ; DANTAS, MARIO A. R. . Smart Comm: A Smart Home Middleware Supporting Information Exchange. In: IECON 2018 44th Annual Conference of the IEEE Industrial Electronics Society, 2018, Washington. IECON 2018 - 44th Annual Conference of the IEEE Industrial Electronics Society, 2018. p. 4678-4684.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/IECON.2018.8591251"
+        },
+        {
+          "texto": "; LEITE, M. B. ; PLENTZ, P. D. M. . Forecast Based on Historical Data for RTSJ Event Handlers. In: International Conference on Computers and Their Applications - CATA 2017, 2017, Honolulu, USA. 32nd International Conference on Computers and Their Applications - CATA 2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "RAIA, H. F. ; ROCKER, R. ; PLENTZ, P. D. M. . Mobile Robots Navigation with Temporal Constraints Using Behavior Trees and Recovery Actions. In: International Conference on Computers and Their Applications - CATA 2017, 2017, Honolulu, USA. 32nd International Conference on Computers and Their Applications - CATA 2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PENNA, P. H. ; INACIO, E. C. ; ; PLENTZ, P. D. M. ; FREITAS, H. ; BROQUEDIS, F. ; MEHAUT, J. . Assessing the Performance of the SRR Loop Scheduler. In: International Conference on Computational Science (ICCS), 2017, Zurich. Proceedings of the International Conference on Computational Science (ICCS), 2017. v. 108. p. 255-264.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BORIN, L. ; CASTRO, MÁRCIO ; PLENTZ, P. D. M. . Towards the Use of LITMUS-RT as a Testbed for Multiprocessor Scheduling in Energy Harvesting Real-time Systems. In: Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC), 2017, Curitiba. Proceedings of the Brazilian Symposium on Computing Systems Engineering (SBESC), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PENNA, P. H. ; CASTRO, M. ; PLENTZ, PATRICIA D. M. ; FREITAS, H. ; BROQUEDIS, F. ; MEHAUT, J. . A Workload-Aware Parallel Loop Scheduler for Large-Scale Multicore Platforms. In: Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD), 2017, Campinas. Anais do Simpósio em Sistemas Computacionais de Alto Desempenho (WSCAD). Porto Alegre: SBC, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PFLEGER, S. G. ; PLENTZ, P. D. M. . Spatio-temporal Real-time Video Denoising with Fusion of Modified-Kalman and Bilateral Filter. In: International Conference on Computers and Their Applications - CATA 2016, 2016, Las Vegas, Nevada, USA. 31st International Conference on Computers and Their Applications - CATA 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "RAIA, H. F. ; SIQUEIRA, F. L. ; PLENTZ, P. D. M. . Using a Deadline Missing Prediction Mechanism and Recovery Actions to Avoid Deadline Losses. In: International Conference on Computers and Their Applications - CATA 2016, 2016, Las Vegas, Nevada, USA. 31st International Conference on Computers and Their Applications - CATA 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Fernando de Lucca Siqueira ; ; PLENTZ, P. D. M. . A Fuzzy Approach to the Autonomous Recharging Problem for Mobile Robots. In: International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), 2016, Changsha, China. 2016 12th International Conference on Natural Computation, Fuzzy Systems and Knowledge Discovery (ICNC-FSKD), 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SIQUEIRA, F. L. ; ; PLENTZ, P. D. M. . Semantic Information Applied to Autonomous Navigation of Mobile Robots. In: xACS/IEEE International Conference on Computer Systems and Applications AICCSA 2016, 2016, Agadir, Marrocos. 13th ACS/IEEE International Conference on Computer Systems and Applications AICCSA 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MONTEIRO, E. ; PLENTZ, P. D. M. . Deadline missing prediction for mobile robots through the use of historical data. In: ICIRA 2014 - International Conference on Intelligent Robotics and Applications, 2014, Amsterdam. Proceedings of the International Conference on Intelligent Robotics and Applications, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; Plentz, P.D.M. . Previsão de Perda de Deadline em Tratadores de Eventos RTSJ. In: SBESC 2013 - Sistemas de Tempo Real, 2013, Niterói - RJ. III Simpósio Brasileiro de Engenharia de Sistemas Computacionais - SBESC, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Marin, Luciene ; ; ; Roisenberg, M ; Plentz, P.D.M. . NeuroCog: An Adaptive Topological Map Learning and Reactive System for Maze Navigation. In: 27th International Conference on Computers and Their Applications - CATA, 2012, Las Vegas, Nevada, USA. 27th International Conference on Computers and Their Applications - CATA 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Lorbieski, R ; PLENTZ, P. D. M. ; . Implementing Distributed Threads Using RTSJ. In: IEEE INDIN2012 - IEEE International Conference on Industrial Informatics, 2012, Pequim. Proceedings of the 10th IEEE International Conference on Industrial Informatics, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . A Mechanism for Deadline Missing Prediction in Systems based on Distributed Threads. In: IEEE International Conference on Emerging Technologies and Factory Automation, 2008, Hamburg, Germany. 13th IEEE International Conference on Emerging Technologies and Factory Automation, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Deadline Missing Prediction in Systems Based on Distributed Threads. In: IEEE Latin American Robotics Symposium, 2008, Salvador / BA. 5th IEEE Latin American Robotics Symposium - LARS 2008, 2008.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.1109/LARS.2008.15"
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Prediction of End-to-End Deadline Missing in Distributed Threads Systems. In: 12th IEEE Conference on Emerging Technologies and Factory Automation, 2007, Patras, Greece. Proceedings of the 12th IEEE Conference on Emerging Technologies and Factory Automation, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Mecanismos para a Previsão de Perda de Deadline para Threads Distribuídas Tipo Pipeline. In: Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis, Santa Catarina. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Scheduling of the Distributed Thread Abstraction with Timing Constraints using RTSJ. In: ETFA'2005 - 10th IEEE International Conference on Emerging Technologies and Factory Automation, 2005, Catania, Italy. ETFA'2005 - 10th IEEE International Conference on Emerging Technologies and Factory Automation, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; GONCALVES, R. ; MOREIRA, G. ; ; . Expressividade da RTSJ para Implementar Computação Imprecisa. In: Workshop de Tempo Real - WTR, 2004, Gramado - RS. 22° Simpósio Brasileiro de Redes de Computadores - Gramado, RS, 2004. p. 139-146.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; ; . Programação Baseada em Threads Distribuída nas Especificações RT-CORBA 2.0 e Distributed RTSJ. In: Workshop de Tempo Real - WTR, 2003, Natal, RN. SBRC 2003 - 21º Simpósio Brasileiro de Redes de Comptadores - Workshop, 2003. p. 47-54.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; CORSO, T. B. ; . Um Servidor de Arquivos para um Cluster de Computadores. In: Congresso Brasileiro de Computação, 2002, Itajaí - SC. Congresso Brasileiro de Computação, 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "PFLEGER, S. G. ; PLENTZ, P. D. M. . Implementação em GPU do Filtro de Kalman Modificado Combinado com Filtro Bilateral para Redução de Ruídos em Vídeo em Tempo Real. In: Escola Regional de Alto Desempenho (ERAD) do Estado do Rio Grande do Sul, 2016, São Leopoldo, RS. XVI Escola Regional de Alto Desempenho (ERAD) do Estado do Rio Grande do Sul, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; PLENTZ, P. D. M. . Fuzzy Ontology for Imprecise Data Representation and Processing in Environments for Mobile Robots. In: 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010), 2010, Busan, Korea. 7th International Conference on Ubiquitous Robots and Ambient Intelligence (URAI 2010), 2010.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "VARELLA, L. ; WATANUKI, H. ; BARUCHI, A. ; PLENTZ, P. D. M. . A Cross provider assessment for HPCC Systems container orchestration. 2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "JY, J. C. ; WATANUKI, H. ; BARUCHI, A. ; PLENTZ, P. D. M. . Deltabase caching solutions: an exploratory analysis for increasing ROXIE queries' performance. 2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. . Usabilidade de Dispositivos Móveis: Projeto de Interfaces e Técnicas de Avaliação. 2009. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Deadline Missing Prediction in Systems Based on Distributed Threads. 2008. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Mecanismos de Previsão de Perda de Deadlines para Threads Distribuídas Tipo Pipeline. 2007. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; ; . Expressividade da RTSJ para Implementar Computação Imprecisa. 2004. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "items": [
+        {
+          "texto": "PLENTZ, P. D. M. ; PLENTZ, R. D. M. ; PFLEGER, S. G. ; BARBOSA, A. S. . Pesquisadores da UFSC projetam robô que elimina o coronavírus. 2020. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; PFLEGER, S. G. ; BARBOSA, A. S. . Robô Móvel para Desinfecção de Ambientes. 2020. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. ; PFLEGER, S. G. ; BARBOSA, A. S. . Pesquisadores da UFSC criam robô que destrói vírus do Covid-19. 2020. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "D.M. PLENTZ, PATRICIA . Pesquisadores da UFSC trabalham em protótipo de robô móvel para desinfecção de ambientes. 2020. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, PATRICIA DELLA MEA ; PEREIRA, M. M. ; BRIZOLARA, L. ; NASCIMENTO, F. M. S. . Mulheres em Engenharia de Sistemas Computacionais: desafios, consciência e perspectivas. 2020. (Programa de rádio ou TV/Mesa redonda).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "D.M. PLENTZ, PATRICIA ; CRUZ, F. ; SCHUCMAN, L. V. ; SOUZA, M. . Professores debatem racismo na UFSC. 2020. (Programa de rádio ou TV/Mesa redonda).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "PLENTZ, P. D. M. . Relatório do curso Superior de Tecnologia em Desenvolvimento para Web. 2006. (Ensino).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. . Pacote Microsoft Office. 2000. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. . Microsoft Office e Internet. 1998. (Curso de curta duração ministrado/Extensão).",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. . Microsoft Office e Internet. 1997. (Curso de curta duração ministrado/Extensão).",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "PLENTZ, P. D. M. . Microsoft Office e Internet. 1996. (Curso de curta duração ministrado/Extensão).",
+          "ano": 1996,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "Rech L O; ; ; PINTO, A. S. R.. Participação em banca de José Roque Betiol Júnior. Validação experimental do protocolo RT-WiFi na transmissão de tráfego de tempo real em ambientes abertos. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; FREITAS, H. C.; ; SIQUEIRA, F. A.. Participação em banca de Alyson Deives Pereira. Geração de Código Estêncil Otimizado Para GPUs. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; Koliver, C; STEMMER, M. R.; OBELHEIRO, R. R.; . Participação em banca de Benhur Tessele. EMPREGO DO PERF NA MEDIÇÃO E ANÁLISE DO TEMPO DE RESPOSTA DE TAREFAS NO LINUX. 2019. Dissertação (Mestrado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; Santin, A. O.; SIQUEIRA, F. A.; . Participação em banca de Gerson Luiz Camillo. Privacidade no controle de acesso em sistemas de gerenciamento de identidade para a Web. 2018. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MARCHI, J.; MAFRA, P. M.; SEARA, R.; Rech L O; . Participação em banca de André Brasil Vieira Wyzykowski. Aperfeiçoamento do Algoritmo ORB para o casamento completo e invariante às transformações afins. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Rech L O; SOUTO, E. J. P.; ; . Participação em banca de Paulo Rogério de Pinho Filho. Consenso para Ordem Total de Tarefas com Prioridade. 2016. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Moraes, R A R; RICHA, R. A.; TRAINA, A. J. M.; ; WANGENHEIM, A. V.. Participação em banca de Rodrigo Tridapalli Fóes Linhares. Mapeamento da Retina a partir de imagens de uma lâmpada de fenda usando técnicas de ajuste global. 2016. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; HESSEL, F. P.; STEMMER, M. R.; . Participação em banca de Karila Palma da Silva. Análise de Valor para a Determinação do Tempo de Execução no Pior Caso (WCET) de Tarefas de Tempo Real. 2015. Dissertação (Mestrado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; GRANVILLE, L. Z.; ; Mello R S. Participação em banca de Eduardo Camilo Inacio. Caracterização e Modelagem Multivariada do Desempenho de Sistemas de Arquivos Paralelos. 2015. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; ; BORIN, E.; WESTPHALL, C. M.; . Participação em banca de Izaias de Faria. Uma abordagem de seleção de recursos consciente de consumo de energia baseada em topologia de rede, tamanho de arquivos e potência de equipamentos. 2015. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bogorny V; GEYER, C. F. R.; Mello R S; . Participação em banca de Artur Ribeiro de Aquino. Um Método para Interpretar Outilers em Trajetórias de Objetos Móveis. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; RAMOS, A. M.; ; Moraes, R A R. Participação em banca de Roberto Marinho. Um Modelo para Avaliação Dinâmica de Risco usando Ontologia. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; SANTOS, A.; ; Moraes, R A R. Participação em banca de Rafael Weingartner. Controle de Disseminação de Dados Sensíveis em Ambientes Federados. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; SANTOS, A.; ; Moraes, R A R. Participação em banca de Rafael Weingartner. Controle de Disserminação de Dados Sensíveis em Ambientes Federados. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; Santin, A. O.; Sobral, J. B. M.; . Participação em banca de Marcos Aurélio Pedroso Leandro. Federação de Identidades e Computação em Nuvem: Estudo de Caso Usando Shibboleth. 2012. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Montez, C.; Moraes, R A R; SIQUEIRA, F.; Koliver, C; . Participação em banca de Gerson Fernando Budke. Abprdagens de Comunicação para Fusão Paralela de Dados em Redes de Sensores Sem Fio IEEE 802.15.4. 2012. Dissertação (Mestrado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; BARRETO, R.; ; . Participação em banca de Andreu Carminati. Sincronização De Processos Em Sistemas De Tempo Real No Contexto De Multiprocessadores. 2012. Dissertação (Mestrado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; RAMOS, A. M.; ; . Participação em banca de Ari Silveira Anselmo Junior. Gerenciamento de Identidades como um Serviço para Ambientes de Computação em Nuvem. 2011. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Lung L C; Oliveira L E S; Favarim F; ; Rech L O. Participação em banca de Alex Pinho Magalhães. Busca de Informação Distribuída Usando Heurísticas Adaptativas para Agentes Móveis em Tempo Real. 2010. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "CIFERRI, R. R.; CARNIEL, A. C.; SANTOS, M. T. P.; ; Fileto R. Participação em banca de Flávio de Assis Vilela. Uma Arquitetura não Intrusiva e Reativa para Realizar o Processo ETL em Tempo Real em Ambientes de Data Warehousing. 2021. Tese (Doutorado em Ciência da Computação) - Universidade Federal de São Carlos.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LEAL, A. B.; ; ; BERTOL, D. W.; NIED, A.. Participação em banca de Ricardo Ferreira Martins. UM FRAMEWORK PARA A COORDENAÇÃO AUTOMÁTICA DE MÚLTIPLAS MISSÕES DE VEÍCULOS AÉREOS NÃO TRIPULADOS BASEADO NA TEORIA DE SISTEMAS A EVENTOS DISCRETOS. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "FROELICH, A. A.; MATIAS JR., R.; HESSEL, F.; GRACIOLI, G.; . Participação em banca de Mateus Krepsky Ludwich. On Time-Deterministic Multicore Virtualization Techniques. 2018. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, L. C. V.; WAGNER, F. R.; RIGO, S.; ; ; PILLA, L. L.. Participação em banca de Emilio Wuerges. WCET-Aware Prefetching of Unlocked Instruction Caches: a Technique for Reconciling Real-Time Constraint and Energy Efficiency. 2015. Tese (Doutorado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; RIBEIRO, M. X.; SANTOS, M. T. P.. Participação em banca de Flávio de Assis Vilela. Uma Arquitetura para Realizar o Processo ETL em Ambientes de Data Warehousing em Tempo Real. 2020. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de São Carlos.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; VIANA, W. B.. Participação em banca de SONALI PAULA MOLIN BEDIN. MODELO DE CURADORIA DIGITAL PARA O ALINHAMENTO ESTRATÉGICO DOS CURSOS DE GRADUAÇÃO NO CAMPO DA CIÊNCIA DA INFORMAÇÃO COM O MERCADO DE GESTÃO E TECNOLGIA DA INFORMAÇÃO. 2019. Exame de qualificação (Doutorando em Ciência da Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; LIMA, M. N.; Santin, A. O.; . Participação em banca de Jorge Werner. Uma Abordagem para manter a Privacidade no Gerenciamento de Identidades na Nuvem. 2015. Exame de qualificação (Doutorando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "MARCHI, J.; Rech L O; . Participação em banca de André Wyzykowski. Sistema de Localização em Ambientes Fechados Utilizando Visão Computacional em Dispositivos Portáteis. 2016. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; DANTAS, M. A. R.; . Participação em banca de Gerson Luiz Camillo. Proposta de inclusão de autorização com granularidade fina mantendo a privacidade em ambiente com XACML e OpenID Connect. 2015. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; MORENO, U. F.; WESTPHALL, C. M.. Participação em banca de Henrique Fortes Raia. Sistema Centralizado de Gerenciamento de um Grupo de Robôs Móveis para Realização de Tarefas com Restrições Temporais. 2015. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; WESTPHALL, C. M.; . Participação em banca de Marcus Vinícius Assuiti. Conceito de redes definidas por software aplicado à um sistema de suporte a decisão clínica que implementa o algoritmo de sepse. 2015. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; VASQUES, F.; COMUNELLO, E.. Participação em banca de Sérgio Genilson Pfleger. Redução Espaço-Temporal de Ruído em Imagens através de Filtro de Kalman Modificado. 2014. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; Mello R S; . Participação em banca de Eduardo Camilo Inacio. Caracterização e Modelagem Multivariada do Desempenho de Sistemas de Arquivos Paralelos. 2014. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WESTPHALL, C. M.; Moraes, R A R; . Participação em banca de Rafael Weingartner. Controle de Disseminação de Dados Sensíveis em Ambientes Federados. 2014. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; WESTPHALL, C. M.; . Participação em banca de Izaias de Faria. Uma abordagem de seleção de recursos consciente de consumo de energia baseada em topologia de rede, tamanho de arquivos e potência de equipamentos. 2014. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; SIQUEIRA, F.; MARCHI, J.. Participação em banca de Edwaldo Ramos de Brito Monteiro. Mecanismos de Previsão de Perda de Deadline para Navegação de Robôs Móveis Autônomos. 2013. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; SIQUEIRA, F.; Rech L O. Participação em banca de Rogerio Bodemuller Junior. Mecanismos de Previsão de Perda de Deadline para Tratadores de Eventos Assíncronos RTSJ. 2013. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; SIQUEIRA, F. A.; . Participação em banca de Bruno Marques do Nascimento.OTIMIZAÇÃO DO FRAMEWORK PSKEL PARA O PROCESSADOR MANYCORE MPPA-256. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; Willrich, R; . Participação em banca de Carlos Eduardo Rebelato.Desenvolvimento de uma Abordagem para a Identificação e Localização de Pessoas em Ambientes Assistidos. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, R. J. C.; SILVA, R. P. E.; KOMOSINSKI, L. J.; . Participação em banca de Ricardo Ademar Bezerra de Almeida.Como melhor configurar sensores de infra e biométricos para suporte às aplicações móveis distribuidas. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "WANGENHEIM, C. G. V.; HAUCK, J.; . Participação em banca de Guilherme Trilha Daniel.Design de unidade instrucional de desenvolvimento de aplicativos para o ensino fundamental.. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; Willrich, R; . Participação em banca de Pedro José de Campos.Utilização de QoC para melhorar a configuração de sensores biomédicos para suporte às aplicações móveis distribuídas.. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SIQUEIRA, F.; KOMOSINSKI, L. J.; . Participação em banca de Mateus Maso.Um Modelo de Comunicação para Automação na Execução de Consultas de Dados sobre APIs Web.. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; PINTO, A. S. R.; MAZZOLA, V. B.; . Participação em banca de André Gustavo Weise Roeck.Smart Gardens - Automação e Monitoramento Inteligente da Agricultura. 2016. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "HAUCK, J.; WANGENHEIM, C. G. V.; VILAIN, P.; . Participação em banca de Lucas Pagotto Tonussi.Módulo de Jogo de Perguntas E Respostas Online para Apoio ao Ensino de Gerência de Projetos Integrado ao Moodle. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; ; . Participação em banca de Guilherme Schmitt.DEMÉTER Um estudo de algoritmos de escalonamento de tarefas aplicados em ambientes de nuvem de três camadas.. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "WANGENHEIM, C. G. V.; WAZLAWICK, R. S.; . Participação em banca de Alyssa Generini Nunez Del Prado.Modelo de Decisão para escolher entre App nativo ou Mobile Website para um Sistema de E-Commerce. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SIQUEIRA, F.; KOMOSINSKI, L. J.; . Participação em banca de Diego Lagranha Weiss.Otimização de Desempenho em Aplicações Web e Web Components. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, M. A. R.; Willrich, R; RIZZON, E. S.; . Participação em banca de Eduardo Skrepnek Tosin.Uma Alternativa para o Escalonamento Virtual Utilizando Computação Distribuída para o Processamento de Jogos Massivos Multijogadores Online. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DOVICCHI, J. C. L.; SANTOS, M.; . Participação em banca de Anna Clara Oriques.OntoScrum Um modelo que propõe o uso de ontologias e inferências na gestão de projetos Scrum. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KOMOSINSKI, L. J.; SIQUEIRA, F.; . Participação em banca de Matheus Bratfisch.Sistema de Monitoramento de Encomendas. 2012. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Roisenberg, M; Silveira, R; . Participação em banca de Robson Alexandre Siebel.Adaptabilidade Dinâmica de Jogos. 2011. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "WANGENHEIM, C. G. V.; Savaris, A.; . Participação em banca de Gustavo Coan Hobold e Leonardo Stahelin Coelho.Desenvolvimento de Protótipos de Interfaces Humano-Computador na Área de Saúde para Convergência Digital. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Mello R S; Willrich, R; . Participação em banca de Leonardo Antônio Ramos e Otávio Soares Menna.Portabilização da ferramenta de modelagem de banco de dados brModelo. 2011. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Fileto R; Friedrich C; . Participação em banca de André Salvaro Furtado.Uma Arquitetura de Sistema Geográfico Baseado em Conhecimento com Sustentação Epistemológica. 2010. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Bogorny V; Mello R S; . Participação em banca de Hércules Mateus Avancini.Desenvolvimento de métodos para redução de dados em trajetória de objetos móveis. 2010. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, L.; WANGENHEIM, C. G. V.; . Participação em banca de Bernardo Zacchi da Cunha.Avaliação da Usabilidade de Relatórios Gerenciais em Sistema Jurídico. 2009. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "SIQUEIRA, F.; KOMOSINSKI, L. J.; . Participação em banca de Gustavo Sobierajski Schneider e Tiago Braun Corrêa.Interfaces Ricas para Web. 2009. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "; BRANCO, R. L. J. C.; FERRANDIN, M.. Banca Examinadora de Concurso Público para Professor Magistério Superior. 2017. Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MAZZOLA, V. B.; ; GEYER, C. F. R.; CANCIAN, R. L.; BERKENBROCK, C. D. M.. Banca Examinadora de Concurso Público para Professor Magistério Superior. 2014. Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KOMOSINSKI, L. J.; Rech L O; Borges, D. L.; . Comitê do Concurso Público para Professor Adjunto I na Universidade Federal de Santa Catarina Campus Araranguá. 2010. Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

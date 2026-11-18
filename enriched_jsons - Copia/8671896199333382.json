@@ -1,0 +1,756 @@
+{
+  "name": "Elcio Franklin de Arruda",
+  "lattes_id": "8671896199333382",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "A Testbed for Analysis of Static Var Compensators Effects on the Impedance Protection Function Response of Transmission Lines",
+          "autores": "; DA SILVEIRA, LUIZ SELEFE MENDES ; DE ARRUDA, ELCIO FRANKLIN ; DE SOUZA FILHO, RONALDO EUGÊNIO",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 32, p. 1-11, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00792-z",
+          "citacao_completa": "; DA SILVEIRA, LUIZ SELEFE MENDES ; DE ARRUDA, ELCIO FRANKLIN ; DE SOUZA FILHO, RONALDO EUGÊNIO . A Testbed for Analysis of Static Var Compensators Effects on the Impedance Protection Function Response of Transmission Lines. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 32, p. 1-11, 2021."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Harmonic Distortion State Estimation Using an Evolutionary Strategy",
+          "autores": "ARRUDA, E. F. ; ; RIBEIRO, P. F.",
+          "periodico": "IEEE Transactions on Power Delivery , v. 25, p. 831-842, 2010.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; ; RIBEIRO, P. F. . Harmonic Distortion State Estimation Using an Evolutionary Strategy. IEEE Transactions on Power Delivery , v. 25, p. 831-842, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Three-phase harmonic distortion state estimation algorithm based on evolutionary strategies",
+          "autores": "ARRUDA, E. F. ; ; Ribeiro, P.F.",
+          "periodico": "Electric Power Systems Research (Print) , v. ., p. 1-9, 2010.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2010.01.009",
+          "citacao_completa": "ARRUDA, E. F. ; ; Ribeiro, P.F. . Three-phase harmonic distortion state estimation algorithm based on evolutionary strategies. Electric Power Systems Research (Print) , v. ., p. 1-9, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estimação de Estados Harmônicos usando estratégias evolutivas",
+          "autores": "ARRUDA, E. F. ;",
+          "periodico": "Controle & Automação (Impresso) , v. 20, p. 177-191, 2009.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; . Estimação de Estados Harmônicos usando estratégias evolutivas. Controle & Automação (Impresso) , v. 20, p. 177-191, 2009."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Estudo comparativo de ferramentas modernas de análise aplicadas à qualidade da energia elétrica",
+          "autores": "OLESKOVICZ, M. ; ; ; ARRUDA, E. F. ; ;",
+          "periodico": "Controle & Automação (Impresso) , v. 7, p. 331-341, 2006.",
+          "doi": "http://dx.doi.org/10.1590/s0103-17592006000300007",
+          "citacao_completa": "OLESKOVICZ, M. ; ; ; ARRUDA, E. F. ; ; . Estudo comparativo de ferramentas modernas de análise aplicadas à qualidade da energia elétrica. Controle & Automação (Impresso) , v. 7, p. 331-341, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Análise dos impactos da variação diária e localização aleatória da geração distribuída no desequilíbrio e níveis de tensão",
+          "autores": "O. A. LIMA, IVANA ; de Arruda, Elcio ; RADATZ, PAULO ; ;",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021, Anais Eletrônicos. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130596",
+          "citacao_completa": "O. A. LIMA, IVANA ; de Arruda, Elcio ; RADATZ, PAULO ; ; . Análise dos impactos da variação diária e localização aleatória da geração distribuída no desequilíbrio e níveis de tensão. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021, Anais Eletrônicos. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Análise da Estabilidade Angular Transitória em um Sistema Teste com Alta Penetração de Geração Eólica",
+          "autores": "G. S. SANTOS, VITOR ; ; ; F. ARRUDA, ELCIO",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020, 2020.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2223",
+          "citacao_completa": "G. S. SANTOS, VITOR ; ; ; F. ARRUDA, ELCIO . Análise da Estabilidade Angular Transitória em um Sistema Teste com Alta Penetração de Geração Eólica. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Análise dos Efeitos da Alocação de Compensadores Estáticos na Resposta da Função de Proteção de Impedância de Linhas de Transmissão",
+          "autores": "SELEFE MENDES DA SILVEIRA, LUIZ ; ; FRANKLIN DE ARRUDA, ÉLCIO ; EUGÊNIO DE SOUZA FILHO, RONALDO",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020, 2020.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2268",
+          "citacao_completa": "SELEFE MENDES DA SILVEIRA, LUIZ ; ; FRANKLIN DE ARRUDA, ÉLCIO ; EUGÊNIO DE SOUZA FILHO, RONALDO . Análise dos Efeitos da Alocação de Compensadores Estáticos na Resposta da Função de Proteção de Impedância de Linhas de Transmissão. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Análise do Desempenho da Coordenação Entre a Proteção Contra Perda de Excitação e os Limitadores de Subexcitação e de Estabilidade em Regime Permanente",
+          "autores": "M. DA SILVEIRA, MATHEUS ; ; F. ARRUDA, ELCIO ;",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2272",
+          "citacao_completa": "M. DA SILVEIRA, MATHEUS ; ; F. ARRUDA, ELCIO ; . Análise do Desempenho da Coordenação Entre a Proteção Contra Perda de Excitação e os Limitadores de Subexcitação e de Estabilidade em Regime Permanente. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliação da alocação de unidades de geração distribuída contemplando o ajuste inteligente de equipamentos para otimização de parâmetros da operação do sistema",
+          "autores": "COSTA, G. H. S. ; TORQUATO, H. R. ; ARRUDA, E. F. ; ;",
+          "periodico": "In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica ( XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019.",
+          "doi": "",
+          "citacao_completa": "COSTA, G. H. S. ; TORQUATO, H. R. ; ARRUDA, E. F. ; ; . Avaliação da alocação de unidades de geração distribuída contemplando o ajuste inteligente de equipamentos para otimização de parâmetros da operação do sistema. In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica ( XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Otimização da Operação da Distribuição Utilizando Algoritmo Híbrido Inteligente para Alocação e Despacho de Reativo na Presença de Geração Distribuída",
+          "autores": "TORQUATO, H. R. ; COSTA, G. H. S. ; RAMOS, H. O. ; IZIDORO, S. C. ; ; ; ARRUDA, E. F.",
+          "periodico": "In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019.",
+          "doi": "",
+          "citacao_completa": "TORQUATO, H. R. ; COSTA, G. H. S. ; RAMOS, H. O. ; IZIDORO, S. C. ; ; ; ARRUDA, E. F. . Otimização da Operação da Distribuição Utilizando Algoritmo Híbrido Inteligente para Alocação e Despacho de Reativo na Presença de Geração Distribuída. In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise das Perdas a Vazio em um Transformador de Distribuição em Função da Variação da Frequência e Tensão com Conteúdo Harmônico",
+          "autores": "COSTA, G. H. S. ; SANTOS, V. G. S. ; ; ; ARRUDA, E. F.",
+          "periodico": "In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019.",
+          "doi": "",
+          "citacao_completa": "COSTA, G. H. S. ; SANTOS, V. G. S. ; ; ; ARRUDA, E. F. . Análise das Perdas a Vazio em um Transformador de Distribuição em Função da Variação da Frequência e Tensão com Conteúdo Harmônico. In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise Experimental de Fatores Preditivos e Normativos Quanto aos Efeitos dos Desequilíbrio de Tensão em Motores de Indução Trifásicos",
+          "autores": "GONTIJO, F. P. P. ; NEVES, F. C. ; SILVEIRA, L. S. M. ; ; ; ARRUDA, E. F.",
+          "periodico": "In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019.",
+          "doi": "",
+          "citacao_completa": "GONTIJO, F. P. P. ; NEVES, F. C. ; SILVEIRA, L. S. M. ; ; ; ARRUDA, E. F. . Análise Experimental de Fatores Preditivos e Normativos Quanto aos Efeitos dos Desequilíbrio de Tensão em Motores de Indução Trifásicos. In: XIII Conferência Brasileira sobre Qualidade da Energia Elétrica (XIII CBQEE), 2019, São Caetano do Sul (SP). Anais do XIII CBQEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "OS PROCESSOS DE ABERTURA DOS MERCADOS LIVRES DE ENERGIA ELÉTRICA NO CONTEXTO INTERNACIONAL",
+          "autores": "Soares Jr., W. ; Magalhães, L. R. ; ARRUDA, E. F.",
+          "periodico": "In: DÉCIMO OITAVO ENCONTRO REGIONAL IBERO-AMERICANO DO CIGRE, 2019, Foz do Iguaçu. Anais do XVIII ERIAC, 2019.",
+          "doi": "",
+          "citacao_completa": "Soares Jr., W. ; Magalhães, L. R. ; ARRUDA, E. F. . OS PROCESSOS DE ABERTURA DOS MERCADOS LIVRES DE ENERGIA ELÉTRICA NO CONTEXTO INTERNACIONAL. In: DÉCIMO OITAVO ENCONTRO REGIONAL IBERO-AMERICANO DO CIGRE, 2019, Foz do Iguaçu. Anais do XVIII ERIAC, 2019."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Mitigação das discrepâncias entre TUST e TUSD, visando à otimização do regime econômico e financeiro nos sistemas de transmissão e distribuição de energia elétrica",
+          "autores": "; Rafael Holanda Moura ; Jonatas Pulz ; Arruda, Elcio F. ; ; Denis Antonelli ; Machado, M. M. ; Neto, J. C.",
+          "periodico": "In: Seminário Nacional de Distribuição de Energia Elétrica, 2016, Curitiba. Anais do evento, 2016.",
+          "doi": "",
+          "citacao_completa": "; Rafael Holanda Moura ; Jonatas Pulz ; Arruda, Elcio F. ; ; Denis Antonelli ; Machado, M. M. ; Neto, J. C. . Mitigação das discrepâncias entre TUST e TUSD, visando à otimização do regime econômico e financeiro nos sistemas de transmissão e distribuição de energia elétrica. In: Seminário Nacional de Distribuição de Energia Elétrica, 2016, Curitiba. Anais do evento, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Concepção de Modelo para Cálculo de Demanda Ativa e Reativa Futura no Âmbito do Planejamento da Expansão de Sistemas de Energia Elétrica",
+          "autores": "MULLER, R. B. ; BARAN, L. B. T. ; COELHO, M. T. ; ROCHA, G. C. C. ; Arruda, Elcio F.",
+          "periodico": "In: Seminário Nacional de Distribuição de Energia Elétrica, 2016, Curitiba. Anais do evento, 2016.",
+          "doi": "",
+          "citacao_completa": "MULLER, R. B. ; BARAN, L. B. T. ; COELHO, M. T. ; ROCHA, G. C. C. ; Arruda, Elcio F. . Concepção de Modelo para Cálculo de Demanda Ativa e Reativa Futura no Âmbito do Planejamento da Expansão de Sistemas de Energia Elétrica. In: Seminário Nacional de Distribuição de Energia Elétrica, 2016, Curitiba. Anais do evento, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "DISAGGREGATED ACTIVE AND REACTIVE DEMAND FORECASTING USING FIRST DIFFERENCE MEASURED DATA AND NEURAL NETWORKS",
+          "autores": "Arruda, Elcio F. ; MULLER, R. B. ; Marcello Pek Di Salvo ; ROCHA, G. C. C. ; COELHO, M. T. ; BARAN, L. B. T.",
+          "periodico": "In: The 23rd International Conference and Exhibition on Electricity Distribution, 2015, Lyon. Anais da Conferência, 2015.",
+          "doi": "",
+          "citacao_completa": "Arruda, Elcio F. ; MULLER, R. B. ; Marcello Pek Di Salvo ; ROCHA, G. C. C. ; COELHO, M. T. ; BARAN, L. B. T. . DISAGGREGATED ACTIVE AND REACTIVE DEMAND FORECASTING USING FIRST DIFFERENCE MEASURED DATA AND NEURAL NETWORKS. In: The 23rd International Conference and Exhibition on Electricity Distribution, 2015, Lyon. Anais da Conferência, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "ROBUST METHOD TO EVALUATE COST-BENEFIT FROM PREVENTIVE MAINTENANCE ACTIONS USING HISTORICAL DATA AND AN OPTIMIZATION ALGORITHM",
+          "autores": "MULLER, R. B. ; Arruda, Elcio F. ; Lange, F. L. ; ; HOMMA, R. Z. ; DREHER, B. R. ; GUEMBAROVSKI, R. H.",
+          "periodico": "In: The 23rd International Conference and Exhibition on Electricity Distribution, 2015, Lyon. Anais da Conferência, 2015.",
+          "doi": "",
+          "citacao_completa": "MULLER, R. B. ; Arruda, Elcio F. ; Lange, F. L. ; ; HOMMA, R. Z. ; DREHER, B. R. ; GUEMBAROVSKI, R. H. . ROBUST METHOD TO EVALUATE COST-BENEFIT FROM PREVENTIVE MAINTENANCE ACTIONS USING HISTORICAL DATA AND AN OPTIMIZATION ALGORITHM. In: The 23rd International Conference and Exhibition on Electricity Distribution, 2015, Lyon. Anais da Conferência, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Mitigação das discrepâncias entre TUST e TUSD, visando à otimização do regime econômico e financeiro nos sistemas de transmissão e distribuição de energia elétrica",
+          "autores": "Arruda, Elcio F. ; ; Jonatas Pulz ; Denis Antonelli ; Machado, M. M. ; Rafael Holanda Moura",
+          "periodico": "In: CLAGTEE - Congresso Latino-Americano de Geração e Transmissão de Energia Elétrica, 2015, São José dos Campos. Anais do Congresso, 2015.",
+          "doi": "",
+          "citacao_completa": "Arruda, Elcio F. ; ; Jonatas Pulz ; Denis Antonelli ; Machado, M. M. ; Rafael Holanda Moura . Mitigação das discrepâncias entre TUST e TUSD, visando à otimização do regime econômico e financeiro nos sistemas de transmissão e distribuição de energia elétrica. In: CLAGTEE - Congresso Latino-Americano de Geração e Transmissão de Energia Elétrica, 2015, São José dos Campos. Anais do Congresso, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "ROBUST RELIABILITY EVALUATION AND IMPROVEMENT MODEL OF DISTRIBUTION NETWORKS BASED ON PREVENTIVE MAINTENANCE ACTIONS AND OPERATION ANALYSIS",
+          "autores": "ARRUDA, E. F. ; Maciel, A. ; ; HOMMA, R. Z. ; DREHER, B. R. ; GUEMBAROVSKI, R. H.",
+          "periodico": "In: Nordac, 2014, Estocolmo. Anais do Congresso, 2014.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; Maciel, A. ; ; HOMMA, R. Z. ; DREHER, B. R. ; GUEMBAROVSKI, R. H. . ROBUST RELIABILITY EVALUATION AND IMPROVEMENT MODEL OF DISTRIBUTION NETWORKS BASED ON PREVENTIVE MAINTENANCE ACTIONS AND OPERATION ANALYSIS. In: Nordac, 2014, Estocolmo. Anais do Congresso, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Technical And Econometric Active And Reactive Future Demand Disaggregated Forecasting And Optimizing Model For Power Systems Substations",
+          "autores": "ARRUDA, E. F. ; Marcello Pek Di Salvo ; ROCHA, G. C. C. ; COELHO, M. T. ; BARAN, L. B. T.",
+          "periodico": "In: Nordac, 2014, Estocolmo. Anais do Congresso, 2014.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; Marcello Pek Di Salvo ; ROCHA, G. C. C. ; COELHO, M. T. ; BARAN, L. B. T. . Technical And Econometric Active And Reactive Future Demand Disaggregated Forecasting And Optimizing Model For Power Systems Substations. In: Nordac, 2014, Estocolmo. Anais do Congresso, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Ferramenta de Apoio à Avaliação de Planos de Obras de Concessionárias de Distribuição de Energia Elétrica com Viés Regulatório",
+          "autores": "; ARRUDA, E. F. ; P. H. Baumann ; DIAS, E. B. ; VICENTINI, O. H. S. ; BENATTI, M. L.",
+          "periodico": "In: The 10th Latin-American Congress on Electricity Generation and Transmission - CLAGTEE, 2013, Viña Del Mar. The 10th Latin-American Congress on Electricity Generation and Transmission - CLAGTEE, 2013.",
+          "doi": "",
+          "citacao_completa": "; ARRUDA, E. F. ; P. H. Baumann ; DIAS, E. B. ; VICENTINI, O. H. S. ; BENATTI, M. L. . Ferramenta de Apoio à Avaliação de Planos de Obras de Concessionárias de Distribuição de Energia Elétrica com Viés Regulatório. In: The 10th Latin-American Congress on Electricity Generation and Transmission - CLAGTEE, 2013, Viña Del Mar. The 10th Latin-American Congress on Electricity Generation and Transmission - CLAGTEE, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "FERRAMENTA DE APOIO À AVALIAÇÃO DE PLANOS DE OBRAS NO CONTEXTO TÉCNICO FINANCEIRO E REGULATÓRIO",
+          "autores": "Otavio Henrique Salvi Vicentini ; ; ; Mario Luiz Benatti ; Evaldo Baldin Dias ; Rodrigo Tadashi Yamasaki ; ; Arruda, Elcio F.",
+          "periodico": "In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012.",
+          "doi": "",
+          "citacao_completa": "Otavio Henrique Salvi Vicentini ; ; ; Mario Luiz Benatti ; Evaldo Baldin Dias ; Rodrigo Tadashi Yamasaki ; ; Arruda, Elcio F. . FERRAMENTA DE APOIO À AVALIAÇÃO DE PLANOS DE OBRAS NO CONTEXTO TÉCNICO FINANCEIRO E REGULATÓRIO. In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "METODOLOGIA DE CRESCIMENTO HORIZONTAL ATRAVÉS DA ANÁLISE ESPACIAL DA CARGA COMO APOIO AO PLANEJAMENTO DA EXPANSÃO",
+          "autores": "Luiz Gonzaga Fernandez Silva ; CARVALHO, M. R. ; ; Arruda, Elcio F. ; Marcello Pek Di Salvo ; BARBOSA NETO, S. M.",
+          "periodico": "In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012.",
+          "doi": "",
+          "citacao_completa": "Luiz Gonzaga Fernandez Silva ; CARVALHO, M. R. ; ; Arruda, Elcio F. ; Marcello Pek Di Salvo ; BARBOSA NETO, S. M. . METODOLOGIA DE CRESCIMENTO HORIZONTAL ATRAVÉS DA ANÁLISE ESPACIAL DA CARGA COMO APOIO AO PLANEJAMENTO DA EXPANSÃO. In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Nova Metodologia para Proposição e Localização de Subestações com Análise Espacial do Comportamento da Carga",
+          "autores": "CARVALHO, M. R. ; Luiz Gonzaga Fernandez Silva ; BARBOSA NETO, S. M. ; ; Paulo Francisco Bruno Junior ; Arruda, Elcio F.",
+          "periodico": "In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, M. R. ; Luiz Gonzaga Fernandez Silva ; BARBOSA NETO, S. M. ; ; Paulo Francisco Bruno Junior ; Arruda, Elcio F. . Nova Metodologia para Proposição e Localização de Subestações com Análise Espacial do Comportamento da Carga. In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. XX Seminário Nacional de Distribuição de Energia Elétrica, 2012."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Efeito da Configuração dos Parâmetros em Estratégias Evolutivas na Estimação Harmônica",
+          "autores": "ARRUDA, E. F. ;",
+          "periodico": "In: VII Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2007, Santos. Anais do Congresso, 2007.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; . Efeito da Configuração dos Parâmetros em Estratégias Evolutivas na Estimação Harmônica. In: VII Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2007, Santos. Anais do Congresso, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Estimação de Distorção Harmônica Total Utilizando Estratégias Evolutivas",
+          "autores": "ARRUDA, E. F. ;",
+          "periodico": "In: VII Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2007, Santos. Anais do Congresso, 2007.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; . Estimação de Distorção Harmônica Total Utilizando Estratégias Evolutivas. In: VII Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2007, Santos. Anais do Congresso, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Harmonic Estimation Using Evolutionary Algorithms",
+          "autores": "; ARRUDA, E. F.",
+          "periodico": "In: 12º International Conference on Harmonics and Quality of Power, 2006, Cascais. Anais do Congresso, 2006.",
+          "doi": "",
+          "citacao_completa": "; ARRUDA, E. F. . Harmonic Estimation Using Evolutionary Algorithms. In: 12º International Conference on Harmonics and Quality of Power, 2006, Cascais. Anais do Congresso, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Power Quality Analysis With The Discrete Windowed Fourier Transform And Discrete Wavelet Transform",
+          "autores": "; ; ARRUDA, E. F. ; ; ; CARNEIRO, Adriano A M F",
+          "periodico": "In: 12º International Conference on Harmonics and Quality of Power (ICHQP-2006), 2006, Cascais. Anais do Congresso, 2006.",
+          "doi": "",
+          "citacao_completa": "; ; ARRUDA, E. F. ; ; ; CARNEIRO, Adriano A M F . Power Quality Analysis With The Discrete Windowed Fourier Transform And Discrete Wavelet Transform. In: 12º International Conference on Harmonics and Quality of Power (ICHQP-2006), 2006, Cascais. Anais do Congresso, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Análise da Assinatura Magnética Resultante de Faltas em Sistemas Elétricos via Wavelets",
+          "autores": "Pelegrina, M. G. ; ; Sevegnani, F. X. ; ARRUDA, E. F.",
+          "periodico": "In: 12 SBMO - Simposio Brasileiro de Microondas e Optoeletronica e 7 CBMAG - Congresso Brasileiro de Eletromagnetismo (MOMAG 2006), 2006, Belo Horizonte. Anais do Congresso, 2006.",
+          "doi": "",
+          "citacao_completa": "Pelegrina, M. G. ; ; Sevegnani, F. X. ; ARRUDA, E. F. . Análise da Assinatura Magnética Resultante de Faltas em Sistemas Elétricos via Wavelets. In: 12 SBMO - Simposio Brasileiro de Microondas e Optoeletronica e 7 CBMAG - Congresso Brasileiro de Eletromagnetismo (MOMAG 2006), 2006, Belo Horizonte. Anais do Congresso, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Estimação Harmônica Utilizando Algoritmos Evolutivos",
+          "autores": "ARRUDA, E. F. ;",
+          "periodico": "In: X SEPOPE - Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2006, Florianópolis. Anais do Congresso, 2006.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; . Estimação Harmônica Utilizando Algoritmos Evolutivos. In: X SEPOPE - Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2006, Florianópolis. Anais do Congresso, 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Programa Computacional para Avaliação de Harmônicos e Desequilíbrios em Sistemas de Potência",
+          "autores": "; SCHIMIDT, H. P. ; S X Duarte ; MATSUO, N. M. ; FERRARI, E. L. ; Arruda, Elcio F.",
+          "periodico": "In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2005, Belém. Anais do evento, 2005.",
+          "doi": "",
+          "citacao_completa": "; SCHIMIDT, H. P. ; S X Duarte ; MATSUO, N. M. ; FERRARI, E. L. ; Arruda, Elcio F. . Programa Computacional para Avaliação de Harmônicos e Desequilíbrios em Sistemas de Potência. In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2005, Belém. Anais do evento, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Metodologia para a Gestão de Indicadores de Qualidade de Energia Elétrica",
+          "autores": "; S X Duarte ; MATSUO, N. M. ; FERRARI, E. L. ; ; L M C e Silva ; Arruda, Elcio F.",
+          "periodico": "In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2005, Belém. Anais do evento, 2005.",
+          "doi": "",
+          "citacao_completa": "; S X Duarte ; MATSUO, N. M. ; FERRARI, E. L. ; ; L M C e Silva ; Arruda, Elcio F. . Metodologia para a Gestão de Indicadores de Qualidade de Energia Elétrica. In: VI SBQEE - Seminário Brasileiro sobre Qualidade de Energia Elétrica, 2005, Belém. Anais do evento, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Técnicas de Localização e Classificação de Distúrbios Relacionados à Qualidade da Energia Utilizando Transformadas Wavelet",
+          "autores": "; ; ARRUDA, E. F. ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2004, Gramado. Anais do Congresso, 2004.",
+          "doi": "",
+          "citacao_completa": "; ; ARRUDA, E. F. ; . Técnicas de Localização e Classificação de Distúrbios Relacionados à Qualidade da Energia Utilizando Transformadas Wavelet. In: Congresso Brasileiro de Automática, 2004, Gramado. Anais do Congresso, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Um Algoritmo Alternativo para Análise da Qualidade da Energia",
+          "autores": "; ; ; ; ARRUDA, E. F. ; CARNEIRO, Adriano A M F",
+          "periodico": "In: Transmission and Distribution IEEE/PES/T&D Latin America, 2004, São Paulo. Anais do congresso, 2004.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ARRUDA, E. F. ; CARNEIRO, Adriano A M F . Um Algoritmo Alternativo para Análise da Qualidade da Energia. In: Transmission and Distribution IEEE/PES/T&D Latin America, 2004, São Paulo. Anais do congresso, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Utilização da Transformada Wavelet para a Caracterização de Distúrbios da Qualidade da Energia Elétrica",
+          "autores": "; ; ARRUDA, E. F. ;",
+          "periodico": "In: Seminário Brasileiro de Qualidade da Energia Elétrica (SBQEE), 2003, Aracajú. Anais do Congresso, 2003.",
+          "doi": "",
+          "citacao_completa": "; ; ARRUDA, E. F. ; . Utilização da Transformada Wavelet para a Caracterização de Distúrbios da Qualidade da Energia Elétrica. In: Seminário Brasileiro de Qualidade da Energia Elétrica (SBQEE), 2003, Aracajú. Anais do Congresso, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Análise da Qualidade da Energia Utilizando Transformadas Wavelets Combinadas às Redes Neurais Artificiais",
+          "autores": "ARRUDA, E. F. ; ; ;",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2003, Uberlândia. Anais do congresso, 2003.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; ; ; . Análise da Qualidade da Energia Utilizando Transformadas Wavelets Combinadas às Redes Neurais Artificiais. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2003, Uberlândia. Anais do congresso, 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Um Estudo das Famílias Wavelets Aplicadas à Qualidade da Energia Elétrica",
+          "autores": "ARRUDA, E. F. ; ; ; CARNEIRO, Adriano A M F",
+          "periodico": "In: XIV Congresso Brasileiro de Automática (XIV CBA), 2002, Natal. XIV Congresso Brasileiro de Automática, 2002.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; ; ; CARNEIRO, Adriano A M F . Um Estudo das Famílias Wavelets Aplicadas à Qualidade da Energia Elétrica. In: XIV Congresso Brasileiro de Automática (XIV CBA), 2002, Natal. XIV Congresso Brasileiro de Automática, 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Transitórios Devido ao Restabelecimento de Alimentadores num Sistema Elétrico de Distribuição com bancos de Capacitores Fixos Instalados em Derivação",
+          "autores": "Santos, C. J. dos ; ; ; ARRUDA, E. F.",
+          "periodico": "In: XV Seminário Nacional de Distribuição de Energia Elétrica - SENDI, 2002, Salvador. Anais do Congresso, 2002.",
+          "doi": "",
+          "citacao_completa": "Santos, C. J. dos ; ; ; ARRUDA, E. F. . Transitórios Devido ao Restabelecimento de Alimentadores num Sistema Elétrico de Distribuição com bancos de Capacitores Fixos Instalados em Derivação. In: XV Seminário Nacional de Distribuição de Energia Elétrica - SENDI, 2002, Salvador. Anais do Congresso, 2002."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "O PROBLEMA DO RISCO HIDROLÓGICO NO SETOR ELÉTRICO BRASILEIRO",
+          "autores": "SILVA, R. J. N. ; CUNHA FILHO, C. R. ; Magalhães, L. R. ; Soares Jr., W. ; ARRUDA, E. F.",
+          "periodico": "In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019.",
+          "doi": "",
+          "citacao_completa": "SILVA, R. J. N. ; CUNHA FILHO, C. R. ; Magalhães, L. R. ; Soares Jr., W. ; ARRUDA, E. F. . O PROBLEMA DO RISCO HIDROLÓGICO NO SETOR ELÉTRICO BRASILEIRO. In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estudo dos Impactos das Mudanças Climáticas no Setor Elétrico",
+          "autores": "CUNHA FILHO, C. R. ; Soares Jr., W. ; Magalhães, L. R. ; SILVA, R. J. N. ; ARRUDA, E. F.",
+          "periodico": "In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019.",
+          "doi": "",
+          "citacao_completa": "CUNHA FILHO, C. R. ; Soares Jr., W. ; Magalhães, L. R. ; SILVA, R. J. N. ; ARRUDA, E. F. . Estudo dos Impactos das Mudanças Climáticas no Setor Elétrico. In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Formação do Preço da Energia Elétrica no Mercado Brasileiro",
+          "autores": "Soares Jr., W. ; Magalhães, L. R. ; CUNHA FILHO, C. R. ; SILVA, R. J. N. ; ARRUDA, E. F.",
+          "periodico": "In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019.",
+          "doi": "",
+          "citacao_completa": "Soares Jr., W. ; Magalhães, L. R. ; CUNHA FILHO, C. R. ; SILVA, R. J. N. ; ARRUDA, E. F. . A Formação do Preço da Energia Elétrica no Mercado Brasileiro. In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise da Contribuição de Geradores Distribuídos para Faltas em um Sistema Elétrico de 13 Barras Modelado no OpenDSS",
+          "autores": "SOUZA, D. A. ; ARRUDA, E. F.",
+          "periodico": "In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019.",
+          "doi": "",
+          "citacao_completa": "SOUZA, D. A. ; ARRUDA, E. F. . Análise da Contribuição de Geradores Distribuídos para Faltas em um Sistema Elétrico de 13 Barras Modelado no OpenDSS. In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "ANÁLISE DO IMPACTO DA INSERÇÃO DESCENTRALIZADA DE GERAÇÃO DISTRIBUÍDA UTILIZANDO O SOFTWARE OPENDSS",
+          "autores": "TORQUATO, H. R. ; ARRUDA, E. F.",
+          "periodico": "In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019.",
+          "doi": "",
+          "citacao_completa": "TORQUATO, H. R. ; ARRUDA, E. F. . ANÁLISE DO IMPACTO DA INSERÇÃO DESCENTRALIZADA DE GERAÇÃO DISTRIBUÍDA UTILIZANDO O SOFTWARE OPENDSS. In: IV Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2019, Itabira. Anais do CPEE, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A INÉRCIA DOS CONSUMIDORES NO MERCADO LIVRE DE ENERGIA ELÉTRICA NO CENÁRIO INTERNACIONAL",
+          "autores": "Soares Jr., W. ; Magalhães, L. R. ; ARRUDA, E. F.",
+          "periodico": "In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018, Itabira. Anais do CPEE, 2018.",
+          "doi": "",
+          "citacao_completa": "Soares Jr., W. ; Magalhães, L. R. ; ARRUDA, E. F. . A INÉRCIA DOS CONSUMIDORES NO MERCADO LIVRE DE ENERGIA ELÉTRICA NO CENÁRIO INTERNACIONAL. In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018, Itabira. Anais do CPEE, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "REGULAÇÃO BRASILEIRA E REDES ELÉTRICAS INTELIGENTES",
+          "autores": "Magalhães, L. R. ; Soares Jr., W. ; ARRUDA, E. F.",
+          "periodico": "In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018. Anais do CPEE, 2018.",
+          "doi": "",
+          "citacao_completa": "Magalhães, L. R. ; Soares Jr., W. ; ARRUDA, E. F. . REGULAÇÃO BRASILEIRA E REDES ELÉTRICAS INTELIGENTES. In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018. Anais do CPEE, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "AVALIAÇÃO, EM ÂMBITO INTERNACIONAL, DAS DISCREPÂNCIAS ENTRE AS TARIFAS DE USO DOS SISTEMAS DE TRANSMISSÃO E DISTRIBUIÇÃO E O IMPACTO ECONÔMICO E FINANCEIRO NOS SISTEMAS ELÉTRICOS",
+          "autores": "Gama, Suelen R. ; ARRUDA, E. F.",
+          "periodico": "In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018, Itabira. Anais do CPEE, 2018.",
+          "doi": "",
+          "citacao_completa": "Gama, Suelen R. ; ARRUDA, E. F. . AVALIAÇÃO, EM ÂMBITO INTERNACIONAL, DAS DISCREPÂNCIAS ENTRE AS TARIFAS DE USO DOS SISTEMAS DE TRANSMISSÃO E DISTRIBUIÇÃO E O IMPACTO ECONÔMICO E FINANCEIRO NOS SISTEMAS ELÉTRICOS. In: III Congresso de Pesquisa, Extensão e Ensino da Unifei Itabira, 2018, Itabira. Anais do CPEE, 2018."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Nova Filosofia em Sistemas Operacionais: Migração para o Sistema Linux",
+          "autores": "ARRUDA, E. F. ; GOMES, F. J.",
+          "periodico": "In: 7º Seminário de Iniciação Científica UFJF, 2000, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 2000. p. 244-244.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; GOMES, F. J. . Nova Filosofia em Sistemas Operacionais: Migração para o Sistema Linux. In: 7º Seminário de Iniciação Científica UFJF, 2000, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 2000. p. 244-244."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Relé Numérico Multifunção",
+          "autores": "ARRUDA, E. F. ; BARROS, L. O. ; SOARES, M. M. D. ; SILVA, H. A.",
+          "periodico": "In: 7º Seminário de Iniciação Científica UFJF, 2000, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 2000. p. 245-245.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; BARROS, L. O. ; SOARES, M. M. D. ; SILVA, H. A. . Relé Numérico Multifunção. In: 7º Seminário de Iniciação Científica UFJF, 2000, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 2000. p. 245-245."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Utilização de um controlador lógico programável para comandos lógicos de intertravamento",
+          "autores": "ARRUDA, E. F. ; OLIVEIRA, C. A. ; GOMES, F. J.",
+          "periodico": "In: 6º Seminário de Iniciação Científica UFJF, 1999, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 1999. p. 224.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; OLIVEIRA, C. A. ; GOMES, F. J. . Utilização de um controlador lógico programável para comandos lógicos de intertravamento. In: 6º Seminário de Iniciação Científica UFJF, 1999, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 1999. p. 224."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Universidade Virtual",
+          "autores": "ARRUDA, E. F. ; GOMES, F. J.",
+          "periodico": "In: 5º Seminário de Iniciação Científica UFJF, 1997, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 1997. p. 153-153.",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. ; GOMES, F. J. . Universidade Virtual. In: 5º Seminário de Iniciação Científica UFJF, 1997, Juiz de Fora. Livro de Resumos. Juiz de Fora: Editora/Periódico, 1997. p. 153-153."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Tarifa de Uso do Sistema de Transmissão",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2014. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . Tarifa de Uso do Sistema de Transmissão. 2014. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "As ciências envolvidas na fabricação de geradores hidrelétricos.",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2009. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . As ciências envolvidas na fabricação de geradores hidrelétricos.. 2009. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Produtos Alstom - Geradores para PCHs, GCHs e Bulbos",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2008. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . Produtos Alstom - Geradores para PCHs, GCHs e Bulbos. 2008. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Produtos Alstom - Geradores para PCHs, GCHs e Bulbos",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2008. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . Produtos Alstom - Geradores para PCHs, GCHs e Bulbos. 2008. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Produtos Alstom - Geradores para PCHs, GCHs e Bulbos",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2008. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . Produtos Alstom - Geradores para PCHs, GCHs e Bulbos. 2008. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Produtos Alstom - Geradores para PCHs, GCHs e Bulbos",
+          "autores": "ARRUDA, E. F.",
+          "periodico": "2008. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "ARRUDA, E. F. . Produtos Alstom - Geradores para PCHs, GCHs e Bulbos. 2008. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Investigação da frequência de ressonância com compensação reativa através da análise da qualidade da energia elétrica em instalações elétricas hospitalares com equipamentos radiológicos",
+          "membros": "; ARRUDA, E. F. ; ROSA, L. H. L.",
+          "candidato": "João Cardoso das Neves Neto",
+          "citacao_completa": "; ARRUDA, E. F. ; ROSA, L. H. L.. Participação em banca de João Cardoso das Neves Neto. Investigação da frequência de ressonância com compensação reativa através da análise da qualidade da energia elétrica em instalações elétricas hospitalares com equipamentos radiológicos. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Alocação inteligente de geração fotovoltaica em redes elétricas de distribuição para redução de perdas financeiras em consumidores industriais sensíveis a afundamentos de tensão",
+          "membros": "J C C Amasifen; ARRUDA, E. F. ; ARIOLI, F. C. T.",
+          "candidato": "Jairo Giacomini Junior",
+          "citacao_completa": "J C C Amasifen; ARRUDA, E. F. ; ARIOLI, F. C. T.. Participação em banca de Jairo Giacomini Junior. Alocação inteligente de geração fotovoltaica em redes elétricas de distribuição para redução de perdas financeiras em consumidores industriais sensíveis a afundamentos de tensão. 2020. Dissertação (Mestrado em Engenharia de Produção) - Universidade Estadual Paulista."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A Robustez de um Sistema de Distribuição e a Alocação de Medidores de Qualidade da Energia Elétrica Frente aos Afundamentos de Tensão",
+          "membros": "; ; Vieira Jr, J. C. de M.",
+          "candidato": "Thais Reggina Kempner",
+          "citacao_completa": "; ; Vieira Jr, J. C. de M.. Participação em banca de Thais Reggina Kempner. A Robustez de um Sistema de Distribuição e a Alocação de Medidores de Qualidade da Energia Elétrica Frente aos Afundamentos de Tensão. 2012. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Avaliação da Qualidade da Energia em Consumidores Industriais: simulação computacional em cenários de redes elétricas inteligentes e Indústria 4.0",
+          "membros": "J C C Amasifen; MARAFAO, F. P.; ARRUDA, E. F.",
+          "candidato": "Jairo Giacomini Junior",
+          "citacao_completa": "J C C Amasifen; MARAFAO, F. P.; ARRUDA, E. F. . Participação em banca de Jairo Giacomini Junior. Avaliação da Qualidade da Energia em Consumidores Industriais: simulação computacional em cenários de redes elétricas inteligentes e Indústria 4.0. 2020. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Estadual Paulista."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": ".Desempenho de linhas de transmissão frente a descargas atmosféricas: cálculo do número de desligamentos utilizando o método de monte carlo",
+          "membros": "DE SOUZA FILHO, RONALDO EUGÊNIO; ; ARRUDA, E. F.",
+          "candidato": "Bruno Lacerda Costa da Rocha",
+          "citacao_completa": "DE SOUZA FILHO, RONALDO EUGÊNIO; ; ARRUDA, E. F. . Participação em banca de Bruno Lacerda Costa da Rocha.Desempenho de linhas de transmissão frente a descargas atmosféricas: cálculo do número de desligamentos utilizando o método de monte carlo. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Estudo sobre os efeitos da inserção de SVC e TCSC na estabilidade angular transitória e na proteção contra perda de excitação de máquinas síncronas",
+          "membros": "; ARRUDA, E. F. ; LOPES, G. P.",
+          "candidato": "João Pedro Gomes da Silva Filho",
+          "citacao_completa": "; ARRUDA, E. F. ; LOPES, G. P.. Participação em banca de João Pedro Gomes da Silva Filho.Estudo sobre os efeitos da inserção de SVC e TCSC na estabilidade angular transitória e na proteção contra perda de excitação de máquinas síncronas. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise de impacto da otimização de taps, via algoritmo genético, em transformadores de distribuição simulados em alimentador real diante alocação de geração distribuída",
+          "membros": "de Almeida, J. E. L.; ARRUDA, E. F. ; Denis Antonelli",
+          "candidato": "Elizeu Alves de Oliveira Junior",
+          "citacao_completa": "de Almeida, J. E. L.; ARRUDA, E. F. ; Denis Antonelli. Participação em banca de Elizeu Alves de Oliveira Junior.Análise de impacto da otimização de taps, via algoritmo genético, em transformadores de distribuição simulados em alimentador real diante alocação de geração distribuída. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise da metodologia de cálculo da energia incidente em subestações: um estudo de caso para o adequado dimensionamento de equipamentos individuais de proteção",
+          "membros": "; ARRUDA, E. F. ; de Almeida, J. E. L.",
+          "candidato": "Thainara Pereira",
+          "citacao_completa": "; ARRUDA, E. F. ; de Almeida, J. E. L.. Participação em banca de Thainara Pereira.Análise da metodologia de cálculo da energia incidente em subestações: um estudo de caso para o adequado dimensionamento de equipamentos individuais de proteção. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Compensação de desequilíbrio de corrente utilizando-se de geradores distribuídos e efeitos na proteção de motores de indução trifásicos",
+          "membros": "; ARRUDA, E. F. ;",
+          "candidato": "Pablo Augusto Ferreira Flavio",
+          "citacao_completa": "; ARRUDA, E. F. ; . Participação em banca de Pablo Augusto Ferreira Flavio.Compensação de desequilíbrio de corrente utilizando-se de geradores distribuídos e efeitos na proteção de motores de indução trifásicos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Implementação de um relé virtual de proteção diferencial de transformadores para avaliação de cenários de curtos-circuitos, inrush e saturação de tcs",
+          "membros": "; ARRUDA, E. F. ; de Almeida, J. E. L.",
+          "candidato": "Ramon Julio Nonato Silva",
+          "citacao_completa": "; ARRUDA, E. F. ; de Almeida, J. E. L.. Participação em banca de Ramon Julio Nonato Silva.Implementação de um relé virtual de proteção diferencial de transformadores para avaliação de cenários de curtos-circuitos, inrush e saturação de tcs. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise dos métodos de proteção anti-ilhamento em sistemas com múltiplos geradores distribuídos",
+          "membros": "; ARRUDA, E. F. ; de Almeida, J. E. L.",
+          "candidato": "Maria Eduarda Leão Ramos Vicente Ribeiro",
+          "citacao_completa": "; ARRUDA, E. F. ; de Almeida, J. E. L.. Participação em banca de Maria Eduarda Leão Ramos Vicente Ribeiro.Análise dos métodos de proteção anti-ilhamento em sistemas com múltiplos geradores distribuídos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Análise da estabilidade angular de geradores síncronos frente a inserção de parques eólicos",
+          "membros": "; ARRUDA, E. F. ; MATOS, F. F. V.",
+          "candidato": "Davi Moreira Silva",
+          "citacao_completa": "; ARRUDA, E. F. ; MATOS, F. F. V.. Participação em banca de Davi Moreira Silva.Análise da estabilidade angular de geradores síncronos frente a inserção de parques eólicos. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".influência da inserção do dispositivo STATCOM na aplicação da proteção contra perda de excitação de geradores síncronos: uma contribuição utilizando a lógica fuzzy",
+          "membros": "; ARRUDA, E. F. ; BARACHO, F. R. A. C.;",
+          "candidato": "Victor Miguel Paiva Dutra",
+          "citacao_completa": "; ARRUDA, E. F. ; BARACHO, F. R. A. C.; . Participação em banca de Victor Miguel Paiva Dutra.influência da inserção do dispositivo STATCOM na aplicação da proteção contra perda de excitação de geradores síncronos: uma contribuição utilizando a lógica fuzzy. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Estudo comparativo dos efeitos das compensações série e paralelo na proteção de distância de linhas de transmissão",
+          "membros": "; ARRUDA, E. F. ; BARACHO, F. R. A. C.;",
+          "candidato": "Raphael Francischeto Oliveira",
+          "citacao_completa": "; ARRUDA, E. F. ; BARACHO, F. R. A. C.; . Participação em banca de Raphael Francischeto Oliveira.Estudo comparativo dos efeitos das compensações série e paralelo na proteção de distância de linhas de transmissão. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise da Estabilidade Angular em um Sistema Elétrico de Potência com a Insersão de Geração Eólica",
+          "membros": "; ; ARRUDA, E. F.",
+          "candidato": "Vitor Gabriel Soares Santos",
+          "citacao_completa": "; ; ARRUDA, E. F. . Participação em banca de Vitor Gabriel Soares Santos.Análise da Estabilidade Angular em um Sistema Elétrico de Potência com a Insersão de Geração Eólica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise dos efeitos da alocação de compensadores estáticos nas respostas das funções de proteção de impedância de linhas de transmissão e máquinas síncronas",
+          "membros": "; ARRUDA, E. F. ; DE SOUZA FILHO, RONALDO EUGÊNIO",
+          "candidato": "Luiz Selefe Mendes da Silveira",
+          "citacao_completa": "; ARRUDA, E. F. ; DE SOUZA FILHO, RONALDO EUGÊNIO. Participação em banca de Luiz Selefe Mendes da Silveira.Análise dos efeitos da alocação de compensadores estáticos nas respostas das funções de proteção de impedância de linhas de transmissão e máquinas síncronas. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Desempenho de linhas de transmissão frente a descargas atmosféricas: cálculo do número de desligamentos utilizando o método de monte carlo",
+          "membros": "DE SOUZA FILHO, RONALDO EUGÊNIO; ; ARRUDA, E. F.",
+          "candidato": "Bruno Lacerda Costa da Rocha",
+          "citacao_completa": "DE SOUZA FILHO, RONALDO EUGÊNIO; ; ARRUDA, E. F. . Participação em banca de Bruno Lacerda Costa da Rocha.Desempenho de linhas de transmissão frente a descargas atmosféricas: cálculo do número de desligamentos utilizando o método de monte carlo. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise do desempenho da coordenação dinâmica entre a proteção contra perda de excitação e os limitadores de subexcitação e de estabilidade em regime permanente",
+          "membros": "; ARRUDA, E. F. ;",
+          "candidato": "Matheus Muniz da Silveira",
+          "citacao_completa": "; ARRUDA, E. F. ; . Participação em banca de Matheus Muniz da Silveira.Análise do desempenho da coordenação dinâmica entre a proteção contra perda de excitação e os limitadores de subexcitação e de estabilidade em regime permanente. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Modernização das usinas hidrelétricas e seus impactos da estabilidade angular transitória do sistema equivalente sul",
+          "membros": "; ; ARRUDA, E. F.",
+          "candidato": "Bruno Raffael Almeida Ávila",
+          "citacao_completa": "; ; ARRUDA, E. F. . Participação em banca de Bruno Raffael Almeida Ávila.Modernização das usinas hidrelétricas e seus impactos da estabilidade angular transitória do sistema equivalente sul. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise da estabilidade angular transitória de um sistema 33 barras com compensação série de linha de transmissão",
+          "membros": "; ; ARRUDA, E. F.",
+          "candidato": "Bárbara Fernandes Caldeira",
+          "citacao_completa": "; ; ARRUDA, E. F. . Participação em banca de Bárbara Fernandes Caldeira.Análise da estabilidade angular transitória de um sistema 33 barras com compensação série de linha de transmissão. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudo da viabilidade de migração de um consumidor do mercado cativo para o mercado livre de energia",
+          "membros": "de Almeida, J. E. L.; ARRUDA, E. F. ;",
+          "candidato": "Gabriel da Silva Medeiros",
+          "citacao_completa": "de Almeida, J. E. L.; ARRUDA, E. F. ; . Participação em banca de Gabriel da Silva Medeiros.Estudo da viabilidade de migração de um consumidor do mercado cativo para o mercado livre de energia. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Energia eólica: análise das políticas de incentivo do brasil e da Alemanha",
+          "membros": "de Almeida, J. E. L.; ARRUDA, E. F. ;",
+          "candidato": "Crislene Lisboa Rodrigues",
+          "citacao_completa": "de Almeida, J. E. L.; ARRUDA, E. F. ; . Participação em banca de Crislene Lisboa Rodrigues.Energia eólica: análise das políticas de incentivo do brasil e da Alemanha. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise do impacto em perdas elétricas, devido a alteração de TAPs de transformadores de distribuição para ajustes de tensão em redes de distribuição secundárias",
+          "membros": "de Almeida, J. E. L.; ARRUDA, E. F. ;",
+          "candidato": "Fabio Matheus Cardoso",
+          "citacao_completa": "de Almeida, J. E. L.; ARRUDA, E. F. ; . Participação em banca de Fabio Matheus Cardoso.Análise do impacto em perdas elétricas, devido a alteração de TAPs de transformadores de distribuição para ajustes de tensão em redes de distribuição secundárias. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Metodologia para Detecção de Inversão de Polaridade em TCs de Neutro Utilizando a Corrente de Inrush",
+          "membros": "; ; ARRUDA, E. F.",
+          "candidato": "Josylaine Elinária Gonçalves",
+          "citacao_completa": "; ; ARRUDA, E. F. . Participação em banca de Josylaine Elinária Gonçalves.Metodologia para Detecção de Inversão de Polaridade em TCs de Neutro Utilizando a Corrente de Inrush. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Uso de simulação computacional para avaliação dos efeitos da compensação série na proteção de linhas de transmissão",
+          "membros": "GUERRA, A. O.; FALEIROS, M. H.; ; ; ARAUJO, M. R.",
+          "candidato": "Anderson Ortiz Guerra e Marciel Heitor Guerra",
+          "citacao_completa": "GUERRA, A. O.; FALEIROS, M. H.; ; ; ARAUJO, M. R.. Participação em banca de Anderson Ortiz Guerra e Marciel Heitor Guerra.Uso de simulação computacional para avaliação dos efeitos da compensação série na proteção de linhas de transmissão. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estudo da viabilidade de migração de um consumidor para mercado livre de energia e de seu enquadramento tarifário horo sazonal",
+          "membros": "ANDRADE, I. D.; de Almeida, J. E. L.;",
+          "candidato": "Ingred Deiró Andrade",
+          "citacao_completa": "ANDRADE, I. D.; de Almeida, J. E. L.; . Participação em banca de Ingred Deiró Andrade.Estudo da viabilidade de migração de um consumidor para mercado livre de energia e de seu enquadramento tarifário horo sazonal. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Análise da estabilidade angular transitória em um sistema teste brasileiro de 33 barras",
+          "membros": "; ; ARAUJO, M. R.",
+          "candidato": "Patrícia Duarte de Faria",
+          "citacao_completa": "; ; ARAUJO, M. R.. Participação em banca de Patrícia Duarte de Faria.Análise da estabilidade angular transitória em um sistema teste brasileiro de 33 barras. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Avaliação da atuação da proteção de distância em linhas de transmissão e seu impacto na estabilidade angular do sistema",
+          "membros": "; ;",
+          "candidato": "Bruno Veloso Barbosa Araújo",
+          "citacao_completa": "; ; . Participação em banca de Bruno Veloso Barbosa Araújo.Avaliação da atuação da proteção de distância em linhas de transmissão e seu impacto na estabilidade angular do sistema. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estudo da Viabilidade da Migração de Uma Unidade Consumidora do Ambiente de Contratação Regulado Para o Ambiente de Contratação Livre",
+          "membros": "PEREIRA, D. M.; NASCIMENTO, G. G. R.; ; de Almeida, J. E. L.;",
+          "candidato": "Diego Marcel Pereira e Gabriel Guimarães Rosa Nascimento",
+          "citacao_completa": "PEREIRA, D. M.; NASCIMENTO, G. G. R.; ; de Almeida, J. E. L.; . Participação em banca de Diego Marcel Pereira e Gabriel Guimarães Rosa Nascimento.Estudo da Viabilidade da Migração de Uma Unidade Consumidora do Ambiente de Contratação Regulado Para o Ambiente de Contratação Livre. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".IMPACTOS ECONÔMICOS E AMBIENTAIS DO PBE/INMETRO SOBRE A IMPLANTAÇÃO DE SISTEMAS FOTOVOLTAICOS CONVENCIONAIS CONECTADOS À REDE NAS RESIDÊNCIAS DO ESTADO DE MINAS GERAIS",
+          "membros": "OLIVEIRA, A. C.; CARDOSO, R. B.;",
+          "candidato": "Amanda Costa de Oliveira",
+          "citacao_completa": "OLIVEIRA, A. C.; CARDOSO, R. B.; . Participação em banca de Amanda Costa de Oliveira.IMPACTOS ECONÔMICOS E AMBIENTAIS DO PBE/INMETRO SOBRE A IMPLANTAÇÃO DE SISTEMAS FOTOVOLTAICOS CONVENCIONAIS CONECTADOS À REDE NAS RESIDÊNCIAS DO ESTADO DE MINAS GERAIS. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Ambiental) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise das sobretensões transitórias de manobra em uma linha de transmissão de 500 kv pertencente ao sistema interligado nacional",
+          "membros": "AZEVEDO, L. C.; ; LOPES, G. P.;",
+          "candidato": "Laís Cintra Azevedo",
+          "citacao_completa": "AZEVEDO, L. C.; ; LOPES, G. P.; . Participação em banca de Laís Cintra Azevedo.Análise das sobretensões transitórias de manobra em uma linha de transmissão de 500 kv pertencente ao sistema interligado nacional. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estudo de fluxo de potência e análise de contingências em um sistema teste brasileiro de 16 barras",
+          "membros": "RIBEIRO, M. M.; SOUZA, P. G.; ;",
+          "candidato": "Matheus Mendes Ribeiro e Paulo Gabriel de Souza",
+          "citacao_completa": "RIBEIRO, M. M.; SOUZA, P. G.; ; . Participação em banca de Matheus Mendes Ribeiro e Paulo Gabriel de Souza.Estudo de fluxo de potência e análise de contingências em um sistema teste brasileiro de 16 barras. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Análise do custo da não adoção do racionamento elétrico nos anos de 2014-2015",
+          "membros": "Vieira, R.; Silva, W. W. A. G.;",
+          "candidato": "Robert Vieira",
+          "citacao_completa": "Vieira, R.; Silva, W. W. A. G.; . Participação em banca de Robert Vieira.Análise do custo da não adoção do racionamento elétrico nos anos de 2014-2015. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Estudo da viabilidade da instalação de um sistema fotovoltaico On-Grid no prédio Nikola Tesla da Unifei de Itabira",
+          "membros": "Kogawa, P. H.; de Almeida, J. E. L.;",
+          "candidato": "Pedro Henrique Ribeiro Kogawa",
+          "citacao_completa": "Kogawa, P. H.; de Almeida, J. E. L.; . Participação em banca de Pedro Henrique Ribeiro Kogawa.Estudo da viabilidade da instalação de um sistema fotovoltaico On-Grid no prédio Nikola Tesla da Unifei de Itabira. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Itajubá."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "ARRUDA, E. F. . Concurso Público para Professor de Magistério Superior na área de \"Redes de Transmissão, Distribuição de",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "ARRUDA, E. F. . Concurso Público para Professor de Magistério Superior na área de \"Redes de Transmissão, Distribuição de Energia Elétrica e Subestações\". 2019. Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2010,
+          "titulo": "dos Santos, Antonio Manuel Carvalho; ; Sousa, Thales. Concurso público para docente da faculdade de tecnologia de Bragan",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "dos Santos, Antonio Manuel Carvalho; ; Sousa, Thales. Concurso público para docente da faculdade de tecnologia de Bragança Paulista do centro estadual de educação tecnológica Paula Souza. 2010. Centro Estadual de Educação Tecnológica Paula Souza."
+        }
+      ]
+    }
+  ]
+}

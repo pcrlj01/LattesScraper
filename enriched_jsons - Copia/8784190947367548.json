@@ -1,0 +1,967 @@
+{
+  "name": "George Victor Rocha Xavier",
+  "lattes_id": "8784190947367548",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2027,
+          "titulo": "Multispectral correlation of infrared, ultraviolet, and leakage current attributes in a 500 kV substation under coastal environmental stress",
+          "autores": "ARAUJO, BRUNO VINÍCIUS SILVEIRA ; RODRIGUES, GUSTAVO ARAGÃO ; DE OLIVEIRA, JOHNNY HERBERT PAIXÃO ; Xavier, George Victor Rocha ; DE SOUZA LEBRE, ULISSES DANIEL ENES ; ARAUJO, CHARLES ANTONY CORDEIRO ; FERREIRA, TARSO VILELA ; SERRES, ALEXANDRE JEAN RENÉ",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 265, p. 113973, 2027.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113973",
+          "citacao_completa": "ARAUJO, BRUNO VINÍCIUS SILVEIRA ; RODRIGUES, GUSTAVO ARAGÃO ; DE OLIVEIRA, JOHNNY HERBERT PAIXÃO ; Xavier, George Victor Rocha ; DE SOUZA LEBRE, ULISSES DANIEL ENES ; ARAUJO, CHARLES ANTONY CORDEIRO ; FERREIRA, TARSO VILELA ; SERRES, ALEXANDRE JEAN RENÉ . Multispectral correlation of infrared, ultraviolet, and leakage current attributes in a 500 kV substation under coastal environmental stress. ELECTRIC POWER SYSTEMS RESEARCH , v. 265, p. 113973, 2027."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Partial Discharge Localization Based on Asynchronous Measurements in the UHF Band",
+          "autores": "SILVA, ALLAN D. C. ; FREIRE, RAIMUNDO C. S. ; NOBREGA, LUIZ A. M. M. ; CARVALHO, ITAIARA F. ; XAVIER, GEORGE V. R. ; NETO, ALFREDO GOMES",
+          "periodico": "IEEE Access , v. 14, p. 121877-121885, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3721728",
+          "citacao_completa": "SILVA, ALLAN D. C. ; FREIRE, RAIMUNDO C. S. ; NOBREGA, LUIZ A. M. M. ; CARVALHO, ITAIARA F. ; XAVIER, GEORGE V. R. ; NETO, ALFREDO GOMES . Partial Discharge Localization Based on Asynchronous Measurements in the UHF Band. IEEE Access , v. 14, p. 121877-121885, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Automated monitoring of insulation by ultraviolet imaging employing deep learning",
+          "autores": "ARAGÃO RODRIGUES, GUSTAVO ; VINICIUS SILVEIRA ARAUJO, BRUNO ; HERBERT PAIXÃO DE OLIVEIRA, JOHNNY ; Victor Rocha Xavier, George ; DANIEL ENES DE SOUZA LEBRE, ULISSES ; ANTONY CORDEIRO, CHARLES ; OLIVEIRA FREIRE, EDUARDO ; VILELA FERREIRA, TARSO",
+          "periodico": "MEASUREMENT , v. 242, p. 116018, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2024.116018",
+          "citacao_completa": "ARAGÃO RODRIGUES, GUSTAVO ; VINICIUS SILVEIRA ARAUJO, BRUNO ; HERBERT PAIXÃO DE OLIVEIRA, JOHNNY ; Victor Rocha Xavier, George ; DANIEL ENES DE SOUZA LEBRE, ULISSES ; ANTONY CORDEIRO, CHARLES ; OLIVEIRA FREIRE, EDUARDO ; VILELA FERREIRA, TARSO . Automated monitoring of insulation by ultraviolet imaging employing deep learning. MEASUREMENT , v. 242, p. 116018, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoring ZnO surge arresters using convolutional neural networks and image processing techniques combined with signal alignment",
+          "autores": "SILVEIRA ARAUJO, BRUNO VINICIUS ; RODRIGUES, GUSTAVO ARAGÃO ; PAIXÃO DE OLIVEIRA, JOHNNY HERBERT ; Rocha Xavier, George Victor ; LEBRE, ULISSES ; CORDEIRO, CHARLES ; FREIRE, EDUARDO OLIVEIRA ; WANDERLEY NETO, ESTÁCIO TAVARES ; FERREIRA, TARSO VILELA",
+          "periodico": "MEASUREMENT , v. 1, p. 116889, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2025.116889",
+          "citacao_completa": "SILVEIRA ARAUJO, BRUNO VINICIUS ; RODRIGUES, GUSTAVO ARAGÃO ; PAIXÃO DE OLIVEIRA, JOHNNY HERBERT ; Rocha Xavier, George Victor ; LEBRE, ULISSES ; CORDEIRO, CHARLES ; FREIRE, EDUARDO OLIVEIRA ; WANDERLEY NETO, ESTÁCIO TAVARES ; FERREIRA, TARSO VILELA . Monitoring ZnO surge arresters using convolutional neural networks and image processing techniques combined with signal alignment. MEASUREMENT , v. 1, p. 116889, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Wavefront Detection and Event Segmentation Method for Partial Discharge Signal Analysis",
+          "autores": "NASCIMENTO, FRANCISCO A. DE O. ; COELHO, RODRIGO DE A. ; XAVIER, GEORGE V. R. ; ALVIM, PEDRO D. ; DOS SANTOS JÚNIOR, ALMIR C. ; SILVA, HUGERLES S.",
+          "periodico": "IEEE Access , v. 25, p. 1-1, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3582635",
+          "citacao_completa": "NASCIMENTO, FRANCISCO A. DE O. ; COELHO, RODRIGO DE A. ; XAVIER, GEORGE V. R. ; ALVIM, PEDRO D. ; DOS SANTOS JÚNIOR, ALMIR C. ; SILVA, HUGERLES S. . Wavefront Detection and Event Segmentation Method for Partial Discharge Signal Analysis. IEEE Access , v. 25, p. 1-1, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Classification of Partial Discharge Sources in Ultra-High Frequency Using Signal Conditioning Circuit Phase-Resolved Partial Discharges and Machine Learning",
+          "autores": "SANTOS JÚNIOR, ALMIR CARLOS DOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha ; DA COSTA, EDSON GUEDES ; SERRES, GEORGINA KARLA DE FREITAS ; LEITE NETO, ANTONIO FRANCISCO ; CARVALHO, ITAIARA FÉLIX ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; LAZARIDIS, PAVLOS",
+          "periodico": "ELECTRONICS , v. 13, p. 2399, 2024.",
+          "doi": "http://dx.doi.org/10.3390/electronics13122399",
+          "citacao_completa": "SANTOS JÚNIOR, ALMIR CARLOS DOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha ; DA COSTA, EDSON GUEDES ; SERRES, GEORGINA KARLA DE FREITAS ; LEITE NETO, ANTONIO FRANCISCO ; CARVALHO, ITAIARA FÉLIX ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; LAZARIDIS, PAVLOS . Classification of Partial Discharge Sources in Ultra-High Frequency Using Signal Conditioning Circuit Phase-Resolved Partial Discharges and Machine Learning. ELECTRONICS , v. 13, p. 2399, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Novel indices for power quality assessment of non-linear loads",
+          "autores": "DE ALMEIDA COELHO, RODRIGO ; ARAÚJO, BRUNO VINÍCIUS SILVEIRA ; Xavier, George Victor Rocha ; RODRIGUES, GUSTAVO ARAGÃO ; FERREIRA, TARSO VILELA ; BRITO, NÚBIA SILVA DANTAS",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110952, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110952",
+          "citacao_completa": "DE ALMEIDA COELHO, RODRIGO ; ARAÚJO, BRUNO VINÍCIUS SILVEIRA ; Xavier, George Victor Rocha ; RODRIGUES, GUSTAVO ARAGÃO ; FERREIRA, TARSO VILELA ; BRITO, NÚBIA SILVA DANTAS . Novel indices for power quality assessment of non-linear loads. ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110952, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Design and application of a UHF RFID tag for monitoring pollution in high voltage towers",
+          "autores": "ALVES, LIDJA N.T. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J.R. ; Xavier, George V.R. ; OLIVEIRA NETO, ANTONIO B.DE",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 224, p. 109775, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109775",
+          "citacao_completa": "ALVES, LIDJA N.T. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J.R. ; Xavier, George V.R. ; OLIVEIRA NETO, ANTONIO B.DE . Design and application of a UHF RFID tag for monitoring pollution in high voltage towers. ELECTRIC POWER SYSTEMS RESEARCH , v. 224, p. 109775, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "The Practical Application of Bio-Inspired PMA for the Detection of Partial Discharges in High Voltage Equipment",
+          "autores": "CRUZ, JOSIEL ; SERRES, ALEXANDRE ; FREIRE, RAIMUNDO ; COSTA, EDSON ; XAVIER, GEORGE ; OLIVEIRA, ADRIANO ; SOUZA, VLADIMIR ; LAZARIDIS, PAVLOS",
+          "periodico": "SENSORS , v. 23, p. 9307, 2023.",
+          "doi": "http://dx.doi.org/10.3390/s23239307",
+          "citacao_completa": "CRUZ, JOSIEL ; SERRES, ALEXANDRE ; FREIRE, RAIMUNDO ; COSTA, EDSON ; XAVIER, GEORGE ; OLIVEIRA, ADRIANO ; SOUZA, VLADIMIR ; LAZARIDIS, PAVLOS . The Practical Application of Bio-Inspired PMA for the Detection of Partial Discharges in High Voltage Equipment. SENSORS , v. 23, p. 9307, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DOS RISCOS OCUPACIONAIS EM INSTALAÇÕES DE MICROGERAÇÃO DISTRIBUÍDA FOTOVOLTAICA",
+          "autores": "Victor Rocha Xavier, George ; DAVID DA COSTA SILVA, ALLAN",
+          "periodico": "REVISTA CIENTÍFICA E-LOCUÇÃO , v. 1, p. 21, 2023.",
+          "doi": "http://dx.doi.org/10.57209/e-locucao.v1i24.557",
+          "citacao_completa": "Victor Rocha Xavier, George ; DAVID DA COSTA SILVA, ALLAN . ANÁLISE DOS RISCOS OCUPACIONAIS EM INSTALAÇÕES DE MICROGERAÇÃO DISTRIBUÍDA FOTOVOLTAICA. REVISTA CIENTÍFICA E-LOCUÇÃO , v. 1, p. 21, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Application of bioinspired antennas in the monitoring of high voltage circuit breakers",
+          "autores": "OLIVEIRA, ADRIANO COSTA ; COSTA, EDSON GUEDES ; SERRES, ALEXANDRE JEAN RENE ; Xavier, George Victor Rocha ; DE SOUZA, VLADIMIR CESARINO ; ALMEIDA, AUGUSTO CESAR ALBUQUERQUE ; GUEDES, WALTER BARBOSA ; PRISCO, RODRIGO KALIL",
+          "periodico": "IEEE TRANSACTIONS ON POWER DELIVERY , v. 22, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2022.3170309",
+          "citacao_completa": "OLIVEIRA, ADRIANO COSTA ; COSTA, EDSON GUEDES ; SERRES, ALEXANDRE JEAN RENE ; Xavier, George Victor Rocha ; DE SOUZA, VLADIMIR CESARINO ; ALMEIDA, AUGUSTO CESAR ALBUQUERQUE ; GUEDES, WALTER BARBOSA ; PRISCO, RODRIGO KALIL . Application of bioinspired antennas in the monitoring of high voltage circuit breakers. IEEE TRANSACTIONS ON POWER DELIVERY , v. 22, p. 1-1, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Detection, Classification and Location of Sources of Partial Discharges Using the Radiometric Method: Trends, Challenges and Open Issues",
+          "autores": "XAVIER, GEORGE V. R. ; SILVA, HUGERLES S. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; CARVALHO, NUNO B. ; OLIVEIRA, ARNALDO S. R.",
+          "periodico": "IEEE Access , v. 9, p. 110787-110810, 2021.",
+          "doi": "http://dx.doi.org/10.1109/access.2021.3102888",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; SILVA, HUGERLES S. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; CARVALHO, NUNO B. ; OLIVEIRA, ARNALDO S. R. . Detection, Classification and Location of Sources of Partial Discharges Using the Radiometric Method: Trends, Challenges and Open Issues. IEEE Access , v. 9, p. 110787-110810, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Partial Discharge Location through Application of Stationary Discrete Wavelet Transform on UHF Signals",
+          "autores": "XAVIER, GEORGE V. R. ; COELHO, RODRIGO A. ; SILVA, HUGERLES S. ; SERRES, ALEXANDRE J. R. ; DA COSTA, EDSON G. ; OLIVEIRA, ARNALDO S. R.",
+          "periodico": "IEEE SENSORS JOURNAL , v. 20, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/jsen.2021.3116491",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; COELHO, RODRIGO A. ; SILVA, HUGERLES S. ; SERRES, ALEXANDRE J. R. ; DA COSTA, EDSON G. ; OLIVEIRA, ARNALDO S. R. . Partial Discharge Location through Application of Stationary Discrete Wavelet Transform on UHF Signals. IEEE SENSORS JOURNAL , v. 20, p. 1-1, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Avaliação de técnicas de inteligência artificial na classificação de descargas parciais",
+          "autores": "SILVA, A. D. C. ; CARVALHO, I. F. ; NOBREGA, L. A. M. M. ; XAVIER, GEORGE V. R. ; Costa, E. G.",
+          "periodico": "Tecnologia En Marcha , p. 232-244, 2021.",
+          "doi": "http://dx.doi.org/10.18845/tm.v34i7.6047",
+          "citacao_completa": "SILVA, A. D. C. ; CARVALHO, I. F. ; NOBREGA, L. A. M. M. ; XAVIER, GEORGE V. R. ; Costa, E. G. . Avaliação de técnicas de inteligência artificial na classificação de descargas parciais. Tecnologia En Marcha , p. 232-244, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Application of Time Difference of Arrival Methods in the Localization of Partial Discharge Sources Detected Using Bio-Inspired UHF Sensors",
+          "autores": "XAVIER, GEORGE V. R. ; DE OLIVEIRA, ADRIANO C. ; SILVA, ALLAN D. C. ; NOBREGA, LUIZ A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R.",
+          "periodico": "IEEE SENSORS JOURNAL , v. 20, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/jsen.2020.3019760",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; DE OLIVEIRA, ADRIANO C. ; SILVA, ALLAN D. C. ; NOBREGA, LUIZ A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. . Application of Time Difference of Arrival Methods in the Localization of Partial Discharge Sources Detected Using Bio-Inspired UHF Sensors. IEEE SENSORS JOURNAL , v. 20, p. 1-1, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Design and Development of a Bio-Inspired UHF Sensor for Partial Discharge Detection in Power Transformers",
+          "autores": "NOBREGA, LUIZ ; XAVIER, GEORGE ; AQUINO, MARCUS ; SERRES, ALEXANDRE ; ALBUQUERQUE, CAMILA ; COSTA, EDSON",
+          "periodico": "SENSORS , v. 19, p. 653, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19030653",
+          "citacao_completa": "NOBREGA, LUIZ ; XAVIER, GEORGE ; AQUINO, MARCUS ; SERRES, ALEXANDRE ; ALBUQUERQUE, CAMILA ; COSTA, EDSON . Design and Development of a Bio-Inspired UHF Sensor for Partial Discharge Detection in Power Transformers. SENSORS , v. 19, p. 653, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bio-inspired Printed Monopole Antenna Applied to Partial Discharge Detection",
+          "autores": "CRUZ, JOSIEL ; SERRES, ALEXANDRE ; DE OLIVEIRA, ADRIANO ; XAVIER, GEORGE ; DE ALBUQUERQUE, CAMILA ; DA COSTA, EDSON ; FREIRE, RAIMUNDO",
+          "periodico": "SENSORS , v. 19, p. 628, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19030628",
+          "citacao_completa": "CRUZ, JOSIEL ; SERRES, ALEXANDRE ; DE OLIVEIRA, ADRIANO ; XAVIER, GEORGE ; DE ALBUQUERQUE, CAMILA ; DA COSTA, EDSON ; FREIRE, RAIMUNDO . Bio-inspired Printed Monopole Antenna Applied to Partial Discharge Detection. SENSORS , v. 19, p. 628, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Inspection in overhead insulators through the analysis of the irradiated RF spectrum",
+          "autores": "ROCHA, P.H.V. ; COSTA, E.G. ; SERRES, A.R. ; XAVIER, G.V.R. ; PEIXOTO, J.E.B. ; LINS, R.L.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 113, p. 355-361, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2019.05.060",
+          "citacao_completa": "ROCHA, P.H.V. ; COSTA, E.G. ; SERRES, A.R. ; XAVIER, G.V.R. ; PEIXOTO, J.E.B. ; LINS, R.L. . Inspection in overhead insulators through the analysis of the irradiated RF spectrum. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 113, p. 355-361, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Design and Application of a Circular Printed Monopole Antenna in Partial Discharge Detection",
+          "autores": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; NOBREGA, LUIZ A. M. M. ; OLIVEIRA, ADRIANO C. ; SOUSA, HERBET F. S.",
+          "periodico": "IEEE SENSORS JOURNAL , v. 19, p. 1-1, 2019.",
+          "doi": "http://dx.doi.org/10.1109/jsen.2019.2896580",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; NOBREGA, LUIZ A. M. M. ; OLIVEIRA, ADRIANO C. ; SOUSA, HERBET F. S. . Design and Application of a Circular Printed Monopole Antenna in Partial Discharge Detection. IEEE SENSORS JOURNAL , v. 19, p. 1-1, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Grounding system models for electric current impulse",
+          "autores": "GONÇALVES, M.F.B.R. ; DA COSTA, E.G. ; ANDRADE, A.F. ; BRITO, V.S. ; LIRA, G.R.S. ; Xavier, G.V.R.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 177, p. 105981, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2019.105981",
+          "citacao_completa": "GONÇALVES, M.F.B.R. ; DA COSTA, E.G. ; ANDRADE, A.F. ; BRITO, V.S. ; LIRA, G.R.S. ; Xavier, G.V.R. . Grounding system models for electric current impulse. ELECTRIC POWER SYSTEMS RESEARCH , v. 177, p. 105981, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "UHF Partial Discharge Location in Power Transformers via Solution of the Maxwell Equations in a Computational Environment",
+          "autores": "NOBREGA, LUIZ ; COSTA, EDSON ; SERRES, ALEXANDRE ; XAVIER, GEORGE ; AQUINO, MARCUS",
+          "periodico": "SENSORS , v. 19, p. 3435, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19153435",
+          "citacao_completa": "NOBREGA, LUIZ ; COSTA, EDSON ; SERRES, ALEXANDRE ; XAVIER, GEORGE ; AQUINO, MARCUS . UHF Partial Discharge Location in Power Transformers via Solution of the Maxwell Equations in a Computational Environment. SENSORS , v. 19, p. 3435, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Analysis of Alternative Parameters of Dynamic Resistance Measurement in High Voltage Circuit Breakers",
+          "autores": "SOUSA, HERBET ; XAVIER, GEORGE VICTOR ; COSTA DE OLIVEIRA, ADRIANO ; NUNES DE SANTANA, HENRIQUE ; DA COSTA, EDSON ; VILELA FERREIRA, TARSO",
+          "periodico": "High Voltage , v. 4, p. 197-202, 2019.",
+          "doi": "http://dx.doi.org/10.1049/hve.2019.0046",
+          "citacao_completa": "SOUSA, HERBET ; XAVIER, GEORGE VICTOR ; COSTA DE OLIVEIRA, ADRIANO ; NUNES DE SANTANA, HENRIQUE ; DA COSTA, EDSON ; VILELA FERREIRA, TARSO . Analysis of Alternative Parameters of Dynamic Resistance Measurement in High Voltage Circuit Breakers. High Voltage , v. 4, p. 197-202, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Design and Application of a Metamaterial Superstrate on a Bio-Inspired Antenna for Partial Discharge Detection through Dielectric Windows",
+          "autores": "Xavier, George Victor Rocha ; SERRES, ALEXANDRE JEAN RENÉ ; DA COSTA, EDSON GUEDES ; DE OLIVEIRA, ADRIANO COSTA ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; DE SOUZA, VLADIMIR CESARINO",
+          "periodico": "SENSORS , v. 19, p. 4255, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19194255",
+          "citacao_completa": "Xavier, George Victor Rocha ; SERRES, ALEXANDRE JEAN RENÉ ; DA COSTA, EDSON GUEDES ; DE OLIVEIRA, ADRIANO COSTA ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; DE SOUZA, VLADIMIR CESARINO . Design and Application of a Metamaterial Superstrate on a Bio-Inspired Antenna for Partial Discharge Detection through Dielectric Windows. SENSORS , v. 19, p. 4255, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise de revestimento dielétrico de um sensor UHF de microfita aplicado na detecção de descargas parciais em transformadores de potência",
+          "autores": "AQUINO, MARCUS VINÍCIUS DANTAS DE ; SERRES, ALEX JEAN RENÉ ; COSTA, EDSON GUEDES DA ; Xavier, George Victor Rocha ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; SOUZA, VLADIMIR CESARINO DE",
+          "periodico": "PRINCIPIA (JOÃO PESSOA) , v. 1, p. 214-226, 2019.",
+          "doi": "http://dx.doi.org/10.18265/1517-03062015v1n47p214-226",
+          "citacao_completa": "AQUINO, MARCUS VINÍCIUS DANTAS DE ; SERRES, ALEX JEAN RENÉ ; COSTA, EDSON GUEDES DA ; Xavier, George Victor Rocha ; NOBREGA, LUIZ AUGUSTO MEDEIROS MARTINS ; SOUZA, VLADIMIR CESARINO DE . Análise de revestimento dielétrico de um sensor UHF de microfita aplicado na detecção de descargas parciais em transformadores de potência. PRINCIPIA (JOÃO PESSOA) , v. 1, p. 214-226, 2019."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "COMPARAÇÃO DE CLASSIFICADORES NA ANÁLISE DE GASES DISSOLVIDOS",
+          "autores": "OLIVEIRA NETO, J. J. ; XAVIER, G. V. R. ; CARDOSO, D. O. ; CANUTO, J. C.",
+          "periodico": "In: Frederico Celestino Barbosa. (Org.). TÓPICOS EM ENGENHARIA ELÉTRICA E ELETRÔNICA. 1ed.Piracanjuba - GO: Conhecimento Livre, 2021, v. , p. 97-113.",
+          "doi": "http://dx.doi.org/10.37423/211105064",
+          "citacao_completa": "OLIVEIRA NETO, J. J. ; XAVIER, G. V. R. ; CARDOSO, D. O. ; CANUTO, J. C. . COMPARAÇÃO DE CLASSIFICADORES NA ANÁLISE DE GASES DISSOLVIDOS. In: Frederico Celestino Barbosa. (Org.). TÓPICOS EM ENGENHARIA ELÉTRICA E ELETRÔNICA. 1ed.Piracanjuba - GO: Conhecimento Livre, 2021, v. , p. 97-113."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Linearity and Dynamic Range Assessment of UHF Low Noise Amplifiers for Radiometric Partial Discharge Detection: Case Study",
+          "autores": "DOS SANTOS JÚNIOR, ALMIR CARLOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha",
+          "periodico": "In: 2026 IEEE 2nd Latin American Conference on Antennas and Propagation (LACAP), 2026, Natal. 2026 IEEE 2nd Latin American Conference on Antennas and Propagation (LACAP), 2026. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LACAP67012.2026.11471128",
+          "citacao_completa": "DOS SANTOS JÚNIOR, ALMIR CARLOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha . Linearity and Dynamic Range Assessment of UHF Low Noise Amplifiers for Radiometric Partial Discharge Detection: Case Study. In: 2026 IEEE 2nd Latin American Conference on Antennas and Propagation (LACAP), 2026, Natal. 2026 IEEE 2nd Latin American Conference on Antennas and Propagation (LACAP), 2026. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Estudo de Viabilidade do Uso de Proteção de Distância em Sistema de Subtransmissão do Sertão Sergipano",
+          "autores": "BATISTA, H. C. M. ; CAMPOS, M. V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, G.V.R.",
+          "periodico": "In: XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025, Belo Horizonte. Anais do XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "BATISTA, H. C. M. ; CAMPOS, M. V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, G.V.R. . Estudo de Viabilidade do Uso de Proteção de Distância em Sistema de Subtransmissão do Sertão Sergipano. In: XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025, Belo Horizonte. Anais do XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Otimização de Ajustes de Relés de Sobrecorrente em Linhas de Subtransmissão em Anel",
+          "autores": "CAMPOS, M. V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, G.V.R.",
+          "periodico": "In: XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025, Belo Horizonte. Anais do XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "CAMPOS, M. V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, G.V.R. . Otimização de Ajustes de Relés de Sobrecorrente em Linhas de Subtransmissão em Anel. In: XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025, Belo Horizonte. Anais do XXV Seminário Nacional de Distribuição de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "SOFTWARE BASEADO NA DIVERGÊNCIA DE KULLBACK-LEIBLER PARA MONITORAMENTO TÉRMICO DE PÁRA-RAIOS",
+          "autores": "DANTAS, G. L. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; OLIVEIRA, J. H. P. ; XAVIER, G.V.R. ; FERREIRA, T. V. ; WANDERLEY NETO, E. T.",
+          "periodico": "In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais do XX Encontro Regional Ibero-Americano do CIGRE, 2025.",
+          "doi": "",
+          "citacao_completa": "DANTAS, G. L. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; OLIVEIRA, J. H. P. ; XAVIER, G.V.R. ; FERREIRA, T. V. ; WANDERLEY NETO, E. T. . SOFTWARE BASEADO NA DIVERGÊNCIA DE KULLBACK-LEIBLER PARA MONITORAMENTO TÉRMICO DE PÁRA-RAIOS. In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais do XX Encontro Regional Ibero-Americano do CIGRE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Current Density Based Approach for Bandwidth Enhancement in Printed Monopole Antenna",
+          "autores": "PINHEIRO NETO, DIJALMA D. ; OLIVEIRA, A. C. ; XAVIER, G.V.R. ; SERRES, A.R. ; Silva, H. S.",
+          "periodico": "In: 2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting, 2025, Ottawa. Proceedings of 2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting, 2025.",
+          "doi": "",
+          "citacao_completa": "PINHEIRO NETO, DIJALMA D. ; OLIVEIRA, A. C. ; XAVIER, G.V.R. ; SERRES, A.R. ; Silva, H. S. . A Current Density Based Approach for Bandwidth Enhancement in Printed Monopole Antenna. In: 2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting, 2025, Ottawa. Proceedings of 2025 IEEE International Symposium on Antennas & Propagation and North American Radio Science Meeting, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Classification of UHF Partial Discharges Sources Through Envelope: Feature Selection and Dimensionality Reduction",
+          "autores": "FILHO, BOAVENTURA O. VIANA ; LIMA NETO, J. M. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S.",
+          "periodico": "In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025.",
+          "doi": "",
+          "citacao_completa": "FILHO, BOAVENTURA O. VIANA ; LIMA NETO, J. M. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S. . Classification of UHF Partial Discharges Sources Through Envelope: Feature Selection and Dimensionality Reduction. In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Impact of Wavelet-Based Denoising on the Robustness of SVM Classification of Partial Discharge Signals",
+          "autores": "SANTOS, W. G. S. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S.",
+          "periodico": "In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025.",
+          "doi": "",
+          "citacao_completa": "SANTOS, W. G. S. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S. . Impact of Wavelet-Based Denoising on the Robustness of SVM Classification of Partial Discharge Signals. In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Bioinspired Antenna Based on Acer macrophyllum Leaf for Partial Discharge Detection in High Voltage Equipment",
+          "autores": "NETO, DIJALMA D. PINHEIRO ; XAVIER, G.V.R. ; Silva, H. S.",
+          "periodico": "In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025.",
+          "doi": "",
+          "citacao_completa": "NETO, DIJALMA D. PINHEIRO ; XAVIER, G.V.R. ; Silva, H. S. . A Bioinspired Antenna Based on Acer macrophyllum Leaf for Partial Discharge Detection in High Voltage Equipment. In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Design of a Compact UWB Circular Printed Monopole Antenna-Based Sensor for Partial Discharge Detection",
+          "autores": "VILAS BOAS, E. C. ; Xavier, George V.R. ; FIGUEIREDO, F. A. P. ; SILVA, HUGERLES S.",
+          "periodico": "In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025.",
+          "doi": "",
+          "citacao_completa": "VILAS BOAS, E. C. ; Xavier, George V.R. ; FIGUEIREDO, F. A. P. ; SILVA, HUGERLES S. . Design of a Compact UWB Circular Printed Monopole Antenna-Based Sensor for Partial Discharge Detection. In: 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. Proceedings of 21st SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Assessment of Leakage Current on Polymeric Insulators Under Non-Uniform Saline Pollution Conditions",
+          "autores": "OLIVEIRA, A. B. F. ; ARAUJO, E. S. ; OLIVEIRA, J. H. P. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G.V.R. ; FERREIRA, T. V.",
+          "periodico": "In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, A. B. F. ; ARAUJO, E. S. ; OLIVEIRA, J. H. P. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G.V.R. ; FERREIRA, T. V. . Assessment of Leakage Current on Polymeric Insulators Under Non-Uniform Saline Pollution Conditions. In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Development of test specimens for testing the classification of partial discharges based on electric field analysis",
+          "autores": "MOTA, H. C. M. ; XAVIER, G.V.R.",
+          "periodico": "In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025.",
+          "doi": "",
+          "citacao_completa": "MOTA, H. C. M. ; XAVIER, G.V.R. . Development of test specimens for testing the classification of partial discharges based on electric field analysis. In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Comparative Analysis of Thermal Profile Alignment Techniques for Surge Arresters",
+          "autores": "OLIVEIRA, J. H. P. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G.V.R. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V.",
+          "periodico": "In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, J. H. P. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G.V.R. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V. . Comparative Analysis of Thermal Profile Alignment Techniques for Surge Arresters. In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Statistical Analysis of Insulation Leakage Currents under Pollution Incidence in a 500 kV Substation",
+          "autores": "LISBOA, J. L. C. ; OLIVEIRA, J. H. P. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; XAVIER, G.V.R. ; FERREIRA, T. V.",
+          "periodico": "In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025.",
+          "doi": "",
+          "citacao_completa": "LISBOA, J. L. C. ; OLIVEIRA, J. H. P. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; XAVIER, G.V.R. ; FERREIRA, T. V. . Statistical Analysis of Insulation Leakage Currents under Pollution Incidence in a 500 kV Substation. In: Workshop on Communication Networks and Power Systems 2025, 2025, Online. proceedings of 2025 WCNPS, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A model based on the finite element method for estimating the impacts of saline pollution on high voltage insulators",
+          "autores": "OLIVEIRA, A. B. F. ; ARAUJO, E. S. ; XAVIER, G. V. R. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V.",
+          "periodico": "In: IEEE Electrical Insulation Conference (EIC), 2024, Mineápolis. Proceedings of the 2024 IEEE Electrical Insulation Conference (EIC), 2024.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, A. B. F. ; ARAUJO, E. S. ; XAVIER, G. V. R. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V. . A model based on the finite element method for estimating the impacts of saline pollution on high voltage insulators. In: IEEE Electrical Insulation Conference (EIC), 2024, Mineápolis. Proceedings of the 2024 IEEE Electrical Insulation Conference (EIC), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Methods for mapping salt pollution deposition in insulation",
+          "autores": "ARAUJO, E. S. ; OLIVEIRA, A. B. F. ; XAVIER, G. V. R. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V.",
+          "periodico": "In: IEEE Electrical Insulation Conference (EIC), 2024, Mineápolis. Proceedings of the 2024 IEEE Electrical Insulation Conference (EIC), 2024.",
+          "doi": "",
+          "citacao_completa": "ARAUJO, E. S. ; OLIVEIRA, A. B. F. ; XAVIER, G. V. R. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; LEBRE, U. D. E. S. ; CORDEIRO, C. A. ; FERREIRA, T. V. . Methods for mapping salt pollution deposition in insulation. In: IEEE Electrical Insulation Conference (EIC), 2024, Mineápolis. Proceedings of the 2024 IEEE Electrical Insulation Conference (EIC), 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Characterization of a Signal Conditioning Circuit Based on Envelope Detection for the Detection of Partial Discharges in UHF",
+          "autores": "DOS SANTOS JÚNIOR, ALMIR CARLOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha ; DA SILVA, ERIK FARIAS ; CAVALCANTI, ALISSON TELES",
+          "periodico": "In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/inscit62583.2024.10693384",
+          "citacao_completa": "DOS SANTOS JÚNIOR, ALMIR CARLOS ; SERRES, ALEXANDRE JEAN RENÉ ; Xavier, George Victor Rocha ; DA SILVA, ERIK FARIAS ; CAVALCANTI, ALISSON TELES . Characterization of a Signal Conditioning Circuit Based on Envelope Detection for the Detection of Partial Discharges in UHF. In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Evaluation of Radiometric Localization Techniques Based on the Intensity of the Received Signal",
+          "autores": "ALVES, L. F. B. ; SILVA, A. D. C. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R.",
+          "periodico": "In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INSCIT62583.2024.10693389",
+          "citacao_completa": "ALVES, L. F. B. ; SILVA, A. D. C. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R. . Evaluation of Radiometric Localization Techniques Based on the Intensity of the Received Signal. In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Desenvolvimento de Antena Bio-Inspirada para Aplicação na Banda ISM",
+          "autores": "NETO, DIJALMA D. P. ; XAVIER, G.V.R. ; SERRES, A. J. R.",
+          "periodico": "In: XXI Simpósio Brasileiro de Micro-Ondas e Optoeletrônica (SBMO), 2024, Bento Gonçalves. Anais SBMO 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "NETO, DIJALMA D. P. ; XAVIER, G.V.R. ; SERRES, A. J. R. . Desenvolvimento de Antena Bio-Inspirada para Aplicação na Banda ISM. In: XXI Simpósio Brasileiro de Micro-Ondas e Optoeletrônica (SBMO), 2024, Bento Gonçalves. Anais SBMO 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Electric Field Analysis and Optimization Applied to the Design of a High Voltage Test Transformer",
+          "autores": "OLIVEIRA, ANA B. F. ; ARAÚJO, ELAINE S. ; ARAUJO, BRUNO V. S. ; RODRIGUES, GUSTAVO A. ; BATISTA, HUGO C. M. ; NETO, DIJALMA D. PINHEIRO ; XAVIER, GEORGE V. R. ; FERREIRA, TARSO V.",
+          "periodico": "In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps65035.2024.10814190",
+          "citacao_completa": "OLIVEIRA, ANA B. F. ; ARAÚJO, ELAINE S. ; ARAUJO, BRUNO V. S. ; RODRIGUES, GUSTAVO A. ; BATISTA, HUGO C. M. ; NETO, DIJALMA D. PINHEIRO ; XAVIER, GEORGE V. R. ; FERREIRA, TARSO V. . Electric Field Analysis and Optimization Applied to the Design of a High Voltage Test Transformer. In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Digital Twin Proposal for Induction Motors Using IoT and Finite Elements Method",
+          "autores": "RODRIGUES, LUCAS A. ; RODRIGUES, GUSTAVO A. ; ARAÚJO, BRUNO V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, GEORGE V. R. ; FERREIRA, TARSO V.",
+          "periodico": "In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps65035.2024.10814489",
+          "citacao_completa": "RODRIGUES, LUCAS A. ; RODRIGUES, GUSTAVO A. ; ARAÚJO, BRUNO V. S. ; PINHEIRO NETO, DIJALMA D. ; XAVIER, GEORGE V. R. ; FERREIRA, TARSO V. . Digital Twin Proposal for Induction Motors Using IoT and Finite Elements Method. In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Comparative Study of Different Techniques for UHF Signal Classification of Partial Discharges",
+          "autores": "REIS, ARTHUR S. A. ; FILHO, BOAVENTURA O. VIANA ; SILVA, ALYSSON F. V. ; FILHO, JAKSON M. OLIVEIRA ; NETO, DIJALMA D. PINHEIRO ; CARVALHO, FRANCISCO D. F. ; SANTOS, ALMIR C. ; XAVIER, GEORGE V. R.",
+          "periodico": "In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps65035.2024.10814494",
+          "citacao_completa": "REIS, ARTHUR S. A. ; FILHO, BOAVENTURA O. VIANA ; SILVA, ALYSSON F. V. ; FILHO, JAKSON M. OLIVEIRA ; NETO, DIJALMA D. PINHEIRO ; CARVALHO, FRANCISCO D. F. ; SANTOS, ALMIR C. ; XAVIER, GEORGE V. R. . A Comparative Study of Different Techniques for UHF Signal Classification of Partial Discharges. In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Non-Invasive Sensor for Grounding Grid Mesh Monitoring",
+          "autores": "MEDEIROS, FELIPE LUCENA SOUZA ; LAZARIDIS, PAVLOS ; Xavier, George Victor Rocha ; DA COSTA, EDSON GUEDES ; SERRES, ALEXANDRE JEAN RENÉ",
+          "periodico": "In: 2024 IEEE International Symposium on Antennas and Propagation and INC/USNC¿URSI Radio Science Meeting (APS/INCUSNCURSI), 2024, Firenze. 2024 IEEE International Symposium on Antennas and Propagation and INC/USNC\"URSI Radio Science Meeting (AP-S/INC-USNC-URSI), 2024. p. 1833.",
+          "doi": "http://dx.doi.org/10.1109/ap-s/inc-usnc-ursi52054.2024.10686290",
+          "citacao_completa": "MEDEIROS, FELIPE LUCENA SOUZA ; LAZARIDIS, PAVLOS ; Xavier, George Victor Rocha ; DA COSTA, EDSON GUEDES ; SERRES, ALEXANDRE JEAN RENÉ . Non-Invasive Sensor for Grounding Grid Mesh Monitoring. In: 2024 IEEE International Symposium on Antennas and Propagation and INC/USNC¿URSI Radio Science Meeting (APS/INCUSNCURSI), 2024, Firenze. 2024 IEEE International Symposium on Antennas and Propagation and INC/USNC\"URSI Radio Science Meeting (AP-S/INC-USNC-URSI), 2024. p. 1833."
+        },
+        {
+          "ano": 2023,
+          "titulo": "AVALIAÇÃO DA APLICABILIDADE DE PADRÕES PRPD UHF NO MONITORAMENTO DE EQUIPAMENTOS DE ALTA TENSÃO",
+          "autores": "SANTOS JUNIOR, A. C. ; XAVIER, GEORGE V. R. ; Costa, E. G. ; NOBREGA, L. A. M. M. ; LEITE NETO, A. F. ; SOUZA, VLADIMIR CESARINO DE",
+          "periodico": "In: XIX Encontro Regional Ibero-americano do CIGRE, 2023, Foz do Iguaçu. Anais do XIX Encontro Regional Ibero-americano do CIGRE, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS JUNIOR, A. C. ; XAVIER, GEORGE V. R. ; Costa, E. G. ; NOBREGA, L. A. M. M. ; LEITE NETO, A. F. ; SOUZA, VLADIMIR CESARINO DE . AVALIAÇÃO DA APLICABILIDADE DE PADRÕES PRPD UHF NO MONITORAMENTO DE EQUIPAMENTOS DE ALTA TENSÃO. In: XIX Encontro Regional Ibero-americano do CIGRE, 2023, Foz do Iguaçu. Anais do XIX Encontro Regional Ibero-americano do CIGRE, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Digital Image Processing Applied to the Reduction of Subjectivity on Ultraviolet Imaging Diagnosis of Insulators",
+          "autores": "RODRIGUES, G. A. ; ARAUJO, B. V. S. ; XAVIER, G.V.R. ; CORDEIRO, C. A. ; FREIRE, E. O. ; FERREIRA, T. V.",
+          "periodico": "In: 2023 IEEE Electrical Insulation Conference, 2023, Quebec. Proceedings of 2023 IEEE Electrical Insulation Conference, 2023.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, G. A. ; ARAUJO, B. V. S. ; XAVIER, G.V.R. ; CORDEIRO, C. A. ; FREIRE, E. O. ; FERREIRA, T. V. . Digital Image Processing Applied to the Reduction of Subjectivity on Ultraviolet Imaging Diagnosis of Insulators. In: 2023 IEEE Electrical Insulation Conference, 2023, Quebec. Proceedings of 2023 IEEE Electrical Insulation Conference, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detection of electrical equipment using an artificial neural network with visual spectrum and thermal images",
+          "autores": "NASCIMENTO, J. P. S. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G. V. R. ; FREIRE, E. O. ; SALES, G. ; VILELA FERREIRA, TARSO",
+          "periodico": "In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Procedings of the 23rd International Symposium on High Voltage Engineering, 2023.",
+          "doi": "",
+          "citacao_completa": "NASCIMENTO, J. P. S. ; ARAUJO, B. V. S. ; RODRIGUES, G. A. ; XAVIER, G. V. R. ; FREIRE, E. O. ; SALES, G. ; VILELA FERREIRA, TARSO . Detection of electrical equipment using an artificial neural network with visual spectrum and thermal images. In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Procedings of the 23rd International Symposium on High Voltage Engineering, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ARTIFICIAL INTELLIGENCE APPLIED TO PRPD PATTERNS CLASSIFICATION USING UHF PRINTED MONOPOLE ANTENNA AND ENVELOPE DETECTOR",
+          "autores": "SANTOS JUNIOR, A. C. ; CARVALHO, I. F. ; XAVIER, G. V. R. ; Costa, E. G. ; NOBREGA, L. A. M. M.",
+          "periodico": "In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Proceedings of the 23rd International Symposium on High Voltage Engineering, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS JUNIOR, A. C. ; CARVALHO, I. F. ; XAVIER, G. V. R. ; Costa, E. G. ; NOBREGA, L. A. M. M. . ARTIFICIAL INTELLIGENCE APPLIED TO PRPD PATTERNS CLASSIFICATION USING UHF PRINTED MONOPOLE ANTENNA AND ENVELOPE DETECTOR. In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Proceedings of the 23rd International Symposium on High Voltage Engineering, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Location of Partial Discharges Sources using Radiometric Signal Envelopes",
+          "autores": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; CARVALHO, I. F. ; XAVIER, G. V. R. ; Costa, E. G.",
+          "periodico": "In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Procedings of the 23rd International Symposium on High Voltage Engineering, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; CARVALHO, I. F. ; XAVIER, G. V. R. ; Costa, E. G. . Location of Partial Discharges Sources using Radiometric Signal Envelopes. In: 23rd International Symposium on High Voltage Engineering, 2023, Glasgow. Procedings of the 23rd International Symposium on High Voltage Engineering, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Evaluation of Envelope Detection for Radiometric Measurements of Partial Discharges in Instrument Transformers",
+          "autores": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; CARVALHO, I. F. ; XAVIER, GEORGE V. R. ; SILVA, H. ; SOUZA, A. S.",
+          "periodico": "In: International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023, Rio de Janeiro. Proceedings of International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; CARVALHO, I. F. ; XAVIER, GEORGE V. R. ; SILVA, H. ; SOUZA, A. S. . Evaluation of Envelope Detection for Radiometric Measurements of Partial Discharges in Instrument Transformers. In: International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023, Rio de Janeiro. Proceedings of International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Evaluation of Envelope Detection for Partial Discharge Source Localization",
+          "autores": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; CARVALHO, I. F. ; CARDOSO, I.",
+          "periodico": "In: International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023, Rio de Janeiro. Proceedings of International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. D. C. ; FREIRE, R. C. S. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; CARVALHO, I. F. ; CARDOSO, I. . Evaluation of Envelope Detection for Partial Discharge Source Localization. In: International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023, Rio de Janeiro. Proceedings of International Symposium on Instrumentation Systems, Circuits, and Transducers, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Design and Application of an Antenna for Non-Invasive Monitoring of Partial Discharges in High Voltage Equipment",
+          "autores": "CARVALHO, FRANCISCO D. F. ; NETO, DIJALMA D. P. ; XAVIER, GEORGE V. R.",
+          "periodico": "In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/WCNPS60622.2023.10344801",
+          "citacao_completa": "CARVALHO, FRANCISCO D. F. ; NETO, DIJALMA D. P. ; XAVIER, GEORGE V. R. . Design and Application of an Antenna for Non-Invasive Monitoring of Partial Discharges in High Voltage Equipment. In: 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023, Brasilia. 2023 Workshop on Communication Networks and Power Systems (WCNPS), 2023. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Design de um RADAR altímetro para CubeSat",
+          "autores": "COELHO, V. M. S. ; XAVIER, G.V.R. ; ALBUQUERQUE, D. F. ; OLIVEIRA, A. S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B.",
+          "periodico": "In: IDEIA 2022, 2022, Almada. Anais do IDEIA 2022, 2022.",
+          "doi": "",
+          "citacao_completa": "COELHO, V. M. S. ; XAVIER, G.V.R. ; ALBUQUERQUE, D. F. ; OLIVEIRA, A. S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B. . Design de um RADAR altímetro para CubeSat. In: IDEIA 2022, 2022, Almada. Anais do IDEIA 2022, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Simulation of an FMCW RADAR altimeter for a CubeSat",
+          "autores": "XAVIER, G.V.R. ; COELHO, V. M. S. ; ALBUQUERQUE, D. F. ; OLIVEIRA, A. S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B.",
+          "periodico": "In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022.",
+          "doi": "",
+          "citacao_completa": "XAVIER, G.V.R. ; COELHO, V. M. S. ; ALBUQUERQUE, D. F. ; OLIVEIRA, A. S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B. . Simulation of an FMCW RADAR altimeter for a CubeSat. In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Link budget analysis of an FMCW RADAR altimeter for a CubeSat",
+          "autores": "COELHO, V. M. S. ; XAVIER, G.V.R. ; ALBUQUERQUE, D. F. ; MATOS, J. N. P. S. ; OLIVEIRA, A. S. R. ; CARVALHO, N. B.",
+          "periodico": "In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022.",
+          "doi": "",
+          "citacao_completa": "COELHO, V. M. S. ; XAVIER, G.V.R. ; ALBUQUERQUE, D. F. ; MATOS, J. N. P. S. ; OLIVEIRA, A. S. R. ; CARVALHO, N. B. . Link budget analysis of an FMCW RADAR altimeter for a CubeSat. In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Near-Field Impact in the Radar Cross Section for Satellite Remoting Sensing Applications",
+          "autores": "ALBUQUERQUE, D. F. ; CLERIGO, A. P. ; COELHO, V. M. S. ; XAVIER, G.V.R. ; MATOS, J. N. P. S. ; CARVALHO, N. B.",
+          "periodico": "In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022.",
+          "doi": "",
+          "citacao_completa": "ALBUQUERQUE, D. F. ; CLERIGO, A. P. ; COELHO, V. M. S. ; XAVIER, G.V.R. ; MATOS, J. N. P. S. ; CARVALHO, N. B. . Near-Field Impact in the Radar Cross Section for Satellite Remoting Sensing Applications. In: Advanced Remote Sensing Instruments (ARSI) + Ka-band EO Radar Mission (KEO), 2022, Noordwijk. ARSI+KEO Proceedings, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Antennas Comparison Applied to Detect Partial Discharges Coupled via Dielectric Window and Oil Valve in Power Transformers",
+          "autores": "SOUZA, A. S. ; FREIRE, RAIMUNDO ; NOBREGA, L. A. M. M. ; BENTO, F. A. S. ; XAVIER, G.V.R. ; ANDRADE, M.",
+          "periodico": "In: 25th IMEKO TC-4 INTERNATIONAL SYMPOSIUM ON MEASUREMENT OF ELECTRICAL QUANTITIES, 2022, Brescia. 25th IMEKO TC-4 Proceedings, 2022.",
+          "doi": "",
+          "citacao_completa": "SOUZA, A. S. ; FREIRE, RAIMUNDO ; NOBREGA, L. A. M. M. ; BENTO, F. A. S. ; XAVIER, G.V.R. ; ANDRADE, M. . Antennas Comparison Applied to Detect Partial Discharges Coupled via Dielectric Window and Oil Valve in Power Transformers. In: 25th IMEKO TC-4 INTERNATIONAL SYMPOSIUM ON MEASUREMENT OF ELECTRICAL QUANTITIES, 2022, Brescia. 25th IMEKO TC-4 Proceedings, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Avaliação de Técnicas de Inteligência Artificial na Classificação de Descargas Parciais",
+          "autores": "SILVA, A. D. C. ; CARVALHO, I. F. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; Costa, E. G.",
+          "periodico": "In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO, 2021, Havana. ACTAS DEL CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO, 2021.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. D. C. ; CARVALHO, I. F. ; NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; Costa, E. G. . Avaliação de Técnicas de Inteligência Artificial na Classificação de Descargas Parciais. In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO, 2021, Havana. ACTAS DEL CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Validation tests for the application of a circular PMA with slotted ground plane for partial discharges detection in power transformers",
+          "autores": "SOUZA, ARTHUR S. ; NOBREGA, LUIZ AUGUSTO M. M. ; SERRES, ALEXANDRE J. R. ; COSTA, EDSON G. DA ; XAVIER, GEORGE V. R. ; CRUZ, ANA RITA D. DA ; GOMES, MATHEUS PETRCIO A.",
+          "periodico": "In: 2020 14th European Conference on Antennas and Propagation (EuCAP), 2020, Copenhagen. 2020 14th European Conference on Antennas and Propagation (EuCAP), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.23919/eucap48036.2020.9136091",
+          "citacao_completa": "SOUZA, ARTHUR S. ; NOBREGA, LUIZ AUGUSTO M. M. ; SERRES, ALEXANDRE J. R. ; COSTA, EDSON G. DA ; XAVIER, GEORGE V. R. ; CRUZ, ANA RITA D. DA ; GOMES, MATHEUS PETRCIO A. . Validation tests for the application of a circular PMA with slotted ground plane for partial discharges detection in power transformers. In: 2020 14th European Conference on Antennas and Propagation (EuCAP), 2020, Copenhagen. 2020 14th European Conference on Antennas and Propagation (EuCAP), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comparação de Classificadores na Análise de Gases Dissolvidos",
+          "autores": "OLIVEIRA NETO, J. J. ; XAVIER, G. V. R. ; CARDOSO, D. O. ; CANUTO, J. C.",
+          "periodico": "In: VIII Simpósio Brasileiro de Sistemas Elétricos - Virtual, 2020, Santo André - SP (Virtual). Anais do VIII Simpósio Brasileiro de Sistemas Elétricos - Virtual, 2020.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA NETO, J. J. ; XAVIER, G. V. R. ; CARDOSO, D. O. ; CANUTO, J. C. . Comparação de Classificadores na Análise de Gases Dissolvidos. In: VIII Simpósio Brasileiro de Sistemas Elétricos - Virtual, 2020, Santo André - SP (Virtual). Anais do VIII Simpósio Brasileiro de Sistemas Elétricos - Virtual, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Evaluation of Partial Discharge Sources Location Algorithms on Signals with Different Signal to Noise Ratio",
+          "autores": "SILVA, A. D. C. ; NOBREGA, L. A. M. M. ; Costa, E. G. ; XAVIER, G. V. R. ; CRUZ, A. R. D. ; GOMES, M. P. A.",
+          "periodico": "In: 2020 IEEE International Conference on High Voltage Engineering and Application, 2020, Beijing. ICHVE 2020 Proceedings, 2020.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. D. C. ; NOBREGA, L. A. M. M. ; Costa, E. G. ; XAVIER, G. V. R. ; CRUZ, A. R. D. ; GOMES, M. P. A. . Evaluation of Partial Discharge Sources Location Algorithms on Signals with Different Signal to Noise Ratio. In: 2020 IEEE International Conference on High Voltage Engineering and Application, 2020, Beijing. ICHVE 2020 Proceedings, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "INFLUÊNCIA DE ESTRUTURAS MECÂNICAS NO PROJETO DE UM SENSOR UHF PARA DETECÇÃO DE DESCARGAS PARCIAIS EM TRANSFORMADORES DE POTÊNCIA",
+          "autores": "AQUINO, MARCUS ; XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R.",
+          "periodico": "In: XVIII Encontro Regional Ibero-americano do Cigré - ERIAC, 2019, Foz do Iguaçu. Anais do XVIII Encontro Regional Ibero-americano do Cigré - ERIAC, 2019.",
+          "doi": "",
+          "citacao_completa": "AQUINO, MARCUS ; XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. . INFLUÊNCIA DE ESTRUTURAS MECÂNICAS NO PROJETO DE UM SENSOR UHF PARA DETECÇÃO DE DESCARGAS PARCIAIS EM TRANSFORMADORES DE POTÊNCIA. In: XVIII Encontro Regional Ibero-americano do Cigré - ERIAC, 2019, Foz do Iguaçu. Anais do XVIII Encontro Regional Ibero-americano do Cigré - ERIAC, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliação da Inserção de Camadas Dielétricas no Desempenho de Sensor UHF de Microfita Aplicado a Detecção de Descargas Parciais",
+          "autores": "AQUINO, MARCUS ; XAVIER, G. V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, E. G. ; SERRES, A. J. R.",
+          "periodico": "In: III International Workshop on Advanced Dielectrics and Applications - 3rd IWADA, 2019, Campina Grande. Proceedings of the III International Workshop on Advanced Dielectrics and Applications, 2019.",
+          "doi": "",
+          "citacao_completa": "AQUINO, MARCUS ; XAVIER, G. V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, E. G. ; SERRES, A. J. R. . Avaliação da Inserção de Camadas Dielétricas no Desempenho de Sensor UHF de Microfita Aplicado a Detecção de Descargas Parciais. In: III International Workshop on Advanced Dielectrics and Applications - 3rd IWADA, 2019, Campina Grande. Proceedings of the III International Workshop on Advanced Dielectrics and Applications, 2019."
+        },
+        {
+          "ano": 1965,
+          "titulo": "Metamaterial Application in a Circular Microstrip Antenna Developed for the Detection of Partial Discharges",
+          "autores": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; ALBUQUERQUE, CAMILA C. R.",
+          "periodico": "In: 2019 IEEE International Symposium on Antennas and Propagation and USNCURSI Radio Science Meeting, 2019, Atlanta. 2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019. p. 1965.",
+          "doi": "http://dx.doi.org/10.1109/apusncursinrsm.2019.8888686",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; ALBUQUERQUE, CAMILA C. R. . Metamaterial Application in a Circular Microstrip Antenna Developed for the Detection of Partial Discharges. In: 2019 IEEE International Symposium on Antennas and Propagation and USNCURSI Radio Science Meeting, 2019, Atlanta. 2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019. p. 1965."
+        },
+        {
+          "ano": 2019,
+          "titulo": "L-Probe and U-Slot Microstrip Circular Antenna for Application in the Detection of Partial Discharges in Power Transformers",
+          "autores": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; ALBUQUERQUE, CAMILA C. R.",
+          "periodico": "In: 2019 IEEE International Symposium on Antennas and Propagation and USNCURSI Radio Science Meeting, 2019, Atlanta. 2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019. p. 251.",
+          "doi": "http://dx.doi.org/10.1109/apusncursinrsm.2019.8888676",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. ; ALBUQUERQUE, CAMILA C. R. . L-Probe and U-Slot Microstrip Circular Antenna for Application in the Detection of Partial Discharges in Power Transformers. In: 2019 IEEE International Symposium on Antennas and Propagation and USNCURSI Radio Science Meeting, 2019, Atlanta. 2019 IEEE International Symposium on Antennas and Propagation and USNC-URSI Radio Science Meeting, 2019. p. 251."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Circular Printed Monopole Antenna with Slotted Ground Plane for Application in the Detection of Partial Discharges in Power Transformers",
+          "autores": "XAVIER, GEORGE V. R. ; SERRES, ALEXANDRE J. R. ; DA COSTA, EDSON G. ; DE ALBUQUERQUE, CAMILA C. R.",
+          "periodico": "In: 2019 4th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2019, Sao Paulo. 2019 4th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INSCIT.2019.8868356",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; SERRES, ALEXANDRE J. R. ; DA COSTA, EDSON G. ; DE ALBUQUERQUE, CAMILA C. R. . Circular Printed Monopole Antenna with Slotted Ground Plane for Application in the Detection of Partial Discharges in Power Transformers. In: 2019 4th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2019, Sao Paulo. 2019 4th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2019. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise do Desempenho de um Sistema Elétrico Devido à inserção de Geração Eólica: Estudo de Caso",
+          "autores": "ALVES, M. R. ; Costa, E. G. ; LIRA, G. R. S. ; XAVIER, G.V.R. ; SILVA, A. I. N. ; BARBOSA, V. R. N.",
+          "periodico": "In: XIV Congreso Internacional de Alta de Tensión y Aislamiento Eléctrico, 2019, Guadalajara. Anais do XIV Congreso Internacional de Alta de Tensión y Aislamiento Eléctrico, 2019.",
+          "doi": "",
+          "citacao_completa": "ALVES, M. R. ; Costa, E. G. ; LIRA, G. R. S. ; XAVIER, G.V.R. ; SILVA, A. I. N. ; BARBOSA, V. R. N. . Análise do Desempenho de um Sistema Elétrico Devido à inserção de Geração Eólica: Estudo de Caso. In: XIV Congreso Internacional de Alta de Tensión y Aislamiento Eléctrico, 2019, Guadalajara. Anais do XIV Congreso Internacional de Alta de Tensión y Aislamiento Eléctrico, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "UWB Printed Monopole Antennas for Application in Detection of Partial Discharges",
+          "autores": "CRUZ, J. N. ; FREIRE, R. C. S. ; SERRES, A. J. R. ; XAVIER, G. V. R. ; NOBREGA, L. A. M. M.",
+          "periodico": "In: 12th European Conference on Antennas and Propagation, 2018, Londres. IEEE Xplore Digital Library, 2018.",
+          "doi": "",
+          "citacao_completa": "CRUZ, J. N. ; FREIRE, R. C. S. ; SERRES, A. J. R. ; XAVIER, G. V. R. ; NOBREGA, L. A. M. M. . UWB Printed Monopole Antennas for Application in Detection of Partial Discharges. In: 12th European Conference on Antennas and Propagation, 2018, Londres. IEEE Xplore Digital Library, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Study on the Applicability of Microstrip Circular Antennas in Partial Discharges Detection in Power Transformers",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; OLIVEIRA, A. C. ; NOBREGA, L. A. M. M.",
+          "periodico": "In: VII Simpósio Brasileiro de Sistemas Elétricos de Potência, 2018, Niterói. IEEE Xplore Digital Library, 2018.",
+          "doi": "http://dx.doi.org/10.1109/SBSE.2018.8395595",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; OLIVEIRA, A. C. ; NOBREGA, L. A. M. M. . Study on the Applicability of Microstrip Circular Antennas in Partial Discharges Detection in Power Transformers. In: VII Simpósio Brasileiro de Sistemas Elétricos de Potência, 2018, Niterói. IEEE Xplore Digital Library, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Investigating reflections and refractions effects in the UHF Location of partial discharges in power transformers using time domain simulation",
+          "autores": "NOBREGA, LUIZ A. M. M. ; XAVIER, GEORGE V. R. ; SERRES, ALEXANDRE J. R. ; DA COSTA, E EDSON G.",
+          "periodico": "In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/sbse.2018.8395674",
+          "citacao_completa": "NOBREGA, LUIZ A. M. M. ; XAVIER, GEORGE V. R. ; SERRES, ALEXANDRE J. R. ; DA COSTA, E EDSON G. . Investigating reflections and refractions effects in the UHF Location of partial discharges in power transformers using time domain simulation. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Design and Application of an UHF Microstrip Circular Antenna for Partial Discharges Detection in Power Transformers",
+          "autores": "XAVIER, G. V. R. ; DA COSTA, E. G. ; SERRES, A. J. R. ; SOUSA, H. F. S. ; DE OLIVEIRA, A. C. ; NOBREGA, L. A. M. M.",
+          "periodico": "In: 2018 IEEE International Conference on High Voltage Engineering and Application (ICHVE), 2018, ATHENS. 2018 IEEE International Conference on High Voltage Engineering and Application (ICHVE), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICHVE.2018.8641988",
+          "citacao_completa": "XAVIER, G. V. R. ; DA COSTA, E. G. ; SERRES, A. J. R. ; SOUSA, H. F. S. ; DE OLIVEIRA, A. C. ; NOBREGA, L. A. M. M. . Design and Application of an UHF Microstrip Circular Antenna for Partial Discharges Detection in Power Transformers. In: 2018 IEEE International Conference on High Voltage Engineering and Application (ICHVE), 2018, ATHENS. 2018 IEEE International Conference on High Voltage Engineering and Application (ICHVE), 2018. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Antena de Microfita Circular com Sonda em L para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; NOBREGA, L. A. M. M.",
+          "periodico": "In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018.",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; NOBREGA, L. A. M. M. . Antena de Microfita Circular com Sonda em L para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos",
+          "autores": "Silva, H. S. ; QUEIROZ, W. J. L. ; ALMEIDA, D. B. T. ; Sousa, H. F. ; XAVIER, G. V. R.",
+          "periodico": "In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018.",
+          "doi": "",
+          "citacao_completa": "Silva, H. S. ; QUEIROZ, W. J. L. ; ALMEIDA, D. B. T. ; Sousa, H. F. ; XAVIER, G. V. R. . Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Avaliação da Compensação de Reativos no Cálculo de Potência em Condições não-senoidais",
+          "autores": "Coelho, R. A. ; XAVIER, G. V. R. ; LIMA, E. M. ; BRITO, N. S. D. ; LIRA, G. R. S.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018.",
+          "doi": "",
+          "citacao_completa": "Coelho, R. A. ; XAVIER, G. V. R. ; LIMA, E. M. ; BRITO, N. S. D. ; LIRA, G. R. S. . Avaliação da Compensação de Reativos no Cálculo de Potência em Condições não-senoidais. In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Antena de Microfita Circular com U-Slot para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência",
+          "autores": "XAVIER, GEORGE V. R. ; SERRES, A. J. R. ; Costa, E. G.",
+          "periodico": "In: VIII CONFERÊNCIA NACIONAL EM COMUNICAÇÕES, REDES E SEGURANÇA DA INFORMAÇÃO (ENCOM 2018), 2018, Salvador. Anais da VIII CONFERÊNCIA NACIONAL EM COMUNICAÇÕES, REDES E SEGURANÇA DA INFORMAÇÃO (ENCOM 2018), 2018.",
+          "doi": "",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; SERRES, A. J. R. ; Costa, E. G. . Antena de Microfita Circular com U-Slot para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência. In: VIII CONFERÊNCIA NACIONAL EM COMUNICAÇÕES, REDES E SEGURANÇA DA INFORMAÇÃO (ENCOM 2018), 2018, Salvador. Anais da VIII CONFERÊNCIA NACIONAL EM COMUNICAÇÕES, REDES E SEGURANÇA DA INFORMAÇÃO (ENCOM 2018), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "DIELECTRIC CHARACTERISTICS COMPARISON OF INSULATING BABAÇU?S GRAIN VEGETABLE OIL AND TRANSFORMERS MINERAL OIL",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; Dias, R. A. ; Sousa, H. F. ; Ferreira, R. ; Alves, L. N.",
+          "periodico": "In: 20th International Symposium on High Voltage Engineering - ISH, 2017, Buenos Aires. ISH 2017 - Conference Proceedings, 2017.",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; Dias, R. A. ; Sousa, H. F. ; Ferreira, R. ; Alves, L. N. . DIELECTRIC CHARACTERISTICS COMPARISON OF INSULATING BABAÇU?S GRAIN VEGETABLE OIL AND TRANSFORMERS MINERAL OIL. In: 20th International Symposium on High Voltage Engineering - ISH, 2017, Buenos Aires. ISH 2017 - Conference Proceedings, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "INFLUENCE OF TOWNSEND?S COEFFICIENTS IN THE BEHAVIOR OF N2 AND SF6 DISCHARGES",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; Coelho, R. A. ; Andrade, A. F. ; Barbosa, L. A. ; Meira, R. N.",
+          "periodico": "In: International Symposium on High Voltage Engineering, 2017, Buenos Aires. ISH 2017 - Conference Proceedings, 2017.",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; Coelho, R. A. ; Andrade, A. F. ; Barbosa, L. A. ; Meira, R. N. . INFLUENCE OF TOWNSEND?S COEFFICIENTS IN THE BEHAVIOR OF N2 AND SF6 DISCHARGES. In: International Symposium on High Voltage Engineering, 2017, Buenos Aires. ISH 2017 - Conference Proceedings, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Codificação de Canal em Redes de Sensores Sem Fio Empregadas na Indústria de Petróleo e Gás",
+          "autores": "XAVIER, G. V. R. ; LIMA, L.B.S.",
+          "periodico": "In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém. Anais do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2016), 2016.",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; LIMA, L.B.S. . Codificação de Canal em Redes de Sensores Sem Fio Empregadas na Indústria de Petróleo e Gás. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém. Anais do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2016), 2016."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "A Bioinspired Antenna Based on Acer macrophyllum Leaf for Partial Discharge Detection in High Voltage Equipment",
+          "autores": "NETO, DIJALMA D. P. ; XAVIER, G.V.R. ; Silva, H. S.",
+          "periodico": "2025. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "NETO, DIJALMA D. P. ; XAVIER, G.V.R. ; Silva, H. S. . A Bioinspired Antenna Based on Acer macrophyllum Leaf for Partial Discharge Detection in High Voltage Equipment. 2025. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Impact of Wavelet-Based Denoising on the Robustness of SVM Classification of Partial Discharge Signals",
+          "autores": "SANTOS, W. G. S. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S.",
+          "periodico": "2025. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SANTOS, W. G. S. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S. . Impact of Wavelet-Based Denoising on the Robustness of SVM Classification of Partial Discharge Signals. 2025. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Classification of UHF Partial Discharges Sources Through Envelope: Feature Selection and Dimensionality Reduction",
+          "autores": "FILHO, BOAVENTURA O. VIANA ; LIMA NETO, J. M. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S.",
+          "periodico": "2025. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "FILHO, BOAVENTURA O. VIANA ; LIMA NETO, J. M. ; XAVIER, G.V.R. ; SANTOS JUNIOR, A. C. ; SERRES, A. J. R. ; Silva, H. S. . Classification of UHF Partial Discharges Sources Through Envelope: Feature Selection and Dimensionality Reduction. 2025. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Simulation of an FMCW RADAR altimeter for a CubeSat",
+          "autores": "XAVIER, G.V.R. ; COELHO, V. M. S. ; ALBUQUERQUE, D. F. ; OLIVEIRA, ARNALDO S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B.",
+          "periodico": "2022. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G.V.R. ; COELHO, V. M. S. ; ALBUQUERQUE, D. F. ; OLIVEIRA, ARNALDO S. R. ; MATOS, J. N. P. S. ; CARVALHO, N. B. . Simulation of an FMCW RADAR altimeter for a CubeSat. 2022. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "INFLUÊNCIA DE ESTRUTURAS MECÂNICAS NO PROJETO DE UM SENSOR UHF PARA DETECÇÃO DE DESCARGAS PARCIAIS EM TRANSFORMADORES DE POTÊNCIA",
+          "autores": "AQUINO, MARCUS ; XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R.",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "AQUINO, MARCUS ; XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M. ; DA COSTA, EDSON G. ; SERRES, ALEXANDRE J. R. . INFLUÊNCIA DE ESTRUTURAS MECÂNICAS NO PROJETO DE UM SENSOR UHF PARA DETECÇÃO DE DESCARGAS PARCIAIS EM TRANSFORMADORES DE POTÊNCIA. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Study on the Applicability of Microstrip Circular Antennas in Partial Discharges Detection in Power Transformers",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; OLIVEIRA, A. C. ; NOBREGA, L. A. M. M. ; CRUZ, J. N.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; SERRES, A. J. R. ; OLIVEIRA, A. C. ; NOBREGA, L. A. M. M. ; CRUZ, J. N. . Study on the Applicability of Microstrip Circular Antennas in Partial Discharges Detection in Power Transformers. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Investigation of Reflections and Refractions of Radiation of Partial Discharges in Power Transformers Using Time Domain Simulation",
+          "autores": "NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; Costa, E. G.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "NOBREGA, L. A. M. M. ; XAVIER, G. V. R. ; Costa, E. G. . Investigation of Reflections and Refractions of Radiation of Partial Discharges in Power Transformers Using Time Domain Simulation. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos",
+          "autores": "Silva, H. S. ; QUEIROZ, W. J. L. ; ALMEIDA, D. B. T. ; Sousa, H. F. ; XAVIER, G.V.R.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "Silva, H. S. ; QUEIROZ, W. J. L. ; ALMEIDA, D. B. T. ; Sousa, H. F. ; XAVIER, G.V.R. . Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Antena de Microfita Circular com Sonda em L para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência",
+          "autores": "XAVIER, G.V.R. ; Costa, E. G. ; SERRES, A. J. R. ; NOBREGA, L. A. M. M.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G.V.R. ; Costa, E. G. ; SERRES, A. J. R. ; NOBREGA, L. A. M. M. . Antena de Microfita Circular com Sonda em L para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Antena de Microfita Circular com U-Slot para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência",
+          "autores": "XAVIER, G.V.R. ; SERRES, A. J. R. ; COSTA, E.G.",
+          "periodico": "2018. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G.V.R. ; SERRES, A. J. R. ; COSTA, E.G. . Antena de Microfita Circular com U-Slot para Aplicação na Detecção de Descargas Parciais em Transformadores de Potência. 2018. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Influence of Townsend?s Coefficients in the Behavior of Discharges in N2 and SF6",
+          "autores": "XAVIER, G. V. R. ; DA COSTA, EDSON G. ; Andrade, A. F. ; COELHO, R. A. ; Barbosa, L. A. ; Meira, R. N.",
+          "periodico": "2017. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; DA COSTA, EDSON G. ; Andrade, A. F. ; COELHO, R. A. ; Barbosa, L. A. ; Meira, R. N. . Influence of Townsend?s Coefficients in the Behavior of Discharges in N2 and SF6. 2017. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Dielectric Characteristics Comparison of Insulating Babaçu?s Grain Vegetable Oil and Transformers Mineral Oil",
+          "autores": "XAVIER, G. V. R. ; Costa, E. G. ; Dias, R. A. ; Ferreira, R. ; Alves, L. N. ; Sousa, H. F.",
+          "periodico": "2017. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "XAVIER, G. V. R. ; Costa, E. G. ; Dias, R. A. ; Ferreira, R. ; Alves, L. N. ; Sousa, H. F. . Dielectric Characteristics Comparison of Insulating Babaçu?s Grain Vegetable Oil and Transformers Mineral Oil. 2017. (Apresentação de Trabalho/Simpósio)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Ambiente virtual para instalações elétricas prediais: uma proposta de desenvolvimento e validação no ensino e aprendizagem de engenharia elétrica",
+          "membros": "FERREIRA, T. V.; ARAUJO, J. F.; XAVIER, G.V.R. ; GOMES, C. M. A.; SILVEIRA, I. F.",
+          "candidato": "Rebeca Lorena Santos Maia Gomes",
+          "citacao_completa": "FERREIRA, T. V.; ARAUJO, J. F.; XAVIER, G.V.R. ; GOMES, C. M. A.; SILVEIRA, I. F.. Participação em banca de Rebeca Lorena Santos Maia Gomes. Ambiente virtual para instalações elétricas prediais: uma proposta de desenvolvimento e validação no ensino e aprendizagem de engenharia elétrica. 2026. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detecção e Localização de Descargas Parciais a Partir de Envelopes de Sinais Radiométricos",
+          "membros": "XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M.; FREIRE, R. C. S.; Costa, E. G.; SOUSA, F. R.",
+          "candidato": "Allan David da Costa Silva",
+          "citacao_completa": "XAVIER, GEORGE V. R. ; NOBREGA, L. A. M. M.; FREIRE, R. C. S.; Costa, E. G.; SOUSA, F. R.. Participação em banca de Allan David da Costa Silva. Detecção e Localização de Descargas Parciais a Partir de Envelopes de Sinais Radiométricos. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2023,
+          "titulo": "SENSORES A ONDA DE LOVE APLICADOS A CLASSIFICAÇÃO DE ÓLEOS DE TRANSFORMADOR: PROVA DE CONCEITO",
+          "membros": "SERRES, A. J. R.; XAVIER, G.V.R. ; NOBREGA, L. A. M. M.; FREIRE, R. C. S.; NUNES, E. A.; TAMARIN, O.",
+          "candidato": "ARTHUR SILVA SOUZA",
+          "citacao_completa": "SERRES, A. J. R.; XAVIER, G.V.R. ; NOBREGA, L. A. M. M.; FREIRE, R. C. S.; NUNES, E. A.; TAMARIN, O.. Participação em banca de ARTHUR SILVA SOUZA. SENSORES A ONDA DE LOVE APLICADOS A CLASSIFICAÇÃO DE ÓLEOS DE TRANSFORMADOR: PROVA DE CONCEITO. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Classificação da Hidrofobicidade em Isoladores Elétricos Utilizando Análise de Frequência e RNA",
+          "membros": "MONTALVAO FILHO, J. R.; XAVIER, G.V.R. ; FLORENTINO, M. T. B.; VILELA FERREIRA, TARSO",
+          "candidato": "Matheus Santos Macedo",
+          "citacao_completa": "MONTALVAO FILHO, J. R.; XAVIER, G.V.R. ; FLORENTINO, M. T. B.; VILELA FERREIRA, TARSO. Participação em banca de Matheus Santos Macedo. Classificação da Hidrofobicidade em Isoladores Elétricos Utilizando Análise de Frequência e RNA. 2022. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Detecção e Classificação on-line de Fontes de Descargas Parciais em Transformadores de Corrente Utilizando Sensores HFCT",
+          "membros": "Costa, E. G.; LIRA, G. R. S.; XAVIER, G.V.R. ; NEVES, W. L. A.; VILAR, P. B.; WANDERLEY NETO, E. T.; DANTAS, K. M. C.",
+          "candidato": "JOÃO VICTOR JALES DA SILVA MELO",
+          "citacao_completa": "Costa, E. G.; LIRA, G. R. S.; XAVIER, G.V.R. ; NEVES, W. L. A.; VILAR, P. B.; WANDERLEY NETO, E. T.; DANTAS, K. M. C.. Participação em banca de JOÃO VICTOR JALES DA SILVA MELO. Detecção e Classificação on-line de Fontes de Descargas Parciais em Transformadores de Corrente Utilizando Sensores HFCT. 2026. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2025,
+          "titulo": "DETECÇÃO E CLASSIFICAÇÃO DE DESCARGAS PARCIAIS EM EQUIPAMENTOS DE ALTA TENSÃO POR SENSORES HF/VHF",
+          "membros": "Costa, E. G.; GOMES NETO, A.; FERREIRA, T. V.; SERRES, A. J. R.; LIRA, G. R. S.; Xavier, G.V.R.",
+          "candidato": "Lenilson Andrade Barbosa",
+          "citacao_completa": "Costa, E. G.; GOMES NETO, A.; FERREIRA, T. V.; SERRES, A. J. R.; LIRA, G. R. S.; Xavier, G.V.R. . Participação em banca de Lenilson Andrade Barbosa. DETECÇÃO E CLASSIFICAÇÃO DE DESCARGAS PARCIAIS EM EQUIPAMENTOS DE ALTA TENSÃO POR SENSORES HF/VHF. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Diagnóstico e Prognóstico On-line do Estado Operacional de Transformadores de Corrente",
+          "membros": "NEVES, W. L. A.; DANTAS, K. M. C.; WANDERLEY NETO, E. T.; Xavier, G.V.R. ; VILAR, P. B.",
+          "candidato": "João Victor Jales de Melo",
+          "citacao_completa": "NEVES, W. L. A.; DANTAS, K. M. C.; WANDERLEY NETO, E. T.; Xavier, G.V.R. ; VILAR, P. B.. Participação em banca de João Victor Jales de Melo. Diagnóstico e Prognóstico On-line do Estado Operacional de Transformadores de Corrente. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": "MONITORAMENTO DE DESCARGAS PARCIAIS EM EQUIPAMENTOS DE ALTA TENSÃO POR SENSORES HF/UHF",
+          "membros": "XAVIER, G.V.R. ; Costa, E. G.; GOMES NETO, A.; LIRA, G. R. S.; FERREIRA, T. V.; SERRES, A. J. R.",
+          "candidato": "Lenilson Andrade Barbosa",
+          "citacao_completa": "XAVIER, G.V.R. ; Costa, E. G.; GOMES NETO, A.; LIRA, G. R. S.; FERREIRA, T. V.; SERRES, A. J. R.. Participação em banca de Lenilson Andrade Barbosa. MONITORAMENTO DE DESCARGAS PARCIAIS EM EQUIPAMENTOS DE ALTA TENSÃO POR SENSORES HF/UHF. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".VIABILIDADE TÉCNICO-ECONÔMICA DA INSTALAÇÃO DE SISTEMAS DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS EM USINAS FOTOVOLTAICAS GD",
+          "membros": "SILVA, M. S.; ALMEIDA, A. M. F.; XAVIER, G.V.R.",
+          "candidato": "Rodrigo Andrey Santos Dantas",
+          "citacao_completa": "SILVA, M. S.; ALMEIDA, A. M. F.; XAVIER, G.V.R. . Participação em banca de Rodrigo Andrey Santos Dantas.VIABILIDADE TÉCNICO-ECONÔMICA DA INSTALAÇÃO DE SISTEMAS DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS EM USINAS FOTOVOLTAICAS GD. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".CONTROLE DE VELOCIDADE DE MOTOR CC",
+          "membros": "OLIVEIRA, L. P. B.; CARDOSO, C. V.; XAVIER, G.V.R.",
+          "candidato": "Ian Kaique Santos Gomes",
+          "citacao_completa": "OLIVEIRA, L. P. B.; CARDOSO, C. V.; XAVIER, G.V.R. . Participação em banca de Ian Kaique Santos Gomes.CONTROLE DE VELOCIDADE DE MOTOR CC. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".DESENVOLVIMENTO DE UM SISTEMA DE EXCITATRIZ PARA O GERADOR SÍNCRONO",
+          "membros": "OLIVEIRA, L. P. B.; BARROS, L. M.; XAVIER, G.V.R.",
+          "candidato": "Jeane Nascimento de Oliveira",
+          "citacao_completa": "OLIVEIRA, L. P. B.; BARROS, L. M.; XAVIER, G.V.R. . Participação em banca de Jeane Nascimento de Oliveira.DESENVOLVIMENTO DE UM SISTEMA DE EXCITATRIZ PARA O GERADOR SÍNCRONO. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".Aprimoramento do treinamento de modelo de detecção de isoladores defeituosos a partir de dados sintéticos",
+          "membros": "FERREIRA, T. V.; FREIRE, E. O.; XAVIER, G.V.R.",
+          "candidato": "André Jacintho Milone Silva",
+          "citacao_completa": "FERREIRA, T. V.; FREIRE, E. O.; XAVIER, G.V.R. . Participação em banca de André Jacintho Milone Silva.Aprimoramento do treinamento de modelo de detecção de isoladores defeituosos a partir de dados sintéticos. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Análise da Reconfiguração de Redes Elétricas através de Algoritmos Genéticos integrados ao Software OpenDSS",
+          "membros": "ALMEIDA, A. M. F.; SOUSA, A. A.; Xavier, George V.R.",
+          "candidato": "CLEITON SOUZA CUNHA",
+          "citacao_completa": "ALMEIDA, A. M. F.; SOUSA, A. A.; Xavier, George V.R. . Participação em banca de CLEITON SOUZA CUNHA.Análise da Reconfiguração de Redes Elétricas através de Algoritmos Genéticos integrados ao Software OpenDSS. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".ANÁLISE TÉCNICO-ECONÔMICA PARA IMPLANTAÇÃO DE SISTEMAS FOTOVOLTAICOS OFF-GRID APLICADOS NA INMÓTICA",
+          "membros": "SILVA, M. S.; Xavier, George V.R. ; GOMES NETO, J. C.",
+          "candidato": "Bergson Marinho Santos Conceição",
+          "citacao_completa": "SILVA, M. S.; Xavier, George V.R. ; GOMES NETO, J. C.. Participação em banca de Bergson Marinho Santos Conceição.ANÁLISE TÉCNICO-ECONÔMICA PARA IMPLANTAÇÃO DE SISTEMAS FOTOVOLTAICOS OFF-GRID APLICADOS NA INMÓTICA. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".PROTEÇÃO CONTRA INCÊNDIO EM SISTEMAS FOTOVOLTAICOS",
+          "membros": "SILVA, M. S.; Xavier, G.V.R. ; SANTOS, J. L. C.",
+          "candidato": "ITALO GONÇALVES GOMES",
+          "citacao_completa": "SILVA, M. S.; Xavier, G.V.R. ; SANTOS, J. L. C.. Participação em banca de ITALO GONÇALVES GOMES.PROTEÇÃO CONTRA INCÊNDIO EM SISTEMAS FOTOVOLTAICOS. ESTUDO DA VIABILIDADE TÉCNICO ECONÔMICA DA IMPLEMENTAÇÃO DOS SISTEMAS RSD E AFCI. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Impacto da TUSD Fio B na Geração Distribuída: Análise para consumidores conectados em baixa tensão",
+          "membros": "ALMEIDA, A. M. F.; Xavier, G.V.R. ; FERREIRA, T. V.",
+          "candidato": "Elvis Araújo dos Santos",
+          "citacao_completa": "ALMEIDA, A. M. F.; Xavier, G.V.R. ; FERREIRA, T. V.. Participação em banca de Elvis Araújo dos Santos.Impacto da TUSD Fio B na Geração Distribuída: Análise para consumidores conectados em baixa tensão. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".ATERRAMENTO E PROTEÇÃO EM USINAS FOTOVOLTAICAS",
+          "membros": "SOUSA, A. A.; XAVIER, G.V.R. ; SILVA, M. S.",
+          "candidato": "Luís Eduardo Peixoto",
+          "citacao_completa": "SOUSA, A. A.; XAVIER, G.V.R. ; SILVA, M. S.. Participação em banca de Luís Eduardo Peixoto.ATERRAMENTO E PROTEÇÃO EM USINAS FOTOVOLTAICAS. CASO DE ESTUDO COLÉGIO DE APLICAÇÃO ? CODAP DA UFS. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".ESTUDO DE PROTEÇÃO EM SISTEMAS FOTOVOLTAICOS CONECTADOS À REDE (ON-GRID)",
+          "membros": "SOUSA, A. A.; George V. R. Xavier ; SILVA, M. S.",
+          "candidato": "João Paulo Lima de Assis",
+          "citacao_completa": "SOUSA, A. A.; George V. R. Xavier ; SILVA, M. S.. Participação em banca de João Paulo Lima de Assis.ESTUDO DE PROTEÇÃO EM SISTEMAS FOTOVOLTAICOS CONECTADOS À REDE (ON-GRID). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Despacho econômico ambiental de centrais termelétricas utilizando programação quadrática considerando perdas na transmissão",
+          "membros": "SOUSA, A. A.; ALMEIDA, A. M. F.; GEORGE V. R. XAVIER",
+          "candidato": "Elson Amorim Simões Filho",
+          "citacao_completa": "SOUSA, A. A.; ALMEIDA, A. M. F.; GEORGE V. R. XAVIER . Participação em banca de Elson Amorim Simões Filho.Despacho econômico ambiental de centrais termelétricas utilizando programação quadrática considerando perdas na transmissão. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Avaliação dos Impactos no Fornecimento de Energia Elétrica com a Inserção de Veículos Elétricos No Sistema de Distribuição",
+          "membros": "SOUSA, A. A.; ALMEIDA, A. M. F.; XAVIER, G.V.R.",
+          "candidato": "Cleidiane Passos Soares",
+          "citacao_completa": "SOUSA, A. A.; ALMEIDA, A. M. F.; XAVIER, G.V.R. . Participação em banca de Cleidiane Passos Soares.Avaliação dos Impactos no Fornecimento de Energia Elétrica com a Inserção de Veículos Elétricos No Sistema de Distribuição. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ANÁLISE DE CONTINGÊNCIAS EM SISTEMAS ELÉTRICOS DE POTÊNCIA UTILIZANDO O SOFTWARE ANAREDE",
+          "membros": "ALMEIDA, A. M. F.; SOUSA, A. A.; XAVIER, GEORGE VICTOR",
+          "candidato": "ADRIELLY COSTA DOS SANTOS",
+          "citacao_completa": "ALMEIDA, A. M. F.; SOUSA, A. A.; XAVIER, GEORGE VICTOR . Participação em banca de ADRIELLY COSTA DOS SANTOS.ANÁLISE DE CONTINGÊNCIAS EM SISTEMAS ELÉTRICOS DE POTÊNCIA UTILIZANDO O SOFTWARE ANAREDE. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise de Viabilidade Técnica-Econômica de Sistemas Híbridos Eólicos-Fotovoltaicos no Brasil",
+          "membros": "SOUSA, A. A.; XAVIER, G.V.R. ; SILVA, M. S.",
+          "candidato": "Guilherme Santana Teles de Oliveira",
+          "citacao_completa": "SOUSA, A. A.; XAVIER, G.V.R. ; SILVA, M. S.. Participação em banca de Guilherme Santana Teles de Oliveira.Análise de Viabilidade Técnica-Econômica de Sistemas Híbridos Eólicos-Fotovoltaicos no Brasil. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Estudo e Avaliação de Desempenho de Métodos de Fluxo de Potência Para Transmissão e Distribuição de Energia Elétrica",
+          "membros": "SOUSA, A. A.; XAVIER, G.V.R. ; ALMEIDA, A. M. F.",
+          "candidato": "Nicholas Emmanouil Alves Fourakis",
+          "citacao_completa": "SOUSA, A. A.; XAVIER, G.V.R. ; ALMEIDA, A. M. F.. Participação em banca de Nicholas Emmanouil Alves Fourakis.Estudo e Avaliação de Desempenho de Métodos de Fluxo de Potência Para Transmissão e Distribuição de Energia Elétrica. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ANÁLISE TARIFÁRIA E O MERCADO DE ENERGIA: ESTUDO DE CASO EM UM SETOR ADMINISTRATIVO DA UNIMED",
+          "membros": "ALMEIDA, A. M. F.; XAVIER, G.V.R. ; SOUSA, A. A.",
+          "candidato": "AUGUSTO SERGIO SILVA SANTOS",
+          "citacao_completa": "ALMEIDA, A. M. F.; XAVIER, G.V.R. ; SOUSA, A. A.. Participação em banca de AUGUSTO SERGIO SILVA SANTOS.ANÁLISE TARIFÁRIA E O MERCADO DE ENERGIA: ESTUDO DE CASO EM UM SETOR ADMINISTRATIVO DA UNIMED. 2022."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".CLASSIFICAÇÃO DE ISOLADORES DE MÉDIA TENSÃO A PARTIR DO RUÍDO ULTRASSÔNICO E RADIAÇÃO ULTRAVIOLETA EMITIDA POR DESCARGAS PARCIAIS",
+          "membros": "OLIVEIRA, A. C.; GEORGE V. R. XAVIER ; SILVA, R. A.",
+          "candidato": "ANDERSON DE ARAUJO VASCONCELOS",
+          "citacao_completa": "OLIVEIRA, A. C.; GEORGE V. R. XAVIER ; SILVA, R. A.. Participação em banca de ANDERSON DE ARAUJO VASCONCELOS.CLASSIFICAÇÃO DE ISOLADORES DE MÉDIA TENSÃO A PARTIR DO RUÍDO ULTRASSÔNICO E RADIAÇÃO ULTRAVIOLETA EMITIDA POR DESCARGAS PARCIAIS. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Centro Universitário Maurício de Nassau - Campina Grande (PB)."
+        }
+      ]
+    }
+  ]
+}

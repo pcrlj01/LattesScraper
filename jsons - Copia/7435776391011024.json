@@ -1,0 +1,758 @@
+{
+  "name": "Daniel Dotta",
+  "lattes_id": "7435776391011024",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "PINHEIRO, BRUNO ; CHOW, JOE H. ; MILANO, FEDERICO ; Dotta, Daniel . Analytical Framework for Assessing Effective Regional Inertia. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 1, p. 1-14, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2026.3705537"
+        },
+        {
+          "texto": "PINHEIRO, BRUNO ; PONCE, IGNACIO ; Dotta, Daniel ; MILANO, FEDERICO . Teager energy operator as a metric to evaluate local synchronization of power system devices. Sustainable Energy Grids & Networks , v. 43, p. 101853, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.segan.2025.101853"
+        },
+        {
+          "texto": "PINHEIRO, BRUNO ; LLERENA VELASQUEZ, M.C. ; FARIA, GIOVANE ; AQUINO, A.F.C. ; ISSICABA, DIEGO ; Dotta, Daniel . Evaluation of the impact of IBR on the frequency dynamics in the Brazilian power system. Sustainable Energy Grids & Networks , v. 43, p. 101827, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.segan.2025.101827"
+        },
+        {
+          "texto": "ORTIZ-BEJAR, JOSE ; ZAMORA-MENDEZ, ALEJANDRO ; PATERNINA, MARIO R. ARRIETA ; MENDIETA-MEJIA, LUIS ; TOLEDO, CARLOS ; ZELAYA-ARRAZABAL, FRANCISCO ; DE LUNA, RODRIGO D. REYES ; ZARATE, JOSÉ ; REYES-MALDONADO, FELIX ; LUGNANI, LUCAS ; RAMOS-GUERRERO, JOSÉ MANUEL ; PINEDA-GARCIA, GARIBALDI ; LIU, YILU ; DE LA O SERNA, JOSÉ ANTONIO ; CHOW, JOE H. ; RAMIREZ, JUAN M. ; LÓPEZ-RIOS, ANTONINO ; Dotta, Daniel . Web-based wide-area monitoring platform for ringdown and clustering analytics in power systems. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 169, p. 110714, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2025.110714"
+        },
+        {
+          "texto": "PEREIRA, JULIANA LUIZA ; MORAES, GUIDO ROSSETTO ; BERNARDO, RAUL TORRES ; Dotta, Daniel ; TIETZ, AUGUSTO ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; ISSICABA, DIEGO . Evaluating the Application of a Perturbation-Based Inertia Estimation Methodology With Synchrophasor Data of the Brazilian Interconnected Power System. IEEE Access , v. 13, p. 120369-120377, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3586839"
+        },
+        {
+          "texto": "LOPES, GABRIEL V. DE S. ; DE AQUINO, ANTONIO F. DA C. ; Dotta, Daniel ; ISSICABA, DIEGO ; PATERNINA, MARIO R. ARRIETA . Real-time multi-label event categorization in the Brazilian interconnected power system. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111036, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2025.111036"
+        },
+        {
+          "texto": "DOS SANTOS, L. E. ; HUAMAN, J. F. ; PEÑA, J. C. U. ; QUEIROZ, E. D. ; DOTTA, D. . A Data-Driven Centralized Secondary Control Design Methodology for Microgrids. IEEE Transactions on Smart Grid , v. 1, p. 1-1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/tsg.2025.3558108"
+        },
+        {
+          "texto": "FERNANDES, LUCAS L. ; PATERNINA, MARIO R. ARRIETA ; Dotta, Daniel ; CHOW, JOE H. . Data-driven assessment of center of inertia and regional inertia content considering load contribution. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 156, p. 109733, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2023.109733"
+        },
+        {
+          "texto": "SERNA, JOSÉ ANTONIO DE LA O ; ZAMORA-MENDEZ, ALEJANDRO ; MEJIA-RUIZ, GABRIEL E. ; PATERNINA, MARIO R. ARRIETA ; Dotta, Daniel ; LUGNANI, LUCAS ; GARCIA, MAIQUE ; SILVA, PAULO R. D. R. . Fast Taylor-Fourier Transform for Monitoring Modern Power Grids with Real-Time Dynamic Harmonic Estimation. IEEE TRANSACTIONS ON POWER DELIVERY , v. 1, p. 1-10, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2024.3400157"
+        },
+        {
+          "texto": "ALVAREZ, WASHINGTON S. ; LÓPEZ, JUAN CAMILO ; LIEDERER, FERNANDO W. ; Dotta, Daniel ; RIDER, MARCOS J. . Dynamic security constrained AC optimal power flow for microgrids. ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110927, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110927"
+        },
+        {
+          "texto": "VIOLA, LUIGI ; MOHAMMADI, SAEED ; Dotta, Daniel ; HESAMZADEH, MOHAMMAD REZA ; BALDICK, ROSS ; FLYNN, DAMIAN . Ancillary services in power system transition toward a 100% non-fossil future: Market design challenges in the United States and Europe. ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110885, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110885"
+        },
+        {
+          "texto": "RODALES, DIEGO ; ZAMORA-MENDEZ, ALEJANDRO ; SERNA, JOSÉ ANTONIO DE LA O ; RAMIREZ, JUAN M. ; PATERNINA, MARIO R. ARRIETA ; LUGNANI, LUCAS ; MEJIA-RUIZ, GABRIEL E. ; SANCHEZ-OCAMPO, ALEXANDER ; Dotta, Daniel . Model-free inertia estimation in bulk power grids through O-splines. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 153, p. 109323, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2023.109323"
+        },
+        {
+          "texto": "BERNARDO, RAUL T. ; CAMPESTRINI, LUCÍOLA ; OLIVEIRA, RICARDO C. L. F. ; AQUINO, ANTONIO F. C. ; Dotta, Daniel . A Data-driven Approach for the Design of Wide-Area Damping Controllers. Journal Of Control Automation And Electrical Systems , v. 1, p. 1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s40313-023-01026-0"
+        },
+        {
+          "texto": "PINHEIRO, BRUNO ; VIOLA, LUIGI ; CHOW, JOE H. ; Dotta, Daniel . An Analytical Formulation for Mapping the Spatial Distribution of Nodal Inertia in Power Systems. IEEE Access , v. 11, p. 45364-45376, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2023.3273901"
+        },
+        {
+          "texto": "FERNANDES, LUCAS L. ; JONES, MORGAN ; ALBERTO, LUIS ; PEET, MATTHEW ; Dotta, Daniel . Combining Trajectory Data With Analytical Lyapunov Functions for Improved Region of Attraction Estimation. Ieee Control Systems Letters , v. 7, p. 271-276, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/lcsys.2022.3187651"
+        },
+        {
+          "texto": "SANTOS, ORLEM L.D. ; Dotta, Daniel ; WANG, MENG ; CHOW, JOE H. ; Decker, Ildemar C. . Performance analysis of a DNN classifier for power system events using an interpretability method. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 136, p. 107594, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107594"
+        },
+        {
+          "texto": "LOPES, GABRIEL V. DE S. ; MORAES, GUIDO R. ; ISSICABA, DIEGO ; Dotta, Daniel . WAMS-based two-level robust detection methodology of power system events. Sustainable Energy Grids & Networks , v. 31, p. 100689-99, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.segan.2022.100689"
+        },
+        {
+          "texto": "LIEDERER, FERNANDO W. ; LÓPEZ, JUAN CAMILO ; RIDER, MARCOS J. ; Dotta, Daniel . Transient stability constrained optimal power flow considering fourth-order synchronous generator model and controls. ELECTRIC POWER SYSTEMS RESEARCH , v. 213, p. 108667, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108667"
+        },
+        {
+          "texto": "LUGNANI, LUCAS ; PATERNINA, MARIO R. ARRIETA ; Dotta, Daniel ; CHOW, JOE H. ; LIU, YILU . Power System Coherency Detection From Wide-Area Measurements by Typicality-Based Data Analysis. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 37, p. 388-401, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2021.3088261"
+        },
+        {
+          "texto": "GARCIA, MAIQUE C. ; Dotta, Daniel ; PEREIRA, LEANDRO ; DE ALMEIDA, MADSON C. ; PATERNINA, MARIO R. A. ; DOS SANTOS, ORLEM LIMA ; DA SILVA, LUIZ C. P. ; JUNIOR, JOSE EDUARDO DA R. ALVES . A Development PMU Device for Living Lab Applications. Journal Of Control Automation And Electrical Systems , v. 99, p. 1, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00734-9"
+        },
+        {
+          "texto": "ALCAHUAMAN, HEVER ; LOPEZ, JUAN CAMILO ; Dotta, Daniel ; RIDER, MARCOS J. ; GHIOCEL, SCOTT . Optimized Reactive Power Capability of Wind Power Plants With Tap-Changing Transformers. IEEE Transactions on Sustainable Energy , v. 12, p. 1935-1946, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/tste.2021.3073658"
+        },
+        {
+          "texto": "MULLER, HELOISA ; CASTRO, CARLOS ; Dotta, Daniel . Allocation of PMU Channels at Substations for Topology Processing and State Estimation. IET Generation Transmission & Distribution , v. 1, p. 700, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2019.0760"
+        },
+        {
+          "texto": "CRUZ, JOHN W. ; LÓPEZ, JUAN CAMILO ; Dotta, Daniel ; RIDER, MARCOS J. . N − 1 Multi-contingency transient stability constrained AC optimal power flow with volt/var controllers. ELECTRIC POWER SYSTEMS RESEARCH , v. 188, p. 106526, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106526"
+        },
+        {
+          "texto": "LUGNANI, LUCAS ; Dotta, Daniel ; LACKNER, CHRISTOPH ; CHOW, JOE . ARMAX-based method for inertial constant estimation of generation units using synchrophasors. ELECTRIC POWER SYSTEMS RESEARCH , v. 180, p. 106097, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2019.106097"
+        },
+        {
+          "texto": "ZAMORA, A. ; PATERNINA, M. R. A. ; TRIPHAD, R. K. ; DOTTA, D. . Identification of electromechanical oscillatory modes based on variational mode decomposition. ELECTRIC POWER SYSTEMS RESEARCH , v. 167, p. 71-85, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2018.10.014"
+        },
+        {
+          "texto": "MOTTA, RAFAEL TAVARES ; Dotta, Daniel ; WILCHES-BERNAL, FELIPE . Development and assessment of second generation WTG models in an open source platform. Energy Systems , v. 99, p. 1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s12667-019-00337-z"
+        },
+        {
+          "texto": "PIERONI, T. ; DOTTA, D. . Identification of the Most Effective Point of Connection for Battery Energy Storage Systems Focusing on Power System Frequency Response Improvement. Energies , v. 11, p. 763, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.3390/en11040763"
+        },
+        {
+          "texto": "TORRES BERNARDO, RAUL ; Dotta, Daniel . A Simplified Robust Control Design Method for Wide Area Damping Controllers. IEEE Latin America Transactions , v. 16, p. 453-459, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/TLA.2018.8327399"
+        },
+        {
+          "texto": "BENTO, M. E. C. ; DOTTA, D. ; KUIAVA, ROMAN ; RAMOS, R. . A Procedure to Design Fault-Tolerant Wide-Area Damping Controllers. IEEE Access , v. 6, p. 23383-23405, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/access.2018.2828609"
+        },
+        {
+          "texto": "BENTO, MURILO E. C. ; Dotta, Daniel ; KUIAVA, ROMAN ; RAMOS, RODRIGO A. . Design of Coordinated Decentralized Damping Controllers for Power Systems Considering Uncertainties. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 29, p. 22-31, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1007/s40313-017-0351-x"
+        },
+        {
+          "texto": "BENTO, M. E. C. ; DOTTA, D. ; KUIAVA, ROMAN ; RAMOS, RODRIGO A. . Robust design of coordinated decentralized damping controllers for power systems. INTERNATIONAL JOURNAL OF ADVANCED MANUFACTURING TECHNOLOGY , v. 99, p. 2035-2044, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1007/s00170-018-2646-x"
+        },
+        {
+          "texto": "Dotta, Daniel ; CHOW, JOE H. ; BERTAGNOLLI, DAVID B. . A Teaching Tool for Phasor Measurement Estimation. IEEE Transactions on Power Systems , v. 29, p. 1981-1988, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2014.2311102"
+        },
+        {
+          "texto": "Dotta, Daniel ; CHOW, JOE H. . Second Harmonic Filtering in Phasor Measurement Estimation. IEEE TRANSACTIONS ON POWER DELIVERY , v. 28, p. 1-1, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2013.2242701"
+        },
+        {
+          "texto": "XIA, YU ; GHIOCEL, SCOTT G. ; Dotta, Daniel ; SHAWHAN, DANIEL ; KINDLE, ANDREW ; CHOW, JOE H. . A Simultaneous Perturbation Approach for Solving Economic Dispatch Problems With Emission, Storage, and Network Constraints. IEEE Transactions on Smart Grid , v. 99, p. 1-8, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/TSG.2013.2263111"
+        },
+        {
+          "texto": "Decker, Ildemar C. ; ; Agostini, Marcelo N. ; Prioste, Fernando B. ; Mayer, Breno T. ; Dotta, Daniel . Experience and applications of phasor measurements to the Brazilian interconnected power system. EUROPEAN TRANSACTIONS ON ELECTRICAL POWER , v. 21, p. 1557-1573, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1002/etep.537"
+        },
+        {
+          "texto": "DECKER, I. C. ; AGOSTINI, M. N. ; MEYER, B. T. ; TEODORO, F. H. ; DOTTA, D. ; . Estudo e Avaliação do Desempenho de um Protótipo de Sistema de Medição Fasorial Sincronizada Instalado no Sistema de Transmissão da Eletrosul. EletroEvolução (Rio de Janeiro) , v. 59, p. 16-23, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; e SILVA, A. S. ; DECKER, I.C. . Wide-Area Measurements-Based Two-Level Control Design Considering Signal Transmission Delay. IEEE Transactions on Power Systems , v. 24, p. 208-216, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2008.2004733"
+        },
+        {
+          "texto": "; AGOSTINI, M. N. ; DOTTA, D. ; . SISTEMA DE MEDIÇÃO FASORIAL SINCRONIZADA: DESENVOLVIMENTOS E APLICAÇÃO NA MONITORAÇÃO DE FREQÜÊNCIA DO SISTEMA ELÉTRICO BRASILEIRO. Eletroevolução (Rio de Janeiro) , v. 44, p. 38-47, 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "DOTTA, D. ; MURPHY, R. J. ; BI, T. ; CHOW, J. . PMU Hardware and Algorithms. In: Cheng Ching Liu;Stephen MacArthur;Saung-Jae Lee. (Org.). Smart Grid Handbook. 1ed.London: John Wiley and Sons, 2016, v. , p. 1-.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; CHOW, JOE H. . Control-enabled Smart Grid: Scenarios for 2030 to 2050. In: Anuradha M. Annaswamy. (Org.). IEEE Smart Grid Vision for Computing: 2030 and Beyond. 1ed.Nova York: IEEE, 2013, v. 4, p. 0-83.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "HUAMAN, JESUS F. ; DOS SANTOS, LUCAS E. ; UGAZ, JOSE CARLOS ; Dotta, Daniel . A Comparative Analysis of Grid-Following and Grid-Forming Converters with HIL Validation. In: 2025 IEEE Power & Energy Society General Meeting (PESGM), 2025, Austin. 2025 IEEE Power & Energy Society General Meeting (PESGM), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/PESGM52009.2025.11225085"
+        },
+        {
+          "texto": "LOPES, GABRIEL VICTOR DE SOUSA ; Dotta, Daniel ; AQUINO, ANTONIO F. DA C. DE ; ISSICABA, DIEGO ; MORAES, GUIDO R. ; Decker, Ildemar C. . Sistema de Detecção de Eventos em Tempo Real com Uso de Sincrofasores. In: XVII Simpósio Brasileiro de Automação Inteligente (SBAI 2025) e XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, Sao Joao del-Rei. Anais do XVII Simpósio Brasileiro de Automação Inteligente (SBAI 2025) e XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025). Recife: Even3, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.29327/1842969.1-168"
+        },
+        {
+          "texto": "ALBINO, GUILHERME ; PINHEIRO, BRUNO ; SANCHEZ, DAVID ; Dotta, Daniel . A Framework for Multiple-Scenarios Stability Evaluation for the Brazilian Interconnected Power System. In: 2024 4th International Conference on Smart Grid and Renewable Energy (SGRE), 2024, Doha. 2024 4th International Conference on Smart Grid and Renewable Energy (SGRE), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/SGRE59715.2024.10428804"
+        },
+        {
+          "texto": "HUAMAN, JESUS FLORES ; DOS SANTOS, LUCAS E. ; UGAZ PENA, JOSE CARLOS ; POMILIO, J. A. ; Dotta, Daniel . Seamless Transitions Between Grid-Tied and Islanded Operation in a Brazilian Microgrid. In: 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, Seattle. 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/pesgm51994.2024.10688385"
+        },
+        {
+          "texto": "SANCHEZ, DAVID ; PINHEIRO, BRUNO ; LUGNANI, LUCAS ; AQUINO, ANTONIO F. C. ; Dotta, Daniel . Multiple-Case Voltage Profile Evaluation of Brazilian Interconnected Power System. In: 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, Seattle. 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/pesgm51994.2024.10689243"
+        },
+        {
+          "texto": "SEGUNDO SEVILLA, F. R. ; LIU, Y. ; BAROCIO, E. ; KORBA, P. ; ZAMORA, A. ; DOTTA, D. ; BELLIZIO, F. ; CHAVEZ, H. ; JÓHANNSSON, H. ; CEPEDA, J. ; CREMER, J. ; ZHAO, J. ; ARRIETA, M. ; PAOLONE, M. ; RAMIREZ, M. ; PAPADOPOULOS, P. ; SUSUKI, Y. . Spatio-temporal Data-Driven and Machine Learning based Applications for Transmission Systems. In: 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, Seattle. 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/PESGM51994.2024.10688546"
+        },
+        {
+          "texto": "GUIDO R. MORAES ; LUCAS LORENSI ; RENAN D. PIRES ; GABRIEL V. S. LOPES ; DIEGO ISSICABA ; ANTONIO F. C. AQUINO ; Daniel Dotta ; ILDEMAR C. DECKER . Plataforma de análise de perturbações em sistemas de potência baseada na convergência de dados de sincrofasores e oscilografias. In: Congresso Brasileiro de Automática CBA, 2024, Rio de Janeiro, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.20906/CBA2024/4345"
+        },
+        {
+          "texto": "DOS SANTOS, LUCAS E. ; F. HUAMAN, JESUS ; D. QUEIROZ, ELIABE ; Dotta, Daniel ; POMILIO, JOSÉ A. . A MIMO Self-Tuning Data-Driven Control Application for Power Electronic Converters Robustness Operation. In: 2024 IEEE 9th Southern Power Electronics Conference (SPEC), 2024, Brisbane. 2024 IEEE 9th Southern Power Electronics Conference (SPEC), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/spec62217.2024.10893259"
+        },
+        {
+          "texto": "VIOLA, LUIGI ; SAGASTIZÁBAL, CLAUDIA ; HESAMZADEH, MOHAMMAD REZA ; Dotta, Daniel ; RIDER, MARCOS J. . Analysis of Nonconvexities for Pricing Inertial Response in Electricity Markets. In: 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2023, Washington. 2023 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/isgt51731.2023.10066386"
+        },
+        {
+          "texto": "LUGNANI, LUCAS ; Dotta, Daniel ; PATERNINA, MARIO R. A. ; CHOW, JOE . Real-time Coherency Identification using a Window-Size-Based Recursive Typicality Data Analysis. In: 2022 International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2022, Split. 2022 International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/sgsma51733.2022.9806012"
+        },
+        {
+          "texto": "CARO-RUIZ, CLAUDIA ; Dotta, Daniel . Adverse Event Preparedness in Power Grids: Transmission Planning Aspects. In: 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022, Denver. 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/PESGM48719.2022.9916837"
+        },
+        {
+          "texto": "DOS SANTOS, LUCAS E. ; BERNARDO, RAUL T. ; ALCAHUAMAN, HEVER ; OTA, JOAO I.Y. ; POMILIO, J. A. ; Dotta, Daniel . An Online Data-Driven Tuning of Control Parameters for a Grid-Forming Inverter. In: 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022, Denver. 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/pesgm48719.2022.9917112"
+        },
+        {
+          "texto": "BRUNO PINHEIRO ; LUCAS LUGNANI ; Daniel Dotta . Estimação da Inércia Regional Utilizando Dados Ringdown e Ambiente. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/CBA2022/3565"
+        },
+        {
+          "texto": "TOLEDO-SANTOS, C. ; MEJIA-RUIZ, G. ; PATERNINA, M.R.A. ; ZAMORA, A. ; MICHOACANA, U. ; DOTTA, D. . Building up a Wide-Area Protection System Simulator. In: 2020 52nd North American Power Symposium (NAPS), 2021, Tempe. 2020 52nd North American Power Symposium (NAPS), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/NAPS50074.2021.9449798"
+        },
+        {
+          "texto": "PINHEIRO, BRUNO ; LUGNANI, LUCAS ; Dotta, Daniel . A Procedure for the Estimation of Frequency Response using a Data-Driven Method. In: 2021 IEEE Power & Energy Society General Meeting (PESGM), 2021, Washington. 2021 IEEE Power & Energy Society General Meeting (PESGM), 2021. p. 01.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/pesgm46819.2021.9637946"
+        },
+        {
+          "texto": "NASCIMENTO, MOISES M. ; BERNARDO, RAUL T. ; Dotta, Daniel . Data-Driven Secondary Voltage Control Design using PMU Measurements. In: 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020, Washington. 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/isgt45199.2020.9087785"
+        },
+        {
+          "texto": "BERNADO, RAUL TORRES ; NASCIMENTO, MOISES MARTINS DO ; Dotta, Daniel . A Modified VRFT Approach for Retuning Power System Damping Controllers. In: 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, Montreal. 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/PESGM41954.2020.9281381"
+        },
+        {
+          "texto": "GARCIA, MAIQUE C. ; Dotta, Daniel ; PEREIRA, LEANDRO ; ALMEIDA, MADSON C. DE ; SANTOS, ORLEM L. D. ; DA SILVA, LUIZ C. P. . Design and Development of D-PMU Module for Smart Meters. In: 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, Montreal. 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/PESGM41954.2020.9281601"
+        },
+        {
+          "texto": "FERNANDES, R. ; DOTTA, D. . Comparação do Comportamento da Função Energia de Lyapunov através de PMU e o Software Organon com Casos Reais de Perturbações no SIN. In: ERIAC, 2019, Foz do Iguaçu. Encontro Regional Ibero-americano do Cigré, 2019. v. 1. p. 1.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ARGUELLO, ANDRES ; LUGNANI, LUCAS ; Dotta, Daniel . DFIG Model Considering Turbine Mechanical Limitations for Frequency Response Control Studies. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895413"
+        },
+        {
+          "texto": "NANNI, MARCELO ; TORRES BERNARDO, RAUL ; Dotta, Daniel . Development of Wide-Area Control Scheme in Power System Toolbox. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/isgt-la.2019.8895406"
+        },
+        {
+          "texto": "ZAMORA, A. ; DOTTA, D. ; CHOW, JOE H. ; TRIPATHY, R.K. ; PATERNINA, M.R.A. . Data-Driven Modal Features Extraction Through the Variational Mode Decomposition Method. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895351"
+        },
+        {
+          "texto": "CARDENAS-JAVIER, R. ; GONZALEZ-SANCHEZ, V. ; PATERNINA, M.R.A. ; ZELAYA A, F.A. ; ZAMORA, A. ; TORRES, V. ; DOTTA, D. . A Matlab and PowerFactory-based WAMS Simulator. In: 2019 North American Power Symposium (NAPS), 2019, Wichita. 2019 North American Power Symposium (NAPS), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/NAPS46351.2019.9000245"
+        },
+        {
+          "texto": "LUGNANI, LUCAS ; Dotta, Daniel ; FERREIRA, JOAO M. F. ; Decker, Ildemar C. ; CHOW, JOE H. . Frequency Response Estimation Following Large Disturbances using Synchrophasors. In: 2018 IEEE Power & Energy Society General Meeting (PESGM), 2018, Portland. 2018 IEEE Power & Energy Society General Meeting (PESGM), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/PESGM.2018.8586220"
+        },
+        {
+          "texto": "MOTTA, RAFAEL T. ; Dotta, Daniel ; WILCHES-BERNAL, FELIPE ; LEONARDI, BRUNO . Second Generation Wind Turbine Generators Generic Models in the Power System Toolbox. In: 2018 IEEE Power & Energy Society General Meeting (PESGM), 2018, Portland. 2018 IEEE Power & Energy Society General Meeting (PESGM), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/PESGM.2018.8585947"
+        },
+        {
+          "texto": "Dotta, Daniel ; CHOW, JOE H. ; WILCHES-BERNAL, FELIPE . Application of modulation techniques for power system transient response studies. In: 2017 IEEE Power & Energy Society General Meeting (PESGM), 2017, Chicago. 2017 IEEE Power & Energy Society General Meeting, 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/PESGM.2017.8274328"
+        },
+        {
+          "texto": "BENTO, MURILO E. C. ; Dotta, Daniel ; RAMOS, RODRIGO A. . Wide-area measurements-based two-level control design considering power system operation uncertainties. In: 2017 IEEE Manchester PowerTech, 2017, Manchester. 2017 IEEE Manchester PowerTech, 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/ptc.2017.7980954"
+        },
+        {
+          "texto": "ZAMORA, A. ; DOTTA, D. ; CHOW, JOE H. ; RAMIREZ, JUAN M. ; PATERNINA, M.R.A . Identification of power system oscillations by a decentralized methodology. In: 2017 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2017, Quito. 2017 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2017.8126730"
+        },
+        {
+          "texto": "BERNARDO, R. T. ; DOTTA, D. . PROJETO DE ESTABILIZADORES DE SISTEMAS DE POTENCIA COM SINCROFASORES UTILIZANDO OTIMIZACAO NAO-CONVEXA. In: Simpósio Brasileiro de Automação Inteligente, 2017, Porto Alegre. SBA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, L. L. ; NANNI, M. ; DOTTA, D. . ESTIMACAO DA RESPOSTA INERCIAL DE SISTEMAS DE ENERGIA ELETRICA UTILIZANDO SINCROFASORES. In: Simpósio Brasileiro de Automação Inteligente, 2017, Porto Alegre. SBAI, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "TAVARES, R. ; DOTTA, D. . REPRESENTAÇÃO COMPUTACIONAL DE PARQUES EÓLICOS PARA ESTUDOS DINÂMICOS: COMPARATIVO ENTRE MODELOS DE PRIMEIRA E SEGUNDA GERAÇÃO. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - SNPTEE, 2017, Curitiba. XXIV SNPTEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PIERONI, T. ; NANNI, M. ; TAVARES, R. ; DOTTA, D. . APLICAÇÃO DE DISPOSITIVOS DE ARMAZENAMENTO DE ENERGIA PARA MELHORIA DA OPERAÇÃO DE SISTEMAS ELÉTRICOS DE POTÊNCIA. In: XXIV SNPTEE, 2017, Curitiba. XXIV SNPTEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, R. ; MASSAUD, A. ; DOTTA, D. . ESTUDO P DA APLICAÇÃO DE SINCROFASORES PARA MONITORAÇÃO DE CORREDORES DE TRANSMISSÃO UTILIZANDO FUNÇÃO ENERGIA NO SISTEMA INTERLIGADO NACIONAL (SIN). In: XXIV SNPTEE, 2017, Curitiba. XXIV SNPTEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BENTO, MURILO E. C. ; Dotta, Daniel ; RAMOS, RODRIGO A. . Performance analysis of Wide-Area Damping Control Design methods. In: 2016 IEEE Power and Energy Society General Meeting (PESGM), 2016, Boston. 2016 IEEE Power and Energy Society General Meeting (PESGM), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/pesgm.2016.7741334"
+        },
+        {
+          "texto": "COLOMBARI, L. F. S. ; MANSOUR, M. R. ; SANTOS, J. A. ; DOTTA, D. ; RAMOS, R. . Efeito do Desligamento Mandatório de Unidades de Geração Distribuída na Curva PV de Sistemas de Transmissão. In: XXI Congresso Brasileiro de Automática, 2016, Vitória. XXI CBA. v. 1.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BENTO, M. E. C. ; DOTTA, D. ; RAMOS, R. . Análise de Desempenho de Controladores em Dois Níveis usando Sincrofasores. In: XXI Congresso Brasileiro de Automática, 2016, Vitória. XXI CBA, 2016. v. 1.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Dotta, Daniel ; CHOW, JOE H. ; VANFRETTI, LUIGI ; ALMAS, MUHAMMAD S. ; Agostini, Marcelo N. . A MATLAB-based PMU simulator. In: 2013 IEEE Power & Energy Society General Meeting, 2013, Vancouver. 2013 IEEE Power & Energy Society General Meeting, 2013. p. 1.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/PESMG.2013.6672629"
+        },
+        {
+          "texto": "GHIOCEL, SCOTT G. ; Dotta, Daniel ; CHOW, JOE H. . Applications of synchrophasor data to power system state estimation and control. In: 2013 IREP Symposium Bulk Power System Dynamics and Control IX Optimization, Security and Control of the Emerging Power Grid (IREP), 2013, Rethymno. 2013 IREP Symposium Bulk Power System Dynamics and Control - IX Optimization, Security and Control of the Emerging Power Grid, 2013. p. 1.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/IREP.2013.6629378"
+        },
+        {
+          "texto": "Agostini, Marcelo N. ; ; ALVES-JUNIOR, J. E. R. ; DOTTA, D. . ENSAIOS DE PMU DE ACORDO COM A NORMA IEEE C37.118.1-2011. In: XXII SNPTEE, 2013, Brasilia. Anais, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; Agostini, Marcelo N. ; DOTTA, D. ; ; BASTOS, M. . Desenvolvimento e Implementação de um Protótipo de Sistema de Medição Fasorial Sincronizada no Sistema de Transmissão de 440 KV da CTEEP. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica SNPTEE, 2011, Florianopolis. XXI SNPTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; Agostini, Marcelo N. ; e SILVA, A. S. ; DOTTA, D. ; PRIOSTE, F. . Experience of WAMS Development and Applications in Brazil.. In: 17th Power Systems Computation Conference PSCC, 2011, Stockholm. Anais, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; AGOSTINI, M. N. ; e SILVA, A. S. ; DOTTA, D. . Monitoring of a large scale event in the Brazilian Power System by WAMS. In: 2010 IREP Symposium Bulk Power System Dynamics and Control VIII (IREP), 2010, Rio de Janeiro. 2010 IREP Symposium Bulk Power System Dynamics and Control - VIII (IREP), 2010. p. 1.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/irep.2010.5563249"
+        },
+        {
+          "texto": "Dotta, Daniel ; SILVA, AGUINALDO S. E ; Decker, Ildemar C. . Design of power system controllers by nonsmooth, nonconvex optimization. In: Energy Society General Meeting (PES), 2009, Calgary. 2009 IEEE Power & Energy Society General Meeting, 2009. p. 1-7.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/pes.2009.5275366"
+        },
+        {
+          "texto": "Decker, Ildemar C. ; AGOSTINI, M. N. ; MEYER, B. T. ; DOTTA, D. ; LIRA, R. ; . Experiências da Instalação e Monitoramento do Primeiro Sistema de Medição Fasorial Sincronizada Instalado no Sistema Interligado Nacional. In: Seminário Técnico de Proteção e Controle - STPC, 2008, Belo Horizonte. Anais do Semiário STPC, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Decker, Ildemar C. ; DOTTA, D. ; AGOSTINI, M. N. ; ; MEYER, B. T. ; . Installation and Monitoring Experiences of the First Synchronized Measurement System in the Brazilian National Grid. In: IEEE PES Transmission and Distribution Conference, 2008, Bogota, Colombia. IEEE PES Transmission and Distribution Conference, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; SILVA, A. S. E ; DECKER, I. C. . Power System Small-Signal Angular Stability Enhancement using Synchronized Phasor Measurements. In: 2007 IEEE Power Engineering Society General Meeting, 2007, Tampa. 2007 IEEE Power Engineering Society General Meeting, 2007. p. 1.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/pes.2007.385719"
+        },
+        {
+          "texto": "; DOTTA, D. ; ; BETTIOL, A. ; AGOSTINI, M. N. ; . Applications of a Synchronized Phasor Measurements System in Southern Brazil. In: X SYMPOSIUM OF SPECIALISTS IN ELECTRIC OPERATIONAL, 2006, Florianopolis. X Sepope, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. ; DOTTA, D. ; AGOSTINI, M. ; ZIMATH, S. ; SILVA, A. . Performance of a Synchronized Phasor Measurements System in the Brazilian Power System. In: , 2006, Atlanta. , 2006. p. 150.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1109/PSCE.2006.296289"
+        },
+        {
+          "texto": "FISCHBORN, M. ; ; SADOWISKI, N. ; TREVISAN, J. ; ; GAVIOLI, G. ; DOTTA, D. ; PIRIOU, F. ; LE-MENACH, Y. ; CLENET, S. . Sparse Matrix Storage Formats and Matrix-Vector Products Compared in Parallel Cluster Computing. In: EMF, 2006, Aussois(France). EMF 2006, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Decker, Ildemar C. ; DOTTA, D. ; ; AGOSTINI, M. N. ; BETTIOL, A. ; . Development and Experimental use of a Wide Area Measurement System. In: VII Conferência Internacional de Aplicações Industriais - INDUSCON, 2006, Recife. Induscon, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DOTTA, D. ; AGOSTINI, Marcelo N ; BETTIOL, A. ; . Phasor Measurement Development and Applications in Brazil. In: International Conference on Electrical Engineering - CEE, 2005, coimbra. I CEE, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; DOTTA, D. ; ; AGOSTINI, M. N. ; . Sistema de Medição Fasorial Sincronizada: Desenvolvimentos e Aplicação na Monitoração de Freqüência do Sistema Elétrico Brasileiro. In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2005, Curitiba. Sepope, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; ; AGOSTINI, Marcelo N ; SOUZA, Adriano de . MODELAGEM ORIENTADA A OBJETOS PARA A ANÁLISE DA SEGURANÇA DINÂMICA. In: SEPOPE, 2004, Rio de Janeiro. IX Sepope, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; HAAS, Reinaldo ; ; REGINA, Jose Vicente Maria . Validação de um Sistema para Previsão Quantitativa de Chuva para o Sul do Brasil. In: CITENEL, 2003, Salvador. CITENEL 2003, 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Avaliação do Desempenho do Modelo ARPS em um Cluster de Microcomputadores para Previsão Quantitativa de Chuva no Sul do Brasil. In: XII Congresso Brasileiro de Meteorologia (XII CBM), 2002, Foz do Iguaçu. Anais do XII Congresso Brasileiro de Meteorologia (XII CBM), 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Sistema de Medição Fasorial Sincronizada com Aplicações em Sistemas de Energia Elétrica. In: XVII SNPTEE ? Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2003, Uberlândia. Anais do XVII SNPTEE ? Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Brazilian Power System Operational Challenges. 2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Medição Fasorial Sincronizada. 2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . The Brazilian Wide Area Measurement System ? Experience and Applications. 2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Frequency Tracking Algorithm. 2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Phasor Measurement Process. 2012. (Apresentação de Trabalho/Seminário).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; AGOSTINI, Marcelo N ; DOTTA, D. ; ; ; PRIOSTE, F. . Monitoring of a Large Scale Event in the Brazilian Power System by WAMS. 2010. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; DOTTA, D. ; AGOSTINI, M. N. ; ; . Performance of a Synchronized Phasor Measurements System in the Brazil Power System. 2006. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; DOTTA, D. ; AGOSTINI, M. N. ; ; . Applications of a Synchronized Phasor Measurements System in Southern Brazil. 2006. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; DECKER, I. C. ; AGOSTINI, M. N. ; BETTIOL, A. . Phasor Measurement Development and Applications in Brazil. 2005. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; DECKER, I. C. ; AGOSTINI, M. N. . MODELAGEM ORIENTADA A OBJETOS PARA A ANÁLISE DA SEGURANÇA DINÂMICA. 2004. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; SOUZA, Adriano de . Processamento Paralelo Distribuído. 2000. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2000,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "ANNASWAMY, A. ; AMIN, M. ; SAMAD, T. ; DEMARCO, C. ; AHO, J. ; ARNOLD, G. ; BUCKSPAN, A. ; CHAKRABORTTY, A. ; CHOW, J. ; HISKENS, I. ; LOW, S. ; DOTTA, D. . IEEE VISION FOR SMART GRID CONTROLS: 2030 AND BEYOND. New Yorkd: IEEE, 2013 (IEEE Standards).",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Software para Cálculo de Fluxo de Potência para Sistemas Elétricos de Grande Porte. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Software para Análise da Segurança Dinâmica de Sistemas Elétricos de Grande Porte. 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Cluster de Microcomputadores Usando Linux. 2001.",
+          "ano": 2001,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Modelagem e Implementação de um Fluxo de Potência Ótimo para aplicação em Metodologias de Avaliação da Segurança Dinâmica e Confiabilidade Composta. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "TARANTO, G. N.; ASSIS, T.; DOTTA, D. . Participação em banca de Leander de Oliveira Rêgo. Análise do Impacto da Geração Eólica na Regulação de Frequência de SEE. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; TARANTO, G.; ASSIS, T.. Participação em banca de Samuel Souza da Silva Júnior. Avaliação de Métodos Adaptativos de Corte de Carga. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COURY, D. V.; SANTOS, R. C.; DOTTA, D. . Participação em banca de Rodolfo Varraschim Rocha. Algoritmos Recursivos e Não-Recursivos Aplicados à Estimação Fasorial em SEP. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, L. C.; DOTTA, D. . Participação em banca de Denis Emilio da Silva. Um estudo sobre os impactos dos recursos energéticos distribuídos nas redes elétricas de baixa tensão. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ALBERTO, L. F. C.; DOTTA, D. ; BRETAS, N.; Dotta, Daniel . Participação em banca de Ana Cecilia Moreno Alamo. Fluxo de Potência Ótimo com Restrições de Estabilidade. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; CASTRO, C.; DOTTA, D. . Participação em banca de Robust and Efficient Voltage Stability Margin Computation. Robust and Efficient Voltage Stability Margin Computation Using Synchrophasors. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; DECKER, I. C.; ALVES-JUNIOR, J. E. R.. Participação em banca de Marcelo Dalmas. Medição de fasores de componentes harmônicas para aplicações em plantas eólicas. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. . Participação em banca de Thiago Sonnewend Diniz Ferreira. Desenvolvimento de métodos para detecção e localização de perdas não técnicas explorando medidores inteligentes. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; ; ALVES-JUNIOR, J. E. R.. Participação em banca de Pedro Cesar Vieira. Estudo do Desempenho de Canais de Instrumentação para a Medição Sincronizada de Fasores. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "TARANTO, G.; ASSIS, T.; DOTTA, D. ; PASSOS FILHO, J. A.. Participação em banca de Renan Pinto Fernandes. DESENVOLVIMENTO DE UMA FERRAMENTA DE SIMULAÇÃO DINÂMICA COMBINADA COM TRANSIÇÃO AUTOMÁTICA VIA PRODUTOS ESCALARES. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C.; LEMOS, F. B.; SIMOES-COSTA, A. A.; DOTTA, D. . Participação em banca de Valmor Zimmer. Detecção, identificação e localização de eventos usando sincrofasores. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "Daniel Dotta . Participação em banca de Fabiano Camargo Rosa. Contribuição ao controle de potência de um DFIG por controladores preditivos baseados em modelo. 2020. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Daniel Dotta . Participação em banca de Leandro Castilho Brolin. PROPOSTA DE METODOLOGIAS PARA ESTUDOS DE VIABILIDADE TÉCNICA DO ACESSO DE GERADORES SOLARES FOTOVOLTAICOS A SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2019. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Daniel Dotta ; ALMEIDA, M. C.. Participação em banca de Victor Pellanda Dardengo. Localização de faltas em linhas HVDC com estimação da velocidade de propagação das frentes de onda. 2018. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, R.; LONDON JUNIOR, J. B. A.; DOTTA, D. ; FREITAS, F. D.; SALIM, R. H.. Participação em banca de Tatiane Cristina da Costa Fernandes. Estimação de Velocidade Angular de Geradores Síncronos para o Estudo da Estabilidade a Pequenas Perturbações em Sistemas de Potência. 2017. Tese (Doutorado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "TAVARES, M. C.; Daniel Dotta . Participação em banca de Fabiano Gustavo Silveira Magrin. Novas funções para a proteção de transformadores.. 2017. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Daniel Dotta . Participação em banca de Paulo Eduardo Malaquias. ESTUDO DA DEGRADAÇÃO DO PAPEL ISOLANTE ATRAVÉS DE ENSAIOS DE ENVELHECIMENTO. 2017. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BIM, E.; CARDOSO, J. R.; AGUIAR, M. L.; VILLALVA, M. G.; DOTTA, D. . Participação em banca de Rodrigo Andreoli de Marchi. Controle de potência do DFIG operando sob afundamento de tensão usando controladores MBPC e NPC. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; BRANDAO, D. I.; Dotta, Daniel . Participação em banca de Danilo Iglesias Brandão. Controle Coordenado em Microrredes de Baixa Tensão Baseado no Algoritimo Power-Based Control e Conversor Utility Interface. 2015. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "RAMOS, R.; ALBERTO, L. F.; DOTTA, D. . Participação em banca de Murilo Casteroba. Comparação de Metodos de Projeto para WACS. 2015. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "Rodrigues R. N.; Kawata M.; DOTTA, D. . Participação em banca de CAREM PEREIRA FOCHESATO.METODOLOGIA PARA O DIMENSIONAMENTO DOS SERVIÇOS AUXILIARES DOS PRINCIPAIS EQUIPAMENTOS DE USINAS HIDROELÉTRICAS. 2010. Trabalho de Conclusão de Curso (Graduação em Tecnologo em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "DOTTA, D. . Concurso Professor Doutor. 2016. Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, D. ; PONTE, M. A.; BOTURA JUNIOR, G.. Eletricidade Básica e Automação Industrial. 2016. Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Bordin G.; Bernardon D. P.; DOTTA, D. . Professor de Ensino Superior. 2010. Universidade Federal do Pampa.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,978 @@
+{
+  "name": "Antonio Rafael Braga",
+  "lattes_id": "8619368183343184",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "RAFAEL BRAGA, ANTONIO ; ARRUDA FONTENELE, TIAGO ; GUIMARÃES AL-ALAM, WAGNER ; DE CARVALHO SILVA, JEFFERSON . Prototyping a system for detection and notification of damage or theft in beehives. Ecological Informatics , v. 75, p. 102015, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.ecoinf.2023.102015"
+        },
+        {
+          "texto": "BRAGA, ANTONIO R. ; FREITAS, BRENO M. ; GOMES, DANIELO G. ; BEZERRA, ANTONIO D.M. ; CAZIER, JOSEPH A. . Forecasting sudden drops of temperature in pre-overwintering honeybee colonies. BIOSYSTEMS ENGINEERING , v. 209, p. 315-321, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.biosystemseng.2021.07.009"
+        },
+        {
+          "texto": "RAFAEL BRAGA, ANTONIO ; G. GOMES, DANIELO ; ROGERS, RICHARD ; E. HASSLER, EDGAR ; M. FREITAS, BRENO ; A. CAZIER, JOSEPH . A method for mining combined data from in-hive sensors, weather and apiary inspections to forecast the health status of honey bee colonies. COMPUTERS AND ELECTRONICS IN AGRICULTURE , v. 169, p. 105161, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.compag.2019.105161"
+        },
+        {
+          "texto": "RAFAEL BRAGA, ANTONIO ; DE CASTRO RABELO, JULIANA ; DE CASTRO CALLADO, ARTHUR ; REGO DA ROCHA, ATSLANDS ; M. FREITAS, BRENO ; G. GOMES, DANIELO . BeeNotified! A Notification System of Physical Quantities for Beehives Remote Monitoring. REVISTA DE INFORMÁTICA TEÓRICA E APLICADA: RITA , v. 27, p. 50-61, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.22456/2175-2745.90724"
+        },
+        {
+          "texto": "RAFAEL BRAGA, ANTONIO ; G. GOMES, DANIELO ; M. FREITAS, BRENO ; A. CAZIER, JOSEPH . A cluster-classification method for accurate mining of seasonal honey bee patterns. Ecological Informatics , v. 59, p. 101107, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.ecoinf.2020.101107"
+        },
+        {
+          "texto": "SCOTT, ANDREW ; HASSLER, EDGAR ; CAZIER, JOSEPH ; WILKES, JAMES ; FORMATO, GIOVANNI ; MACDONALD, PRESTON ; RUBINIGG, MICHAEL ; BRAGA, ANTONIO RAFAEL ; PITTIGLIO, CLAUDIA . Data Mining Varroa: Sharing Insight from Users of Apiary Management Software in the United States. Bee World (Cessou em 2005) , v. 97, p. 1-12, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1080/0005772X.2020.1770153"
+        },
+        {
+          "texto": "MACIEL, FELIPE ANDERSON OLIVEIRA ; GOMES, DANIELO GONÇALVES ; DA SILVA, TICIANA LINHARES COELHO ; BRAGA, ANTONIO RAFAEL ; FREITAS, BRENO MAGALHÃES . Reconhecimento de padrões sazonais em colônias de abelhas Apis mellifera via clusterização. REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA , v. 10, p. 74-88, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.5335/rbca.v10i3.8788"
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "BRAGA, A. R. ; SOARES, J. M. ; . ElasticCluster: Explorando a ociosidade de Clusters Virtualizados. 1. ed. Novas Edições Acadêmicas, 2014. v. 1. 100p .",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "BELO, E. P. ; BRAGA, A. R. ; FREITAS, B. M. . Revise! Um Aplicativo para Inspeção Padronizada de Colmeias de Apis mellifera no Semiárido Nordestino. In: WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA), 2026, Gramado/RS. WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA). Porto Alegre: Sociedade Brasileira de Computação, 2026. v. 17. p. 264-273.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5753/wcama.2026.22385"
+        },
+        {
+          "texto": "BEZERRA, JORGE F. RAMOS ; BEZERRA, SANDY F. DA COSTA ; RODRIGUES, ÍCARO DE LIMA ; SILVA JR., ELIAS TEODORO DA ; GOMES, DANIELO G. ; BRAGA, ANTONIO RAFAEL . Computação em Borda para o Monitoramento de Abelhas: Detecção da Ausência da Rainha por Análise de Áudio. In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2025, Brasil. Anais do XVI Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2025), 2025. p. 276.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/wcama.2025.9205"
+        },
+        {
+          "texto": "SILVA, DANIEL DE AMARAL DA ; MARTINS NETO, JOSÉ LUCIANO ; FREITAS, ADILIO J. ; BRAGA, ANTONIO RAFAEL ; GOMES, DANIELO G. . MRC: A Hybrid Relevance and Correlation Metric for Indicator Selection with Application to SINASC Data. In: Latin American Symposium on Digital Government, 2025, Brasil. Anais do XII Latin American Symposium on Digital Government (LASDiGov 2025), 2025. p. 237.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/lasdigov.2025.9303"
+        },
+        {
+          "texto": "FERREIRA, JOÃO GABRIEL SOARES ; MATTOS, CÉSAR LINCOLN CAVALCANTE ; BRAGA, ANTONIO RAFAEL ; GOMES, DANIELO G. . Analysis of Socioeconomic and Anthropometric Data via Tree-based Models: Evidence for Policies Against Hunger. In: Encontro Nacional de Inteligência Artificial e Computacional, 2025, Brasil. Anais do XXII Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2025), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/eniac.2025.10488"
+        },
+        {
+          "texto": "FEITOSA, T. C. ; RAFAEL BRAGA, ANTONIO . Aplicações de Aprendizagem de Máquina com dados do INEP: Uma Revisão de Literatura. In: CONGRESSO SOBRE TECNOLOGIAS NA EDUCAÇÃO (CTRL+E), 2025, Fortaleza. CONGRESSO SOBRE TECNOLOGIAS NA EDUCAÇÃO (CTRL+E). Porto Alegre: Sociedade Brasileira de Computação, 2025. v. 9. p. 12-29.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, DANIELO G. ; C. FILHO, MURCIO GONDIM ; CASTRO, MARIANA ; SECUNDINO, VINÍCIUS ; BRAGA, ANTONIO RAFAEL ; GURGEL, ANNA KARINE ; FREITAS, LIA GONDIM ARAÚJO DE . Uma Plataforma Digital para Visualizar Dados e Indicadores do Programa Ceará sem Fome. In: Workshop de Computação Aplicada em Governo Eletrônico, 2024, Brasil. Anais do XII Workshop de Computação Aplicada em Governo Eletrônico (WCGE 2024), 2024. p. 111.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/wcge.2024.2576"
+        },
+        {
+          "texto": "RAMOS, MICHEL DE SOUZA ; OLIVEIRA, PAULO DE TARSO GUERRA ; BRAGA, ANTONIO RAFAEL . Análise do Desempenho dos Estudantes do Curso Redes de Computadores da Universidade Federal do Ceará no ENADE. In: Workshop sobre Educação em Computação, 2024, Brasil. Anais do XXXII Workshop sobre Educação em Computação (WEI 2024), 2024. p. 658.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/wei.2024.2563"
+        },
+        {
+          "texto": "SILVA, DANIEL DE AMARAL DA ; ALBUQUERQUE, DAVI QUEIROZ ; BRAGA, ANTONIO RAFAEL ; GURGEL, ANNA KARINE ; GOMES, DANIELO G. . Modelagem Multinível de Indicadores de Insegurança Alimentar Baseados em Dados Socioeconômicos do Ceará. In: Brazilian eScience Workshop, 2024, Brasil. Anais do XVIII Brazilian e-Science Workshop (BRESCI 2024). Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 96-103.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/bresci.2024.244216"
+        },
+        {
+          "texto": "SILVA, DANIEL DE AMARAL DA ; MEDEIROS, ANDRÉ FILIPE DE ; BRAGA, ANTONIO RAFAEL ; GURGEL, ANNA KARINE ; GOMES, DANIELO G. . Padrões de Subnutrição Infantil no Estado do Ceará: Uma Análise Estratificada por Regiões e Grupos Sociais. In: Brazilian eScience Workshop, 2024, Brasil. Anais do XVIII Brazilian e-Science Workshop (BRESCI 2024). Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 112-119.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/bresci.2024.244285"
+        },
+        {
+          "texto": "RODRIGUES, ÍCARO L. ; PACHECO, LUIZA C. A. ; HINRICHS, JOSUÉ M. ; FREITAS, ADILIO J. ; M. NETO, JOSÉ LUCIANO ; BRAGA, ANTONIO RAFAEL ; GOMES, DANIELO G. . Seleção de Características para Monitoramento de Variáveis Importantes para Segurança Alimentar no Estado do Ceará. In: Brazilian eScience Workshop, 2024, Brasil. Anais do XVIII Brazilian e-Science Workshop (BRESCI 2024). Porto Alegre: Sociedade Brasileira de Computação, 2024. p. 143-150.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/bresci.2024.244299"
+        },
+        {
+          "texto": "FRUET, G. V. ; BOMFIM, I. G. A. ; DOMINGUES, R. C. ; BRAGA, ANTONIO RAFAEL ; . ApisFlow: a Real-Time Automated Tool to Detect, Classify and Count Honey Bees Castes at the Hive Entrance. In: WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS, 2023, João Pessoa. WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA). Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 1-10.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.5753/wcama.2023.230583"
+        },
+        {
+          "texto": "DA SILVA, DANIEL DE AMARAL ; BOMFIM, I. G. A. ; BRAGA, ANTONIO RAFAEL ; GOMES, DANIELO G. . Applying Computer Vision Models to Detect in Real Time the Pollen Flow at the Input of Honeybee Hives (Apis mellifera L.). In: WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA), 2023, João Pessoa. XIV WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA). Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 1-10.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.5753/wcama.2023.230588"
+        },
+        {
+          "texto": "BARBOSA, F. R. A. ; BRAGA, ANTONIO RAFAEL ; G. GOMES, DANIELO . Aplicando Blockchain Hyperledger Iroha para Rastrear Mel de Abelha. In: WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS (WCAMA), 2023, João Pessoa. ANAIS DO XIV WORKSHOP DE COMPUTAÇÃO APLICADA À GESTÃO DO MEIO AMBIENTE E RECURSOS NATURAIS ARTIGOS COMPLETOS. Porto Alegre: Sociedade Brasileira de Computação, 2023. p. 1-10.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.5753/wcama.2023.229849"
+        },
+        {
+          "texto": "BRAGA, ANTONIO RAFAEL ; LIMA, SAMUEL BRANDÃO MAIA ; BARBOSA, FRANCISCO RONALD ARAÚJO ; BOMFIM, ISAC GABRIEL A. ; GOMES, DANIELO G. . Rastreabilidade da Cadeia Produtiva do Mel com Blockchain. In: Congresso Brasileiro de Agroinformática, 2023, Brasil. Anais do XIV Congresso Brasileiro de Agroinformática (SBIAGRO 2023), 2013. p. 111.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.5753/sbiagro.2023.26548"
+        },
+        {
+          "texto": "ALBUQUERQUE, DAVI QUEIROZ ; BRAGA, ANTONIO RAFAEL ; BOMFIM, ISAC GABRIEL ABRAHÃO ; GOMES, DANIELO G. . Aplicando um modelo YOLO para detectar e diferenciar por imagem castas de abelhas melíferas de forma automatizada. In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2022, Brasil. Anais do XIII Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2022), 2022. p. 51.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.5753/wcama.2022.222918"
+        },
+        {
+          "texto": "NOGUEIRA A., F. LUZIA ; FERNANDES DE M., MARCOS PAULO ; CALLADO, ARTHUR C. ; JUCA, PAULYNE MATTHEWS ; BRAGA, ANTONIO RAFAEL . Analysis of QoS VoIP applications on mobile devices based on PESQ MOS score. In: EATIS2022: 11 Euro American Conference on Telematics and Information Systems, 2022, Aveiro Portugal. 11 Euro American Conference on Telematics and Information Systems. New York: ACM, 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1145/3544538.3544658"
+        },
+        {
+          "texto": "BARROS, CAIO MARTIM ; DE FREITAS, EMANNUEL DIEGO GONÇALVES ; BRAGA, ANTONIO RAFAEL ; BOMFIM, ISAC GABRIEL ABRAHÃO ; GOMES, DANIELO G. . Aplicando Redes Neurais Convolucionais em Imagens para Reconhecimento Automatizado de Abelhas Melíferas (Apis mellifera L.). In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2021, Brasil. Anais do XII Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2021), 2021. p. 19-28.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.5753/wcama.2021.15733"
+        },
+        {
+          "texto": "DA SILVA, DANIEL DE AMARAL ; BRAGA, ANTONIO RAFAEL ; NOBRE, JUVÊNCIO S. ; GOMES, DANIELO G. . Modelagem Robusta de Observações Ausentes em Dados Sensoriados de Apiários. In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2021, Brasil. Anais do XII Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2021), 2021. p. 107-116.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.5753/wcama.2021.15742"
+        },
+        {
+          "texto": "DA SILVA, DANIEL ; RODRIGUES, ÍCARO ; BRAGA, ANTONIO ; NOBRE, JUVÊNCIO ; FREITAS, BRENO ; GOMES, DANIELO . An Autonomic, Adaptive and High-Precision Statistical Model to Determine Bee Colonies Well-Being Scenarios. In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2020, Brasil. Anais do Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2020), 2020. p. 31.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5753/wcama.2020.11017"
+        },
+        {
+          "texto": "BRAGA, ANTONIO ; FURTADO, LIA ; BEZERRA, ANTONIO ; FREITAS, BRENO ; CAZIER, JOSEPH ; GOMES, DANIELO . Applying the Long-Term Memory Algorithm to Forecast Loss of Thermoregulation Capacity in Honeybee Colonies. In: X Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2019, Belém. Anais do Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA), 2019. v. 10. p. 77-86.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.5753/wcama.2019.6422"
+        },
+        {
+          "texto": "BRAGA, A. R. ; HASSLER, E. E. ; ; FREITAS, B. M. ; CAZIER, J. A. . IoT for Development: Building a Classification Algorithm to Help Beekeepers Detect Honeybee Health Problems Early. In: Twenty-fifth Americas Conference on Information Systems, 2019, Cancún. AMERICAS CONFERENCE ON INFORMATION SYSTEMS (AMCIS), 2019. p. 1-10.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MACIEL, FELIPE ANDERSON O. ; BRAGA, ANTONIO RAFAEL ; XAVIER, RHANIEL M. ; DA SILVA, TICIANA L. COELHO ; FREITAS, BRENO M. ; GOMES, DANIELO G. . Data Mining to Characterize Seasonal Patterns of Apis mellifera Honey Bee Colonies. In: the XIV Brazilian Symposium, 2018, Caxias do Sul. Proceedings of the XIV Brazilian Symposium on Information Systems - SBSI'18. New York: ACM Press, 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1145/3229345.3229386"
+        },
+        {
+          "texto": "SILVA, W. F. ; REGO, P. A. L. ; MATEUS, Bruno Góis ; BRAGA, A. Rafael ; ALENCAR, J. M. U. . DVL: Uma Ferramenta para Criação de Laboratórios Práticos de Disciplinas da Área de TI Utilizando Virtualização Baseada em Contêineres. In: SBRC 2018 - Salão de Ferramentas, 2018, Campus do Jordão. SBRC 2018 - Salão de Ferramentas, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, ALISSON DE LIMA E ; BRAGA, ANTONIO RAFAEL ; SILVA, TICIANA L. COELHO DA ; FREITAS, BRENO M. ; MACIEL, FELIPE ANDERSON O. ; GOMES, DANIELO G. . Reconhecimento de Padrões de Colônias de Abelhas Apis Mellifera Segundo Mudanças das Estações do Ano. In: IX Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2018. Anais do Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA), 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.5753/wcama.2018.2937"
+        },
+        {
+          "texto": "BRAGA, ANTONIO RAFAEL ; MACIEL, FELIPE ANDERSON O. ; ALMEIDA, RODRIGO L. A. ; AGUILAR, PAULO A. C. ; GOMES, DANIELO G. ; ANDRADE, ROSSANA M. C. . Gerenciamento Térmico e Elétrico de um Centro de Dados utilizando Sensoriamento IoT. In: IX Simpo¿sio Brasileiro de Computac¿a¿o Ubi¿qua e Pervasiva, 2017. Anais do Simpo\"sio Brasileiro de Computac\"a\"o Ubi\"qua e Pervasiva (SBCUP), 2017. v. Único.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.5753/sbcup.2017.3306"
+        },
+        {
+          "texto": "BRAGA, A. R. ; SILVA, Paulo Renato Xavier da ; SOARES, J. M. ; . Ócio Produtivo: Explorando a Ociosidade de Clusters Virtuais para Execução de Aplicações do Tipo Saco de Tarefas. In: X Workshop em Clouds e Aplicações - WCGA, 2012, Ouro Preto. X Workshop em Clouds e Aplicações - WCGA, 2012.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "RODRIGUES, M. E. A. ; MORAES, F. I. A. ; RAFAEL BRAGA, ANTONIO . ANÁLISE DE COMUNICAÇÃO SEM FIO LORA PARA MONITORAMENTO DE APIÁRIOS DE ABELHAS NO SEMIÁRIDO CEARENSE. In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, E. M. ; LIMA, V. S. ; RAFAEL BRAGA, ANTONIO . AVALIAÇÃO DA METACOMUNICAÇÃO NO APLICATIVO REVISE!: UMA APLICAÇÃO DO MÉTODO DE INSPEÇÃO SEMIÓTICA(MIS). In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BELO, E. P. ; RAFAEL BRAGA, ANTONIO . SUPERANDO A FALTA DE CONECTIVIDADE NO SEMIÁRIDO: DESENVOLVIMENTO OFFLINE DO APLICATIVO REVISE!. In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "NOBRE, M. F. ; COUTINHO, L. R. R. ; BRAGA, A. R. ; MORAES, F. I. A. ; BEZERRA, M. S. . Análise para Otimização da Eficiência Energética em Carregadores Solares: Estudo do Módulo STEVAL-ISV012V1. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LEMOS, E. A. ; BRAGA, A. R. . Aprimorando a Apicultura com Tecnologia: A Evolução de um Aplicativo para Auxílio de Apicultores do Semiárido. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MELO, E. P. ; BRAGA, A. R. . Aprimoramento da Plataforma Web ColonyMon. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, F. I. A. ; NOBRE, M. F. ; BEZERRA, M. S. ; COUTINHO, L. R. R. ; BRAGA, A. R. . Desenvolvimento de um algoritmo de varredura de variáveis de ambiente e detecção de roubo em colmeias de abelha. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, M. S. ; MORAES, F. I. A. ; NOBRE, M. F. ; BRAGA, A. R. ; COUTINHO, L. R. R. . Monitoramento Sustentável de Colmeias por meio da IoT Usando LoRa com Protocolo MQTT Integrado ao Node-RED. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, E. F. ; RAFAEL BRAGA, ANTONIO . Economia circular, tecnologia e apicultura: Aplicação de conceitos em aplicativo. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, I. V. S. ; GONCALVES, R. S. ; MORAES, F. I. A. ; COUTINHO, L. R. R. ; RAFAEL BRAGA, ANTONIO . Estudo Comparativo entre Sensores de Temperatura e Umidade para o Monitoramento de Colônias de Abelhas. In: XII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, F. I. A. ; GONCALVES, R. S. ; SILVA, I. V. S. ; COUTINHO, L. R. R. ; RAFAEL BRAGA, ANTONIO . Análise de sensores para detecção de movimentos e gases em uma colmeia de abelhas Apis mellifera. In: XII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, M. S. ; RAFAEL BRAGA, ANTONIO . Análise do desempenho dos Discentes do Curso de Redes de Computadores da Universidade Federal do Ceará - Campus Quixadá no Exame do ENADE nos anos de 2014, 2017 e 2021. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "GONCALVES, R. S. ; SILVA, I. V. S. ; MORAES, F. I. A. ; COUTINHO, L. R. R. ; RAFAEL BRAGA, ANTONIO . Estudo e Desenvolvimento de uma Balança para o Monitoramento de Colônias de Abelhas do Semiárido. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, R. L. ; RAFAEL BRAGA, ANTONIO . Aplicação da tecnologia LoRa no monitoramento da temperatura e umidade nas colmeias de abelhas. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "NASCIMENTO, R. S. ; ALVES, J. E. S. ; RAFAEL BRAGA, ANTONIO . Desenvolvimento do App Revise! Principais Etapas, Aprendizados e Dificuldades. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, R. G. L. E. ; FREITAS, E. F. ; RAFAEL BRAGA, ANTONIO . Relato de experiência: Desenvolvimento das Redes Sociais para o Projeto Colonymon. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, F. I. A. ; BRAGA, ANTONIO RAFAEL . Aplicando Machine Learning Para Identificação De Grãos De Pólen Através de Imagens. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. Rafael ; SILVA, D. A. ; NOBRE, J. S. ; FREITAS, B. M. ; . Definindo e Predizendo Níveis de Saúde de Colônias de Abelhas via Clusterização e Classiﬁcação. In: Simpósio Brasileiro de Banco de Dados, 2019, Fortaleza. Simpósio Brasileiro de Banco de Dados, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.5753/sbbd.2019.8830"
+        },
+        {
+          "texto": "MARQUES, L. T. ; HOLANDA, I. V. G. ; BRAGA, ANTONIO RAFAEL ; RAFAEL, L. A. C. . Relato de Experiência sobre o Ciclo de Palestras com ex-alunos do Campus para Aproximar a Comunidade Acadêmica do Mercado de Trabalho. In: VII Encontros Universitários da UFC campus Quixadá, 2017, Quixadá. VII Encontros Universitários da UFC campus Quixadá, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, C. S. ; BRAGA, ANTONIO RAFAEL . Análise da Capacidade de Descarregamento de Redes Móveis Densas. In: VII Encontros Universitários da UFC campus Quixadá, 2017, Quixadá. VII Encontros Universitários da UFC campus Quixadá, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA JUNIOR, A. A. ; MARQUES, L. T. ; BRAGA, A. R. . Relato de experiência do levantamento no LinkedIn. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MARQUES, L. T. ; SILVA, R. R. ; BRAGA, A. R. . Relato de Experiência Projeto Aproximando o Mercado de Trabalho da Universidade. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do VI Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SOUSA, A. F. O. ; BRAGA, A. R. . Estudo sobre as bibliotecas DNSPython e DNSJava. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do VI Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "RABELO, J. C. ; BRAGA, A. R. . Análise de Desempenho de Ferramentas de Gerenciamento para Roteadores Virtualizados. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do VI Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SAMPAIO, W. L. A. ; BRAGA, A. R. . Sistema de integração de serviços em nuvem para controle de dados em dispositivos da Internet das coisas. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do VI Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, C. S. ; BRAGA, A. R. . Análise da Capacidade de Descarregamento de Redes Móveis Densas. In: VI Encontros Universitários da UFC campus Quixadá, 2016, Quixadá, CE. Anais do VI Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SOUSA, A. F. O. ; BRAGA, A. R. . Virtualização: computação em nuvem, contêineres e NFV. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MAIA, R. M. S. ; BRAGA, A. R. . Ferramenta para Criação de Clusters Virtuais para o Ensino de Programação Paralela e Distribuída. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PIRES, O. S. ; BRAGA, A. R. . Redes Wi-Fi centralizadas com NFV e SDN. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixada, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "REBOUCAS JUNIOR, W. L. L. ; BRAGA, A. R. . Desktop Virtualization: Criando Áreas de Trabalho Virtuais em Ambiente Acadêmico. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. R. ; RIBEIRO, T. G ; . Um Ambiente Virtual de Ensino e Aprendizagem Baseado em Web Semântica e Web Services. In: Mundo UNIFOR, 2006, Fortaleza. Anais do VI Encontro de Pós-Graduação e Pesquisa - Mundo Unifor. Fortaleza: Editora Unifor, 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "OLIVEIRA, C. C. S. ; RAFAEL BRAGA, ANTONIO . RELATO DE EXPERIÊNCIA DE MONITORIA NA DISCIPLINA DE GERÊNCIA DE REDES DE COMPUTADORES. In: XV Encontros Universitários da UFC campus Quixadá, 2025. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CRUZ, G. B. ; RAFAEL BRAGA, ANTONIO . RELATO DE EXPERIÊNCIA: MONITORIA EM PRÁTICAS E TÉCNICAS DE REDES DE COMPUTADORES EM SISTEMAS DISTRIBUÍDOS. In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, J. C. B. ; RAFAEL BRAGA, ANTONIO . RESULTADOS DA ADOÇÃO DO CONSTRUTIVISMO NO ENSINO E APRENDIZAGEM DA DISCIPLINA DE ADMINISTRAÇÃO DE SISTEMAS OPERACIONAIS. In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, R. S. ; FREITAS, V. M. ; RAFAEL BRAGA, ANTONIO . COMUNICAÇÃO E ADOÇÃO TECNOLÓGICA: ATUAÇÃO NA INTERFACE ENTRE APICULTORES E O APLICATIVO REVISE! PARA GESTÃO DE APIÁRIOS E COLETA DE DADOS. In: XV Encontros Universitários da UFC campus Quixadá, 2025, Quixadá. XV Encontros Universitários da UFC campus Quixadá, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, M. A. ; BRAGA, A. R. . Avaliação do Aplicativo ?Revise!? com Apicultores do Sertão Central, um Olhar Especial no Público Feminino. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, R. M. N. ; LIMA NETO, J. F. ; BRAGA, A. R. . Relato de Experiência: Suporte para a coordenação de Redes de Computadores nos preparativos para o ENADE 2025, cadastro de questões no MOODLE com apoio da Inteligência Artificial (AI). In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, J. A. C. ; BRAGA, A. R. . Relato de Experiência: Desenvolvimento de Um Manual de Identidade Visual para Um Projeto de Apicultura de Precisão no Sertão Central. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, R. C. M. ; BRAGA, A. R. . Relato de Experiência da monitoria PID na disciplina de Arquitetura TCP/IP. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CASTRO, F. L. P. ; FRANCA, A. A. ; BRAGA, A. R. . Relato de Experiência PAIP: Uma Abordagem com Grupos de Estudos e Desenvolvimento de uma Ferramenta Web no Curso de Redes de Computadores da UFC em Quixadá com DevOps. In: XIV Encontros Universitários da UFC campus Quixadá, 2024, Quixadá. XIV Encontros Universitários da UFC campus Quixadá, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MAGALHAES NETO, A. B. ; RAFAEL BRAGA, ANTONIO . Desenvolvimento de um Aplicativo Móvel para auxílio da Revisão de Colônias de Abelhas do Sertão Cearense. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LEMOS, E. A. ; LIMA, L. F. B. ; RAFAEL BRAGA, ANTONIO . Relato de experiência sobre estudos para a criação de um aplicativo para o auxílio de apicultores. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "NARCISO, I. S. ; RAFAEL BRAGA, ANTONIO . Relato de experiência: Monitoria Acadêmica em Práticas e Técnicas em Redes de Computadores. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, L. F. B. ; LEMOS, E. A. ; RAFAEL BRAGA, ANTONIO . Relato de experiência sobre a produção de um aplicativo para o auxílio de apicultores. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, M. A. ; RAFAEL BRAGA, ANTONIO . Mapeamento de Apicultores do Semiárido Cearenses para Capacitação em Ferramentas Tecnológicas da Apicultura de Precisão. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, M. S. ; RAFAEL BRAGA, ANTONIO . Difusão e implementação de novas tecnologias em ambiente DEVOPS. In: XIII Encontros Universitários da UFC campus Quixadá, 2023, Quixadá. XIII Encontros Universitários da UFC campus Quixadá, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES FILHO, M. A. ; BRAGA, ANTONIO RAFAEL . Relato De Experiência - Difusão e Implementação de Novas Tecnologias em Ambientes Devops. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MAGALHAES NETO, A. B. ; BRAGA, ANTONIO RAFAEL . Relato de Experiência Sobre a Importância da Padronização dos Itens de Inspeção das Colmeias. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, M. I. G. M. ; BRAGA, ANTONIO RAFAEL . Relato de Experiência - Monitoria Acadêmica em Práticas e Técnicas em Redes de Computadores. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA JUNIOR, F. V. L. ; BRAGA, ANTONIO RAFAEL . Relato de Experiencia - Uma Aplicação Móvel Para o Auxílio das Revisões de Colmeias de Abelhas. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ALBUQUERQUE, D. Q. ; BRAGA, ANTONIO RAFAEL ; BOMFIM, I. G. A. ; . Aplicando um Modelo Yolo para Detectar e Diferenciar por Imagem Castas de Abelhas Melíferas de Forma Automatizada. In: Encontros Universitários da UFC, 2022, Quixadá. XIV Encontro Universitários, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "RIBEIRO, C. A. ; ; BRAGA, A. R. ; BARROS, C. M. ; PAIVA, L. N. . Aplicando lógica fuzzy para classificar imagens de abelhas. In: Encontros Universitários da UFC (XIII Encontro de Pesquisa e Pós-Graduação), 2021, Fortaleza. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D. A. ; ; RODRIGUES, I. L. ; BRAGA, A. R. ; NOBRE, J. S. ; FREITAS, B. M. . Um modelo estatístico autônomo, adaptativo e de alta precisão para classificação de cenários de bem-estar de colônias de abelhas. In: Encontros Universitários da UFC (XXXIX Encontro de Iniciação Científica), 2021, Fortaleza. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MONTEIRO, J. L. L. ; ; SILVA, L. F. V. ; MELO, D. B. ; BRAGA, A. R. . Avaliação experimental do lora em apicultura de precisão. In: Encontros Universitários da UFC (XXXIX Encontro de Iniciação Científica), 2021, Fortaleza. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BARROS, C. M. ; BRAGA, A. R. ; ; PAIVA, L. N. ; RIBEIRO, C. A. . Identificação de espécies de abelhas via processamento digital de imagens. In: Encontros Universitários da UFC (XXXIX Encontro de Iniciação Científica), 2021, Fortaleza. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PITANGA, H. L. R. ; BRAGA, A. R. . Experiência da Monitoria PID na Disciplina de Gerência de Redes de Computadores no Ensino Remoto. In: Encontros Universitários da UFC, 2021, Quixadá. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "DANTAS, A. R. P. ; BRAGA, A. R. . Relato de Experiência: Administração de Sistemas Operacionais Windows. In: Encontros Universitários da UFC, 2021, Quixadá. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, S. K. T. ; RAFAEL BRAGA, ANTONIO . Experiência de Monitoria PID na Disciplina de Gerência de Redes de Computadores no Ensino Remoto. In: Encontros Universitários da UFC Quixadá 2021, 2021, Quixadá. XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SOUSA JUNIOR, J. B. R. ; RAFAEL BRAGA, ANTONIO . Experiência de Monitoria PID na Disciplina de Administração de Sistemas Operacionais Windows no Ensino Remoto. In: ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021, Quixadá. XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, F. I. A. ; RAFAEL BRAGA, ANTONIO . Identificação de tipos polínicos automatizada com processamento digital de imagens. In: XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021, Quixadá. XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, M. P. R. ; COLARES, A. L. ; RAFAEL BRAGA, ANTONIO . O backend de um aplicativo de inspeções in-loco para manutenção da saúde de colonias de abelhas. In: XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021, Quixadá. XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COLARES, A. L. ; RODRIGUES, M. P. R. ; RAFAEL BRAGA, ANTONIO . O frontend de um aplicativo de inspeções in-loco para manutenção da saúde de colonias de abelhas. In: XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021, Quixadá. XI ENCONTROS UNIVERSITÁRIOS DA UFC EM QUIXADÁ, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BARROS, C. M. ; DE FREITAS, EMANNUEL DIEGO GONÇALVES ; RAFAEL BRAGA, ANTONIO ; BOMFIM, I. G. A. ; . Aplicando Redes Neurais Convolucionais em Imagens para Reconhecimento Automatizado de Abelhas Melíferas. In: Encontros Universitários da UFC 2021, 2021, Fortaleza. Encontros Universitários da UFC 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CUNHA, A. A. ; ; MELO, D. B. ; MONTEIRO, J. L. L. ; RIBEIRO, L. V. N. ; BRAGA, A. R. . Sistema embarcado para sensoriamento remoto em apiários. In: Encontros Universitários da UFC (XXXIX Encontro de Iniciação Científica), 2021, Fortaleza. Encontros Universitários da UFC, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D. A. ; NOBRE, J. S. ; BRAGA, A. R. ; . Modelagem em dois estágios aplicada ao diagnóstico da saúde de colônias de abelhas (Apis mellifera). In: Encontros Universitários, 2020, Fortaleza. Encontros Universitários da UFC. Fortaleza: Editora UFC, 2020. v. 4. p. 1675-1675.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, I. L. ; BRAGA, A. R. ; LIMA JUNIOR, J. B. ; . Um formulário web para cadastro de inspeções para determinar o nível de saúde de colmeias de abelhas. In: Encontros universitários, 2020, Fortaleza. Encontros universitários UFC. Fortaleza: Editora UFC, 2020. v. 4. p. 2090-2090.",
+          "ano": 2090,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, L. E. ; BARBOSA, C. C. S. ; MELO, D. B. ; BRAGA, A. R. ; . Uma plataforma de apicultura de precisão baseada em iot para o monitoramento de colônias de abelhas. In: Encontros universitários UFC, 2020, Fortaleza. Encontros universitários UFC. Fortaleza: Editora UFC, 2020. v. 4. p. 2112-2112.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "WILLIAMS, J. ; SCOTT, A. ; ROGERS, R. ; LINTON, F. ; HASSLER, E. ; BRAGA, A. Rafael ; WILKES, J. ; CAZIER, J. A. . Standardized Human Assessments of Hive Health: Assessing the Healthy Colony Checklist and Hooper?s 5 Questions as a Basis for a Standardized Bee Health Monitoring Tool. In: Apimondia International Apicultural Congress, 2019, Montréal. The 46th Apimondia International Apicultural Congress, 2019. v. 46. p. 237-237.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCOTT, A. ; HASSLER, E. ; BRAGA, A. Rafael ; RUBINIGG, M. ; FORMATO, G. ; WILKES, J. ; CAZIER, J. A. . Software vs. Surveys: Comparing Approaches for Mapping Honey Bee Diseases. In: The 46th Apimondia International Apicultural Congress, 2019, Montréal. The 46th Apimondia International Apicultural Congress, 2019. v. 46. p. 238-238.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D. A. ; BRAGA, A. Rafael ; NOBRE, J. S. ; GOMES, DANIELO G. . Clustering and elastic net logistic regression as support tools for Honeybee (Apis mellifera) colonies health diagnosis. In: Second Conference on Statistics and Data Science (CSDS), 2019, Salvador-BA. Book of abstracts of the 2nd Conference on Statistics and Data Science, 2019. v. 2. p. 54-54.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "XAVIER, R. M. ; BRAGA, ANTONIO RAFAEL ; GOMES, DANIELO G. . Classificação e Análise do Estado de Colônias de Abelhas Apis Mellifera. In: Encontros Universitários da UFC, 2018, Fortaleza. Encontros Universitários da UFC, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRE, A. S. ; BRAGA, A. R. . Acompanhamento de Egresso do Curso de Sistemas de Informações através da Rede Social LinkedIn. In: V Encontros Universitários da UFC campus em Quixadá, 2015, Quixadá. Anais V Encontros Universitários da UFC campus em Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRE, A. S. ; MARQUES, L. T. ; BRAGA, A. R. . Aproximando o mercado de trabalho da Universidade. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PESSOA, I. N. S. ; BRAGA, A. R. . Grupo de estudos de Desenvolvimento web com ASP.NET. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PIRES, O. S. ; BRAGA, A. R. . Monitoria da disciplina de Administração de Sistemas Operacionais Windows e integração com o programa Student to Business. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BRITO, A. S. ; SOUSA, A. O. ; VIEIRA, J. K. M. ; ROLIM, G. F. ; BRAGA, A. R. ; PINHEIRO, T. S. M. . Proposta de Perfil Desejado Para o Egresso do Curso de SI da UFC-Quixadá. In: V Encontros Universitários da UFC campus Quixadá, 2015, Quixadá, CE. Anais do V Encontros Universitários da UFC campus Quixadá. Quixadá: UFC Quixadá, 2015.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "BRAGA, A. R. ; FURTADO, L. S. ; BEZERRA, A. D. M. ; FREITAS, B. M. ; CAZIER, J. A. ; . Applying the Long-Term Memory Algorithm to Forecast Loss of Thermoregulation Capacity in Honeybee Colonies. 2019. (Apresentação de Trabalho/Congresso).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. Rafael ; HASSLER, E. ; ; FREITAS, B. M. ; CAZIER, J. A. . IoT for Development: Building a Classification Algorithm to Help Beekeepers Detect Honeybee Health Problems Early. 2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. R. ; ; FREITAS, B. M. ; CAZIER, J. A. . Cluster-classification method for accurate mining of seasonal honey bee colony patterns. 2019. (Apresentação de Trabalho/Comunicação).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MACIEL, F. A. O. ; BRAGA, A. Rafael ; SILVA, A. L. E. ; SILVA, T. L. C. ; FREITAS, B. M. ; . Reconhecimento de Padrões de Colônias de Abelhas Apis Mellifera Segundo Mudanças das Estações do Ano. 2018. (Apresentação de Trabalho/Congresso).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. Rafael ; MACIEL, F. A. O. ; ALMEIDA, R. L. A. ; AGUILAR, P. A. C. ; ; . Gerenciamento Térmico e Elétrico de um Centro de Dados utilizando Sensoriamento IoT. 2017. (Apresentação de Trabalho/Congresso).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. R. ; SILVA, Paulo Renato Xavier da ; SOARES, J. M. ; . Ócio Produtivo: Explorando a Ociosidade de Clusters Virtuais para Execução de Aplicações do Tipo Saco de Tarefas. 2012. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "BRAGA, A. R. . Abordagens diversas para o HTML 5. 2013. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "; BRAGA, A. R. ; NOBRE, J. S.; GOMES, G.. Participação em banca de DANIEL DE AMARAL DA SILVA. Aplicando Modelos de Visão Computacional para Detectar em Tempo Real o Fluxo de Entrada de Pólen em Colmeias de Abelhas Melíferas. 2023. Dissertação (Mestrado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; BRAGA, A. R. ; SANTOS, C. F.; OLIVEIRA, J. B.. Participação em banca de FRANCISCO RONALD ARAUJO BARBOSA. Beechain: Aplicando Blockchain Hyperledger Iroha para Rastrear Mel de Abelha. 2023. Dissertação (Mestrado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVEIRA, I. N. S.; BRAGA, ANTONIO R. . Participação em banca de CAROLINA ALVES RIBEIRO. Uma Análise Bibliométrica da Produção Científica Mundial sobre Apicultura de Precisão nas Bases de Dados Scopus e Web of Science. 2022. Dissertação (Mestrado em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "SOUZA, A. B.; BONFIM, M. S; BRAGA, ANTONIO RAFAEL . Participação em banca de JHONATAN DA SILVA CACIANO.IPV6, 5G E SEGURANÇA: UMA REVISÃO DA LITERATURA. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; PINHEIRO, F. V. S.; BRAGA, ANTONIO RAFAEL . Participação em banca de WILTON LUCAS DA SILVA GOMES.AVALIANDO A CONFORMIDADE DOS PROCESSOS INTERNOS DA UNIVERSIDADE FEDERAL DO CEARÁ COM A LEI GERAL DE PROTEÇÃO DE DADOS. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; JUCA, P. M.; NOGUEIRA, A. D. B.; BRAGA, ANTONIO RAFAEL . Participação em banca de HENOK PONTES TEIXEIRA.ANÁLISE DE DESEMPENHO, OTIMIZAÇÃO E REFATORAÇÃO DO SERVIDOR RADAR LIVRE. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BANDEIRA, C. I. R.; BRAGA, ANTONIO RAFAEL ; ALENCAR, J. M. U.. Participação em banca de CARLOS EDUARDO ALVES ALMEIDA.ARQUITETURA DE MICROSSERVIÇOS INTEGRADA A MODELOS DE INTELIGÊNCIA ARTIFICIAL PARA ANÁLISE AUTOMATIZADA DE FEEDBACKS. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GUERRA, Paulo T.; BRAGA, ANTONIO RAFAEL ; ARAUJO, P. H. M.. Participação em banca de JOÃO PEDRO SOARES MATIAS.UMA FERRAMENTA PARA VISUALIZAÇÃO DO DESEMPENHO DOS CURSOS NO ENADE DA UFC QUIXADÁ. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. B.; BONFIM, M. S; BRAGA, ANTONIO RAFAEL . Participação em banca de JHONATAN DA SILVA CACIANO.IPV6, 5G E SEGURANÇA: UMA REVISÃO DA LITERATURA. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FARIAS, V. A. E.; MONTEIRO, V. B.; BRAGA, ANTONIO RAFAEL . Participação em banca de JOÃO EMILE XIMENES MURITIBA.PREVISÃO DE INFLAÇÃO NO BRASIL: ANALISANDO A EFICÁCIA DE MODELOS DE MACHINE LEARNING. 2025 - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; BONFIM, M. S; BRAGA, ANTONIO RAFAEL . Participação em banca de LUCAS MARTINS DA SILVA.ANALISANDO O EFEITO DE CARGAS DE TRABALHO NO AMBIENTE VIRTUAL DE APRENDIZAGEM MOODLE COM O JMETER NA AWS. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; ALENCAR, J. M. U.; BRAGA, ANTONIO RAFAEL . Participação em banca de LUIZ HENRIQUE OLIVEIRA SILVA.ANÁLISE DE AMBIENTAÇÃO DE APLICAÇÕES PHP E .NET EM NUVEM: UM ESTUDO BASEADO EM DESEMPENHO. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; ALENCAR, J. M. U.; BRAGA, ANTONIO RAFAEL . Participação em banca de MARCELLO ALEXANDRE RODRIGUES FILHO.UMA SOLUÇÃO DE MONITORAMENTO DE CLUSTERS KUBERNETES EM AMBIENTES HÍBRIDOS E MULTI-CLOUD. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ALENCAR, J. M. U.; BONFIM, M. S; BRAGA, ANTONIO RAFAEL . Participação em banca de PAULO ARAGÃO DE AZEVEDO NETO.ANALISE DE DESEMPENHO DE CONTÊINERES LXC E DOCKER EM AMBIENTE VIRTUAL. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; BRAGA, ANTONIO RAFAEL ; MOREIRA NETO, M.. Participação em banca de ROBERTO DE OLIVEIRA COUTINHO.VERIFICAÇÃO DE AUTENTICIDADE DE CONTAS DE ÓRGÃOS PÚBLICOS EM MÍDIAS SOCIAIS COM BLOCKCHAIN: UMA ABORDAGEM PARA TRANSPARÊNCIA E CONFIABILIDADE. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; PINHEIRO, F. V. S.; BRAGA, ANTONIO RAFAEL . Participação em banca de WILTON LUCAS DA SILVA GOMES.AVALIANDO A CONFORMIDADE DOS PROCESSOS INTERNOS DA UNIVERSIDADE FEDERAL DO CEARÁ COM A LEI GERAL DE PROTEÇÃO DE DADOS. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GUERRA, Paulo T.; ARAUJO, P. H. M.; BRAGA, ANTONIO RAFAEL . Participação em banca de JOÃO PEDRO SOARES MATIAS.UMA FERRAMENTA PARA VISUALIZAÇÃO DO DESEMPENHO DOS CURSOS DA UFC QUIXADÁ NO ENADE. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BANDEIRA, C. I. R.; BRAGA, ANTONIO RAFAEL ; BONFIM, M. S. Participação em banca de RODRIGO FABIANO FARINON FILHO.METODOLOGIAS TRADICIONAIS DE DIAGNÓSTICO EM REDES DE COMPUTADORES: UMA ANÁLISE COMPARATIVA. 2025. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GUERRA, Paulo T.; BRAGA, ANTONIO RAFAEL ; RABELO FILHO, R. C.. Participação em banca de FRANCISCO RAFAEL LOBO PINHO.ANÁLISE DE QUESTÕES ABERTAS DA AUTOAVALIAÇÃO INSTITUCIONAL POR MEIO DE LLMS. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; JUCA, P. M.; NOGUEIRA, A. D. B.; BRAGA, ANTONIO RAFAEL . Participação em banca de Henok Pontes Teixeira.REFATORAÇÃO, OTIMIZAÇÃO E ANÁLISE DE DESEMPENHO DO SERVIDOR RADAR LIVRE. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALENCAR, J. M. U.; BRAGA, ANTONIO RAFAEL ; BONFIM, M. S. Participação em banca de ANA KARINE NOBRE BEZERRA.CONSTRUÇÃO DE UMA PIPELINE DEVSECOPS PARA APLICAÇÕES WEB PHP: ESTUDO DE CASO EM APLICAÇÃO DE TRANSFORMAÇÃO DIGITAL DO GOVERNO ESTADUAL. 2024. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, L. R. R.; SANTOS FILHO, F. H. C.; BRAGA, ANTONIO RAFAEL . Participação em banca de FRANCISCO ÍTALO DE ANDRADE MORAES.DESENVOLVIMENTO DE UM NÓ SENSOR PARA MONITORAMENTO E DETECÇÃO DE ROUBOS DE COLMEIAS DE ABELHAS APIS MELLIFERA. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; MOREIRA NETO, M.; BRAGA, ANTONIO RAFAEL . Participação em banca de ROBERTO DE OLIVEIRA COUTINHO.VERIFICAÇÃO DE AUTENTICIDADE DE CONTAS DE ÓRGÃOS PÚBLICOS EM MÍDIAS SOCIAIS COM BLOCKCHAIN: UMA ABORDAGEM PARA TRANSPARÊNCIA E CONFIABILIDADE. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALENCAR, J. M. U.; BONFIM, M. S; BRAGA, ANTONIO RAFAEL . Participação em banca de PAULO ARAGÃO DE AZEVEDO NETO.ANALISE DE DESEMPENHO DE CONTÊINERES LXC E DOCKER EM AMBIENTE VIRTUAL. 2024. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; COSTA, T. M.; BRAGA, A. R. . Participação em banca de Luís Filipe Velasco da Silva.Ferramentas de automatização de configuração de software: Estudo de Caso com o Ansible. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; BRAGA, A. R. ; BONFIM, M. S. Participação em banca de LUCAS MARTINS DA SILVA.ANALISANDO O EFEITO DE CARGAS DE TRABALHO NO AMBIENTE VIRTUAL DE APRENDIZAGEM MOODLE COM O JMETER NA AWS. 2023. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RABELO FILHO, R. C.; BRAGA, A. R. ; CARVALHO, S. A. L.. Participação em banca de JOSE GABRIEL BERNARDES DE ALMEIDA.ANÁLISE COMPARATIVA DE ABORDAGENS BASEADAS EM BLOCKCHAIN PARA COMBATER FAKE NEWS. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DE CARVALHO SILVA, JEFFERSON; TAVARES, W. A.; BRAGA, A. R. . Participação em banca de EDUARDO DA SILVA GOMES.CODEPLAY: UMA INICIATIVA DE DESENVOLVER O PENSAMENTO COMPUTACIONAL POR MEIO DE UM JOGO DIGITAL EDUCATIVO IMPLEMENTADO EM REACT. 2023. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PINHEIRO, T. S. M.; RABELO FILHO, R. C.; BRAGA, ANTONIO RAFAEL . Participação em banca de RODRIGO MODESTO CÂMARA QUEIROZ.MODELO DE SISTEMA DE RECOMENDAÇÃO PARA AUXILIAR NA ESCOLHA DE DISCIPLINAS OPTATIVAS DO CURSO DE SISTEMAS DE INFORMAÇÃO DA UNIVERSIDADE FEDERAL DO CEARÁ - CAMPUS QUIXADÁ. 2023. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; BRAGA, A. R. ; OLIVEIRA, C. T.. Participação em banca de NATANAEL MOREIRA LEMOS.ANÁLISE COMPARATIVA DE SIMULADORES E EMULADORES DE COMPUTAÇÃO EM NÉVOA PARA INTERNET DAS COISAS. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; BRAGA, A. R. ; SOUSA, F. R. C.. Participação em banca de GUSTAVO BEZERRA FECHINE.Um Comparativo Prático de Plataformas de Computação em Névoa para Internet das Coisas com Diferentes Propostas de Orquestração. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; SOUSA, F. R. C.; BRAGA, A. R. . Participação em banca de GUSTAVO FILIPE DO NASCIMENTO.UM SISTEMA PARA MONITORAMENTO DE DADOS VEICULARES UTILIZANDO PROTOCOLO OBD-II. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; CAMPOS, N. G. S.; BRAGA, A. R. . Participação em banca de Anderson Leandro de Melo Marques Rocha.Uma Arquitetura para Sistemas de Rastreabilidade em Cadeias Logísticas Usando Blockchain. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; BRAGA, A. R. ; ALENCAR, J. M. U.. Participação em banca de Marcello Alexandre Rodrigues Filho.UMA SOLUÇÃO DE MONITORAMENTO DE CLUSTERS KUBERNETES EM AMBIENTES MULTI- CLOUD. 2022. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, E. F.; BRAGA, A. R. ; BEZERRA, J. M.. Participação em banca de JOSE KESSIO FIDELES SANTIAGO.O USO DO GNS3 NA PRÁTICA DE ESTUDO DE REDES DE COMPUTADORES. 2022. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; BRAGA, A. R. ; CAMPOS, N. G. S.. Participação em banca de Gabriel da Rocha Silva.Parada de ônibus inteligente: uma aplicação IoT para mobilidade urbana utilizando redes LoRa. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; BRAGA, A. R. ; CAMPOS, N. G. S.. Participação em banca de Marcus Jeovanni Freitas Machado.Uma avaliação comparativa entre as topologias de rede Star e Mesh no uso da tecnologia LoRa. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; BRAGA, A. R. ; BOMFIM, I. G. A.; QUAGLIERINI, C.. Participação em banca de Ícaro de Lima Rodrigues.Aplicando Modelos de Aprendizagem de Máquina para Detectar Anomalias no Bem-Estar de Abelhas Melíferas. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "REGO DA ROCHA, ATSLANDS; SOUSA, F. R. C.; RAFAEL BRAGA, ANTONIO . Participação em banca de Caio Cid Santiago.Safewatch - Monitoramento de Fluxo de Pessoas Usando Redes LoRa. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; NOBRE, J. S.; BRAGA, A. R. . Participação em banca de Daniel de Amaral da Silva.Agrupamento e Regressão Logística em Apicultura de Precisão. 2020. Trabalho de Conclusão de Curso (Graduação em Estatística) - Universidade Federal do Ceará.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; BRAGA, A. R. ; BEZERRA, C. B. P.. Participação em banca de Francisca Luzia Nogueira Araújo.Análise de QoS em Aplicações VoIP em Dispositivos Móveis. 2019. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, A. R.; SOUSA, F. R. C.; BRAGA, A. Rafael . Participação em banca de Johnson Melo Fontenele.Gerenciamento do Cluster Computacional do CENAPAD-UFC com um mini-computador. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Ceará.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; BRAGA, ANTONIO RAFAEL ; BEZERRA, C. B. P.. Participação em banca de Francisca Luzia Nogueira Araújo.Análise de QoS em Aplicações VoIP em Dispositivos Móveis. 2018. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "REGO, P. A. L.; MATEUS, Bruno Góis; BRAGA, A. Rafael . Participação em banca de Walafi Ferreira da Silva.Utilizando Virtualização Baseada em Containers para Criação de Laboratórios Práticos de Disciplinas na Área de TI. 2017. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; BRAGA, A. Rafael ; BEZERRA, J. M.. Participação em banca de Ueliton Sousa Dodó.Uma Análise da Qualidade de Experiência dos Usuários de Streaming de Vídeo. 2017. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. B.; REGO, P. A. L.; BONFIM, M. S; BRAGA, A. R. . Participação em banca de Rejane Vasconcelos Lopes.Avaliação de Sistemas de Arquivos Distribuídos em um Ambiente Virtualizado. 2016. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; REGO, P. A. L.; ORTIZ, M. D.; BRAGA, A. R. . Participação em banca de Diego Oliveira Gonçalves.Migração da Tecnologia de Rede de Bridge para Roteada do Provedor de Internet Fortalnet Bureal em Baturité. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; REGO, P. A. L.; ORTIZ, M. D.; BRAGA, A. R. . Participação em banca de Jeyvison de Oliveira Lemos.Desenvolver e Implantar um Novo Projeto de Rede para a Escola de Ensino Médio Coronel Virgílio Távora. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; REGO, P. A. L.; ORTIZ, M. D.; BRAGA, A. R. . Participação em banca de Mário Ferreira dos Santos Neto.Projeto de Implementação de uma Nova Infraestrutura de Rede para a Escola de Ensino Médio Governador César Cals de Oliveira Filho. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; REGO, P. A. L.; BRAGA, A. R. . Participação em banca de Rafael Costa da Silva.Docker versus KVM: Uma análise de desempenho de disco para pequenos arquivos. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DE OLIVEIRA, M.; GUERRA, Paulo T.; BRAGA, A. R. . Participação em banca de Felipe Neves Brito.Desenvolvimento de um Chatterbot para a página web de um curso de Nível Superior. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, David Sena; OLIVEIRA, A. C.; BRAGA, A. R. . Participação em banca de Tárek Holanda Silva.Desenvolvendo um Aplicativo Híbrido para Criação e Comunicação de Eventos em uma Universidade. 2016. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; ORTIZ, M. D.; BRAGA, A. R. . Participação em banca de Francisco Edigleison da Silva Barbosa.Projeto e Implantação de três ambientes de Nuvem privada no Laboratório de Sistemas e Banco de Dados da Universidade Federal do Ceará. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; SOUZA, A. B.; BRAGA, A. R. . Participação em banca de Samuel Pereira de Souza.Análise de Desempenho de API?s de Socket. 2016. Trabalho de Conclusão de Curso (Graduação em Redes de Computadores) - Universidade Federal do Ceará.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, A. S.; BRAGA, A. R. ; MATEUS, Bruno Góis. Participação em banca de Luís André de Lima Freire.Avaliação da Comunicabilidade no Ambiente Virtual de Aprendizagem Moodle - Um Estudo de Caso. 2015. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, A. S.; BRAGA, A. R. ; MATEUS, Bruno Góis. Participação em banca de Ítalo Bandeira Pereira Leite.Uma estratégia para interação e presença dos serviços de T.I nas Redes Sociais ? Uma avaliação com gestores. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Ceará.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "AL-ALAM, W. G.; MANSO, C. A.; BRAGA, A. R. . Participação em banca de Edmilson Raulino de Sousa Neto.Acessibilidade dos Deficientes à Tecnologia da Informação. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Faculdade Lourenço Filho.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "BONFIM, M. S; REGO, P. A. L.; BRAGA, A. R. . Participação em banca de Marcos Cavalcante Ribeiro.Solução de Gerência de Rede para Ambientes LISP. 2014. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, A. S.; BRAGA, A. R. ; FEITOSA, Jose Moraes. Participação em banca de Wanrly Sousa Menezes.O Uso do Google App Engine na Disciplina de Desenvolvimento de Software para Web do Campus da UFC em Quixadá. 2014. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal do Ceará.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "AMARO JUNIOR, B.; SANTOS, M. C.; BRAGA, ANTONIO RAFAEL . Participação da comissão Julgadora do Concurso Público para provimento do cargo de Professor do Magistério Superior- Adjunto A do Campus da Universidade Federal do Ceará em Russas, no Setor de Estudo: ?Redes de Computadores, Otimização e Teoria da Computação?, objeto do Edital nº 132/2022. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ALENCAR, J. M. U.; OLIVEIRA, David Sena; BRAGA, A. Rafael . Seleção de Professor Substituto para o Magistério Superior.. 2017. Universidade Federal do Ceará.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. R. ; BONFIM, M. S; ALENCAR, J. M. U.. Seleção de Professor Substituto para o Magistério Superior. 2015. Universidade Federal do Ceará.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CALLADO, A. C.; BRAGA, A. R. ; BONFIM, M. S. Seleção de Professor Substituto para o Magistério Superior. 2015. Universidade Federal do Ceará.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Avaliação de cursos",
+      "items": [
+        {
+          "texto": "BRAGA, A. Rafael . Avaliação de cursos de superiores realizada pelo Guia do Estudante (GE). 2018. Editora Abril.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. Rafael . Avaliação de cursos de superiores realizada pelo Guia do Estudante (GE). 2017. Editora Abril.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, A. Rafael . Avaliação de cursos de superiores realizada pelo Guia do Estudante (GE). 2016. Editora Abril.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

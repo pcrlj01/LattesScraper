@@ -1,0 +1,1682 @@
+{
+  "name": "Daniel Welfer",
+  "lattes_id": "7506460984370717",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "A Comprehensive Survey on Intrusion Detection Systems for Healthcare 5.0: Concepts, Challenges, and Practical Applications",
+          "autores": "SIQUEIRA, LUCAS P. ; BATISTA, CASSIO L. ; LUI, PEDRO H. ; KAZIENKO, JULIANO F. ; QUINCOZES, SILVIO E. ; QUINCOZES, VAGNER E. ; Welfer, Daniel ; NOMURA, SHIGUEO",
+          "periodico": "SENSORS , v. 25, p. 6261, 2025.",
+          "doi": "http://dx.doi.org/10.3390/s25206261",
+          "citacao_completa": "SIQUEIRA, LUCAS P. ; BATISTA, CASSIO L. ; LUI, PEDRO H. ; KAZIENKO, JULIANO F. ; QUINCOZES, SILVIO E. ; QUINCOZES, VAGNER E. ; Welfer, Daniel ; NOMURA, SHIGUEO . A Comprehensive Survey on Intrusion Detection Systems for Healthcare 5.0: Concepts, Challenges, and Practical Applications. SENSORS , v. 25, p. 6261, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture",
+          "autores": "SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; PEREIRA, ALEJANDRO ; RIBEIRO, MARCELO ; BELLONI, BRUNO",
+          "periodico": "IEEE Access , v. 11, p. 43603-43618, 2023.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2023.3271895",
+          "citacao_completa": "SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; PEREIRA, ALEJANDRO ; RIBEIRO, MARCELO ; BELLONI, BRUNO . A New Approach for Fundus Lesions Instance Segmentation Based on Mask R-CNN X101-FPN Pre-Trained Architecture. IEEE Access , v. 11, p. 43603-43618, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Improved Detection of Fundus Lesions Using YOLOR-CSP Architecture and Slicing Aided Hyper Inference",
+          "autores": "PEREIRA, A. ; SANTOS, C. A. S. ; AGUIAR, M. S. ; WELFER, D. ; DIAS, M. ; RIBEIRO, M.",
+          "periodico": "IEEE Latin America Transactions , v. 21, p. 806-813, 2023.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, A. ; SANTOS, C. A. S. ; AGUIAR, M. S. ; WELFER, D. ; DIAS, M. ; RIBEIRO, M. . Improved Detection of Fundus Lesions Using YOLOR-CSP Architecture and Slicing Aided Hyper Inference. IEEE Latin America Transactions , v. 21, p. 806-813, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A New Approach for Detecting Fundus Lesions Using Image Processing and Deep Neural Network Architecture Based on YOLO Model",
+          "autores": "SANTOS, C. A. S. ; AGUIAR, M. S. ; WELFER, D. ; BELLONI, B.",
+          "periodico": "SENSORS , v. 22, p. 1-37, 2022.",
+          "doi": "http://dx.doi.org/10.3390/s22176441",
+          "citacao_completa": "SANTOS, C. A. S. ; AGUIAR, M. S. ; WELFER, D. ; BELLONI, B. . A New Approach for Detecting Fundus Lesions Using Image Processing and Deep Neural Network Architecture Based on YOLO Model. SENSORS , v. 22, p. 1-37, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Gesture Recognition using FastDTW and Deep Learning Methods in the MSRC-12 and the NTU RGB+D Databases",
+          "autores": "PEIXOTO, JULIA SCHUBERT ; CUKLA, ANSELMO RAFAEL ; DE SOUZA LEITE CUADROS, MARCO ANTONIO ; Welfer, Daniel ; TELLO GAMARRA, DANIEL FERNANDO",
+          "periodico": "IEEE Latin America Transactions , v. 20, p. 2189-2195, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tla.2022.9878175",
+          "citacao_completa": "PEIXOTO, JULIA SCHUBERT ; CUKLA, ANSELMO RAFAEL ; DE SOUZA LEITE CUADROS, MARCO ANTONIO ; Welfer, Daniel ; TELLO GAMARRA, DANIEL FERNANDO . Gesture Recognition using FastDTW and Deep Learning Methods in the MSRC-12 and the NTU RGB+D Databases. IEEE Latin America Transactions , v. 20, p. 2189-2195, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Cloud Variance Impact on the Voltage and Power Flow of Distribution Networks with Photovoltaic Generators",
+          "autores": "MARTINS, C. C. ; SPERANDIO, M. ; WELFER, D.",
+          "periodico": "IEEE Latin America Transactions , v. 19, p. 217-225, 2021.",
+          "doi": "http://dx.doi.org/10.1109/tla.2021.9443063",
+          "citacao_completa": "MARTINS, C. C. ; SPERANDIO, M. ; WELFER, D. . Cloud Variance Impact on the Voltage and Power Flow of Distribution Networks with Photovoltaic Generators. IEEE Latin America Transactions , v. 19, p. 217-225, 2021."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Article Users Activity Gesture Recognition on Kinect Sensor Using Convolutional Neural Networks and FastDTW for Controlling Movements of a Mobile Robot",
+          "autores": "PFITSCHER, M. ; WELFER, D. ; NASCIMENTO, E. J. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T.",
+          "periodico": "INTELIGENCIA ARTIFICIAL , v. 22, p. 121-134, 2019.",
+          "doi": "",
+          "citacao_completa": "PFITSCHER, M. ; WELFER, D. ; NASCIMENTO, E. J. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T. . Article Users Activity Gesture Recognition on Kinect Sensor Using Convolutional Neural Networks and FastDTW for Controlling Movements of a Mobile Robot. INTELIGENCIA ARTIFICIAL , v. 22, p. 121-134, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Novel Hybrid SVM-CNN Method for Extracting Characteristics and Classifying Cattle Branding",
+          "autores": "SANTOS, C. A. S. ; WELFER, D.",
+          "periodico": "Latin American Journal of Computing , v. 6, p. 9-16, 2019.",
+          "doi": "",
+          "citacao_completa": "SANTOS, C. A. S. ; WELFER, D. . A Novel Hybrid SVM-CNN Method for Extracting Characteristics and Classifying Cattle Branding. Latin American Journal of Computing , v. 6, p. 9-16, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Mobile Robot Navigation Using an Object Recognition Software with RGBD Images and the YOLO Algorithm",
+          "autores": "DOS REIS, DOUGLAS HENKE ; Welfer, Daniel ; DE SOUZA LEITE CUADROS, MARCO ANTONIO ; GAMARRA, DANIEL FERNANDO TELLO",
+          "periodico": "Applied Artificial Intelligence , v. 33, p. 1290-1305, 2019.",
+          "doi": "http://dx.doi.org/10.1080/08839514.2019.1684778",
+          "citacao_completa": "DOS REIS, DOUGLAS HENKE ; Welfer, Daniel ; DE SOUZA LEITE CUADROS, MARCO ANTONIO ; GAMARRA, DANIEL FERNANDO TELLO . Mobile Robot Navigation Using an Object Recognition Software with RGBD Images and the YOLO Algorithm. Applied Artificial Intelligence , v. 33, p. 1290-1305, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "The Pattern Recognition in Cattle Brand using Bag of Visual Words and Support Vector Machines Multi-Class",
+          "autores": "SANTOS, C. A. S. ; WELFER, D. ; DORNELLES, CLAUDIA",
+          "periodico": "INTELIGENCIA ARTIFICIAL , v. 21, p. 1-13, 2018.",
+          "doi": "http://dx.doi.org/10.4114/intartif.vol21iss61pp1-13",
+          "citacao_completa": "SANTOS, C. A. S. ; WELFER, D. ; DORNELLES, CLAUDIA . The Pattern Recognition in Cattle Brand using Bag of Visual Words and Support Vector Machines Multi-Class. INTELIGENCIA ARTIFICIAL , v. 21, p. 1-13, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise de métodos para suavização de ruídos em imagens de tomografia computadorizada multislice de baixa radiação",
+          "autores": "STRINGHINI, R. M. ; WELFER, D. ; DOTTO, G. N.",
+          "periodico": "Revista ComInG - Communications and Innovations Gazette , v. 3, p. 40-50, 2018.",
+          "doi": "",
+          "citacao_completa": "STRINGHINI, R. M. ; WELFER, D. ; DOTTO, G. N. . Análise de métodos para suavização de ruídos em imagens de tomografia computadorizada multislice de baixa radiação. Revista ComInG - Communications and Innovations Gazette , v. 3, p. 40-50, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Cattle Brand Recognition using Convolutional Neural Network and Support Vector Machines",
+          "autores": "SILVA, CARLOS ; Welfer, Daniel ; GIODA, FRANCISCO PAULO ; DORNELLES, CLAUDIA",
+          "periodico": "IEEE Latin America Transactions , v. 15, p. 310-316, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tla.2017.7854627",
+          "citacao_completa": "SILVA, CARLOS ; Welfer, Daniel ; GIODA, FRANCISCO PAULO ; DORNELLES, CLAUDIA . Cattle Brand Recognition using Convolutional Neural Network and Support Vector Machines. IEEE Latin America Transactions , v. 15, p. 310-316, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Novel iOS m-Health Application to Assist the Hospital-Acquired Pneumonia Diagnosis and Treatment",
+          "autores": "DIAS, K. N. ; WELFER, D. ; KAZIENKO, JULIANO F. ; DA SILVA, RENATO CASSOL FERREIRA",
+          "periodico": "Revista IEEE América Latina , v. 14, p. 1335-1342, 2016.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2016.7459618",
+          "citacao_completa": "DIAS, K. N. ; WELFER, D. ; KAZIENKO, JULIANO F. ; DA SILVA, RENATO CASSOL FERREIRA . A Novel iOS m-Health Application to Assist the Hospital-Acquired Pneumonia Diagnosis and Treatment. Revista IEEE América Latina , v. 14, p. 1335-1342, 2016."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A morphologic two-stage approach for automated optic disk detection in color eye fundus images",
+          "autores": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel",
+          "periodico": "Pattern Recognition Letters , v. 34, p. 476-485, 2013.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2012.12.011",
+          "citacao_completa": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel . A morphologic two-stage approach for automated optic disk detection in color eye fundus images. Pattern Recognition Letters , v. 34, p. 476-485, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Automatic Detection of Microaneurysms and Hemorrhages in Color Eye Fundus Images",
+          "autores": "BORTOLIN JUNIOR, S. ; WELFER, D.",
+          "periodico": "International Journal of Computer Science and Information Technology (Online) , v. 5, p. 21-37, 2013.",
+          "doi": "http://dx.doi.org/10.5121/ijcsit.2013.5502",
+          "citacao_completa": "BORTOLIN JUNIOR, S. ; WELFER, D. . Automatic Detection of Microaneurysms and Hemorrhages in Color Eye Fundus Images. International Journal of Computer Science and Information Technology (Online) , v. 5, p. 21-37, 2013."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Segmentation of the optic disk in color eye fundus images using an adaptive morphological approach",
+          "autores": "Welfer, Daniel ; Scharcanski, Jacob ; Kitamura, Cleyson M. ; Dal Pizzol, Melissa M. ; Ludwig, Laura W.B. ; Marinho, Diane Ruschel",
+          "periodico": "Computers in Biology and Medicine , v. 40, p. 124-137, 2010.",
+          "doi": "http://dx.doi.org/10.1016/j.compbiomed.2009.11.009",
+          "citacao_completa": "Welfer, Daniel ; Scharcanski, Jacob ; Kitamura, Cleyson M. ; Dal Pizzol, Melissa M. ; Ludwig, Laura W.B. ; Marinho, Diane Ruschel . Segmentation of the optic disk in color eye fundus images using an adaptive morphological approach. Computers in Biology and Medicine , v. 40, p. 124-137, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A coarse-to-fine strategy for automatically detecting exudates in color eye fundus images",
+          "autores": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel",
+          "periodico": "Computerized Medical Imaging and Graphics , v. 34, p. 228-235, 2010.",
+          "doi": "http://dx.doi.org/10.1016/j.compmedimag.2009.10.001",
+          "citacao_completa": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel . A coarse-to-fine strategy for automatically detecting exudates in color eye fundus images. Computerized Medical Imaging and Graphics , v. 34, p. 228-235, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Fovea center detection based on the retina anatomy and mathematical morphology",
+          "autores": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel",
+          "periodico": "Computer Methods and Programs in Biomedicine (Print) , v. 104, p. 397-409, 2010.",
+          "doi": "http://dx.doi.org/10.1016/j.cmpb.2010.07.006",
+          "citacao_completa": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel . Fovea center detection based on the retina anatomy and mathematical morphology. Computer Methods and Programs in Biomedicine (Print) , v. 104, p. 397-409, 2010."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento Participativo da Interface Grafica da Aplicação StoneAge",
+          "autores": "FREITAS, G. D. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "Revista Eletrônica de Iniciação Científica , v. 2, p. 1-18, 2005.",
+          "doi": "",
+          "citacao_completa": "FREITAS, G. D. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' . Desenvolvimento Participativo da Interface Grafica da Aplicação StoneAge. Revista Eletrônica de Iniciação Científica , v. 2, p. 1-18, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Programação de Robôs com dispositivos de Visão",
+          "autores": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "Revista do CCEI , v. _, p. 27-36, 2004.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D' . Programação de Robôs com dispositivos de Visão. Revista do CCEI , v. _, p. 27-36, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Programação de equipamentos CNC através da análise de imagens por segmentação",
+          "autores": "WELFER, D. ; SILVA, Alexandre Dias da ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "Revista do CCEI , v. _, p. 69-77, 2004.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; SILVA, Alexandre Dias da ; ORNELLAS, Marcos Cordeiro D' . Programação de equipamentos CNC através da análise de imagens por segmentação. Revista do CCEI , v. _, p. 69-77, 2004."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A New Liquid-Based Cervical Cytology Dataset with a YOLO/EfficientNet-Based Detection and Classification Approach",
+          "autores": "Cuña, Pablo D. ; Welfer, Daniel ; SANTOS, CARLOS ; AGUIAR, MARILTON ; PEREIRA, ALEJANDRO ; DIAS, MARCELO ; Guerra, Rodrigo da S.",
+          "periodico": "Lecture Notes in Computer Science. xxed.Cham: Springer Nature Switzerland, 2026, v. , p. 143-156.",
+          "doi": "http://dx.doi.org/10.1007/978-3-032-23176-5_11",
+          "citacao_completa": "Cuña, Pablo D. ; Welfer, Daniel ; SANTOS, CARLOS ; AGUIAR, MARILTON ; PEREIRA, ALEJANDRO ; DIAS, MARCELO ; Guerra, Rodrigo da S. . A New Liquid-Based Cervical Cytology Dataset with a YOLO/EfficientNet-Based Detection and Classification Approach. Lecture Notes in Computer Science. xxed.Cham: Springer Nature Switzerland, 2026, v. , p. 143-156."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise da performance de métodos para suavização de ruídos em imagens dentais de tomografia computadorizada de baixa radiação",
+          "autores": "STRINGHINI, R. M. ; WELFER, D. ; DOTTO, G. N.",
+          "periodico": "In: Giovani Rubert Librelotto. (Org.). ComInG - Communications and Innovations Gazette: Edição 04. 4ed.: CreateSpace Independent Publishing Platform, 2019, v. , p. 57-78.",
+          "doi": "",
+          "citacao_completa": "STRINGHINI, R. M. ; WELFER, D. ; DOTTO, G. N. . Análise da performance de métodos para suavização de ruídos em imagens dentais de tomografia computadorizada de baixa radiação. In: Giovani Rubert Librelotto. (Org.). ComInG - Communications and Innovations Gazette: Edição 04. 4ed.: CreateSpace Independent Publishing Platform, 2019, v. , p. 57-78."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Grading the Severity of Diabetic Macular Edema Cases Based on Color Eye Fundus Images",
+          "autores": "WELFER, D. ; ; CAVALCANTI, P. G. ; MARINHO, D. R. ; LUDWIG, L. W. B. ; Kitamura, Cleyson M. ; PIZZOL, M. M. D.",
+          "periodico": "In: M. Emre Celebi and Gerald Schaefer. (Org.). Lecture Notes in Computational Vision and Biomechanics. 0ed.New York: Springer Netherlands, 2013, v. 6, p. 109-127.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ; CAVALCANTI, P. G. ; MARINHO, D. R. ; LUDWIG, L. W. B. ; Kitamura, Cleyson M. ; PIZZOL, M. M. D. . Grading the Severity of Diabetic Macular Edema Cases Based on Color Eye Fundus Images. In: M. Emre Celebi and Gerald Schaefer. (Org.). Lecture Notes in Computational Vision and Biomechanics. 0ed.New York: Springer Netherlands, 2013, v. 6, p. 109-127."
+        },
+        {
+          "ano": 2009,
+          "titulo": "PACS Based on Open Source Software Components",
+          "autores": "WELFER, D. ;",
+          "periodico": "In: Athina A. Lazakidou; Konstantinos M. Siassiakos. (Org.). Handbook of Research on Distributed Medical Informatics and E-Health. 00ed.New York: Idea Group Inc., 2009, v. , p. 338-349.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; . PACS Based on Open Source Software Components. In: Athina A. Lazakidou; Konstantinos M. Siassiakos. (Org.). Handbook of Research on Distributed Medical Informatics and E-Health. 00ed.New York: Idea Group Inc., 2009, v. , p. 338-349."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A Morphological Approach for the Fovea Location in Color Fundus Images",
+          "autores": "WELFER, D. ; ; MARINHO, D. R.",
+          "periodico": "In: James G. McDaniel. (Org.). Advances in Information Technology and Communication in Health. Amsterdam: IOS Press, 2009, v. 143, p. 3-8.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ; MARINHO, D. R. . A Morphological Approach for the Fovea Location in Color Fundus Images. In: James G. McDaniel. (Org.). Advances in Information Technology and Communication in Health. Amsterdam: IOS Press, 2009, v. 143, p. 3-8."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "On the Performance of Cyber-Biomedical Features for Intrusion Detection in Healthcare 5.0",
+          "autores": "LUI, P. H. ; SIQUEIRA, L. P. ; KAZIENKO, J. F. ; QUINCOZES, V. E. ; QUINCOZES, S. E. ; WELFER, D.",
+          "periodico": "In: SIMPÓSIO BRASILEIRO DE COMPUTAÇÃO APLICADA À SAÚDE (SBCAS), 2025, Porto Alegre. Anais do Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). Porto Alegre: Sociedade Brasileira de Computação, 2025. p. 389-400.",
+          "doi": "http://dx.doi.org/10.5753/sbcas.2025.7182",
+          "citacao_completa": "LUI, P. H. ; SIQUEIRA, L. P. ; KAZIENKO, J. F. ; QUINCOZES, V. E. ; QUINCOZES, S. E. ; WELFER, D. . On the Performance of Cyber-Biomedical Features for Intrusion Detection in Healthcare 5.0. In: SIMPÓSIO BRASILEIRO DE COMPUTAÇÃO APLICADA À SAÚDE (SBCAS), 2025, Porto Alegre. Anais do Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). Porto Alegre: Sociedade Brasileira de Computação, 2025. p. 389-400."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Enhanced Detection and Segmentation of Diabetic Retinopathy Lesions Using a Region of Interest Strategy",
+          "autores": "DIAS, MARCELO ; SANTOS, CARLOS ; PEREIRA, ALEJANDRO ; AGUIAR, MARILTON ; Welfer, Daniel",
+          "periodico": "In: Seminário Integrado de Software e Hardware, 2025, Brasil. Anais do LII Seminário Integrado de Software e Hardware (SEMISH 2025). Porto Alegre, 2025. p. 61.",
+          "doi": "http://dx.doi.org/10.5753/semish.2025.7288",
+          "citacao_completa": "DIAS, MARCELO ; SANTOS, CARLOS ; PEREIRA, ALEJANDRO ; AGUIAR, MARILTON ; Welfer, Daniel . Enhanced Detection and Segmentation of Diabetic Retinopathy Lesions Using a Region of Interest Strategy. In: Seminário Integrado de Software e Hardware, 2025, Brasil. Anais do LII Seminário Integrado de Software e Hardware (SEMISH 2025). Porto Alegre, 2025. p. 61."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Recovering Medical Images from Adversarial Attacks: Genetic Algorithm-based Adaptive Compression (GA-AC)",
+          "autores": "LIMA, PAULO VITOR C. ; QUINCOZES, SILVIO E. ; NASCIMENTO, MARCELO Z. DO ; KAZIENKO, JULIANO F. ; Welfer, Daniel ; NOMURA, SHIGUEO",
+          "periodico": "In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025), 2025. p. 723.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2025.11479",
+          "citacao_completa": "LIMA, PAULO VITOR C. ; QUINCOZES, SILVIO E. ; NASCIMENTO, MARCELO Z. DO ; KAZIENKO, JULIANO F. ; Welfer, Daniel ; NOMURA, SHIGUEO . Recovering Medical Images from Adversarial Attacks: Genetic Algorithm-based Adaptive Compression (GA-AC). In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025), 2025. p. 723."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Minimal but Lethal: A XAI-Driven Approach for Feature-Level Adversarial Attacks on Healthcare 5.1",
+          "autores": "SIQUEIRA, LUCAS P. ; LUI, PEDRO H. ; KAZIENKO, JULIANO F. ; QUINCOZES, SILVIO E. ; QUINCOZES, VAGNER E. ; Welfer, Daniel",
+          "periodico": "In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025), 2025. p. 609.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2025.11450",
+          "citacao_completa": "SIQUEIRA, LUCAS P. ; LUI, PEDRO H. ; KAZIENKO, JULIANO F. ; QUINCOZES, SILVIO E. ; QUINCOZES, VAGNER E. ; Welfer, Daniel . Minimal but Lethal: A XAI-Driven Approach for Feature-Level Adversarial Attacks on Healthcare 5.1. In: Simpósio Brasileiro de Cibersegurança, 2025, Brasil. Anais do XXV Simpósio Brasileiro de Cibersegurança (SBSeg 2025), 2025. p. 609."
+        },
+        {
+          "ano": 2025,
+          "titulo": "QuickML Creator: Uma ferramenta para integração de redes neurais em aplicações web",
+          "autores": "RODRIGUES, T. A. ; WELFER, D.",
+          "periodico": "In: I Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul (ERAMIA-RS 2025), 2025, Porto Alegre. Anais da I Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul (ERAMIA-RS 2025). Porto Alegre: Sociedade Brasileira de Computação (SBC), 2025. p. 112-115.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, T. A. ; WELFER, D. . QuickML Creator: Uma ferramenta para integração de redes neurais em aplicações web. In: I Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul (ERAMIA-RS 2025), 2025, Porto Alegre. Anais da I Escola Regional de Aprendizado de Máquina e Inteligência Artificial da Região Sul (ERAMIA-RS 2025). Porto Alegre: Sociedade Brasileira de Computação (SBC), 2025. p. 112-115."
+        },
+        {
+          "ano": 2024,
+          "titulo": "DRAT: A semi-supervised tool for automatic annotation of lesions caused by diabetic retinopathy",
+          "autores": "DIAS, MARCELO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; PEREIRA, ALEJANDRO ; OLLÉ, FERNANDO",
+          "periodico": "In: SBSI '24: XX Brazilian Symposium on Information Systems, 2024, Juiz de Fora Brazil. Proceedings of the 20th Brazilian Symposium on Information Systems, 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1145/3658271.3658329",
+          "citacao_completa": "DIAS, MARCELO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; PEREIRA, ALEJANDRO ; OLLÉ, FERNANDO . DRAT: A semi-supervised tool for automatic annotation of lesions caused by diabetic retinopathy. In: SBSI '24: XX Brazilian Symposium on Information Systems, 2024, Juiz de Fora Brazil. Proceedings of the 20th Brazilian Symposium on Information Systems, 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "An Improved Approach for Semantic Segmentation of Fundus Lesions using R2U-Net",
+          "autores": "PEREIRA, ALEJANDRO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; DE MENEZES, RAFAELA ; ROBERTO FERREIRA, PAULO ; ROSSI, FÁBIO ; D?ORNELLAS, MARCOS ; HAYGERT, CARLOS JESUS ; KAZIENKO, JULIANO ; COMIM, FÁBIO ; HOPPE, AURÉLIO ; WEBER, JULIANO ; TAVARES, LEANDRO ; GUTHS, LEONARDO ; GUERRA, RODRIGO",
+          "periodico": "In: 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024, Orlando. 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/embc53108.2024.10782763",
+          "citacao_completa": "PEREIRA, ALEJANDRO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; DE MENEZES, RAFAELA ; ROBERTO FERREIRA, PAULO ; ROSSI, FÁBIO ; D?ORNELLAS, MARCOS ; HAYGERT, CARLOS JESUS ; KAZIENKO, JULIANO ; COMIM, FÁBIO ; HOPPE, AURÉLIO ; WEBER, JULIANO ; TAVARES, LEANDRO ; GUTHS, LEONARDO ; GUERRA, RODRIGO . An Improved Approach for Semantic Segmentation of Fundus Lesions using R2U-Net. In: 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024, Orlando. 2024 46th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2024. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detection of retinal microlesions through YOLOR-CSP architecture and image slicing with the SAHI algorithm",
+          "autores": "PEREIRA, ALEJANDRO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; RIBEIRO, MARCELO ; AHMADI, REZA",
+          "periodico": "In: 2023 International Joint Conference on Neural Networks (IJCNN), 2023, Gold Coast. 2023 International Joint Conference on Neural Networks (IJCNN), 2023. p. 1-8.",
+          "doi": "http://dx.doi.org/10.1109/ijcnn54540.2023.10191623",
+          "citacao_completa": "PEREIRA, ALEJANDRO ; SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; DIAS, MARCELO ; RIBEIRO, MARCELO ; AHMADI, REZA . Detection of retinal microlesions through YOLOR-CSP architecture and image slicing with the SAHI algorithm. In: 2023 International Joint Conference on Neural Networks (IJCNN), 2023, Gold Coast. 2023 International Joint Conference on Neural Networks (IJCNN), 2023. p. 1-8."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Deep Neural Network Model based on One-Stage Detector for Identifying Fundus Lesions",
+          "autores": "SANTOS, CARLOS ; DE AGUIAR, MARILTON SANCHOTENE ; Welfer, Daniel ; BELLONI, BRUNO",
+          "periodico": "In: 2021 International Joint Conference on Neural Networks (IJCNN), 2021, Shenzhen. 2021 International Joint Conference on Neural Networks (IJCNN). Piscataway, NJ 08855-1331 USA: IEEE, 2021. p. 1-8.",
+          "doi": "http://dx.doi.org/10.1109/ijcnn52387.2021.9534354",
+          "citacao_completa": "SANTOS, CARLOS ; DE AGUIAR, MARILTON SANCHOTENE ; Welfer, Daniel ; BELLONI, BRUNO . Deep Neural Network Model based on One-Stage Detector for Identifying Fundus Lesions. In: 2021 International Joint Conference on Neural Networks (IJCNN), 2021, Shenzhen. 2021 International Joint Conference on Neural Networks (IJCNN). Piscataway, NJ 08855-1331 USA: IEEE, 2021. p. 1-8."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Detection of Fundus Lesions through a Convolutional Neural Network in Patients with Diabetic Retinopathy",
+          "autores": "SANTOS, CARLOS ; DE AGUIAR, MARILTON SANCHOTENE ; Welfer, Daniel ; BELLONI, BRUNO MONTEIRO",
+          "periodico": "In: 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021, Mexico. 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021. p. 2692-2695.",
+          "doi": "http://dx.doi.org/10.1109/embc46164.2021.9630075",
+          "citacao_completa": "SANTOS, CARLOS ; DE AGUIAR, MARILTON SANCHOTENE ; Welfer, Daniel ; BELLONI, BRUNO MONTEIRO . Detection of Fundus Lesions through a Convolutional Neural Network in Patients with Diabetic Retinopathy. In: 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021, Mexico. 2021 43rd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2021. p. 2692-2695."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A New Method Based on Deep Learning to Detect Lesions in Retinal Images using YOLOv5",
+          "autores": "SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; BELLONI, BRUNO",
+          "periodico": "In: 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, Houston. 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021. p. 3513-3520.",
+          "doi": "http://dx.doi.org/10.1109/BIBM52615.2021.9669581",
+          "citacao_completa": "SANTOS, CARLOS ; AGUIAR, MARILTON ; Welfer, Daniel ; BELLONI, BRUNO . A New Method Based on Deep Learning to Detect Lesions in Retinal Images using YOLOv5. In: 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021, Houston. 2021 IEEE International Conference on Bioinformatics and Biomedicine (BIBM), 2021. p. 3513-3520."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a RNN in the MSRC-12",
+          "autores": "PEIXOTO, J. S. ; CUKLA, A. R. ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO",
+          "periodico": "In: International Conference on Intelligent Systems Design and Applications(ISDA), 2021, on-line. Intelligent Systems Design and Applications. Switzerland: Springer, Cham, 2021. v. 418. p. 498-507.",
+          "doi": "",
+          "citacao_completa": "PEIXOTO, J. S. ; CUKLA, A. R. ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO . Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a RNN in the MSRC-12. In: International Conference on Intelligent Systems Design and Applications(ISDA), 2021, on-line. Intelligent Systems Design and Applications. Switzerland: Springer, Cham, 2021. v. 418. p. 498-507."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a CNN in the MSRC-12 Database",
+          "autores": "PEIXOTO, J. S. ; PFITSCHER, M. ; CUADROS, M. A. S. L. ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO",
+          "periodico": "In: 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ), 2020, world wide web. 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ). Cham, Switzerland: Springer, 2020. v. 1351. p. 590-599.",
+          "doi": "",
+          "citacao_completa": "PEIXOTO, J. S. ; PFITSCHER, M. ; CUADROS, M. A. S. L. ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO . Comparison of Different Processing Methods of Joint Coordinates Features for Gesture Recognition with a CNN in the MSRC-12 Database. In: 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ), 2020, world wide web. 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ). Cham, Switzerland: Springer, 2020. v. 1351. p. 590-599."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analysis of the Superpixel Slic algorithm for increasing data for disease detection using Deep Learning",
+          "autores": "TRINDADE, L. D. G. ; BASSO, F. P. ; RODRIGUES, E. M. ; BERNARDINO, M. ; WELFER, D. ; MULLER, D.",
+          "periodico": "In: 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ), 2020, virtual event. 20th International Conference on Intelligent Systems Design and Applications (ISDA 2020) held December 12-15, 2020, 2020. v. 1351. p. 488-497.",
+          "doi": "",
+          "citacao_completa": "TRINDADE, L. D. G. ; BASSO, F. P. ; RODRIGUES, E. M. ; BERNARDINO, M. ; WELFER, D. ; MULLER, D. . Analysis of the Superpixel Slic algorithm for increasing data for disease detection using Deep Learning. In: 20th International Conference on Intelligent Systems Design and Applications ( ISDA 2020 ), 2020, virtual event. 20th International Conference on Intelligent Systems Design and Applications (ISDA 2020) held December 12-15, 2020, 2020. v. 1351. p. 488-497."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Método Baseado em Morfologia Matemática e BM3D para Redução de Ru\"\"do em Imagens Dentais de TC de Baixa Radiação",
+          "autores": "STRINGHINI, RÔMULO MARCONATO ; Welfer, Daniel",
+          "periodico": "In: XIX Simpósio Brasileiro de Computação Aplicada à Saúde, 2019, Niterói. Anais do XIX Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2019. v. 19. p. 210-221.",
+          "doi": "http://dx.doi.org/10.5753/sbcas.2019.6255",
+          "citacao_completa": "STRINGHINI, RÔMULO MARCONATO ; Welfer, Daniel . Método Baseado em Morfologia Matemática e BM3D para Redução de Ru\"\"do em Imagens Dentais de TC de Baixa Radiação. In: XIX Simpósio Brasileiro de Computação Aplicada à Saúde, 2019, Niterói. Anais do XIX Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS), 2019. v. 19. p. 210-221."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Mathematical Morphology-Based Filter for Noise Reduction and Detail Preservation in Low-Dose Dental CT Images",
+          "autores": "STRINGHINI, R. M. ; WELFER, D. ; DORNELLAS, M. C. ; GAMARRA, D. F. T.",
+          "periodico": "In: MEDINFO 2019: Health and Wellbeing e-Networks for All, 2019, Lyon. MEDINFO 2019: Health and Wellbeing e-Networks for All. Amsterdam: 2019 International Medical Informatics Association (IMIA) and IOS Press., 2019. v. 264. p. 253-257.",
+          "doi": "http://dx.doi.org/10.3233/SHTI190222",
+          "citacao_completa": "STRINGHINI, R. M. ; WELFER, D. ; DORNELLAS, M. C. ; GAMARRA, D. F. T. . A Mathematical Morphology-Based Filter for Noise Reduction and Detail Preservation in Low-Dose Dental CT Images. In: MEDINFO 2019: Health and Wellbeing e-Networks for All, 2019, Lyon. MEDINFO 2019: Health and Wellbeing e-Networks for All. Amsterdam: 2019 International Medical Informatics Association (IMIA) and IOS Press., 2019. v. 264. p. 253-257."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Low-Dose CT Dental Image Denoising by Morphological Operators and 3D Filtering",
+          "autores": "STRINGHINI, R. M. ; WELFER, D. ; DORNELLAS, M. C. ; GAMARRA, D. F. T.",
+          "periodico": "In: Conference on Graphics, Patterns and Images (SIBGRAPI), 2019, Rio de Janeiro. 32nd Conference on Graphics, Patterns and ImagesSIBGRAPI. Los Alamitos, CA: IEEE Computer Society, 2019. p. 54-59.",
+          "doi": "http://dx.doi.org/10.1109/SIBGRAPI.2019.00016",
+          "citacao_completa": "STRINGHINI, R. M. ; WELFER, D. ; DORNELLAS, M. C. ; GAMARRA, D. F. T. . Low-Dose CT Dental Image Denoising by Morphological Operators and 3D Filtering. In: Conference on Graphics, Patterns and Images (SIBGRAPI), 2019, Rio de Janeiro. 32nd Conference on Graphics, Patterns and ImagesSIBGRAPI. Los Alamitos, CA: IEEE Computer Society, 2019. p. 54-59."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Noise Reduction with Detail Preservation in Low-Dose Dental CT Images by Morphological Operatorsand BM3D",
+          "autores": "STRINGHINI, RÔMULO MARCONATO ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO ; DOTTO, G. N.",
+          "periodico": "In: 19th International Conference on Intelligent Systems Design and Applications (ISDA 2019), 2019, Pretória. Advances in Intelligent Systems and Computing, 2019. v. 1181. p. 1-9.",
+          "doi": "",
+          "citacao_completa": "STRINGHINI, RÔMULO MARCONATO ; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO ; DOTTO, G. N. . Noise Reduction with Detail Preservation in Low-Dose Dental CT Images by Morphological Operatorsand BM3D. In: 19th International Conference on Intelligent Systems Design and Applications (ISDA 2019), 2019, Pretória. Advances in Intelligent Systems and Computing, 2019. v. 1181. p. 1-9."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Object Recognition Software Using RGBD Kinect Images and The YOLO Algorithm for Mobile Robot Navigation",
+          "autores": "DOS REIS, DOUGLAS HENKE ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, DANIEL FERNANDO TELLO",
+          "periodico": "In: ISDA - International Conference on Intelligent Systems Design and Applications, 2019, Pretoria. Advances in Intelligent Systems and Computing, 2019. v. 1181.",
+          "doi": "",
+          "citacao_completa": "DOS REIS, DOUGLAS HENKE ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, DANIEL FERNANDO TELLO . Object Recognition Software Using RGBD Kinect Images and The YOLO Algorithm for Mobile Robot Navigation. In: ISDA - International Conference on Intelligent Systems Design and Applications, 2019, Pretoria. Advances in Intelligent Systems and Computing, 2019. v. 1181."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Image Processing Algorithm to Detect Defects in Optical Fibers",
+          "autores": "MAFALDA, M. ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T.",
+          "periodico": "In: 37th Conference of the North American Fuzzy Information Processing Society, NAFIPS 2018, 2018, Fortaleza. Fuzzy Information Processing. NAFIPS 2018. Communications in Computer and Information Science, 2018. v. 831. p. 243-252.",
+          "doi": "",
+          "citacao_completa": "MAFALDA, M. ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T. . Image Processing Algorithm to Detect Defects in Optical Fibers. In: 37th Conference of the North American Fuzzy Information Processing Society, NAFIPS 2018, 2018, Fortaleza. Fuzzy Information Processing. NAFIPS 2018. Communications in Computer and Information Science, 2018. v. 831. p. 243-252."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Activity gesture recognition on Kinect sensor using Convolutional Neural Networks and FastDTW for the MSRC-12 dataset",
+          "autores": "PFITSCHER, M. ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T.",
+          "periodico": "In: International Conference on Intelligent Systems Design and Applications - ISDA, 2018, Vellore. 18th International Conference on Intelligent Systems Design and Applications (ISDA), 2018.",
+          "doi": "",
+          "citacao_completa": "PFITSCHER, M. ; WELFER, D. ; CUADROS, M. A. S. L. ; GAMARRA, D. F. T. . Activity gesture recognition on Kinect sensor using Convolutional Neural Networks and FastDTW for the MSRC-12 dataset. In: International Conference on Intelligent Systems Design and Applications - ISDA, 2018, Vellore. 18th International Conference on Intelligent Systems Design and Applications (ISDA), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Aplicativo Identificador de Cédulas para Apoio ao Ensino do Sistema Monetário Brasileiro a Pessoas com Deficiência Visual",
+          "autores": "MOMBACH, JALINE ; Welfer, Daniel",
+          "periodico": "In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. ? Porto Alegre: Sociedade Brasileira de Computação ? SBC, 2017. p. 1067-1076.",
+          "doi": "http://dx.doi.org/10.5753/cbie.sbie.2017.1067",
+          "citacao_completa": "MOMBACH, JALINE ; Welfer, Daniel . Aplicativo Identificador de Cédulas para Apoio ao Ensino do Sistema Monetário Brasileiro a Pessoas com Deficiência Visual. In: XXVIII Simpósio Brasileiro de Informática na Educação SBIE (Brazilian Symposium on Computers in Education), 2017, Recife. ? Porto Alegre: Sociedade Brasileira de Computação ? SBC, 2017. p. 1067-1076."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Use of Flowchart for Automation of Clinical Protocols in mHealth",
+          "autores": "DIAS, K. N. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; HAYGERT, C. J. P. ; DOTTO, G. N.",
+          "periodico": "In: 16th World Congress on Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 59-63.",
+          "doi": "http://dx.doi.org/10.3233/978-1-61499-830-3-59",
+          "citacao_completa": "DIAS, K. N. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; HAYGERT, C. J. P. ; DOTTO, G. N. . Use of Flowchart for Automation of Clinical Protocols in mHealth. In: 16th World Congress on Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 59-63."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Locally Adaptive Operators for Red Lesions Detection in Eye Fundus Images",
+          "autores": "BAGESTEIRO, L. D. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; KAZIENKO, J. F. ; HAYGERT, C. J. P. ; DOTTO, G. N.",
+          "periodico": "In: 6th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 289-293.",
+          "doi": "http://dx.doi.org/10.3233/978-1-61499-830-3-289",
+          "citacao_completa": "BAGESTEIRO, L. D. ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; KAZIENKO, J. F. ; HAYGERT, C. J. P. ; DOTTO, G. N. . Locally Adaptive Operators for Red Lesions Detection in Eye Fundus Images. In: 6th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 289-293."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Automatic Identification of Glaucoma using Deep Learning Methods",
+          "autores": "CERENTINI ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; HAYGERT, C. J. P. ; DOTTO, G. N.",
+          "periodico": "In: 16th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 318-321.",
+          "doi": "http://dx.doi.org/10.3233/978-1-61499-830-3-318",
+          "citacao_completa": "CERENTINI ; WELFER, D. ; ORNELLAS, Marcos Cordeiro D' ; HAYGERT, C. J. P. ; DOTTO, G. N. . Automatic Identification of Glaucoma using Deep Learning Methods. In: 16th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 318-321."
+        },
+        {
+          "ano": 2017,
+          "titulo": "CTdBem ? A New Protocol for Ultra Low Radiation Dose MDCT",
+          "autores": "HAYGERT, C. J. P. ; ORNELLAS, Marcos Cordeiro D' ; WELFER, D. ; BASTOS, R. M. ; DOTTO, G. N.",
+          "periodico": "In: 16th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 1029-1032.",
+          "doi": "http://dx.doi.org/10.3233/978-1-61499-830-3-1029",
+          "citacao_completa": "HAYGERT, C. J. P. ; ORNELLAS, Marcos Cordeiro D' ; WELFER, D. ; BASTOS, R. M. ; DOTTO, G. N. . CTdBem ? A New Protocol for Ultra Low Radiation Dose MDCT. In: 16th World Congress of Medical and Health Informatics (MedInfo2017), 2017, Hangzhou, China. MEDINFO 2017: Precision Healthcare through Informatics Proceedings of the 16th World Congress on Medical and Health Informatics. Amsterdam: 2017 International Medical Informatics Association (IMIA) and IOS Press, 2017. v. 245. p. 1029-1032."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Deep Learning Techniques Applied to the Cattle Brand Recognition",
+          "autores": "SANTOS, C. A. S. ; WELFER, D. ; WEBER, J.",
+          "periodico": "In: 22nd Iberoamerican Congress - CIARP, 2017, Valparaíso. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications - 22nd Iberoamerican Congress, CIARP Proceedings, 2017. v. 10657. p. 635-642.",
+          "doi": "",
+          "citacao_completa": "SANTOS, C. A. S. ; WELFER, D. ; WEBER, J. . Deep Learning Techniques Applied to the Cattle Brand Recognition. In: 22nd Iberoamerican Congress - CIARP, 2017, Valparaíso. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications - 22nd Iberoamerican Congress, CIARP Proceedings, 2017. v. 10657. p. 635-642."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Novel Method for Detecting the Fovea in Fundus Images of the Eye",
+          "autores": "GARCIA, PEDRO DE MOURA ; KREUTZ, DIEGO LUIS ; Welfer, Daniel",
+          "periodico": "In: 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2016, Sao Paulo. 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2016. p. 104.",
+          "doi": "http://dx.doi.org/10.1109/sibgrapi.2016.023",
+          "citacao_completa": "GARCIA, PEDRO DE MOURA ; KREUTZ, DIEGO LUIS ; Welfer, Daniel . A Novel Method for Detecting the Fovea in Fundus Images of the Eye. In: 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2016, Sao Paulo. 2016 29th SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2016. p. 104."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Geração Automática de Aplicativos Móveis a Partir de Protocolos Clínicos",
+          "autores": "DIAS, K. N. ; WELFER, D.",
+          "periodico": "In: XV Congresso Brasileiro de Informática em Saúde, 2016, Goiânia. XV Congresso Brasileiro de Informática em Saúde - CBIS 2016, 2016. p. 619-630.",
+          "doi": "",
+          "citacao_completa": "DIAS, K. N. ; WELFER, D. . Geração Automática de Aplicativos Móveis a Partir de Protocolos Clínicos. In: XV Congresso Brasileiro de Informática em Saúde, 2016, Goiânia. XV Congresso Brasileiro de Informática em Saúde - CBIS 2016, 2016. p. 619-630."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A mobile application system for diagnosis and management of Community-Acquired Pneumonia",
+          "autores": "Welfer, Daniel ; DA SILVA, RENATO CASSOL FERREIRA ; KAZIENKO, JULIANO F.",
+          "periodico": "In: 2014 IEEE 16th International Conference on eHealth Networking, Applications and Services (Healthcom 2014), 2014, Natal-RN. 2014 IEEE 16th International Conference on e-Health Networking, Applications and Services (Healthcom). p. 341-346.",
+          "doi": "http://dx.doi.org/10.1109/healthcom.2014.7001865",
+          "citacao_completa": "Welfer, Daniel ; DA SILVA, RENATO CASSOL FERREIRA ; KAZIENKO, JULIANO F. . A mobile application system for diagnosis and management of Community-Acquired Pneumonia. In: 2014 IEEE 16th International Conference on eHealth Networking, Applications and Services (Healthcom 2014), 2014, Natal-RN. 2014 IEEE 16th International Conference on e-Health Networking, Applications and Services (Healthcom). p. 341-346."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Proposta de um aplicativo móvel para percepção de imagens estáticas por alunos com deficiência visual",
+          "autores": "MOMBACH, JALINE GONÇALVES ; Welfer, Daniel",
+          "periodico": "In: XXIV Simpósio Brasileiro de Informática na Educação, 2013.",
+          "doi": "http://dx.doi.org/10.5753/CBIE.SBIE.2013.487",
+          "citacao_completa": "MOMBACH, JALINE GONÇALVES ; Welfer, Daniel . Proposta de um aplicativo móvel para percepção de imagens estáticas por alunos com deficiência visual. In: XXIV Simpósio Brasileiro de Informática na Educação, 2013."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A morphologic three-stage approach for detecting exudates in color eye fundus images",
+          "autores": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel",
+          "periodico": "In: ACM Symposium on Applied Computing, 2010, Sierre, Switzerland. Proceedings of the 2010 ACM Symposium on Applied Computing, 2010. p. 964-968.",
+          "doi": "http://dx.doi.org/10.1145/1774088.1774289",
+          "citacao_completa": "Welfer, Daniel ; Scharcanski, Jacob ; Marinho, Diane Ruschel . A morphologic three-stage approach for detecting exudates in color eye fundus images. In: ACM Symposium on Applied Computing, 2010, Sierre, Switzerland. Proceedings of the 2010 ACM Symposium on Applied Computing, 2010. p. 964-968."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Cooperação entre Padrões de Projeto na Resolução de Problemas de Processamento de Imagens Baseados em Filtros de Convolução",
+          "autores": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "In: 5th Latin American Conference on Pattern Languages of Programming - SugarLoafPloP'2005, 2005, Campos do Jordão. 5th Latin American Conference on Pattern Languages of Programming, 2005.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D' . Cooperação entre Padrões de Projeto na Resolução de Problemas de Processamento de Imagens Baseados em Filtros de Convolução. In: 5th Latin American Conference on Pattern Languages of Programming - SugarLoafPloP'2005, 2005, Campos do Jordão. 5th Latin American Conference on Pattern Languages of Programming, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "AgregaComponente: proposta de um padrão de processo para o desenvolvimento da interface gráfica da ferramenta StoneAge",
+          "autores": "FREITAS, G. D. ; WELFER, D.",
+          "periodico": "In: 5th Latin American Conference on Pattern Languages of Programming, 2005, Campos do Jordão. SugarLoafPLoP'2005, 2005.",
+          "doi": "",
+          "citacao_completa": "FREITAS, G. D. ; WELFER, D. . AgregaComponente: proposta de um padrão de processo para o desenvolvimento da interface gráfica da ferramenta StoneAge. In: 5th Latin American Conference on Pattern Languages of Programming, 2005, Campos do Jordão. SugarLoafPLoP'2005, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Programação de Equipamentos CNC através da Análise de Imagens por Segmentação",
+          "autores": "WELFER, D. ; SILVA, Alexandre Dias da ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "In: XXIV Encontro Nacional de Engenharia de Produção, 2004, Florianópolis. s/ed, 2004.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; SILVA, Alexandre Dias da ; ORNELLAS, Marcos Cordeiro D' . Programação de Equipamentos CNC através da Análise de Imagens por Segmentação. In: XXIV Encontro Nacional de Engenharia de Produção, 2004, Florianópolis. s/ed, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A Generic Programming Approach for Automatic Color Image Segmentation Using Cluster Homogeneity",
+          "autores": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D.",
+          "periodico": "In: X International Conference on Industrial Engineering Management, 2004, Florianópolis. X International Conference on Industrial Engineering Management, 2004.",
+          "doi": "",
+          "citacao_completa": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D. . A Generic Programming Approach for Automatic Color Image Segmentation Using Cluster Homogeneity. In: X International Conference on Industrial Engineering Management, 2004, Florianópolis. X International Conference on Industrial Engineering Management, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Agriculture Field Segmentation on Aerial Images Using a Residuals-Based Morphological Approach",
+          "autores": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D.",
+          "periodico": "In: XXXVI SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2004, São João del-Rei. não definido, 2004.",
+          "doi": "",
+          "citacao_completa": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D. . Agriculture Field Segmentation on Aerial Images Using a Residuals-Based Morphological Approach. In: XXXVI SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2004, São João del-Rei. não definido, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Algorithmic Patterns for Morphological Image Processing: A Software Engineering Approach",
+          "autores": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D. ; Frazzon, T. A. B.",
+          "periodico": "In: I Workshop de Computação da Região Sul, 2004, Florianópolis. s/ed, 2004.",
+          "doi": "",
+          "citacao_completa": "ORNELLAS, Marcos Cordeiro D' ; WELFER, D. ; Frazzon, T. A. B. . Algorithmic Patterns for Morphological Image Processing: A Software Engineering Approach. In: I Workshop de Computação da Região Sul, 2004, Florianópolis. s/ed, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Framework Colaborativo para Processamento de Imagens Utilizando a Tecnologia Jini",
+          "autores": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "In: XXIII Encontro Nacional de Engenharia de Produção e IX International Conference on Industrial Engineering and Operations Management, 2003, Ouro Preto, 2003.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D' . Framework Colaborativo para Processamento de Imagens Utilizando a Tecnologia Jini. In: XXIII Encontro Nacional de Engenharia de Produção e IX International Conference on Industrial Engineering and Operations Management, 2003, Ouro Preto, 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Objetos Distribuídos - CORBA",
+          "autores": "WELFER, D. ; PADOIN, Édson Luiz",
+          "periodico": "In: XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia e III Feira de Protótipos CRICTE, 2002, Passo Fundo, 2002.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; PADOIN, Édson Luiz . Objetos Distribuídos - CORBA. In: XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia e III Feira de Protótipos CRICTE, 2002, Passo Fundo, 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Desenvolvimento de um aplicativo para a resoluçao dos problemas de dinâmica de secagem de graos em Leito Fixo em condiçoes de passos temporais limitados.",
+          "autores": "WELFER, D.",
+          "periodico": "In: XXIV CNMAC Congresso Nacional de Matemática Aplicada e Computacional, 2001, Belo Horizonte - MG. Belo Horizonte: Novo Milenio Ltda, 2001.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Desenvolvimento de um aplicativo para a resoluçao dos problemas de dinâmica de secagem de graos em Leito Fixo em condiçoes de passos temporais limitados.. In: XXIV CNMAC Congresso Nacional de Matemática Aplicada e Computacional, 2001, Belo Horizonte - MG. Belo Horizonte: Novo Milenio Ltda, 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Desenvolvimento e Aperfeiçoamento dos aplicativos computacionais relacionados com modelagem matemática de graos de soja",
+          "autores": "WELFER, D.",
+          "periodico": "In: IX Seminário de Iniciaçao Cientifica e VI jornada de Pesquisa da UNIJUI, 2001, Ijuí, 2001.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Desenvolvimento e Aperfeiçoamento dos aplicativos computacionais relacionados com modelagem matemática de graos de soja. In: IX Seminário de Iniciaçao Cientifica e VI jornada de Pesquisa da UNIJUI, 2001, Ijuí, 2001."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "MobiCAP: A mobile application prototype for management of community-acquired pneumonia",
+          "autores": "Welfer, Daniel ; DA SILVA, RENATO CASSOL FERREIRA ; KAZIENKO, JULIANO F.",
+          "periodico": "In: 2014 IEEE 16th International Conference on eHealth Networking, Applications and Services (Healthcom 2014), 2014, Natal-RN. 2014 IEEE 16th International Conference on e-Health Networking, Applications and Services (Healthcom). p. 126-127.",
+          "doi": "http://dx.doi.org/10.1109/healthcom.2014.7001827",
+          "citacao_completa": "Welfer, Daniel ; DA SILVA, RENATO CASSOL FERREIRA ; KAZIENKO, JULIANO F. . MobiCAP: A mobile application prototype for management of community-acquired pneumonia. In: 2014 IEEE 16th International Conference on eHealth Networking, Applications and Services (Healthcom 2014), 2014, Natal-RN. 2014 IEEE 16th International Conference on e-Health Networking, Applications and Services (Healthcom). p. 126-127."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Detecção automática de dados biométricos na piscicultura, através de inteligência artificial",
+          "autores": "NASCIMENTO, L. O. G. ; SILVA, L. P. ; WELFER, D. ; CASSANEGO, S. R. ; FRITZEN, E. A.",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada de UFSM, 2025, Santa Maria. 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "NASCIMENTO, L. O. G. ; SILVA, L. P. ; WELFER, D. ; CASSANEGO, S. R. ; FRITZEN, E. A. . Detecção automática de dados biométricos na piscicultura, através de inteligência artificial. In: 40ª Jornada Acadêmica Integrada de UFSM, 2025, Santa Maria. 40ª Jornada Acadêmica Integrada, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Biometria Virtual em Tilápias (Oreochromis niloticus) por Visão Computacional: Uma Abordagem Não Invasiva Aplicada a Biomodelos Aquáticos",
+          "autores": "CASSANEGO, S. R. ; WELFER, D. ; SILVA, L. P. ; MARTINS, M. A. P.",
+          "periodico": "In: 10º Seminário de Ciência e Tecnologia em Biomodelos, promovido pela Fundação Oswaldo Cruz (FIOCRUZ), 2025, Rio de Janeiro. 10º Seminário de Ciência e Tecnologia em Biomodelos, 2025.",
+          "doi": "",
+          "citacao_completa": "CASSANEGO, S. R. ; WELFER, D. ; SILVA, L. P. ; MARTINS, M. A. P. . Biometria Virtual em Tilápias (Oreochromis niloticus) por Visão Computacional: Uma Abordagem Não Invasiva Aplicada a Biomodelos Aquáticos. In: 10º Seminário de Ciência e Tecnologia em Biomodelos, promovido pela Fundação Oswaldo Cruz (FIOCRUZ), 2025, Rio de Janeiro. 10º Seminário de Ciência e Tecnologia em Biomodelos, 2025."
+        },
+        {
+          "ano": 2018,
+          "titulo": "ABC Fônico - Uma aplicação ao para auxiliar na alfabetização de crianças com Transtorno do Espectro Autista",
+          "autores": "GARCIA, P. M. ; WELFER, D.",
+          "periodico": "In: SBGAMES 2018, 2018, Foz do Iguaçu. SBC ? Proceedings of XVII SBGames 2018, 2018.",
+          "doi": "",
+          "citacao_completa": "GARCIA, P. M. ; WELFER, D. . ABC Fônico - Uma aplicação ao para auxiliar na alfabetização de crianças com Transtorno do Espectro Autista. In: SBGAMES 2018, 2018, Foz do Iguaçu. SBC ? Proceedings of XVII SBGames 2018, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Pin My Help: Conectando voluntários à pessoas que necessitem de ajuda",
+          "autores": "ALMEIDA, A. L. ; WELFER, D. ; SAKIS, I. ; FAZUL, R. W. A. ; COUTO, R. E. ; FUMAGALLI, M. R.",
+          "periodico": "In: 33ª Jornada Acadêmica Integrada - JAI, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, A. L. ; WELFER, D. ; SAKIS, I. ; FAZUL, R. W. A. ; COUTO, R. E. ; FUMAGALLI, M. R. . Pin My Help: Conectando voluntários à pessoas que necessitem de ajuda. In: 33ª Jornada Acadêmica Integrada - JAI, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Help Me: Conectando pessoas de forma colaborativa para a realização de tarefas esporádicas e simples",
+          "autores": "SANTOS NETO, C. R. ; WELFER, D. ; MELLER, J. V. S. ; SILVA, J. F.",
+          "periodico": "In: Anais 33ª Jornada Acadêmica Integrada, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018.",
+          "doi": "",
+          "citacao_completa": "SANTOS NETO, C. R. ; WELFER, D. ; MELLER, J. V. S. ; SILVA, J. F. . Help Me: Conectando pessoas de forma colaborativa para a realização de tarefas esporádicas e simples. In: Anais 33ª Jornada Acadêmica Integrada, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Sistema para aproveitamento de materiais recicláveis, smartrecycle",
+          "autores": "MELLO, L. S. ; WELFER, D. ; ALMEIDA, F. G. ; SILVA, M. M. ; BORGES, M. C.",
+          "periodico": "In: Anais 33ª Jornada Acadêmica Integrada, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018.",
+          "doi": "",
+          "citacao_completa": "MELLO, L. S. ; WELFER, D. ; ALMEIDA, F. G. ; SILVA, M. M. ; BORGES, M. C. . Sistema para aproveitamento de materiais recicláveis, smartrecycle. In: Anais 33ª Jornada Acadêmica Integrada, 2018, Santa Maria. Anais 33ª Jornada Acadêmica Integrada, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Visão Geral de Estudo de Caso: Utilização de Aplicativos Móveis por Estudantes Universitários e Profissionais das Áreas de Saúde",
+          "autores": "DIAS, K. N. ; WELFER, D.",
+          "periodico": "In: IV Escola Regional de Computação Aplicada à Saúde, 2016, Novo Hamburgo/ Campo Bom. IV ESCOLA REGIONAL DE COMPUTAÇÃO APLICADA À SAÚDE ANAIS DE RESUMOS UNIVERSIDADE FEEVALE NOVO HAMBURGO / CAMPO BOM, 2016. p. 56-57.",
+          "doi": "",
+          "citacao_completa": "DIAS, K. N. ; WELFER, D. . Visão Geral de Estudo de Caso: Utilização de Aplicativos Móveis por Estudantes Universitários e Profissionais das Áreas de Saúde. In: IV Escola Regional de Computação Aplicada à Saúde, 2016, Novo Hamburgo/ Campo Bom. IV ESCOLA REGIONAL DE COMPUTAÇÃO APLICADA À SAÚDE ANAIS DE RESUMOS UNIVERSIDADE FEEVALE NOVO HAMBURGO / CAMPO BOM, 2016. p. 56-57."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Identificação Automática da Presença do Glaucoma em Imagens de Fundo do Olho",
+          "autores": "CERENTINI ; WELFER, D.",
+          "periodico": "In: 31ª Jornada Acadêmica Integrada - 7º Salão de Pós-Graduação, 2016, Santa Maria. JAI - Jornada Acadêmica Integrada - UFSM, 2016.",
+          "doi": "",
+          "citacao_completa": "CERENTINI ; WELFER, D. . Identificação Automática da Presença do Glaucoma em Imagens de Fundo do Olho. In: 31ª Jornada Acadêmica Integrada - 7º Salão de Pós-Graduação, 2016, Santa Maria. JAI - Jornada Acadêmica Integrada - UFSM, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Detecção de Lesões na Mácula Causada pelo Vírus Zika Usando Imagens do Fundo de Olho e Técnicas de Processamento de Imagens",
+          "autores": "STANGARLIN, I. R. ; WELFER, D.",
+          "periodico": "In: 31ª Jornada Acadêmica Integrada - UFSM, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - UFSM - 31º Salão de Iniciação Científica, 2016.",
+          "doi": "",
+          "citacao_completa": "STANGARLIN, I. R. ; WELFER, D. . Detecção de Lesões na Mácula Causada pelo Vírus Zika Usando Imagens do Fundo de Olho e Técnicas de Processamento de Imagens. In: 31ª Jornada Acadêmica Integrada - UFSM, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - UFSM - 31º Salão de Iniciação Científica, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Software Gerenciador para Concursos de Docentes da Universidade Federal de Santa Maria",
+          "autores": "VELHO, H. ; WELFER, D. ; MUCCILLO, D. V. ; MAGALHAES, J. V. F. ; THEODORICO, L. G. N.",
+          "periodico": "In: 31ª Jornada Acadêmica Integrada, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - 31º Salão de Iniciação Científica, 2016.",
+          "doi": "",
+          "citacao_completa": "VELHO, H. ; WELFER, D. ; MUCCILLO, D. V. ; MAGALHAES, J. V. F. ; THEODORICO, L. G. N. . Software Gerenciador para Concursos de Docentes da Universidade Federal de Santa Maria. In: 31ª Jornada Acadêmica Integrada, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - 31º Salão de Iniciação Científica, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Quantificação Automática do Grau de Severidade do Glaucoma Usando Imagens de Fundo do Olho",
+          "autores": "SIQUEIRA, T. T. ; WELFER, D.",
+          "periodico": "In: 31ª Jornada Acadêmica Integrada, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - 7º Salão de Pós-Graduação, 2016.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, T. T. ; WELFER, D. . Quantificação Automática do Grau de Severidade do Glaucoma Usando Imagens de Fundo do Olho. In: 31ª Jornada Acadêmica Integrada, 2016, Santa Maria. 31ª Jornada Acadêmica Integrada - 7º Salão de Pós-Graduação, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Software para pacientes em unidade ambulatorial",
+          "autores": "RANGEL, J. ; WELFER, D. ; FERREIRA, A. M.",
+          "periodico": "In: XIII Simpósio de Informática - Centro Universitário Franciscano, 2015, Santa Maria. SIRC 2015 XIII Simpósio de Informática - Centro Universitário Franciscano, 2015.",
+          "doi": "",
+          "citacao_completa": "RANGEL, J. ; WELFER, D. ; FERREIRA, A. M. . Software para pacientes em unidade ambulatorial. In: XIII Simpósio de Informática - Centro Universitário Franciscano, 2015, Santa Maria. SIRC 2015 XIII Simpósio de Informática - Centro Universitário Franciscano, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Um Método Baseado em Morfologia Matemática para a Detecção da Escavação em Imagens de Fundo do Olho",
+          "autores": "SEVERO, E. B. ; Welfer, Daniel",
+          "periodico": "In: CBIS 2014 - XIV Congresso Brasileiro de Informática em Saúde, 2014, Santos-SP. Anais do XIV Congresso Brasileiro de Informática em Saúde, 2014.",
+          "doi": "",
+          "citacao_completa": "SEVERO, E. B. ; Welfer, Daniel . Um Método Baseado em Morfologia Matemática para a Detecção da Escavação em Imagens de Fundo do Olho. In: CBIS 2014 - XIV Congresso Brasileiro de Informática em Saúde, 2014, Santos-SP. Anais do XIV Congresso Brasileiro de Informática em Saúde, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Desenvolvimento de um Aplicativo para Diagnóstico e Tratamento de Pneumonia Adquirida no Hospital",
+          "autores": "DIAS, K. N. ; KAZIENKO, J. F. ; Welfer, Daniel",
+          "periodico": "In: XIV Congresso Brasileiro de Informática em Saúde, 2014, Santos-SP. Anais do XIV Congresso Brasileiro de Informática em Saúde, 2014.",
+          "doi": "",
+          "citacao_completa": "DIAS, K. N. ; KAZIENKO, J. F. ; Welfer, Daniel . Desenvolvimento de um Aplicativo para Diagnóstico e Tratamento de Pneumonia Adquirida no Hospital. In: XIV Congresso Brasileiro de Informática em Saúde, 2014, Santos-SP. Anais do XIV Congresso Brasileiro de Informática em Saúde, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Algoritmos de Pré-processamento para a Detecção de Vasos em Imagens de Fundo de Olho.",
+          "autores": "OLIVEIRA, A. Q. ; WELFER, D.",
+          "periodico": "In: XII SIMPÓSIO DE INFORMÁTICA, 2013, Santa Maria - RS. SIRC - XII Simpósio de Informática, 2013.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, A. Q. ; WELFER, D. . Algoritmos de Pré-processamento para a Detecção de Vasos em Imagens de Fundo de Olho.. In: XII SIMPÓSIO DE INFORMÁTICA, 2013, Santa Maria - RS. SIRC - XII Simpósio de Informática, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detecção de Lesões Vermelhas em Imagens de Fundo do Olho",
+          "autores": "BAGESTEIRO, L. D. ; WELFER, D.",
+          "periodico": "In: 65° Reunião Anual da Sociedade Brasileira para o Progresso da Ciência, 2013, Recife. Anais/Resumos da 65ª Reunião Anual da SBPC, 2013.",
+          "doi": "",
+          "citacao_completa": "BAGESTEIRO, L. D. ; WELFER, D. . Detecção de Lesões Vermelhas em Imagens de Fundo do Olho. In: 65° Reunião Anual da Sociedade Brasileira para o Progresso da Ciência, 2013, Recife. Anais/Resumos da 65ª Reunião Anual da SBPC, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Práticas de pré-processamento destinadas á segmentação de vasos sanguíneos em imagens de fundo de olho",
+          "autores": "OLIVEIRA, A. Q. ; Welfer, Daniel",
+          "periodico": "In: XXIV Salão de Iniciação Científica UFRGS, 2012, Porto Alegre. Salão de Iniciação Científica. v. 24.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, A. Q. ; Welfer, Daniel . Práticas de pré-processamento destinadas á segmentação de vasos sanguíneos em imagens de fundo de olho. In: XXIV Salão de Iniciação Científica UFRGS, 2012, Porto Alegre. Salão de Iniciação Científica. v. 24."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Resultados Preliminares da Detecção de Lesões Vermelhas em Imagens de Fundo do Olho",
+          "autores": "BAGESTEIRO, L. D. ; WELFER, D.",
+          "periodico": "In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012.",
+          "doi": "",
+          "citacao_completa": "BAGESTEIRO, L. D. ; WELFER, D. . Resultados Preliminares da Detecção de Lesões Vermelhas em Imagens de Fundo do Olho. In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Percepção de imagens estáticas por pessoas cegas",
+          "autores": "MOMBACH, J. G. ; WELFER, D.",
+          "periodico": "In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012.",
+          "doi": "",
+          "citacao_completa": "MOMBACH, J. G. ; WELFER, D. . Percepção de imagens estáticas por pessoas cegas. In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Quantificação da úlcera de Córnea por Imagens",
+          "autores": "TEIXEIRA, H. R. ; WELFER, D.",
+          "periodico": "In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012.",
+          "doi": "",
+          "citacao_completa": "TEIXEIRA, H. R. ; WELFER, D. . Quantificação da úlcera de Córnea por Imagens. In: IV Salão Internacional de Ensino Pesquisa e Extensão (SIEPE), 2012, Bagé. Anais do Salão Internacional de Ensino, Pesquisa e Extensão, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Experimentos Virtuais Voltados para o Ensino de Processamento de Imagens",
+          "autores": "BAGESTEIRO, L. D. ; WELFER, D. ; OLIVEIRA, A. B.",
+          "periodico": "In: III Salão Internacional de Ensino, Pesquisa e Extensão - SIEPE, 2011, Uruguaiana. Anais do III SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão, 2011. p. 802-802.",
+          "doi": "",
+          "citacao_completa": "BAGESTEIRO, L. D. ; WELFER, D. ; OLIVEIRA, A. B. . Experimentos Virtuais Voltados para o Ensino de Processamento de Imagens. In: III Salão Internacional de Ensino, Pesquisa e Extensão - SIEPE, 2011, Uruguaiana. Anais do III SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão, 2011. p. 802-802."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Software para quantificação do glaucoma usando imagens coloridas do fundo de olho",
+          "autores": "FUGALI, F. M. ; WELFER, D.",
+          "periodico": "In: III Salão Internacional de Ensino, Pesquisa e Extensão - SIEPE, 2011, Uruguaiana. Anais do III SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão, 2011. p. 930-930.",
+          "doi": "",
+          "citacao_completa": "FUGALI, F. M. ; WELFER, D. . Software para quantificação do glaucoma usando imagens coloridas do fundo de olho. In: III Salão Internacional de Ensino, Pesquisa e Extensão - SIEPE, 2011, Uruguaiana. Anais do III SIEPE - Salão Internacional de Ensino, Pesquisa e Extensão, 2011. p. 930-930."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Discretização Espacial de um Silo de Secagem de Grãos: Estruturas e Algoritmos",
+          "autores": "WELFER, D. ; CARRARD, Marcos C C ; KHATCHATOURIAN, Oleg",
+          "periodico": "In: X Seminário de Iniciaçao Cientifica e V jornada de Pesquisa da UNIJUI, 2002, Ijuí. Ijuí: Unijuí, 2002.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; CARRARD, Marcos C C ; KHATCHATOURIAN, Oleg . Discretização Espacial de um Silo de Secagem de Grãos: Estruturas e Algoritmos. In: X Seminário de Iniciaçao Cientifica e V jornada de Pesquisa da UNIJUI, 2002, Ijuí. Ijuí: Unijuí, 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Invocação de Métodos Remotos Utilizando CORBA",
+          "autores": "WELFER, D. ; PADOIN, Édson Luiz",
+          "periodico": "In: X Seminário de Iniciaçao Cientifica e V jornada de Pesquisa da UNIJUI, 2002, Ijuí, 2002.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; PADOIN, Édson Luiz . Invocação de Métodos Remotos Utilizando CORBA. In: X Seminário de Iniciaçao Cientifica e V jornada de Pesquisa da UNIJUI, 2002, Ijuí, 2002."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Apresentação do artigo: Deep Learning: A Primer for Radiologists",
+          "autores": "Welfer, Daniel",
+          "periodico": "2021. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Welfer, Daniel . Apresentação do artigo: Deep Learning: A Primer for Radiologists. 2021. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Minicurso: Excel Básico",
+          "autores": "WELFER, D.",
+          "periodico": "2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Minicurso: Excel Básico. 2019. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Identificação Automática do Grau de Severidade do Edema Macular Diabético Utilizando Imagens de Fundo do Olho",
+          "autores": "WELFER, D.",
+          "periodico": "2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Identificação Automática do Grau de Severidade do Edema Macular Diabético Utilizando Imagens de Fundo do Olho. 2016. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Identificação Automática do Grau de Severidade do Edema Macular Diabético Utilizando Imagens de Fundo de Olho",
+          "autores": "WELFER, D.",
+          "periodico": "2015. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Identificação Automática do Grau de Severidade do Edema Macular Diabético Utilizando Imagens de Fundo de Olho. 2015. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A Mobile Application System for Diagnosis and Management of Community-Acquired Pneumonia",
+          "autores": "WELFER, D. ; SILVA, R. C. F. ; KAZIENKO, J. F.",
+          "periodico": "2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; SILVA, R. C. F. ; KAZIENKO, J. F. . A Mobile Application System for Diagnosis and Management of Community-Acquired Pneumonia. 2014. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "MobiCAP: A Mobile Application Prototype for Management of Community-Acquired Pneumonia",
+          "autores": "WELFER, D. ; SILVA, R. C. F. ; KAZIENKO, J. F.",
+          "periodico": "2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; SILVA, R. C. F. ; KAZIENKO, J. F. . MobiCAP: A Mobile Application Prototype for Management of Community-Acquired Pneumonia. 2014. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detecção de Lesões Vermelhas em Imagens de Fundo do Olho",
+          "autores": "BAGESTEIRO, L. D. ; WELFER, D.",
+          "periodico": "2013. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "BAGESTEIRO, L. D. ; WELFER, D. . Detecção de Lesões Vermelhas em Imagens de Fundo do Olho. 2013. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Métodos Computacionais para Identificar Automaticamente Estruturas da Retina e Quantificar a Severidade do Edema Macular Diabético em Imagens de Fundo do Olho",
+          "autores": "WELFER, D.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Métodos Computacionais para Identificar Automaticamente Estruturas da Retina e Quantificar a Severidade do Edema Macular Diabético em Imagens de Fundo do Olho. 2011. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Processamento de Imagens Médicas",
+          "autores": "WELFER, D.",
+          "periodico": "2008. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Processamento de Imagens Médicas. 2008. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Morphological Approach for the Fovea Location in Color Fundus Images",
+          "autores": "WELFER, D. ;",
+          "periodico": "2008. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; . A Morphological Approach for the Fovea Location in Color Fundus Images. 2008. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Publicação - Uma Proposta para Viabilizar a Prevenção de Diabetes usando Imagens Retinoscópicas e Telemedicina",
+          "autores": "WELFER, D. ;",
+          "periodico": "2007. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; . Publicação - Uma Proposta para Viabilizar a Prevenção de Diabetes usando Imagens Retinoscópicas e Telemedicina. 2007. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Identificação de Padrões de Projeto em Processamento de Imagens",
+          "autores": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'",
+          "periodico": "2003. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D' . Identificação de Padrões de Projeto em Processamento de Imagens. 2003. (Apresentação de Trabalho/Outra)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2005,
+          "titulo": "StoneAge: Ferramenta Java para Processamento e Análise de Imagens",
+          "autores": "WELFER, D.",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . StoneAge: Ferramenta Java para Processamento e Análise de Imagens. 2005."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Discretizador de um silo de secagem de grãos",
+          "autores": "WELFER, D.",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Discretizador de um silo de secagem de grãos. 2002."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Reviewer for the 2015 IEEE International Symposium on Biomedical Imaging (ISBI 2015) (http://www.biomedicalimaging.org/)",
+          "autores": "WELFER, D.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Reviewer for the 2015 IEEE International Symposium on Biomedical Imaging (ISBI 2015) (http://www.biomedicalimaging.org/). 2014."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor de artigos para o XVIII Seminário de Computação (SEMINCO) da Universidade Regional de Blumenau - FURB",
+          "autores": "WELFER, D.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revisor de artigos para o XVIII Seminário de Computação (SEMINCO) da Universidade Regional de Blumenau - FURB. 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revisor de artigos para o XXII Brazilian Symposium on Computer Graphics and Image Processing (Sibgrapi 2009)",
+          "autores": "WELFER, D.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revisor de artigos para o XXII Brazilian Symposium on Computer Graphics and Image Processing (Sibgrapi 2009). 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Revidor de artigos para o Information Technology and Communications in Health (ITCH)",
+          "autores": "WELFER, D.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revidor de artigos para o Information Technology and Communications in Health (ITCH). 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor de artigos para o XXI Brazilian Symposium on Computer Graphics and Image Processing",
+          "autores": "WELFER, D.",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revisor de artigos para o XXI Brazilian Symposium on Computer Graphics and Image Processing. 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor de artigos para o XVII Seminário de Computação (SEMINCO) da Universidade Regional de Blumenau - FURB",
+          "autores": "WELFER, D.",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revisor de artigos para o XVII Seminário de Computação (SEMINCO) da Universidade Regional de Blumenau - FURB. 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Revisor de artigo para a Revista de Informática Teórica e Aplicada (RITA)",
+          "autores": "WELFER, D.",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Revisor de artigo para a Revista de Informática Teórica e Aplicada (RITA). 2008."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "IX Semana Científica do HUSM",
+          "autores": "DOTTO, G. N. ; HAYGERT, C. J. P. ; GUEDES, L. ; HIRSCH, W. ; WELFER, D.",
+          "periodico": "2019. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "DOTTO, G. N. ; HAYGERT, C. J. P. ; GUEDES, L. ; HIRSCH, W. ; WELFER, D. . IX Semana Científica do HUSM. 2019. (Programa de rádio ou TV/Mesa redonda)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Minicurso: Excel Básico",
+          "autores": "WELFER, D.",
+          "periodico": "2019. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Minicurso: Excel Básico. 2019. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Minicurso de Excel",
+          "autores": "WELFER, D.",
+          "periodico": "2017. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "WELFER, D. . Minicurso de Excel. 2017. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Rastreamento de peixe por visão computacional: uma abordagem com aprendizagem profunda",
+          "membros": "EMMENDORFER, L. R.; GAMARRA, D. F. T.; WELFER, D. ; BINELO, M. O.",
+          "candidato": "André do Amaral Chagas Júnior",
+          "citacao_completa": "EMMENDORFER, L. R.; GAMARRA, D. F. T.; WELFER, D. ; BINELO, M. O.. Participação em banca de André do Amaral Chagas Júnior. Rastreamento de peixe por visão computacional: uma abordagem com aprendizagem profunda. 2026. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Deep learning applied to non-invasive ECG pregnancy monitoring: fetal ECG recovery and QRS complex detection",
+          "membros": "SILVEIRA, T. L. T.; KOZAKEVICIUS, A. J.; WELFER, D. ; MENDOZA, M. R.",
+          "candidato": "Julia Corrêa Remus",
+          "citacao_completa": "SILVEIRA, T. L. T.; KOZAKEVICIUS, A. J.; WELFER, D. ; MENDOZA, M. R.. Participação em banca de Julia Corrêa Remus. Deep learning applied to non-invasive ECG pregnancy monitoring: fetal ECG recovery and QRS complex detection. 2025. Dissertação (Mestrado em PPGC - Programa de Pós Graduação em Computação UFRGS) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Previsão de surtos de dengue utilizando machine learning e análise de dados temporais",
+          "membros": "WELFER, D. ; EMMENDORFER, L. R.; FREITAS, C. M. D. S.; GAMARRA, D. F. T.",
+          "candidato": "Pedro Henrique Pinto Leão",
+          "citacao_completa": "WELFER, D. ; EMMENDORFER, L. R.; FREITAS, C. M. D. S.; GAMARRA, D. F. T.. Participação em banca de Pedro Henrique Pinto Leão. Previsão de surtos de dengue utilizando machine learning e análise de dados temporais. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Recovering Medical Images from Adversarial Attacks: Genetic Algorithm-based Adaptive Compression (GA-AC)",
+          "membros": "QUINCOZES, S. E.; NASCIMENTO, M. Z.; WELFER, D.",
+          "candidato": "Paulo Vitor Costa Lima",
+          "citacao_completa": "QUINCOZES, S. E.; NASCIMENTO, M. Z.; WELFER, D. . Participação em banca de Paulo Vitor Costa Lima. Recovering Medical Images from Adversarial Attacks: Genetic Algorithm-based Adaptive Compression (GA-AC). 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Uberlândia."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Simulação Preliminar da Predição do Volume Globular Bovino: Um Método Não Invasivo Por Meio De Imagens Rgb E Redes Neurais Convolucionais",
+          "membros": "GENRO, T. C. M.; CAMARGO, S. S.; BOTTON, S. A.; WELFER, D. ; GASPAR, E. B.",
+          "candidato": "Rui Antonio Da Rocha Lorensi",
+          "citacao_completa": "GENRO, T. C. M.; CAMARGO, S. S.; BOTTON, S. A.; WELFER, D. ; GASPAR, E. B.. Participação em banca de Rui Antonio Da Rocha Lorensi. Simulação Preliminar da Predição do Volume Globular Bovino: Um Método Não Invasivo Por Meio De Imagens Rgb E Redes Neurais Convolucionais. 2023. Dissertação (Mestrado em Computação Aplicada) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Investigando Técnicas de Processamento de Imagens com IA na Detecção de Ferrugem em Folhas de Soja",
+          "membros": "BASSO, F. P.; WELFER, D. ; RODRIGUES, E. M.; SILVEIRA, M. B.",
+          "candidato": "Luiz Daniel Garay Trindade",
+          "citacao_completa": "BASSO, F. P.; WELFER, D. ; RODRIGUES, E. M.; SILVEIRA, M. B.. Participação em banca de Luiz Daniel Garay Trindade. Investigando Técnicas de Processamento de Imagens com IA na Detecção de Ferrugem em Folhas de Soja. 2021. Dissertação (Mestrado em ENGENHARIA DE SOFTWARE) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estudo comparativo de metodologias para detecção de sonolência em tempo real com EEG vestível com duas derivações",
+          "membros": "RODRIGUES, C. R.; WINCK, A. T.; WELFER, D.",
+          "candidato": "Vanessa Cassenote",
+          "citacao_completa": "RODRIGUES, C. R.; WINCK, A. T.; WELFER, D. . Participação em banca de Vanessa Cassenote. Estudo comparativo de metodologias para detecção de sonolência em tempo real com EEG vestível com duas derivações. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação(42002010036P3)) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Método computacional para filtragem de ruído e preservação de detalhes em imagens médicas de tomografia computadorizada de baixa radiação",
+          "membros": "WELFER, D. ; JUNG, C. R.; POZZER, C. T.",
+          "candidato": "Rômulo Marconato Stringhini",
+          "citacao_completa": "WELFER, D. ; JUNG, C. R.; POZZER, C. T.. Participação em banca de Rômulo Marconato Stringhini. Método computacional para filtragem de ruído e preservação de detalhes em imagens médicas de tomografia computadorizada de baixa radiação. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Um framework para distribuição, gerenciamento e renderização de vegetação em cenários virtuais massivos em tempo real",
+          "membros": "POZZER, C. T.; FEIJO, B.; WELFER, D.",
+          "candidato": "Flávio Paulus Franzin",
+          "citacao_completa": "POZZER, C. T.; FEIJO, B.; WELFER, D. . Participação em banca de Flávio Paulus Franzin. Um framework para distribuição, gerenciamento e renderização de vegetação em cenários virtuais massivos em tempo real. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Geração de modelos de elevação digital a partir de esboços topográficos utilizando redes generativas adversárias",
+          "membros": "POZZER, C. T.; WELFER, D. ; AZEVEDO, V. C.",
+          "candidato": "Gabriel Costa Backes",
+          "citacao_completa": "POZZER, C. T.; WELFER, D. ; AZEVEDO, V. C.. Participação em banca de Gabriel Costa Backes. Geração de modelos de elevação digital a partir de esboços topográficos utilizando redes generativas adversárias. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação(42002010036P3)) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento de um aplicativo assistente para pacientes com afasia e para profissionais da área da saúde",
+          "membros": "WELFER, D. ; BASSO, F. P.; SOARES, M. K.",
+          "candidato": "Lucas Saibt Real",
+          "citacao_completa": "WELFER, D. ; BASSO, F. P.; SOARES, M. K.. Participação em banca de Lucas Saibt Real. Desenvolvimento de um aplicativo assistente para pacientes com afasia e para profissionais da área da saúde. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Identificação do Glaucoma em Imagens do Fundo do Olho Utilizando Aprendizagem Profunda",
+          "membros": "WELFER, D. ; CHARAO, A. S.; BASSO, F. P.",
+          "candidato": "Allan Cerentini",
+          "citacao_completa": "WELFER, D. ; CHARAO, A. S.; BASSO, F. P.. Participação em banca de Allan Cerentini. Identificação do Glaucoma em Imagens do Fundo do Olho Utilizando Aprendizagem Profunda. 2018. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação(42002010036P3)) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Um aplicativo para auxiliar na alfabetização de indivíduos com autismo",
+          "membros": "WELFER, D. ; BASSO, F. P.; GAMARRA, D. F. T.",
+          "candidato": "Pedro de Moura Garcia",
+          "citacao_completa": "WELFER, D. ; BASSO, F. P.; GAMARRA, D. F. T.. Participação em banca de Pedro de Moura Garcia. Um aplicativo para auxiliar na alfabetização de indivíduos com autismo. 2018. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação(42002010036P3)) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação da dinâmica de nuvens e impacto em redes de distribuição com grande participação de geração fotovoltáica",
+          "membros": "SPERANDIO, M.; PEREIRA, P. R. S.; BELTRAME, R. C.; WELFER, D.",
+          "candidato": "Criciéle Castro Martins",
+          "citacao_completa": "SPERANDIO, M.; PEREIRA, P. R. S.; BELTRAME, R. C.; WELFER, D. . Participação em banca de Criciéle Castro Martins. Avaliação da dinâmica de nuvens e impacto em redes de distribuição com grande participação de geração fotovoltáica. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Geração de códigos para testes automatizados de aplicações de gerenciamento de processo de negócio a partir de modelos em BPMN",
+          "membros": "CHARAO, A. S.; WELFER, D. ; THOM, L. H.",
+          "candidato": "Jéssica Lasch de Moura",
+          "citacao_completa": "CHARAO, A. S.; WELFER, D. ; THOM, L. H.. Participação em banca de Jéssica Lasch de Moura. Geração de códigos para testes automatizados de aplicações de gerenciamento de processo de negócio a partir de modelos em BPMN. 2017. Dissertação (Mestrado em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Reconhecimento de Imagens de Marcas de Gado Utilizando Redes Neurais Convolucionais e Máquinas de Vetores de Suporte",
+          "membros": "WELFER, D. ; PLENTZ, P. D. M.; GHISSONI, S.; COSTA, F. D.",
+          "candidato": "Carlos Alexandre Silva dos Santos",
+          "citacao_completa": "WELFER, D. ; PLENTZ, P. D. M.; GHISSONI, S.; COSTA, F. D.. Participação em banca de Carlos Alexandre Silva dos Santos. Reconhecimento de Imagens de Marcas de Gado Utilizando Redes Neurais Convolucionais e Máquinas de Vetores de Suporte. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Geração Automática de Aplicativos a Partir de Protocolos Clínicos",
+          "membros": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'; GHISSONI, S.",
+          "candidato": "Karine Nora Dias",
+          "citacao_completa": "WELFER, D. ; ORNELLAS, Marcos Cordeiro D'; GHISSONI, S.. Participação em banca de Karine Nora Dias. Geração Automática de Aplicativos a Partir de Protocolos Clínicos. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Modelagem e simulação de uma solução de integração para identificação de gargalos de desempenho baseadas em formalismo matemático: uma abordagem orientada à cadeias de Markov",
+          "membros": "SAWICKI, S.; FRANTZ, R. Z.; SAUSEN, P. S.; FRANTZ, F. C. R.; WELFER, D.",
+          "candidato": "Márcia Maria Horn",
+          "citacao_completa": "SAWICKI, S.; FRANTZ, R. Z.; SAUSEN, P. S.; FRANTZ, F. C. R.; WELFER, D. . Participação em banca de Márcia Maria Horn. Modelagem e simulação de uma solução de integração para identificação de gargalos de desempenho baseadas em formalismo matemático: uma abordagem orientada à cadeias de Markov. 2016. Dissertação (Mestrado em Modelagem Matemática) - Universidade Regional do Noroeste do Estado do Rio Grande do Sul."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Modelagem matemática do tempo de vida de baterias de lítio íon polímero a partir de modelos híbridos considerando correntes de descarga variáveis",
+          "membros": "SAUSEN, A. T. Z. R.; SAUSEN, P. S.; SAWICKI, S.; WELFER, D.",
+          "candidato": "Rita Salete Kusiak",
+          "citacao_completa": "SAUSEN, A. T. Z. R.; SAUSEN, P. S.; SAWICKI, S.; WELFER, D. . Participação em banca de Rita Salete Kusiak. Modelagem matemática do tempo de vida de baterias de lítio íon polímero a partir de modelos híbridos considerando correntes de descarga variáveis. 2016. Dissertação (Mestrado em Modelagem Matemática) - Universidade Regional do Noroeste do Estado do Rio Grande do Sul."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Formalização da Linguagem Guaraná DSL: Uma Abordagem Matemática para Especificação Formal da Sintaxe Abstrata Utilizando Notação Z",
+          "membros": "SAWICKI, S.; FRANTZ, R. Z.; BINELO, M. O.; WELFER, D.",
+          "candidato": "Mauri José Klein",
+          "citacao_completa": "SAWICKI, S.; FRANTZ, R. Z.; BINELO, M. O.; WELFER, D. . Participação em banca de Mauri José Klein. Formalização da Linguagem Guaraná DSL: Uma Abordagem Matemática para Especificação Formal da Sintaxe Abstrata Utilizando Notação Z. 2015. Dissertação (Mestrado em Modelagem Matemática) - Universidade Regional do Noroeste do Estado do Rio Grande do Sul."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento e Avaliação de um Sistema de Jogos Sérios Baseado em Interfaces Naturais para Reabilitação de Membros Superiores",
+          "membros": "ORNELLAS, Marcos Cordeiro D'; PRADO, A. L. C.; WELFER, D.",
+          "candidato": "Diego João Cargnin",
+          "citacao_completa": "ORNELLAS, Marcos Cordeiro D'; PRADO, A. L. C.; WELFER, D. . Participação em banca de Diego João Cargnin. Desenvolvimento e Avaliação de um Sistema de Jogos Sérios Baseado em Interfaces Naturais para Reabilitação de Membros Superiores. 2015. Dissertação (Mestrado em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Proposta de Aplicativo Móvel para Identificação de Cédulas de Real por Pessoas com Deficiência Visual",
+          "membros": "WELFER, D. ; MELO, A. M.; BERNARDI, G.",
+          "candidato": "Jaline Gonçalves Mombach",
+          "citacao_completa": "WELFER, D. ; MELO, A. M.; BERNARDI, G.. Participação em banca de Jaline Gonçalves Mombach. Proposta de Aplicativo Móvel para Identificação de Cédulas de Real por Pessoas com Deficiência Visual. 2015. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detecção Automática de Microaneurismas e Hemorragias em Imagens de Fundo do Olho",
+          "membros": "WELFER, D. ; GOULART, A. G. O.; MANSSOUR, I. H.; GHISSONI, S.",
+          "candidato": "Sérgio Antônio Martini Bortolin Júnior",
+          "citacao_completa": "WELFER, D. ; GOULART, A. G. O.; MANSSOUR, I. H.; GHISSONI, S.. Participação em banca de Sérgio Antônio Martini Bortolin Júnior. Detecção Automática de Microaneurismas e Hemorragias em Imagens de Fundo do Olho. 2013. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "O Uso de Tecnologias Persuasivas Ubíquas para Potencializar o Processo de Aprendizagem Baseada em Problemas",
+          "membros": "BOTELHO, S. S. C.; CARVALHO, F. A. H.; WELFER, D. ; BILLA, C. Z.",
+          "candidato": "Sam da Silva Devincenzi",
+          "citacao_completa": "BOTELHO, S. S. C.; CARVALHO, F. A. H.; WELFER, D. ; BILLA, C. Z.. Participação em banca de Sam da Silva Devincenzi. O Uso de Tecnologias Persuasivas Ubíquas para Potencializar o Processo de Aprendizagem Baseada em Problemas. 2019. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM EDUCAÇÃO EM CIÊNCIAS) - Universidade Federal do Rio Grande."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Fundus characterization for automatic disease screening through retinal image processing",
+          "membros": "WELFER, D. ; ORNEDO, V. N.",
+          "candidato": "Sandra Morales Martínez",
+          "citacao_completa": "WELFER, D. ; ORNEDO, V. N.. Participação em banca de Sandra Morales Martínez. Fundus characterization for automatic disease screening through retinal image processing. 2015. Tese (Doutorado em Ingeniería Electrónica) - Universitat Politècnica de València."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Análise Compartativa de Tecnologias de Reconstrução 3D para a Perícia",
+          "membros": "SILVA, F. A.; ALCALA, S. G. S.; CUKLA, A. R.; RABELO, D. S.; WELFER, D.",
+          "candidato": "Fernando Alves da Silva",
+          "citacao_completa": "SILVA, F. A.; ALCALA, S. G. S.; CUKLA, A. R.; RABELO, D. S.; WELFER, D. . Participação em banca de Fernando Alves da Silva. Análise Compartativa de Tecnologias de Reconstrução 3D para a Perícia. 2026. Exame de qualificação (Mestrando em MESTRADO PROFISSIONAL EM ENGENHARIA DE PRODUÇÃO) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Predição de Volume Globular Bovino: Um Método Não Invasivo por meio de Imagens RGB e Redes Neurais Convolucionais",
+          "membros": "GENRO, T. C. M.; BOTTON, S. A.; WELFER, D.",
+          "candidato": "Rui Antonio da Rocha Lorensi",
+          "citacao_completa": "GENRO, T. C. M.; BOTTON, S. A.; WELFER, D. . Participação em banca de Rui Antonio da Rocha Lorensi. Predição de Volume Globular Bovino: Um Método Não Invasivo por meio de Imagens RGB e Redes Neurais Convolucionais. 2023. Exame de qualificação (Mestrando em Computação Aplicada) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Investigando Técnicas de Processamento de Imagens com IA na Detecção de Ferrugem Asiática em Folhas de Soja",
+          "membros": "BASSO, F. P.; RODRIGUES, E. M.; WELFER, D.",
+          "candidato": "Luiz Daniel Garay Trindade",
+          "citacao_completa": "BASSO, F. P.; RODRIGUES, E. M.; WELFER, D. . Participação em banca de Luiz Daniel Garay Trindade. Investigando Técnicas de Processamento de Imagens com IA na Detecção de Ferrugem Asiática em Folhas de Soja. 2021. Exame de qualificação (Mestrando em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Procedural Editing of Virtual Terrains Using 3D Bezier Curves",
+          "membros": "POZZER, C. T.; RUTZIG, M. B.; WELFER, D.",
+          "candidato": "Bruno Torres do Nascimento",
+          "citacao_completa": "POZZER, C. T.; RUTZIG, M. B.; WELFER, D. . Participação em banca de Bruno Torres do Nascimento. Procedural Editing of Virtual Terrains Using 3D Bezier Curves. 2020. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Raciocínio Baseado em Casos e Agrupamento de Dados no Reuso e Priorização de Casos de Teste de Software",
+          "membros": "SILVA, L. A. L.; NUNES, R. C.; WELFER, D.",
+          "candidato": "Lori Ronaldo Flores Machado Filho",
+          "citacao_completa": "SILVA, L. A. L.; NUNES, R. C.; WELFER, D. . Participação em banca de Lori Ronaldo Flores Machado Filho. Raciocínio Baseado em Casos e Agrupamento de Dados no Reuso e Priorização de Casos de Teste de Software. 2020. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Modificações de uma Estruturas de Navegação Hierárquica Irregular para Grandes Terrenos Virtuais Usados em Sistemas de Simulação",
+          "membros": "SILVA, L. A. L.; WELFER, D. ; NUNES, R. C.",
+          "candidato": "Evaristo José do Nascimento",
+          "citacao_completa": "SILVA, L. A. L.; WELFER, D. ; NUNES, R. C.. Participação em banca de Evaristo José do Nascimento. Modificações de uma Estruturas de Navegação Hierárquica Irregular para Grandes Terrenos Virtuais Usados em Sistemas de Simulação. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Recuperação de imagens por conteúdo utilizando Deep Learning em sistemas e-commerce e imagens têxteis",
+          "membros": "ZANETTI, M. S.; WELFER, D. ; MAZIERO, J.",
+          "candidato": "Luciano da Rosa",
+          "citacao_completa": "ZANETTI, M. S.; WELFER, D. ; MAZIERO, J.. Participação em banca de Luciano da Rosa. Recuperação de imagens por conteúdo utilizando Deep Learning em sistemas e-commerce e imagens têxteis. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Revisão de metodologias para identificação de sonolência a partir de características extraídas de sinais de EEG para sistemas em tempo real",
+          "membros": "RODRIGUES, C. R.; RUTZIG, M. B.; Welfer, Daniel",
+          "candidato": "Vanessa Cassenote",
+          "citacao_completa": "RODRIGUES, C. R.; RUTZIG, M. B.; Welfer, Daniel . Participação em banca de Vanessa Cassenote. Revisão de metodologias para identificação de sonolência a partir de características extraídas de sinais de EEG para sistemas em tempo real. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Reconhecimento de imagens de marcas de gado usando redes neurais convolucionais e máquina de vetores de suporte",
+          "membros": "WELFER, D. ; COSTA, F. D.; GHISSONI, S.",
+          "candidato": "Carlos Alexandre Silva dos Santos",
+          "citacao_completa": "WELFER, D. ; COSTA, F. D.; GHISSONI, S.. Participação em banca de Carlos Alexandre Silva dos Santos. Reconhecimento de imagens de marcas de gado usando redes neurais convolucionais e máquina de vetores de suporte. 2017. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Geração de Casos para Testes Automatizados de Aplicações de Gerenciamento de Processos de Negócio a partir de Modelos em BPMN",
+          "membros": "CHARAO, A. S.; LIBRELOTTO, G.; WELFER, D.",
+          "candidato": "Jéssica Lasch de Moura",
+          "citacao_completa": "CHARAO, A. S.; LIBRELOTTO, G.; WELFER, D. . Participação em banca de Jéssica Lasch de Moura. Geração de Casos para Testes Automatizados de Aplicações de Gerenciamento de Processos de Negócio a partir de Modelos em BPMN. 2016. Exame de qualificação (Mestrando em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Geração automática de aplicativos a partir de protocolos clínicos",
+          "membros": "WELFER, D. ; GIRARDI, A. G.; CERA, M.; COSTA, F. D.",
+          "candidato": "Karine Nóra Dias",
+          "citacao_completa": "WELFER, D. ; GIRARDI, A. G.; CERA, M.; COSTA, F. D.. Participação em banca de Karine Nóra Dias. Geração automática de aplicativos a partir de protocolos clínicos. 2016. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma Técnica Otimizada de Superpixels para Segmentação de Imagens de CT de Tórax de Alta-Resolução",
+          "membros": "ORNELLAS, Marcos Cordeiro D'; DOTTO, G. N.; WELFER, D.",
+          "candidato": "Rafaelo Pinheiro da Rosa",
+          "citacao_completa": "ORNELLAS, Marcos Cordeiro D'; DOTTO, G. N.; WELFER, D. . Participação em banca de Rafaelo Pinheiro da Rosa. Uma Técnica Otimizada de Superpixels para Segmentação de Imagens de CT de Tórax de Alta-Resolução. 2015. Exame de qualificação (Mestrando em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Aplicativo móvel reconhecedor de cédulas monetárias como proposta de tecnologia assistiva para pessoas cegas",
+          "membros": "Welfer, Daniel ; KAZIENKO, J. F.; MELO, A. M.",
+          "candidato": "Jaline Gonçalves Mombach",
+          "citacao_completa": "Welfer, Daniel ; KAZIENKO, J. F.; MELO, A. M.. Participação em banca de Jaline Gonçalves Mombach. Aplicativo móvel reconhecedor de cédulas monetárias como proposta de tecnologia assistiva para pessoas cegas. 2014. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detecção Automática de Microaneurismas e Hemorragias em Imagens de Fundo de Olho",
+          "membros": "WELFER, D. ; GHISSONI, S.; GOULART, A. G. O.",
+          "candidato": "Sérgio Antônio Martini Bortolin Júnior",
+          "citacao_completa": "WELFER, D. ; GHISSONI, S.; GOULART, A. G. O.. Participação em banca de Sérgio Antônio Martini Bortolin Júnior. Detecção Automática de Microaneurismas e Hemorragias em Imagens de Fundo de Olho. 2013. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Un Nuevo Modelo de Deep Learning para la Detección y Clasificación de Células en Citología Cervical",
+          "membros": "GUERRA, R. S.; WELFER, D. ; DREWS JR, P.",
+          "candidato": "Pablo Daniel Cuña Cabrera",
+          "citacao_completa": "GUERRA, R. S.; WELFER, D. ; DREWS JR, P.. Participação em banca de Pablo Daniel Cuña Cabrera. Un Nuevo Modelo de Deep Learning para la Detección y Clasificación de Células en Citología Cervical. 2023. Monografia (Aperfeiçoamento/Especialização em POSGRADO EN ROBÓTICA E INTELIGÊNCIA ARTIFICIAL (PRIA)) - Universidad Tecnológica."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".?Desenvolvimento de um WebApp para gestão da informação do DTG Noel Guarany",
+          "membros": "WELFER, D. ; CANDIA, A. M. O.; CASSAL, M. L.",
+          "candidato": "Junior de Souza",
+          "citacao_completa": "WELFER, D. ; CANDIA, A. M. O.; CASSAL, M. L.. Participação em banca de Junior de Souza.?Desenvolvimento de um WebApp para gestão da informação do DTG Noel Guarany. 2025. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Análise do Impacto das Mudanças Climáticas na Agricultura da Região Geográfica Intermediária de Santa Maria Utilizando Técnicas de Machine Learning",
+          "membros": "ASSUNCAO, J. V. C.; LEAES NETO, A. N.; WELFER, D.",
+          "candidato": "Luiz Felipe Cavalheiro dos Santos",
+          "citacao_completa": "ASSUNCAO, J. V. C.; LEAES NETO, A. N.; WELFER, D. . Participação em banca de Luiz Felipe Cavalheiro dos Santos.Análise do Impacto das Mudanças Climáticas na Agricultura da Região Geográfica Intermediária de Santa Maria Utilizando Técnicas de Machine Learning. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Treinamento e Avaliação de Agentes Autônomos Utilizando Aprendizado por Reforço em Pistas Simuladas com Obstáculos",
+          "membros": "POZZER, C. T.; WELFER, D. ; TROIS, C.",
+          "candidato": "Pedro Henrique da Silva Hinerasky",
+          "citacao_completa": "POZZER, C. T.; WELFER, D. ; TROIS, C.. Participação em banca de Pedro Henrique da Silva Hinerasky.Treinamento e Avaliação de Agentes Autônomos Utilizando Aprendizado por Reforço em Pistas Simuladas com Obstáculos. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Extração e Análise de Dados Semi-Estruturados: Desenvolvimento de uma Automação com Inteligência Artificial para Processamento de Notas Fiscais Eletrônicas",
+          "membros": "MERGEN, S. L. S.; PIVETA, E. K.; WELFER, D.",
+          "candidato": "Giordana Camilla Camargo",
+          "citacao_completa": "MERGEN, S. L. S.; PIVETA, E. K.; WELFER, D. . Participação em banca de Giordana Camilla Camargo.Extração e Análise de Dados Semi-Estruturados: Desenvolvimento de uma Automação com Inteligência Artificial para Processamento de Notas Fiscais Eletrônicas. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Análise de Desempenho de Modelos de Segmentação Semântica em Imagens de Papel Hidrossensível",
+          "membros": "EMMENDORFER, L. R.; GAMARRA, D. F. T.; WELFER, D.",
+          "candidato": "Bernardo Paul Lorenzoni Ávila",
+          "citacao_completa": "EMMENDORFER, L. R.; GAMARRA, D. F. T.; WELFER, D. . Participação em banca de Bernardo Paul Lorenzoni Ávila.Análise de Desempenho de Modelos de Segmentação Semântica em Imagens de Papel Hidrossensível. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Desenvolvimento de um aplicativo móvel para uso racional de medicamentos com gamificação: um estudo em flutterflow",
+          "membros": "WELFER, D. ; TORRES, M. A. M.; FLORES, L. M.",
+          "candidato": "Gregori Dallanora Rubin",
+          "citacao_completa": "WELFER, D. ; TORRES, M. A. M.; FLORES, L. M.. Participação em banca de Gregori Dallanora Rubin.Desenvolvimento de um aplicativo móvel para uso racional de medicamentos com gamificação: um estudo em flutterflow. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Uma aplicação web para classificação de agregados utilizando técnicas de inteligência artificial",
+          "membros": "WELFER, D. ; CECCATO, H. D.; CUKLA, A. R.; NUMMER, A. V.",
+          "candidato": "Victor Eugenio Mainardi Fritz",
+          "citacao_completa": "WELFER, D. ; CECCATO, H. D.; CUKLA, A. R.; NUMMER, A. V.. Participação em banca de Victor Eugenio Mainardi Fritz.Uma aplicação web para classificação de agregados utilizando técnicas de inteligência artificial. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Desenvolvimento de uma simulação educativa na Unreal Engine 5 para auxiliar a entrada de viajantes no Brasil",
+          "membros": "WELFER, D. ; CUKLA, A. R.; GAMARRA, DANIEL FERNANDO TELLO",
+          "candidato": "Eduardo Adriano Fritzen",
+          "citacao_completa": "WELFER, D. ; CUKLA, A. R.; GAMARRA, DANIEL FERNANDO TELLO. Participação em banca de Eduardo Adriano Fritzen.Desenvolvimento de uma simulação educativa na Unreal Engine 5 para auxiliar a entrada de viajantes no Brasil. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Desenvolvimento de sistema para auxiliar na inclusão digital de professores do ensino básico",
+          "membros": "BARCELOS, P. P.; WELFER, D. ; LIBRELOTTO, G.",
+          "candidato": "Raíssa Arantes",
+          "citacao_completa": "BARCELOS, P. P.; WELFER, D. ; LIBRELOTTO, G.. Participação em banca de Raíssa Arantes.Desenvolvimento de sistema para auxiliar na inclusão digital de professores do ensino básico. 2023. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Desenvolvimento do Hassuport: Software para a assistência de enfermagem ao paciente com hipertensão arterial",
+          "membros": "WELFER, D. ; PASIN, M.; SCHIMITH, M. D.",
+          "candidato": "Winglisson Maretoli Gonçalves",
+          "citacao_completa": "WELFER, D. ; PASIN, M.; SCHIMITH, M. D.. Participação em banca de Winglisson Maretoli Gonçalves.Desenvolvimento do Hassuport: Software para a assistência de enfermagem ao paciente com hipertensão arterial. 2023. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Segmentação de instâncias para a estimação do comprimento de peixes utilizando técnicas de inteligência artificial",
+          "membros": "WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO; SILVA, L. P.",
+          "candidato": "Luhan Bavaresco",
+          "citacao_completa": "WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO; SILVA, L. P.. Participação em banca de Luhan Bavaresco.Segmentação de instâncias para a estimação do comprimento de peixes utilizando técnicas de inteligência artificial. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Comparação dos algoritmos YOLOV3 e SSD para identificação de objetos em imagens em um dataset para navegação de robôs em ambientes interiores",
+          "membros": "GAMARRA, DANIEL FERNANDO TELLO; WELFER, D. ; GUERRA, R. S.",
+          "candidato": "Adriana Carrillo Rios",
+          "citacao_completa": "GAMARRA, DANIEL FERNANDO TELLO; WELFER, D. ; GUERRA, R. S.. Participação em banca de Adriana Carrillo Rios.Comparação dos algoritmos YOLOV3 e SSD para identificação de objetos em imagens em um dataset para navegação de robôs em ambientes interiores. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Path-tracing for light transport simulation",
+          "membros": "POZZER, C. T.; WELFER, D. ; FRANZIN, F.",
+          "candidato": "Roberto Nisxota Menegais",
+          "citacao_completa": "POZZER, C. T.; WELFER, D. ; FRANZIN, F.. Participação em banca de Roberto Nisxota Menegais.Path-tracing for light transport simulation. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Construção de mosaicos de imagens digitais para a gerência de patologias em estruturas de difícil acesso",
+          "membros": "WELFER, D. ; LIMA, J. C. D.; CANDIA, A. M. O.",
+          "candidato": "Paulo Saicoski Sarkis",
+          "citacao_completa": "WELFER, D. ; LIMA, J. C. D.; CANDIA, A. M. O.. Participação em banca de Paulo Saicoski Sarkis.Construção de mosaicos de imagens digitais para a gerência de patologias em estruturas de difícil acesso. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Desenvolvimento de um sistema de gerenciamento de eventos para grupos PET",
+          "membros": "WELFER, D. ; CHARAO, A. S.; CANDIA, A. M. O.",
+          "candidato": "Rafael de Lima Trindade Silva",
+          "citacao_completa": "WELFER, D. ; CHARAO, A. S.; CANDIA, A. M. O.. Participação em banca de Rafael de Lima Trindade Silva.Desenvolvimento de um sistema de gerenciamento de eventos para grupos PET. 2022. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Interferência de diferentes materiais odontológicos na qualidade de imagem da tomografia computadorizada de baixa dose utilizada no hospital universitário de Santa Maria",
+          "membros": "HIRSCH, W. D. B.; WELFER, D. ; BLAYA, D. S.",
+          "candidato": "Gabriele Savariz Zilli",
+          "citacao_completa": "HIRSCH, W. D. B.; WELFER, D. ; BLAYA, D. S.. Participação em banca de Gabriele Savariz Zilli.Interferência de diferentes materiais odontológicos na qualidade de imagem da tomografia computadorizada de baixa dose utilizada no hospital universitário de Santa Maria. 2022. Trabalho de Conclusão de Curso (Graduação em Odontologia) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Uma ferramenta para compartilhar informações de projetos nos cursos de informática da UFSM",
+          "membros": "WELFER, D. ; LIMA, J. C. D.; LIBRELOTTO, G. R.",
+          "candidato": "Claiton Denardi Paulus",
+          "citacao_completa": "WELFER, D. ; LIMA, J. C. D.; LIBRELOTTO, G. R.. Participação em banca de Claiton Denardi Paulus.Uma ferramenta para compartilhar informações de projetos nos cursos de informática da UFSM. 2021. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Parametrização da iluminação de uma cena virtual 3D baseado em imagem LDR",
+          "membros": "POZZER, C. T.; WELFER, D. ; RUTZIG, M. B.",
+          "candidato": "Natan Luiz Paetzhold Berwaldt",
+          "citacao_completa": "POZZER, C. T.; WELFER, D. ; RUTZIG, M. B.. Participação em banca de Natan Luiz Paetzhold Berwaldt.Parametrização da iluminação de uma cena virtual 3D baseado em imagem LDR. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Utilização de deep Learning para reconhecimento de gestos com imagens do sensor Kinect nas bases de dados MSRC-12 e NTU RGB+D",
+          "membros": "GAMARRA, DANIEL FERNANDO TELLO; WELFER, D. ; CUCKLA, A.",
+          "candidato": "Júlia Schubert Peixoto",
+          "citacao_completa": "GAMARRA, DANIEL FERNANDO TELLO; WELFER, D. ; CUCKLA, A.. Participação em banca de Júlia Schubert Peixoto.Utilização de deep Learning para reconhecimento de gestos com imagens do sensor Kinect nas bases de dados MSRC-12 e NTU RGB+D. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Proposta de um software educacional para ensino e aprendizagem do uso de laboratórios de eletrônica",
+          "membros": "WELFER, D. ; GAMARRA, D. F. T.; OLIVEIRA, A. Q.",
+          "candidato": "Fernanda Hamdan Padilha",
+          "citacao_completa": "WELFER, D. ; GAMARRA, D. F. T.; OLIVEIRA, A. Q.. Participação em banca de Fernanda Hamdan Padilha.Proposta de um software educacional para ensino e aprendizagem do uso de laboratórios de eletrônica. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Engenharia do caos para resiliência de arquiteturas em nuvem",
+          "membros": "HOPPE, A. F.; PERICAS, F. A.; WELFER, D.",
+          "candidato": "Matheus Henrique Raymundo",
+          "citacao_completa": "HOPPE, A. F.; PERICAS, F. A.; WELFER, D. . Participação em banca de Matheus Henrique Raymundo.Engenharia do caos para resiliência de arquiteturas em nuvem. 2020. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Fundação Universidade Regional de Blumenau."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Método para a identificação de pelos utilizando imagens naturais",
+          "membros": "WELFER, D. ; GAMARRA, D. F. T.; CHARAO, A. S.",
+          "candidato": "Bruna Lorenzzetti de Oliveira",
+          "citacao_completa": "WELFER, D. ; GAMARRA, D. F. T.; CHARAO, A. S.. Participação em banca de Bruna Lorenzzetti de Oliveira.Método para a identificação de pelos utilizando imagens naturais. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Software de reconhecimento de objetos utilizando imagens RGBD do kinect e sua aplicação na navegação de um robô móvel de sistema monofásico para trifásico",
+          "membros": "GAMARRA, D. F. T.; WELFER, D. ; PETRY, A.",
+          "candidato": "Douglas Henke dos Reis",
+          "citacao_completa": "GAMARRA, D. F. T.; WELFER, D. ; PETRY, A.. Participação em banca de Douglas Henke dos Reis.Software de reconhecimento de objetos utilizando imagens RGBD do kinect e sua aplicação na navegação de um robô móvel de sistema monofásico para trifásico. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Podem redes neurais enxergar além de máscaras ?",
+          "membros": "GUERRA, R. S.; DREWS JR, P.; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO",
+          "candidato": "Luiza Amador Pozzobon",
+          "citacao_completa": "GUERRA, R. S.; DREWS JR, P.; WELFER, D. ; GAMARRA, DANIEL FERNANDO TELLO. Participação em banca de Luiza Amador Pozzobon.Podem redes neurais enxergar além de máscaras ?. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Desenvolvimento de uma aplicação Web com detecção e reconhecimento facial",
+          "membros": "LIMA, J. V. F.; STEIN, B. O.; WELFER, D.",
+          "candidato": "Francisco Tassinari Fajardo",
+          "citacao_completa": "LIMA, J. V. F.; STEIN, B. O.; WELFER, D. . Participação em banca de Francisco Tassinari Fajardo.Desenvolvimento de uma aplicação Web com detecção e reconhecimento facial. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Método de Redução de Efeitos de Artefatos Metálicos em Imagens de Tomografia de Baixa Radiação",
+          "membros": "WELFER, D. ; RODRIGUES, C. R.; GAMARRA, D. F. T.",
+          "candidato": "Isadora Rodrigues Stangarlin",
+          "citacao_completa": "WELFER, D. ; RODRIGUES, C. R.; GAMARRA, D. F. T.. Participação em banca de Isadora Rodrigues Stangarlin.Método de Redução de Efeitos de Artefatos Metálicos em Imagens de Tomografia de Baixa Radiação. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Uma ferramenta para processamento de imagens com suporte para a agregação de componentes em tempo de execução",
+          "membros": "WELFER, D. ; BERNARDI, G.; CANDIA, A. M. O.",
+          "candidato": "Carlos Malgarim Cordenonsi",
+          "citacao_completa": "WELFER, D. ; BERNARDI, G.; CANDIA, A. M. O.. Participação em banca de Carlos Malgarim Cordenonsi.Uma ferramenta para processamento de imagens com suporte para a agregação de componentes em tempo de execução. 2018. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Reconhecimento de gestos utilizando redes neurais convolucionais em imagens capturadas por um sensor kinect para controle de um robô móvel",
+          "membros": "GAMARRA, D. F. T.; GUERRA, R. S.; WELFER, D.",
+          "candidato": "Miguel Pfitscher",
+          "citacao_completa": "GAMARRA, D. F. T.; GUERRA, R. S.; WELFER, D. . Participação em banca de Miguel Pfitscher.Reconhecimento de gestos utilizando redes neurais convolucionais em imagens capturadas por um sensor kinect para controle de um robô móvel. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Proposta de um sistema para fornecer informações sobre horários e lotação do transporte interno da UFSM",
+          "membros": "PASIN, M.; WELFER, D. ; NUNES, R. C.",
+          "candidato": "Ezequiel Rodrigues Ribeiro",
+          "citacao_completa": "PASIN, M.; WELFER, D. ; NUNES, R. C.. Participação em banca de Ezequiel Rodrigues Ribeiro.Proposta de um sistema para fornecer informações sobre horários e lotação do transporte interno da UFSM. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Módulo para edição de terrenos virtuais e distribuição procedural de vegetação",
+          "membros": "POZZER, C. T.; WELFER, D. ; FONTOURA, L. M.",
+          "candidato": "Bruno Torres do Nascimento",
+          "citacao_completa": "POZZER, C. T.; WELFER, D. ; FONTOURA, L. M.. Participação em banca de Bruno Torres do Nascimento.Módulo para edição de terrenos virtuais e distribuição procedural de vegetação. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Automatizando a exportação de questões de provas da olimpíada brasileira de informática",
+          "membros": "CHARAO, A. S.; WELFER, D. ; STEIN, B. O.",
+          "candidato": "Otávio Oliveira Deon",
+          "citacao_completa": "CHARAO, A. S.; WELFER, D. ; STEIN, B. O.. Participação em banca de Otávio Oliveira Deon.Automatizando a exportação de questões de provas da olimpíada brasileira de informática. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Desenvolvimento de sistema para inspeção visual de fibra óptica",
+          "membros": "GAMARRA, D. F. T.; WELFER, D. ; GUERRA, R. S.",
+          "candidato": "Marcelo Manfrin Mafalda",
+          "citacao_completa": "GAMARRA, D. F. T.; WELFER, D. ; GUERRA, R. S.. Participação em banca de Marcelo Manfrin Mafalda.Desenvolvimento de sistema para inspeção visual de fibra óptica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise de métodos de processamento para suavização de ruídos em imagens de tomografia computadorizada multislice de baixa radiação",
+          "membros": "WELFER, D. ; POZZER, C. T.; LIBRELOTTO, G. R.",
+          "candidato": "Rômulo Marconato Stringhini",
+          "citacao_completa": "WELFER, D. ; POZZER, C. T.; LIBRELOTTO, G. R.. Participação em banca de Rômulo Marconato Stringhini.Análise de métodos de processamento para suavização de ruídos em imagens de tomografia computadorizada multislice de baixa radiação. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Aplicação de Técnicas procedurais em GPU para renderização de nuvens volumétricas em tempo real",
+          "membros": "POZZER, C. T.; RUTZIG, M. B.; WELFER, D.",
+          "candidato": "Flávio Paulus Franzin",
+          "citacao_completa": "POZZER, C. T.; RUTZIG, M. B.; WELFER, D. . Participação em banca de Flávio Paulus Franzin.Aplicação de Técnicas procedurais em GPU para renderização de nuvens volumétricas em tempo real. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Desenvolvimento de uma ferramenta CAD para detecção do glaucoma utilizando imagens de fundo de olho",
+          "membros": "DOTTO, G. N.; BERNARDI, G.; WELFER, D.",
+          "candidato": "Maurício Matter Donato",
+          "citacao_completa": "DOTTO, G. N.; BERNARDI, G.; WELFER, D. . Participação em banca de Maurício Matter Donato.Desenvolvimento de uma ferramenta CAD para detecção do glaucoma utilizando imagens de fundo de olho. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".DIMOVUS-Guia de usabilidade no desenvolvimento de aplicações para dispositivos móveis: Diretrizes e objeto de aprendizagem",
+          "membros": "BERNARDI, G.; WELFER, D. ; LIMA, J. C. D.",
+          "candidato": "Guilherme Miollo",
+          "citacao_completa": "BERNARDI, G.; WELFER, D. ; LIMA, J. C. D.. Participação em banca de Guilherme Miollo.DIMOVUS-Guia de usabilidade no desenvolvimento de aplicações para dispositivos móveis: Diretrizes e objeto de aprendizagem. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Métodos de pré-processamento para a correção da iluminação irregular em imagens de fundo do olho",
+          "membros": "WELFER, D. ; BERNARDI, G.; BARCELOS, P. P.",
+          "candidato": "Lucas Saibt Real",
+          "citacao_completa": "WELFER, D. ; BERNARDI, G.; BARCELOS, P. P.. Participação em banca de Lucas Saibt Real.Métodos de pré-processamento para a correção da iluminação irregular em imagens de fundo do olho. 2016. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Um Método para a Detecção da Fóvea em Imagens de Fundo do Olho através da Correlação de Modelos",
+          "membros": "KREUTZ, D. L.; WELFER, D. ; DEVINCENZI, S. S.; MARCON, D.",
+          "candidato": "Pedro de Moura Garcia",
+          "citacao_completa": "KREUTZ, D. L.; WELFER, D. ; DEVINCENZI, S. S.; MARCON, D.. Participação em banca de Pedro de Moura Garcia.Um Método para a Detecção da Fóvea em Imagens de Fundo do Olho através da Correlação de Modelos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Um serviço distribuído para pré-processamento de imagens médicas",
+          "membros": "KREUTZ, D. L.; WELFER, D. ; DEVINCENZI, S. S.; RIZZATTI, E. O.",
+          "candidato": "Augusto César Görgen",
+          "citacao_completa": "KREUTZ, D. L.; WELFER, D. ; DEVINCENZI, S. S.; RIZZATTI, E. O.. Participação em banca de Augusto César Görgen.Um serviço distribuído para pré-processamento de imagens médicas. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Processo de V&V Aplicado ao Desenvolvimento de Software do NTIC",
+          "membros": "DEVINCENZI, S. S.; CARVALHO, E.; WELFER, D.",
+          "candidato": "Caroline Waschburger dos Santos",
+          "citacao_completa": "DEVINCENZI, S. S.; CARVALHO, E.; WELFER, D. . Participação em banca de Caroline Waschburger dos Santos.Processo de V&V Aplicado ao Desenvolvimento de Software do NTIC. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Sistema de Diagnóstico e Tratamento da Pneumonia Adquirida no Hospital",
+          "membros": "KAZIENKO, J. F.; WELFER, D. ; TOLFO, C.; DEVINCENZI, S. S.",
+          "candidato": "Karine Nóra Dias",
+          "citacao_completa": "KAZIENKO, J. F.; WELFER, D. ; TOLFO, C.; DEVINCENZI, S. S.. Participação em banca de Karine Nóra Dias.Sistema de Diagnóstico e Tratamento da Pneumonia Adquirida no Hospital. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Quantificação Automática do Glaucoma Utilizando Imagens de Fundo do Olho",
+          "membros": "WELFER, D. ; MELNIK, I. A. C.; TOLFO, C.",
+          "candidato": "Evaír Borges Severo",
+          "citacao_completa": "WELFER, D. ; MELNIK, I. A. C.; TOLFO, C.. Participação em banca de Evaír Borges Severo.Quantificação Automática do Glaucoma Utilizando Imagens de Fundo do Olho. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Uma arquitetura segura baseada na computação ubíqua para recuperação de registros médicos",
+          "membros": "SANTOS, E. G. S.; WELFER, D. ; KAZIENKO, JULIANO F.",
+          "candidato": "Sílvio Ereno Quincozes",
+          "citacao_completa": "SANTOS, E. G. S.; WELFER, D. ; KAZIENKO, JULIANO F.. Participação em banca de Sílvio Ereno Quincozes.Uma arquitetura segura baseada na computação ubíqua para recuperação de registros médicos. 2015. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".O impacto do uso de engenharia de requisitos em processos de desenvolvimento de software",
+          "membros": "DEVINCENZI, S. S.; BORDIN, A. S.; WELFER, D.",
+          "candidato": "Nasser Othman Rahman",
+          "citacao_completa": "DEVINCENZI, S. S.; BORDIN, A. S.; WELFER, D. . Participação em banca de Nasser Othman Rahman.O impacto do uso de engenharia de requisitos em processos de desenvolvimento de software. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Evolução de software através de reengenharia: um processo didático",
+          "membros": "DEVINCENZI, S. S.; GIRARDI, A. G.; WELFER, D.",
+          "candidato": "Mateus Henrique Dal Forno",
+          "citacao_completa": "DEVINCENZI, S. S.; GIRARDI, A. G.; WELFER, D. . Participação em banca de Mateus Henrique Dal Forno.Evolução de software através de reengenharia: um processo didático. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Software) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Segmentação de Nanotubos de Carbono em Imagens de Microscopia Eletrônica de Transmissão",
+          "membros": "OLIVEIRA, A. B.; SILVA, P. R.; WELFER, D.",
+          "candidato": "Thiarles Soares Medeiros",
+          "citacao_completa": "OLIVEIRA, A. B.; SILVA, P. R.; WELFER, D. . Participação em banca de Thiarles Soares Medeiros.Segmentação de Nanotubos de Carbono em Imagens de Microscopia Eletrônica de Transmissão. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Experimentos Virtuais na Área de Química com Realidade Aumentada",
+          "membros": "OLIVEIRA, A. B.; SILVA, P. R.; WELFER, D.",
+          "candidato": "Brandon Marques dos Santos",
+          "citacao_completa": "OLIVEIRA, A. B.; SILVA, P. R.; WELFER, D. . Participação em banca de Brandon Marques dos Santos.Experimentos Virtuais na Área de Química com Realidade Aumentada. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Algoritmos de Busca de Caminho de Tile Games",
+          "membros": "KEPLER, F. N.; WELFER, D. ; MELLO, A. V.",
+          "candidato": "Laraíne Ramos dos Anjos",
+          "citacao_completa": "KEPLER, F. N.; WELFER, D. ; MELLO, A. V.. Participação em banca de Laraíne Ramos dos Anjos.Algoritmos de Busca de Caminho de Tile Games. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudo de Aderência ao Nível II do Modelo CMMI-DEV no Núcleo de Tecnologia da Informação e Comunicação",
+          "membros": "DEVINCENZI, S. S.; WELFER, D. ; BORDIN, A. S.",
+          "candidato": "Lucas Corrêa Nowack",
+          "citacao_completa": "DEVINCENZI, S. S.; WELFER, D. ; BORDIN, A. S.. Participação em banca de Lucas Corrêa Nowack.Estudo de Aderência ao Nível II do Modelo CMMI-DEV no Núcleo de Tecnologia da Informação e Comunicação. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Fatores que influenciam no desempenho de sistema de banco de dados",
+          "membros": "WELFER, D. ; MACHADO, A.; MELO, A. M.",
+          "candidato": "Amanda Caricatti Estrela",
+          "citacao_completa": "WELFER, D. ; MACHADO, A.; MELO, A. M.. Participação em banca de Amanda Caricatti Estrela.Fatores que influenciam no desempenho de sistema de banco de dados. 2012. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "WELFER, D. ; SILVA, L. S.; RASIA, L. A.. EDITAL N.º 257/2014- CONCURSO PÚBLICO PARA DOCENTE. 2015. Universidade Federal ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "WELFER, D. ; SILVA, L. S.; RASIA, L. A.. EDITAL N.º 257/2014- CONCURSO PÚBLICO PARA DOCENTE. 2015. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2015,
+          "titulo": "WELFER, D. ; GONCALVES, E. M. N.; BINS FILHO, A. C.. EDITAL N.º 58/2015 - CONCURSO PÚBLICO PARA DOCENTE. 2015. Universid",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "WELFER, D. ; GONCALVES, E. M. N.; BINS FILHO, A. C.. EDITAL N.º 58/2015 - CONCURSO PÚBLICO PARA DOCENTE. 2015. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2012,
+          "titulo": "WELFER, D. ; MARTINI, Alfio Ricardo de Brito; VIZZOTTO, J. K. EDITAL N.º 156/2011 - CONCURSO PÚBLICO PARA DOCENTE. 2012.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "WELFER, D. ; MARTINI, Alfio Ricardo de Brito; VIZZOTTO, J. K. EDITAL N.º 156/2011 - CONCURSO PÚBLICO PARA DOCENTE. 2012. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2012,
+          "titulo": "WELFER, D. ; MACHADO, K. S.; AGUSTINI, Alexandre. EDITAL N.º 011/2012 - CONCURSO PÚBLICO PARA DOCENTE. 2012. Universidad",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "WELFER, D. ; MACHADO, K. S.; AGUSTINI, Alexandre. EDITAL N.º 011/2012 - CONCURSO PÚBLICO PARA DOCENTE. 2012. Universidade Federal do Pampa."
+        }
+      ]
+    }
+  ]
+}

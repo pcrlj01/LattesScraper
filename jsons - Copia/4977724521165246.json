@@ -1,0 +1,528 @@
+{
+  "name": "César Cunha Pacheco",
+  "lattes_id": "4977724521165246",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "DALESSANDRO, G. ; PACHECO, C. C. . Assessment of the identifiability of directional thermal conductivities of FR composites using an optimized three-layer experimental set-up and the approximation error model. International Journal Of Heat And Mass Transfer , v. 267, p. 128964, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.ijheatmasstransfer.2026.128964"
+        },
+        {
+          "texto": "PACHECO, C. C. ; LACERDA, C. R. ; COLAÇO, M. J. . A GSVD-based methodology for automatic selection of high-order regularization parameters in inverse heat conduction problems. INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER , v. 163, p. 108684, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.icheatmasstransfer.2025.108684"
+        },
+        {
+          "texto": "EGGER, V. F. ; BRIA, M. Z. M. ; LISBOA, K. M. ; COSTA, K. D. A. ; PACHECO, C. C. ; PINHEIRO, ISABELA FLORINDO . Experimental investigation and Kalman filter-based estimation of spatial-dependent heat sources in microprocessor hotspots. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 47, p. 1-17, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-05369-w"
+        },
+        {
+          "texto": "BRAGANCA, J. M. B. ; PACHECO, C. C. . Controlling MR-Guided Hyperthermia Therapy for Cancer Treatment with Kalman Filter and Increased Spatial Resolution. Computational Thermal Sciences , v. 17, p. 15-31, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1615/ComputThermalScien.2025056679"
+        },
+        {
+          "texto": "PACHECO, C. C. ; VERISSIMO, G. L. ; ; LEIROZ, A. J. K. ; CRUZ, M.E.C. ; SANTOS, H. F. L. ; DEFILIPPO, M. ; QUIRINO, T. S. . A computational study on square and helical magnetohydrodynamic generators including applications to a combined power cycle. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 46, p. 604, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-05150-z"
+        },
+        {
+          "texto": "TURCI, DANIEL RUBANO BARRETTO ; LISBOA, K. M. ; PACHECO, C. C. ; SPHAIER, L. A. ; PINHEIRO, I. F. . A low-temperature Organic Rankine Cycle integrated with latent heat storage harnessing solar thermal energy for power generation. Energy , v. 309, p. 133107, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.energy.2024.133107"
+        },
+        {
+          "texto": "DINIZ, S. B. ; PACHECO, C. C. . Real-time estimation of the heat transfer coefficient of pitot tubes undergoing freezing. INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW , v. 33, p. 226-240, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1108/HFF-02-2022-0099"
+        },
+        {
+          "texto": "PACHECO, C. C. . An online database of benchmark problems for verification of inverse problems computer codes. HEAT TRANSFER ENGINEERING , v. -, p. Online, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1080/01457632.2023.2241175"
+        },
+        {
+          "texto": "LISBOA, KLEBER MARQUES ; PACHECO, CÉSAR CUNHA ; TURCI, DANIEL RUBANO BARRETTO ; PINHEIRO, ISABELA FLORINDO ; SPHAIER, LEANDRO ALCOFORADO . Understanding the effects of variable permeability along the cross-section of packed beds of encapsulated phase change materials for latent heat thermal energy storage systems. APPLIED THERMAL ENGINEERING , v. 233, p. 121110, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.applthermaleng.2023.121110"
+        },
+        {
+          "texto": "PACHECO, C. C. ; LACERDA, C. R. ; . Automatic selection of regularization parameter in inverse heat conduction problems. INTERNATIONAL COMMUNICATIONS IN HEAT AND MASS TRANSFER , v. 139, p. 106403, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.icheatmasstransfer.2022.106403"
+        },
+        {
+          "texto": "PACHECO, C. C. ; LACERDA, C. R. . Function Estimation and Regularization in the SIRD Model Applied to the COVID-19 Pandemics. INVERSE PROBLEMS IN SCIENCE AND ENGINEERING (ONLINE) , v. NA, p. 1, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1080/17415977.2021.1872563"
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, HELCIO R. B. ; COLACO, MARCELO J. ; DULIKRAVICH, GEORGE S. ; VARON, LEONARDO A. BERMEO ; LAMIEN, B. . Real-time temperature estimation with enhanced spatial resolution during MR-guided hyperthermia therapy. NUMERICAL HEAT TRANSFER PART A-APPLICATIONS , v. -, p. 1-25, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1080/10407782.2020.1720409"
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, HELCIO R. B. ; COLAÇO, MARCELO J. ; DULIKRAVICH, GEORGE S. . State estimation problems in PRF-shift magnetic resonance thermometry. INTERNATIONAL JOURNAL OF NUMERICAL METHODS FOR HEAT & FLUID FLOW , v. 28, p. 315-335, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1108/hff-10-2016-0427"
+        },
+        {
+          "texto": "ABREU, L. A. S. ; ORLANDE, H. R. B. ; ; KAIPIO, J. ; KOLEHMAINEN, V. ; PACHECO, C. C. ; COTTA, R. M. . Detection of contact failures with the Markov chain Monte Carlo method by using integral transformed measurements. INTERNATIONAL JOURNAL OF THERMAL SCIENCES , v. 132, p. 486-497, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.ijthermalsci.2018.06.006"
+        },
+        {
+          "texto": "PACHECO, C. C. ; DULIKRAVICH, G. S ; VESENJAK, M. ; BOROVINSEK, M. ; DUARTE, I. ; JHA, R. ; REDDY, S. R. ; ORLANDE, H. R. B. ; COLAÇO, M. J. . Inverse Parameter Identification in Solid Mechanics Using Bayesian Statistics, Response Surfaces and Minimization. TECHNISCHE MECHANIK , v. 36, p. 120-131, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.24352/UB.OVGU-2017-014"
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; COLAÇO, M. J. ; DULIKRAVICH, G. S. . Real-time identification of a high-magnitude boundary heat flux on a plate. Inverse Problems in Science and Engineering (Online) , v. N/A, p. 1-19, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1080/17415977.2016.1195829"
+        },
+        {
+          "texto": "REDDY, SOHAIL R. ; ABDOLI, ABAS ; DULIKRAVICH, GEORGE S. ; PACHECO, CESAR C. ; VASQUEZ, GENESIS ; JHA, RAJESH ; COLACO, MARCELO J. ; ORLANDE, HELCIO R.B. . Multi-objective Optimization of Micro Pin-Fin Arrays for Cooling of High Heat Flux Electronics with a Hot Spot. HEAT TRANSFER ENGINEERING , v. 38, p. 1235-1246, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1080/01457632.2016.1242953"
+        },
+        {
+          "texto": "PACHECO, CÉSAR C. ; ORLANDE, HELCIO R. B. ; COLAÇO, MARCELO J. ; DULIKRAVICH, GEORGE S. . Estimation of a Location- and Time-Dependent High-Magnitude Heat Flux in a Heat Conduction Problem Using the Kalman Filter and the Approximation Error Model. Numerical Heat Transfer. Part A, Applications , v. 68, p. 1198-1219, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1080/10407782.2015.1037136"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "D?ALESSANDRO, G. ; PACHECO, CÉSAR CUNHA ; MONTE, F. . On the Identifiability of Thermal Conductivities Components of Composite Materials through an Optimum Experiment: a Numerical Investigation. In: Meeting della Associazione Italiana Proprietà Termofisiche, 2025, Roma. Proceedings of the Meeting della Associazione Italiana Proprietà Termofisiche, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, I. A. S. ; BRAGANCA, J. M. B. ; PACHECO, CESAR C. . RECONSTRUCTING THERMAL DOSE IN RFA HYPERTHERMIA TREATMENTS OF TUMORS. In: 28th ABCM International Congress of Mechanical Engineering (COBEM), 2025, Curitiba. Proceedings of the 28th ABCM International Congress of Mechanical Engineering, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGANCA, J. M. B. ; PACHECO, C. C. . 2D ARTIFACT MITIGATION IN MR-THERMOMETRY USING THE KALMAN FILTER FOR MINIMALLY INVASIVE TUMOR TREATMENTS. In: 28th ABCM International Congress of Mechanical Engineering, 2025, Curitiba. Proceedings of the 28th ABCM International Congress of Mechanical Engineering, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOZA, L. M. ; PACHECO, C. C. ; DEUS FILHO, J. C. A. ; NUNES, L. C. S. . Strain Energy Model Parameter Estimation Using Levenberg-Marquardt Least Squares Method. In: 28th ABCM International Congress of Mechanical Engineering, 2025, Curitiba. Proceedings of the 28th ABCM International Congress of Mechanical Engineering, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. . RECENT UPDATES ON THE INVERSE TOOLKIT LIBRARY FOR VERIFICATION OF INVERSE PROBLEMS COMPUTER CODES. In: 11th International Conference on Inverse Problems in Engineering, 2024, Búzios. Proceedings of the 11th International Conference on Inverse Problems in Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, M. A. ; SILVA, J. C. A. ; PACHECO, C. C. ; ALVES, L. S. B. . INVERSE ANALYSIS OF CENTERLINE BOUNDARY CONDITIONS FOR INCOMPRESSIBLE PLANAR MIXING LAYERS. In: 11th International Conference on Inverse Problems in Engineering, 2024, Búzios. Proceedings of the 11th International Conference on Inverse Problems in Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "EGGER, V. F. ; PACHECO, C. C. . ESTIMATION OF A POSITION AND TIME DEPENDENT HIGH MAGNITUDE HEAT FLUX IN A 3D NONLINEAR HEAT CONDUCTION PROBLEM BY KALMAN FILTER WITH APPROXIMATE ERROR MODEL. In: 11th International Conference on Inverse Problems in Engineering, 2024, Búzios. Proceedings of the 11th International Conference on Inverse Problems in Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BRIA, M. ; COSTA, K. D. A. ; PACHECO, C. C. ; LISBOA, K. M. ; PINHEIRO, I. F. . EXPERIMENTAL INVESTIGATION AND ESTIMATION OF SPATIALDEPENDENT HEAT SOURCE OF HOTSPOTS IN MICROPROCESSORS. In: 11th International Conference on Inverse Problems in Engineering, 2024, Búzios. Proceedings of the 11th International Conference on Inverse Problems in Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGANCA, J. M. B. ; PACHECO, C. C. . CONTROLLING MR-GUIDED HYPERTHERMIA THERAPY FOR CANCER TREATMENT WITH KALMAN FILTER AND INCREASED SPATIAL RESOLUTION. In: 11th International Conference on Inverse Problems in Engineering, 2024, Búzios. Proceedings of the 11th International Conference on Inverse Problems in Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ANASTACIO, A. S. M. ; EGGER, V. F. ; PACHECO, C. C. . Automatic and Online Kalman Filter Tuning for Estimation of High Magnitude Heat Fluxes. In: 20th Brazilian Congress of Thermal Sciences and Engineering, 2024, Foz do Iguaçu. Proceedings of the 20th Brazilian Congress of Thermal Sciences and Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGANCA, J. M. B. ; PACHECO, C. C. . Improving Internal Tumor Treatment Outcomes Through Integrated Ultrasound Acoustic Pressure and Bioheat Transfer Modeling. In: 20th Brazilian Congress of Thermal Sciences and Engineering, 2024, Foz do Iguaçu. Proceedings of the 20th Brazilian Congress of Thermal Sciences and Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LISBOA, K. M. ; PACHECO, C. C. . IN-SITU ESTIMATION OF CALORIMETRIC CURVES OF PHASE CHANGE MATERIALS. In: 20th Brazilian Congress of Thermal Sciences and Engineering, 2024, Foz do Iguaçu. Proceedings of the 20th Brazilian Congress of Thermal Sciences and Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "EGGER, V. F. ; PACHECO, C. C. ; SPHAIER, L. A. . Symbolic Regression Applied to Regenerative Heat Exchanger. In: 20th Brazilian Congress of Thermal Sciences and Engineering, 2024, Foz do Iguaçu. Proceedings of the 20th Brazilian Congress of Thermal Sciences and Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; MCGORON, A. J. ; DULIKRAVICH, G. S. . LASER HEATING OF SPHEROIDS CONTAINING NANOPARTICLES. In: 17th International Heat Transfer Conference, IHTC-17, 2023, Cape Town, South Africa. Proceedings of the 17th International Heat Transfer Conference, IHTC-17, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ANASTACIO, A. S. M. ; PACHECO, C. C. . RECURSIVE HEAT FLUX ESTIMATION IN NONLINEAR HEAT CONDUCTION USING KALMAN FILTER AND KIRCHHOFF TRANSFORM. In: 27th ABCM International Congress of Mechanical Engineering, 2023, Florianópolis. Proceedings of the 27th ABCM International Congress of Mechanical Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, M. A. ; SILVA, J. C. A. ; PACHECO, C. C. ; ALVES, L. S. B. . A COMPARISON BETWEEN SIMILARITY SOLUTION AND DIRECT NUMERICAL SIMULATION OF PLANAR MIXING LAYER. In: 27th ABCM International Congress of Mechanical Engineering, 2023, Florianópolis. Proceedings of the 27th ABCM International Congress of Mechanical Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. . An online database of benchmark problems for verification of inverse problems computer codes. In: International Conference on Inverse Problems in Engineering (ICIPE), 2022, Francavilla Al Mare. Proceedings of the International Conference on Inverse Problems in Engineering (ICIPE), 2022. p. 163-170.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DINIZ, S. B. ; PACHECO, CESAR C. . REAL-TIME ESTIMATION OF THE HEAT TRANSFER COEFFICIENT OF PITOT TUBES UNDERGOING FREEZING. In: ICHMT International Symposium on Advances in Computational Heat Transfer, 2021, Rio de Janeiro (Virtual). Proceedings of CHT-21 - ICHMT International Symposium on Advances in Computational Heat Transfer, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "EGGER, V. F. ; PACHECO, C. C. . REAL-TIME ESTIMATION OF A POSITION AND TIME DEPENDENT HIGH MAGNITUDE HEAT FLUX IN A 3D NONLINEAR HEAT CONDUCTION PROBLEM BY UNSCENTED KALMAN FILTER. In: 18th Brazilian Congress of Thermal Sciences and Engineering, 2020, Online. 18th Brazilian Congress of Thermal Sciences and Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "DINIZ, S. B. ; PACHECO, C. C. . REAL-TIME ESTIMATION OF THE AIRSPEED AND THE HEAT TRANSFER COEFFICIENT OF AN AERONAUTICAL PITOT TUBE UNDERGOING ICE ACCRETION. In: 18th Brazilian Congress of Thermal Sciences and Engineering, 2020, Online. 18th Brazilian Congress of Thermal Sciences and Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, R. S. L. ; PACHECO, C. C. . NON-LINEAR PARAMETER ESTIMATION IN DIESEL ENGINE SIMULATION. In: 18th Brazilian Congress of Thermal Sciences and Engineering, 2020, Online. 18th Brazilian Congress of Thermal Sciences and Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGANCA, J. M. B. ; BURGANI, J. L. ; PACHECO, C. C. . INVERSE DESIGN OF HEAT SOURCE PATTERNS FOR TUMOR TREATMENTS VIA HYPERTHERMIA. In: 18th Brazilian Congress of Thermal Sciences and Engineering, 2020, Online. 18th Brazilian Congress of Thermal Sciences and Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, H. M. ; PACHECO, C. C. ; ORLANDE, H. R. B. ; FUDYM, O. ; DULIKRAVICH, G. S. . Experimental Estimation of a Heat Flux Imposed by a Laser Diode with the Steady-State Kalman Filter. In: 3rd Thermal and Fluids Engineering Conference (TFEC), 2018, Fort Lauderdale. 3rd Thermal and Fluids Engineering Conference (TFEC), 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "VERISSIMO, GABRIEL L. ; PACHECO, CÉSAR C. ; COLACO, MARCELO JOSE ; LEIROZ, ALBINO J. K. ; CRUZ, MANUEL ERNANI C. ; SANTOS, H.F.L. ; DEFILIPPO, M. . THREE-DIMENSIONAL NUMERICAL SIMULATIONS OF HELICOIDAL MHD PUMPS. In: International Heat Transfer Conference 16, 2018, Beijing. International Heat Transfer Conference 16. Connecticut: Begellhouse, 2018. p. 5669-7.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1615/IHTC16.mmp.022737"
+        },
+        {
+          "texto": "PACHECO, CÉSAR C. ; ORLANDE, HELCIO R. B. ; COLACO, MARCELO JOSE ; DULIKRAVICH, GEORGE S. ; VARON, LEONARDO A. BERMEO . MAGNETIC RESONANCE THERMOMETRY DURING THE LOCALIZED HEATING OF BIOLOGICAL TISSUES. In: International Heat Transfer Conference 16, 2018, Beijing. International Heat Transfer Conference 16. Connecticut: Begellhouse, 2018. p. 513.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1615/IHTC16.bma.022069"
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; COLAÇO, M. J. ; LEIROZ, A. J. K. ; ESTUMANO, D. C. ; ROCHA, N. ; KHALIL, C. . Thermal Analysis Of The Removal Of Paraffin Blockages In Oil Pipelines Via The Nitrogen Generating System (SGN). In: Proceedings of the 2nd Thermal and Fluid Engineering Conference, TFEC2017, 2017, Las Vegas. Proceedings of the 2nd Thermal and Fluid Engineering Conference, TFEC2017, 2017., 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "REDDY, SOHAIL R. ; ABDOLI, ABAS ; DULIKRAVICH, GEORGE S. ; PACHECO, CESAR C. ; VASQUEZ, GENESIS ; JHA, RAJESH ; COLACO, MARCELO J. ; ORLANDE, HELCIO R. B. . Multi-Objective Optimization of Micro Pin-Fin Arrays for Cooling of High Heat Flux Electronics With a Hot Spot. In: ASME 2015 International Technical Conference and Exhibition on Packaging and Integration of Electronic and Photonic Microsystems collocated with the ASME 2015 13th International Conference on Nanochannels, Microchannels, and Minichannels, 2015, San Francisco. Volume 3: Advanced Fabrication and Manufacturing; Emerging Technology Frontiers; Energy, Health and Water- Applications of Nano-, Micro- and Mini-Scale Devices; MEMS and NEMS; Technology Update Talks; Thermal Management Using Micro Channels, Jets, Sprays. p. V003T10A011.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1115/IPACK2015-48242"
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; ; DULIKRAVICH, G. S. . Identification of a Position and Time Dependent Heat Flux Using the Unscented Kalman Filter in 3D Nonlinear Heat Conduction. In: 14th UK Heat Transfer Conference, 2015, Edinburgo. Proceedings of 14th UK Heat Transfer Conference, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; DULIKRAVICH, G. S. ; VESENJAK, M. ; BOROVINSEK, M. ; DUARTE, I. M. A. ; JHA, R. ; REDDY, S. R. ; ORLANDE, H. R. B. ; . Inverse Parameter Identification in Solid Mechanics Using Bayesian Statistics, Response Surfaces and Minimization. In: 4th International Conference on Material Modeling, 2015, Berkeley. Proceedings of the 4th International Conference on Material Modeling, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; VESENJAK, M. ; BOROVINSEK, M. ; DUARTE, I. ; JHA, R. ; REDDY, S. R. ; DULIKRAVICH, G. S ; ORLANDE, HELCIO R. B. ; COLAÇO, MARCELO J. . Identification of Material Properties Through a Markov Chain Monte Carlo Technique and a Response Surface Approximation. In: 23rd ABCM International Congress of Mechanical Engineering, 2015, Rio de Janeiro. Proceedings of 23rd ABCM International Congress of Mechanical Engineering, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; ; DULIKRAVICH, G. S. . Identification of a Position and Time Dependent Heat Flux Using the Kalman Filter and Improved Lumped Analysis in Heat Conductio. In: 5th International Conference on Computational Methods (ICCM2014), 2014, Cambridge. Proceedings of 5th International Conference on Computational Methods (ICCM2014), 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, H. R. B. ; ; DULIKRAVICH, G. S. . Estimation of a Spatial and Time Dependent High Magnitude Heat Flux Using the Kalman Filter. In: 15th Brazilian Congress of Thermal Sciences and Engineering, 2014, Belém. Proceedings of 15th Brazilian Congress of Thermal Sciences and Engineering, 2014.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, HELCIO R. B. ; COLAÇO, MARCELO J. ; DULIKRAVICH, GEORGE S. . State Estimation Problems in PRF-Shift Magnetic Resonance Thermometry. In: Fourth International Conference on Computational Methods for Thermal Problems (THERMACOMP2016), 2016, Atlanta. Proceedings of the Fourth International Conference on Computational Methods for Thermal Problems (THERMACOMP2016), 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; LEIROZ, A. J. K. . Recuperação e Teste de um Dinamômetro para Ensaio de Motores de Combustão Interna a Biocombustíveis. In: Reunião Anual de Avaliação dos PRHs / ANP, 2011, Florianópolis. Reunião Anual de Avaliação dos PRHs / ANP, 2011.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "PACHECO, C. C. . Inverse Problems and Optimization in Science and Engineering. 2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "PACHECO, C. C. ; ORLANDE, HELCIO R. B. . Tutorial 14: On the use of the Approximation Error Model Approach in Inverse Problems. 2023. (Curso de curta duração ministrado/Outra).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, H. M. ; PACHECO, C. C. ; SILVA, W. B. ; DUTRA, J. C. S. . Kalman Particle Filters. 2017. (Curso de curta duração ministrado/Outra).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. . Introdução ao Fortran com Aplicações em Linux. 2016. (Curso de curta duração ministrado/Outra).",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "SPHAIER, L. A.; PINHEIRO, I. F.; PACHECO, C. C. ; CHALHUB, D. J. N. M.. Participação em banca de Ana Carolina Loureiro Boavista Lustosa. Modelo Simples para o Armazenamento de Hidrogênio via Adsorção Física. 2024. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COLAÇO, M. J.; ABREU, L. A. S.; ORLANDE, H. R. B.; PACHECO, C. C. . Participação em banca de Cairo Martins Ximenes. INVERSE THERMAL CONTACT CONDUCTANCE ESTIMATES VIA OPTIMIZATION METHODS. 2024. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; PACHECO, C. C. ; KARAGOZIAN, A. R.. Participação em banca de DAVI SAADI DE ALMEIDA LETTIERI. MODELING OF PERIODIC NONLINEAR DYNAMICS USING UNDER-SAMPLED DATA-DRIVEN SYMBOLIC REGRESSION. 2024. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LISBOA, K. M.; PACHECO, C. C. ; JIAN, S.. Participação em banca de DANIEL RUBANO BARRETTO TURCI. THERMODYNAMIC ANALYSIS OF AN ORGANIC RANKINE CYCLE INTEGRATED WITH LATENT HEAT STORAGE HARNESSING SOLAR THERMAL ENERGY FOR POWER GENERATION. 2023. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; PINHEIRO, I. F.; PACHECO, C. C. ; CHALHUB, D. J. N. M.. Participação em banca de JAEL YANKSON OFORI. TRANSIENT ONE-DIMENSIONAL HEAT AND MASS TRANSFER MODELS FOR AIR DEHUMIDIFICATION USING SOLID DESICCANTS. 2023. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "HENRIQUES, I. B.; MAGALHAES, E. S.; MACHADO, H. A.; RIBEIRO, G. B.; PACHECO, C. C. . Participação em banca de LUIZ EDUARDO SILVA RESENDE. ESTIMAÇÃO DE RESISTÊNCIAS TÉRMICAS DE CONTATO EM SISTEMAS EMBARCADOS VIA REGULARIZAÇÃO POR TEMPOS FUTUROS. 2023. Dissertação (Mestrado em Engenharia Aeronâutica e Mecânica) - Instituto Tecnológico de Aeronáutica.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COLACO, MARCELO J.; VERISSIMO, GABRIEL L.; NICKELE, A. O.; PACHECO, C. C. . Participação em banca de Tomás Suguinoshita Quirino. Análise Numérica de um Gerador MagnetoHidrodinâmico com Geometria Helicoidal. 2022. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; PACHECO, C. C. ; WOLF, W. R.. Participação em banca de MATEUS SANGLARD SCHUABB NUNES. GENERATION OF STEADY-STATES FOR STATIONARY AND CONVECTIVELY UNSTABLE FLOWS USING THE FREQUENCY DISPLACEMENT PROCEDURE. 2021. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; PACHECO, C. C. ; OLIVEIRA, R. M.. Participação em banca de EDUARDO VILLELA MACHADO DOS REIS. INSTABILIDADE LINEAR MODAL E NÃO-MODAL DE POISEUILLE-BÉNARD-MARANGONI INDUZIDA POR DISSIPAÇÃO VISCOSA. 2019. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KANIZAWA, F. T.; PACHECO, CESAR C. ; PAULA, I. B.. Participação em banca de Marta Ferreira Lemos. Avaliação Experimental do Perfil de Velocidade Durante Escoamento Gás-Líquido em Canais Horizontais. 2018. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "SPHAIER, L. A.; PACHECO, C. C. ; PINHEIRO, I. F.; VERISSIMO, G. L.; QUARESMA, J. N. N.. Participação em banca de YORK CASTILLO SANTIAGO. ANÁLISE TEÓRICA-EXPERIMENTAL DE PROCESSOS DE CONVERSÃO TERMOQUÍMICA OPERANDO COM BORRA DE PETRÓLEO E BIOMASSA. 2024. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; CHALHUB, D. J. N. M.; LISBOA, K. M.; PACHECO, C. C. ; MANGIAVACCHI, N.; QUARESMA, J. N. N.. Participação em banca de Nelson Rodrigues Braga Junior. SOLUÇÃO DE PROBLEMAS DE GRAETZ ESTENDIDOS UTILIZANDO A TÉCNICA DA TRANSFORMADA INTEGRAL GENERALIZADA. 2024. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; PACHECO, C. C. ; KANIZAWA, F. T.; PAULA, I. B.; NAVEIRA-COTTA, C. P.. Participação em banca de SAMUEL MOREIRA DUARTE SANTOS. MODELAGEM E SIMULAÇÃO DA CONVECÇÃO FORÇADA EM CANAIS DE REGENERADORES DE CALOR E MASSA. 2019. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; ALVES, L. S. B.; PACHECO, C. C. ; KNUPP, D. C.; COTTA, R. M.. Participação em banca de Isabela Florindo Pinheiro. INTEGRAL TRANSFORM SOLUTIONS IN HEAT AND FLUID FLOW: NOVEL APPLICATIONS & ADVANCEMENT OF THE TECHNIQUE. 2019. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "SPHAIER, L. A.; PACHECO, C. C. ; SOARES, A. V. H.; QUARESMA, J. N. N.. Participação em banca de York Castillo Santiago. ANÁLISE DA TRANSFERÊNCIA DE CALOR E MASSA E CINÉTICA QUÍMICA NA GASEIFICAÇÃO DE BORRA DE PETRÓLEO. 2023. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; KANIZAWA, F. T.; PACHECO, C. C. ; LISBOA, K. M.. Participação em banca de NELSON RODRIGUES BRAGA JUNIOR. RESOLUÇÃO DO PROBLEMA DE GRAETZ ESTENDIDO UTILIZANDO A TÉCNICA DA TRANSFORMADA INTEGRAL GENERALIZADA. 2020. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COLACO, MARCELO J.; LEIROZ, ALBINO J. K.; CRUZ, MANUEL ERNANI C.; ANJOS, G. R.; PACHECO, C. C. ; MORICONI, L.. Participação em banca de Marcus Godolphim de Castro Neves. SIMULAÇÃO NUMÉRICA DE CHAMAS DIFUSIVAS LAMINARES SOB INFLUÊNCIA DE CAMPOS MAGNÉTICOS. 2019. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; ALVES, L. S. B.; PACHECO, C. C. ; KNUPP, D. C.; COTTA, R. M.. Participação em banca de Isabela Florindo Pinheiro. INTEGRAL TRANSFORM SOLUTIONS IN HEAT AND FLUID FLOW: NOVEL APPLICATIONS & ADVANCEMENT OF THE TECHNIQUE. 2019. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "LISBOA, K. M.; PACHECO, C. C. ; PINHEIRO, I. F.. Participação em banca de CAIO ELLER BAENA.DESENVOLVIMENTO E IMPLEMENTAÇÃO COMPUTACIONAL DE MODELO DE TRANSFERÊNCIA DE CALOR POR CONDUÇÃO EM SONDAS PITOT AERONÁUTICAS. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LISBOA, K. M.; PINHEIRO, I. F.; PACHECO, C. C. . Participação em banca de Angela Ferreira Barros e Leonardo de Britto Vianna Ferreira.Projeto de um sistema de dessalinização de água usando destilação por membranas com vão de ar. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; SPHAIER, L. A.; PACHECO, C. C. . Participação em banca de Daniel Siqueira Cormack.Análise comparativa de métodos WENO de alta ordem de captura de choque em escoamento supersônico bidimensional ao redor do cilindro. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "VERISSIMO, G. L.; LEIROZ, A. J. K.; PACHECO, C. C. . Participação em banca de Igor Gambardella Duarte.ANÁLISE TERMODINÂMICA DE CICLOS DE REFRIGERAÇÃO CASCATA PARA ULTRAFREEZERS. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; NUNES, L. C. S.; CONCI, A.; PACHECO, C. C. . Participação em banca de Fernanda Spilotros Costa Cordeiro.AVALIAÇÃO DO IMPACTO DE DIFERENTES TÉCNICAS DE PROCESSAMENTO DE IMAGEM NA DECOMPOSIÇÃO MODAL DE DADOS EXPERIMENTAIS DE CHAMAS DIFUSIVAS FORÇADAS DE JATOS DE METANO. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PINHEIRO, I. F.; LISBOA, K. M.; PACHECO, C. C. . Participação em banca de Mateus Zuma Medeiros Bria.Análise experimental e numérica de sistemas de resfriamento de eletrônicos convencionais e combinados. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PINHEIRO, I. F.; PACHECO, C. C. ; LISBOA, K. M.. Participação em banca de Bruno Padilha Delfraro de Oliveira.Análise teórica e modelagem numérica de sistemas de armazenagem térmica com materiais de mudança de fase.. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KANIZAWA, F. T.; PACHECO, C. C. ; CONSTANTINO, M. C.. Participação em banca de Guilherme Lima Reis.Modelagem e Análise de um Ciclo de Refrigeração por Absorção. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "LACERDA, C. R.; LIMA, B. S. J.; PACHECO, C. C. . Participação em banca de Helen Cardoso Barcelos.Teorema de Pitágoras: Uma Proposta para Sala de Aula. 2020. Trabalho de Conclusão de Curso (Graduação em Matemática - Licenciatura Ou Bacharelado) - Universidade Federal Rural do Rio de Janeiro.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; SANTOS, R. D.; SPHAIER, L. A.; PACHECO, C. C. . Participação em banca de RODRIGO TAVARES VELOSO.ANÁLISE COMPARATIVA ENTRE MÉTODOS DE GERAÇÃO DE REGIME PERMANENTE. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KANIZAWA, F. T.; PACHECO, CESAR C. ; SANTANA, R. M.. Participação em banca de Wallace Luiz Torres Costa.Dimensionamento de Câmara fria para lojas de conveniência de Postos de combustível. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KANIZAWA, F. T.; SILVA, J. D.; PACHECO, CESAR C. . Participação em banca de Rian Maurício Santana.Desenvolvimento de medidor de vazão para minicanais. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KANIZAWA, F. T.; SILVA, J. D.; PACHECO, CESAR C. . Participação em banca de Matheus Coitinho Constantino.Controle Térmico de Granja. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SPHAIER, L. A.; KANIZAWA, F. T.; PACHECO, CESAR C. . Participação em banca de Rômulo André Hiath Bezerra Cardoso.Projeto de Câmara Fria Compacta para Ponto de Venda de Cerveja Armazenada em Barris. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FRANCA, B. W.; BORBA, B. S. M. C.; PACHECO, CESAR C. ; SILVA, L. F.. Participação em banca de Paola Brandão Ornelas Canuto.Dimensionamento e Otimização do Sistema de Tração Elétrica para Protótipo de Fórmula SAE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "PACHECO, C. C. ; LISBOA, K. M.; CHALHUB, D. J. N. M.; MEDEIROS, M. A. F.; FRANCA, F. H. R.. Concurso Público para Professor 40hDE, área \"Mecânica dos Fluidos e Ciências Térmicas\". 2024. Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L. H.; MURAD, M.; PACHECO, C. C. . Concurso Público para Provimento do Cargo de Professor Adjunto na Área de Fenômenos de Transporte. 2024. Universidade do Estado do Rio de Janeiro.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; LISBOA, K. M.; MANGIAVACCHI, N.; RIBATSKI, G.; WOLF, W.. Concurso Público para Professor 40HDE na área de TERMOCIÊNCIAS. 2023. Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, C. C. ; CATALDI, M.; CARVALHO, M. S.; HERMES, C. J. L.; PONTES, J. R. M.. Concurso Público para Professor 40HDE na área de TERMOCIÊNCIAS. 2019. Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, L. S. B.; PACHECO, C. C. ; BANDARRA FILHO, E. P.; SILVA NETO, A. J.; ANJOS, G. R.. Concurso Público para Professor 20H na área de TERMOCIÊNCIAS. 2019. Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,478 @@
+{
+  "name": "Julio Augusto Druzina Massignan",
+  "lattes_id": "4646337804759051",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "DE MELO, VITOR H.P. ; HEBLING, Gustavo M. ; MASSIGNAN, JULIO A.D. ; JR, JOÃO B.A. LONDON . Enhancing performance of state estimation algorithms with FACTS. ELECTRIC POWER SYSTEMS RESEARCH , v. 246, p. 111641, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2025.111641"
+        },
+        {
+          "texto": "SAMPAIO PINTO, MIGUEL F. M. ; DE MELO, VITOR H. P. ; MASSIGNAN, JULIO A. D. ; PEREIRA, BENVINDO R. ; LONDON, JOÃO B. A. . Improving Distribution System State Estimation by Including Volt-Var Control Information. Journal Of Control Automation And Electrical Systems , v. 35, p. 899-908, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40313-024-01114-9"
+        },
+        {
+          "texto": "DE MELO, VITOR H. P. ; MASSIGNAN, JULIO A. D. ; LONDON JR, JOÃO B. A. . Angular Reference Problem for Three-Phase Distribution System State Estimation. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 39, p. 1-11, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2023.3321700"
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; LONDON, JOAO B. A. ; BESSANI, MICHEL ; MACIEL, CARLOS D. ; FANNUCCHI, RODRIGO Z. ; MIRANDA, VLADIMIRO . Bayesian Inference Approach for Information Fusion in Distribution System State Estimation. IEEE Transactions on Smart Grid , v. 13, p. 526-540, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tsg.2021.3128053"
+        },
+        {
+          "texto": "FOGLIATTO, M.S.S. ; CAETANO, H.O. ; DESUÓ N., L. ; MASSIGNAN, J.A.D. ; FANUCCHI, R.Z. ; LONDON, J.B.A. ; PEREIRA, B.R. ; BESSANI, M. ; MACIEL, C.D. . Power distribution system interruption duration model using reliability analysis regression. ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108193, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108193"
+        },
+        {
+          "texto": "DE MELO, VITOR H.P. ; LONDON, JOÃO B.A. ; MASSIGNAN, JULIO A.D. . Distribution System State Estimation Algorithm with Improved Angular Reference Treatment. ELECTRIC POWER SYSTEMS RESEARCH , v. 212, p. 108572, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108572"
+        },
+        {
+          "texto": "BRETAS, ARTURO S. ; BRETAS, NEWTON G. ; MASSIGNAN, JULIO A. D. ; LONDON JUNIOR, JOÃO B. A. . Hybrid Physics-Based Adaptive Kalman Filter State Estimation Framework. Energies , v. 14, p. 6787, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/en14206787"
+        },
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, JULIO A.D. ; LONDON JUNIOR, JOÃO B.A. ; CAMILLO, MARCOS H.M. . Sparse and numerically stable implementation of a distribution system state estimation based on Multifrontal QR factorization. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106734, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106734"
+        },
+        {
+          "texto": "BESSANI, MICHEL ; MASSIGNAN, JULIO A.D. ; SANTOS, TALYSSON M.O. ; LONDON, JOÃO B.A. ; MACIEL, CARLOS D. . Multiple households very short-term load forecasting using bayesian networks. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106733, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106733"
+        },
+        {
+          "texto": "A. D. MASSIGNAN, JULIO ; B. A. LONDON JR., JO' ; MIRANDA, VLADIMIRO . Tracking Power System State Evolution with Maximum-correntropy-based Extended Kalman Filter. Journal of Modern Power Systems and Clean Energy , v. 8, p. 616-626, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.35833/mpce.2020.000122"
+        },
+        {
+          "texto": "BESSANI, M. ; MASSIGNAN, J. A. D. ; FANUCCHI, RODRIGO Z. ; CAMILLO, MARCOS H. M. ; LONDON, JOAO B. A. ; DELBEM, ALEXANDRE C. B. ; MACIEL, CARLOS D. . Probabilistic Assessment of Power Distribution Systems Resilience Under Extreme Weather. IEEE Systems Journal , v. 13, p. 1747-1756, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/JSYST.2018.2853554"
+        },
+        {
+          "texto": "VIGLIASSI, MARCOS PAULO ; MASSIGNAN, JULIO A.D. ; DELBEM, ALEXANDRE CLÁUDIO B. ; LONDON, JOÃO BOSCO A. . Multi-objective evolutionary algorithm in tables for placement of SCADA and PMU considering the concept of Pareto Frontier. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 106, p. 373-382, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2018.10.026"
+        },
+        {
+          "texto": "MASSIGNAN, JULIO AUGUSTO DRUZINA ; LONDON, JOAO BOSCO AUGUSTO ; BESSANI, MICHEL ; MACIEL, CARLOS DIAS ; DELBEM, ALEXANDRE CLAUDIO BOTAZZO ; CAMILLO, MARCOS HENRIQUE MARCAL ; DE LIMA SOARES, TELMA WOERLE . In-Field Validation of a Real-Time Monitoring Tool for Distribution Feeders. IEEE TRANSACTIONS ON POWER DELIVERY , v. 33, p. 1798-1808, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2017.2785044"
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; PEREIRA, BENVINDO R. ; LONDON, JOAO BOSCO A. . Load Flow Calculation with Voltage Regulators Bidirectional Mode and Distributed Generation. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 32, p. 1-1, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2016.2576679"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "MASSIGNAN, J. A. D. ; ; PAU, M. ; PEGORARO, P. A. . Multiarea state estimation for distribution systems. In: Elizete Maria Lourenço; João Bosco Augusto London Junior. (Org.). Power Distribution System State Estimation. 1ed.: Institution of Engineering and Technology (IET), 2022, v. , p. 239-278.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1049/PBPO183E_ch10"
+        },
+        {
+          "texto": "Bosco Augusto London Junior, João ; Druzina Massignan, Julio Augusto ; Ramos Fernandes, José Paulo ; Pereira de Melo, Vitor Henrique ; Marçal Camillo, Marcos Henrique ; FANUCCHI, RODRIGO ZEMPULSKI ; Lourenço, Elizete Maria . Real-time monitoring of distribution systems: Brazilian experience. Power Distribution System State Estimation. 1ed.: Institution of Engineering and Technology, 2022, v. , p. 5-27.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1049/PBPO183E_ch2"
+        },
+        {
+          "texto": "Druzina Massignan, Julio Augusto ; Bosco Augusto London Junior, João ; Hebling, Gustavo Miranda ; Lourenço, Elizete Maria ; Portelinha, Renan Kovalczuk ; Tortelli, Odilon Luis . Three-phase network model for steady-state analysis of distribution systems. Power Distribution System State Estimation. 1ed.: Institution of Engineering and Technology, 2022, v. , p. 67-108.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1049/PBPO183E_ch4"
+        },
+        {
+          "texto": "Mohammed Manaz, Mohammed Ansar ; Lin, Yu-Jen ; Wang, Shao-Jie ; Bosco Augusto London Junior, João ; Druzina Massignan, Julio Augusto ; Lu, Chan-Nan . Including synchronized and non-synchronized measurements with different sample rates in distribution system state estimation. Power Distribution System State Estimation. 1ed.: Institution of Engineering and Technology, 2022, v. , p. 279-317.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1049/PBPO183E_ch11"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, JULIO A. D. ; DE MELO, VITOR H. P. ; LONDON, JOAO B. A. . Performance and Accuracy Evaluation of Distribution System State Estimators. In: 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2025, Valletta. 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/isgteurope64741.2025.11305452"
+        },
+        {
+          "texto": "DE MELO, VITOR H. P. ; HEBLING, Gustavo M. ; MASSIGNAN, JULIO A. D. ; LONDON, JOAO B. A. . Hybrid State Estimation for Networks with FACTS via Bayesian Inference. In: 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2025, Valletta. 2025 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/isgteurope64741.2025.11305470"
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; QIU, T. ; RAGHUNATHAN, A. ; RAJARAMAN, B. ; MANSINGH, A. ; TEROVIC, A. ; KANDYBENKO, A. ; RAHMAN, K. A. . Reliability Meets Efficiency: Simultaneous Maintenance and Generation Scheduling with Integrated Optimal Outage Coordination. In: CIGRE Canada Conference & Exposition, 2024, Winipeg. 2024 CIGRE Canada Conference & Exposition, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; HEBLING, Gustavo M. ; HAAS, P. ; RAJARAMAN, B. ; MANSINGH, A. . Volatilidade de Renováveis na Operação em Tempo Real: Experiência Internacional na Quantificação de Incertezas para Otimização de Rampa Flexível. In: CIGRE Encontro para Debates de Assuntos da Operação, 2024, Florianópolis. Anais do CIGRE Encontro para Debates de Assuntos da Operação (EDAO), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; HEBLING, Gustavo M. ; RAGHUNATHAN, A. ; RAJARAMAN, B. ; MANSINGH, A. ; WAN, Y. ; DAI, C. ; ZHOU, H. ; RAHMAN, K. A. . Taming Uncertainties from Renewable Resources: Industry Experience on Data-Driven Models for Flexibility Markets. In: CIGRE Canada Conference & Exposition, 2023, Vancouver. 2023 CIGRE Canada Conference & Exposition, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DE OLIVEIRA, LUIZ EDUARDO ; VILAÇA, PHILLIPE ; SARAIVA, JOÃO TOMÉ ; MASSIGNAN, JULIO A. D. . Cascade Failures Analyses Improving Resilience on Transmission Expansion Planning. In: 2023 IEEE Belgrade PowerTech, 2023, Belgrade. 2023 IEEE Belgrade PowerTech, 2023. p. 01.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/PowerTech55446.2023.10202961"
+        },
+        {
+          "texto": "OLIVEIRA, LUIZ EDUARDO DE ; SARAIVA, JOAO TOME ; MASSIGNAN, JULIO A. D. ; GOMES, PHILLIPE V. . Integration of Business Climate Resilience on the Transmission Expansion Planning Over the Low-Carbon Energy Transition. In: 2022 18th International Conference on the European Energy Market (EEM), 2022, Ljubljana. 2022 18th International Conference on the European Energy Market (EEM), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/EEM54602.2022.9921128"
+        },
+        {
+          "texto": "CAMOES, FRANCISCO ; MASSIGNAN, JULIO A. D. ; MIRANDA, VLADIMIRO ; LONDON, JOAO B. A. . Sliding-Priors for Bayesian Information Fusion in SCADA+PMU-based State Estimation. In: 2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2022, Manchester. 2022 17th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/PMAPS53380.2022.9810558"
+        },
+        {
+          "texto": "FERNANDES, J. P. R. ; CARVALHO, E. O. P. ; MASSIGNAN, JULIO A. D. ; . Pré-processamento de medidas para estimação de estado em condições adversas de monitoramento. In: XXIV Congresso Brasileiro de Automática, 2022, Fortaleza. XXIV Congresso Brasileiro de Automática, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SAMPAIO PINTO, MIGUEL F. M. ; MASSIGNAN, JULIO A. D. ; PEREIRA JR, B. R. ; . Estudo de Convergência de Fluxo de Potência em Função da Modelagem Volt-Var. In: XXIV Congresso Brasileiro de Automática, 2022, Fortaleza. XXIV Congresso Brasileiro de Automática, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, J. P. R. ; MASSIGNAN, JULIO A. D. ; ; FANUCCHI, R. Z. . Nowcasting de Demanda para operação de Sistemas de Distribuição em tempo real.. In: 26º Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. 26º Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MELO, V. H. P. ; MASSIGNAN, J. A. D. ; FANUCCHI, RODRIGO Z. ; LONDON, JOÃO B.A. . Estimation of Voltage Unbalance at the Reference Bus in Distribution System State Estimation. In: IEEE Power Tech 2021, 2021, Madrid. IEEE Power Tech 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, J. A. D. ; OLIVEIRA, R. ; LONDON, JOÃO BOSCO A. . Sparse and Orthogonal Method for Fast Bad Data Processing in Distribution System State Estimation. In: IEEE Power Tech 2021, 2021, Madrid. IEEE Power Tech 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, J. P. R. ; MASSIGNAN, J. A. D. ; FANUCCHI, RODRIGO Z. ; LONDON, JOÃO B.A. . Very Short-Term Current and Load Forecasting for Distribution Systems in Data Constrained Situations. In: IEEE Power Tech 2021, 2021, Madrid. IEEE Power Tech 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; ; MIRANDA, VLADIMIRO . Vulnerability of Largest Normalized Residual Test and b-test to Gross Errors. In: IEEE Power & Energy Society General Meeting, 2020, Montreal. IEEE Power & Energy Society General Meeting, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; MELO, V. H. P. ; LONDON JR, J. B. A. . Efeitos Não-Lineares na Redundância em Estimadores de Estado para Sistemas Elétricos de Potência. In: XXIII Congresso Brasileiro de Automática, 2020, Porto Alegre. Anais do XXIII Congresso Brasileiro de Automática, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; OLIVEIRA, R. ; HEBLING, Gustavo M. ; LONDON JR, J. B. A. . Aplicação de Métodos Ortogonais no Processamento de Erros Grosseiros em Estimadores de Estado para Sistemas de Distribuição. In: XXIII Congresso Brasileiro de Automática, 2020, Porto Alegre. Anais do XXIII Congresso Brasileiro de Automática, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. ; DANTAS, L. B. . Análise de Padrões de Esparsidade e Métodos de Ordenação para Estimação de Estado em Sistemas de Distribuição. In: XXIII Congresso Brasileiro de Automática, 2020, Porto Alegre. Anais do XXIII Congresso Brasileiro de Automática, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, JULIO A. D. ; LONDON, JOAO B. A. ; CAMILLO, MARCOS H. M. . Aplicação de Equivalentes de Rede em Sistemas de Distribuição com Malhas entre Subestações. In: VIII Simpósio Brasileiro de Sistemas Elétricos, 2020, Santo André. Anais do VIII Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; LONDON, JOAO B.A. ; MACIEL, CARLOS D. ; BESSANI, MICHLE ; MIRANDA, VLADIMIRO . PMUs and SCADA Measurements in Power System State Estimation through Bayesian Inference. In: 2019 IEEE Milan PowerTech, 2019, Milan. 2019 IEEE Milan PowerTech, 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/PTC.2019.8810750"
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. ; CAMILLO, MARCOS H. M. ; MIRANDA, V. . Estimação de Estado Multiárea para Monitoramento e Operação Descentralizada de Redes Inteligentes. In: XXV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2019, Belo Horizonte. XXV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "GONZAGA JUNIOR, R. M. ; MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. . Analysis of the Hosting Capacity of a Real Distribution Feeder with Wind Generation. In: IEEE ISGT Innovative Smart Grid Technologies Latin America, 2019, Gramado. IEEE ISGT Innovative Smart Grid Technologies Latin America, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. ; CIRINO, R. B. Z. . Application and Comparison of Numerical Optimization Methods applied to Power System State Estimation. In: XIV Conferência Brasileira de DinÂmica, Controle e Aplicações, 2019, São Carlos. Anais do XIV Conferência Brasileira de DinÂmica, Controle e Aplicações, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "AUGUSTO, K. ; MASSIGNAN, J. A. D. ; GONZAGA JUNIOR, R. M. ; . Estudo de Máxima Penetração de Painéis Fotovoltaicos em um Alimentador Primário de Distribuição de Energia Elétrica. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AVELINO, Luana L. ; MASSIGNAN, J. A. D. ; GONZAGA JUNIOR, R. M. ; ; FERNANDES, J. P. R. . Estimador de Demanda Trifásico em Tempo Real com tratamento para transformadores conectados em Delta-Yn. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AGNOLETTO, E. J. ; NEVES, R. V. A. ; MACHADO, R. Q. ; OLIVEIRA, V. A. ; MASSIGNAN, J. A. D. . Gerenciamento De Energia Para Maximização Do Lucro Diário De Microrredes Com Dispositivos Armazenadores. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "VIGLIASSI, Marcos P. ; SANTOS, A. C. ; MASSIGNAN, J. A. D. ; ; DELBEM, A. C. B. . Estratégia Evolutiva Multiobjetivo Para Alocação De Medidores Scada E Umf Para Estimação De Estado. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GONZAGA JUNIOR, R. M. ; MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. ; MACIEL, C. D. ; ALMEIDA, R. M. A. ; CAMILLO, M. H. M. . An Embedded State Estimator for Reducing Data Volume and Processing in Smart Grids Monitoring. In: 3rd Workshop on Communication Networks and Power Systems, 2018, Brasília. 3rd Workshop on Communication Networks and Power Systems, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; HEBLING, Gustavo M. ; MARQUES, LEANDRO T. ; BESSANI, MICHEL ; MACIEL, CARLOS D. ; LONDON, JOAO B. A. ; CAMILLO, MARCOS H. M. . Modeling issues on load flow calculation for meshed distribution systems. In: 2017 IEEE Manchester PowerTech, 2017, Manchester. 2017 IEEE Manchester PowerTech, 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/ptc.2017.7981154"
+        },
+        {
+          "texto": "BESSANI, MICHEL ; MASSIGNAN, JULIO A. D. ; LONDON, JOAO B. A. ; MACIEL, CARLOS D. ; FANUCCHI, RODRIGO ZEMPULSKI ; CAMILLO, MARCOS H. M. . A hierarchical framework for complex networks robustness analysis to errors. In: 2017 Annual IEEE International Systems Conference (SysCon), 2017, Montreal. 2017 Annual IEEE International Systems Conference (SysCon), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/syscon.2017.7934812"
+        },
+        {
+          "texto": "CAMILLO, MARCOS H. M. ; FANUCCHI, R. Z. ; SOARES, T. W. L. ; SOARES, A. S. ; BESSANI, M. ; MACIEL, C. D. ; MASSIGNAN, JULIO A. D. ; MARQUES, L. T. ; DELBEM, A. C. B. ; LONDON, JOAO B. A. . Detecção, Isolamento, Inspeção e Restabelecimento de Energia em Tempo Real em Sistemas de Distribuição de Larga Escala. In: IX Congresso de Inovação Tecnológica em Energia Elétrica CITENEL, 2017, João Pessoa. Anais do IX Congresso de Inovação Tecnológica em Energia Elétrica (IX CITENEL), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "AVELINO, Luana L. ; MASSIGNAN, JULIO A. D. ; LONDON, JOAO B. A. ; DE OLIVEIRA, ALEXANDRE V. . Application of a three-phase load estimation in a real distribution feeder. In: 2017 IEEE URUCON, 2017, Montevideo. 2017 IEEE URUCON, 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/URUCON.2017.8171876"
+        },
+        {
+          "texto": "CAMILLO, MARCOS H. M. ; DELBEM, A. C. B. ; FANUCCHI, R. Z. ; ROMERO, M. E. V. ; ; MASSIGNAN, J. A. D. ; MARQUES, L. T. ; SOARES, T. W. L. ; SOARES, A. S. ; MACIEL, C. D. ; BESSANI, M. . Determination of Switching Sequence of Service Restoration in Distribution Systems: application and analysis on a real and large-scale radial system. In: 2016 IEEE PES Transmission & Distribution Conference & Exposition, 2016, Dallas. 2016 IEEE PES Transmission & Distribution Conference & Exposition Proceedings, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; FANTIN, CAMILA A. ; LONDON, JOAO B. A. ; CAMILLO, M. H. M. . Estimador de Demanda Trifásico em Tempo Real para Sistemas de Distribuição. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória, ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "HEBLING, Gustavo M. ; MASSIGNAN, JULIO A. D. ; MARQUES, L. T. ; LONDON, JOAO B. A. ; CAMILLO, M. H. M. . Fluxo de Potência em Alimentadores de Distribuição Fracamente Malhados. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória, ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FANTIN, C.A. ; MASSIGNAN, JULIO A. D. ; VIEIRA, Camila S. ; AVELINO, Luana L. ; LONDON, JOAO B. A. ; CAMILLO, M. H. M. . Impacto da Modelagem de Pseudo-Medidas de Carga na Estimação de Estado em Sistemas de Distribuição. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória, ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, Camila S. ; LONDON, JOAO B. A. ; MASSIGNAN, JULIO A. D. . Avaliando o efeito da inclusão de medidas fasoriais sincronizadas para processamento de erros grosseiros através do Índice de Não-Detecção de Erros. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitoria, ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VIGLIASSI, Marcos P. ; LONDON, JOAO B. A. ; DELBEM, A. C. B. ; MASSIGNAN, JULIO A. D. . Algoritmo Evolutivo Multi-Objetivo para Redução de Custos na Alocação de Medidores SCADA E PMU para Efeito de Estimação de Estado. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória, ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; FANTIN, CAMILA A. ; LONDON, JOAO B. A. ; CAMILLO, MARCOS H. M. . Real-time load estimation for distribution feeders. In: 2015 IEEE Eindhoven PowerTech, 2015, Eindhoven. 2015 IEEE Eindhoven PowerTech. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/PTC.2015.7232613"
+        },
+        {
+          "texto": "FANTIN, C.A. ; MASSIGNAN, J. A. D. ; CASTILLO, M. R. ; . Observability, redundancy and gross error processing in state estimation using SCADA and synchronized phasor measurements. In: 2015 IEEE Eindhoven PowerTech, 2015, Eindhoven. 2015 IEEE Eindhoven PowerTech, 2015. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/ptc.2015.7232434"
+        },
+        {
+          "texto": "CAMILLO, M. H. M. ; ROMERO, M. E. V. ; FANUCCHI, R. Z. ; SOARES, T. W. L. ; SOARES, A. S. ; BESSANI, M. ; MACIEL, C. D. ; MASSIGNAN, J. A. D. ; LONDON JR, J. B. A. ; MARQUES, L. T. . Otimização do Processo de Restabelecimento de Energia em Sistemas de Distribuição de Larga Escala. In: Congresso de Inovação Tecnológica em Engenharia Elétrica, 2015, Costa do Sauípe, BA. Congresso de Inovação Tecnológica em Engenharia Elétrica, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; VIEIRA, J. C. M. ; CAMILLO, MARCOS H. M. ; LONDON, JOAO B. A. . Impacto de Geradores Distribuídos na Qualidade de Tensão de Redes de Distribuição Trifásicas Desbalanceadas. In: XI Latin-American Congress on Electricity Generation and Transission, 2015, São José dos Campos, SP. XI Latin-American Congress on Electricity Generation and Transission, 2015.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MASSIGNAN, JULIO A. D. ; PEREIRA, BENVINDO R. ; LONDON, JOAO B. A. . Load flow calculation with voltage regulators bidirectional mode and distributed generation. In: 2017 IEEE Power & Energy Society General Meeting (PESGM), 2017, Chicago. 2017 IEEE Power & Energy Society General Meeting, 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/PESGM.2017.8274286"
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; COSTA, G. R. M. . Estudo do problema de fluxo de carga linearizado. In: 19º Simpósio Internacional de Iniciação Científica, 2011, São Carlos, SP. 19º Simpósio Internacional de Iniciação Científica, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; ANDREETA, M. R. B. ; BERNARDI, M. I. . ESTUDO DA INFLUÊNCIA DO ÍON Gd3+ NO COMPOSTO Y1-xGdxAlO3 (0.0 <= x <= 1.0) POR MEIO DA TÉCNICA DE FUSÃO A LASER. In: 17º Simpósio Internacional de Iniciação Científica, 2009, São Carlos, SP. 17º Simpósio Internacional de Iniciação Científica, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; ANDREETA, M. R. B. . Estudo da Preparação de Cristais do composto Y(1-x)GdxAlO3 por meio da técnica de fusão a laser. In: 16º Simpósio Internacional de Iniciação Científica da USP, 2008, São Paulo, SP. 16º Simpósio Internacional de Iniciação Científica da USP, 2008.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "items": [
+        {
+          "texto": "MONTEIRO, A. L. ; MELO, V. H. P. ; RIVEROS, J. E. ; HEBLING, G. M. ; MASSIGNAN, J. A. D. ; COSTA, A. J. A. S. ; LONDON, J.B.A. . A Review of Non-Quadratic Objective Functions in Power System State Estimation. Journal of Modern Power Systems and Clean Energy , 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.35833/MPCE.2025.000835"
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "; MASSIGNAN, J. A. D. ; MELO, V. H. P. ; RONDON, G. S. P. ; OLIVEIRA, C. G. R. ; RIVEROS, J. A. E. . Estudos Especializados com Vistas a Validação e Calibração de Modelos de Carga e MMGD do SIN Baseadas em Medidas. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; MASSIGNAN, J. A. D. ; MELO, V. H. P. ; COSTA, A. J. A. S. ; RONDON, G. S. P. . Consultoria técnica para Alocação Ótima de Unidades de Medição Fasorial no SIN. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; MASSIGNAN, J. A. D. ; MELO, V. H. P. ; COSTA, A. J. A. S. ; LOURENCO, E. M. ; ALMEIDA, M. C. . Consultoria técnica para Evolução do Estimador de Estado Reger disponível no ONS. 2021.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "ALMEIDA, M. C.; MASSIGNAN, J. A. D. ; FERNANDES, T. R.; ARIOLI, F. C. T.; ASADA, E. N.. Participação em banca de Luis Fernando Ugarte Vega. Estimação de Estado de Rastreamento baseada na Matriz Admitância dedicado a Redes de Distribuição Ativas. 2024 - Universidade Estadual de Campinas.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. J. A. S.; ASADA, E. N.; MASSIGNAN, J. A. D. ; SALGADO, R. S.; ALMEIDA, K. C.. Participação em banca de Larah Brüning Ascari. Fusão de Estimativas Resiliente a Erros Grosseiros baseada no Critério de Máxima Correntropia com Aplicação na Estimação de Estados Híbrida em Sistemas Elétricos de Potência. 2022 - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "ALMEIDA, M. C.; LOURENCO, E. M.; MASSIGNAN, J. A. D. . Participação em banca de Luis Fernando Ugarte Vega. Admittance Matrix Based Forecasting-Aided State Estimation Applied to Active Distribution Networks. 2021. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "ALMEIDA, M. C.; ARIOLI, F. C. T.; MASSIGNAN, J. A. D. . Participação em banca de Diana Isabel Montenegro Curillo. Enhancing Fault Location Using Admittance Matrix Based State Estimation Through Measurement Weighting and Efficient Fault Search. 2026. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; MASSIGNAN, J. A. D. ; Portelinha, Renan Kovalczuk. Participação em banca de Lais Cristina de Oliveira. Influência da Correlação de Medidas no Processo de Estimação de Estado em Sistemas Elétricos de Potência. 2022 - Universidade de São Paulo.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MASSIGNAN, J. A. D. ; SANTOS, G. H. P.; CARI, E. P. T.. Participação em banca de Bruno Sanches Fioravante e Pedro Frizzo de Moura.Development of a Software to Estimate Parameters of Electrical Machines via Sudden Short-circuit, Voltage Recovery and Load Rejection Tests. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA JR, B. R.; MASSIGNAN, J. A. D. ; LAGE, G. G.. Participação em banca de Guilherme Shinji Nakamine.Desenvolvimento de uma ferramenta para a parametrização de religadores em sistemas de distribuição de energia elétrica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; GROSS, T. J.; MACIEL, CARLOS D.. Participação em banca de Bruno Suguimoto Iwami.Advertising em Bluetooth Low Energy. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; GROSS, T. J.; MACIEL, CARLOS D.. Participação em banca de Rafael Silva Montes.Tecnologias Blockchain e RFID aplicados na automação comercial. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Eletrônica) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; GROSS, T. J.; MACIEL, CARLOS D.. Participação em banca de Marcelo Peres Toi.Comunicação por voz com servidores utilizando Alexa implementada em Raspberry Pi. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Eletrônica) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MASSIGNAN, J. A. D. ; LONDON, JOÃO B.A.; ANGELOS, E. W. S.. Participação em banca de Gustavo Miranda Hebling.Cálculo de fluxo de potência em redes de distribuição malhadas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "LONDON, JOAO B. A.; MASSIGNAN, JULIO A. D. ; OLIVEIRA, Alexandre V.. Participação em banca de Kaê Augusto.Análise da introdução de painéis fotovoltaicos em um alimentador real de distribuição de energia elétrica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, J. C. M.; MASSIGNAN, JULIO A. D. ; VITOR, Tiago S.. Participação em banca de Renê Bonfá.A contribuição da microgeração distribuída para as correntes de curto-circuito e os possíveis impactos no sistema de distribuição. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FLAUZINO, Rogério A.; MASSIGNAN, JULIO A. D. ; ARANA, E.. Participação em banca de Flávio Augusto dos Santos Pontes.Estimação de parâmetros de linhas de transmissão a partir de medições nos terminais. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "LONDON, JOAO B. A.; MASSIGNAN, JULIO A. D. ; MARQUES, LEANDRO T.. Participação em banca de Gustavo Ramos de Paula.Modelagem e análise estática de um alimentador real da CPFL Paulista. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, J. C. M.; MASSIGNAN, JULIO A. D. ; BREDA, Jader F. D.. Participação em banca de Muirlo Portela Ribeiro.Análise e ajuste das proteções de geradores síncronos distribuídos visando a operação ilhada. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica - Ênfase em Sistemas de Energia e Automação) - Universidade de São Paulo.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

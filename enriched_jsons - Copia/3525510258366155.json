@@ -1,0 +1,2670 @@
+{
+  "name": "Lina Maria Garcés Rodríguez",
+  "lattes_id": "3525510258366155",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "TASIS: A typology of architectural strategies for interoperability in software-intensive systems",
+          "autores": "VALLE, P. H. D. ; TONON, VITOR RODRIGUES ; GARCÉS, L. M. ; REZENDE, SOLANGE OLIVEIRA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "COMPUTER STANDARDS & INTERFACES , v. 91, p. 103874, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.csi.2024.103874",
+          "citacao_completa": "VALLE, P. H. D. ; TONON, VITOR RODRIGUES ; GARCÉS, L. M. ; REZENDE, SOLANGE OLIVEIRA ; NAKAGAWA, ELISA YUMI . TASIS: A typology of architectural strategies for interoperability in software-intensive systems. COMPUTER STANDARDS & INTERFACES , v. 91, p. 103874, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "MPS Manager: A Serious Game to Enhance Teaching on Software Development Process Quality",
+          "autores": "AGUALUZA, I. R. ; MELO, S. M. ; GARCÉS, LINA ; NEVES, V. O.",
+          "periodico": "INFORMATICS IN EDUCATION , p. 223-260, 2025.",
+          "doi": "http://dx.doi.org/10.15388/infedu.2025.11",
+          "citacao_completa": "AGUALUZA, I. R. ; MELO, S. M. ; GARCÉS, LINA ; NEVES, V. O. . MPS Manager: A Serious Game to Enhance Teaching on Software Development Process Quality. INFORMATICS IN EDUCATION , p. 223-260, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Real-World Cases in Software Architecture Education: An Experience Report",
+          "autores": "OLIVEIRA, B. R. N. ; GARCÉS, LINA ; SANTOS, DANIEL ; GALSTER, M. ; NAKAGAWA, ELISA Y.",
+          "periodico": "IEEE TRANSACTIONS ON EDUCATION , v. 12, p. 1-9, 2025.",
+          "doi": "http://dx.doi.org/10.1109/TE.2025.3633160",
+          "citacao_completa": "OLIVEIRA, B. R. N. ; GARCÉS, LINA ; SANTOS, DANIEL ; GALSTER, M. ; NAKAGAWA, ELISA Y. . Real-World Cases in Software Architecture Education: An Experience Report. IEEE TRANSACTIONS ON EDUCATION , v. 12, p. 1-9, 2025."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Dynamic Testing Techniques of Non-Functional Requirements in Mobile Apps: A Systematic Mapping Study",
+          "autores": "JÚNIOR, MISAEL C. ; AMALFITANO, DOMENICO ; GARCÉS, LINA ; FASOLINO, ANNA RITA ; ANDRADE, STEVÃO A. ; DELAMARO, MÁRCIO",
+          "periodico": "ACM COMPUTING SURVEYS , v. jan, p. 3507903, 2022.",
+          "doi": "http://dx.doi.org/10.1145/3507903",
+          "citacao_completa": "JÚNIOR, MISAEL C. ; AMALFITANO, DOMENICO ; GARCÉS, LINA ; FASOLINO, ANNA RITA ; ANDRADE, STEVÃO A. ; DELAMARO, MÁRCIO . Dynamic Testing Techniques of Non-Functional Requirements in Mobile Apps: A Systematic Mapping Study. ACM COMPUTING SURVEYS , v. jan, p. 3507903, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Integrated Operating Room: A Systematic Mapping Review",
+          "autores": "Arenas, Carolina ; GARCÉS, LINA",
+          "periodico": "journal of health informatics , v. 2020, p. 412-419, 2021.",
+          "doi": "",
+          "citacao_completa": "Arenas, Carolina ; GARCÉS, LINA . Integrated Operating Room: A Systematic Mapping Review. journal of health informatics , v. 2020, p. 412-419, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Three decades of software reference architectures: A systematic mapping study",
+          "autores": "GARCÉS, LINA ; MARTÍNEZ-FERNÁNDEZ, SILVERIO ; OLIVEIRA, LUCAS ; VALLE, PEDRO ; AYALA, CLAUDIA ; FRANCH, XAVIER ; NAKAGAWA, ELISA YUMI",
+          "periodico": "JOURNAL OF SYSTEMS AND SOFTWARE , v. 179, p. 111004, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.jss.2021.111004",
+          "citacao_completa": "GARCÉS, LINA ; MARTÍNEZ-FERNÁNDEZ, SILVERIO ; OLIVEIRA, LUCAS ; VALLE, PEDRO ; AYALA, CLAUDIA ; FRANCH, XAVIER ; NAKAGAWA, ELISA YUMI . Three decades of software reference architectures: A systematic mapping study. JOURNAL OF SYSTEMS AND SOFTWARE , v. 179, p. 111004, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Towards suitable description of reference architectures",
+          "autores": "VALLE, P. H. D. ; GARCÉS, L. M. ; VOLPATO, TIAGO ; MARTÍNEZ-FERNÁNDEZ, SILVERIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "PEERJ COMPUTER SCIENCE , v. 7, p. e392, 2021.",
+          "doi": "http://dx.doi.org/10.7717/peerj-cs.392",
+          "citacao_completa": "VALLE, P. H. D. ; GARCÉS, L. M. ; VOLPATO, TIAGO ; MARTÍNEZ-FERNÁNDEZ, SILVERIO ; NAKAGAWA, ELISA YUMI . Towards suitable description of reference architectures. PEERJ COMPUTER SCIENCE , v. 7, p. e392, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Assessment of Reference Architectures and Reference Models for Ambient Assisted Living Systems",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "INTERNATIONAL JOURNAL OF E-HEALTH AND MEDICAL COMMUNICATIONS , v. 11, p. 17-36, 2020.",
+          "doi": "http://dx.doi.org/10.4018/ijehmc.2020010102",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . Assessment of Reference Architectures and Reference Models for Ambient Assisted Living Systems. INTERNATIONAL JOURNAL OF E-HEALTH AND MEDICAL COMMUNICATIONS , v. 11, p. 17-36, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Architectural Solutions for Self-Adaptive Systems",
+          "autores": "GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; GRACIANO NETO, V. V. ; Elisa Y. Nakagawa",
+          "periodico": "COMPUTER , v. 53, p. 1-14, 2020.",
+          "doi": "http://dx.doi.org/10.1109/MC.2020.3017574",
+          "citacao_completa": "GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; GRACIANO NETO, V. V. ; Elisa Y. Nakagawa . Architectural Solutions for Self-Adaptive Systems. COMPUTER , v. 53, p. 1-14, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Software mediators as first-class entities of systems-of-systems software architectures",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA",
+          "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 25, p. 8-23, 2019.",
+          "doi": "http://dx.doi.org/10.1186/s13173-019-0089-3",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA . Software mediators as first-class entities of systems-of-systems software architectures. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 25, p. 8-23, 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Stimuli-SoS: a model-based approach to derive stimuli generators for simulations of systems-of-systems software architectures",
+          "autores": "GRACIANO NETO, VALDEMAR VICENTE ; BARROS PAES, CARLOS EDUARDO ; GARCÉS, LINA ; GUESSI, MILENA ; MANZANO, WALLACE ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 23, p. 13-45, 2017.",
+          "doi": "http://dx.doi.org/10.1186/s13173-017-0062-y",
+          "citacao_completa": "GRACIANO NETO, VALDEMAR VICENTE ; BARROS PAES, CARLOS EDUARDO ; GARCÉS, LINA ; GUESSI, MILENA ; MANZANO, WALLACE ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . Stimuli-SoS: a model-based approach to derive stimuli generators for simulations of systems-of-systems software architectures. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 23, p. 13-45, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Quality attributes and quality models for ambient assisted living software systems:A systematic mapping",
+          "autores": "GARCÉS, LINA ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI",
+          "periodico": "Information and Software Technology , v. 82, p. 121-138, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.infsof.2016.10.005",
+          "citacao_completa": "GARCÉS, LINA ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI . Quality attributes and quality models for ambient assisted living software systems:A systematic mapping. Information and Software Technology , v. 82, p. 121-138, 2016."
+        },
+        {
+          "ano": 2014,
+          "titulo": "An analysis about Virtual Microscopy in the World",
+          "autores": "PEDRAZA, J. A. P. ; PATERNINA, Y. F. ; GARCÉS, L. M. ; GOMEZ, A. E.",
+          "periodico": "Journal of Health Informatics , v. 6, p. 81-88, 2014.",
+          "doi": "",
+          "citacao_completa": "PEDRAZA, J. A. P. ; PATERNINA, Y. F. ; GARCÉS, L. M. ; GOMEZ, A. E. . An analysis about Virtual Microscopy in the World. Journal of Health Informatics , v. 6, p. 81-88, 2014."
+        },
+        {
+          "ano": 2011,
+          "titulo": "TELECYTOLOGY SYSTEMS AS ALTERNATIVE IN EARLY DETECTION OF CERVICAL CANCER IN COLOMBIA",
+          "autores": "GARCÉS, L. M. ; Martinez, Victor ; GUALDRON, HUGO ; Alfonso Mendoza",
+          "periodico": "Revista Colombiana de Tecnologías de Avanzada , v. 2, p. 70-78, 2011.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. ; Martinez, Victor ; GUALDRON, HUGO ; Alfonso Mendoza . TELECYTOLOGY SYSTEMS AS ALTERNATIVE IN EARLY DETECTION OF CERVICAL CANCER IN COLOMBIA. Revista Colombiana de Tecnologías de Avanzada , v. 2, p. 70-78, 2011."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Minicursos do XV Simpósio Brasileiro de Computação Aplicada à Saúde",
+          "autores": "MENDOZA, M. R. (Org.) ; GARCÉS, LINA (Org.)",
+          "periodico": "1. ed. Porto Alegre: Sociedade Brasileira de Computação - SBC, 2025. v. 1. 354p .",
+          "doi": "http://dx.doi.org/10.5753/sbc.16731.5",
+          "citacao_completa": "MENDOZA, M. R. (Org.) ; GARCÉS, LINA (Org.) . Minicursos do XV Simpósio Brasileiro de Computação Aplicada à Saúde. 1. ed. Porto Alegre: Sociedade Brasileira de Computação - SBC, 2025. v. 1. 354p ."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Anais da VIII Escola Regional de Computação Aplicada à Saúde",
+          "autores": "GARCÉS, LINA ; XAVIER, F. (Org.) ; ITO, M. (Org.)",
+          "periodico": "8. ed. Porto Alegre, RS: Sociedade Brasileira de Computação, 2021. v. 1. 104p .",
+          "doi": "http://dx.doi.org/10.5753/ercas.2021",
+          "citacao_completa": "GARCÉS, LINA ; XAVIER, F. (Org.) ; ITO, M. (Org.) . Anais da VIII Escola Regional de Computação Aplicada à Saúde. 8. ed. Porto Alegre, RS: Sociedade Brasileira de Computação, 2021. v. 1. 104p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Building Healthy Cities with Smart Technologies",
+          "autores": "GARCÉS, LINA",
+          "periodico": "In: Valdemar Vicente Graciano Neto; Mohamad Kassab. (Org.). Building Healthy Cities with Smart Technologies. 1ed.Boca Raton: CRC Press, 2023, v. , p. 1-18.",
+          "doi": "http://dx.doi.org/10.1201/9781003348542",
+          "citacao_completa": "GARCÉS, LINA . Building Healthy Cities with Smart Technologies. In: Valdemar Vicente Graciano Neto; Mohamad Kassab. (Org.). Building Healthy Cities with Smart Technologies. 1ed.Boca Raton: CRC Press, 2023, v. , p. 1-18."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Arquiteturas de software para o domínio da saúde",
+          "autores": "GARCÉS, LINA ; OLIVEIRA, BRAUNER ; Arenas, Carolina",
+          "periodico": "In: Débora Christina Muchaluat Saade; Robespierre Pita. (Org.). Minicursos SBCAS 2020. 2ed.Brasilia: SBC, 2020, v. 1, p. 1-47.",
+          "doi": "http://dx.doi.org/10.5753/sbc.4710.8.1",
+          "citacao_completa": "GARCÉS, LINA ; OLIVEIRA, BRAUNER ; Arenas, Carolina . Arquiteturas de software para o domínio da saúde. In: Débora Christina Muchaluat Saade; Robespierre Pita. (Org.). Minicursos SBCAS 2020. 2ed.Brasilia: SBC, 2020, v. 1, p. 1-47."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Use of Large Language Models in the Teaching of Computational Thinking: A Systematic Mapping Study",
+          "autores": "MILHORIM, J. M. ; SANTANA, D. G. ; LEMOS, D. F. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Educação em Computação (EDUCOMP), 2026, Campo Grande, MS. Anais do VI Simpósio Brasileiro de Educação em Computação. Porto Alegre: SBC, 2026. p. 257-271.",
+          "doi": "http://dx.doi.org/10.5753/educomp.2026.18797",
+          "citacao_completa": "MILHORIM, J. M. ; SANTANA, D. G. ; LEMOS, D. F. ; GARCÉS, LINA . Use of Large Language Models in the Teaching of Computational Thinking: A Systematic Mapping Study. In: Simpósio Brasileiro de Educação em Computação (EDUCOMP), 2026, Campo Grande, MS. Anais do VI Simpósio Brasileiro de Educação em Computação. Porto Alegre: SBC, 2026. p. 257-271."
+        },
+        {
+          "ano": 2026,
+          "titulo": "CodeBERT Detection Pipeline for SQL Injection Detection: A Comparison with other ML Models",
+          "autores": "MOTTA, L. ; VALEJO, A. D. B. ; GARCÉS, LINA",
+          "periodico": "In: SIMPÓSIO BRASILEIRO DE CIBERSEGURANÇA (SBSEG), 2026, Armação dos Búzios/RJ. Anais do XXVI Simpósio Brasileiro de Cibersegurança. Porto Alegre: SBC, 2026. p. 364-375.",
+          "doi": "http://dx.doi.org/10.5753/sbseg.2026.28969",
+          "citacao_completa": "MOTTA, L. ; VALEJO, A. D. B. ; GARCÉS, LINA . CodeBERT Detection Pipeline for SQL Injection Detection: A Comparison with other ML Models. In: SIMPÓSIO BRASILEIRO DE CIBERSEGURANÇA (SBSEG), 2026, Armação dos Búzios/RJ. Anais do XXVI Simpósio Brasileiro de Cibersegurança. Porto Alegre: SBC, 2026. p. 364-375."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Clinically interpretable risk stratification in Chagas disease using novel derived variables and calibrated decision trees",
+          "autores": "PARRO, H. ; ORTIZ, A. H. ; VALEJO, A. D. B. ; SANCHEZ, L. T. G. ; GARCÉS, LINA",
+          "periodico": "In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2026, Cuiabá, MT. Anais do 23º Encontro Nacional de Inteligência Artificial e Computacional. Porto Alegre: SBC, 2026. p. 1-12.",
+          "doi": "",
+          "citacao_completa": "PARRO, H. ; ORTIZ, A. H. ; VALEJO, A. D. B. ; SANCHEZ, L. T. G. ; GARCÉS, LINA . Clinically interpretable risk stratification in Chagas disease using novel derived variables and calibrated decision trees. In: Encontro Nacional de Inteligência Artificial e Computacional (ENIAC), 2026, Cuiabá, MT. Anais do 23º Encontro Nacional de Inteligência Artificial e Computacional. Porto Alegre: SBC, 2026. p. 1-12."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Desafios na Implementação da BNCC Computação nas Redes Públicas de Ensino: Evidências de um Estudo Exploratório com Profissionais da Educação Básica",
+          "autores": "SANTANA, D. G. ; MILHORIM, J. M. ; LAUREANO, T. R. ; MATTOS, F. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Informática na Educação (SBIE), 2026, Goiania. XXXVII Simpósio Brasileiro de Informática na Educação (S B I E 2026). Porto Alegre: SBC, 2026. p. 1-14.",
+          "doi": "",
+          "citacao_completa": "SANTANA, D. G. ; MILHORIM, J. M. ; LAUREANO, T. R. ; MATTOS, F. ; GARCÉS, LINA . Desafios na Implementação da BNCC Computação nas Redes Públicas de Ensino: Evidências de um Estudo Exploratório com Profissionais da Educação Básica. In: Simpósio Brasileiro de Informática na Educação (SBIE), 2026, Goiania. XXXVII Simpósio Brasileiro de Informática na Educação (S B I E 2026). Porto Alegre: SBC, 2026. p. 1-14."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Competições Femininas em Tecnologia como Estratégia para o Desenvolvimento do Pensamento Computacional na Educação Básica",
+          "autores": "SOARES, C. ; MATTOS, F. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Informática na Educação, 2026, Goiania. XXXVII Simpósio Brasileiro de Informática na Educação (S B I E 2026). Porto Alegre: SBC, 2026. p. 1-14.",
+          "doi": "",
+          "citacao_completa": "SOARES, C. ; MATTOS, F. ; GARCÉS, LINA . Competições Femininas em Tecnologia como Estratégia para o Desenvolvimento do Pensamento Computacional na Educação Básica. In: Simpósio Brasileiro de Informática na Educação, 2026, Goiania. XXXVII Simpósio Brasileiro de Informática na Educação (S B I E 2026). Porto Alegre: SBC, 2026. p. 1-14."
+        },
+        {
+          "ano": 2026,
+          "titulo": "ArchSec.AI: Towards a LLM-based assistant to support analysis of security architectural strategies",
+          "autores": "PONTES, R. M. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Engenharia de Software, 2026, São Paulo. XL Simpósio Brasileiro de Engenharia de Software (SBES2026). Porto Alegre: SBC, 2026. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "PONTES, R. M. ; GARCÉS, LINA . ArchSec.AI: Towards a LLM-based assistant to support analysis of security architectural strategies. In: Simpósio Brasileiro de Engenharia de Software, 2026, São Paulo. XL Simpósio Brasileiro de Engenharia de Software (SBES2026). Porto Alegre: SBC, 2026. p. 1-7."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Business Intelligence for Academic Management Systems: Results of a Study in a Brazilian Federal University",
+          "autores": "VIEIRA, ALANA R. R. ; SEABRA, RODRIGO D. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Sistemas de Informação, 2025, Brasil. Anais do XXI Simpósio Brasileiro de Sistemas de Informação (SBSI 2025). p. 221-10.",
+          "doi": "http://dx.doi.org/10.5753/sbsi.2025.246434",
+          "citacao_completa": "VIEIRA, ALANA R. R. ; SEABRA, RODRIGO D. ; GARCÉS, LINA . Business Intelligence for Academic Management Systems: Results of a Study in a Brazilian Federal University. In: Simpósio Brasileiro de Sistemas de Informação, 2025, Brasil. Anais do XXI Simpósio Brasileiro de Sistemas de Informação (SBSI 2025). p. 221-10."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Interface for Operating a Parts Inspection Machine in the Automotive Industry",
+          "autores": "MACHADO, ISAÍAS MENDES ; DE MAGALHÃES DIAS FRINHANI, RAFAEL ; SEABRA, RODRIGO DUARTE ; GARCÉS, LINA",
+          "periodico": "In: 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA), 2025, Mytilene. 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA), 2025. p. 1-8.",
+          "doi": "http://dx.doi.org/10.1109/iisa66859.2025.11309838",
+          "citacao_completa": "MACHADO, ISAÍAS MENDES ; DE MAGALHÃES DIAS FRINHANI, RAFAEL ; SEABRA, RODRIGO DUARTE ; GARCÉS, LINA . Interface for Operating a Parts Inspection Machine in the Automotive Industry. In: 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA), 2025, Mytilene. 2025 16th International Conference on Information, Intelligence, Systems & Applications (IISA), 2025. p. 1-8."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Teaching software design patterns using Jigsaw",
+          "autores": "GARCES, LINA ; OLIVEIRA, BRAUNER",
+          "periodico": "In: SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE (SBES), 2025, Recife, PE. XXXIX Simpósio Brasileiro de Engenharia de Software (SBES'25). Porto Alegre, RS: SBC, 2025. p. 1-11.",
+          "doi": "http://dx.doi.org/10.5753/sbes.2025.10759",
+          "citacao_completa": "GARCES, LINA ; OLIVEIRA, BRAUNER . Teaching software design patterns using Jigsaw. In: SIMPÓSIO BRASILEIRO DE ENGENHARIA DE SOFTWARE (SBES), 2025, Recife, PE. XXXIX Simpósio Brasileiro de Engenharia de Software (SBES'25). Porto Alegre, RS: SBC, 2025. p. 1-11."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Reference Architectures for Digital Twins: Results of a Literature Review",
+          "autores": "COSTA, GUILHERME MAFRA DA ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software, 2025, Brasil. Anais do XIX Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2025). p. 36-11.",
+          "doi": "http://dx.doi.org/10.5753/sbcars.2025.14115",
+          "citacao_completa": "COSTA, GUILHERME MAFRA DA ; GARCÉS, LINA . Reference Architectures for Digital Twins: Results of a Literature Review. In: Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software, 2025, Brasil. Anais do XIX Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2025). p. 36-11."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Investigating the use of Large Language Models in software security requirements: Results of a literature review",
+          "autores": "MELO, AMÁLIA ; ALMEIDA, LUCAS ; GARCÉS, LINA",
+          "periodico": "In: Workshop Brasileiro de Engenharia de Software Inteligente, 2025, Brasil. Anais do IV Workshop Brasileiro de Engenharia de Software Inteligente (ISE 2025), 2025. p. 37-43.",
+          "doi": "http://dx.doi.org/10.5753/ise.2025.14892",
+          "citacao_completa": "MELO, AMÁLIA ; ALMEIDA, LUCAS ; GARCÉS, LINA . Investigating the use of Large Language Models in software security requirements: Results of a literature review. In: Workshop Brasileiro de Engenharia de Software Inteligente, 2025, Brasil. Anais do IV Workshop Brasileiro de Engenharia de Software Inteligente (ISE 2025), 2025. p. 37-43."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Promoting Gender Inclusion in Computing: An Experience Report on a National Web Development School for Girls",
+          "autores": "LAUREANO, T. R. ; MARQUES, B. ; GARCÉS, LINA",
+          "periodico": "In: IV WebMedia for Everyone (W4E 2025), 2025, Rio de Janeiro, RJ. Anais Estendidos do XXXI Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2025), 2025. v. 31. p. 209-214.",
+          "doi": "http://dx.doi.org/10.5753/webmedia_estendido.2025.16407",
+          "citacao_completa": "LAUREANO, T. R. ; MARQUES, B. ; GARCÉS, LINA . Promoting Gender Inclusion in Computing: An Experience Report on a National Web Development School for Girls. In: IV WebMedia for Everyone (W4E 2025), 2025, Rio de Janeiro, RJ. Anais Estendidos do XXXI Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia 2025), 2025. v. 31. p. 209-214."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Lacunas dos dados do DataSUS em pesquisas sobre doença de Chagas: Revisão de escopo utilizando a metodologia PRISMA-SCR.",
+          "autores": "UCHOAS, A. ; SANCHEZ, J. A. G. ; GARCÉS, LINA",
+          "periodico": "In: IEPG Summit, 2025, Itajubá. IEPG Summit'25, 2025. p. 1.",
+          "doi": "",
+          "citacao_completa": "UCHOAS, A. ; SANCHEZ, J. A. G. ; GARCÉS, LINA . Lacunas dos dados do DataSUS em pesquisas sobre doença de Chagas: Revisão de escopo utilizando a metodologia PRISMA-SCR.. In: IEPG Summit, 2025, Itajubá. IEPG Summit'25, 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Business Intelligence in Higher Education Management Systems: A Systematic Mapping Study",
+          "autores": "VIEIRA, ALANA RAIZA RAMOS ; GARCÉS, LINA ; SEABRA, RODRIGO D.",
+          "periodico": "In: Simpósio Brasileiro de Informática na Educação, 2025, Brasil. Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025), 2025. p. 69-12.",
+          "doi": "http://dx.doi.org/10.5753/sbie.2025.11937",
+          "citacao_completa": "VIEIRA, ALANA RAIZA RAMOS ; GARCÉS, LINA ; SEABRA, RODRIGO D. . Business Intelligence in Higher Education Management Systems: A Systematic Mapping Study. In: Simpósio Brasileiro de Informática na Educação, 2025, Brasil. Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025), 2025. p. 69-12."
+        },
+        {
+          "ano": 2024,
+          "titulo": "MoniPaEp: Um Sistema para Monitoramento de Sintomas de Doenças Endêmicas",
+          "autores": "GENÉSIO, VINÍCIUS L. S. ; RODRIGUEZ, LINA GARCES ; BRAGA, ROSANA T. VACCARE",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2024, Brasil. Anais Estendidos do XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024). p. 127-6.",
+          "doi": "http://dx.doi.org/10.5753/sbcas_estendido.2024.2236",
+          "citacao_completa": "GENÉSIO, VINÍCIUS L. S. ; RODRIGUEZ, LINA GARCES ; BRAGA, ROSANA T. VACCARE . MoniPaEp: Um Sistema para Monitoramento de Sintomas de Doenças Endêmicas. In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2024, Brasil. Anais Estendidos do XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2024). p. 127-6."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Modelo Web para Exibição de Termos de Uso e Políticas de Privacidade com Foco na LGPD e em Práticas de Design de Experiência do Usuário",
+          "autores": "MOREIRA, CAROLINA V. ; SEABRA, RODRIGO D. ; GARCÉS, LINA",
+          "periodico": "In: Simpósio Brasileiro de Informática na Educação, 2024, Brasil. Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024), 2024. p. 1043-14.",
+          "doi": "http://dx.doi.org/10.5753/sbie.2024.239998",
+          "citacao_completa": "MOREIRA, CAROLINA V. ; SEABRA, RODRIGO D. ; GARCÉS, LINA . Modelo Web para Exibição de Termos de Uso e Políticas de Privacidade com Foco na LGPD e em Práticas de Design de Experiência do Usuário. In: Simpósio Brasileiro de Informática na Educação, 2024, Brasil. Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024), 2024. p. 1043-14."
+        },
+        {
+          "ano": 2024,
+          "titulo": "TrilhEdu: Visualization of Educational Content Through Learning Trails Using Graphs and Gamification",
+          "autores": "ALMEIDA, GUSTAVO R. ; GARCÉS, LINA ; BATISTA, BRUNO G. ; SILVA, ELISA C.",
+          "periodico": "In: Simpósio Brasileiro de Informática na Educação, 2024, Brasil. Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024), 2024. p. 2806-10.",
+          "doi": "http://dx.doi.org/10.5753/sbie.2024.244894",
+          "citacao_completa": "ALMEIDA, GUSTAVO R. ; GARCÉS, LINA ; BATISTA, BRUNO G. ; SILVA, ELISA C. . TrilhEdu: Visualization of Educational Content Through Learning Trails Using Graphs and Gamification. In: Simpósio Brasileiro de Informática na Educação, 2024, Brasil. Anais do XXXV Simpósio Brasileiro de Informática na Educação (SBIE 2024), 2024. p. 2806-10."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Teaching Software Engineering with Project-Based Learning: A Four Years Experience Report",
+          "autores": "GARCÉS, LINA ; OLIVEIRA, BRAUNER",
+          "periodico": "In: Simpósio Brasileiro de Engenharia de Software, 2024, Brasil. Anais do XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES 2024), 2024. p. 476-11.",
+          "doi": "http://dx.doi.org/10.5753/sbes.2024.3530",
+          "citacao_completa": "GARCÉS, LINA ; OLIVEIRA, BRAUNER . Teaching Software Engineering with Project-Based Learning: A Four Years Experience Report. In: Simpósio Brasileiro de Engenharia de Software, 2024, Brasil. Anais do XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES 2024), 2024. p. 476-11."
+        },
+        {
+          "ano": 2023,
+          "titulo": "18+ years of Brazilian Symposium on Information Systems: Results of a Scope Review",
+          "autores": "NEVES, VÂNIA ; MELO, SILVANA ; GARCÉS, LINA",
+          "periodico": "In: SBSI '23: XIX Brazilian Symposium on Information Systems, 2023, Maceió Brazil. Proceedings of the XIX Brazilian Symposium on Information Systems, 2023. p. 419-426.",
+          "doi": "http://dx.doi.org/10.1145/3592813.3592933",
+          "citacao_completa": "NEVES, VÂNIA ; MELO, SILVANA ; GARCÉS, LINA . 18+ years of Brazilian Symposium on Information Systems: Results of a Scope Review. In: SBSI '23: XIX Brazilian Symposium on Information Systems, 2023, Maceió Brazil. Proceedings of the XIX Brazilian Symposium on Information Systems, 2023. p. 419-426."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Especificação de requisitos de design de software para sistemas de IoT conforme a LGPD: Resultados de aplicação em um sistema de assistência para pacientes com Diabetes Mellitus.",
+          "autores": "RIBEIRO, JOÃO PEDRO ; GARCÉS, LINA",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2023, Brasil. Anais Estendidos do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2023), 2023. p. 37-42.",
+          "doi": "http://dx.doi.org/10.5753/sbcas_estendido.2023.229693",
+          "citacao_completa": "RIBEIRO, JOÃO PEDRO ; GARCÉS, LINA . Especificação de requisitos de design de software para sistemas de IoT conforme a LGPD: Resultados de aplicação em um sistema de assistência para pacientes com Diabetes Mellitus.. In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2023, Brasil. Anais Estendidos do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2023), 2023. p. 37-42."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Proposta de uma aplicação para apoiar a gestão dos programas de controle endêmico na cidade de Itajubá",
+          "autores": "GREGÓRIO, IGOR O. ; GARCÉS, LINA ; ALMEIDA, ANTÔNIO",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2023, Brasil. Anais Estendidos do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2023), 2023. p. 205-210.",
+          "doi": "http://dx.doi.org/10.5753/sbcas_estendido.2023.231504",
+          "citacao_completa": "GREGÓRIO, IGOR O. ; GARCÉS, LINA ; ALMEIDA, ANTÔNIO . Proposta de uma aplicação para apoiar a gestão dos programas de controle endêmico na cidade de Itajubá. In: Anais Estendidos do Simpósio Brasileiro de Computação Aplicada à Saúde, 2023, Brasil. Anais Estendidos do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS 2023), 2023. p. 205-210."
+        },
+        {
+          "ano": 2022,
+          "titulo": "An Overview of Software Architecture Education",
+          "autores": "OLIVEIRA, BRAUNER R. N. ; GARCÉS, LINA ; LYRA, KAMILA T. ; SANTOS, DANIEL S. ; ISOTANI, SEIJI ; NAKAGAWA, ELISA Y.",
+          "periodico": "In: Congresso IberoAmericano em Engenharia de Software, 2022, Argentina. Anais do XXV Congresso Ibero-Americano em Engenharia de Software (CIbSE 2022). v. 1. p. 76.",
+          "doi": "http://dx.doi.org/10.5753/cibse.2022.20964",
+          "citacao_completa": "OLIVEIRA, BRAUNER R. N. ; GARCÉS, LINA ; LYRA, KAMILA T. ; SANTOS, DANIEL S. ; ISOTANI, SEIJI ; NAKAGAWA, ELISA Y. . An Overview of Software Architecture Education. In: Congresso IberoAmericano em Engenharia de Software, 2022, Argentina. Anais do XXV Congresso Ibero-Americano em Engenharia de Software (CIbSE 2022). v. 1. p. 76."
+        },
+        {
+          "ano": 2022,
+          "titulo": "BEATS: Search Engine for Architectural Strategies for Security",
+          "autores": "MORAES JUNIOR, M. I. ; MORENO, R. O. ; GARCÉS, LINA ; NAKAGAWA, ELISA",
+          "periodico": "In: Brazilian Symposium on Software Engineering (SBES 2022), 2022, Uberlândia, MG. XXXVI Brazilian Symposium on Software Engineering (SBES 2022), 2022. p. 1-6.",
+          "doi": "http://dx.doi.org/10.1145/3555228.3555278",
+          "citacao_completa": "MORAES JUNIOR, M. I. ; MORENO, R. O. ; GARCÉS, LINA ; NAKAGAWA, ELISA . BEATS: Search Engine for Architectural Strategies for Security. In: Brazilian Symposium on Software Engineering (SBES 2022), 2022, Uberlândia, MG. XXXVI Brazilian Symposium on Software Engineering (SBES 2022), 2022. p. 1-6."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Architectural strategies for interoperability of software-intensive systems",
+          "autores": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: SAC '21: The 36th ACM/SIGAPP Symposium on Applied Computing, 2021, Virtual Event Republic of Kor. Proceedings of the 36th Annual ACM Symposium on Applied Computing. New York, NY, USA.: Association for Computing Machinery, 2021. p. 1399-1408.",
+          "doi": "http://dx.doi.org/10.1145/3412841.3442015",
+          "citacao_completa": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . Architectural strategies for interoperability of software-intensive systems. In: SAC '21: The 36th ACM/SIGAPP Symposium on Applied Computing, 2021, Virtual Event Republic of Kor. Proceedings of the 36th Annual ACM Symposium on Applied Computing. New York, NY, USA.: Association for Computing Machinery, 2021. p. 1399-1408."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Towards Educational Systems-of-Information Systems",
+          "autores": "NEVES, VÂNIA DE OLIVEIRA ; GARCÉS, LINA ; NETO, VALDEMAR GRACIANO GRACIANO",
+          "periodico": "In: SBSI'20: XVI Brazilian Symposium on Information Systems, 2020, São Bernardo do Campo Brazil. XVI Brazilian Symposium on Information Systems. New York: ACM, 2020. p. 1-8.",
+          "doi": "http://dx.doi.org/10.1145/3411564.3411650",
+          "citacao_completa": "NEVES, VÂNIA DE OLIVEIRA ; GARCÉS, LINA ; NETO, VALDEMAR GRACIANO GRACIANO . Towards Educational Systems-of-Information Systems. In: SBSI'20: XVI Brazilian Symposium on Information Systems, 2020, São Bernardo do Campo Brazil. XVI Brazilian Symposium on Information Systems. New York: ACM, 2020. p. 1-8."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Approaches for Describing Reference Architectures: Results of a Systematic Mapping",
+          "autores": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: XXIII Congresso Ibero-Americano de Engenharia de Software, 2020, Curitiba, PR. XXIII Congresso Ibero-Americano de Engenharia de Software (aceito para publicação), 2020. p. 1-14.",
+          "doi": "",
+          "citacao_completa": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; NAKAGAWA, ELISA YUMI . Approaches for Describing Reference Architectures: Results of a Systematic Mapping. In: XXIII Congresso Ibero-Americano de Engenharia de Software, 2020, Curitiba, PR. XXIII Congresso Ibero-Americano de Engenharia de Software (aceito para publicação), 2020. p. 1-14."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Requirements specification of a software-intensive system in the health domain: An experience report",
+          "autores": "Arenas, Carolina ; GARCÉS, LINA ; CARMONA, MARÍA J. C. ; SIMÕES, CLAUDIA MARQUEZ",
+          "periodico": "In: SBQS'20: 19th Brazilian Symposium on Software Quality, 2020, São Luís Brazil. 19th Brazilian Symposium on Software Quality. New York: ACM, 2020. p. 1-10.",
+          "doi": "http://dx.doi.org/10.1145/3439961.3439996",
+          "citacao_completa": "Arenas, Carolina ; GARCÉS, LINA ; CARMONA, MARÍA J. C. ; SIMÕES, CLAUDIA MARQUEZ . Requirements specification of a software-intensive system in the health domain: An experience report. In: SBQS'20: 19th Brazilian Symposium on Software Quality, 2020, São Luís Brazil. 19th Brazilian Symposium on Software Quality. New York: ACM, 2020. p. 1-10."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Software Architecture for Health Care Supportive Home Systems to Assist Patients with Diabetes Mellitus",
+          "autores": "GARCES, LINA ; ZANIN VICENTE, ISABELLA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 2019 IEEE 32nd International Symposium on ComputerBased Medical Systems (CBMS), 2019, Cordoba. 2019 IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS), 2019. p. 249-252.",
+          "doi": "http://dx.doi.org/10.1109/CBMS.2019.00060",
+          "citacao_completa": "GARCES, LINA ; ZANIN VICENTE, ISABELLA ; NAKAGAWA, ELISA YUMI . Software Architecture for Health Care Supportive Home Systems to Assist Patients with Diabetes Mellitus. In: 2019 IEEE 32nd International Symposium on ComputerBased Medical Systems (CBMS), 2019, Cordoba. 2019 IEEE 32nd International Symposium on Computer-Based Medical Systems (CBMS), 2019. p. 249-252."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Uma arquitetura de referência para sistemas de casas inteligentes de apoio ao cuidado à saúde da perspectiva de sistemas-de-sistemas",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA",
+          "periodico": "In: 1º Concurso de Teses e Dissertações do Simpósio Brasileiro de Computação Aplicada à Saúde (CTD-SBCAS 2019), 2019, Niteroi, RJ. 1º Concurso de Teses e Dissertações do Simpósio Brasileiro de Computação Aplicada à Saúde (CTD-SBCAS 2019), 2019. p. 73-78.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA . Uma arquitetura de referência para sistemas de casas inteligentes de apoio ao cuidado à saúde da perspectiva de sistemas-de-sistemas. In: 1º Concurso de Teses e Dissertações do Simpósio Brasileiro de Computação Aplicada à Saúde (CTD-SBCAS 2019), 2019, Niteroi, RJ. 1º Concurso de Teses e Dissertações do Simpósio Brasileiro de Computação Aplicada à Saúde (CTD-SBCAS 2019), 2019. p. 73-78."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Towards an architectural patterns language for Systems-of-Systems",
+          "autores": "GARCÉS, LINA ; SENA, BRUNO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 26th Conference on Pattern Languages of Programs (PLoP), 2019, Ottawa, Ontario, Canada. The 26th Conference on Pattern Languages of Programs (PLoP'19)., 2019. p. 1-24.",
+          "doi": "http://dx.doi.org/10.5555/3492252.3492254",
+          "citacao_completa": "GARCÉS, LINA ; SENA, BRUNO ; NAKAGAWA, ELISA YUMI . Towards an architectural patterns language for Systems-of-Systems. In: 26th Conference on Pattern Languages of Programs (PLoP), 2019, Ottawa, Ontario, Canada. The 26th Conference on Pattern Languages of Programs (PLoP'19)., 2019. p. 1-24."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Typology of Architectural Strategies for Interoperability",
+          "autores": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: the XIII Brazilian Symposium, 2019, Salvador. Proceedings of the XIII Brazilian Symposium on Software Components, Architectures, and Reuse - SBCARS '19, 2019. p. 3-10.",
+          "doi": "http://dx.doi.org/10.1145/3357141.3357144",
+          "citacao_completa": "VALLE, PEDRO HENRIQUE DIAS ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . A Typology of Architectural Strategies for Interoperability. In: the XIII Brazilian Symposium, 2019, Salvador. Proceedings of the XIII Brazilian Symposium on Software Components, Architectures, and Reuse - SBCARS '19, 2019. p. 3-10."
+        },
+        {
+          "ano": 2018,
+          "titulo": "ASAS: An Approach to Support Simulation of Smart Systems",
+          "autores": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; GUESSI, MILENA ; PAES, CARLOS ; MANZANO, WALLACE ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA",
+          "periodico": "In: Hawaii International Conference on System Sciences, 2018, Hawaii, USA, 2018.",
+          "doi": "http://dx.doi.org/10.24251/hicss.2018.724",
+          "citacao_completa": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; GUESSI, MILENA ; PAES, CARLOS ; MANZANO, WALLACE ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA . ASAS: An Approach to Support Simulation of Smart Systems. In: Hawaii International Conference on System Sciences, 2018, Hawaii, USA, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Do we need new strategies for testing systems-of-systems?",
+          "autores": "DE OLIVEIRA NEVES, VÂNIA ; BERTOLINO, ANTONIA ; DE ANGELIS, GUGLIEMO ; GARCÉS, LINA",
+          "periodico": "In: the 6th International Workshop, 2018, Gothenburg. Proceedings of the 6th International Workshop on Software Engineering for Systems-of-Systems - SESoS '18. New York: ACM Press, 2018. p. 29-32.",
+          "doi": "http://dx.doi.org/10.1145/3194754.3194758",
+          "citacao_completa": "DE OLIVEIRA NEVES, VÂNIA ; BERTOLINO, ANTONIA ; DE ANGELIS, GUGLIEMO ; GARCÉS, LINA . Do we need new strategies for testing systems-of-systems?. In: the 6th International Workshop, 2018, Gothenburg. Proceedings of the 6th International Workshop on Software Engineering for Systems-of-Systems - SESoS '18. New York: ACM Press, 2018. p. 29-32."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Towards a Taxonomy of Software Mediators for Systems-of-Systems",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: the VII Brazilian Symposium, 2018, Sao Carlos. Proceedings of the VII Brazilian Symposium on Software Components, Architectures, and Reuse - SBCARS '18. New York: ACM Press, 2018. p. 53-62.",
+          "doi": "http://dx.doi.org/10.1145/3267183.3267189",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . Towards a Taxonomy of Software Mediators for Systems-of-Systems. In: the VII Brazilian Symposium, 2018, Sao Carlos. Proceedings of the VII Brazilian Symposium on Software Components, Architectures, and Reuse - SBCARS '18. New York: ACM Press, 2018. p. 53-62."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Investigating the Applicability of Architectural Patterns in Big Data Systems",
+          "autores": "SENA, BRUNO ; GARCÉS, LINA ; ALLIAN, ANA ; NAKAGAWA, ELISA",
+          "periodico": "In: Conference on Pattern Languages of Programs (PLoP 2018), 2018, Portland. 25th Conference on Pattern Languages of Programs (PLoP 2018), 2018. v. 33. p. 1-14.",
+          "doi": "http://dx.doi.org/10.5555/3373669.3373677",
+          "citacao_completa": "SENA, BRUNO ; GARCÉS, LINA ; ALLIAN, ANA ; NAKAGAWA, ELISA . Investigating the Applicability of Architectural Patterns in Big Data Systems. In: Conference on Pattern Languages of Programs (PLoP 2018), 2018, Portland. 25th Conference on Pattern Languages of Programs (PLoP 2018), 2018. v. 33. p. 1-14."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A process to establish, model and validate missions of systems-of-systems in reference architectures",
+          "autores": "GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: the Symposium, 2017, Marrakech. Proceedings of the Symposium on Applied Computing - SAC '17. New York: ACM Press, 2017. p. 1765-1772.",
+          "doi": "http://dx.doi.org/10.1145/3019612.3019799",
+          "citacao_completa": "GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . A process to establish, model and validate missions of systems-of-systems in reference architectures. In: the Symposium, 2017, Marrakech. Proceedings of the Symposium on Applied Computing - SAC '17. New York: ACM Press, 2017. p. 1765-1772."
+        },
+        {
+          "ano": 2017,
+          "titulo": "An Experience Report on Update of Systematic Literature Reviews",
+          "autores": "GARCÉS, LINA ; FELIZARDO, KATIA ; OLIVEIRA, LUCAS ; NAKAGAWA, ELISA",
+          "periodico": "In: The 29th International Conference on Software Engineering and Knowledge Engineering, 2017, Pittsburgh, PA, USA, 2017. p. 91-96.",
+          "doi": "http://dx.doi.org/10.18293/SEKE2017-078",
+          "citacao_completa": "GARCÉS, LINA ; FELIZARDO, KATIA ; OLIVEIRA, LUCAS ; NAKAGAWA, ELISA . An Experience Report on Update of Systematic Literature Reviews. In: The 29th International Conference on Software Engineering and Knowledge Engineering, 2017, Pittsburgh, PA, USA, 2017. p. 91-96."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Two perspectives on reference architecture sustainability",
+          "autores": "VOLPATO, TIAGO ; OLIVEIRA, BRAUNER R. N. ; GARCÉS, LINA ; CAPILLA, RAFAEL ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: the 11th European Conference, 2017, Canterbury. Proceedings of the 11th European Conference on Software Architecture Companion Proceedings - ECSA '17. New York: ACM Press, 2017. p. 188-194.",
+          "doi": "http://dx.doi.org/10.1145/3129790.3129815",
+          "citacao_completa": "VOLPATO, TIAGO ; OLIVEIRA, BRAUNER R. N. ; GARCÉS, LINA ; CAPILLA, RAFAEL ; NAKAGAWA, ELISA YUMI . Two perspectives on reference architecture sustainability. In: the 11th European Conference, 2017, Canterbury. Proceedings of the 11th European Conference on Software Architecture Companion Proceedings - ECSA '17. New York: ACM Press, 2017. p. 188-194."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Software architecture and reference architecture of software-intensive systems and systems-of-systems",
+          "autores": "NAKAGAWA, ELISA YUMI ; DIAS, DIÓGENES ; HORITA, FLÁVIO ; AFFONSO, FRANK JOSÉ ; ABDALLA, GABRIEL ; VICENTE, ISABELLA ; DUARTE, LEONARDO ; FELIZARDO, KATIA ; GARCÉS, LINA ; OLIVEIRA, LUCAS ; GONÇALVES, MARCELO ; ALLIAN, ANA ; MORAIS, MARIA GABRIELA ; GUESSI, MILENA ; SILVA, NILSON ; BIANCHI, THIAGO ; VOLPATO, TIAGO ; NETO, VALDEMAR V. GRACIANO ; ZANI, VINICIUS ; MANZANO, WALLACE ; et.al",
+          "periodico": "In: the 11th European Conference, 2017, Canterbury. Proceedings of the 11th European Conference on Software Architecture Companion Proceedings - ECSA '17. New York: ACM Press, 2017. p. 4-11.",
+          "doi": "http://dx.doi.org/10.1145/3129790.3129822",
+          "citacao_completa": "NAKAGAWA, ELISA YUMI ; DIAS, DIÓGENES ; HORITA, FLÁVIO ; AFFONSO, FRANK JOSÉ ; ABDALLA, GABRIEL ; VICENTE, ISABELLA ; DUARTE, LEONARDO ; FELIZARDO, KATIA ; GARCÉS, LINA ; OLIVEIRA, LUCAS ; GONÇALVES, MARCELO ; ALLIAN, ANA ; MORAIS, MARIA GABRIELA ; GUESSI, MILENA ; SILVA, NILSON ; BIANCHI, THIAGO ; VOLPATO, TIAGO ; NETO, VALDEMAR V. GRACIANO ; ZANI, VINICIUS ; MANZANO, WALLACE ; et.al . Software architecture and reference architecture of software-intensive systems and systems-of-systems. In: the 11th European Conference, 2017, Canterbury. Proceedings of the 11th European Conference on Software Architecture Companion Proceedings - ECSA '17. New York: ACM Press, 2017. p. 4-11."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Quality Model for AAL Software Systems",
+          "autores": "GARCES, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 2016 IEEE 29th International Symposium on ComputerBased Medical Systems (CBMS), 2016, Belfast and Dublin. 2016 IEEE 29th International Symposium on Computer-Based Medical Systems (CBMS). p. 175-180.",
+          "doi": "http://dx.doi.org/10.1109/CBMS.2016.46",
+          "citacao_completa": "GARCES, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . A Quality Model for AAL Software Systems. In: 2016 IEEE 29th International Symposium on ComputerBased Medical Systems (CBMS), 2016, Belfast and Dublin. 2016 IEEE 29th International Symposium on Computer-Based Medical Systems (CBMS). p. 175-180."
+        },
+        {
+          "ano": 2015,
+          "titulo": "On the Equivalence between Reference Architectures and Metamodels",
+          "autores": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; GUESSI, MILENA ; DE OLIVEIRA, LUCAS BUENO RUAS ; OQUENDO, FLAVIO",
+          "periodico": "In: the 1st International Workshop, 2015, Montréal. Proceedings of the 1st International Workshop on Exploring Component-based Techniques for Constructing Reference Architectures - CobRA '15. p. 21-24.",
+          "doi": "http://dx.doi.org/10.1145/2755567.2755572",
+          "citacao_completa": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; GUESSI, MILENA ; DE OLIVEIRA, LUCAS BUENO RUAS ; OQUENDO, FLAVIO . On the Equivalence between Reference Architectures and Metamodels. In: the 1st International Workshop, 2015, Montréal. Proceedings of the 1st International Workshop on Exploring Component-based Techniques for Constructing Reference Architectures - CobRA '15. p. 21-24."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Towards a Formal Description of Reference Architectures for Embedded Systems",
+          "autores": "GUESSI, MILENA ; OLIVEIRA, LUCAS BUENO RUAS ; GARCÉS, LINA ; OQUENDO, FLAVIO",
+          "periodico": "In: the 1st International Workshop, 2015, Montréal. Proceedings of the 1st International Workshop on Exploring Component-based Techniques for Constructing Reference Architectures - CobRA '15. p. 17-20.",
+          "doi": "http://dx.doi.org/10.1145/2755567.2755571",
+          "citacao_completa": "GUESSI, MILENA ; OLIVEIRA, LUCAS BUENO RUAS ; GARCÉS, LINA ; OQUENDO, FLAVIO . Towards a Formal Description of Reference Architectures for Embedded Systems. In: the 1st International Workshop, 2015, Montréal. Proceedings of the 1st International Workshop on Exploring Component-based Techniques for Constructing Reference Architectures - CobRA '15. p. 17-20."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Comparative Analysis of Reference Architectures for Healthcare in the Ambient Assisted Living Domain",
+          "autores": "RODRIGUEZ, LINA MARIA GARCES ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS), 2015, Sao Carlos. 2015 IEEE 28th International Symposium on Computer-Based Medical Systems. p. 270-275.",
+          "doi": "http://dx.doi.org/10.1109/CBMS.2015.29",
+          "citacao_completa": "RODRIGUEZ, LINA MARIA GARCES ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI . A Comparative Analysis of Reference Architectures for Healthcare in the Ambient Assisted Living Domain. In: 2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS), 2015, Sao Carlos. 2015 IEEE 28th International Symposium on Computer-Based Medical Systems. p. 270-275."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Elimination of blurred images of cellular fields to virtualize a slide",
+          "autores": "GARCES, LINA ; GUALDRON, HUGO ; GOMEZ, ANDRES",
+          "periodico": "In: 2012 XVII Symposium of Image, Signal Processing, and Artificial Vision (STSIVA), 2012, Medellin. 2012 XVII Symposium of Image, Signal Processing, and Artificial Vision (STSIVA). p. 183-189.",
+          "doi": "http://dx.doi.org/10.1109/STSIVA.2012.6340579",
+          "citacao_completa": "GARCES, LINA ; GUALDRON, HUGO ; GOMEZ, ANDRES . Elimination of blurred images of cellular fields to virtualize a slide. In: 2012 XVII Symposium of Image, Signal Processing, and Artificial Vision (STSIVA), 2012, Medellin. 2012 XVII Symposium of Image, Signal Processing, and Artificial Vision (STSIVA). p. 183-189."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Exploring security requirements specification supported by LLM: Results of an exploratory study with entry-level software engineers",
+          "autores": "CONTI, M. ; MELO, A. ; GARCÉS, LINA",
+          "periodico": "In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "CONTI, M. ; MELO, A. ; GARCÉS, LINA . Exploring security requirements specification supported by LLM: Results of an exploratory study with entry-level software engineers. In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Investigating the use of LLMs for Addressing Injection Vulnerabilities",
+          "autores": "PINTO, P. B. R. ; GUERREIRO, C. G. ; GARCÉS, LINA",
+          "periodico": "In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "PINTO, P. B. R. ; GUERREIRO, C. G. ; GARCÉS, LINA . Investigating the use of LLMs for Addressing Injection Vulnerabilities. In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A Multi-Layered Architecture for Microservices with Self-Protection Properties",
+          "autores": "SANTOS, V. ; GARCÉS, LINA",
+          "periodico": "In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "SANTOS, V. ; GARCÉS, LINA . A Multi-Layered Architecture for Microservices with Self-Protection Properties. In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Security architectural pattern recommendation in a RAG-based assistant: Results of an LLM-as-a-judge evaluation",
+          "autores": "PONTES, R. M. ; AMALFITANO, DOMENICO ; GARCÉS, LINA",
+          "periodico": "In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "PONTES, R. M. ; AMALFITANO, DOMENICO ; GARCÉS, LINA . Security architectural pattern recommendation in a RAG-based assistant: Results of an LLM-as-a-judge evaluation. In: Secure Software Development in the Age of AI, 2026, São Paulo. I Secure Software Development in the Age of AI (AISecDev). Porto Alegre: SBC, 2026. p. 1-4."
+        },
+        {
+          "ano": 2019,
+          "titulo": "PharmaSpy: um sistema de apoio a área de Farmacovigilância",
+          "autores": "ALVES, R. ; DIAS, J. ; GARCÉS, LINA ; NEVES, V.",
+          "periodico": "In: Competição de Desenvolvimento de SI Inovadores (CoDeSII), 2019, Aracajú, Sergipe. 15o Simpósio Brasileiro de Sistemas de Informação (SBSI'19), 2019. p. 1-2.",
+          "doi": "",
+          "citacao_completa": "ALVES, R. ; DIAS, J. ; GARCÉS, LINA ; NEVES, V. . PharmaSpy: um sistema de apoio a área de Farmacovigilância. In: Competição de Desenvolvimento de SI Inovadores (CoDeSII), 2019, Aracajú, Sergipe. 15o Simpósio Brasileiro de Sistemas de Informação (SBSI'19), 2019. p. 1-2."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Back-SoS: towards a model-based approach to address architectural drift in systems-of-systems",
+          "autores": "GRACIANO NETO, V. V. ; MANZANO, W. ; GARCÉS, LINA ; GUESSI, M. ; OLIVEIRA, B. R. N. ; VOLPATO, TIAGO ; Elisa Y. Nakagawa",
+          "periodico": "In: Symposium on Applied Computing, 2018, Pau, France. SAC '18 Proceedings of the 33rd Annual ACM Symposium on Applied Computing, 2018. p. 1461-1463.",
+          "doi": "http://dx.doi.org/10.1145/3167132.3167422",
+          "citacao_completa": "GRACIANO NETO, V. V. ; MANZANO, W. ; GARCÉS, LINA ; GUESSI, M. ; OLIVEIRA, B. R. N. ; VOLPATO, TIAGO ; Elisa Y. Nakagawa . Back-SoS: towards a model-based approach to address architectural drift in systems-of-systems. In: Symposium on Applied Computing, 2018, Pau, France. SAC '18 Proceedings of the 33rd Annual ACM Symposium on Applied Computing, 2018. p. 1461-1463."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Conceptual Map of Model-Driven Development for Systems-of-Systems.",
+          "autores": "NETO, V. ; OLIVEIRA, L. B. R. ; GUESSI, M. ; OQUENDO, F. ; GARCÉS, L. M. ; Elisa Y. Nakagawa",
+          "periodico": "In: IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015, Belo Horizonte. IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015. p. 89-92.",
+          "doi": "",
+          "citacao_completa": "NETO, V. ; OLIVEIRA, L. B. R. ; GUESSI, M. ; OQUENDO, F. ; GARCÉS, L. M. ; Elisa Y. Nakagawa . A Conceptual Map of Model-Driven Development for Systems-of-Systems.. In: IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015, Belo Horizonte. IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES), 2015. p. 89-92."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Reference Architecture for Healthcare Supportive Home Systems",
+          "autores": "RODRIGUEZ, LINA MARIA GARCES ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS), 2015, Sao Carlos. 2015 IEEE 28th International Symposium on Computer-Based Medical Systems. p. 358-359.",
+          "doi": "http://dx.doi.org/10.1109/CBMS.2015.39",
+          "citacao_completa": "RODRIGUEZ, LINA MARIA GARCES ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI . A Reference Architecture for Healthcare Supportive Home Systems. In: 2015 IEEE 28th International Symposium on ComputerBased Medical Systems (CBMS), 2015, Sao Carlos. 2015 IEEE 28th International Symposium on Computer-Based Medical Systems. p. 358-359."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Detección de Glóbulos Rojos en una Placa Virtual de Sangre Periférica",
+          "autores": "CASTELLANOS, L. A. ; HASBON, L. E. ; GARCÉS, L. M. ; BAUTISTA, L. X.",
+          "periodico": "In: Congresso Nacional de Engenharia Mecânica - CONEM, 2012, São Luis do Maranhão. Congresso Nac ional de Engenharia Mecânica. São Luis do Maranhão: VII Congreso Nacional de Ingeniería Mecánica Conem, 2012. v. 7. p. 10-11.",
+          "doi": "",
+          "citacao_completa": "CASTELLANOS, L. A. ; HASBON, L. E. ; GARCÉS, L. M. ; BAUTISTA, L. X. . Detección de Glóbulos Rojos en una Placa Virtual de Sangre Periférica. In: Congresso Nacional de Engenharia Mecânica - CONEM, 2012, São Luis do Maranhão. Congresso Nac ional de Engenharia Mecânica. São Luis do Maranhão: VII Congreso Nacional de Ingeniería Mecánica Conem, 2012. v. 7. p. 10-11."
+        },
+        {
+          "ano": 2012,
+          "titulo": "ESTUDIO PARA LA IMPLEMENTACIÓN DE SISTEMAS DE TELEGINECOOBSTETRICIA EN EL DEPARTAMENTO DE SANTANDER",
+          "autores": "GARCÉS, LINA ; ANGARITA, J. S. ; ROMERO, M. F.",
+          "periodico": "In: Cartagena Telemedicine Conference, 2012, Cartagena. CARTAGENA TELEMEDICINE CONFERENCE 2012, 2012. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; ANGARITA, J. S. ; ROMERO, M. F. . ESTUDIO PARA LA IMPLEMENTACIÓN DE SISTEMAS DE TELEGINECOOBSTETRICIA EN EL DEPARTAMENTO DE SANTANDER. In: Cartagena Telemedicine Conference, 2012, Cartagena. CARTAGENA TELEMEDICINE CONFERENCE 2012, 2012. p. 1-8."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Strengthening Academic Communities Through Female Leadership: An Experience Report in Software Engineering",
+          "autores": "MELO, A. ; GARCÉS, LINA",
+          "periodico": "In: womENcourage, 2026, Sophia Antipolis, FR. womENcourage(TM) 2026. ACM Celebration of Women in Computing.. USA: ACM, 2026. p. 1-2.",
+          "doi": "",
+          "citacao_completa": "MELO, A. ; GARCÉS, LINA . Strengthening Academic Communities Through Female Leadership: An Experience Report in Software Engineering. In: womENcourage, 2026, Sophia Antipolis, FR. womENcourage(TM) 2026. ACM Celebration of Women in Computing.. USA: ACM, 2026. p. 1-2."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DE ESTRATÉGIAS DE CONSENTIMENTO DE TRATAMENTO DE INFORMAÇÃO EM SISTEMAS DE IoMT (INTERNET OF MEDICAL THINGS).",
+          "autores": "ARAUJO, M. ; LINA GARCÉS.",
+          "periodico": "In: V Simpósio de Iniciação Científica da Unifei, 2022, ITAJUBA. V Simpósio de Iniciação Científica da Unifei, 2023.",
+          "doi": "",
+          "citacao_completa": "ARAUJO, M. ; LINA GARCÉS. . ANÁLISE DE ESTRATÉGIAS DE CONSENTIMENTO DE TRATAMENTO DE INFORMAÇÃO EM SISTEMAS DE IoMT (INTERNET OF MEDICAL THINGS).. In: V Simpósio de Iniciação Científica da Unifei, 2022, ITAJUBA. V Simpósio de Iniciação Científica da Unifei, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Diretrizes propostas para exibição de termos de uso e políticas de privacidade com base nos requisitos da LGPD e em boas práticas de design de experiência do usuário",
+          "autores": "MOREIRA, C. V. ; LINA GARCÉS.",
+          "periodico": "In: V Simpósio de Iniciação Científica da Unife, 2022. V Simpósio de Iniciação Científica da Unife, 2022.",
+          "doi": "",
+          "citacao_completa": "MOREIRA, C. V. ; LINA GARCÉS. . Diretrizes propostas para exibição de termos de uso e políticas de privacidade com base nos requisitos da LGPD e em boas práticas de design de experiência do usuário. In: V Simpósio de Iniciação Científica da Unife, 2022. V Simpósio de Iniciação Científica da Unife, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Categorização de vulnerabilidades de segurança em sistemas de IoT.",
+          "autores": "PIOVIANI, F. ; LINA GARCÉS.",
+          "periodico": "In: V Simpósio de Iniciação Científica da Unifei, 2022, Itajuba. V Simpósio de Iniciação Científica da Unifei, 2022.",
+          "doi": "",
+          "citacao_completa": "PIOVIANI, F. ; LINA GARCÉS. . Categorização de vulnerabilidades de segurança em sistemas de IoT.. In: V Simpósio de Iniciação Científica da Unifei, 2022, Itajuba. V Simpósio de Iniciação Científica da Unifei, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "ABORDAGEM PARA ESPECIFICAÇÃO DE REQUISITOS DE DESIGN DE SOFTWARE PARA SISTEMAS DE INTERNET DAS COISAS (IOT) CONFORME A LEI GERAL DE PROTEÇÃO DE DADOS (LGPD).",
+          "autores": "LOPES, J. P. ; LINA GARCÉS.",
+          "periodico": "In: V Simpósio de Iniciação Científica da Unife, 2022. V Simpósio de Iniciação Científica da Unife, 2022.",
+          "doi": "",
+          "citacao_completa": "LOPES, J. P. ; LINA GARCÉS. . ABORDAGEM PARA ESPECIFICAÇÃO DE REQUISITOS DE DESIGN DE SOFTWARE PARA SISTEMAS DE INTERNET DAS COISAS (IOT) CONFORME A LEI GERAL DE PROTEÇÃO DE DADOS (LGPD).. In: V Simpósio de Iniciação Científica da Unife, 2022. V Simpósio de Iniciação Científica da Unife, 2022."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Establishment of a Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus",
+          "autores": "VICENTE, I. ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: 25o Simpósisio Internacional de Iniciação Científica da USP - SIICUSP, 2017, São Carlos. 25o Simpósisio Internacional de Iniciação Científica da USP - SIICUSP, 2017. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "VICENTE, I. ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . Establishment of a Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus. In: 25o Simpósisio Internacional de Iniciação Científica da USP - SIICUSP, 2017, São Carlos. 25o Simpósisio Internacional de Iniciação Científica da USP - SIICUSP, 2017. p. 1-1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Health Care Supportive Home System for Cardiovascular Diseases",
+          "autores": "MORAIS, M. G. C. ; GARCÉS, L. M. ; NAKAGAWA, ELISA YUMI",
+          "periodico": "In: XXIV Simpósio Internacional de Iniciação Científica da Universidade de São Paulo (SIICUSP 2016), 2016, São Carlos, SP. XXIV Simpósio Internacional de Iniciação Científica da Universidade de São Paulo (SIICUSP 2016), 2016. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "MORAIS, M. G. C. ; GARCÉS, L. M. ; NAKAGAWA, ELISA YUMI . A Health Care Supportive Home System for Cardiovascular Diseases. In: XXIV Simpósio Internacional de Iniciação Científica da Universidade de São Paulo (SIICUSP 2016), 2016, São Carlos, SP. XXIV Simpósio Internacional de Iniciação Científica da Universidade de São Paulo (SIICUSP 2016), 2016. p. 1-1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Investigating Issues of Human-Computer Interaction for Systems-of-Systems",
+          "autores": "NETO, V. ; GARCÉS, L. M. ; BOSCARIOLI, C. ; Elisa Y. Nakagawa",
+          "periodico": "In: 9th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems, 2015, Belo Horizonte, Brazil. 9th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems, 2015. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "NETO, V. ; GARCÉS, L. M. ; BOSCARIOLI, C. ; Elisa Y. Nakagawa . Investigating Issues of Human-Computer Interaction for Systems-of-Systems. In: 9th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems, 2015, Belo Horizonte, Brazil. 9th Workshop on Distributed Software Development, Software Ecosystems and Systems-of-Systems, 2015. p. 1-4."
+        },
+        {
+          "ano": 2012,
+          "titulo": "RICH INTERNET APPLICATIONS DEVELOPMENT USING VAADIN FRAMEWORK",
+          "autores": "LIPEZ, Y. P. ; GARCÉS, LINA ; GOMEZ, ANDRES",
+          "periodico": "In: Congreso Internacional de Electrónica y Tecnologías de Avanzada, 2012, Pamplona. IX Congreso Internacional de Electrónica y Tecnologías de Avanzada (CIETA), 2012. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "LIPEZ, Y. P. ; GARCÉS, LINA ; GOMEZ, ANDRES . RICH INTERNET APPLICATIONS DEVELOPMENT USING VAADIN FRAMEWORK. In: Congreso Internacional de Electrónica y Tecnologías de Avanzada, 2012, Pamplona. IX Congreso Internacional de Electrónica y Tecnologías de Avanzada (CIETA), 2012. p. 1-5."
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A Platform for Remote Monitoring of Older Adults: The Value of Heart Rate Variability",
+          "autores": "RODRIGUES, E. ; BARBOSA, P. ; NAKAGAWA, ELISA ; GARCÉS, LINA",
+          "periodico": "INTERNATIONAL JOURNAL OF E-HEALTH AND MEDICAL COMMUNICATIONS , 2026.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, E. ; BARBOSA, P. ; NAKAGAWA, ELISA ; GARCÉS, LINA . A Platform for Remote Monitoring of Older Adults: The Value of Heart Rate Variability. INTERNATIONAL JOURNAL OF E-HEALTH AND MEDICAL COMMUNICATIONS , 2026."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Impacto da IA na Prática da Engenharia de Software",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Impacto da IA na Prática da Engenharia de Software. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Software Architecture: Research perspectives for contemporary systems",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Software Architecture: Research perspectives for contemporary systems. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Ensino de Computação no Ensino Básico: O Papel da Extensão Universitária",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Ensino de Computação no Ensino Básico: O Papel da Extensão Universitária. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Painel: Ensino de Computação no Ensino Básico: O Papel da Extensão Universitária",
+          "autores": "GARCÉS, LINA ; RODRIGUES, K. R. ; SIMOES, M.",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; RODRIGUES, K. R. ; SIMOES, M. . Painel: Ensino de Computação no Ensino Básico: O Papel da Extensão Universitária. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Conversa intitulada MULHERES NA CIÊNCIA",
+          "autores": "SILVEIRA, C. ; GARCÉS, LINA ; SAMPAIO, L.",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, C. ; GARCÉS, LINA ; SAMPAIO, L. . Conversa intitulada MULHERES NA CIÊNCIA. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Elas e a diferença que fazem na computação e na ciência",
+          "autores": "RODRIGUES, K. R. H. ; SIMOES, M. ; GARCÉS, LINA",
+          "periodico": "2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, K. R. H. ; SIMOES, M. ; GARCÉS, LINA . Elas e a diferença que fazem na computação e na ciência. 2025. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Painelista: Mulheres na Criação de Tecnologias de IA: Visibilidade e Reconhecimento",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Painelista: Mulheres na Criação de Tecnologias de IA: Visibilidade e Reconhecimento. 2025. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Mesa-redonda ?Redes Nacionais e Regionais de Extensão e Educação com Projetos Parceiros do Meninas Digitais",
+          "autores": "GARCÉS, LINA ; SALGADO, L. ; SILVA, G. B. E.",
+          "periodico": "2025. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; SALGADO, L. ; SILVA, G. B. E. . Mesa-redonda ?Redes Nacionais e Regionais de Extensão e Educação com Projetos Parceiros do Meninas Digitais. 2025. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "TrilhEdu: Visualization of Educational Content Through Learning Trails Using Graphs and Gamification",
+          "autores": "ALMEIDA, GUSTAVO R. ; GARCÉS, LINA ; BATISTA, BRUNO G. ; RODRIGUES, E. C.",
+          "periodico": "2024. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, GUSTAVO R. ; GARCÉS, LINA ; BATISTA, BRUNO G. ; RODRIGUES, E. C. . TrilhEdu: Visualization of Educational Content Through Learning Trails Using Graphs and Gamification. 2024. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "MoniPaEp: Um Sistema para Monitoramento de Sintomas de Doenças Endêmicas",
+          "autores": "GENESIO, V. L. S. ; GARCÉS, LINA ; BRAGA, R. T. V.",
+          "periodico": "2024. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GENESIO, V. L. S. ; GARCÉS, LINA ; BRAGA, R. T. V. . MoniPaEp: Um Sistema para Monitoramento de Sintomas de Doenças Endêmicas. 2024. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Modelo Web para Exibição de Termos de Uso e Políticas de Privacidade com Foco na LGPD e em Práticas de Design de Experiência do Usuário",
+          "autores": "MOREIRA, CAROLINA V. ; SEABRA, RODRIGO D. ; GARCÉS, LINA",
+          "periodico": "2024. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "MOREIRA, CAROLINA V. ; SEABRA, RODRIGO D. ; GARCÉS, LINA . Modelo Web para Exibição de Termos de Uso e Políticas de Privacidade com Foco na LGPD e em Práticas de Design de Experiência do Usuário. 2024. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Teaching Software Engineering with Project-Based Learning: A Four Years Experience Report",
+          "autores": "GARCÉS, LINA ; OLIVEIRA, B. R. N.",
+          "periodico": "2024. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OLIVEIRA, B. R. N. . Teaching Software Engineering with Project-Based Learning: A Four Years Experience Report. 2024. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Three Decades of Software Reference Architectures: Results of a Systematic Mapping Study",
+          "autores": "GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; OLIVEIRA, L. B. R. ; VALLE, P. H. D. ; AYALA, CLAUDIA ; FRANCH, XAVIER ; NAKAGAWA, ELISA",
+          "periodico": "2022. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; MARTINEZ-FERNANDEZ, S. ; OLIVEIRA, L. B. R. ; VALLE, P. H. D. ; AYALA, CLAUDIA ; FRANCH, XAVIER ; NAKAGAWA, ELISA . Three Decades of Software Reference Architectures: Results of a Systematic Mapping Study. 2022. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Uma arquitetura de referência para sistemas de casas inteligentes de apoio ao cuidado à saúde da perspectiva de sistemas-de-sistemas",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; Elisa Y. Nakagawa",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; Elisa Y. Nakagawa . Uma arquitetura de referência para sistemas de casas inteligentes de apoio ao cuidado à saúde da perspectiva de sistemas-de-sistemas. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus",
+          "autores": "GARCÉS, LINA ; VICENTE, ISABELLA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "2019. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; VICENTE, ISABELLA ; NAKAGAWA, ELISA YUMI . Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus. 2019. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Towards a Taxonomy of Software Mediators for Systems-of-Systems",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; Elisa Y. Nakagawa",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; Elisa Y. Nakagawa . Towards a Taxonomy of Software Mediators for Systems-of-Systems. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Establishment of a platform for full interoperability in Systems-of- Systems: a case study in the e-health domain.",
+          "autores": "GARCÉS, L. M. ; NAKAGAWA, ELISA",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. ; NAKAGAWA, ELISA . Establishment of a platform for full interoperability in Systems-of- Systems: a case study in the e-health domain.. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A Process to Establish, Model and Validate Missions of Systems-of-Systems in Reference Architectures",
+          "autores": "LINA GARCÉS. ; Elisa Y. Nakagawa",
+          "periodico": "2017. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. ; Elisa Y. Nakagawa . A Process to Establish, Model and Validate Missions of Systems-of-Systems in Reference Architectures. 2017. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "An Experience Report on Update of Systematic Literature Reviews",
+          "autores": "GARCÉS, LINA ; FELIZARDO, K. R. ; OLIVEIRA, L. B. R. ; NAKAGAWA, ELISA YUMI",
+          "periodico": "2017. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; FELIZARDO, K. R. ; OLIVEIRA, L. B. R. ; NAKAGAWA, ELISA YUMI . An Experience Report on Update of Systematic Literature Reviews. 2017. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Quality Model for AAL Software Systems",
+          "autores": "GARCÉS, LINA ; OQUENDO, F. ; Elisa Y. Nakagawa",
+          "periodico": "2016. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, F. ; Elisa Y. Nakagawa . A Quality Model for AAL Software Systems. 2016. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Reference Architecture for Healthcare Supportive Home Systems",
+          "autores": "GARCÉS, LINA ; AMPATZOGLOU, A. ; AVGERIOU, P. ; Elisa Y. Nakagawa",
+          "periodico": "2015. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; AMPATZOGLOU, A. ; AVGERIOU, P. ; Elisa Y. Nakagawa . A Reference Architecture for Healthcare Supportive Home Systems. 2015. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Comparative Analysis of Reference Architectures for Healthcare in the Ambient Assisted Living Domain",
+          "autores": "GARCÉS, LINA ; AMPATZOGLOU, A. ; AVGERIOU, P. ; Elisa Y. Nakagawa",
+          "periodico": "2015. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; AMPATZOGLOU, A. ; AVGERIOU, P. ; Elisa Y. Nakagawa . A Comparative Analysis of Reference Architectures for Healthcare in the Ambient Assisted Living Domain. 2015. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estudio para la implementación de Sistemas de Teleotorrinolaringología en el departamento de santander",
+          "autores": "ROMERO, M. F. ; ANGARITA, J. S. ; GARCÉS, L. M.",
+          "periodico": "2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "ROMERO, M. F. ; ANGARITA, J. S. ; GARCÉS, L. M. . Estudio para la implementación de Sistemas de Teleotorrinolaringología en el departamento de santander. 2012. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Theoretical Background about Interoperability between Health Information Systems in Colombia",
+          "autores": "TARAZONA, D. ; GARCÉS, L. M. ; BAUTISTA, L. X.",
+          "periodico": "2012. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "TARAZONA, D. ; GARCÉS, L. M. ; BAUTISTA, L. X. . Theoretical Background about Interoperability between Health Information Systems in Colombia. 2012. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detección de núcleos en imágenes de células cérvicouterinas mediante un clasificador entrenado por boosting",
+          "autores": "GUALDRON, H. A. ; GARCÉS, L. M. ; BAUTISTA, L. X.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "GUALDRON, H. A. ; GARCÉS, L. M. ; BAUTISTA, L. X. . Detección de núcleos en imágenes de células cérvicouterinas mediante un clasificador entrenado por boosting. 2011. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detección de Glóbulos Rojos en Imágenes Microscópicas de Células Sanguíneas",
+          "autores": "CASTELLANOS, L. A. ; HASBON, L. E. ; GARCÉS, L. M.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "CASTELLANOS, L. A. ; HASBON, L. E. ; GARCÉS, L. M. . Detección de Glóbulos Rojos en Imágenes Microscópicas de Células Sanguíneas. 2011. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "'SISTEMAS DE TELECITOLOGÍA COMO ALTERNATIVA EN LA DETECCIÓN TEMPRANA DE CÁNCER DE CUELLO UTERINO EN COLOMBIA",
+          "autores": "GARCÉS, LINA ; Martinez, Victor ; GUALDRON, H. A. ; Alfonso Mendoza",
+          "periodico": "2011. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; Martinez, Victor ; GUALDRON, H. A. ; Alfonso Mendoza . 'SISTEMAS DE TELECITOLOGÍA COMO ALTERNATIVA EN LA DETECCIÓN TEMPRANA DE CÁNCER DE CUELLO UTERINO EN COLOMBIA. 2011. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Reference architectures and reference models for ambient assisted living systems: a systematic literature review.",
+          "autores": "GARCÉS, LINA ; AMPATZOGLOU, A. ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "São Carlos 2017 (Technical Report).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; AMPATZOGLOU, A. ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . Reference architectures and reference models for ambient assisted living systems: a systematic literature review.. São Carlos 2017 (Technical Report)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "QM4AAL: quality model for ambient assisted living systems",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "Sao Carlos 2017 (Technical Report).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . QM4AAL: quality model for ambient assisted living systems. Sao Carlos 2017 (Technical Report)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A REFERENCE ARCHITECTURE FOR HEALTHCARE SUPPORTIVE HOME SYSTEMS: MISSIONS ESTABLISHMENT AND VALIDATION",
+          "autores": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI",
+          "periodico": "Sao Carlos 2017 (Technical Report).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OQUENDO, FLAVIO ; NAKAGAWA, ELISA YUMI . A REFERENCE ARCHITECTURE FOR HEALTHCARE SUPPORTIVE HOME SYSTEMS: MISSIONS ESTABLISHMENT AND VALIDATION. Sao Carlos 2017 (Technical Report)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Interação humano-computador em um sistema-de-sistemas para tratamento doméstico de idosos com Parkinson.",
+          "autores": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; LANA, CRISTIANE ; BOSCARIOLI, C. ; FORTES, R. ; NAKAGAWA, ELISA",
+          "periodico": "Sao Carlos, SP, Brazil: Biblioteca ICMC-USP, 2017 (Technical Report).",
+          "doi": "",
+          "citacao_completa": "GRACIANO NETO, VALDEMAR VICENTE ; GARCÉS, LINA ; LANA, CRISTIANE ; BOSCARIOLI, C. ; FORTES, R. ; NAKAGAWA, ELISA . Interação humano-computador em um sistema-de-sistemas para tratamento doméstico de idosos com Parkinson.. Sao Carlos, SP, Brazil: Biblioteca ICMC-USP, 2017 (Technical Report)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Establishment of a Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus: Functional and Non-Functional Requirement",
+          "autores": "VICENTE, ISABELLA ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "São Carlos, Brazil: Biblioteca do Instituto de Ciências Matemáticas e Computação - ICMC, Universidade de São Paulo, 2017 (Technical Report N. 421).",
+          "doi": "",
+          "citacao_completa": "VICENTE, ISABELLA ; GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . Establishment of a Software Architecture for Health Care Supportive Home System to Assist Patients with Diabetes Mellitus: Functional and Non-Functional Requirement. São Carlos, Brazil: Biblioteca do Instituto de Ciências Matemáticas e Computação - ICMC, Universidade de São Paulo, 2017 (Technical Report N. 421)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A SYSTEMATIC MAPPING ON QUALITY ATTRIBUTES AND QUALITY MODELS FOR AMBIENT ASSISTED LIVING SYSTEMS",
+          "autores": "GARCÉS, LINA ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI",
+          "periodico": "São Carlos, SP: Biblioteca ICMC-USP, 2016 (Technical Report).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; AMPATZOGLOU, APOSTOLOS ; AVGERIOU, PARIS ; NAKAGAWA, ELISA YUMI . A SYSTEMATIC MAPPING ON QUALITY ATTRIBUTES AND QUALITY MODELS FOR AMBIENT ASSISTED LIVING SYSTEMS. São Carlos, SP: Biblioteca ICMC-USP, 2016 (Technical Report)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Colaboração na condução de projeto de mestrado",
+          "autores": "BIAZZOTTO, J. ; Elisa Y. Nakagawa ; GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "BIAZZOTTO, J. ; Elisa Y. Nakagawa ; GARCÉS, LINA . Colaboração na condução de projeto de mestrado. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Colaboração em condução de projeto de doutorado",
+          "autores": "VALLE, P. ; Elisa Y. Nakagawa ; GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "VALLE, P. ; Elisa Y. Nakagawa ; GARCÉS, LINA . Colaboração em condução de projeto de doutorado. 2019."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "WebDevMonitor AI: Tutor inteligente para ensino de programação web",
+          "autores": "LEMOS, D. F. ; GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "LEMOS, D. F. ; GARCES, LINA . WebDevMonitor AI: Tutor inteligente para ensino de programação web. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "WebDevMonitor AI: Tutor inteligente para ensino de programação web",
+          "autores": "LEMOS, D. F. ; GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "LEMOS, D. F. ; GARCES, LINA . WebDevMonitor AI: Tutor inteligente para ensino de programação web. 2026."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Kombate - Sistema de Informação para o controle endêmico do mosquito Aedes aegypti",
+          "autores": "GREGORIO, I. O. ; ALMEIDA, A. ; GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GREGORIO, I. O. ; ALMEIDA, A. ; GARCÉS, LINA . Kombate - Sistema de Informação para o controle endêmico do mosquito Aedes aegypti. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Web site do PPG-CTC",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Web site do PPG-CTC. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Marley - Aplicativo de navegação indoor para pessoas com deficiência visual",
+          "autores": "GARCÉS, LINA ; SANCHEZ, J. A. G. ; SANTOS, M. R. ; LEAL, G. ; CORTES, G. ; BARBOSA, M. ; RIBEIRO, L. ; CARVALHO, Y. ; MANSUR, H.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; SANCHEZ, J. A. G. ; SANTOS, M. R. ; LEAL, G. ; CORTES, G. ; BARBOSA, M. ; RIBEIRO, L. ; CARVALHO, Y. ; MANSUR, H. . Marley - Aplicativo de navegação indoor para pessoas com deficiência visual. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SigTCC - Sistema de Gestão de Trabalhos de Conclusão de Curso",
+          "autores": "GARCÉS, LINA ; ALMEIDA, G. R. ; LEAL, G. ; FERNANDES, R.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; ALMEIDA, G. R. ; LEAL, G. ; FERNANDES, R. . SigTCC - Sistema de Gestão de Trabalhos de Conclusão de Curso. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "BEATS - Buscador de Estratégias Arquiteturais para Segurança",
+          "autores": "GARCÉS, LINA ; MORAES JUNIOR, M. I. ; MORENO, R. O. ; MARTINS, L. C. B.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; MORAES JUNIOR, M. I. ; MORENO, R. O. ; MARTINS, L. C. B. . BEATS - Buscador de Estratégias Arquiteturais para Segurança. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "CoTerU - Framework usável e acessível para apoiar a conformidade dos Termos de Uso de dados em sistemas web",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . CoTerU - Framework usável e acessível para apoiar a conformidade dos Termos de Uso de dados em sistemas web. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "HMInspect - Aplicação de IHM para máquinas de inspeção de autopeças",
+          "autores": "MACHADO, I. M. ; FRINHANI, R. ; GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "MACHADO, I. M. ; FRINHANI, R. ; GARCÉS, LINA . HMInspect - Aplicação de IHM para máquinas de inspeção de autopeças. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "TrilhaEdu - Gerenciador de trilhas de aprendizagem usando grafos e gamificação",
+          "autores": "ALMEIDA, G. R. ; GARCÉS, L. M.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, G. R. ; GARCÉS, L. M. . TrilhaEdu - Gerenciador de trilhas de aprendizagem usando grafos e gamificação. 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SystemMedic - Software para a gestão de medicamentos em unidades básicas de saúde",
+          "autores": "RIBEIRO, I. O. ; GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, I. O. ; GARCÉS, LINA . SystemMedic - Software para a gestão de medicamentos em unidades básicas de saúde. 2021."
+        },
+        {
+          "ano": 2019,
+          "titulo": "PharmaSpy - um sistema de apoio a área de Farmacovigilância",
+          "autores": "ALVES, R. ; DIAS, J. ; GARCÉS, LINA ; NEVES, V.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "ALVES, R. ; DIAS, J. ; GARCÉS, LINA ; NEVES, V. . PharmaSpy - um sistema de apoio a área de Farmacovigilância. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "SofiaFala - Apoio ao treinamento da fala em crianças com Sindrome de Down",
+          "autores": "MACEDO, A. A. ; MANDRA, P. P. ; SOARES, M. D. ; MELONI, F. ; Bulcão, Renato ; FILHO, R. ; RISSATO, P. ; GARCÉS, LINA ; BORTOLAI, B.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "MACEDO, A. A. ; MANDRA, P. P. ; SOARES, M. D. ; MELONI, F. ; Bulcão, Renato ; FILHO, R. ; RISSATO, P. ; GARCÉS, LINA ; BORTOLAI, B. . SofiaFala - Apoio ao treinamento da fala em crianças com Sindrome de Down. 2018."
+        },
+        {
+          "ano": 2012,
+          "titulo": "CAFE",
+          "autores": "GARCÉS, L. M. ; GUALDRON, H. A. ; LIPEZ, Y. P. ; GRECCO, C.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. ; GUALDRON, H. A. ; LIPEZ, Y. P. ; GRECCO, C. . CAFE. 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Hemasoft - Ferramenta de segmentação de células do sangue",
+          "autores": "CASTELLANOS, L. A. ; HASBON, L. E. ; GOMEZ, A. E. ; GARCÉS, L. M. ; BAUTISTA, L. X.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "CASTELLANOS, L. A. ; HASBON, L. E. ; GOMEZ, A. E. ; GARCÉS, L. M. ; BAUTISTA, L. X. . Hemasoft - Ferramenta de segmentação de células do sangue. 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Clasificador de Blurring",
+          "autores": "GUALDRON, H. A. ; GOMEZ, A. E. ; GARCÉS, L. M.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "GUALDRON, H. A. ; GOMEZ, A. E. ; GARCÉS, L. M. . Clasificador de Blurring. 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detector de Núcleos",
+          "autores": "GUALDRON, H. A. ; GARCÉS, L. M.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "GUALDRON, H. A. ; GARCÉS, L. M. . Detector de Núcleos. 2011."
+        },
+        {
+          "ano": 2009,
+          "titulo": "TDTelemedicina - Aplicativo de televisão digital terrestre para lembretes médicos",
+          "autores": "GARCÉS, L. M. ; ROVIRA, D. A. ; CASTILLO, S.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. ; ROVIRA, D. A. ; CASTILLO, S. . TDTelemedicina - Aplicativo de televisão digital terrestre para lembretes médicos. 2009."
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "SIGEAN-architecture - Arquitetura de Software para um Sistema de Gerenciamento de Setores de Anestesiologia",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . SIGEAN-architecture - Arquitetura de Software para um Sistema de Gerenciamento de Setores de Anestesiologia. 2021."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Participação do Prêmio Péter Murányi 2026 - Educação",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Participação do Prêmio Péter Murányi 2026 - Educação. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de trabalho no WIT - 20º Women In Information Technology",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de trabalho no WIT - 20º Women In Information Technology. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro do Comitê de Programa do III Simpósio Brasileiro de Computação na Educação Básica (SBC-EB)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do III Simpósio Brasileiro de Computação na Educação Básica (SBC-EB). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro do Comitê de Programa do IX Simpósio Brasileiro de Educação em Computação (EduComp),",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do IX Simpósio Brasileiro de Educação em Computação (EduComp),. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro do Comitê de Programa do ACM International Conference on the Foundations of Software Engineering (FSE) - Software Engineering Education Track (SEET) (FSE 2026 SEET)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do ACM International Conference on the Foundations of Software Engineering (FSE) - Software Engineering Education Track (SEET) (FSE 2026 SEET). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 8 trabalhos da trilha principal do XXVI Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 8 trabalhos da trilha principal do XXVI Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisão de 3 trabalhos no I Workshop de Grandes Desafios da Computação Aplicada à Saúde do SBCAS",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisão de 3 trabalhos no I Workshop de Grandes Desafios da Computação Aplicada à Saúde do SBCAS. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Parecer de 3 trabalhos no Concurso de Teses e Dissertações Prêmio Artur Ziviani CTD-SBCAS",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Parecer de 3 trabalhos no Concurso de Teses e Dissertações Prêmio Artur Ziviani CTD-SBCAS. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 1 artigo no Journal of Systems and Software",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 1 artigo no Journal of Systems and Software. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 1 artigo no Journal of Software Engineering Research and Development",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 1 artigo no Journal of Software Engineering Research and Development. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 3 trabalhos no 40th Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 3 trabalhos no 40th Simpósio Brasileiro de Engenharia de Software (SBES). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 3 trabalhos na trilha de Ideias Inovadoras e Resultados Emergentes (IIER) do Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 3 trabalhos na trilha de Ideias Inovadoras e Resultados Emergentes (IIER) do Simpósio Brasileiro de Engenharia de Software (SBES). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Revisora de 3 trabalhos na trilha de IFerramentas do Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 3 trabalhos na trilha de IFerramentas do Simpósio Brasileiro de Engenharia de Software (SBES). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro do Comitê de Programa do XX Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do XX Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro do Comite de Programa do XXXVII Simpósio Brasileiro de Informática na Educação (SBIE)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comite de Programa do XXXVII Simpósio Brasileiro de Informática na Educação (SBIE). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Membro de Comitê de Programa do 32 Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia)",
+          "autores": "GARCES, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro de Comitê de Programa do 32 Simpósio Brasileiro de Sistemas Multimídia e Web (WebMedia). 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisão de 5 artigos no SEIP (Software Engineering in Practice) of the 47th International Conference on Software Engineering (ICSE 2025 SEIP)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 5 artigos no SEIP (Software Engineering in Practice) of the 47th International Conference on Software Engineering (ICSE 2025 SEIP). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Parecer de Proposta está inserida na modalidade de PIPE Fluxo Contínuo.",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Parecer de Proposta está inserida na modalidade de PIPE Fluxo Contínuo.. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisora de 1 artigo no The Journal of Systems & Software",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 1 artigo no The Journal of Systems & Software. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisora de 8 artigos no XXV Simpósio Brasileiro de Computação Aplicada à Saúde.",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 8 artigos no XXV Simpósio Brasileiro de Computação Aplicada à Saúde.. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Coordenadora de sessão técnica no XXXIX Simpósio Brasileiro de Engenharia de Software.",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Coordenadora de sessão técnica no XXXIX Simpósio Brasileiro de Engenharia de Software.. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisão de 5 trabalhos na 1a etapa do 33 Simpósio de Iniciação Científica e Tecnológica da USP - SIICUSP",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 5 trabalhos na 1a etapa do 33 Simpósio de Iniciação Científica e Tecnológica da USP - SIICUSP. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisão de 3 trabalhos na trilha principal do XXXIX Simpósio Brasileiro de Engenharia de Software",
+          "autores": "GARCES, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisão de 3 trabalhos na trilha principal do XXXIX Simpósio Brasileiro de Engenharia de Software. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisão de 2 trabalhos na trilha Ideias Inovadoras e Resultados Emergentes (IIER) do XXXIX Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisão de 2 trabalhos na trilha Ideias Inovadoras e Resultados Emergentes (IIER) do XXXIX Simpósio Brasileiro de Engenharia de Software (SBES). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisão de 2 trabalhos na trilha Ferramentas do XXXIX Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisão de 2 trabalhos na trilha Ferramentas do XXXIX Simpósio Brasileiro de Engenharia de Software (SBES). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Membro do Comitê de Programa da trilha Software Engineering in Practice, 47th IEEE/ACM International Conference on Software Engineering (SEIP-ICSE)",
+          "autores": "GARCES, LINA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa da trilha Software Engineering in Practice, 47th IEEE/ACM International Conference on Software Engineering (SEIP-ICSE). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Revisora de 3 trabalhos no concurso de tese e dissertações do XXV Simpósio Brasileiro de Computação Aplicada à Saúde",
+          "autores": "GARCÉS, LINA",
+          "periodico": "(CTD-SBCAS). 2025.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 3 trabalhos no concurso de tese e dissertações do XXV Simpósio Brasileiro de Computação Aplicada à Saúde. (CTD-SBCAS). 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisora de 3 artigos na trilha Ideias Inovadoras e Resultados Emergentes (IIER) do Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 3 artigos na trilha Ideias Inovadoras e Resultados Emergentes (IIER) do Simpósio Brasileiro de Engenharia de Software (SBES). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 5 artigos da Trilha de Pesquisa do XX Simpósio Brasileiro de Sistemas de Informação (SBSI 2024)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 5 artigos da Trilha de Pesquisa do XX Simpósio Brasileiro de Sistemas de Informação (SBSI 2024). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisor de 1 artigo no Journal of Software Engineering Research and Development (JSERD)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisor de 1 artigo no Journal of Software Engineering Research and Development (JSERD). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 1 artigo no 21st International Conference on Software Architecture (ICSA)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 1 artigo no 21st International Conference on Software Architecture (ICSA). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Parecer de Proposta está inserida na modalidade de PIPE Fluxo Contínuo.",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Parecer de Proposta está inserida na modalidade de PIPE Fluxo Contínuo.. 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Avaliação de 2 trabalhos no SBCAS 2024 - Concurso de Teses e Dissertações (SBCAS_CTD 2024)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 2 trabalhos no SBCAS 2024 - Concurso de Teses e Dissertações (SBCAS_CTD 2024). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 9 artigos na trilha principal do XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 9 artigos na trilha principal do XXIV Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão do 4 artigos no Insightful Ideas and Emerging Results Track (SBES-IIER 2024).",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão do 4 artigos no Insightful Ideas and Emerging Results Track (SBES-IIER 2024).. 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 4 trabalhos na trilha de ferramentas do XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES 2024)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 4 trabalhos na trilha de ferramentas do XXXVIII Simpósio Brasileiro de Engenharia de Software (SBES 2024). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 1 artigo no journal IEEE Transactions on Education",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 1 artigo no journal IEEE Transactions on Education. 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 2 artigos no 18th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2024)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 2 artigos no 18th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2024). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisão de 3 artigos na trilha de trabalhos técnicos no XXIII Simpósio Brasileiro de Qualidade de Software (SBQS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 3 artigos na trilha de trabalhos técnicos no XXIII Simpósio Brasileiro de Qualidade de Software (SBQS). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Revisora de 1 artigo no The Journal of Systems & Software",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 1 artigo no The Journal of Systems & Software. 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 3 trabalhos no XIX Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 3 trabalhos no XIX Simpósio Brasileiro de Sistemas de Informação (SBSI). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 4 trabalhos da trilha principal do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 4 trabalhos da trilha principal do XXIII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 2 trabalhos no Concurso de Tese e Dissertações do XXIII Simpósio de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 2 trabalhos no Concurso de Tese e Dissertações do XXIII Simpósio de Computação Aplicada à Saúde (SBCAS). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 5 trabalhos na Fase 3 - Ideias Inovadoras do Programa Centelha 2 Minas Gerais,",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 5 trabalhos na Fase 3 - Ideias Inovadoras do Programa Centelha 2 Minas Gerais,. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 1 manuscrito no Periôdico Software",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 1 manuscrito no Periôdico Software. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 3 artigos da Trilha de Ideias Inovadoras e Resultados Emergentes do Simpósio Brasileiro de Engenharia de Software - SBES 2023 - IIER Track",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 3 artigos da Trilha de Ideias Inovadoras e Resultados Emergentes do Simpósio Brasileiro de Engenharia de Software - SBES 2023 - IIER Track. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 1 artigo para o XVII Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2023)",
+          "autores": "GARCES, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Avaliação de 1 artigo para o XVII Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS 2023). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Revisora de 2 artigos no Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 2 artigos no Simpósio Brasileiro de Componentes de Software, Arquiteturas e Reutilização (SBCARS). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Avaliação de 5 propostas do Edital no 006/2023 - PRPPG, Edital de Mentoria da Pós-Graduação para Desenvolvimento de Docentes para a Pós-Graduação.",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de 5 propostas do Edital no 006/2023 - PRPPG, Edital de Mentoria da Pós-Graduação para Desenvolvimento de Docentes para a Pós-Graduação.. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Revisão de 1 artigo no Software Quality Journal",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisão de 1 artigo no Software Quality Journal. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do Journal Intelligent Systems with Applications",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal Intelligent Systems with Applications. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Membro do comitê de programa do XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do comitê de programa do XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Membro do Comitê de Programa do XXII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XXII Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Membro do comitê de programa da Trilha de Ideias Inovadoras e Resultados Emergentes do XXXVI Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do comitê de programa da Trilha de Ideias Inovadoras e Resultados Emergentes do XXXVI Simpósio Brasileiro de Engenharia de Software (SBES). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do Journal Information and Software Technology",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal Information and Software Technology. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do Journal Expert Systems with Applications",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal Expert Systems with Applications. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do Journal of Software Engineering Research and Development",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal of Software Engineering Research and Development. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de dois artigos do Journal of Health Informatics",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de dois artigos do Journal of Health Informatics. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de 3 papers no Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de 3 papers no Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de dois artigos no SBES 2022 - Insightful Ideas and Emerging Results Track",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de dois artigos no SBES 2022 - Insightful Ideas and Emerging Results Track. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Membro do Comitê de Programa do XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de 3 papers no XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de 3 papers no XVIII Simpósio Brasileiro de Sistemas de Informação (SBSI). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de dois trabalhos no 16th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de dois trabalhos no 16th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de artigo no INTELLIGENT SYSTEMS WITH APPLICATIONS",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora de artigo no INTELLIGENT SYSTEMS WITH APPLICATIONS. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do Information and Software Technology",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora do Information and Software Technology. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora do INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora do INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Avaliação de 5 trabalhos na Fase 1 - Ideias Inovadoras do Programa Centelha 2 Minas Gerais,",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Avaliação de 5 trabalhos na Fase 1 - Ideias Inovadoras do Programa Centelha 2 Minas Gerais,. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora no V Simpósio de Iniciação Científica da UNIFEI",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora no V Simpósio de Iniciação Científica da UNIFEI. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Chair de sessão no Simpósio Brasileiro de Engenharia de Software",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Chair de sessão no Simpósio Brasileiro de Engenharia de Software. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de trabalhos no V Simpósio de Iniciação Científica da UNIFEI",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora de trabalhos no V Simpósio de Iniciação Científica da UNIFEI. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Membro do comitê de programa do Product-Focused Software Process Improvement - PROFES",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Membro do comitê de programa do Product-Focused Software Process Improvement - PROFES. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Revisora de artigos submetidos para a X Escola Regional de Informática de Goiás (ERI-GO 2022), VI Escola Regional de Sistemas de Informação de Goiás (ERSI-GO 2022) e V Escola Regional de Alto Desempenho do Centro-Oeste (ERAD-CO 2022)",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Revisora de artigos submetidos para a X Escola Regional de Informática de Goiás (ERI-GO 2022), VI Escola Regional de Sistemas de Informação de Goiás (ERSI-GO 2022) e V Escola Regional de Alto Desempenho do Centro-Oeste (ERAD-CO 2022). 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Avaliação de trabalho no 23rd International Conference on Product-Focused Software Process Improvement (PROFES)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliação de trabalho no 23rd International Conference on Product-Focused Software Process Improvement (PROFES). 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora da 18th IEEE International Conference on Software Architecture (ICSA 2021)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora da 18th IEEE International Conference on Software Architecture (ICSA 2021). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do Comitê de Programa XXXV Simpósio Brasileiro de Engenharia de Software (SBES) - Trilha de Ideias Inovadoras e Resultados Emergentes",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa XXXV Simpósio Brasileiro de Engenharia de Software (SBES) - Trilha de Ideias Inovadoras e Resultados Emergentes. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do Comitê de Programa do III Workshop de Modelagem e Simulação de Sistemas intensivos em Software (MSSiS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do III Workshop de Modelagem e Simulação de Sistemas intensivos em Software (MSSiS). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro de Comitê do Programa do XV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro de Comitê do Programa do XV Simpósio Brasileiro de Componentes, Arquiteturas e Reutilização de Software (SBCARS). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do Comitê de Programa do XVII Simpósio Brasileiro de Sistemas de Informação (SBSI)",
+          "autores": "LINA GARCÉS.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "LINA GARCÉS. . Membro do Comitê de Programa do XVII Simpósio Brasileiro de Sistemas de Informação (SBSI). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do comitê de programa do XXI Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do comitê de programa do XXI Simpósio Brasileiro de Computação Aplicada à Saúde (SBCAS). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do comitê de programa do XXII International Conference on Product-Focused Software Process Improvement (PROFES)",
+          "autores": "GARCES, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do comitê de programa do XXII International Conference on Product-Focused Software Process Improvement (PROFES). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora de trabalho no 2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de trabalho no 2nd IEEE International Conference on Autonomic Computing and Self-Organizing Systems - ACSOS 2021. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Membro do Comitê de Programa do XVIII Congresso Brasileiro de Informática em Saúde (CBIS )",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XVIII Congresso Brasileiro de Informática em Saúde (CBIS ). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora do Journal Expert Systems with Applications",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal Expert Systems with Applications. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora do Journal SENSORS",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal SENSORS. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora do Journal SBC Reviews",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do Journal SBC Reviews. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Revisora de trabalho no 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de trabalho no 16th Symposium on Software Engineering for Adaptive and Self-Managing Systems (SEAMS). 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisora do 47",
+          "autores": "GARCÉS, LINA",
+          "periodico": "Seminário Integrado de Software e Hardware (SEMISH 2020). 2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora do 47. Seminário Integrado de Software e Hardware (SEMISH 2020). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do 14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2020)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do 14th Brazilian Symposium on Software Components, Architectures, and Reuse (SBCARS 2020). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do 21st International Conference on Product-Focused Software Process Improvement (PROFES2020)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do 21st International Conference on Product-Focused Software Process Improvement (PROFES2020). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisora de artigo da TRILHA DE PESQUISA do XXXIV Simpósio Brasileiro de Engenharia de Software (SBES)",
+          "autores": "GARCÉS, LINA ; NAKAGAWA, ELISA YUMI",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; NAKAGAWA, ELISA YUMI . Revisora de artigo da TRILHA DE PESQUISA do XXXIV Simpósio Brasileiro de Engenharia de Software (SBES). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do SBES 2020 - Innovative Ideas and Emerging Results Track",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do SBES 2020 - Innovative Ideas and Emerging Results Track. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do XIX Simpósio Brasileiro de Qualidade de Software (SBQS) 2020 - Resultados Preliminares",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XIX Simpósio Brasileiro de Qualidade de Software (SBQS) 2020 - Resultados Preliminares. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa da VIII Escola Regional de Informática de Goiás (ERI-GO 2020).",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa da VIII Escola Regional de Informática de Goiás (ERI-GO 2020).. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do SIGCSE TS - Experience Reports and Tools (ERT)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do SIGCSE TS - Experience Reports and Tools (ERT). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do XVII Congresso Brasileiro de Informática em Saúde",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XVII Congresso Brasileiro de Informática em Saúde. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Membro do Comitê de Programa do II Workshop de Modelagem e Simulação de sistemas intensivos em Software (II MSSiS) no Congresso Brasileiro de Software (CBSoft)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do II Workshop de Modelagem e Simulação de sistemas intensivos em Software (II MSSiS) no Congresso Brasileiro de Software (CBSoft). 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Membro de comitê de programa do 20th International Conference on Product-Focused Software Process Improvement (PROFES)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro de comitê de programa do 20th International Conference on Product-Focused Software Process Improvement (PROFES). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Revisora do 13th European Conference on Software Architecture (ECSA?19).",
+          "autores": "NAKAGAWA, ELISA YUMI ; GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "NAKAGAWA, ELISA YUMI ; GARCÉS, LINA . Revisora do 13th European Conference on Software Architecture (ECSA?19).. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Membro do Comitê de Programa do The Fifth International Conference on Fundamentals and Advances in Software Systems Integration FASSI",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do The Fifth International Conference on Fundamentals and Advances in Software Systems Integration FASSI. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Membro do comitê de programa do 1st International Workshop on Software Architectures and Human Values (SAHVA)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do comitê de programa do 1st International Workshop on Software Architectures and Human Values (SAHVA). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Membro de comitê de programa do Brazilian Workshop on lArge-scale cRitical systEms (BWare)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro de comitê de programa do Brazilian Workshop on lArge-scale cRitical systEms (BWare). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Revisora do Journal of Systems and Software - JSS",
+          "autores": "NAKAGAWA, ELISA ; GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "NAKAGAWA, ELISA ; GARCÉS, LINA . Revisora do Journal of Systems and Software - JSS. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Membro do Comitê de Programa do I Workshop on Modeling and Simulation of Software-Intensive Systems (MSSiS)",
+          "autores": "GARCES, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa do I Workshop on Modeling and Simulation of Software-Intensive Systems (MSSiS). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliadora do 27o Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliadora do 27o Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliadora da 18a Feria Brasileira de Ciência e Engenharia (FEBRACE)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliadora da 18a Feria Brasileira de Ciência e Engenharia (FEBRACE). 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisora do Track of Software Intensive Systems of Systems (SiSoS) at 33rd ACM Symposium on Applied Computing",
+          "autores": "GARCÉS, LINA ; Elisa Y. Nakagawa",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; Elisa Y. Nakagawa . Revisora do Track of Software Intensive Systems of Systems (SiSoS) at 33rd ACM Symposium on Applied Computing. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisora do 13th System of Systems Engineering Conference (SoSE'18)",
+          "autores": "GARCÉS, LINA ; Elisa Y. Nakagawa",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; Elisa Y. Nakagawa . Revisora do 13th System of Systems Engineering Conference (SoSE'18). 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisora do 12th European Conference on Software Architecture (ECSA?18).",
+          "autores": "GARCÉS, LINA ; NAKAGAWA, ELISA ; OQUENDO, FLAVIO",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; NAKAGAWA, ELISA ; OQUENDO, FLAVIO . Revisora do 12th European Conference on Software Architecture (ECSA?18).. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Membro do Comitê de Programa do XXIX Simpósio Brasileiro de Informática na Educação (SBIE)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa do XXIX Simpósio Brasileiro de Informática na Educação (SBIE). 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Membro do Comitê de Programa da VI Escola Regional de Informática de Goiás (ERI-GO)",
+          "autores": "GARCES, LINA",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Membro do Comitê de Programa da VI Escola Regional de Informática de Goiás (ERI-GO). 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Membro do Comitê de Programa da Escola Regional de Engenharia de Software (ERES)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Membro do Comitê de Programa da Escola Regional de Engenharia de Software (ERES). 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Revisora de artigo no 32nd ACM Symposium on Applied Computing (SAC'17).",
+          "autores": "GARCES, LINA",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de artigo no 32nd ACM Symposium on Applied Computing (SAC'17).. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliadora do 25o Simpósio Internacional de Iniciação Científica e Tecnológica da USP - SIICUSP",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliadora do 25o Simpósio Internacional de Iniciação Científica e Tecnológica da USP - SIICUSP. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisora de artigo para o 4th International Workshop on Software Ecosystem Architectures (WEA'16)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de artigo para o 4th International Workshop on Software Ecosystem Architectures (WEA'16). 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisora de artigo no X Simpósio Brasileiro de Componentes, Arquiteturas e Reúso de Software (SBCARS'16)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de artigo no X Simpósio Brasileiro de Componentes, Arquiteturas e Reúso de Software (SBCARS'16). 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisora de artigo para a 10th European Conference on Software Architecture (ECSA'16)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de artigo para a 10th European Conference on Software Architecture (ECSA'16). 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisora de artigo no 31st ACM Symposium on Applied Computing (SAC'16)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Revisora de artigo no 31st ACM Symposium on Applied Computing (SAC'16). 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Revisora de artigo para o 3rd International Workshop on Software Ecosystem Architectures and International Workshop on Software Ecosystems (WEA-IWSECO).",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo para o 3rd International Workshop on Software Ecosystem Architectures and International Workshop on Software Ecosystems (WEA-IWSECO).. 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Revisora de artigo para o IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES'15).",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo para o IX Workshop em Desenvolvimento Distribuído de Software, Ecossistemas de Software e Sistemas de Sistemas (WDES'15).. 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Revisora de artigo para a 9th European Conference on Software Architecture (ECSA'15)",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo para a 9th European Conference on Software Architecture (ECSA'15). 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Avaliadora do 23o Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP)",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Avaliadora do 23o Simpósio Internacional de Iniciação Científica e Tecnológica da USP (SIICUSP). 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Revisora de artigo para o International track on Adaptive and Reconfigurable Service-oriented and component-based Applications and Architectures (AROSA'14)",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo para o International track on Adaptive and Reconfigurable Service-oriented and component-based Applications and Architectures (AROSA'14). 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Revisora de artigo da 8th European Conference on Software Architecture (ECSA'14)",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo da 8th European Conference on Software Architecture (ECSA'14). 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Revisora de artigo para o 20o Workshop de Informática na Escola (WIE'14)",
+          "autores": "GARCÉS, L. M.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "GARCÉS, L. M. . Revisora de artigo para o 20o Workshop de Informática na Escola (WIE'14). 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Revisora de artigo para o 19o Workshop de Informática na Escola (WIE 2013)",
+          "autores": "GARCES, LINA",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "GARCES, LINA . Revisora de artigo para o 19o Workshop de Informática na Escola (WIE 2013). 2013."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Episódio 6 - Mirlene Simões entrevista a Lina Garcés",
+          "autores": "SIMOES, M. ; GARCÉS, LINA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "SIMOES, M. ; GARCÉS, LINA . Episódio 6 - Mirlene Simões entrevista a Lina Garcés. 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Avaliadora de projetos na Hackathon da Women in Tech",
+          "autores": "GARCÉS, LINA ; SAMPAIO, L.",
+          "periodico": "2025. (Programa de rádio ou TV/Comentário).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; SAMPAIO, L. . Avaliadora de projetos na Hackathon da Women in Tech. 2025. (Programa de rádio ou TV/Comentário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Pesquisadoras da USP conquistam R$ 1,2 milhão para projeto de incentivo às mulheres na ciência",
+          "autores": "GARCÉS, LINA ; SAMPAIO, L.",
+          "periodico": "2025. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; SAMPAIO, L. . Pesquisadoras da USP conquistam R$ 1,2 milhão para projeto de incentivo às mulheres na ciência. 2025. (Programa de rádio ou TV/Entrevista)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Painel: OpenScience na Saúde: Desafios e Oportunidades",
+          "autores": "GARCÉS, LINA ; NUNES, F. ; AMARO JR, E. ; ALVES, D.",
+          "periodico": "2022. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; NUNES, F. ; AMARO JR, E. ; ALVES, D. . Painel: OpenScience na Saúde: Desafios e Oportunidades. 2022. (Programa de rádio ou TV/Mesa redonda)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "PESQUISA: Como criar um ecossistema de saúde conectado ? (c/ Lina Garcés, ICMC-USP)",
+          "autores": "CEMBRANELLI, F. ; GARCÉS, LINA",
+          "periodico": "2018. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "CEMBRANELLI, F. ; GARCÉS, LINA . PESQUISA: Como criar um ecossistema de saúde conectado ? (c/ Lina Garcés, ICMC-USP). 2018. (Programa de rádio ou TV/Entrevista)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "ANAIS DA ESCOLA REGIONAL DE COMPUTAÇÃO APLICADA À SAÚDE (ERCAS)",
+          "autores": "GARCÉS, LINA ; XAVIER, F. ; ITO, M.",
+          "periodico": "2021. (Editoração/Anais).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; XAVIER, F. ; ITO, M. . ANAIS DA ESCOLA REGIONAL DE COMPUTAÇÃO APLICADA À SAÚDE (ERCAS). 2021. (Editoração/Anais)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Arquiteturas de Software para Saúde",
+          "autores": "GARCÉS, LINA ; OLIVEIRA, BRAUNER ; OKAWA, C. A.",
+          "periodico": "2020. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA ; OLIVEIRA, BRAUNER ; OKAWA, C. A. . Arquiteturas de Software para Saúde. 2020. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Ingenieria de Software para Sistemas Modernos",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2020. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Ingenieria de Software para Sistemas Modernos. 2020. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Material de apoio para o curso de desenvolvimento de jogos e aplicativos ligado ao projeto institucional VemPraUSP",
+          "autores": "BRANCO, K. ; OSORIO, F. ; TRIDICO, S. F. ; RIDEL, D. A. ; GARCÉS, LINA",
+          "periodico": "2019. (Desenvolvimento de material didático ou instrucional - Curso de educação a Distância - VemPraUSP).",
+          "doi": "",
+          "citacao_completa": "BRANCO, K. ; OSORIO, F. ; TRIDICO, S. F. ; RIDEL, D. A. ; GARCÉS, LINA . Material de apoio para o curso de desenvolvimento de jogos e aplicativos ligado ao projeto institucional VemPraUSP. 2019. (Desenvolvimento de material didático ou instrucional - Curso de educação a Distância - VemPraUSP)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desafios do envelhecimento da população: Soluções de qualidade para ambientes assistidos",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2019. (Palestra).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Desafios do envelhecimento da população: Soluções de qualidade para ambientes assistidos. 2019. (Palestra)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Arquiteturas de Referência e seu Impacto no Processo de Desenvolvimento de Software",
+          "autores": "GARCÉS, LINA",
+          "periodico": "2018. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "GARCÉS, LINA . Arquiteturas de Referência e seu Impacto no Processo de Desenvolvimento de Software. 2018. (Curso de curta duração ministrado/Especialização)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Evaluación del impacto de la automatización de tareas de configuración y aprovisionamiento en clases de ingeniería de software: Caso de un Internal Developer Platform (IDP) basado en Cloud Native Operational Excellence (CNOE) aplicado a la enseñanza de DevOps",
+          "membros": "GARCÉS, LINA ; BEDOYA, S.; CELY, C. S.; CARBAR, S.",
+          "candidato": "Juan Rojas; Andrés Marcelo",
+          "citacao_completa": "GARCÉS, LINA ; BEDOYA, S.; CELY, C. S.; CARBAR, S.. Participação em banca de Juan Rojas; Andrés Marcelo. Evaluación del impacto de la automatización de tareas de configuración y aprovisionamiento en clases de ingeniería de software: Caso de un Internal Developer Platform (IDP) basado en Cloud Native Operational Excellence (CNOE) aplicado a la enseñanza de DevOps. 2026. Dissertação (Mestrado em Mestrado em Informática) - Escuela Colombiana de Ingeniería."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".",
+          "membros": "SEABRA, R. D.; PAULA, M. M. V.; ARAUJO, R. M.; GARCÉS, LINA",
+          "candidato": "Alana Raiza Ramos Vieira",
+          "citacao_completa": "SEABRA, R. D.; PAULA, M. M. V.; ARAUJO, R. M.; GARCÉS, LINA . Participação em banca de Alana Raiza Ramos Vieira.. Análise, projeto e desenvolvimento de um sistema especialista para apoiar atividades de gestão acadêmica na UNIFEI.. 2026. Dissertação (Mestrado em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Um framework para Avaliação Contínua de Arquitetura de Software.",
+          "membros": "ALFONSO, F. J.; FRANCA, B. B. N.; Elisa Y. Nakagawa; GARCÉS, LINA",
+          "candidato": "Rodrigo de Campos Soares",
+          "citacao_completa": "ALFONSO, F. J.; FRANCA, B. B. N.; Elisa Y. Nakagawa; GARCÉS, LINA . Participação em banca de Rodrigo de Campos Soares. Um framework para Avaliação Contínua de Arquitetura de Software.. 2025. Dissertação (Mestrado em Programa Pós-Graduação em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Estratégias de Teste Exploratório para De- senvolvedores de Software",
+          "membros": "ENDO, A. T.; VINCEZI, A.; GARCÉS, LINA",
+          "candidato": "Bruno Iamada",
+          "citacao_completa": "ENDO, A. T.; VINCEZI, A.; GARCÉS, LINA . Participação em banca de Bruno Iamada. Estratégias de Teste Exploratório para De- senvolvedores de Software. 2025. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de São Carlos."
+        },
+        {
+          "ano": 2025,
+          "titulo": "ANÁLISE DA APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) EM PROCESSOS DECISÓRIOS PARA A MOBILIDADE URBANA",
+          "membros": "MELLO, A. S.; LIMA, J. P.; SOUZA, A. C. Z.; GARCÉS, LINA",
+          "candidato": "JOÃO PEDRO LOPES DIAS RIBEIRO",
+          "citacao_completa": "MELLO, A. S.; LIMA, J. P.; SOUZA, A. C. Z.; GARCÉS, LINA . Participação em banca de JOÃO PEDRO LOPES DIAS RIBEIRO. ANÁLISE DA APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) EM PROCESSOS DECISÓRIOS PARA A MOBILIDADE URBANA. 2025. Dissertação (Mestrado em Desenvolvimento e Tecnologias Sociais) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2025,
+          "titulo": "MACHINE LEARNING PARA ANÁLISE EXPLORATÓRIA E EVIDENCIAÇÃO EMPÍRICA DA RELAÇÃO ENTRE SOLIDÃO, POLÍTICA E MÍDIAS SOCIAIS NO BRASIL",
+          "membros": "MELLO, A. S.; FERRAZ, D. P. A.; SANCHEZ, J. A. G.; GARCÉS, LINA",
+          "candidato": "JENAINA DE FATIMA DOS SANTOS",
+          "citacao_completa": "MELLO, A. S.; FERRAZ, D. P. A.; SANCHEZ, J. A. G.; GARCÉS, LINA . Participação em banca de JENAINA DE FATIMA DOS SANTOS. MACHINE LEARNING PARA ANÁLISE EXPLORATÓRIA E EVIDENCIAÇÃO EMPÍRICA DA RELAÇÃO ENTRE SOLIDÃO, POLÍTICA E MÍDIAS SOCIAIS NO BRASIL. 2025. Dissertação (Mestrado em Desenvolvimento e Tecnologias Sociais) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2023,
+          "titulo": "?APLICAÇÃO DAS AÇÕES BÁSICAS DE ESFORÇO DE LABAN EM UMA FERRAMENTA INTERATIVA 2D PARA SUPORTE À COMPOSIÇÃO COREOGRÁFICA",
+          "membros": "ZAINA, L. A. M.; GARCÉS, LINA ; SEABRA, R. D.",
+          "candidato": "Iago Felicio Dornelas",
+          "citacao_completa": "ZAINA, L. A. M.; GARCÉS, LINA ; SEABRA, R. D.. Participação em banca de Iago Felicio Dornelas. ?APLICAÇÃO DAS AÇÕES BÁSICAS DE ESFORÇO DE LABAN EM UMA FERRAMENTA INTERATIVA 2D PARA SUPORTE À COMPOSIÇÃO COREOGRÁFICA. 2023. Dissertação (Mestrado em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Aplicação de estratégia de migração de arquitetura monolítica para microserviços: Um caso em um sistema de Fintech na Colômbia.",
+          "membros": "GARCÉS, LINA ; RODRIGUEZ, L.; GONZALEZ, C.; CELY, C. S.",
+          "candidato": "Juan Nicolas Nontoa Caballero",
+          "citacao_completa": "GARCÉS, LINA ; RODRIGUEZ, L.; GONZALEZ, C.; CELY, C. S.. Participação em banca de Juan Nicolas Nontoa Caballero. Aplicação de estratégia de migração de arquitetura monolítica para microserviços: Um caso em um sistema de Fintech na Colômbia.. 2023. Dissertação (Mestrado em Mestrado em Informática) - Escuela Colombiana de Ingeniería."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Uma abordagem de natural language processing para um atendente virtual de uma central de serviços de tecnologia",
+          "membros": "BIANCHI, A. G. C.; COELHO, B. N.; GARCÉS, LINA",
+          "candidato": "Krysthian Faria Martins",
+          "citacao_completa": "BIANCHI, A. G. C.; COELHO, B. N.; GARCÉS, LINA . Participação em banca de Krysthian Faria Martins. Uma abordagem de natural language processing para um atendente virtual de uma central de serviços de tecnologia. 2023. Dissertação (Mestrado em Instrumentação, Controle e Automação de Processos de Mineração) - Universidade Federal de Ouro Preto."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Inspeção de linha de transmissão utilizando multi-drones de baixo custo",
+          "membros": "GARCÉS, LINA ; CASTRO FILHO, H. F.; RAMOS, A. C. B.",
+          "candidato": "Leandro Diniz de Jesus",
+          "citacao_completa": "GARCÉS, LINA ; CASTRO FILHO, H. F.; RAMOS, A. C. B.. Participação em banca de Leandro Diniz de Jesus. Inspeção de linha de transmissão utilizando multi-drones de baixo custo. 2022. Dissertação (Mestrado em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2022,
+          "titulo": "AVALIAÇÃO DA PERCEPÇÃO DE USO DE UMA PLATAFORMA GAMIFICADA SOB A PERSPECTIVA DISCENTE: UMA ABORDAGEM NO ESTUDO DA UML",
+          "membros": "GARCÉS, LINA ; GIRAFFA, L. M. M.; SEABRA, R. D.",
+          "candidato": "Felipe Augusto Feichas",
+          "citacao_completa": "GARCÉS, LINA ; GIRAFFA, L. M. M.; SEABRA, R. D.. Participação em banca de Felipe Augusto Feichas. AVALIAÇÃO DA PERCEPÇÃO DE USO DE UMA PLATAFORMA GAMIFICADA SOB A PERSPECTIVA DISCENTE: UMA ABORDAGEM NO ESTUDO DA UML. 2022. Dissertação (Mestrado em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Reference Architecture for Security in IoT Systems in Healthcare",
+          "membros": "GARCÉS, LINA ; PARKINSON, S.; TILL, R.; AAGEL, H.; ALLEN, G.",
+          "candidato": "Tochukwu Emma-Duru",
+          "citacao_completa": "GARCÉS, LINA ; PARKINSON, S.; TILL, R.; AAGEL, H.; ALLEN, G.. Participação em banca de Tochukwu Emma-Duru. Reference Architecture for Security in IoT Systems in Healthcare. 2025 - University Of Huddersfield."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Processo de desenvolvimento de software baseado nos princípios de privacy by design",
+          "membros": "FORTES, V.; FREITAS, C.; GARCÉS, LINA ; REINEHR, S. S.; Malucelli, A.",
+          "candidato": "Vinicius Camargo Andrade",
+          "citacao_completa": "FORTES, V.; FREITAS, C.; GARCÉS, LINA ; REINEHR, S. S.; Malucelli, A.. Participação em banca de Vinicius Camargo Andrade. Processo de desenvolvimento de software baseado nos princípios de privacy by design. 2024. Tese (Doutorado em Informática) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Sustentabilidade Social em Revisão Sistemática da Literatura em Engenharia de Software",
+          "membros": "GARCÉS, LINA ; MACIEL, R. S. P.; MACHADO, M. I. C.; Elisa Y. Nakagawa",
+          "candidato": "Anderson Yoshiaki Iwazaki da Silva",
+          "citacao_completa": "GARCÉS, LINA ; MACIEL, R. S. P.; MACHADO, M. I. C.; Elisa Y. Nakagawa. Participação em banca de Anderson Yoshiaki Iwazaki da Silva. Sustentabilidade Social em Revisão Sistemática da Literatura em Engenharia de Software. 2024. Tese (Doutorado em Doutorado em Ciências da Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Benchmark de competências pedagógicas de LLMs para o ensino de programação",
+          "membros": "ISOTANI, S.; REIS, R.; GARCÉS, LINA ; OLIVEIRA, E.",
+          "candidato": "Talita de Paula Cypriano de Souza",
+          "citacao_completa": "ISOTANI, S.; REIS, R.; GARCÉS, LINA ; OLIVEIRA, E.. Participação em banca de Talita de Paula Cypriano de Souza. Benchmark de competências pedagógicas de LLMs para o ensino de programação. 2026. Exame de qualificação (Doutorando em Doutorado em Ciências da Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2021,
+          "titulo": "?Processo de Desenvolvimento de Software para Auxiliar Equipes Ágeis na Implementação dos Princípios da Privacy By Design",
+          "membros": "Malucelli, A.; FREITAS, C. O. A.; REINEHR, S.; GARCÉS, LINA ; FORTES, V. B.",
+          "candidato": "Vinicius Camargo Andrade",
+          "citacao_completa": "Malucelli, A.; FREITAS, C. O. A.; REINEHR, S.; GARCÉS, LINA ; FORTES, V. B.. Participação em banca de Vinicius Camargo Andrade. ?Processo de Desenvolvimento de Software para Auxiliar Equipes Ágeis na Implementação dos Princípios da Privacy By Design. 2021. Exame de qualificação (Doutorando em Informática) - Pontifícia Universidade Católica do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A conceptual framework for AI in preparing low-income students for university entrance exams in Brazil",
+          "membros": "BARBOSA, E. F.; FASSBINDER, A. G. O.; GARCÉS, LINA",
+          "candidato": "João Pedro Medrado Sena",
+          "citacao_completa": "BARBOSA, E. F.; FASSBINDER, A. G. O.; GARCÉS, LINA . Participação em banca de João Pedro Medrado Sena. A conceptual framework for AI in preparing low-income students for university entrance exams in Brazil. 2026. Exame de qualificação (Mestrando em Programa Pós-Graduação em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Proposta de uma Arquitetura Multicamadas de Proteção para Microsserviços Baseada em Runtime Application Self-Protection",
+          "membros": "GARCÉS, LINA ; ESTRELLA, J.; ALFONSO, F. J.",
+          "candidato": "Vinícius Matheus Romualdo Santos",
+          "citacao_completa": "GARCÉS, LINA ; ESTRELLA, J.; ALFONSO, F. J.. Participação em banca de Vinícius Matheus Romualdo Santos. Proposta de uma Arquitetura Multicamadas de Proteção para Microsserviços Baseada em Runtime Application Self-Protection. 2026. Exame de qualificação (Mestrando em Programa Pós-Graduação em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Towards a LLM-based assistant to support analysis of security architectural strategies",
+          "membros": "MENEGUETTE, R.; BENCKE, L. R.; GARCÉS, LINA",
+          "candidato": "Rebeca Maia Pontes",
+          "citacao_completa": "MENEGUETTE, R.; BENCKE, L. R.; GARCÉS, LINA . Participação em banca de Rebeca Maia Pontes. Towards a LLM-based assistant to support analysis of security architectural strategies. 2025. Exame de qualificação (Mestrando em Programa Pós-Graduação em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "FERRAMENTA WEB GAMIFICADA PARA O ESTUDO DE ANÁLISE DE DADOS",
+          "membros": "SEABRA, RODRIGO D.; PAULA, M. M. V.; GARCÉS, LINA",
+          "candidato": "José Antônio Bellato",
+          "citacao_completa": "SEABRA, RODRIGO D.; PAULA, M. M. V.; GARCÉS, LINA . Participação em banca de José Antônio Bellato. FERRAMENTA WEB GAMIFICADA PARA O ESTUDO DE ANÁLISE DE DADOS. 2025. Exame de qualificação (Mestrando em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Investigando a viabilidade de LLMs como estratégia caixa-branca de teste de segurança de software contra injeção de código",
+          "membros": "DELAMARO, MÁRCIO; MENEGUETTE, R.; GARCÉS, LINA",
+          "candidato": "Leonardo Antonetti da Motta",
+          "citacao_completa": "DELAMARO, MÁRCIO; MENEGUETTE, R.; GARCÉS, LINA . Participação em banca de Leonardo Antonetti da Motta. Investigando a viabilidade de LLMs como estratégia caixa-branca de teste de segurança de software contra injeção de código. 2024. Exame de qualificação (Mestrando em Programa Pós-Graduação em Ciências de Computação e Matemática Computacional) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANÁLISE DA APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) EM PROCESSOS DECISÓRIOS PARA A MOBILIDADE URBANA",
+          "membros": "LIMA, J. P.; MELLO, A. S.; SOUZA, A. C. Z.; GARCÉS, LINA",
+          "candidato": "João Pedro Lopes Dias Ribeiro",
+          "citacao_completa": "LIMA, J. P.; MELLO, A. S.; SOUZA, A. C. Z.; GARCÉS, LINA . Participação em banca de João Pedro Lopes Dias Ribeiro. ANÁLISE DA APLICAÇÃO DA LEI GERAL DE PROTEÇÃO DE DADOS (LGPD) EM PROCESSOS DECISÓRIOS PARA A MOBILIDADE URBANA. 2024. Exame de qualificação (Mestrando em Desenvolvimento e Tecnologias Sociais) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": "UMA PLATAFORMA WEB GAMIFICADA PARA APRENDIZAGEM DA UNIFIED MODELING LANGUAGE",
+          "membros": "GARCÉS, LINA",
+          "candidato": "FELIPE AUGUSTO FEICHAS",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de FELIPE AUGUSTO FEICHAS. UMA PLATAFORMA WEB GAMIFICADA PARA APRENDIZAGEM DA UNIFIED MODELING LANGUAGE. 2021. Exame de qualificação (Mestrando em Ciência e Tecnologia da Computação) - Universidade Federal de Itajubá."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Aplicação de Técnicas de Engenharia de Requisitos em Sistema de Gerenciamento de Tarefas",
+          "membros": "GARCÉS, LINA ; PIMENTA, D.",
+          "candidato": "Mitchel Inoue",
+          "citacao_completa": "GARCÉS, LINA ; PIMENTA, D.. Participação em banca de Mitchel Inoue. Aplicação de Técnicas de Engenharia de Requisitos em Sistema de Gerenciamento de Tarefas. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "RiskBuddy: Demonstra Viabilidade na Gestão de Vulnerabilidades com Inteligência Artificial",
+          "membros": "GARCÉS, LINA ; MENDES, E.",
+          "candidato": "Pedro Mariano Horemans",
+          "citacao_completa": "GARCÉS, LINA ; MENDES, E.. Participação em banca de Pedro Mariano Horemans. RiskBuddy: Demonstra Viabilidade na Gestão de Vulnerabilidades com Inteligência Artificial. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Prototipagem de arquitetura de microsserviços para sistemas de pedidos com mensageria assincrona",
+          "membros": "GARCÉS, LINA ; SILVA, U.",
+          "candidato": "Gilcllys De Souza Costa",
+          "citacao_completa": "GARCÉS, LINA ; SILVA, U.. Participação em banca de Gilcllys De Souza Costa. Prototipagem de arquitetura de microsserviços para sistemas de pedidos com mensageria assincrona. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Desempenho de Sistema Monolítico com Migração Parcial para Arquitetura de Microsserviços",
+          "membros": "GARCÉS, LINA ; SOUZA, L. J.",
+          "candidato": "Eudes José De Mendonça Fonseca Filho",
+          "citacao_completa": "GARCÉS, LINA ; SOUZA, L. J.. Participação em banca de Eudes José De Mendonça Fonseca Filho. Desempenho de Sistema Monolítico com Migração Parcial para Arquitetura de Microsserviços. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "O Impacto do uso da Inteligência Artificial no desenvolvimento de sistema em uma indústria",
+          "membros": "GARCÉS, LINA ; SILVA, M.",
+          "candidato": "Leonardo Bruno Vilano",
+          "citacao_completa": "GARCÉS, LINA ; SILVA, M.. Participação em banca de Leonardo Bruno Vilano. O Impacto do uso da Inteligência Artificial no desenvolvimento de sistema em uma indústria. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Design Thinking na Melhoria da Experiência do Usuário em Serviços Públicos Digitais",
+          "membros": "GARCÉS, LINA ; COSTA, A.",
+          "candidato": "Isabella Pinho Talamonte",
+          "citacao_completa": "GARCÉS, LINA ; COSTA, A.. Participação em banca de Isabella Pinho Talamonte. Design Thinking na Melhoria da Experiência do Usuário em Serviços Públicos Digitais. 2026. Monografia (Aperfeiçoamento/Especialização em Especialização em Engenharia de Software) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Fatores Associados à Obesidade: Aplicação de Regressão Logística em Dados de Saúde Pública",
+          "membros": "GARCÉS, LINA ; SANTOS, P.",
+          "candidato": "Natália Tomazella De Paula",
+          "citacao_completa": "GARCÉS, LINA ; SANTOS, P.. Participação em banca de Natália Tomazella De Paula. Fatores Associados à Obesidade: Aplicação de Regressão Logística em Dados de Saúde Pública. 2026. Monografia (Aperfeiçoamento/Especialização em Data Science e Analytics) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Paradoxo da abundância: cidades ricas versus o desenvolvimento desestruturado",
+          "membros": "GARCÉS, LINA ; SETTE, A.",
+          "candidato": "Paulo Eduardo De Aguiar Coimbra",
+          "citacao_completa": "GARCÉS, LINA ; SETTE, A.. Participação em banca de Paulo Eduardo De Aguiar Coimbra. Paradoxo da abundância: cidades ricas versus o desenvolvimento desestruturado. 2026. Monografia (Aperfeiçoamento/Especialização em Data Science e Analytics) - Escola Superior de Agricultura Luiz de Queiroz."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Analyzing the Impact of a Computational Think- ing Professional Development Course on In-Service Female Teachers: A Case Study with Scratch",
+          "membros": "GARCÉS, LINA",
+          "candidato": "Ariane Massae Masuda",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de Ariane Massae Masuda. Analyzing the Impact of a Computational Think- ing Professional Development Course on In-Service Female Teachers: A Case Study with Scratch. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Desafios para a formação continuada de professores em ambientes virtuais de aprendizagem (AVAs)",
+          "membros": "GARCÉS, LINA",
+          "candidato": "Arthur Branco Costa",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de Arthur Branco Costa. Desafios para a formação continuada de professores em ambientes virtuais de aprendizagem (AVAs). 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Jogo como forma de contribuição para aprendizagem do Pensamento Computacional",
+          "membros": "GARCÉS, LINA",
+          "candidato": "Beatriz de Oliveira",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de Beatriz de Oliveira. Jogo como forma de contribuição para aprendizagem do Pensamento Computacional. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Desafios e barreiras na adoção de ambientes imersivos na educação inclusiva: uma pesquisa qualitativa com o ecossistema educacional",
+          "membros": "GARCÉS, LINA",
+          "candidato": "Beatriz Assunção Baeta",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de Beatriz Assunção Baeta. Desafios e barreiras na adoção de ambientes imersivos na educação inclusiva: uma pesquisa qualitativa com o ecossistema educacional. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Gamificação e imersividade como possibilidades na avaliação diagnóstica de alfabetização orientada aos estudantes do 1o ano do Ensino Fundamental",
+          "membros": "GARCÉS, LINA",
+          "candidato": "Deyverson Rafael Cestaro Jorge",
+          "citacao_completa": "GARCÉS, LINA . Participação em banca de Deyverson Rafael Cestaro Jorge. Gamificação e imersividade como possibilidades na avaliação diagnóstica de alfabetização orientada aos estudantes do 1o ano do Ensino Fundamental. 2025. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2022,
+          "titulo": "?Como a utilização do AVA Moodle pode auxiliar a aprendizagem de Química no ensino presencial?,",
+          "membros": "LINA GARCÉS.",
+          "candidato": "Ismael Adauto da Silva",
+          "citacao_completa": "LINA GARCÉS. . Participação em banca de Ismael Adauto da Silva. ?Como a utilização do AVA Moodle pode auxiliar a aprendizagem de Química no ensino presencial?,. 2022. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Aplicada à Educação e Tecnologias Educacionais) - Instituto de Ciências Matemáticas e de Computação - USP."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": ".Implementação de métodos computacionais para calculo probabilístico de estoque hospitalar",
+          "membros": "GARCÉS, LINA ; MENEGUETTE, R.; SIMAO, A.",
+          "candidato": "Nícolas Ribeiro Batistuti",
+          "citacao_completa": "GARCÉS, LINA ; MENEGUETTE, R.; SIMAO, A.. Participação em banca de Nícolas Ribeiro Batistuti.Implementação de métodos computacionais para calculo probabilístico de estoque hospitalar. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Investigação do uso do Teste de Mutação para Melhoria de Qualidade de um Sistema de Rastreamento de Pedidos",
+          "membros": "SOUZA, S. R. S.; MENEGUETTE, R.; GARCÉS, LINA",
+          "candidato": "Thiago Ribeiro Govêia",
+          "citacao_completa": "SOUZA, S. R. S.; MENEGUETTE, R.; GARCÉS, LINA . Participação em banca de Thiago Ribeiro Govêia.Investigação do uso do Teste de Mutação para Melhoria de Qualidade de um Sistema de Rastreamento de Pedidos. 2024. Trabalho de Conclusão de Curso (Graduação em Bacharelado em Sistemas de Informação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Correção de Vulnerabilidades em Software Livre: um Estudo de Caso do Projeto Debian",
+          "membros": "MENEGUETTE, R.; GARCÉS, LINA",
+          "candidato": "Carlos Henrique Lima Melara",
+          "citacao_completa": "MENEGUETTE, R.; GARCÉS, LINA . Participação em banca de Carlos Henrique Lima Melara.Correção de Vulnerabilidades em Software Livre: um Estudo de Caso do Projeto Debian. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".PROJETO E DESENVOLVIMENTO DE UMA APLICAÇÃO PARA ANÁLISE EM INVESTIMENTOS EM TÍTULOS PÚBLICOS",
+          "membros": "SOUZA, A. D.; MATTEDI, A. P.; GARCÉS, LINA ; CARVALHO, L. O.",
+          "candidato": "Rodrigo de Lima Dias",
+          "citacao_completa": "SOUZA, A. D.; MATTEDI, A. P.; GARCÉS, LINA ; CARVALHO, L. O.. Participação em banca de Rodrigo de Lima Dias.PROJETO E DESENVOLVIMENTO DE UMA APLICAÇÃO PARA ANÁLISE EM INVESTIMENTOS EM TÍTULOS PÚBLICOS. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".UMA SOLUÇÃO DE NAVEGAÇÃO EM AMBIENTES INDOOR PARA DEFICIENTES VISUAIS",
+          "membros": "GARCÉS, LINA ; CARVALHO, L. O.; GOMES, O. S. M.; FRINHANI, R.",
+          "candidato": "João Vitor de Faria",
+          "citacao_completa": "GARCÉS, LINA ; CARVALHO, L. O.; GOMES, O. S. M.; FRINHANI, R.. Participação em banca de João Vitor de Faria.UMA SOLUÇÃO DE NAVEGAÇÃO EM AMBIENTES INDOOR PARA DEFICIENTES VISUAIS. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".UM ESTUDO SOBRE DECORATORS NA LINGUAGEM DE PROGRAMAÇÃO TYPESCRIPT",
+          "membros": "BALDOCHI JUNIOR, L.; FRANCISCO, P. S. L.; GARCÉS, LINA",
+          "candidato": "Luiz Eduardo Barnabé Martins",
+          "citacao_completa": "BALDOCHI JUNIOR, L.; FRANCISCO, P. S. L.; GARCÉS, LINA . Participação em banca de Luiz Eduardo Barnabé Martins.UM ESTUDO SOBRE DECORATORS NA LINGUAGEM DE PROGRAMAÇÃO TYPESCRIPT. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ESTUDO E APLICAÇÃO DE SMART CAMPUS ATRAVÉS DO SISTEMA GUIA UNIFEI",
+          "membros": "GARCÉS, LINA ; BATISTA, B. G.; CARVALHO, L. O.",
+          "candidato": "TOBIAS ARANTES DA SILVA",
+          "citacao_completa": "GARCÉS, LINA ; BATISTA, B. G.; CARVALHO, L. O.. Participação em banca de TOBIAS ARANTES DA SILVA.ESTUDO E APLICAÇÃO DE SMART CAMPUS ATRAVÉS DO SISTEMA GUIA UNIFEI. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Aplicação da xAPI em um Objeto de Aprendizagem voltado à educação ambiental para crianças",
+          "membros": "LINA GARCÉS.",
+          "candidato": "João Guilherme Tertuliano de Oliveira",
+          "citacao_completa": "LINA GARCÉS. . Participação em banca de João Guilherme Tertuliano de Oliveira.Aplicação da xAPI em um Objeto de Aprendizagem voltado à educação ambiental para crianças. 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".SISTEMA PARA O MONITORAMENTO E CONTROLE DE UMA ESTUFA",
+          "membros": "LINA GARCÉS.",
+          "candidato": "Thiago Donizeti Siqueira",
+          "citacao_completa": "LINA GARCÉS. . Participação em banca de Thiago Donizeti Siqueira.SISTEMA PARA O MONITORAMENTO E CONTROLE DE UMA ESTUFA. 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".MAPEAMENTO SISTEMÁTICO DE REQUISITOS NÃO FUNCIONAIS CRÍTICOS À APLICAÇÕES DE CIDADES INTELIGENTES",
+          "membros": "GARCES, LINA ; SOUZA, A. D.; CUNHA, J. B. S.",
+          "candidato": "LUIZ FELIPE GOMES RIBEIRO",
+          "citacao_completa": "GARCES, LINA ; SOUZA, A. D.; CUNHA, J. B. S.. Participação em banca de LUIZ FELIPE GOMES RIBEIRO.MAPEAMENTO SISTEMÁTICO DE REQUISITOS NÃO FUNCIONAIS CRÍTICOS À APLICAÇÕES DE CIDADES INTELIGENTES. 2021. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".AUTOMAÇÃO DE TESTES FUNCIONAIS ISA (INTELLISTOCK ANDROID) COM FERRAMENTAS OPEN SOURCE",
+          "membros": "SOUZA, A. D.; BALDOCHI JUNIOR, L.; GARCÉS, LINA",
+          "candidato": "MATHEUS FERNANDO RUFINO",
+          "citacao_completa": "SOUZA, A. D.; BALDOCHI JUNIOR, L.; GARCÉS, LINA . Participação em banca de MATHEUS FERNANDO RUFINO.AUTOMAÇÃO DE TESTES FUNCIONAIS ISA (INTELLISTOCK ANDROID) COM FERRAMENTAS OPEN SOURCE. 2021. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".REGADOR: APLICATIVO MÓVEL PARA ESTIMATIVA DE POTENCIAL HÍDRICO EM LAVOURAS CAFEEIRAS",
+          "membros": "SOUZA, V. O.; VOLPATO, M. L.; GARCÉS, LINA",
+          "candidato": "Patrícia Costa da Silva",
+          "citacao_completa": "SOUZA, V. O.; VOLPATO, M. L.; GARCÉS, LINA . Participação em banca de Patrícia Costa da Silva.REGADOR: APLICATIVO MÓVEL PARA ESTIMATIVA DE POTENCIAL HÍDRICO EM LAVOURAS CAFEEIRAS. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Middleware para Cloud of Things: uma abordagem com o Apache Kafka",
+          "membros": "GARCÉS, LINA ; GUESSI, MILENA",
+          "candidato": "Adriano Belfort de Sousa",
+          "citacao_completa": "GARCÉS, LINA ; GUESSI, MILENA. Participação em banca de Adriano Belfort de Sousa.Middleware para Cloud of Things: uma abordagem com o Apache Kafka. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".MIRE: um Middleware para prover confiabilidade nas informações em Redes de Sensores Sem Fio",
+          "membros": "GARCÉS, L. M. ; BRAGA, R. T. V.",
+          "candidato": "Caio Eduardo Coelho",
+          "citacao_completa": "GARCÉS, L. M. ; BRAGA, R. T. V.. Participação em banca de Caio Eduardo Coelho.MIRE: um Middleware para prover confiabilidade nas informações em Redes de Sensores Sem Fio. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Instituto de Ciências Matemáticas e de Computação - USP."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "SOUZA, L. F.; SOUSA, E. P. M.; GARCÉS, LINA . Professor Contratado Nível II (Mestre), para o Departamento de Sistemas de",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SOUZA, L. F.; SOUSA, E. P. M.; GARCÉS, LINA . Professor Contratado Nível II (Mestre), para o Departamento de Sistemas de Computação. 2025. Instituto de Ciências Matemáticas e de Computação - USP."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "GARCÉS, LINA ; PINHO, A. F.; COSTA, D. S.; SACHS, D.. Avaliação das propostas para o Edital UNIFEI 006/2023 de Mentoria ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "GARCÉS, LINA ; PINHO, A. F.; COSTA, D. S.; SACHS, D.. Avaliação das propostas para o Edital UNIFEI 006/2023 de Mentoria para o desenvolvimento de docentes para a pós-graduação. 2023. Pró-reitoria de Pesquisa e Pós-Graduação da UNIFEI."
+        }
+      ]
+    }
+  ]
+}

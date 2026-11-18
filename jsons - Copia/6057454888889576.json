@@ -1,0 +1,418 @@
+{
+  "name": "Vitor Mainenti Leal Lopes",
+  "lattes_id": "6057454888889576",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "RIBEIRO, TIAGO TRINDADE ; FERNANDES, BIANCA ; POLESELO, HENRIQUE ; VIDAL, VINICIUS ; LOPES, VITOR ; FERREIRA, MATHAUS ; NETO, EDVALDO ; SCOLARI CONCEICAO, ANDRE GUSTAVO ; DE MELLO HONORIO, LEONARDO . A novel integrated architecture to X-in-the-loop simulation applied to ASV navigation. ROBOTICA , v. 1, p. 1-34, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1017/s026357472400153x"
+        },
+        {
+          "texto": "LEAL LOPES, VITOR MAINENTI ; HONÓRIO, LEONARDO M. ; SANTOS, MURILLO F. ; PANCOTI, ANTÔNIO A. N. ; SILVA, MATHAUS F. ; DINIZ, LUCAS F. ; MERCORELLI, PAOLO . Design of an Over-Actuated Hexacopter Tilt-Rotor for Landing and Coupling in Power Transmission Lines. Drones , v. 7, p. 341, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/drones7060341"
+        },
+        {
+          "texto": "PEREIRA, RAPHAEL JOSÉ ; LOPES, VITOR MAINENTI LEAL ; HOHL, RODRIGO ; MOURÃO-JÚNIOR, CARLOS ALBERTO ; NAGATO, AKINORI CARDOZO . Automated didactic prototype of pulmonary ventilation exhibits a simulation of intrathoracic pressure variations during diaphragmatic function. REVISTA DE MEDICINA (SÃO PAULO. ONLINE) , v. 101, p. p.1, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.11606/issn.1679-9836.v101i6e-196086"
+        },
+        {
+          "texto": "REGINA, BRUNO A. ; HONÓRIO, LEONARDO M. ; PANCOTI, ANTÔNIO A. N. ; SILVA, MATHAUS F. ; SANTOS, MURILLO F. ; LOPES, VITOR M. L. ; NETO, ACCACIO F. SANTOS ; WESTIN, LUIS G. F. . Hull and Aerial Holonomic Propulsion System Design for Optimal Underwater Sensor Positioning in Autonomous Surface Vessels. SENSORS , v. 21, p. 571, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/s21020571"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "LEAL LOPES, VITOR MAINENTI ; DE MELLO HONÓRIO, LEONARDO ; DOS SANTOS, MURILLO FERREIRA ; MERCORELLI, PAOLO ; ARAÚJO NETO, EDVALDO SOARES ; MACHADO, RODOLFO ALMEIDA . Project and Design of a Catamaran Prototype with Aerial Propulsion System. In: 2024 25th International Carpathian Control Conference (ICCC), 2024, Krynica Zdrój. 2024 25th International Carpathian Control Conference (ICCC), 2024. p. 01.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/iccc62069.2024.10569470"
+        },
+        {
+          "texto": "DOS SANTOS, MURILLO FERREIRA ; DE MELLO HONÓRIO, LEONARDO ; LEAL LOPES, VITOR MAINENTI ; MERCORELLI, PAOLO ; ARAÚJO NETO, EDVALDO SOARES ; MACHADO, RODOLFO ALMEIDA . Experimental Tests for an Innovative Catamaran Prototype: An Interesting Application Case. In: 2024 25th International Carpathian Control Conference (ICCC), 2024, Krynica Zdrój. 2024 25th International Carpathian Control Conference (ICCC), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/iccc62069.2024.10569795"
+        },
+        {
+          "texto": "PANCOTI, ANTÔNIO ; ARAUJO NETO, EDVALDO ; HONÓRIO, LEONARDO ; DELMONTE, RAFAEL ; MAINENTI LEAL LOPES, VITOR . DESENVOLVIMENTO DE UMA BANCADA PARA TESTES DE PROPULSÃO AÉREA CONTRA-ROTATIVA. In: CREEM 2023 XXIX Congresso Nacional de Estudantes de Engenharia Mecânica, 2023. XXIX Congresso Nacional de Estudantes de Engenharia Mecânica.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.26678/ABCM.CREEM2023.CRE2023-0134"
+        },
+        {
+          "texto": "SANTOS, M. F. ; SILVA, D. H. C. ; SILVA, M. F. ; VIDAL, V. F. ; HONORIO, L. M. ; LOPES, V. L. M. ; SILVA, L. A. Z. ; REZENDE, H. B. ; RIBEIRO, J. M. S. ; CERQUEIRA, A. S. ; PANCOTI, A. A. N. ; REGINA, B. A. . Project and Design of Multi-Rate Loop Controllers for Fixed-Wings Aircrafts. In: 2018 22nd International Conference on System Theory, Control and Computing (ICSTCC), 2018, Sinaia. 2018 22nd International Conference on System Theory, Control and Computing (ICSTCC), 2018. p. 777.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/icstcc.2018.8540755"
+        },
+        {
+          "texto": "SANTOS, M. F. ; SILVA, M. F. ; VIDAL, V. F. ; HONORIO, L. M. ; LOPES, V. L. M. ; SILVA, L. A. Z. ; REZENDE, H. B. ; RIBEIRO, J. M. S. ; CERQUEIRA, A. S. ; PANCOTI, A. A. N. ; REGINA, B. A. . Experimental Validation of Quadrotors Angular Stability in a Gyroscopic Test Bench. In: 2018 22nd International Conference on System Theory, Control and Computing (ICSTCC), 2018, Sinaia. 2018 22nd International Conference on System Theory, Control and Computing (ICSTCC), 2018. p. 783.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/icstcc.2018.8540660"
+        },
+        {
+          "texto": "Halison da Silva Pereira ; Vitor Mainenti Leal Lopes . AERODYNAMIC DESIGN OF A LIGHT LONG RANGE BLENDED WING BODY UNMANNED VEHICLE. In: IX Congresso Nacional de Engenharia Mecânica, 2016, FORTALEZA. CONEM2016 - 05. ENGENHARIA AEROESPACIAL, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DSc, Marcos Martins Borges ; LOPES, V. M. L. ; RAMPINELLI, D. . ENGINEERING DESIGN GRAPHICS EXPERIENCES IN THE CONTEXT OF ACTUAL BRAZILIAN ENGINEERING CURRICULUMS. In: International Conference on Engineering Education and Research, 2013, Marrakesh. International Conference on Engineering Education and Research, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "VITOI, L. A. ; DSc, Marcos Martins Borges ; LOPES, V. M. L. ; TAVARES, E. . AMPLIAÇÃO DA CAPACIDADE DE ENSINO EM ENGENHARIA POR MEIO DO PROGRAMA ESTUDANTIL SAE-AERODESIGN. In: Congresso Brasileiro de Educação em Engenharia, 2011, Blumenal. Anais do COBENGE 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "BONATTO, ; LOPES, V. M. L. ; MENEGHINI, J. R. ; . COMPARATIVE ANALYSIS OF TURBULENCE MODELS FOR SLAT NOISE SOURCES CALCULATIONS EMPLOYING STRUCTURED MESHES. In: 16th AIAA/CEAS Aeroacoustics Conference, 2010, Stockholm Sweden. 16th AIAA/CEAS Aeroacoustics Conference, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; . ANALYSIS OF THE AERODYNAMICS CHARACTERISTICS OF A WING-CANARD CONFIGURATION WITH CANARD DEFLECTION, USING PANEL METHOD. In: 18th International Congress of Mechanical Engineering - COBEM 2005., 2005, Ouro Preto. 18th International Congress of Mechanical Engineering - COBEM 2005., 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; . ANÁLISE DE CONFIGURAÇÃO CANARD-ASA UTILIZANDO MÉTODO DOS PAINÉIS. In: ENCIT 2004 - 10th Brazilian Congress of Thermal Sciences and Engineering, 2004, Rio de Janeiro. ENCIT 2004 - 10th Brazilian Congress of Thermal Sciences and Engineering, 2004.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "LOPES, V. M. L. ; TAVARES, L. M. M. . PROJETO, CONSTRUÇÃO E CALIBRAGEM DE CÉLULA DE CARGA DE IMPACTO PARA ESTUDOS DE FRAGMENTAÇÃO DE MATERIAIS PARTICULADOS. In: 1º Congresso Nacional de Iniciação Científica - CONIC-SEMESP, 2001, 2001, São Paulo. 1º Congresso Nacional de Iniciação Científica - CONIC-SEMESP, 2001, 2001. v. 2. p. 616-616.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; TAVARES, L. M. M. . CONSTRUÇÃO DE CÉLULA DE CARGA ULTRA RÁPIDA. In: 4o Congresso de Iniciação Científica ASSER, 1999, São Carlos. 4o Congresso de Iniciação Científica ASSER, 1999. p. 78-78.",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "HALLAK, P. H.; BARBOSA, F. S.; CAMATA, J. J.; Vitor Mainenti Leal Lopes ; ALVES, J. L. D.; PFEIL, M. S.. Participação em banca de ERIC VARGAS LOUREIRO. DESENVOLVIMENTO DE UMA METODOLOGIA AERODINÂMICA E ESTRUTURAL PARA ANÁLISES DE PROBLEMAS DE INTERAÇÃO FLUIDO ESTRUTURA EM TURBINAS EÓLICAS DE EIXO HORIZONTAL. 2025. Tese (Doutorado em Modelagem Computacional) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; BARBOSA, F. S.; MARCOMINI, R. F.; Oliveira, P. H. D. D.. Participação em banca de THOMAZ CUNHA RIBEIRO DE OLIVEIRA.DESENVOLVIMENTO DE UM ALGORITMO PARA DIMENSIONAMENTO E OTIMIZAÇÃO DE UM COXIM MOTOR PARA UM PROTÓTIPO BAJA SAE. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MARCOMINI, R. F.; LAGARES JUNIOR, M. L.; Vitor Mainenti Leal Lopes . Participação em banca de PEDRO HENRIQUE BARBOSA MENEGHETTI.DETERMINAÇÃO DE VIDA EM FADIGA PARA PLA COM FIBRA DE CARBONO FABRICADOS EM IMPRESSÃO 3D. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARCOMINI, R. F.; LAGARES JUNIOR, M. L.; Vitor Mainenti Leal Lopes . Participação em banca de DANIEL DO CARMO MIRANDA CAPUZZO.ENSAIO DE FLEXÃO ROTATIVA PARA DETERMINAÇÃO DE VIDA EM FADIGA DO MATERIAL DE MANUFATURA ADITIVA TRITAN. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARCOMINI, R. F.; LAGARES JUNIOR, M. L.; Vitor Mainenti Leal Lopes . Participação em banca de CLÁUDIO FRANCO DE SOUZA.PROJETO DE UM LAMINADOR MANUAL DE ROLOS DE PEQUENO PORTE. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; HALLAK, P. H.; OLIVEIRA, N. L.. Participação em banca de RAFAEL GRANDE PANCINI DELMONTE.ANÁLISES DE HÉLICES CONTRA-ROTATIVAS ATRAVÉS DE TESTES EXPERIMENTAIS E COMPARAÇÃO POR MODELOS ANALÍTICOS. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; BARBOSA, F. S.; LEMONGE, A. C. C.; CURY, A. A.; HALLAK, P. H.. Participação em banca de PAULO HENRIQUE DAYRELL DRUMMOND DE OLIVEIRA.DESENVOLVIMENTO DE MODELOS COMPUTACIONAIS EM TERMOS DE DINÂMICA VEICULAR. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LAGARES JUNIOR, M. L.; Vitor Mainenti Leal Lopes ; João Pedro de Mello Maneze. Participação em banca de TAFAREL CARLOS SOARES.COMPORTAMENTO MECÂNICO SOB FADIGA DE JUNTA SOLDADA DE UMA BANDEJA DE SUSPENSÃO DE VEÍCULO BAJA SAE. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LAGARES JUNIOR, M. L.; MARCOMINI, R. F.. Participação em banca de JOÃO MARCOS JUNQUEIRA BORGES.PROJETO CONCEITUAL DE AERONAVE ULTRALEVE ANFÍBIA. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LAGARES JUNIOR, M. L.; MARCOMINI, R. F.. Participação em banca de DANIEL DE OLIVEIRA SILVA.ENSAIO E ANÁLISE DE DESEMPENHO DE HÉLICES DE VANTS DE PEQUENO PORTE. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, D. M.; Vitor Mainenti Leal Lopes ; ROCHA, B. M.. Participação em banca de MICHEL BERNARDINO MACHADO.ESTIMATIVA DO CAMPO DE VELOCIDADES DE ESCOAMENTOS MONOFÁSICOS POR MEIO DA ANÁLISE DO FLUXO ÓPTICO ESTIMADO POR FERRAMENTAS DE APRENDIZADO DE MÁQUINA. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; TOLEDO, E. M.; BASTOS, F. S.. Participação em banca de OPHIR VALIANTE DUARTE NETO.MÉTODO DOS VOLUMES FINITOS APLICADO A PROBLEMAS DE MUDANÇA DE FASE. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LEMONGE, A. C. C.; HALLAK, P. H.; LOUREIRO, E. V.. Participação em banca de LUCAS DE LANDA COUTO.OTIMIZAÇÃO ESTRUTURAL MULTIOBJETIVO DE UMA PÁ DE TURBINA EÓLICA DE MATERIAL COMPÓSITO. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LEMONGE, A. C. C.; MARCOMINI, R. F.. Participação em banca de HUGO SANTOS MAGALHÃES.OTIMIZAÇÃO APLICADA NO PROJETO DE REDUTORES DE VELOCIDADE DE SIMPLES ESTÁGIO UTILIZANDO O MÉTODO DE ENXAME DE PARTÍCULAS. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; BASTOS, F. S.; FERRAZ, M. V. S.. Participação em banca de GUSTAVO SANTOS DE OLIVEIRA MARQUES.MODELO PRELIMINAR PARA AVALIAÇÃO DE GUIA CIRÚRGICA NO PROCEDIMENTO DE OSTEOTOMIA PERIACETABULAR ATRAVÉS DE SIMULAÇÃO EM ELEMENTOS FINITOS, OTIMIZAÇÃO EM ALGORITMOS GENÉTICOS E OTIMIZAÇÃO ESTRUTURAL. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARCOMINI, R. F.; Vitor Mainenti Leal Lopes ; LAGARES JUNIOR, M. L.. Participação em banca de LEONARDO NOGUEIRA PUCETTI.SIMULAÇÃO TERMO ESTRUTURAL DOS COMPONENTES DE ACELERAÇÃO DE UM COLISOR DE PARTÍCULAS DE LI+. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; HALLAK, P. H.; REGINA, B. A.. Participação em banca de LUCAS ALFREDO KOLLARZ.DESENVOLVIMENTO DE FERRAMENTA PARA O PÓS-PROCESSAMENTO DE CARREGAMENTOS AERODINÂMICOS DE ASA DE VEÍCULO AÉREO NÃO TRIPULADO. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LAGARES JUNIOR, M. L.; Vitor Mainenti Leal Lopes ; RODRIGUES, M. V.. Participação em banca de HENRIQUE AYRES DE OLIVEIRA.PROJETO MECÂNICO DE ALICATE DE BANCADA PARA A BRASAGEM DE SERRAS DE FITA BIMETÁLICAS E PROPOSTA DE PLANEJAMENTO DE ENSAIOS EXPERIMENTAIS PELO MÉTODO DE TAGUCHI. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LEMONGE, A. C. C.; HALLAK, P. H.. Participação em banca de MATHEUS VILELA ÁVILA FREESZ.DESENVOLVIMENTO DE BANCADA DE ENSAIOS ESTRUTURAIS PARA PROJETOS DE VANTS DE PEQUENO PORTE. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; CURY, A. A.; FONSECA, L. G.; LANDRE JUNIOR, J.. Participação em banca de RAFAEL DA SILVA MAGALHÃES.DETERMINAÇÃO DA RIGIDEZ TORCIONAL PARA MELHORAR O DESEMPENHO EM GUINADA APLICADO AO BAJA SAE. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; HALLAK, P. H.; LATTARI, M. G.. Participação em banca de MATEUS DE LANDA COUTO.ESTUDO COMPARATIVO ENTRE O MÉTODO VORTEX LATTICE E ANÁLISE CFD PARA A OBTENÇÃO DE CARREGAMENTOS AERODINÂMICOS. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LEMONGE, A. C. C.; HALLAK, P. H.. Participação em banca de THOMÁS DEMOLINARI PEREIRA BONFÁ.APLICAÇÃO DE RESTRIÇÕES AEROELÁSTICAS EM OTIMIZAÇÃO MULTIDISCIPLINAR EM PROJETO DE AERONAVES. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; BASTOS, F. S.; SCARI, A. S.. Participação em banca de KEVEN BELLO DO NASCIMENTO.ANÁLISE AEROELÁSTICA DA ASA DE UM VEÍCULO AÉREO NÃO TRIPULADO DE PEQUENO PORTE POR MEIO DE SIMULAÇÃO COMPUTACIONAL DE MECÂNICA DOS FLUIDOS E ESTRUTURA. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; LAGARES JUNIOR, M. L.; SILVA, G. C.. Participação em banca de MAX FERNANDO BRITO.PROJETO MECÂNICO DE UMA MÁQUINA DE SOLDA POR CENTELHAMENTO PARA PESQUISA. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; HALLAK, P. H.; Vitor Mainenti Leal Lopes . Participação em banca de PEDRO ANDRADE CALIXTO JUCÁ.DIMENSIONAMENTO ESTRUTURAL DE UMA BANCADA DE TESTES PARA PROPULSÃO AERONÁUTICA HÍBRIDA. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; MARCOMINI, R. F.; Vitor Mainenti Leal Lopes . Participação em banca de RODRIGO SILVEIRA DE RESENDE.DIMENSIONAMENTO MECÂNICO DE UMA BANCADA DE TESTE PARA PROPULSÃO AERONÁUTICA HÍBRIDA. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; SCARI, A. S.; ALVES, M. A. C.. Participação em banca de BRUNO DE ALMEIDA REGINA.PROJETO E ANÁLISE AERONÁUTICA DE VEÍCULO AUTÔNOMO AÉREO NÃO TRIPULADO DE POUSO E DECOLAGEM VERTICAL COM FOCO EM ALCANCE. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; BARBOSA, F. S.; ALVES, M. A. C.. Participação em banca de RAPHAEL OTE OLIVEIRA.MODELAGEM COMPUTACIONAL DINÂMICA ESTRUTURAL E ANÁLISE EXPERIMENTAL DE UMA ASA DE VEÍCULO AÉREO NÃO TRIPULADO. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "HALLAK, P. H.; LOPES, V. M. L. ; SCARI, A. S.; ALVES, M. A. C.. Participação em banca de GABRIEL ANTONIO MENDE DAS FLORES.ANÁLISE AEROELÁSTICA - ESTUDO DO FENÔMENO DE FLUTTER PARA PERFIS AERODINÂMICOS COM 3 GRAUS DE LIBERDADE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; MARCOMINI, R. F.; LOPES, V. M. L. . Participação em banca de PEDRO AUGUSTO COELHO FILHO.ADAPTAÇÃO DE UMA TRANSMISSÃO DE MOTO PARA UM VEÍCULO TIPO BAJA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; MARCOMINI, R. F.; LOPES, V. M. L. . Participação em banca de CAIO SOUZA JUNQUEIRA.PROJETO E CONSTRUÇÃO DE UM DISPOSITIVO PARA MEDIÇÃO DOS COEFICIENTES DE AMORTECEDORES AUTOMOTIVOS. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; LEMONGE, A. C. C.; Vitor Mainenti Leal Lopes . Participação em banca de Palloma Silva Cardoso.ANÁLISE DE FADIGA DE COMPÓSITO ESTRUTURAL PARA APLICAÇÃO EM LONGARINA DE AERONAVE RÁDIO CONTROLADA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; Vitor Mainenti Leal Lopes ; MARCOMINI, R. F.. Participação em banca de Caio Souza Junqueira.Projeto e construção de um dispositivo para medição dos coeficientes de amortecedores automotivos. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; MARCOMINI, R. F.; Vitor Mainenti Leal Lopes . Participação em banca de Pedro Augusto Coelho Filho.ADAPTAÇÃO DE UMA TRANSMISSÃO DE MOTO PARA UM VEICULO TIPO BAJA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; CASSEMIRO, S. L. S.; ALVES, M. A. C.. Participação em banca de ROMULO BARBOSA CAVALIERI.INFLUÊNCIA DA DISTRIBUIÇÃO DE POTÊNCIA NA EFICIÊNCIA ENERGÉTICA DE TRENS DE CARGA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; NAGATO, A. C.; MARCOMINI, R. F.. Participação em banca de RAPHAEL JOSÉ PEREIRA.PROJETO, DESENVOLVIMENTO E INSTRUMENTAÇÃO DE UMA BANCADA DE VENTILAÇÃO PULMONAR ESPONTÂNEA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Vitor Mainenti Leal Lopes ; SCARI, A. S.; HALLAK, P. H.. Participação em banca de Rafael Moreira Guedes.VALIDAÇÃO DE MODELO NUMÉRICO COM BASE EM TESTES ESTRUTURAIS PARA ANÁLISE AEROELÁSTICA DA ASA DE UM VANT DE PEQUENO PORTE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCARI, A. S.; AGUIAR, E. P.; LOPES, V. M. L. . Participação em banca de VICTOR GORETTI AGUIAR.ANÁLISE DE TENSÕES POR PROCESSAMENTO DIGITAL DE IMAGENS OBTIDAS POR FOTOELASTICIDADE. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BOHORQUEZ, W. O. I.; SCARI, A. S.; LOPES, V. M. L. . Participação em banca de THIAGO REIS DE ALMEIDA.INCIDÊNCIA DOS AJUSTES DAS ALETAS-GUIAS NA AVALIAÇÃO DAS PERDAS PRIMÁRIAS EM TURBINAS FRANCIS. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; DSc, Marcos Martins Borges; PAGOTTO, C. R.. Participação em banca de JOÃO PEDRO PORTELLA GUEDES VISCONTI.ESTUDO INICIAL DE UM VEÍCULO AÉREO NÃO TRIPULADO DO TIPO TILT-ROTOR. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; LAGARES JUNIOR, M. L.; DSc, Marcos Martins Borges. Participação em banca de LEOMAR SANTOS MARQUES.PROJETO CONCEITUAL DE ROBÔ TERRESTRE RÁDIO CONTROLADO DE BAIXO CUSTO PARA INSPEÇÃO E TRANSPORTE DE MATERIAIS PERIGOSOS. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; LAGARES JUNIOR, M. L.; DSc, Marcos Martins Borges. Participação em banca de FELIPE TOLEDO DUARTE.PROJETO COMPARATIVO DE UM SISTEMA DE TRANSMISSÃO PARA VEÍCULOS FÓRMULA SAE. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LAGARES JUNIOR, M. L.; CURY, A. A.; LOPES, V. M. L. . Participação em banca de THIAGO MONTEIRO CORRÊA.DESENVOLVIMENTO DE UM MODELO EXPERIMENTAL DE TRÊS BARRAS PARA ANÁLISE DE TENSÕES TÉRMICAS NO CORDÃO DE SOLDA. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DSc, Marcos Martins Borges; LAGARES JUNIOR, M. L.; LOPES, V. M. L. . Participação em banca de ARTUR CORRÊA GARDONE JUNIOR.PROCESSO DE DESENVOLVIMENTO DE PRODUTO APLICADO NO PROJETO DA CAIXA DE DIREÇÃO PARA VEÍCULOS FÓRMULA SAE. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SOARES JUNIOR, D.; LOPES, V. M. L. ; AINSWORTH JUNIOR, G. O.. Participação em banca de VICTOR BICALHO CIVINELLI DE ALMEIDA.UMA FORMULAÇÃO DE MARCHA NO TEMPO ADAPTATIVA ASSOCIADA AO MÉTODO DOS ELEMENTOS FINITOS PARA PROBLEMAS ACOPLADOS ACÚSTICO-ELASTODINÂMICOS. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; BOHORQUEZ, W. O. I.; ALVES, M. A. C.. Participação em banca de GUILHERME LIMA MIRANDA GONÇALVES FAGUNDES.PROJETO DE FAMÍLIA DE PERFIS AERODINÂMICOS PARA ESCOAMENTO DE BAIXO REYNOLDS UTILIZANDO ALGORITMO DE OTIMIZAÇÃO. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "AGUIAR, E. P.; NOGUEIRA, F. M. A.; MARCOMINI, R. F.; LOPES, V. M. L. ; FONSECA, L. G.. Participação em banca de SAULO VIEIRA MACHADO.SET-MEMBERSHIP TYPE-2 FUZZY LOGIC SYSTEM APPLIED TO CLASSIFICATION OF RAIL HEAD DEFECTS. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; HALLAK, P. H.; BOHORQUEZ, W. O. I.. Participação em banca de GABRIEL HENRIQUE CARVALHO NEVES.AVALIAÇÃO DE ESCOAMENTOS TURBULENTOS OSCILATÓRIOS SOBRE UM CONJUNTO DE CORPOS ROMBUDOS APRESENTANDO OS COEFICIENTES DE FORÇA E NÚMERO DE STROUHAL. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; ALVES, M. A. C.; BOHORQUEZ, W. O. I.. Participação em banca de CIRO SOBRINHO CAMPOLINA MARTINS.MODELOS DE TURBULÊNCIA EM AERODINÂMICA DE AEROFÓLIOS SOB BAIXO NÚMERO DE REYNOLDS: UMA ANALÍTICA COMPARATIVA. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; ALVES, M. A. C.; BOHORQUEZ, W. O. I.. Participação em banca de HALISON DA SILVA PEREIRA.PROPOSTA DE METODOLOGIA PARA PROJETO CONCEITUAL DE VEÍCULOS AÉREOS NÃO TRIPULADOS DESTINADOS AO SENSORIAMENTO REMOTO. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PAGOTTO, C. R.; DSc., Luiz Henrique Dias Alves; LOPES, V. M. L. . Participação em banca de FELIPE PELLEGRINO DE OLIVEIRA.ESTUDO DE DIÁLISE ONLINE DE ÓLEO HIDRÁULICO DE ESCAVADEIRA POR MEIO DE MONITORAMENTO DE NÍVEL DE CONTAMINAÇÃO. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LAGARES JUNIOR, M. L.; LOPES, V. M. L. ; MARCOMINI, R. F.. Participação em banca de EDUARDO LEITE TAVARES.ESTUDO DO DISPOSITIVO DE JUNÇÃO \"GRAMPO FIXO\" PARA FEIXE DE MOLAS DE CAMINHÕES E ÔNIBUS. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PAGOTTO, C. R.; MARCOMINI, R. F.; LOPES, V. M. L. . Participação em banca de MARCO ANTÔNIO LOPES MAIER.DESENVOLVIMENTO DE BANCADA PARA ESTUDOS TRIBOLÓGICOS EM MANCAIS DESLIZANTES. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, R. A.; DSc., Luiz Henrique Dias Alves; LOPES, V. M. L. . Participação em banca de SARAH SILVEIRA MENDES.ESTUDO DA DINÂMICA DE LUBRIFICAÇÃO EM UM SISTEMA MECÂNICO MANCAL DESLIZANTE. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; VIEIRA, R. A.; DSc, Marcos Martins Borges. Participação em banca de LUCAS DE CASTRO VALENTE.ANÁLISE DE COMPORTAMENTO DINÂMICO DE UM VAGÃO SUBMETIDO À EXCITAÇÃO HARMÔNICA POR MEIO DE SIMULAÇÃO MULTICORPOS. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DSc., Luiz Henrique Dias Alves; MILANEZ, D. B.; LOPES, V. M. L. . Participação em banca de Gustavo Pereira Gomes.DESAFIOS DOS EMPREENDEDORES EM NEGÓCIOS SOCIAIS NO BRASIL. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, V. M. L. ; DSc., Luiz Henrique Dias Alves; DSc, Marcos Martins Borges. Participação em banca de Felipe Gonzaga Fernandes.POLÍTICAS PÚBLICAS DE INCENTIVO À INOVAÇÃO: UM ESTUDO DE CASO DA ABERTURA DE UMA EMPRESA INOVADORA. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DSc., Luiz Henrique Dias Alves; LOPES, V. M. L. ; DSc, Marcos Martins Borges. Participação em banca de Felipe de Souza Filgueiras.A PRODUÇÃO ENXUTA APLICADA EM UMA EMPRESA DE COMÉRCIO DE APARAS DE PAPEL. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DSc., Luiz Henrique Dias Alves; DSc., Roberta Resende Zagha; LOPES, V. M. L. . Participação em banca de PAULA SALOMÃO MARTINS.ESTUDO DA RELEVÂNCIA DE PRÁTICAS DE INOVAÇÃO: UM COMPARATIVO UNIVERSIDADE-EMPRESA. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DSc, Marcos Martins Borges; LOPES, V. M. L. ; Anderson de Oliveira Castro. Participação em banca de LUCAS TOLEDO DE AGUIAR.INSPEÇÃO DE VIA PERMANENTE: UM FATOR DETERMINANTE NO PROCESSO DE DIRECIONAMENTO DA MANUTENÇÃO FERROVIÁRIA. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Juiz de Fora.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

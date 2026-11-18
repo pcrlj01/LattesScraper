@@ -1,0 +1,1756 @@
+{
+  "name": "Márcio Eduardo Kreutz",
+  "lattes_id": "6374279398246756",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "ESP32-S3-based single-phase smart meter with containerized IoT backend and residential consumption forecasting",
+          "autores": "DE SOUSA, EWERTON LEANDRO ; DE AQUINO MARQUES, LEONARDO AUGUSTO ; DA SILVA FELIX DE LIMA, ISRAEL ; NETO, AUGUSTO JOSÉ VENÂNCIO ; CUNHA, EDUARDO NOGUEIRA ; CONCEIÇÃO, DARIO VIEIRA ; KREUTZ, MARCIO EDUARDO",
+          "periodico": "ANNALS OF TELECOMMUNICATIONS , v. 81, p. 1, 2026.",
+          "doi": "http://dx.doi.org/10.1007/s12243-026-01199-0",
+          "citacao_completa": "DE SOUSA, EWERTON LEANDRO ; DE AQUINO MARQUES, LEONARDO AUGUSTO ; DA SILVA FELIX DE LIMA, ISRAEL ; NETO, AUGUSTO JOSÉ VENÂNCIO ; CUNHA, EDUARDO NOGUEIRA ; CONCEIÇÃO, DARIO VIEIRA ; KREUTZ, MARCIO EDUARDO . ESP32-S3-based single-phase smart meter with containerized IoT backend and residential consumption forecasting. ANNALS OF TELECOMMUNICATIONS , v. 81, p. 1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "AccPRET: a proposal of a multicore architecture with reconfigurable accelerators and time predictability",
+          "autores": "SIQUEIRA, HADLEY ; Kreutz, Marcio",
+          "periodico": "THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE) , v. 81, p. 612, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s11227-025-07131-y",
+          "citacao_completa": "SIQUEIRA, HADLEY ; Kreutz, Marcio . AccPRET: a proposal of a multicore architecture with reconfigurable accelerators and time predictability. THE JOURNAL OF SUPERCOMPUTING (DORDRECHT. ONLINE) , v. 81, p. 612, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Machine-Learning-Based Classification of Electronic Devices Using an IoT Smart Meter",
+          "autores": "DA COSTA FILHO, PAULO EUGÊNIO ; MARQUES, LEONARDO AUGUSTO DE AQUINO ; LIMA, ISRAEL DA S. FELIX DE ; SOUSA, EWERTON LEANDRO DE ; KREUTZ, MÁRCIO EDUARDO ; NETO, AUGUSTO V. ; CUNHA, EDUARDO NOGUEIRA ; VIEIRA, DARIO",
+          "periodico": "Informatics-Basel , v. 12, p. 48, 2025.",
+          "doi": "http://dx.doi.org/10.3390/informatics12020048",
+          "citacao_completa": "DA COSTA FILHO, PAULO EUGÊNIO ; MARQUES, LEONARDO AUGUSTO DE AQUINO ; LIMA, ISRAEL DA S. FELIX DE ; SOUSA, EWERTON LEANDRO DE ; KREUTZ, MÁRCIO EDUARDO ; NETO, AUGUSTO V. ; CUNHA, EDUARDO NOGUEIRA ; VIEIRA, DARIO . Machine-Learning-Based Classification of Electronic Devices Using an IoT Smart Meter. Informatics-Basel , v. 12, p. 48, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Parity-Based Dual Modular Redundancy Approach for the Reliability of Data Transmission in Nanosatellite’s Onboard Processing",
+          "autores": "ALVES, ALEX C. R. ; SILVEIRA, LUIZ F. Q. ; KREUTZ, MÁRCIO E. ; DIAS, SAMAHERNI M.",
+          "periodico": "IEEE Access , v. 12, p. 90815-90828, 2024.",
+          "doi": "http://dx.doi.org/10.1109/access.2024.3421608",
+          "citacao_completa": "ALVES, ALEX C. R. ; SILVEIRA, LUIZ F. Q. ; KREUTZ, MÁRCIO E. ; DIAS, SAMAHERNI M. . A Parity-Based Dual Modular Redundancy Approach for the Reliability of Data Transmission in Nanosatellite’s Onboard Processing. IEEE Access , v. 12, p. 90815-90828, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Using evolutionary metaheuristics to solve the mapping and routing problem in networks on chip",
+          "autores": "GOMES DE ARAUJO ROCHA, HIAGO MAYK ; SCHNEIDER BECK, ANTONIO CARLOS ; EDUARDO KREUTZ, MARCIO ; DINIZ MONTEIRO MAIA, SÍLVIA MARIA ; MAGALHÃES PEREIRA, MONICA",
+          "periodico": "DESIGN AUTOMATION FOR EMBEDDED SYSTEMS , v. 27, p. 1, 2023.",
+          "doi": "http://dx.doi.org/10.1007/s10617-023-09269-5",
+          "citacao_completa": "GOMES DE ARAUJO ROCHA, HIAGO MAYK ; SCHNEIDER BECK, ANTONIO CARLOS ; EDUARDO KREUTZ, MARCIO ; DINIZ MONTEIRO MAIA, SÍLVIA MARIA ; MAGALHÃES PEREIRA, MONICA . Using evolutionary metaheuristics to solve the mapping and routing problem in networks on chip. DESIGN AUTOMATION FOR EMBEDDED SYSTEMS , v. 27, p. 1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Development a Low-Cost Wireless Smart Meter with Power Quality Measurement for Smart Grid Applications",
+          "autores": "SOUSA, EWERTON L. DE ; MARQUES, LEONARDO A. DE AQUINO ; LIMA, ISRAEL DA S. FELIX DE ; NEVES, ANA BEATRIZ M. ; CUNHA, EDUARDO NOGUEIRA ; KREUTZ, MÁRCIO EDUARDO ; NETO, AUGUSTO JOSÉ V.",
+          "periodico": "SENSORS , v. 23, p. 7210, 2023.",
+          "doi": "http://dx.doi.org/10.3390/s23167210",
+          "citacao_completa": "SOUSA, EWERTON L. DE ; MARQUES, LEONARDO A. DE AQUINO ; LIMA, ISRAEL DA S. FELIX DE ; NEVES, ANA BEATRIZ M. ; CUNHA, EDUARDO NOGUEIRA ; KREUTZ, MÁRCIO EDUARDO ; NETO, AUGUSTO JOSÉ V. . Development a Low-Cost Wireless Smart Meter with Power Quality Measurement for Smart Grid Applications. SENSORS , v. 23, p. 7210, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Analysis of Electrical Signals by Machine Learning for Classification of Individualized Electronics on the Internet of Smart Grid Things (IoSGT) architecture",
+          "autores": "MARQUES, LEONARDO ; EUGÊNIO, PAULO ; BASTOS, LUCAS ; SANTOS, HUGO ; ROSÁRIO, DENIS ; NOGUEIRA, EDUARDO ; CERQUEIRA, EDUARDO ; KREUTZ, MÁRCIO ; NETO, AUGUSTO",
+          "periodico": "JOURNAL OF INTERNET SERVICES AND APPLICATIONS , v. 14, p. 124-135, 2023.",
+          "doi": "http://dx.doi.org/10.5753/jisa.2023.3076",
+          "citacao_completa": "MARQUES, LEONARDO ; EUGÊNIO, PAULO ; BASTOS, LUCAS ; SANTOS, HUGO ; ROSÁRIO, DENIS ; NOGUEIRA, EDUARDO ; CERQUEIRA, EDUARDO ; KREUTZ, MÁRCIO ; NETO, AUGUSTO . Analysis of Electrical Signals by Machine Learning for Classification of Individualized Electronics on the Internet of Smart Grid Things (IoSGT) architecture. JOURNAL OF INTERNET SERVICES AND APPLICATIONS , v. 14, p. 124-135, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Predictive Fraud Detection: An Intelligent Method for Internet of Smart Grid Things Systems",
+          "autores": "BASTOS, LUCAS ; MARTINS, BRUNO ; SANTOS, HUGO ; MEDEIROS, IAGO ; EUGÊNIO, PAULO ; MARQUES, LEONARDO ; ROSÁRIO, DENIS ; NOGUEIRA, EDUARDO ; CERQUEIRA, EDUARDO ; KREUTZ, MÁRCIO ; NETO, AUGUSTO",
+          "periodico": "JOURNAL OF INTERNET SERVICES AND APPLICATIONS , v. 14, p. 160-176, 2023.",
+          "doi": "http://dx.doi.org/10.5753/jisa.2023.3077",
+          "citacao_completa": "BASTOS, LUCAS ; MARTINS, BRUNO ; SANTOS, HUGO ; MEDEIROS, IAGO ; EUGÊNIO, PAULO ; MARQUES, LEONARDO ; ROSÁRIO, DENIS ; NOGUEIRA, EDUARDO ; CERQUEIRA, EDUARDO ; KREUTZ, MÁRCIO ; NETO, AUGUSTO . Predictive Fraud Detection: An Intelligent Method for Internet of Smart Grid Things Systems. JOURNAL OF INTERNET SERVICES AND APPLICATIONS , v. 14, p. 160-176, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploração de Espaço e Projeto Para Topologias Irregulares em Aplicações de Tempo Real",
+          "autores": "OLIVEIRA, S. S. ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "Brazilian Journal of Development , v. 6, p. 100937, 2021.",
+          "doi": "http://dx.doi.org/10.34117/bjdv6n12-547",
+          "citacao_completa": "OLIVEIRA, S. S. ; KREUTZ, MÁRCIO EDUARDO . Exploração de Espaço e Projeto Para Topologias Irregulares em Aplicações de Tempo Real. Brazilian Journal of Development , v. 6, p. 100937, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Uma Ferramenta baseada em Inteligência Artificial para Exploração de Espaço de Projeto para Redes em Chip",
+          "autores": "SILVA, JEFFERSON ; KREUTZ, MÁRCIO EDUARDO ;",
+          "periodico": "Brazilian Journal of Development , v. 7, p. 1961-1980, 2021.",
+          "doi": "http://dx.doi.org/10.34117/bjdv7n1-134",
+          "citacao_completa": "SILVA, JEFFERSON ; KREUTZ, MÁRCIO EDUARDO ; . Uma Ferramenta baseada em Inteligência Artificial para Exploração de Espaço de Projeto para Redes em Chip. Brazilian Journal of Development , v. 7, p. 1961-1980, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "IPNoSys III: O Paradigma SDN em uma NoC Baseada em um Processador Não Convencional",
+          "autores": "NUNES, DENIS F. L. ; ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "Brazilan Journal of Development , v. 7, p. 2321-2341, 2021.",
+          "doi": "http://dx.doi.org/10.34117/bjdv7n1-159",
+          "citacao_completa": "NUNES, DENIS F. L. ; ; KREUTZ, MÁRCIO EDUARDO . IPNoSys III: O Paradigma SDN em uma NoC Baseada em um Processador Não Convencional. Brazilan Journal of Development , v. 7, p. 2321-2341, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Real-Time Applications",
+          "autores": "OLIVEIRA, S. S. ; CARVALHO, BRUNO M. ; KREUTZ, M.",
+          "periodico": "Micromachines , v. 12, p. 1196-1208, 2021.",
+          "doi": "http://dx.doi.org/10.3390/mi12101196",
+          "citacao_completa": "OLIVEIRA, S. S. ; CARVALHO, BRUNO M. ; KREUTZ, M. . Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Real-Time Applications. Micromachines , v. 12, p. 1196-1208, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "IRNoC: Uma Ferramenta de Simulação para Redes-em-Chip Irregulares",
+          "autores": "OLIVEIRA, S. S. ; KREUTZ, MARCIO E.",
+          "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC , v. 10, p. 189, 2020.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, S. S. ; KREUTZ, MARCIO E. . IRNoC: Uma Ferramenta de Simulação para Redes-em-Chip Irregulares. REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC , v. 10, p. 189, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comparação de Desempenho entre Arbitragem Round-Robin e Arbitragem Round-Robin com Canais Virtuais em Redes-em-Chip",
+          "autores": "OLIVEIRA, S. S. ; KREUTZ, MARCIO E.",
+          "periodico": "REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC , v. 10, p. 183, 2020.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, S. S. ; KREUTZ, MARCIO E. . Comparação de Desempenho entre Arbitragem Round-Robin e Arbitragem Round-Robin com Canais Virtuais em Redes-em-Chip. REVISTA DE SISTEMAS E COMPUTAÇÃO - RSC , v. 10, p. 183, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A comparison between evolutionary and local search techniques applied to NoC design space exploration",
+          "autores": "KREUTZ, MÁRCIO E. ; MAIA, SÍLVIA M.D.M. ; SILVA, JEFFERSON ; MAGALH'ÃES, MONICA",
+          "periodico": "INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING AND APPLICATIONS (PRINT) , v. 11, p. 193, 2020.",
+          "doi": "http://dx.doi.org/10.1504/ijica.2020.10033244",
+          "citacao_completa": "KREUTZ, MÁRCIO E. ; MAIA, SÍLVIA M.D.M. ; SILVA, JEFFERSON ; MAGALH'ÃES, MONICA . A comparison between evolutionary and local search techniques applied to NoC design space exploration. INTERNATIONAL JOURNAL OF INNOVATIVE COMPUTING AND APPLICATIONS (PRINT) , v. 11, p. 193, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "An investigation of latency prediction for NoC-based communication architectures using machine learning techniques",
+          "autores": "SILVA, JEFFERSON ; KREUTZ, MÁRCIO ; PEREIRA, MONICA ; COSTA-ABREU, MARJORY DA",
+          "periodico": "JOURNAL OF SUPERCOMPUTING , v. 75, p. 1-19, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s11227-019-02971-x",
+          "citacao_completa": "SILVA, JEFFERSON ; KREUTZ, MÁRCIO ; PEREIRA, MONICA ; COSTA-ABREU, MARJORY DA . An investigation of latency prediction for NoC-based communication architectures using machine learning techniques. JOURNAL OF SUPERCOMPUTING , v. 75, p. 1-19, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "RedScarf: An Open-Source Multi-Platform Simulation Environment for Performance Evaluation of Networks-on-Chip",
+          "autores": "DA SILVA, EDUARDO A. ; KREUTZ, MÁRCIO E. ; ZEFERINO, CESAR A.",
+          "periodico": "JOURNAL OF SYSTEMS ARCHITECTURE , v. 99, p. 101633-101648, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.sysarc.2019.101633",
+          "citacao_completa": "DA SILVA, EDUARDO A. ; KREUTZ, MÁRCIO E. ; ZEFERINO, CESAR A. . RedScarf: An Open-Source Multi-Platform Simulation Environment for Performance Evaluation of Networks-on-Chip. JOURNAL OF SYSTEMS ARCHITECTURE , v. 99, p. 101633-101648, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A simultaneous multithreading processor architecture with predictable timing behavior",
+          "autores": "SIQUEIRA, HADLEY MAGNO ; KREUTZ, MARCIO EDUARDO",
+          "periodico": "DESIGN AUTOMATION FOR EMBEDDED SYSTEMS , v. 23, p. 1-18, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s10617-019-09224-3",
+          "citacao_completa": "SIQUEIRA, HADLEY MAGNO ; KREUTZ, MARCIO EDUARDO . A simultaneous multithreading processor architecture with predictable timing behavior. DESIGN AUTOMATION FOR EMBEDDED SYSTEMS , v. 23, p. 1-18, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Experimental Data from the Simulation of On-Chip Communication Architectures using RedScarf Simulation Environment",
+          "autores": "ALVES DA SILVA, EDUARDO ; KREUTZ, MÁRCIO EDUARDO ; ZEFERINO, CESAR ALBENES",
+          "periodico": "DATA IN BRIEF , v. 1, p. 104725, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.dib.2019.104725",
+          "citacao_completa": "ALVES DA SILVA, EDUARDO ; KREUTZ, MÁRCIO EDUARDO ; ZEFERINO, CESAR ALBENES . Experimental Data from the Simulation of On-Chip Communication Architectures using RedScarf Simulation Environment. DATA IN BRIEF , v. 1, p. 104725, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Comparação de Desempenho entre NoC e WINoCS usando Topologia Mesh",
+          "autores": "OLIVEIRA, S. S. ; KREUTZ, M. E.",
+          "periodico": "REVISTA DO CCEI , v. 24, p. 31-44, 2019.",
+          "doi": "http://dx.doi.org/10.30945/ccei-v29i39.2740",
+          "citacao_completa": "OLIVEIRA, S. S. ; KREUTZ, M. E. . Comparação de Desempenho entre NoC e WINoCS usando Topologia Mesh. REVISTA DO CCEI , v. 24, p. 31-44, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Uma Nova Abordagem de Roteamento em NoCs Com Topologias Irregulares",
+          "autores": "OLIVEIRA, S. S. ; ; Kreutz, Marcio",
+          "periodico": "REVISTA DO CCEI , v. 23, p. 79-92, 2018.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, S. S. ; ; Kreutz, Marcio . Uma Nova Abordagem de Roteamento em NoCs Com Topologias Irregulares. REVISTA DO CCEI , v. 23, p. 79-92, 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "PML: UMA LINGUAGEM PARA MODELAGEM E AVALIAÇÃO DOS PROCESSADORES",
+          "autores": "SILVEIRA, M. M. ; Kreutz, Marcio ; MEDEIROS, A. L. ; MESQUITA, J. W.",
+          "periodico": "Revista de Sistemas e Computação - RSC , v. 5, p. 104-115, 2015.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, M. M. ; Kreutz, Marcio ; MEDEIROS, A. L. ; MESQUITA, J. W. . PML: UMA LINGUAGEM PARA MODELAGEM E AVALIAÇÃO DOS PROCESSADORES. Revista de Sistemas e Computação - RSC , v. 5, p. 104-115, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Exploração de paralelismo à nível de instruções e de tarefas em uma arquitetura de processamento não convencional",
+          "autores": "MEDEIROS, APARECIDA ; MEDEIROS, ANA LUISA ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "Revista Brasileira de Computação Aplicada , v. 7, p. 120-133, 2015.",
+          "doi": "http://dx.doi.org/10.5335/rbca.2015.5027",
+          "citacao_completa": "MEDEIROS, APARECIDA ; MEDEIROS, ANA LUISA ; KREUTZ, MÁRCIO EDUARDO . Exploração de paralelismo à nível de instruções e de tarefas em uma arquitetura de processamento não convencional. Revista Brasileira de Computação Aplicada , v. 7, p. 120-133, 2015."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A NOC closed-loop performance monitor and adapter",
+          "autores": "; ; KOLOGESKI, Anelise ; ; KREUTZ, M. E. ; ;",
+          "periodico": "Microprocessors and Microsystems , v. 35, p. 1-10, 2011.",
+          "doi": "http://dx.doi.org/10.1016/j.micpro.2011.05.001",
+          "citacao_completa": "; ; KOLOGESKI, Anelise ; ; KREUTZ, M. E. ; ; . A NOC closed-loop performance monitor and adapter. Microprocessors and Microsystems , v. 35, p. 1-10, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Packet-driven General Purpose Instruction Execution on Communication-based Architectures",
+          "autores": "; ; KREUTZ, M. E.",
+          "periodico": "JICS. Journal of Integrated Circuits and Systems (Ed. Português) , v. 5, p. 53-66, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; KREUTZ, M. E. . Packet-driven General Purpose Instruction Execution on Communication-based Architectures. JICS. Journal of Integrated Circuits and Systems (Ed. Português) , v. 5, p. 53-66, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Anlysis, Estimations, and Applications of Embedded Systems",
+          "autores": "WEHRMEISTER, M. ; EDUARDO KREUTZ, MARCIO ; GOTZ, M. ; HENKLER, S. ; PIMENTEL, A. D. ; RETTBERG, A.",
+          "periodico": "1. ed. , 2023. 190p .",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-26500-6",
+          "citacao_completa": "WEHRMEISTER, M. ; EDUARDO KREUTZ, MARCIO ; GOTZ, M. ; HENKLER, S. ; PIMENTEL, A. D. ; RETTBERG, A. . Anlysis, Estimations, and Applications of Embedded Systems. 1. ed. , 2023. 190p ."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Designing Modern Embedded Systems: Software, Hardware, and Applications",
+          "autores": "HENKLER, S. ; Kreutz, Marcio ; WEHRMEISTER, M. ; GOTZ, M. ; RETTBERG, A.",
+          "periodico": "1. ed. Springer Cham, 2023. 151p .",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-34214-1",
+          "citacao_completa": "HENKLER, S. ; Kreutz, Marcio ; WEHRMEISTER, M. ; GOTZ, M. ; RETTBERG, A. . Designing Modern Embedded Systems: Software, Hardware, and Applications. 1. ed. Springer Cham, 2023. 151p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Opportunities, Limitations and Challenges of EDA Playground and ChatGPT Regarding Verification",
+          "autores": "DE OLIVEIRA, Joel Gonçalves ; KREUTZ, MARCIO EDUARDO",
+          "periodico": "Chatbots and Beyond. 1ed.: Wiley, 2025, v. , p. 241-260.",
+          "doi": "http://dx.doi.org/10.1002/9781394411283.ch12",
+          "citacao_completa": "DE OLIVEIRA, Joel Gonçalves ; KREUTZ, MARCIO EDUARDO . Opportunities, Limitations and Challenges of EDA Playground and ChatGPT Regarding Verification. Chatbots and Beyond. 1ed.: Wiley, 2025, v. , p. 241-260."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Behavioral Modeling for Embedded Systems and Technologies: Applications for Design and Implementation.",
+          "autores": "BRISOLARA, Lisane ; KREUTZ, M. E. ;",
+          "periodico": "In: Luis Gomes; Joao M. Fernandes.. (Org.). Behavioral Modeling for Embedded Systems and Technologies: Applications for Design and Implementation.. : Hershey: IGI Global, 2009, v. , p. -.",
+          "doi": "",
+          "citacao_completa": "BRISOLARA, Lisane ; KREUTZ, M. E. ; . Behavioral Modeling for Embedded Systems and Technologies: Applications for Design and Implementation.. In: Luis Gomes; Joao M. Fernandes.. (Org.). Behavioral Modeling for Embedded Systems and Technologies: Applications for Design and Implementation.. : Hershey: IGI Global, 2009, v. , p. -."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "Reconfigurable Routers for Low Power and High Performance",
+          "autores": "; ; Kreutz, Marcio ; ; ;",
+          "periodico": "IEEE Transactions on Very Large Scale Integration (VLSI) Systems, p. 1 - 14, 27 set. 2010.",
+          "doi": "",
+          "citacao_completa": "; ; Kreutz, Marcio ; ; ; . Reconfigurable Routers for Low Power and High Performance. IEEE Transactions on Very Large Scale Integration (VLSI) Systems, p. 1 - 14, 27 set. 2010."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Análise e Seleção de Redes de Interconexão para Síntese de Sistemas no Ambiente S³E²S",
+          "autores": "KREUTZ, M. E. ; ; ;",
+          "periodico": "RITA - Revista de Informática Teórica e Aplicada, Porto Alegre, 05 set. 2001.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; . Análise e Seleção de Redes de Interconexão para Síntese de Sistemas no Ambiente S³E²S. RITA - Revista de Informática Teórica e Aplicada, Porto Alegre, 05 set. 2001."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A Comparative Study of Residual-Based Anomaly Detection Techniques for UPS Current Monitoring in Data Centers",
+          "autores": "MARQUES, LEONARDO ; RODRIGUES, C. ; DA COSTA FILHO, PAULO EUGÊNIO ; Kreutz, Marcio ; CUNHA, E. N. ; NETO, AUGUSTO ; VIEIRA, DARIO",
+          "periodico": "In: 2026 IEEE Symposium on Computers and Communications (ISCC), 2026, Vilamoura, Portugal. 2026 IEEE Symposium on Computers and Communications (ISCC), 2026.",
+          "doi": "",
+          "citacao_completa": "MARQUES, LEONARDO ; RODRIGUES, C. ; DA COSTA FILHO, PAULO EUGÊNIO ; Kreutz, Marcio ; CUNHA, E. N. ; NETO, AUGUSTO ; VIEIRA, DARIO . A Comparative Study of Residual-Based Anomaly Detection Techniques for UPS Current Monitoring in Data Centers. In: 2026 IEEE Symposium on Computers and Communications (ISCC), 2026, Vilamoura, Portugal. 2026 IEEE Symposium on Computers and Communications (ISCC), 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "From Python to Hardware: A Case Study In Accelerator Development for RISC-V SoC Framework",
+          "autores": "RODRIGUES, M. S. ; BONATTO, A. C. ; Kreutz, Marcio ;",
+          "periodico": "In: South Symposium on Microelectronics, 2026. South Symposium on Microelectronics, 2026.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, M. S. ; BONATTO, A. C. ; Kreutz, Marcio ; . From Python to Hardware: A Case Study In Accelerator Development for RISC-V SoC Framework. In: South Symposium on Microelectronics, 2026. South Symposium on Microelectronics, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Containerized IoT Solution for Smart Energy Metering with Real-Time Visualization",
+          "autores": "SOUSA, EWERTON L. DE ; MARQUES, LEONARDO ; LIMA, ISRAEL DA S. FELIX DE ; NETO, AUGUSTO ; CUNHA, E. N. ; VIEIRA, DARIO ; Kreutz, Marcio",
+          "periodico": "In: 13th Wireless Days Conference, 2025, Niterói-RJ. 13th Wireless Days Conference, 2025.",
+          "doi": "",
+          "citacao_completa": "SOUSA, EWERTON L. DE ; MARQUES, LEONARDO ; LIMA, ISRAEL DA S. FELIX DE ; NETO, AUGUSTO ; CUNHA, E. N. ; VIEIRA, DARIO ; Kreutz, Marcio . Containerized IoT Solution for Smart Energy Metering with Real-Time Visualization. In: 13th Wireless Days Conference, 2025, Niterói-RJ. 13th Wireless Days Conference, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Native Artificial Intelligence Deployment in IoSGT Systems: A Holistic Approach",
+          "autores": "DA COSTA FILHO, PAULO EUGÊNIO ; MARQUES, LEONARDO A. DE AQUINO ; NETO, AUGUSTO ; Kreutz, Marcio ; CUNHA, E. N. ; VIEIRA, DARIO",
+          "periodico": "In: IEEE Global Communications Conference, 2025, Taipei, Taiwan. IEEE Global Communications Conference, 2025.",
+          "doi": "http://dx.doi.org/10.1109/GLOBECOM59602.2025.11432797",
+          "citacao_completa": "DA COSTA FILHO, PAULO EUGÊNIO ; MARQUES, LEONARDO A. DE AQUINO ; NETO, AUGUSTO ; Kreutz, Marcio ; CUNHA, E. N. ; VIEIRA, DARIO . Native Artificial Intelligence Deployment in IoSGT Systems: A Holistic Approach. In: IEEE Global Communications Conference, 2025, Taipei, Taiwan. IEEE Global Communications Conference, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Avaliação de técnicas de pré-processamento e classificação de Imagens Hiperespectrais",
+          "autores": "MENDONCA, J. V. F. ; VIEL, F. ; Kreutz, Marcio ; ZEFERINO, CESAR ALBENES",
+          "periodico": "In: SEPOC 2025 - 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú - SC. SEPOC 2025 - 17th Seminar on Power Electronics and Control, 2025.",
+          "doi": "",
+          "citacao_completa": "MENDONCA, J. V. F. ; VIEL, F. ; Kreutz, Marcio ; ZEFERINO, CESAR ALBENES . Avaliação de técnicas de pré-processamento e classificação de Imagens Hiperespectrais. In: SEPOC 2025 - 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú - SC. SEPOC 2025 - 17th Seminar on Power Electronics and Control, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "The Blind Spots of Two-Factor Authentication Tools",
+          "autores": "OLIVEIRA, J. G. ; KREUTZ, MARCIO EDUARDO",
+          "periodico": "In: Third International Conference on Innovations in Computing Research (ICR?24), 2024, Trabzon, Turkey. Proceedings of the Third International Conference on Innovations in Computing Research (ICR?24), 2024. p. 580-592.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, J. G. ; KREUTZ, MARCIO EDUARDO . The Blind Spots of Two-Factor Authentication Tools. In: Third International Conference on Innovations in Computing Research (ICR?24), 2024, Trabzon, Turkey. Proceedings of the Third International Conference on Innovations in Computing Research (ICR?24), 2024. p. 580-592."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ptolemy II Framework as a Tool for Analyzing Attitude Control Algorithms For Nanosatellites",
+          "autores": "ALVES, A. ; SILVEIRA, L. ; DIAS, S. ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "In: Joint 5th IAA Latin American CubeSat Workshop & 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Joint 5th IAA Latin American CubeSat Workshop & 3rd IAA Latin American Symposium on Small Satellites, 2022.",
+          "doi": "",
+          "citacao_completa": "ALVES, A. ; SILVEIRA, L. ; DIAS, S. ; KREUTZ, MÁRCIO EDUARDO . Ptolemy II Framework as a Tool for Analyzing Attitude Control Algorithms For Nanosatellites. In: Joint 5th IAA Latin American CubeSat Workshop & 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Joint 5th IAA Latin American CubeSat Workshop & 3rd IAA Latin American Symposium on Small Satellites, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Performance Comparison and Evaluation of Hybrid Wired-Wireless Networks-on-Chip",
+          "autores": "OLIVEIRA, S. S. ; SILVA, G. E. L. ; BEZERRA, A. F. R. ; KREUTZ, MÁRCIO EDUARDO ;",
+          "periodico": "In: Iberchip, 2021. Iberchip.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, S. S. ; SILVA, G. E. L. ; BEZERRA, A. F. R. ; KREUTZ, MÁRCIO EDUARDO ; . Performance Comparison and Evaluation of Hybrid Wired-Wireless Networks-on-Chip. In: Iberchip, 2021. Iberchip."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Redes em Chip Irregulares para Tolerância a Falhas e Atendimento de Tempo Real",
+          "autores": "CARDOSO, E. B. G. ; AVELINO, A. A. F. ; ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "In: Iberchip, 2021, virtual. Iberchip.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, E. B. G. ; AVELINO, A. A. F. ; ; KREUTZ, MÁRCIO EDUARDO . Redes em Chip Irregulares para Tolerância a Falhas e Atendimento de Tempo Real. In: Iberchip, 2021, virtual. Iberchip."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Multi-Layer Perceptron para Detecção de Faltas em Aerogeradores Baseados na Máquina de Indução com Rotor em Gaiola",
+          "autores": "SALLES, A. C. ; KREUTZ, M. ; BARROS, L.",
+          "periodico": "In: SBAI 2021 - Simpósio Brasileiro de Automação Inteligente, 2021, Rio Grande, RS. SBAI 2021 - Simpósio Brasileiro de Automação Inteligente, 2021.",
+          "doi": "http://dx.doi.org/10.20906/sbai2021/216539",
+          "citacao_completa": "SALLES, A. C. ; KREUTZ, M. ; BARROS, L. . Multi-Layer Perceptron para Detecção de Faltas em Aerogeradores Baseados na Máquina de Indução com Rotor em Gaiola. In: SBAI 2021 - Simpósio Brasileiro de Automação Inteligente, 2021, Rio Grande, RS. SBAI 2021 - Simpósio Brasileiro de Automação Inteligente, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Using Machine Learning to Estimate Latency and Delivered Packets in Hybrids NoCs",
+          "autores": "OLIVEIRA, S. S. ; ; ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "In: XI Brazilian Symposium on Computing Systems Engineering, 2021, Florianópolis. XI Brazilian Symposium on Computing Systems Engineering, 2021.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, S. S. ; ; ; KREUTZ, MÁRCIO EDUARDO . Using Machine Learning to Estimate Latency and Delivered Packets in Hybrids NoCs. In: XI Brazilian Symposium on Computing Systems Engineering, 2021, Florianópolis. XI Brazilian Symposium on Computing Systems Engineering, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Machine Learning Based Seismic Region Classification",
+          "autores": "OLIVEIRA, SAMUEL DA S. ; CANUTO, ANNE M. P. ; CARVALHO, BRUNO M. ; KREUTZ, MARCIO E.",
+          "periodico": "In: 2020 International Joint Conference on Neural Networks (IJCNN), 2020, Glasgow. 2020 International Joint Conference on Neural Networks (IJCNN), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ijcnn48605.2020.9206961",
+          "citacao_completa": "OLIVEIRA, SAMUEL DA S. ; CANUTO, ANNE M. P. ; CARVALHO, BRUNO M. ; KREUTZ, MARCIO E. . Machine Learning Based Seismic Region Classification. In: 2020 International Joint Conference on Neural Networks (IJCNN), 2020, Glasgow. 2020 International Joint Conference on Neural Networks (IJCNN), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Routing based Genetic Algorithm for Task Mapping on MPSoC",
+          "autores": "DE A. ROCHA, HIAGO MAYK G. ; BECK, ANTONIO CARLOS S. ; MAIA, SILVIA M. D. M. ; KREUTZ, MARCIO E. ; PEREIRA, MONICA M.",
+          "periodico": "In: 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020, Florianopolis. 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBESC51047.2020.9277843",
+          "citacao_completa": "DE A. ROCHA, HIAGO MAYK G. ; BECK, ANTONIO CARLOS S. ; MAIA, SILVIA M. D. M. ; KREUTZ, MARCIO E. ; PEREIRA, MONICA M. . A Routing based Genetic Algorithm for Task Mapping on MPSoC. In: 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020, Florianopolis. 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mapping Wired Links in a Hybrid Wired-Wireless Network-on-Chip",
+          "autores": "DA S. OLIVEIRA, SAMUEL ; LIMA, GUILHERME EGLE P. ; PEREIRA, MONICA M. ; KREUTZ, MARCIO E. ; CARVALHO, BRUNO M.",
+          "periodico": "In: 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020, Florianopolis. 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/sbesc51047.2020.9277850",
+          "citacao_completa": "DA S. OLIVEIRA, SAMUEL ; LIMA, GUILHERME EGLE P. ; PEREIRA, MONICA M. ; KREUTZ, MARCIO E. ; CARVALHO, BRUNO M. . Mapping Wired Links in a Hybrid Wired-Wireless Network-on-Chip. In: 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020, Florianopolis. 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Optimizing an Architecture with Software Pipelining Strategies",
+          "autores": "NUNES, DENIS F. L. ; FERNANDES, SILVIO R. ; KREUTZ, MARCIO E.",
+          "periodico": "In: 2019 IFIP/IEEE 27th International Conference on Very Large Scale Integration (VLSISoC), 2019, Cuzco. 2019 IFIP/IEEE 27th International Conference on Very Large Scale Integration (VLSI-SoC), 2019. p. 299.",
+          "doi": "http://dx.doi.org/10.1109/VLSI-SoC.2019.8920368",
+          "citacao_completa": "NUNES, DENIS F. L. ; FERNANDES, SILVIO R. ; KREUTZ, MARCIO E. . Optimizing an Architecture with Software Pipelining Strategies. In: 2019 IFIP/IEEE 27th International Conference on Very Large Scale Integration (VLSISoC), 2019, Cuzco. 2019 IFIP/IEEE 27th International Conference on Very Large Scale Integration (VLSI-SoC), 2019. p. 299."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Communication Latency Evaluation on a Software-Defined Network-on-Chip",
+          "autores": "SILVA, R. S. ; CRUZ, P. ; Kreutz, Marcio ;",
+          "periodico": "In: IX Brazilian Symposium on Computing Systems Engineering, 2019, Natal/RN. SBESC 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "SILVA, R. S. ; CRUZ, P. ; Kreutz, Marcio ; . Communication Latency Evaluation on a Software-Defined Network-on-Chip. In: IX Brazilian Symposium on Computing Systems Engineering, 2019, Natal/RN. SBESC 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Generation of Application Specific Fault Tolerant Irregular NoC Topologies Using Tabu Search",
+          "autores": "BEZERRA, G. ; CRUZ, P. ; ; KREUTZ, MÁRCIO EDUARDO",
+          "periodico": "In: IX Brazilian Symposium on Computing Systems Engineering, 2019, Natal/RN. SBESC 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "BEZERRA, G. ; CRUZ, P. ; ; KREUTZ, MÁRCIO EDUARDO . Generation of Application Specific Fault Tolerant Irregular NoC Topologies Using Tabu Search. In: IX Brazilian Symposium on Computing Systems Engineering, 2019, Natal/RN. SBESC 2019, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Coarse-Grained Reconfigurable Architecture for a PRET Machine",
+          "autores": "SIQUEIRA, H. M. C. ; Kreutz, Marcio",
+          "periodico": "In: SBESC, 2018, Salvador. VIII Brazilian Symposium on Computing Systems Engineering, 2018.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, H. M. C. ; Kreutz, Marcio . A Coarse-Grained Reconfigurable Architecture for a PRET Machine. In: SBESC, 2018, Salvador. VIII Brazilian Symposium on Computing Systems Engineering, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Simultaneous Multithreading Processor Architecture with Predictable Timing Behavior",
+          "autores": "SIQUEIRA, H. M. C. ; Kreutz, Marcio",
+          "periodico": "In: SBESC, 2018, Salvador. VIII Brazilian Symposium on Computing Systems Engineering, 2018.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, H. M. C. ; Kreutz, Marcio . A Simultaneous Multithreading Processor Architecture with Predictable Timing Behavior. In: SBESC, 2018, Salvador. VIII Brazilian Symposium on Computing Systems Engineering, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Design space exploration using UTNoCs and genetic algorithm",
+          "autores": "MESQUITA, J. W. ; CRUZ, M. O. ; Kreutz, Marcio ;",
+          "periodico": "In: VI Brazilian Symposium on Computing Systems Engineering, 2016, João Pessoa. VI Brazilian Symposium on Computing Systems Engineering, 2016.",
+          "doi": "",
+          "citacao_completa": "MESQUITA, J. W. ; CRUZ, M. O. ; Kreutz, Marcio ; . Design space exploration using UTNoCs and genetic algorithm. In: VI Brazilian Symposium on Computing Systems Engineering, 2016, João Pessoa. VI Brazilian Symposium on Computing Systems Engineering, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Runtime Mapping Algorithm to Tolerate Permanent Faults in a CGRA",
+          "autores": "; SANTOS, E. ; Kreutz, Marcio ;",
+          "periodico": "In: VI Brazilian Symposium on Computing Systems Engineering, 2016, João Pessoa. VI Brazilian Symposium on Computing Systems Engineering, 2016.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, E. ; Kreutz, Marcio ; . A Runtime Mapping Algorithm to Tolerate Permanent Faults in a CGRA. In: VI Brazilian Symposium on Computing Systems Engineering, 2016, João Pessoa. VI Brazilian Symposium on Computing Systems Engineering, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma Arquitetura para Exploração de Paralelismo Multinível utilizando Roteadores Processantes",
+          "autores": "CRUZ, M. O. ; ; Kreutz, Marcio",
+          "periodico": "In: XXI Workshop Iberchip, 2015, Montevideo. XXI Workshop Iberchip, 2015.",
+          "doi": "",
+          "citacao_completa": "CRUZ, M. O. ; ; Kreutz, Marcio . Uma Arquitetura para Exploração de Paralelismo Multinível utilizando Roteadores Processantes. In: XXI Workshop Iberchip, 2015, Montevideo. XXI Workshop Iberchip, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Towards formalized model-based requirements for a seamless design approach in safety-critical systems",
+          "autores": "WALTER, S. ; RETTBERG, A. ; Kreutz, Marcio",
+          "periodico": "In: 6th IEEE Workshop on Self-Organizing Real-Time Systems, 2015, Auckland. 6th IEEE Workshop on Self-Organizing Real-Time Systems, 2015.",
+          "doi": "",
+          "citacao_completa": "WALTER, S. ; RETTBERG, A. ; Kreutz, Marcio . Towards formalized model-based requirements for a seamless design approach in safety-critical systems. In: 6th IEEE Workshop on Self-Organizing Real-Time Systems, 2015, Auckland. 6th IEEE Workshop on Self-Organizing Real-Time Systems, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Performance Evaluation of Hierarchical NoC Topologies for Stacked 3D ICs",
+          "autores": "; PRASS, M. ; Kreutz, Marcio ; ;",
+          "periodico": "In: International Symposium on Circuits and Systems, 2015, Lisboa. International Symposium on Circuits and Systems, 2015.",
+          "doi": "",
+          "citacao_completa": "; PRASS, M. ; Kreutz, Marcio ; ; . Performance Evaluation of Hierarchical NoC Topologies for Stacked 3D ICs. In: International Symposium on Circuits and Systems, 2015, Lisboa. International Symposium on Circuits and Systems, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Towards Hierarchical Scheduling of Dependent Systems with Hypervisor-based Virtualization",
+          "autores": "JATZKOWSKI, J. ; KREUTZ, M. E. ; RETTBERG, A.",
+          "periodico": "In: Electronic System Level Synthesis Conference, 2015, San Francisco. The 2015 Electronic System Level Synthesis Conference, 2015.",
+          "doi": "",
+          "citacao_completa": "JATZKOWSKI, J. ; KREUTZ, M. E. ; RETTBERG, A. . Towards Hierarchical Scheduling of Dependent Systems with Hypervisor-based Virtualization. In: Electronic System Level Synthesis Conference, 2015, San Francisco. The 2015 Electronic System Level Synthesis Conference, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Suporte a Tolerância a Falhas para aumentar o desempenho de Redes em Chip",
+          "autores": "; Kreutz, Marcio ;",
+          "periodico": "In: Workshop DIMAp 30 anos, 2015, Natal. Workshop DIMAp30anos, 2015.",
+          "doi": "",
+          "citacao_completa": "; Kreutz, Marcio ; . Suporte a Tolerância a Falhas para aumentar o desempenho de Redes em Chip. In: Workshop DIMAp 30 anos, 2015, Natal. Workshop DIMAp30anos, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Exploração de Espaço de Projeto utilizando LM-NoC com avaliação de algoritmos de roteamento",
+          "autores": "MESQUITA, J. W. ; CRUZ, M. O. ; ; MEDEIROS, A. L. ; Kreutz, Marcio",
+          "periodico": "In: Workshop DIMAp 30 anos, 2015, Natal. Workshop DIMAp30anos, 2015.",
+          "doi": "",
+          "citacao_completa": "MESQUITA, J. W. ; CRUZ, M. O. ; ; MEDEIROS, A. L. ; Kreutz, Marcio . Exploração de Espaço de Projeto utilizando LM-NoC com avaliação de algoritmos de roteamento. In: Workshop DIMAp 30 anos, 2015, Natal. Workshop DIMAp30anos, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Hierarchical Multicore-Scheduling for Virtualization of Dependent Real-Time Systems.",
+          "autores": "JATZKOWSKI, J. ; Kreutz, Marcio ; RETTBERG, A.",
+          "periodico": "In: International Embedded Systems Symposium, 2015, Foz do Iguaçú. The 5th IFIP International Embedded Systems Symposium, 2015.",
+          "doi": "",
+          "citacao_completa": "JATZKOWSKI, J. ; Kreutz, Marcio ; RETTBERG, A. . Hierarchical Multicore-Scheduling for Virtualization of Dependent Real-Time Systems.. In: International Embedded Systems Symposium, 2015, Foz do Iguaçú. The 5th IFIP International Embedded Systems Symposium, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Enabling NoC Performance Improvement using a Fault Tolerance Mechanism",
+          "autores": "; Kreutz, Marcio ;",
+          "periodico": "In: SBESC - Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2015, Foz do Iguaçú. SBESC - Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2015.",
+          "doi": "",
+          "citacao_completa": "; Kreutz, Marcio ; . Enabling NoC Performance Improvement using a Fault Tolerance Mechanism. In: SBESC - Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2015, Foz do Iguaçú. SBESC - Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Adaptive Multiple Switching Strategy Toward an Ideal NoC",
+          "autores": "; Kreutz, Marcio ; Reinbrecht, Cezar ; ;",
+          "periodico": "In: IEEE International Symposium on Circuits and Systems - ISCAS, 2014, 2014, Melbourne. IEEE International Symposium on Circuits and Systems, 2014, 2014.",
+          "doi": "",
+          "citacao_completa": "; Kreutz, Marcio ; Reinbrecht, Cezar ; ; . Adaptive Multiple Switching Strategy Toward an Ideal NoC. In: IEEE International Symposium on Circuits and Systems - ISCAS, 2014, 2014, Melbourne. IEEE International Symposium on Circuits and Systems, 2014, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A VLIW Architecture with Memory Optimization",
+          "autores": "SIQUEIRA, H. M. C. ; ; ; KREUTZ, M. E. ;",
+          "periodico": "In: Workshop Iberchip, 2014, Santiago, Chile. XX Workshop Iberchip, 2014.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, H. M. C. ; ; ; KREUTZ, M. E. ; . A VLIW Architecture with Memory Optimization. In: Workshop Iberchip, 2014, Santiago, Chile. XX Workshop Iberchip, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Hierarchical and Multiple Switching NoC with Floorplan Based Adaptability",
+          "autores": "; Reinbrecht, Cezar ; KREUTZ, M. E. ; Palermo, Gianluca ; ;",
+          "periodico": "In: ARC - Applied Reconfigurable Computing, 2013, Los Angeles. Lecture Notes in Computer Science. Heidelberg: Springer Berlin, 2013. p. 179-184.",
+          "doi": "",
+          "citacao_completa": "; Reinbrecht, Cezar ; KREUTZ, M. E. ; Palermo, Gianluca ; ; . Hierarchical and Multiple Switching NoC with Floorplan Based Adaptability. In: ARC - Applied Reconfigurable Computing, 2013, Los Angeles. Lecture Notes in Computer Science. Heidelberg: Springer Berlin, 2013. p. 179-184."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A LLVM based development environment for embedded systems software targeting the RISCO processor",
+          "autores": "VILELA, G. ; ; Kreutz, Marcio",
+          "periodico": "In: SBESC 2012, 2012, Natal. Proceedings of Brazilian Symposium on Computing Systems Engineering, 2012.",
+          "doi": "",
+          "citacao_completa": "VILELA, G. ; ; Kreutz, Marcio . A LLVM based development environment for embedded systems software targeting the RISCO processor. In: SBESC 2012, 2012, Natal. Proceedings of Brazilian Symposium on Computing Systems Engineering, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "MINoC: Providing configurable high throughput interconnection for MPSoCs",
+          "autores": "; ; ; ; KREUTZ, M.",
+          "periodico": "In: 2012 IEEE 3rd Latin American Symposium on Circuits and Systems (LASCAS), 2012, Playa del Carmen. 2012 IEEE 3rd Latin American Symposium on Circuits and Systems (LASCAS), 2012. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LASCAS.2012.6180327",
+          "citacao_completa": "; ; ; ; KREUTZ, M. . MINoC: Providing configurable high throughput interconnection for MPSoCs. In: 2012 IEEE 3rd Latin American Symposium on Circuits and Systems (LASCAS), 2012, Playa del Carmen. 2012 IEEE 3rd Latin American Symposium on Circuits and Systems (LASCAS), 2012. p. 1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "H.264/AVC Motion Estimation on FPGAs and GPUs: A Comparative Study",
+          "autores": "; ; ; ; KREUTZ, M. E.",
+          "periodico": "In: NORCHIP 2012 - The Nordic Microelectronics event, 2012, Copenhagen. NORCHIP 2012 - The Nordic Microelectronics event, 2012.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; KREUTZ, M. E. . H.264/AVC Motion Estimation on FPGAs and GPUs: A Comparative Study. In: NORCHIP 2012 - The Nordic Microelectronics event, 2012, Copenhagen. NORCHIP 2012 - The Nordic Microelectronics event, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A tool for developing IPNoSys programs using a high-level programming language",
+          "autores": "; ; KREUTZ, M. E. ;",
+          "periodico": "In: Workshop on Circuits and Systems Design, 2011, João Pessoa. Proceedings of WCAS'11, 2011.",
+          "doi": "",
+          "citacao_completa": "; ; KREUTZ, M. E. ; . A tool for developing IPNoSys programs using a high-level programming language. In: Workshop on Circuits and Systems Design, 2011, João Pessoa. Proceedings of WCAS'11, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Memory Controller for Digital TV Decoders",
+          "autores": "SIQUEIRA, H. M. C. ; ; KREUTZ, M. E. ;",
+          "periodico": "In: Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2011, Florianópolis. SBESC Proceedings, 2011, 2011.",
+          "doi": "",
+          "citacao_completa": "SIQUEIRA, H. M. C. ; ; KREUTZ, M. E. ; . Memory Controller for Digital TV Decoders. In: Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2011, Florianópolis. SBESC Proceedings, 2011, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "un Time Adaptive Mechanism for Sustaining Performance with Fault Tolerance",
+          "autores": "KOLOGESKI, Anelise ; ; ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: NOCs 2010 (Diagnostic Services in Network-on-Chips - DSNoC), 2010, Grenoble. NoCs 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "KOLOGESKI, Anelise ; ; ; KREUTZ, M. E. ; ; ; . un Time Adaptive Mechanism for Sustaining Performance with Fault Tolerance. In: NOCs 2010 (Diagnostic Services in Network-on-Chips - DSNoC), 2010, Grenoble. NoCs 2010, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Monitor-Adapter Coupling for NOC Performance Tuning",
+          "autores": "; ; KOLOGESKI, Anelise ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: International Conference on Embedded Computer Systems: Architectures, MOdeling and Simulation - SAMOS, 2010, 2010, Samos, Greece. SAMOS X, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; KOLOGESKI, Anelise ; KREUTZ, M. E. ; ; ; . Monitor-Adapter Coupling for NOC Performance Tuning. In: International Conference on Embedded Computer Systems: Architectures, MOdeling and Simulation - SAMOS, 2010, 2010, Samos, Greece. SAMOS X, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Exploring Memory Organization in Virtual MP-SoC Platforms",
+          "autores": "CRUZ, B. ; KREUTZ, M. E. ; ;",
+          "periodico": "In: 23rd Symposium on Integrated Circtuits and Systems Design, SBCCI 2010, 2010, São Paulo. Chip in Sampa, 2010.",
+          "doi": "",
+          "citacao_completa": "CRUZ, B. ; KREUTZ, M. E. ; ; . Exploring Memory Organization in Virtual MP-SoC Platforms. In: 23rd Symposium on Integrated Circtuits and Systems Design, SBCCI 2010, 2010, São Paulo. Chip in Sampa, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "The Need for Reconfigurable Routers in Networks-on-Chip.",
+          "autores": "; ; BRISOLARA, Lisane ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: Applied Reconfigurable Computing, ARC 2009., 2009, Karlsruhe. 5th international workshop, ARC 2009.. Berlin: Springer, 2009. v. 1. p. 275-280.",
+          "doi": "",
+          "citacao_completa": "; ; BRISOLARA, Lisane ; KREUTZ, M. E. ; ; ; . The Need for Reconfigurable Routers in Networks-on-Chip.. In: Applied Reconfigurable Computing, ARC 2009., 2009, Karlsruhe. 5th international workshop, ARC 2009.. Berlin: Springer, 2009. v. 1. p. 275-280."
+        },
+        {
+          "ano": 2009,
+          "titulo": "NoC Power Optimization Using a Reconfigurable Router.",
+          "autores": "; ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: EEE Computer Society Annual Symposium on VLSI - ISVLSI, 2009., 2009, Tampa, Florida. IEEE Computer Society Annual Symposium on VLSI, 2009., 2009.",
+          "doi": "",
+          "citacao_completa": "; ; KREUTZ, M. E. ; ; ; . NoC Power Optimization Using a Reconfigurable Router.. In: EEE Computer Society Annual Symposium on VLSI - ISVLSI, 2009., 2009, Tampa, Florida. IEEE Computer Society Annual Symposium on VLSI, 2009., 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Fault Tolerant Mechanism to Improve Yield in NoCs Using a Reconfigurable Router",
+          "autores": "; ; ; ; KREUTZ, M. E. ; ;",
+          "periodico": "In: SBCCI - Symposium on Integrated Circuits and System Design, 2009, Natal - RN. Chip on the Dunes, 2009. v. 1. p. 159-164.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; KREUTZ, M. E. ; ; . Fault Tolerant Mechanism to Improve Yield in NoCs Using a Reconfigurable Router. In: SBCCI - Symposium on Integrated Circuits and System Design, 2009, Natal - RN. Chip on the Dunes, 2009. v. 1. p. 159-164."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Highly Efficient Reconfigurable Routers in NoCs",
+          "autores": "; ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: 17th IFIP/IEEE International Conference on Very Large Scale Integration - VLSI-SoC, 2009, Florianópolis. 17th IFIP/IEEE International Conference on Very Large Scale Integration - VLSI-SoC, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; KREUTZ, M. E. ; ; ; . Highly Efficient Reconfigurable Routers in NoCs. In: 17th IFIP/IEEE International Conference on Very Large Scale Integration - VLSI-SoC, 2009, Florianópolis. 17th IFIP/IEEE International Conference on Very Large Scale Integration - VLSI-SoC, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Adaptive Router Architecture Based on Traffic Behavior Observability",
+          "autores": "; ; KOLOGESKI, Anelise ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: Network on Chip Architectures - NoCARC, 2009, New York. Second International Workshop on Network on Chip Architectures, 2009., 2009.",
+          "doi": "",
+          "citacao_completa": "; ; KOLOGESKI, Anelise ; KREUTZ, M. E. ; ; ; . Adaptive Router Architecture Based on Traffic Behavior Observability. In: Network on Chip Architectures - NoCARC, 2009, New York. Second International Workshop on Network on Chip Architectures, 2009., 2009."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Síntese e Integração de um Agregado Reconfigurável Aplicado a um Algoritmo Genético Distribuído",
+          "autores": "; ; KREUTZ, M. E. ; ; ;",
+          "periodico": "In: XIII Workshop Iberchip, 2007, Lima, Peru. XIII Workshop Iberchip, 2007. v. 1. p. 221-224.",
+          "doi": "",
+          "citacao_completa": "; ; KREUTZ, M. E. ; ; ; . Síntese e Integração de um Agregado Reconfigurável Aplicado a um Algoritmo Genético Distribuído. In: XIII Workshop Iberchip, 2007, Lima, Peru. XIII Workshop Iberchip, 2007. v. 1. p. 221-224."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Design Flow of a dedicated Computer Cluster Customized for a Distributed Genetic Algorithm Applications",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: IEEE 18th International Conference on Application-specific Systems, Architectures and Processors, 2007, Montreal. IEEE International Conference on Application-specific Systems, Architectures and Processors. Los Alamitos: IEEE, 2007.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . Design Flow of a dedicated Computer Cluster Customized for a Distributed Genetic Algorithm Applications. In: IEEE 18th International Conference on Application-specific Systems, Architectures and Processors, 2007, Montreal. IEEE International Conference on Application-specific Systems, Architectures and Processors. Los Alamitos: IEEE, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Avaliação de desempenho de Rede-em-Chip modelada em SystemC",
+          "autores": "; BRUCH, Jaison Valmor ; PEREIRA, Thiago Felski ; KREUTZ, M. E. ;",
+          "periodico": "In: WPerformance2007, 2007, Rio de Janeiro. Anais do Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2007. p. 559-578.",
+          "doi": "",
+          "citacao_completa": "; BRUCH, Jaison Valmor ; PEREIRA, Thiago Felski ; KREUTZ, M. E. ; . Avaliação de desempenho de Rede-em-Chip modelada em SystemC. In: WPerformance2007, 2007, Rio de Janeiro. Anais do Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2007. p. 559-578."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Implementação de Algoritmos Genéticos Paralelos Aplicados à Farmacos",
+          "autores": "; ; FREITAS, J. ; KREUTZ, M. E. ; ;",
+          "periodico": "In: XXVI CSBC - V WPerformance, 2006, Campo Grande. XXVI CSBC - V WPerformance, 2006.",
+          "doi": "",
+          "citacao_completa": "; ; FREITAS, J. ; KREUTZ, M. E. ; ; . Implementação de Algoritmos Genéticos Paralelos Aplicados à Farmacos. In: XXVI CSBC - V WPerformance, 2006, Campo Grande. XXVI CSBC - V WPerformance, 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "INTERFACE-BASED PROGRAMMING MODEL FOR NoC ARCHITECTURE EVALUATION",
+          "autores": "KREUTZ, M. E. ;",
+          "periodico": "In: Iberchip, 2005, salvador. XI worshop iberchip, 2005. p. 23-26.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; . INTERFACE-BASED PROGRAMMING MODEL FOR NoC ARCHITECTURE EVALUATION. In: Iberchip, 2005, salvador. XI worshop iberchip, 2005. p. 23-26."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Design Space Exploration on Heterogeneous Networks-on-Chip",
+          "autores": "CARDOSO, Rodrigo ; KREUTZ, M. E. ; ;",
+          "periodico": "In: ISCAS 2005, 2005, Kobe. ISCAS 2005, 2005.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, Rodrigo ; KREUTZ, M. E. ; ; . Design Space Exploration on Heterogeneous Networks-on-Chip. In: ISCAS 2005, 2005, Kobe. ISCAS 2005, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Models for Embedded Application Mapping onto NoCs: Timing Analysis",
+          "autores": "KREUTZ, M. E. ; ; ;",
+          "periodico": "In: RSP 2005, 2005, Montreal, 2005.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; . Models for Embedded Application Mapping onto NoCs: Timing Analysis. In: RSP 2005, 2005, Montreal, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Design Space Exploration Comparing Homogeneous and Heterogeneous Network-on-Chip Architectures",
+          "autores": "KREUTZ, M. E. ; ; ; ;",
+          "periodico": "In: 18th Symposium on Integrated Circuits and Systems Design - SBCCI 05, 2005, Florianópolis. Symposium on Integrated Circuits and Systems Design - CHIP ON THE ISLAND, 2005.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; ; . Design Space Exploration Comparing Homogeneous and Heterogeneous Network-on-Chip Architectures. In: 18th Symposium on Integrated Circuits and Systems Design - SBCCI 05, 2005, Florianópolis. Symposium on Integrated Circuits and Systems Design - CHIP ON THE ISLAND, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "RASoC: A Router Soft-Core for Networks-on-Chip",
+          "autores": "; KREUTZ, M. E. ;",
+          "periodico": "In: Design, Automation and Test in Europe - Designer's Forum, 2004, Paris. Proceedings of DATE 04, 2004.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; . RASoC: A Router Soft-Core for Networks-on-Chip. In: Design, Automation and Test in Europe - Designer's Forum, 2004, Paris. Proceedings of DATE 04, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "UML-DRIVEN DESIGN SPACE DELIMITATION AND EXPLORATION: A CASE STUDY ON NETWORKS-ON-CHIP",
+          "autores": "; KREUTZ, M. E. ; ; ; GLESNER, Manfred",
+          "periodico": "In: IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems, 2004, Tatranská Lomnika - Slovakia. Proceedings. Bratislava: Institute of Informatics, 2004. p. 5-12.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; ; GLESNER, Manfred . UML-DRIVEN DESIGN SPACE DELIMITATION AND EXPLORATION: A CASE STUDY ON NETWORKS-ON-CHIP. In: IEEE Workshop on Design and Diagnostics of Electronic Circuits and Systems, 2004, Tatranská Lomnika - Slovakia. Proceedings. Bratislava: Institute of Informatics, 2004. p. 5-12."
+        },
+        {
+          "ano": 2003,
+          "titulo": "The Impact of NoC Reuse on the Testing of Core-Based Systems",
+          "autores": "; KREUTZ, M. E. ; ; ; ;",
+          "periodico": "In: 21st International IEEE VLSI Test Symposium, 2003, Napa Valley - CA. Proceedings of VTS 2003. Los Alamitos: IEEE Press, 2003. p. 128-133.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; ; ; . The Impact of NoC Reuse on the Testing of Core-Based Systems. In: 21st International IEEE VLSI Test Symposium, 2003, Napa Valley - CA. Proceedings of VTS 2003. Los Alamitos: IEEE Press, 2003. p. 128-133."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A Study on Communication Issues for Systems-on-Chip",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: Symposium on Integrated Circuits and System Design, 2002, Porto Alegre. 15th A Study on Communication Issues for Systems-on-Chip - Chip in the Pampa, 2002.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . A Study on Communication Issues for Systems-on-Chip. In: Symposium on Integrated Circuits and System Design, 2002, Porto Alegre. 15th A Study on Communication Issues for Systems-on-Chip - Chip in the Pampa, 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Low-Power Control Architecture for Embedded Processors",
+          "autores": "; KREUTZ, M. E. ;",
+          "periodico": "In: Symposium on Integrated Circuits and System Design, 2002, Porto Alegre. 15th Symposium on Integrated Circuits and System Design - Chip in the Pampa, 2002.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; . Low-Power Control Architecture for Embedded Processors. In: Symposium on Integrated Circuits and System Design, 2002, Porto Alegre. 15th Symposium on Integrated Circuits and System Design - Chip in the Pampa, 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Communication Architectures for System-on-Chip",
+          "autores": "KREUTZ, M. E. ; ; ;",
+          "periodico": "In: sbcci, 2001, Pirenópolis, 2001.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; . Communication Architectures for System-on-Chip. In: sbcci, 2001, Pirenópolis, 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Análise e Seleção de Redes de Interconexão para Síntese de Sistemas no Ambiente S³E²S",
+          "autores": "KREUTZ, M. E. ; ; ;",
+          "periodico": "In: Iberchip, 2001, Montevideo, 2001.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; . Análise e Seleção de Redes de Interconexão para Síntese de Sistemas no Ambiente S³E²S. In: Iberchip, 2001, Montevideo, 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "System design and Synthesis for Multiple Behavior Applications",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: DATE, 2000, Paris, 2000.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . System design and Synthesis for Multiple Behavior Applications. In: DATE, 2000, Paris, 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "A design methodology for embedded systems based on multiple processors",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: DIPES, 2000, Schloss Eringerfeld, 2000.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . A design methodology for embedded systems based on multiple processors. In: DIPES, 2000, Schloss Eringerfeld, 2000."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Object-Oriented Modeling and Co-Simulation of Embedded Electronic Systems",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: VLSI, 1999, Lisboa, 1999.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . Object-Oriented Modeling and Co-Simulation of Embedded Electronic Systems. In: VLSI, 1999, Lisboa, 1999."
+        },
+        {
+          "ano": 1999,
+          "titulo": "System Synthesis and Processor Selection in the S3E2S Environment",
+          "autores": "; KREUTZ, M. E. ; ;",
+          "periodico": "In: SBCCI, 1999, Natal, 1999.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . System Synthesis and Processor Selection in the S3E2S Environment. In: SBCCI, 1999, Natal, 1999."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Application Specific Synthesis from Simulation",
+          "autores": "KREUTZ, M. E. ; ;",
+          "periodico": "In: SIM, 1998, Bento Gonçalves, 1998.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; . Application Specific Synthesis from Simulation. In: SIM, 1998, Bento Gonçalves, 1998."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Custom Microprocessor Synthesis with Alma",
+          "autores": "KREUTZ, M. E. ; ;",
+          "periodico": "In: Iberchip, 1997, Cidade de Mexico, 1997.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; . Custom Microprocessor Synthesis with Alma. In: Iberchip, 1997, Cidade de Mexico, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Síntese do processador MCS8051 dedicado com arquitetura pipeline",
+          "autores": "KREUTZ, M. E. ; ;",
+          "periodico": "In: Iberchip, 1997, Cidade do Mexico, 1997.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; . Síntese do processador MCS8051 dedicado com arquitetura pipeline. In: Iberchip, 1997, Cidade do Mexico, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "System integration with dedicated processor for industrial applications",
+          "autores": "KREUTZ, M. E. ; ;",
+          "periodico": "In: SICICA, 1997, Annecy, 1997.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; . System integration with dedicated processor for industrial applications. In: SICICA, 1997, Annecy, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "System Design Methodology with Dedicated Controllers and Compilers",
+          "autores": "; KREUTZ, M. E. ;",
+          "periodico": "In: SBCCI, 1997, Gramado, 1997.",
+          "doi": "",
+          "citacao_completa": "; KREUTZ, M. E. ; . System Design Methodology with Dedicated Controllers and Compilers. In: SBCCI, 1997, Gramado, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "C Compiler to ASIP 8051",
+          "autores": "KREUTZ, M. E. ; ;",
+          "periodico": "In: SIM, 1997, Porto Alegre, 1997.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; . C Compiler to ASIP 8051. In: SIM, 1997, Porto Alegre, 1997."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "LM-NoC: Uma Linguagem de Modelagempara Redes em Chip",
+          "autores": "MESQUITA, J. W. ; MEDEIROS, A. L. ; Kreutz, Marcio ; SILVEIRA, M. M. ;",
+          "periodico": "In: XXI Workshop Iberchip, 2015, Montevideo. XXI Workshop Iberchip, 2015.",
+          "doi": "",
+          "citacao_completa": "MESQUITA, J. W. ; MEDEIROS, A. L. ; Kreutz, Marcio ; SILVEIRA, M. M. ; . LM-NoC: Uma Linguagem de Modelagempara Redes em Chip. In: XXI Workshop Iberchip, 2015, Montevideo. XXI Workshop Iberchip, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2007,
+          "titulo": "Integração de um Núcleo Femtojava com uma Pilha de Comunicação para a Concepção de um Cluster Baseado em FPGAs",
+          "autores": "; ; FREITAS, J. ; KREUTZ, M. E. ; ;",
+          "periodico": "In: ESCOLA REGIONAL DE ALTO DESEMPENHO, 2007, Porto Alegre. ESCOLA REGIONAL DE ALTO DESEMPENHO, 2007.",
+          "doi": "",
+          "citacao_completa": "; ; FREITAS, J. ; KREUTZ, M. E. ; ; . Integração de um Núcleo Femtojava com uma Pilha de Comunicação para a Concepção de um Cluster Baseado em FPGAs. In: ESCOLA REGIONAL DE ALTO DESEMPENHO, 2007, Porto Alegre. ESCOLA REGIONAL DE ALTO DESEMPENHO, 2007."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Energy and Latency Evaluation of NoC Topologies",
+          "autores": "KREUTZ, M. E. ; ; ; ;",
+          "periodico": "In: ISCAS 2005, 2005, Kobe. IEEE International Symposium on Circuits and Systems, 2005.",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; ; . Energy and Latency Evaluation of NoC Topologies. In: ISCAS 2005, 2005, Kobe. IEEE International Symposium on Circuits and Systems, 2005."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Synthesizing Simulink Specifications",
+          "autores": "ITO, S. ; MATOS, J. ; KREUTZ, M. E. ;",
+          "periodico": "In: SIM, 2000, Torres, 2000.",
+          "doi": "",
+          "citacao_completa": "ITO, S. ; MATOS, J. ; KREUTZ, M. E. ; . Synthesizing Simulink Specifications. In: SIM, 2000, Torres, 2000."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "SBESC 2023",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2023. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . SBESC 2023. 2023. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "SBCCI 2023",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2023. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . SBCCI 2023. 2023. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Desiging Modern Embedded Systems: Software, Hardware and Applications",
+          "autores": "HENKLER, S. ; KREUTZ, MARCIO E. ; WEHRMEISTER, M. ; GOTZ, M. ; RETTBERG, A.",
+          "periodico": "2022. (Editoração/Anais).",
+          "doi": "",
+          "citacao_completa": "HENKLER, S. ; KREUTZ, MARCIO E. ; WEHRMEISTER, M. ; GOTZ, M. ; RETTBERG, A. . Desiging Modern Embedded Systems: Software, Hardware and Applications. 2022. (Editoração/Anais)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SBESC 2022",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2022. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . SBESC 2022. 2022. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SBCCI 2022",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2022. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . SBCCI 2022. 2022. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "IESS - International Embedded Systems Symposium 2022",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2022. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . IESS - International Embedded Systems Symposium 2022. 2022. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SBESC 2021",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2021. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . SBESC 2021. 2021. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SBCCI 2021",
+          "autores": "KREUTZ, MÁRCIO",
+          "periodico": "2021. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MÁRCIO . SBCCI 2021. 2021. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Analysis, Estimations, and Applications of Embedded Systems",
+          "autores": "WEHRMEISTER, M. ; KREUTZ, MARCIO E. ; GOTZ, M. ; HENKLER, S. ; PIMENTEL, A. D. ; RETTBERG, A.",
+          "periodico": "2019. (Editoração/Anais).",
+          "doi": "",
+          "citacao_completa": "WEHRMEISTER, M. ; KREUTZ, MARCIO E. ; GOTZ, M. ; HENKLER, S. ; PIMENTEL, A. D. ; RETTBERG, A. . Analysis, Estimations, and Applications of Embedded Systems. 2019. (Editoração/Anais)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "RedScarf Reference Datasey",
+          "autores": "SILVA, E. A. ; KREUTZ, M. E. ; ZEFERINO, CESAR A.",
+          "periodico": "2019. (Conjunto de Dados).",
+          "doi": "",
+          "citacao_completa": "SILVA, E. A. ; KREUTZ, M. E. ; ZEFERINO, CESAR A. . RedScarf Reference Datasey. 2019. (Conjunto de Dados)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "IESS - International Embedded Systems Symposium 2019",
+          "autores": "KREUTZ, MARCIO E.",
+          "periodico": "2019. (Participação em Comitê de Programa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, MARCIO E. . IESS - International Embedded Systems Symposium 2019. 2019. (Participação em Comitê de Programa)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "ACR II - Análise e Otimização de Arquiteturas de Comunicação do tipo Redes-em-Chip para Sistemas Multiprocessados",
+          "autores": "KREUTZ, M. E. ; ; ; ; ; ;",
+          "periodico": "2006. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "KREUTZ, M. E. ; ; ; ; ; ; . ACR II - Análise e Otimização de Arquiteturas de Comunicação do tipo Redes-em-Chip para Sistemas Multiprocessados. 2006. (Relatório de pesquisa)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "PREDIÇÃO DE INTENSIDADE DE SINAL WI-FI EM ROBÔS MÓVEIS AUTÔNOMOS INDUSTRIAIS COM TÉCNICAS DE APRENDIZADO DE MÁQUINA",
+          "membros": "MULLER, I.; Kreutz, Marcio ; MAFFEI, R. Q.; BRUSAMARELLO, V. J.",
+          "candidato": "William Sciacca Garcia",
+          "citacao_completa": "MULLER, I.; Kreutz, Marcio ; MAFFEI, R. Q.; BRUSAMARELLO, V. J.. Participação em banca de William Sciacca Garcia. PREDIÇÃO DE INTENSIDADE DE SINAL WI-FI EM ROBÔS MÓVEIS AUTÔNOMOS INDUSTRIAIS COM TÉCNICAS DE APRENDIZADO DE MÁQUINA. 2026. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2025,
+          "titulo": "HARS1DE: Acelerador de Hardware Reconfigurável e Escalável para CNNs-1D na Computação na borda",
+          "membros": "Kreutz, Marcio ; ZEFERINO, CESAR A.; ; FERNADES, M. A. C.",
+          "candidato": "Mailson Rodrigues de Medeiros Guimarães",
+          "citacao_completa": "Kreutz, Marcio ; ZEFERINO, CESAR A.; ; FERNADES, M. A. C.. Participação em banca de Mailson Rodrigues de Medeiros Guimarães. HARS1DE: Acelerador de Hardware Reconfigurável e Escalável para CNNs-1D na Computação na borda. 2025. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Desenvolvimento de Modelos de Previsão de Consumo para Smart Meter",
+          "membros": "MULLER, I.; ; CUNHA, E. N.; Kreutz, Marcio",
+          "candidato": "Ewerton Leandro de Sousa",
+          "citacao_completa": "MULLER, I.; ; CUNHA, E. N.; Kreutz, Marcio . Participação em banca de Ewerton Leandro de Sousa. Desenvolvimento de Modelos de Previsão de Consumo para Smart Meter. 2025. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2024,
+          "titulo": "UMACELERADOREMFPGAPARAINFERE?NCIADEUMAREDE NEURAL CONVOLUCIONAL PARA O ACOMPANHAMENTO DE OBRASNACONSTRUC ̧A ̃OCIVIL",
+          "membros": "Kreutz, Marcio ; TEIVE, R. C. G.; MELO, D. R.; ZEFERINO, CESAR A.",
+          "candidato": "GEORGE DE BORBA NARDES",
+          "citacao_completa": "Kreutz, Marcio ; TEIVE, R. C. G.; MELO, D. R.; ZEFERINO, CESAR A.. Participação em banca de GEORGE DE BORBA NARDES. UMACELERADOREMFPGAPARAINFERE?NCIADEUMAREDE NEURAL CONVOLUCIONAL PARA O ACOMPANHAMENTO DE OBRASNACONSTRUC ̧A ̃OCIVIL. 2024. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DEEP NIBBLE: FORMATO NUMÉRICO DE 4 BITS PARA ACELERAÇÃO DE APRENDIZADO PROFUNDO EM SISTEMAS COM RESTRIÇÕES DE RECURSOS COMPUTACIONA",
+          "membros": "ZEFERINO, CESAR A.; MELO, D. R.; Kreutz, Marcio ; ; TEIVE, R. C. G.",
+          "candidato": "LUIZ FERNANDO HEIDRICH DUARTE",
+          "citacao_completa": "ZEFERINO, CESAR A.; MELO, D. R.; Kreutz, Marcio ; ; TEIVE, R. C. G.. Participação em banca de LUIZ FERNANDO HEIDRICH DUARTE. DEEP NIBBLE: FORMATO NUMÉRICO DE 4 BITS PARA ACELERAÇÃO DE APRENDIZADO PROFUNDO EM SISTEMAS COM RESTRIÇÕES DE RECURSOS COMPUTACIONA. 2023. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2023,
+          "titulo": "SDNoC 42: Modelo de SDNoC baseada em Otimização de Caminhos Mínimos",
+          "membros": "Brito, A. V.; ; Kreutz, Marcio",
+          "candidato": "Adelino Afonso Fernandes Avelino Natal-RN Setembro de 2023",
+          "citacao_completa": "Brito, A. V.; ; Kreutz, Marcio . Participação em banca de Adelino Afonso Fernandes Avelino Natal-RN Setembro de 2023. SDNoC 42: Modelo de SDNoC baseada em Otimização de Caminhos Mínimos. 2023. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Acelerador em FPGA para Classificação de Alimentos Utilizando Imagens Hiperspectrais",
+          "membros": "ZEFERINO, CESAR A.; Kreutz, Marcio ; TEIVE, R. C. G.; MELO, D. R.",
+          "candidato": "Leonardo Rebello Januario",
+          "citacao_completa": "ZEFERINO, CESAR A.; Kreutz, Marcio ; TEIVE, R. C. G.; MELO, D. R.. Participação em banca de Leonardo Rebello Januario. Acelerador em FPGA para Classificação de Alimentos Utilizando Imagens Hiperspectrais. 2023. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Detecção de faltas internas em SCIG utilizando Sistemas Inteligentes.",
+          "membros": "MACIAL, A. M.; BARROS, L. S.; CANUTO, ANNE M. P.; ; SILVA, I. M. D.; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "ANDERSON EGBERTO CAVALCANTE SALLES",
+          "citacao_completa": "MACIAL, A. M.; BARROS, L. S.; CANUTO, ANNE M. P.; ; SILVA, I. M. D.; KREUTZ, MÁRCIO EDUARDO . Participação em banca de ANDERSON EGBERTO CAVALCANTE SALLES. Detecção de faltas internas em SCIG utilizando Sistemas Inteligentes.. 2022. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2022,
+          "titulo": "REFLECT3D: UM ALGORITMO DE ROTEAMENTO ADAPTATIVO E TOLERANTE A FALHAS PARA NOCS 3D PARCIALMENTE CONECTADAS",
+          "membros": "SILVEIRA, J. N. A.; BARROSO, G. C.; ; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "ALEXANDRE ALMEIDA DA SILVA",
+          "citacao_completa": "SILVEIRA, J. N. A.; BARROSO, G. C.; ; KREUTZ, MÁRCIO EDUARDO . Participação em banca de ALEXANDRE ALMEIDA DA SILVA. REFLECT3D: UM ALGORITMO DE ROTEAMENTO ADAPTATIVO E TOLERANTE A FALHAS PARA NOCS 3D PARCIALMENTE CONECTADAS. 2022. Dissertação (Mestrado em Engenharia de Teleinformática) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2022,
+          "titulo": "LLVM-ACT: Uma ferramenta baseada em profiling para seleção de técnica de computação aproximada",
+          "membros": "MIRANDA, L. M.; ; ; ; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "Lavinia Medeiros Miranda",
+          "citacao_completa": "MIRANDA, L. M.; ; ; ; KREUTZ, MÁRCIO EDUARDO . Participação em banca de Lavinia Medeiros Miranda. LLVM-ACT: Uma ferramenta baseada em profiling para seleção de técnica de computação aproximada. 2022. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Redes em Chip Irregulares para Tolerância a Falhas e Atendimento de Tempo Real",
+          "membros": "; GIRAO, G.; ; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "ELÍSIO BRENO GARCIA CARDOSO",
+          "citacao_completa": "; GIRAO, G.; ; KREUTZ, MÁRCIO EDUARDO . Participação em banca de ELÍSIO BRENO GARCIA CARDOSO. Redes em Chip Irregulares para Tolerância a Falhas e Atendimento de Tempo Real. 2021. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Proposta, Validação e Avaliação Qualitativa de uma Arquitetura MPSoC Baseada Nos Elementos de Processamento de IPNoSys II",
+          "membros": "; Kreutz, Marcio ; MOURA, R. S.; VERAS, R.",
+          "candidato": "Ivenilton Alexandre de Souza Moura",
+          "citacao_completa": "; Kreutz, Marcio ; MOURA, R. S.; VERAS, R.. Participação em banca de Ivenilton Alexandre de Souza Moura. Proposta, Validação e Avaliação Qualitativa de uma Arquitetura MPSoC Baseada Nos Elementos de Processamento de IPNoSys II. 2020. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Acelerador de Hardware em FPGA para Classificação de Imagens Hiperespectrais em Tempo Real",
+          "membros": "ZEFERINO, CESAR A.; KREUTZ, MÁRCIO EDUARDO ; ; COMUNELLO, E.; SEMAN, L. O.; PARREIRA, W. D.",
+          "candidato": "Lucas Amilton Martins",
+          "citacao_completa": "ZEFERINO, CESAR A.; KREUTZ, MÁRCIO EDUARDO ; ; COMUNELLO, E.; SEMAN, L. O.; PARREIRA, W. D.. Participação em banca de Lucas Amilton Martins. Acelerador de Hardware em FPGA para Classificação de Imagens Hiperespectrais em Tempo Real. 2020. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Problema de Mapeamento e Roteamento: Propostas de Otimização Bioinspiradas",
+          "membros": "; MAIA, S. M. D. M.; Kreutz, Marcio",
+          "candidato": "Hiago Mayk Gomes de Araújo Rocha",
+          "citacao_completa": "; MAIA, S. M. D. M.; Kreutz, Marcio . Participação em banca de Hiago Mayk Gomes de Araújo Rocha. Problema de Mapeamento e Roteamento: Propostas de Otimização Bioinspiradas. 2019. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An AI based Tool for Networks-on-Chip Design Space Exploration",
+          "membros": "; ; Kreutz, Marcio",
+          "candidato": "Jefferson Igor Duarte Silva",
+          "citacao_completa": "; ; Kreutz, Marcio . Participação em banca de Jefferson Igor Duarte Silva. An AI based Tool for Networks-on-Chip Design Space Exploration. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Otimização de Topologia Irregular Para Aplicações Tempo Real e Não Tempo Real em MP-SoCs Baseadas em Redes-em-Chip",
+          "membros": "Brito, A. V.; GIRAO, G.; ; Kreutz, Marcio",
+          "candidato": "Samuel da Silva Oliveira",
+          "citacao_completa": "Brito, A. V.; GIRAO, G.; ; Kreutz, Marcio . Participação em banca de Samuel da Silva Oliveira. Otimização de Topologia Irregular Para Aplicações Tempo Real e Não Tempo Real em MP-SoCs Baseadas em Redes-em-Chip. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2017,
+          "titulo": "ESTUDO COMPARATIVO DO DESEMPENHO DE REDES-EM-CHIP BASEADO EM SIMULAÇÃO",
+          "membros": "Kreutz, Marcio ; WANGHAM, M. S.; TEIVE, R. C. G.;",
+          "candidato": "Eduardo Alves da Silva",
+          "citacao_completa": "Kreutz, Marcio ; WANGHAM, M. S.; TEIVE, R. C. G.; . Participação em banca de Eduardo Alves da Silva. ESTUDO COMPARATIVO DO DESEMPENHO DE REDES-EM-CHIP BASEADO EM SIMULAÇÃO. 2017. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Extendendo a ISA da Ipnosys para Implementação de Software Pipelining",
+          "membros": "; RAMOS, Karla; CASILLO, L.; Kreutz, Marcio",
+          "candidato": "Dênis Freire Lopes Nunes",
+          "citacao_completa": "; RAMOS, Karla; CASILLO, L.; Kreutz, Marcio . Participação em banca de Dênis Freire Lopes Nunes. Extendendo a ISA da Ipnosys para Implementação de Software Pipelining. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal Rural do Semi-Árido."
+        },
+        {
+          "ano": 2016,
+          "titulo": "CLEM & OCEAN: Dois Compiladores OpenCL para as Arquiteturas Manycore METAL e ArachNoC",
+          "membros": "ALVEZ, K. R. T.; MOURA, R. S.; KREUTZ, M. E. ;",
+          "candidato": "Jônatas Carneiro dos Santos Ferreira",
+          "citacao_completa": "ALVEZ, K. R. T.; MOURA, R. S.; KREUTZ, M. E. ; . Participação em banca de Jônatas Carneiro dos Santos Ferreira. CLEM & OCEAN: Dois Compiladores OpenCL para as Arquiteturas Manycore METAL e ArachNoC. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí."
+        },
+        {
+          "ano": 2016,
+          "titulo": "MPSOC PARA AVALIAÇÃO DO DESEMPENHO DE UMA REDE-EM-CHIP EM FPGA",
+          "membros": "TEIVE, R. C. G.; DAZZI, R. L. S.; Kreutz, Marcio ;",
+          "candidato": "ROSELI DA SILVEIRA UHLENDORF",
+          "citacao_completa": "TEIVE, R. C. G.; DAZZI, R. L. S.; Kreutz, Marcio ; . Participação em banca de ROSELI DA SILVEIRA UHLENDORF. MPSOC PARA AVALIAÇÃO DO DESEMPENHO DE UMA REDE-EM-CHIP EM FPGA. 2016. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2016,
+          "titulo": "AccNoSys: Uma Arquitetura Adaptativa Aceleradora com Interconexão baseada em Rede em Chip.",
+          "membros": "; ; ; Kreutz, Marcio",
+          "candidato": "Marcos Oliveira da Cruz",
+          "citacao_completa": "; ; ; Kreutz, Marcio . Participação em banca de Marcos Oliveira da Cruz. AccNoSys: Uma Arquitetura Adaptativa Aceleradora com Interconexão baseada em Rede em Chip.. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Mapeamento estático de tarefas de aplicações de tempo real em sistemas baseados em Rede-em-Chip",
+          "membros": "; Kreutz, Marcio ; TEIVE, R. C. G.; RAMIREZ, A. R. G.;",
+          "candidato": "JAISON VALMOR BRUCH",
+          "citacao_completa": "; Kreutz, Marcio ; TEIVE, R. C. G.; RAMIREZ, A. R. G.; . Participação em banca de JAISON VALMOR BRUCH. Mapeamento estático de tarefas de aplicações de tempo real em sistemas baseados em Rede-em-Chip. 2015. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma Plataforma Virtual para experimentos de ataques de canal lateral em sistemas baseados em Rede-em-Chip",
+          "membros": "KREUTZ, M. ; WANGHAM, M. S.; RAMIREZ, A. R. G.;",
+          "candidato": "Éderson Recalcatti",
+          "citacao_completa": "KREUTZ, M. ; WANGHAM, M. S.; RAMIREZ, A. R. G.; . Participação em banca de Éderson Recalcatti. Uma Plataforma Virtual para experimentos de ataques de canal lateral em sistemas baseados em Rede-em-Chip. 2015. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Implementação da Técnica de Software Pipelining na Rede em Chip Ipnosys",
+          "membros": "; ; Brito, A. V.; KREUTZ, M. E.",
+          "candidato": "Aparecida Lopes de Medeiros",
+          "citacao_completa": "; ; Brito, A. V.; KREUTZ, M. E. . Participação em banca de Aparecida Lopes de Medeiros. Implementação da Técnica de Software Pipelining na Rede em Chip Ipnosys. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Filtro de difusão anisotrópica em FPGA",
+          "membros": "COMUNELLO, E.; ; FERNANDES, A. M. R.; TEIVE, R. C. G.; KREUTZ, M.",
+          "candidato": "André Alessandro Stein",
+          "citacao_completa": "COMUNELLO, E.; ; FERNANDES, A. M. R.; TEIVE, R. C. G.; KREUTZ, M. . Participação em banca de André Alessandro Stein. Filtro de difusão anisotrópica em FPGA. 2014. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Linguagem de Domínio Específico para Modelagem e Avaliação de Processadores",
+          "membros": "KREUTZ, M. E. ; VIDAL, J.; MUSICANTE, M.;",
+          "candidato": "Max Miller da Silveira",
+          "citacao_completa": "KREUTZ, M. E. ; VIDAL, J.; MUSICANTE, M.; . Participação em banca de Max Miller da Silveira. Linguagem de Domínio Específico para Modelagem e Avaliação de Processadores. 2013. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Integrando Redes em Chip à Plataformas Multiprocessadas: Estudo de Caso Storm",
+          "membros": "KREUTZ, M. E. ; RIBEIRO, Claudia M. F.; RAMOS, Karla",
+          "candidato": "Antonio Denilson de Souza Oliveira",
+          "citacao_completa": "KREUTZ, M. E. ; RIBEIRO, Claudia M. F.; RAMOS, Karla. Participação em banca de Antonio Denilson de Souza Oliveira. Integrando Redes em Chip à Plataformas Multiprocessadas: Estudo de Caso Storm. 2013. Dissertação (Mestrado em Ciência da Computação - Uern - Ufersa) - Universidade do Estado do Rio Grande do Norte."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Lasic Process: um framework conceitual para integração de padrões de gestão ao desenvolvimento de projetos de propriedade intelectual de sistemas eletrônicos integrados em chips (IP-SoCs)",
+          "membros": "Cavalcanti, A. C.; Brito, A. V.; KREUTZ, M. E.",
+          "candidato": "Carlos Augusto Ayres Carvalho",
+          "citacao_completa": "Cavalcanti, A. C.; Brito, A. V.; KREUTZ, M. E. . Participação em banca de Carlos Augusto Ayres Carvalho. Lasic Process: um framework conceitual para integração de padrões de gestão ao desenvolvimento de projetos de propriedade intelectual de sistemas eletrônicos integrados em chips (IP-SoCs). 2012. Dissertação (Mestrado em Ciência da Informação) - Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Uma ferramenta para geração de código VHDL a partir do modelo de atores utilizando o framework Ptolemy",
+          "membros": "Brito, A. V.; LIma, J. A.; KREUTZ, M. E.",
+          "candidato": "Ramon Leonn Victor Medeiros",
+          "citacao_completa": "Brito, A. V.; LIma, J. A.; KREUTZ, M. E. . Participação em banca de Ramon Leonn Victor Medeiros. Uma ferramenta para geração de código VHDL a partir do modelo de atores utilizando o framework Ptolemy. 2012. Dissertação (Mestrado em Ciência da Informação) - Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mecanismos para Provimento de Tolerância a Faltas em uma Rede-em-Chip",
+          "membros": "; Kreutz, Marcio ; WANGHAM, M. S.; RAMIREZ, A. R. G.; TEIVE, R. C. G.",
+          "candidato": "Thiago Felski Pereira",
+          "citacao_completa": "; Kreutz, Marcio ; WANGHAM, M. S.; RAMIREZ, A. R. G.; TEIVE, R. C. G.. Participação em banca de Thiago Felski Pereira. Mecanismos para Provimento de Tolerância a Faltas em uma Rede-em-Chip. 2012. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Interfaces de Comunicação para a Rede-em-Chip SoCIN",
+          "membros": "; Kreutz, Marcio ; WANGHAM, M. S.; RAMIREZ, A. R. G.; TEIVE, R. C. G.",
+          "candidato": "Douglas Rossi de Melo",
+          "citacao_completa": "; Kreutz, Marcio ; WANGHAM, M. S.; RAMIREZ, A. R. G.; TEIVE, R. C. G.. Participação em banca de Douglas Rossi de Melo. Interfaces de Comunicação para a Rede-em-Chip SoCIN. 2012. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Arquitetura com Elevada Taxa de Processamento e Reduzida Largura de Banda de Memória para a Estimação de Movimento em Vídeos Digitais",
+          "membros": "; Ricardo Jacobi; ;",
+          "candidato": "Alba Sandyra Bezerra Lopes",
+          "citacao_completa": "; Ricardo Jacobi; ; . Participação em banca de Alba Sandyra Bezerra Lopes. Arquitetura com Elevada Taxa de Processamento e Reduzida Largura de Banda de Memória para a Estimação de Movimento em Vídeos Digitais. 2011. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Uma Abordagem Formal para Modelagem de QoS em Redes em Chip",
+          "membros": "Kreutz, Marcio ; ; RAMOS, Karla; RIBEIRO, Claudia M. F.",
+          "candidato": "Dayanne Kelly Freire da Rocha Escale",
+          "citacao_completa": "Kreutz, Marcio ; ; RAMOS, Karla; RIBEIRO, Claudia M. F.. Participação em banca de Dayanne Kelly Freire da Rocha Escale. Uma Abordagem Formal para Modelagem de QoS em Redes em Chip. 2011. Dissertação (Mestrado em Ciência da Computação - Uern - Ufersa) - Universidade do Estado do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Redução do Consumo de Potência de Circuitos Integrados Utilizando Esquemas de Codificação em Conjunto com a Ferramenta Orion",
+          "membros": "; Eduardo Costa; Rolf Fredi Molz;",
+          "candidato": "Cristiano Rosa dos Santos",
+          "citacao_completa": "; Eduardo Costa; Rolf Fredi Molz; . Participação em banca de Cristiano Rosa dos Santos. Redução do Consumo de Potência de Circuitos Integrados Utilizando Esquemas de Codificação em Conjunto com a Ferramenta Orion. 2010. Dissertação (Mestrado em Sistemas e Processos Industriais) - Universidade de Santa Cruz do Sul."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema Operacional e Biblioteca de Funções para Plaformas MP-SoC: um estudo de caso para Simuladores de Reservatório",
+          "membros": "; Ricardo Jacobi;",
+          "candidato": "Tadeu Ferreira Oliveira",
+          "citacao_completa": "; Ricardo Jacobi; . Participação em banca de Tadeu Ferreira Oliveira. Sistema Operacional e Biblioteca de Funções para Plaformas MP-SoC: um estudo de caso para Simuladores de Reservatório. 2010. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Arquitetura Hardware/Software de um núcleo NCAP Segundo o Padrão IEEE 1451.1: Uma Prova de Conceito",
+          "membros": "; RAMOS, Karla; ; RIBEIRO, Claudia M. F.",
+          "candidato": "José de Acnhieta Gomes dos Santos",
+          "citacao_completa": "; RAMOS, Karla; ; RIBEIRO, Claudia M. F.. Participação em banca de José de Acnhieta Gomes dos Santos. Arquitetura Hardware/Software de um núcleo NCAP Segundo o Padrão IEEE 1451.1: Uma Prova de Conceito. 2010. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2009,
+          "titulo": "simulação de reservatórios de petróleo em ambiente MP-SoC",
+          "membros": "; ;",
+          "candidato": "Bruno Cruz de Oliveira",
+          "citacao_completa": "; ; . Participação em banca de Bruno Cruz de Oliveira. simulação de reservatórios de petróleo em ambiente MP-SoC. 2009. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2009,
+          "titulo": "rede intra-chip com qualidade de serviços para uso em telecomunicações",
+          "membros": ";",
+          "candidato": "Marcelo Daniel Berejuck",
+          "citacao_completa": "; . Participação em banca de Marcelo Daniel Berejuck. rede intra-chip com qualidade de serviços para uso em telecomunicações. 2009. Dissertação (Mestrado em Computação) - Universidade do Vale do Itajaí."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A QUALIDADE DA TELEFONIA MÓVEL NO BRASIL: UMA ESTRATÉGIA DE VERIFICAÇÃO E TESTE",
+          "membros": "Kreutz, Marcio ; ; IMMICH, R. K.; NASCIMENTO, F. M. S.; MATOS, J.",
+          "candidato": "JOEL GONÇALVES DE OLIVEIRA",
+          "citacao_completa": "Kreutz, Marcio ; ; IMMICH, R. K.; NASCIMENTO, F. M. S.; MATOS, J.. Participação em banca de JOEL GONÇALVES DE OLIVEIRA. A QUALIDADE DA TELEFONIA MÓVEL NO BRASIL: UMA ESTRATÉGIA DE VERIFICAÇÃO E TESTE. 2026. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Análise da Viabilidade de Aceleradores Reconfiguráveis Transparentes em Processadores Modernos",
+          "membros": "Ricardo Jacobi; Kreutz, Marcio ; ; FERREIRA, R.; AIRES, K. R. T.; SOARES, A. C. B.",
+          "candidato": "Thiago Rodrigues Barros da Silva Soares",
+          "citacao_completa": "Ricardo Jacobi; Kreutz, Marcio ; ; FERREIRA, R.; AIRES, K. R. T.; SOARES, A. C. B.. Participação em banca de Thiago Rodrigues Barros da Silva Soares. Análise da Viabilidade de Aceleradores Reconfiguráveis Transparentes em Processadores Modernos. 2026. Tese (Doutorado em CIÊNCIA DA COMPUTAÇÃO) - Universidade Federal do Maranhão."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Exploring Hardware Acceleration of a Transformer-Based Architecture for Hyperspectral Image Classification",
+          "membros": "ZEFERINO, CESAR A.; ; Kreutz, Marcio ; MAYER, J.; BARBOSA, J.",
+          "candidato": "Felipe Viel",
+          "citacao_completa": "ZEFERINO, CESAR A.; ; Kreutz, Marcio ; MAYER, J.; BARBOSA, J.. Participação em banca de Felipe Viel. Exploring Hardware Acceleration of a Transformer-Based Architecture for Hyperspectral Image Classification. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "UMA ARQUITETURA ELÁSTICA DE BUFFER PARA REDES INTRACHIP COM PROTEÇÃO DE DADOS ATRAVÉS DE CÓDIGOS CORRETORES DE ERROS",
+          "membros": "SILVEIRA, J. N. A.; ; BEZERRA, E. A.; Kreutz, Marcio ; MARTINS, J. B.; BARROSO, G. C.",
+          "candidato": "ALAN CADORE PINHEIRO",
+          "citacao_completa": "SILVEIRA, J. N. A.; ; BEZERRA, E. A.; Kreutz, Marcio ; MARTINS, J. B.; BARROSO, G. C.. Participação em banca de ALAN CADORE PINHEIRO. UMA ARQUITETURA ELÁSTICA DE BUFFER PARA REDES INTRACHIP COM PROTEÇÃO DE DADOS ATRAVÉS DE CÓDIGOS CORRETORES DE ERROS. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ENHANCING LIFETIME RELIABILITY OF MANYCORE SYSTEMS THROUGH REINFORCEMENT LEARNING-BASED TASK MANAGEMENT",
+          "membros": "KREUTZ, MARCIO E. ; ; HESSEL, F. P.; Fernando Moraes",
+          "candidato": "IAÇANÃ IANISKI WEBER",
+          "citacao_completa": "KREUTZ, MARCIO E. ; ; HESSEL, F. P.; Fernando Moraes. Participação em banca de IAÇANÃ IANISKI WEBER. ENHANCING LIFETIME RELIABILITY OF MANYCORE SYSTEMS THROUGH REINFORCEMENT LEARNING-BASED TASK MANAGEMENT. 2024. Tese (Doutorado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul."
+        },
+        {
+          "ano": 2024,
+          "titulo": "SECURING APPLICATIONS IN NOC-BASED MANY-CORE SYSTEMS: A COMPREHENSIVE METHODOLOGY",
+          "membros": "Kreutz, Marcio ; ; CAIMI, L. L.; ; Fernando Moraes",
+          "candidato": "RAFAEL FOLLMANN FACCENDA",
+          "citacao_completa": "Kreutz, Marcio ; ; CAIMI, L. L.; ; Fernando Moraes. Participação em banca de RAFAEL FOLLMANN FACCENDA. SECURING APPLICATIONS IN NOC-BASED MANY-CORE SYSTEMS: A COMPREHENSIVE METHODOLOGY. 2024. Tese (Doutorado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Redundância Modular Dupla Baseada em Paridade para Transmissão de Dados em Sistemas de Processamento de Bordo em Nanossatélites",
+          "membros": "Kreutz, Marcio ; SANTOS JUNIOR, G. G.; DIAS, S.; PROTASIO, C.; SILVEIRA, L. F. Q.",
+          "candidato": "Alex Carlos Rodrigues Alves",
+          "citacao_completa": "Kreutz, Marcio ; SANTOS JUNIOR, G. G.; DIAS, S.; PROTASIO, C.; SILVEIRA, L. F. Q.. Participação em banca de Alex Carlos Rodrigues Alves. Redundância Modular Dupla Baseada em Paridade para Transmissão de Dados em Sistemas de Processamento de Bordo em Nanossatélites. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Parallelized Superiorization Method for History Matching Problems Using Seismic Priors and Smoothness in Parts",
+          "membros": "; KREUTZ, MÁRCIO EDUARDO ; ANGELES, E. G.; MAIA, S. M. D. M.; FERNANDES, I. F. C.",
+          "candidato": "SAMUEL DA SILVA OLIVEIRA",
+          "citacao_completa": "; KREUTZ, MÁRCIO EDUARDO ; ANGELES, E. G.; MAIA, S. M. D. M.; FERNANDES, I. F. C.. Participação em banca de SAMUEL DA SILVA OLIVEIRA. Parallelized Superiorization Method for History Matching Problems Using Seismic Priors and Smoothness in Parts. 2023. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DYNAMIC FAULT TOLERANT MECHANISM FOR MEMORY CONTROLLERS",
+          "membros": "; SILVEIRA, J. N. A.; Kreutz, Marcio ; ZORZO, A.; BEZERRA, E.",
+          "candidato": "MARCO POKORSKI STEFANI",
+          "citacao_completa": "; SILVEIRA, J. N. A.; Kreutz, Marcio ; ZORZO, A.; BEZERRA, E.. Participação em banca de MARCO POKORSKI STEFANI. DYNAMIC FAULT TOLERANT MECHANISM FOR MEMORY CONTROLLERS. 2023. Tese (Doutorado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul."
+        },
+        {
+          "ano": 2021,
+          "titulo": "IPNoSys III: O Paradigma de Redes Definidas por Software Aplicado ao Controle de um Multiprocessador com Modelo de Execução Não Convencional",
+          "membros": "; GIRAO, G.; ZEFERINO, CESAR A.; Brito, A. V.; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "DÊNIS FREIRE LOPES NUNES",
+          "citacao_completa": "; GIRAO, G.; ZEFERINO, CESAR A.; Brito, A. V.; KREUTZ, MÁRCIO EDUARDO . Participação em banca de DÊNIS FREIRE LOPES NUNES. IPNoSys III: O Paradigma de Redes Definidas por Software Aplicado ao Controle de um Multiprocessador com Modelo de Execução Não Convencional. 2021. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "FRiDA: uma ferramenta de predição para rápida exploração do espaço de projeto de processadores combinados com aceleradores reconfiguráveis",
+          "membros": "; CANUTO, ANNE M. P.; BECK FILHO, A. C.; ; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "Alba Sandyra Bezerra Lopes",
+          "citacao_completa": "; CANUTO, ANNE M. P.; BECK FILHO, A. C.; ; KREUTZ, MÁRCIO EDUARDO . Participação em banca de Alba Sandyra Bezerra Lopes. FRiDA: uma ferramenta de predição para rápida exploração do espaço de projeto de processadores combinados com aceleradores reconfiguráveis. 2021. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Proposta de Arquitetura de Alto Desempenho para Sistemas de Tempo Real",
+          "membros": "KREUTZ, MÁRCIO EDUARDO ; ZEFERINO, CESAR A.; ; GIRAO, G.;",
+          "candidato": "Hafley Magno da Costa Siqueira",
+          "citacao_completa": "KREUTZ, MÁRCIO EDUARDO ; ZEFERINO, CESAR A.; ; GIRAO, G.; . Participação em banca de Hafley Magno da Costa Siqueira. Proposta de Arquitetura de Alto Desempenho para Sistemas de Tempo Real. 2020. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Processamento e Visualização Interartiva de dados Geológicos e Geofísicos em Tempo-Real usando GPUs e Estruturas de Dados",
+          "membros": "; KREUTZ, MÁRCIO EDUARDO ; SANTOS, S. R.; CAVALCANTE NETO, J. B.; FIGUEROLA, W. B.",
+          "candidato": "WALDSON PATRICIO DO NASCIMENTO LEANDRO",
+          "citacao_completa": "; KREUTZ, MÁRCIO EDUARDO ; SANTOS, S. R.; CAVALCANTE NETO, J. B.; FIGUEROLA, W. B.. Participação em banca de WALDSON PATRICIO DO NASCIMENTO LEANDRO. Processamento e Visualização Interartiva de dados Geológicos e Geofísicos em Tempo-Real usando GPUs e Estruturas de Dados. 2019. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": "SUBUTAI: DISTRIBUTED SYNCHRONIZATION PRIMITIVES FOR LEGACY AND NOVEL PARALLEL APPLICATIONS",
+          "membros": "; ; MARTIN, K.; DIGUE, J.; Kreutz, Marcio ; BEZERRA, E. A.; ZORZO, A. F.",
+          "candidato": "RODRIGO CADORE CATALDO",
+          "citacao_completa": "; ; MARTIN, K.; DIGUE, J.; Kreutz, Marcio ; BEZERRA, E. A.; ZORZO, A. F.. Participação em banca de RODRIGO CADORE CATALDO. SUBUTAI: DISTRIBUTED SYNCHRONIZATION PRIMITIVES FOR LEGACY AND NOVEL PARALLEL APPLICATIONS. 2019. Tese (Doutorado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul."
+        },
+        {
+          "ano": 2016,
+          "titulo": "State-Based Real-Time Analysis of Synchronous Data-flow (SDF) Applications on MPSoCs with Shared Communication Resources",
+          "membros": "RETTBERG, A.; Kreutz, Marcio ; OLDEROG, E. R.; STIERAND, I.",
+          "candidato": "Maher Fakih",
+          "citacao_completa": "RETTBERG, A.; Kreutz, Marcio ; OLDEROG, E. R.; STIERAND, I.. Participação em banca de Maher Fakih. State-Based Real-Time Analysis of Synchronous Data-flow (SDF) Applications on MPSoCs with Shared Communication Resources. 2016. Tese (Doutorado em Informatik, Wirtschafts- und Rechtswissenschaften) - Carl von Ossietzky Universität Oldenburg."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Arquiteturas de Hardware Baseadas em Redes Neuromórficas para Classificação de Imagens Hiperespectrais",
+          "membros": "Kreutz, Marcio ; ; RUTZIG, M.",
+          "candidato": "CHRISTIANE DE ARAUJO NOBRE",
+          "citacao_completa": "Kreutz, Marcio ; ; RUTZIG, M.. Participação em banca de CHRISTIANE DE ARAUJO NOBRE. Arquiteturas de Hardware Baseadas em Redes Neuromórficas para Classificação de Imagens Hiperespectrais. 2026. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2024,
+          "titulo": "UMA ABORDAGEM BASEADA NO CAOS PARA IDENTIFICAÇÃO DE VELOCIDADE E POSSÍVEIS FALHAS EM DRONES POR MEIO DE SINAL DE ACELERÔMETROS EM TEMPO REAL",
+          "membros": "Kreutz, Marcio ; LIMA FILHO, A. C.; BELO, F. A.; SANTOS, M. D.; NASCIMENTO, T. P.; Brito, A. V.",
+          "candidato": "Jefferson Silva de Souza",
+          "citacao_completa": "Kreutz, Marcio ; LIMA FILHO, A. C.; BELO, F. A.; SANTOS, M. D.; NASCIMENTO, T. P.; Brito, A. V.. Participação em banca de Jefferson Silva de Souza. UMA ABORDAGEM BASEADA NO CAOS PARA IDENTIFICAÇÃO DE VELOCIDADE E POSSÍVEIS FALHAS EM DRONES POR MEIO DE SINAL DE ACELERÔMETROS EM TEMPO REAL. 2024. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise da Viabilidade de Aceleradores Reconfiguráveis Transparentes em Processadores Modernos",
+          "membros": "; Kreutz, Marcio ; AIRES, K. R. T.; FERREIRA, R.; SOARES, A. C. B.",
+          "candidato": "Thiago Rodrigues Barros da Silva Soares",
+          "citacao_completa": "; Kreutz, Marcio ; AIRES, K. R. T.; FERREIRA, R.; SOARES, A. C. B.. Participação em banca de Thiago Rodrigues Barros da Silva Soares. Análise da Viabilidade de Aceleradores Reconfiguráveis Transparentes em Processadores Modernos. 2024 - Universidade Federal do Piauí."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Gerenciamento Inteligente da qualidade de energia elétrica em ativos de data centers",
+          "membros": "NETO, AUGUSTO; Kreutz, Marcio ; CUNHA, EDUARDO NOGUEIRA; BECKER, L. B.",
+          "candidato": "Leonardo Augusto de Aquino Marques",
+          "citacao_completa": "NETO, AUGUSTO; Kreutz, Marcio ; CUNHA, EDUARDO NOGUEIRA; BECKER, L. B.. Participação em banca de Leonardo Augusto de Aquino Marques. Gerenciamento Inteligente da qualidade de energia elétrica em ativos de data centers. 2023. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Parallel Superiorization Method for History-matching Prob- lems Using Seismic Priors",
+          "membros": "ANGELES, E. G.; MAIA, S. M. D. M.; KREUTZ, MÁRCIO EDUARDO ;",
+          "candidato": "Samuel da Silva Oliveira",
+          "citacao_completa": "ANGELES, E. G.; MAIA, S. M. D. M.; KREUTZ, MÁRCIO EDUARDO ; . Participação em banca de Samuel da Silva Oliveira. Parallel Superiorization Method for History-matching Prob- lems Using Seismic Priors. 2021. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2020,
+          "titulo": "IPNoSys III: O Paradigma de Redes Definidas por Software aplicado a Controle e Otimização de um Multiprocessador",
+          "membros": "KREUTZ, MÁRCIO EDUARDO ; ; Brito, A. V.;",
+          "candidato": "Dênis Freire Lopes Nunes",
+          "citacao_completa": "KREUTZ, MÁRCIO EDUARDO ; ; Brito, A. V.; . Participação em banca de Dênis Freire Lopes Nunes. IPNoSys III: O Paradigma de Redes Definidas por Software aplicado a Controle e Otimização de um Multiprocessador. 2020. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Implementação de um CGRA para uma máquina PRET",
+          "membros": "SIQUEIRA, H. M. C.; ; ; Kreutz, Marcio",
+          "candidato": "Hadley Magno da Costa Siqueira",
+          "citacao_completa": "SIQUEIRA, H. M. C.; ; ; Kreutz, Marcio . Participação em banca de Hadley Magno da Costa Siqueira. Implementação de um CGRA para uma máquina PRET. 2018. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Redução do Consumo Energético de Aplicações Paralelas Eficientes em Arquiteturas Multicore",
+          "membros": "SOUZA, S. X.; SILVEIRA, L. F. Q.; CATUNDA, S. Y. C.; ; KREUTZ, M. E. ; LUIZ, S. O. D.",
+          "candidato": "Carlos Avelino de Barros",
+          "citacao_completa": "SOUZA, S. X.; SILVEIRA, L. F. Q.; CATUNDA, S. Y. C.; ; KREUTZ, M. E. ; LUIZ, S. O. D.. Participação em banca de Carlos Avelino de Barros. Redução do Consumo Energético de Aplicações Paralelas Eficientes em Arquiteturas Multicore. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Hardware components as Software components - Uma arquitetura gerenciadora de hardware para dispositivos reconfiguráveis",
+          "membros": "KREUTZ, M. E. ; Oliveira, J. A.; Leite, L. E.",
+          "candidato": "Júlio César Paulino de Melo",
+          "citacao_completa": "KREUTZ, M. E. ; Oliveira, J. A.; Leite, L. E.. Participação em banca de Júlio César Paulino de Melo. Hardware components as Software components - Uma arquitetura gerenciadora de hardware para dispositivos reconfiguráveis. 2012. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Projeto de Sistemas Integrados de Propósito Geral Baseados em Redes em Chip - Expandindo as Funcionalidades dos Roteadores para Execução de Operações: A Plataforma IPNoSys",
+          "membros": "; ; ; RAMOS, Karla",
+          "candidato": "Silvio Roberto Fernandes de Araújo",
+          "citacao_completa": "; ; ; RAMOS, Karla. Participação em banca de Silvio Roberto Fernandes de Araújo. Projeto de Sistemas Integrados de Propósito Geral Baseados em Redes em Chip - Expandindo as Funcionalidades dos Roteadores para Execução de Operações: A Plataforma IPNoSys. 2010. Exame de qualificação (Doutorando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Exploração do Espaço de Projeto de microprocessadores para plataformas MPSoC baseadas em NoC: Impacto do uso de múltiplas micro-arquiteturas no desempenho das plataformas",
+          "membros": "; Oliveira, J. A.; KREUTZ, M. E. ; RAMOS, Karla;",
+          "candidato": "Leonardo Augusto Casillo",
+          "citacao_completa": "; Oliveira, J. A.; KREUTZ, M. E. ; RAMOS, Karla; . Participação em banca de Leonardo Augusto Casillo. Exploração do Espaço de Projeto de microprocessadores para plataformas MPSoC baseadas em NoC: Impacto do uso de múltiplas micro-arquiteturas no desempenho das plataformas. 2010. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "ACELERADOR EM CGRA PARA PROCESSAMENTO DE IMAGENS EM NANOSATÉLITES",
+          "membros": "Kreutz, Marcio ; ; FERNANDES, SILVIO R.",
+          "candidato": "GABRIEL LUCAS COSTA PEREIRA",
+          "citacao_completa": "Kreutz, Marcio ; ; FERNANDES, SILVIO R.. Participação em banca de GABRIEL LUCAS COSTA PEREIRA. ACELERADOR EM CGRA PARA PROCESSAMENTO DE IMAGENS EM NANOSATÉLITES. 2026. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2026,
+          "titulo": "CELERADOR EM CGRA PARA PROCESSAMENTO DE IMAGENS EM NANOSATÉLITES",
+          "membros": "Kreutz, Marcio ; ; FERNANDES, SILVIO R.",
+          "candidato": "GABRIEL LUCAS COSTA PEREIRA",
+          "citacao_completa": "Kreutz, Marcio ; ; FERNANDES, SILVIO R.. Participação em banca de GABRIEL LUCAS COSTA PEREIRA. CELERADOR EM CGRA PARA PROCESSAMENTO DE IMAGENS EM NANOSATÉLITES. 2026. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Projeto e Otimização de RISC-V para Uso em Chiplets para Integração em Nanosatélites",
+          "membros": "; ; Kreutz, Marcio",
+          "candidato": "Celestino António Raposo",
+          "citacao_completa": "; ; Kreutz, Marcio . Participação em banca de Celestino António Raposo. Projeto e Otimização de RISC-V para Uso em Chiplets para Integração em Nanosatélites. 2025. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Desenvolvimento de modelos de previsão de consumo para Smart Meter",
+          "membros": "EDUARDO KREUTZ, MARCIO ; ; CUNHA, E. N.; SILVA, I. M. D.",
+          "candidato": "Ewerton Leandro de Sousa",
+          "citacao_completa": "EDUARDO KREUTZ, MARCIO ; ; CUNHA, E. N.; SILVA, I. M. D.. Participação em banca de Ewerton Leandro de Sousa. Desenvolvimento de modelos de previsão de consumo para Smart Meter. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2024,
+          "titulo": "HASSHIC: Arquitetura para Classificação Espacial-Espectral de Imagens Hiperespectrais Através de Segmentação e Aprendizado Profundo",
+          "membros": "Kreutz, Marcio ; ; ZEFERINO, CESAR A.; FERNADES, M. A. C.",
+          "candidato": "Mailson Rodrigues de Medeiros Guimarães",
+          "citacao_completa": "Kreutz, Marcio ; ; ZEFERINO, CESAR A.; FERNADES, M. A. C.. Participação em banca de Mailson Rodrigues de Medeiros Guimarães. HASSHIC: Arquitetura para Classificação Espacial-Espectral de Imagens Hiperespectrais Através de Segmentação e Aprendizado Profundo. 2024. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Sistema Embarcado Inteligente e Tolerante a Falhas Voltado para a Segurança de Mulheres",
+          "membros": "; Kreutz, Marcio ;",
+          "candidato": "Maria Fernanda Cabral Ribeiro",
+          "citacao_completa": "; Kreutz, Marcio ; . Participação em banca de Maria Fernanda Cabral Ribeiro. Sistema Embarcado Inteligente e Tolerante a Falhas Voltado para a Segurança de Mulheres. 2023. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SDNoC 42: Modelo de SDNoC elástica baseada em caminhos mínimos",
+          "membros": "KREUTZ, MÁRCIO EDUARDO ; ; Brito, A. V.",
+          "candidato": "Adelino Afonso Fernandes Avelino",
+          "citacao_completa": "KREUTZ, MÁRCIO EDUARDO ; ; Brito, A. V.. Participação em banca de Adelino Afonso Fernandes Avelino. SDNoC 42: Modelo de SDNoC elástica baseada em caminhos mínimos. 2022. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Diagnóstico de faltas internas em SCIG utilizando redes neurais em FPGA",
+          "membros": "; SILVA, I. M. D.; BARROS, L. S.; KREUTZ, MÁRCIO EDUARDO",
+          "candidato": "ANDERSON EGBERTO CAVALCANTE SALLES",
+          "citacao_completa": "; SILVA, I. M. D.; BARROS, L. S.; KREUTZ, MÁRCIO EDUARDO . Participação em banca de ANDERSON EGBERTO CAVALCANTE SALLES. Diagnóstico de faltas internas em SCIG utilizando redes neurais em FPGA. 2021. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "LLVM-ACT: Proposta de ferramenta baseada em profiling para seleção de técnica de computação aproximada",
+          "membros": "; VIDAL, J.; KREUTZ, MÁRCIO EDUARDO ;",
+          "candidato": "LAVÍNIA MEDEIROS MIRANDA",
+          "citacao_completa": "; VIDAL, J.; KREUTZ, MÁRCIO EDUARDO ; . Participação em banca de LAVÍNIA MEDEIROS MIRANDA. LLVM-ACT: Proposta de ferramenta baseada em profiling para seleção de técnica de computação aproximada. 2021. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Geração de Topologias Tolerantes a Falhas com Critérios de Entrega de Pacotes em Tempo Real",
+          "membros": "; Kreutz, Marcio ; GIRAO, G.",
+          "candidato": "Elisio Breno Garcia Cardoso",
+          "citacao_completa": "; Kreutz, Marcio ; GIRAO, G.. Participação em banca de Elisio Breno Garcia Cardoso. Geração de Topologias Tolerantes a Falhas com Critérios de Entrega de Pacotes em Tempo Real. 2020. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Problema de Mapeamento e Roteamento: Proposta de Processo de Otimização Math -Heurístico",
+          "membros": "BECK FILHO, A. C.; MAIA, S. M. D. M.; Kreutz, Marcio ;",
+          "candidato": "Hiago Mayk Gomes de Araújo Rocha",
+          "citacao_completa": "BECK FILHO, A. C.; MAIA, S. M. D. M.; Kreutz, Marcio ; . Participação em banca de Hiago Mayk Gomes de Araújo Rocha. Problema de Mapeamento e Roteamento: Proposta de Processo de Otimização Math -Heurístico. 2018. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Otimização de Topologia Irregular Para Aplicações Tempo Real e Não Tempo Real em MP-SoCs Baseadas em Redes-em-Chip",
+          "membros": "; GIRAO, G.; Kreutz, Marcio",
+          "candidato": "Samuel da Silva Oliveira",
+          "citacao_completa": "; GIRAO, G.; Kreutz, Marcio . Participação em banca de Samuel da Silva Oliveira. Otimização de Topologia Irregular Para Aplicações Tempo Real e Não Tempo Real em MP-SoCs Baseadas em Redes-em-Chip. 2018. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Uma ferramenta baseada em Inteligência Artificial para a Exploração do Espaço de Projeto de Redes em Chip",
+          "membros": "KREUTZ, M. E. ; ;",
+          "candidato": "Jefferson Igor Duarte Silva",
+          "citacao_completa": "KREUTZ, M. E. ; ; . Participação em banca de Jefferson Igor Duarte Silva. Uma ferramenta baseada em Inteligência Artificial para a Exploração do Espaço de Projeto de Redes em Chip. 2017. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Exploração de espaço de projeto para geração de Redes em Chip de topologias irregulares otimizada: a Rede UTNoC",
+          "membros": "Kreutz, Marcio ; ;",
+          "candidato": "Jonathan Wanderley de Mesquita",
+          "citacao_completa": "Kreutz, Marcio ; ; . Participação em banca de Jonathan Wanderley de Mesquita. Exploração de espaço de projeto para geração de Redes em Chip de topologias irregulares otimizada: a Rede UTNoC. 2016. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2016,
+          "titulo": "ESTUDO COMPARATIVO DO DESEMPENHO DE REDES-EM-CHIP BASEADO EM SIMULAÇÃO",
+          "membros": "SILVA, E. A.; KREUTZ, M. ; WANGHAM, M. S.; TEIVE, R. C. G.;",
+          "candidato": "Eduardo Alves da Silva",
+          "citacao_completa": "SILVA, E. A.; KREUTZ, M. ; WANGHAM, M. S.; TEIVE, R. C. G.; . Participação em banca de Eduardo Alves da Silva. ESTUDO COMPARATIVO DO DESEMPENHO DE REDES-EM-CHIP BASEADO EM SIMULAÇÃO. 2016. Exame de qualificação (Mestrando em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Uma arquuitetura reconfigurável de grão grosso com tolerância à falhas",
+          "membros": "; ; KREUTZ, M. E.",
+          "candidato": "Eliselma Vieira dos Santos",
+          "citacao_completa": "; ; KREUTZ, M. E. . Participação em banca de Eliselma Vieira dos Santos. Uma arquuitetura reconfigurável de grão grosso com tolerância à falhas. 2014. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Mapeamento de tarefas de aplicações de tempo real em sistemas baseados em redes em chip visando a redução do consumo de energia",
+          "membros": "; RAMIREZ, A. R. G.; TEIVE, R. C. G.; KREUTZ, M.",
+          "candidato": "Jaison Valmor Bruch",
+          "citacao_completa": "; RAMIREZ, A. R. G.; TEIVE, R. C. G.; KREUTZ, M. . Participação em banca de Jaison Valmor Bruch. Mapeamento de tarefas de aplicações de tempo real em sistemas baseados em redes em chip visando a redução do consumo de energia. 2014. Exame de qualificação (Mestrando em Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2013,
+          "titulo": "MPNI: Uma Interface de Rede Parametrizável para Ambientes Multiprocessados Sobre Redes em Chip",
+          "membros": "KREUTZ, M. E. ; RAMOS, Karla;",
+          "candidato": "Raimundo Valter Costa Filho",
+          "citacao_completa": "KREUTZ, M. E. ; RAMOS, Karla; . Participação em banca de Raimundo Valter Costa Filho. MPNI: Uma Interface de Rede Parametrizável para Ambientes Multiprocessados Sobre Redes em Chip. 2013. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal Rural do Semi-Árido."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Formal verification of PLC programs using the B method",
+          "membros": "KREUTZ, M. E. ; Oliveira, M. V.; Déharbe, D. B.",
+          "candidato": "Haniel Moreira Barbosa",
+          "citacao_completa": "KREUTZ, M. E. ; Oliveira, M. V.; Déharbe, D. B.. Participação em banca de Haniel Moreira Barbosa. Formal verification of PLC programs using the B method. 2012. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Proposta e Implementação de um Núcleo para a Estimação de Movimento segundo o padrão H.264.",
+          "membros": "; RAMOS, Karla; KREUTZ, M. E.",
+          "candidato": "Alba Sandyra Bezerra Lopes",
+          "citacao_completa": "; RAMOS, Karla; KREUTZ, M. E. . Participação em banca de Alba Sandyra Bezerra Lopes. Proposta e Implementação de um Núcleo para a Estimação de Movimento segundo o padrão H.264.. 2010. Exame de qualificação (Mestrando em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Uma abordagem formal para modelarem de QoS em redes-em-chip",
+          "membros": "RAMOS, Karla; KREUTZ, M. E.",
+          "candidato": "Dayanne Kelly Freire da Rocha",
+          "citacao_completa": "RAMOS, Karla; KREUTZ, M. E. . Participação em banca de Dayanne Kelly Freire da Rocha. Uma abordagem formal para modelarem de QoS em redes-em-chip. 2010. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal Rural do Semi-Árido."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".Integrac¸ ? ao de ROS 2 e AADL em uma Abordagem Dirigida a Modelos para Validac¸ ? ao Arquitetural de Sistemas Ciberf´ ısicos",
+          "membros": "VIDAL, J.; LIMA FILHO, F. S.; Kreutz, Marcio ; VIEIRA JUNIO, I. F.",
+          "candidato": "Igor Gabriel dos Santos",
+          "citacao_completa": "VIDAL, J.; LIMA FILHO, F. S.; Kreutz, Marcio ; VIEIRA JUNIO, I. F.. Participação em banca de Igor Gabriel dos Santos.Integrac¸ ? ao de ROS 2 e AADL em uma Abordagem Dirigida a Modelos para Validac¸ ? ao Arquitetural de Sistemas Ciberf´ ısicos. 2026. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Generation of Application-Specific Fault-Tolerant Irregular NoC Topologies Using Tabu Search",
+          "membros": "; MAIA, S. M. D. M.; Kreutz, Marcio",
+          "candidato": "Gustavo Alves Bezerra",
+          "citacao_completa": "; MAIA, S. M. D. M.; Kreutz, Marcio . Participação em banca de Gustavo Alves Bezerra.Generation of Application-Specific Fault-Tolerant Irregular NoC Topologies Using Tabu Search. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".SONNE - Projeto de SDNoC para MPSoCs Heterogêneos",
+          "membros": "; ; Kreutz, Marcio",
+          "candidato": "Raul Silveira Silva",
+          "citacao_completa": "; ; Kreutz, Marcio . Participação em banca de Raul Silveira Silva.SONNE - Projeto de SDNoC para MPSoCs Heterogêneos. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Projeto e Implementação de um Acelerador de Arquitetura Reconfigurável",
+          "membros": "; ; Kreutz, Marcio",
+          "candidato": "Ronaldo de Figueiredo Silveira",
+          "citacao_completa": "; ; Kreutz, Marcio . Participação em banca de Ronaldo de Figueiredo Silveira.Projeto e Implementação de um Acelerador de Arquitetura Reconfigurável. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Analysis of routing algorithms for security and fault-tolerance in NoCs",
+          "membros": "; ; Kreutz, Marcio",
+          "candidato": "Hélio Bezerra Duarte Filho",
+          "citacao_completa": "; ; Kreutz, Marcio . Participação em banca de Hélio Bezerra Duarte Filho.Analysis of routing algorithms for security and fault-tolerance in NoCs. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Implementação de Biblioteca CDFG Estendida para Síntese de Alto Nível",
+          "membros": "KREUTZ, M. E. ; ; NETTO, E. B. W.; VIDAL, J.",
+          "candidato": "Victor Wagner Dias Ribeiro",
+          "citacao_completa": "KREUTZ, M. E. ; ; NETTO, E. B. W.; VIDAL, J.. Participação em banca de Victor Wagner Dias Ribeiro.Implementação de Biblioteca CDFG Estendida para Síntese de Alto Nível. 2019. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Extração de CDFG para Síntese de Alto Nível a partir de Código em",
+          "membros": "KREUTZ, M. E. ; ; NETTO, E. B. W.; VIDAL, J.",
+          "candidato": "Lavínia Medeiros Miranda",
+          "citacao_completa": "KREUTZ, M. E. ; ; NETTO, E. B. W.; VIDAL, J.. Participação em banca de Lavínia Medeiros Miranda.Extração de CDFG para Síntese de Alto Nível a partir de Código em. 2019. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Aplicação de Técnicas de Tolerância a Falhas em Sistemas Baseados em Microcontrolador",
+          "membros": "; Kreutz, Marcio ;",
+          "candidato": "Wanderson Ricardo de Medeiros",
+          "citacao_completa": "; Kreutz, Marcio ; . Participação em banca de Wanderson Ricardo de Medeiros.Aplicação de Técnicas de Tolerância a Falhas em Sistemas Baseados em Microcontrolador. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Arquitetura de NoC Tolerante a Falhas com Compartilhamento de Roteadores",
+          "membros": "; Kreutz, Marcio ;",
+          "candidato": "Dogival Ferreira da Silva Junior",
+          "citacao_completa": "; Kreutz, Marcio ; . Participação em banca de Dogival Ferreira da Silva Junior.Arquitetura de NoC Tolerante a Falhas com Compartilhamento de Roteadores. 2018. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".O Problema do Mapeamento Heurísticas de mapeamento de tarefas em MPSoCs baseados em NoC",
+          "membros": "; Kreutz, Marcio ; MAIA, S. M. D. M.;",
+          "candidato": "Hiago Mayk Gomes de Araújo Rocha",
+          "citacao_completa": "; Kreutz, Marcio ; MAIA, S. M. D. M.; . Participação em banca de Hiago Mayk Gomes de Araújo Rocha.O Problema do Mapeamento Heurísticas de mapeamento de tarefas em MPSoCs baseados em NoC. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Tolerância a Falhas na Rede em Chip SPINoSys",
+          "membros": "; Kreutz, Marcio ;",
+          "candidato": "Jandson de Oliveira Cavalcanti Ribeiro",
+          "citacao_completa": "; Kreutz, Marcio ; . Participação em banca de Jandson de Oliveira Cavalcanti Ribeiro.Tolerância a Falhas na Rede em Chip SPINoSys. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".RedScarf: ambiente para avaliação de desempenho de Rede-em-Chip",
+          "membros": "KREUTZ, M. E. ; RAABE, A.; BORTOLUZZI, F.;",
+          "candidato": "Eduardo Alves da Silva",
+          "citacao_completa": "KREUTZ, M. E. ; RAABE, A.; BORTOLUZZI, F.; . Participação em banca de Eduardo Alves da Silva.RedScarf: ambiente para avaliação de desempenho de Rede-em-Chip. 2014. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Roteamento em Zigue-zague para a plataforma IPNoSys",
+          "membros": "; ; KREUTZ, M. E.",
+          "candidato": "Marcos Oliveira da Cruz",
+          "citacao_completa": "; ; KREUTZ, M. E. . Participação em banca de Marcos Oliveira da Cruz.Roteamento em Zigue-zague para a plataforma IPNoSys. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Arquitetura VLIW com otimização do uso de memória",
+          "membros": "; KREUTZ, M. E. ; ;",
+          "candidato": "Hadley Siqueira",
+          "citacao_completa": "; KREUTZ, M. E. ; ; . Participação em banca de Hadley Siqueira.Arquitetura VLIW com otimização do uso de memória. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Uma investigação da integração de transdutores baseados no padrão IEEE 1451 com Arquiteturas Orientadas à Serviço",
+          "membros": "; RAMOS, Karla; CRUZ, B.",
+          "candidato": "Christiane de Araújo Nobre",
+          "citacao_completa": "; RAMOS, Karla; CRUZ, B.. Participação em banca de Christiane de Araújo Nobre.Uma investigação da integração de transdutores baseados no padrão IEEE 1451 com Arquiteturas Orientadas à Serviço. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Estado do Rio Grande do Norte."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Implementação de Controle de Robôs por Meio Sem Fio",
+          "membros": "; ; Rolf Fredi Molz",
+          "candidato": "Júlio Lindolfo Lorenz",
+          "citacao_completa": "; ; Rolf Fredi Molz. Participação em banca de Júlio Lindolfo Lorenz.Implementação de Controle de Robôs por Meio Sem Fio. 2007. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade de Santa Cruz do Sul."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Identificação Digital Utilizando RFID",
+          "membros": "",
+          "candidato": "Luís Augisto Panta Motter",
+          "citacao_completa": ". Participação em banca de Luís Augisto Panta Motter.Identificação Digital Utilizando RFID. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade de Santa Cruz do Sul."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Síntese e Integração de um Agregado Reconfigurável para Aplicações Distribuídas",
+          "membros": "",
+          "candidato": "alexandra da Costa Pinto Aguiar",
+          "citacao_completa": ". Participação em banca de alexandra da Costa Pinto Aguiar.Síntese e Integração de um Agregado Reconfigurável para Aplicações Distribuídas. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade de Santa Cruz do Sul."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Melhoramento de Contraste Implementado em FPGA",
+          "membros": "",
+          "candidato": "Fernando Luís Hermann",
+          "citacao_completa": ". Participação em banca de Fernando Luís Hermann.Melhoramento de Contraste Implementado em FPGA. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade de Santa Cruz do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Kreutz, Marcio . Concurso Público para Professor Adjunto - UFPB. 2011. Universidade Federal da Paraíba.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Kreutz, Marcio . Concurso Público para Professor Adjunto - UFPB. 2011. Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2010,
+          "titulo": "; CASILLO, D.; CASILLO, L.. XV Concurso Público de Provas e Títulos, para o ingresso de Professor na Carreira do Magisté",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; CASILLO, D.; CASILLO, L.. XV Concurso Público de Provas e Títulos, para o ingresso de Professor na Carreira do Magistério Público do Ensino Superior. 2010. Universidade do Estado do Rio Grande do Norte."
+        }
+      ]
+    }
+  ]
+}

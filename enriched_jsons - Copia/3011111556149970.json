@@ -1,0 +1,90 @@
+{
+  "name": "Thiago Fonseca Rech",
+  "lattes_id": "3011111556149970",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "A performance comparison of current controllers for grid-tied photovoltaic microinverters",
+          "autores": "JUNG, FELIPE ; PEREIRA, THIAGO A. ; Rech, Thiago Fonseca ; COELHO, ROBERTO F. ; KIRSTEN, ANDRÉ LUÍS",
+          "periodico": "INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1, 2024.",
+          "doi": "http://dx.doi.org/10.1002/cta.4121",
+          "citacao_completa": "JUNG, FELIPE ; PEREIRA, THIAGO A. ; Rech, Thiago Fonseca ; COELHO, ROBERTO F. ; KIRSTEN, ANDRÉ LUÍS . A performance comparison of current controllers for grid-tied photovoltaic microinverters. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1, 2024."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Step-Down Converter for Low Current Ripple in Electrolyzer with MPPT Control Strategy",
+          "autores": "Rech, Thiago Fonseca ; ORLANDO, TAILAN ; COELHO, ROBERTO FRANCISCO ; KIRSTEN, ANDRÉ LUÍS",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/spec56436.2023.10407276",
+          "citacao_completa": "Rech, Thiago Fonseca ; ORLANDO, TAILAN ; COELHO, ROBERTO FRANCISCO ; KIRSTEN, ANDRÉ LUÍS . Step-Down Converter for Low Current Ripple in Electrolyzer with MPPT Control Strategy. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Detailed Dynamic Model of an Active Ripple Reduction Circuit and its Multi-Loop Control Strategy",
+          "autores": "RECH, T. F.",
+          "periodico": "In: PCIM, 2021, Nurember. PCIM Europe digital days 2021, 2021.",
+          "doi": "",
+          "citacao_completa": "RECH, T. F. . Detailed Dynamic Model of an Active Ripple Reduction Circuit and its Multi-Loop Control Strategy. In: PCIM, 2021, Nurember. PCIM Europe digital days 2021, 2021."
+        },
+        {
+          "ano": 2016,
+          "titulo": "DESENVOLVIMENTO DE MONITOR RESPIRATÓRIO UTILIZANDO MÚLTIPLOS ACELERÔMETROS",
+          "autores": "RECH, T. F. ; R. Moraes ; A. L. D. Siqueira Junior ; V. Zarzoso,",
+          "periodico": "In: Congresso Nacional de Engenharia BIomédica, 2016, Foz do Iguaçu. Congresso Brasileiro de Engenharia Biomédica. Rio de Janeiro: SBEB, 2016. v. 2016.",
+          "doi": "",
+          "citacao_completa": "RECH, T. F. ; R. Moraes ; A. L. D. Siqueira Junior ; V. Zarzoso, . DESENVOLVIMENTO DE MONITOR RESPIRATÓRIO UTILIZANDO MÚLTIPLOS ACELERÔMETROS. In: Congresso Nacional de Engenharia BIomédica, 2016, Foz do Iguaçu. Congresso Brasileiro de Engenharia Biomédica. Rio de Janeiro: SBEB, 2016. v. 2016."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": ".Desenvolvimento de uma Jiga de Teste automatizada para teste de fontes chaveadas",
+          "membros": "ANDRADE, J. M.; MARTINS, D. C.; PANISSON, W. M.; Rech, Thiago Fonseca",
+          "candidato": "Henrique Conti Floriani",
+          "citacao_completa": "ANDRADE, J. M.; MARTINS, D. C.; PANISSON, W. M.; Rech, Thiago Fonseca . Participação em banca de Henrique Conti Floriani.Desenvolvimento de uma Jiga de Teste automatizada para teste de fontes chaveadas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Tekle Scherer..Controle de um inversor elevador monofásico não-linear",
+          "membros": "; SANTOS, I. L.; Lazzarin, Telles Brunelli.; Rech, Thiago Fonseca",
+          "candidato": "Yohannes A",
+          "citacao_completa": "; SANTOS, I. L.; Lazzarin, Telles Brunelli.; Rech, Thiago Fonseca . Participação em banca de Yohannes A. Tekle Scherer..Controle de um inversor elevador monofásico não-linear. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Development of a Cognitive Assistant for Industrial Maintenance Based on Retrieval-Augmented Generation (RAG) at STMicroelectronics",
+          "membros": "CAMPONOGARA, E.; ANTONELO, E. A.; Rech, Thiago Fonseca ; VIALLETELLE, P.",
+          "candidato": "Douglas Mateus Machado",
+          "citacao_completa": "CAMPONOGARA, E.; ANTONELO, E. A.; Rech, Thiago Fonseca ; VIALLETELLE, P.. Participação em banca de Douglas Mateus Machado.Development of a Cognitive Assistant for Industrial Maintenance Based on Retrieval-Augmented Generation (RAG) at STMicroelectronics. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Projeto de um Sistema de Iluminação Autônomo baseado em Energia Solar Fotovoltaica para Regiões",
+          "membros": "; COELHO, R. F.; MORATO, M. M.; Rech, Thiago Fonseca",
+          "candidato": "Matheus Coelho Bion",
+          "citacao_completa": "; COELHO, R. F.; MORATO, M. M.; Rech, Thiago Fonseca . Participação em banca de Matheus Coelho Bion.Projeto de um Sistema de Iluminação Autônomo baseado em Energia Solar Fotovoltaica para Regiões. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Validação em Hardware-in-the-loop para Sistemas de Gerenciamento de Baterias",
+          "membros": "WALTRICH, G.; KIRSTEN, A. L.; Rech, Thiago Fonseca",
+          "candidato": "Caio Yugo Hanada Akinaga",
+          "citacao_completa": "WALTRICH, G.; KIRSTEN, A. L.; Rech, Thiago Fonseca . Participação em banca de Caio Yugo Hanada Akinaga.Validação em Hardware-in-the-loop para Sistemas de Gerenciamento de Baterias. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    }
+  ]
+}

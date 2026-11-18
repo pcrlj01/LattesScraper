@@ -1,0 +1,62 @@
+{
+  "name": "Marcos Davi Lima da Silva",
+  "lattes_id": "3957070201023436",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; KLAUTAU, ALDEBARO . CSI Compression for Distributed-MIMO With Centralized Precoding and Power Allocation. IEEE COMMUNICATIONS LETTERS , v. 27, p. 1535-1539, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/lcomm.2023.3264944"
+        },
+        {
+          "texto": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; BERG, MIGUEL ; KLAUTAU, ALDEBARO . A New O-RAN Compression Approach for Improved Performance on Uplink Signals. Journal of Communication and Information Systems (JCIS), , v. 37, p. 30-41, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14209/jcis.2022.3"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "RENDEIRO, PEDRO ; LEITE, JAMILE LEITE ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Connectivity Evaluation of ESP32 in Outdoor Scenarios. In: Computer on the Beach, 2023, Florianópolis - Santa Catarin. Anais do XIV Computer on the Beach - COTB'23, 2023. v. 14. p. 333-338.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.14210/cotb.v14.p333-338"
+        },
+        {
+          "texto": "LEAO, G. ; SILVA, M. D. L. ; CASTRO, L ; JUNIOR, E ; PINTO, L ; KLAUTAU, A . Projeto CELCOM: Um processo de inclusão digital em comunidades isoladas através de redes comunitárias. In: Computer on the Beach 2019, 2019, Florianópolis. Anais do evento Computer on the Beach 2019, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.14210/cotb.v0n0.p666-675"
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DINIZ, M. ; RENDEIRO, PEDRO ; SILVA, MARCOS ; SILVA, L. D. ; RAMALHO, LEONARDO . Management of Remote Operations in IoT Systems. In: Encontro Anual do Iecom em Comunicações, Redes e Criptografia (ENCOM), 2023, Belém. Encontro Anual do Iecom em Comunicações, Redes e Criptografia (ENCOM), 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RENDEIRO, PEDRO ; LEITE, JAMILE L ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Performance Evaluation of ESP32 in Outdoor Links. In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2022.1570825034"
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "DINIZ, M. ; RENDEIRO, PEDRO ; SILVA, L. D. ; SILVA, MARCOS ; RAMALHO, L . Printed Circuit Board (PCB). 2024.",
+          "ano": 2024,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

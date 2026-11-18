@@ -1,0 +1,897 @@
+{
+  "name": "Tiago Trindade Ribeiro",
+  "lattes_id": "3521539442337416",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Soft trajectory tracking control for wheeled unmanned ground vehicles under uncertain slippage conditions",
+          "autores": "CONCEICAO, ANDRE G.S. ; SANTOS, TITO L.M. ; RIBEIRO, TIAGO T.",
+          "periodico": "JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS , v. 362, p. 107706, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.jfranklin.2025.107706",
+          "citacao_completa": "CONCEICAO, ANDRE G.S. ; SANTOS, TITO L.M. ; RIBEIRO, TIAGO T. . Soft trajectory tracking control for wheeled unmanned ground vehicles under uncertain slippage conditions. JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS , v. 362, p. 107706, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Digital Twin Framework for Visual Perception in Electrical Substations Under Dynamic Environmental Conditions",
+          "autores": "RIBEIRO, T. T. ; Conceição, A. G. S. ; HONÓRIO, LEONARDO DE MELLO ; BIUNDINI, IAGO ZANUTI ; LIMA, CELSO MOREIRA",
+          "periodico": "SENSORS , v. 25, p. 5689, 2025.",
+          "doi": "http://dx.doi.org/10.3390/s25185689",
+          "citacao_completa": "RIBEIRO, T. T. ; Conceição, A. G. S. ; HONÓRIO, LEONARDO DE MELLO ; BIUNDINI, IAGO ZANUTI ; LIMA, CELSO MOREIRA . A Digital Twin Framework for Visual Perception in Electrical Substations Under Dynamic Environmental Conditions. SENSORS , v. 25, p. 5689, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A novel integrated architecture to X-in-the-loop simulation applied to ASV navigation",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, BIANCA ; POLESELO, HENRIQUE ; VIDAL, VINICIUS ; LOPES, VITOR ; FERREIRA, MATHAUS ; NETO, EDVALDO ; Conceição, A. G. S. ; DE MELLO HONORIO, LEONARDO",
+          "periodico": "ROBOTICA , v. 1, p. 1-34, 2024.",
+          "doi": "http://dx.doi.org/10.1017/s026357472400153x",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, BIANCA ; POLESELO, HENRIQUE ; VIDAL, VINICIUS ; LOPES, VITOR ; FERREIRA, MATHAUS ; NETO, EDVALDO ; Conceição, A. G. S. ; DE MELLO HONORIO, LEONARDO . A novel integrated architecture to X-in-the-loop simulation applied to ASV navigation. ROBOTICA , v. 1, p. 1-34, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "NMPC-based visual path following control with variable perception horizon",
+          "autores": "RIBEIRO, TIAGO T. ; FRANCO, IAGO JOSÉ P. B. ; Conceição, André Gustavo S.",
+          "periodico": "ROBOTICA , v. 41, p. 2552-2570, 2023.",
+          "doi": "http://dx.doi.org/10.1017/s0263574723000553",
+          "citacao_completa": "RIBEIRO, TIAGO T. ; FRANCO, IAGO JOSÉ P. B. ; Conceição, André Gustavo S. . NMPC-based visual path following control with variable perception horizon. ROBOTICA , v. 41, p. 2552-2570, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "An Effective Proposal to Reliable Forward Velocity Variation of NMPC-Based Visual Path-Following Control",
+          "autores": "RIBEIRO, TIAGO T. ; FRANCO, IAGO JOSÉ P. B. ; Conceição, André Gustavo S.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s40313-022-00898-y",
+          "citacao_completa": "RIBEIRO, TIAGO T. ; FRANCO, IAGO JOSÉ P. B. ; Conceição, André Gustavo S. . An Effective Proposal to Reliable Forward Velocity Variation of NMPC-Based Visual Path-Following Control. Journal Of Control Automation And Electrical Systems , v. 1, p. 1, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Novel Visual Lane Line Detection System for a NMPC-based Path Following Control Scheme",
+          "autores": "FRANCO, IAGO JOSÉ PATTAS BASTOS ; RIBEIRO, T. T. ; Conceição, A. G. S.",
+          "periodico": "JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 101, p. 12, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s10846-020-01278-x",
+          "citacao_completa": "FRANCO, IAGO JOSÉ PATTAS BASTOS ; RIBEIRO, T. T. ; Conceição, A. G. S. . A Novel Visual Lane Line Detection System for a NMPC-based Path Following Control Scheme. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 101, p. 12, 2021."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Nonlinear Model Predictive Visual Path Following Control to Autonomous Mobile Robots",
+          "autores": "RIBEIRO, TIAGO T. ; CONCEIÇÃO, ANDRÉ G. S.",
+          "periodico": "JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 92, p. 1-13, 2018.",
+          "doi": "http://dx.doi.org/10.1007/s10846-018-0896-3",
+          "citacao_completa": "RIBEIRO, TIAGO T. ; CONCEIÇÃO, ANDRÉ G. S. . Nonlinear Model Predictive Visual Path Following Control to Autonomous Mobile Robots. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 92, p. 1-13, 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Distributed Constrained NMPC with Infeasibility Handling Applied to Formation Control of Nonholonomic Vehicles",
+          "autores": "RIBEIRO, TIAGO T. ; ; CONCEIÇÃO, ANDRÉ G. S.",
+          "periodico": "Journal of Control, Automation and Electrical Systems , v. 27, p. 1-10, 2015.",
+          "doi": "http://dx.doi.org/10.1007/s40313-015-0208-0",
+          "citacao_completa": "RIBEIRO, TIAGO T. ; ; CONCEIÇÃO, ANDRÉ G. S. . Distributed Constrained NMPC with Infeasibility Handling Applied to Formation Control of Nonholonomic Vehicles. Journal of Control, Automation and Electrical Systems , v. 27, p. 1-10, 2015."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema Microprocessado de Tempo Real Aplicado à Robótica Móvel",
+          "autores": "RIBEIRO, T. T. ; Santos ; CONCEIÇÃO",
+          "periodico": "Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia , v. 1, p. 23-31, 2011.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; Santos ; CONCEIÇÃO . Sistema Microprocessado de Tempo Real Aplicado à Robótica Móvel. Revista Jr de Iniciação Científica em Ciências Exatas e Engenharia , v. 1, p. 23-31, 2011."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Comparative Analysis of LiDAR SLAM Techniques in Simulated Environments in ROS Gazebo",
+          "autores": "RIBEIRO, T. T. ; ; CARVALHO, M. E. C.",
+          "periodico": "Comparative Analysis of LiDAR SLAM Techniques in Simulated Environments in ROS Gazebo. 1ed.: Springer Nature Switzerland, 2024, v. , p. 275-.",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-47272-5_23",
+          "citacao_completa": "RIBEIRO, T. T. ; ; CARVALHO, M. E. C. . Comparative Analysis of LiDAR SLAM Techniques in Simulated Environments in ROS Gazebo. Comparative Analysis of LiDAR SLAM Techniques in Simulated Environments in ROS Gazebo. 1ed.: Springer Nature Switzerland, 2024, v. , p. 275-."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Application of the Open Scalable Production System to Machine Tending of Additive Manufacturing Operations by a Mobile Manipulator",
+          "autores": "Arrais, Rafael ; Veiga, Germano ; RIBEIRO, TIAGO T. ; Oliveira, Daniel ; Fernandes, Ramon ; Conceição, André Gustavo S. ; Farias, P. C. M. A.",
+          "periodico": "Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2019, v. , p. 345-356.",
+          "doi": "http://dx.doi.org/10.1007/978-3-030-30244-3_29",
+          "citacao_completa": "Arrais, Rafael ; Veiga, Germano ; RIBEIRO, TIAGO T. ; Oliveira, Daniel ; Fernandes, Ramon ; Conceição, André Gustavo S. ; Farias, P. C. M. A. . Application of the Open Scalable Production System to Machine Tending of Additive Manufacturing Operations by a Mobile Manipulator. Lecture Notes in Computer Science. 1ed.: Springer International Publishing, 2019, v. , p. 345-356."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "TD3-Based DRL for Skid-Steering Robot Navigation in Multi-Scale Environments",
+          "autores": "SIMOES JUNIOR, C. J. F. ; CERQUEIRA, C. E. S. ; Conceição, A. G. S. ; RIBEIRO, T. T.",
+          "periodico": "In: Congresso Brasileiro de Inteligencia Computacional,. In: Congresso Brasileiro de Inteligencia Computacional, 2025, Belo Horizonte. Anais do CBIC 2025, 2025.",
+          "doi": "http://dx.doi.org/10.21528/CBIC2025-1188151",
+          "citacao_completa": "SIMOES JUNIOR, C. J. F. ; CERQUEIRA, C. E. S. ; Conceição, A. G. S. ; RIBEIRO, T. T. . TD3-Based DRL for Skid-Steering Robot Navigation in Multi-Scale Environments. In: Congresso Brasileiro de Inteligencia Computacional,. In: Congresso Brasileiro de Inteligencia Computacional, 2025, Belo Horizonte. Anais do CBIC 2025, 2025."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Robotic Navigation in a Simulated Martian Environment Using ROS and Gazebo",
+          "autores": "VARJÃO, SUZANA DOS SANTOS ; SANTOS, VICTOR COUTINHO VIEIRA ; RiBEIRO, TIAGO TRINDADE",
+          "periodico": "In: III Congresso Aeroespacial Brasileiro, 2025, Online. Congresso Aeroespacial Brasileiro. Recife: Even3, 2026.",
+          "doi": "http://dx.doi.org/10.29327/9786527220794.1443315",
+          "citacao_completa": "VARJÃO, SUZANA DOS SANTOS ; SANTOS, VICTOR COUTINHO VIEIRA ; RiBEIRO, TIAGO TRINDADE . Robotic Navigation in a Simulated Martian Environment Using ROS and Gazebo. In: III Congresso Aeroespacial Brasileiro, 2025, Online. Congresso Aeroespacial Brasileiro. Recife: Even3, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Space ROS and the Future of Space Exploration: Lessons Learned from Past Failures",
+          "autores": "SANTOS, VICTOR COUTINHO VIEIRA ; VARJÃO, SUZANA DOS SANTOS ; RiBEIRO, TIAGO TRINDADE",
+          "periodico": "In: III Congresso Aeroespacial Brasileiro, 2025, Online. Congresso Aeroespacial Brasileiro. Recife: Even3, 2026.",
+          "doi": "http://dx.doi.org/10.29327/9786527220794.1443313",
+          "citacao_completa": "SANTOS, VICTOR COUTINHO VIEIRA ; VARJÃO, SUZANA DOS SANTOS ; RiBEIRO, TIAGO TRINDADE . Space ROS and the Future of Space Exploration: Lessons Learned from Past Failures. In: III Congresso Aeroespacial Brasileiro, 2025, Online. Congresso Aeroespacial Brasileiro. Recife: Even3, 2026."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Trajectory Planning with Obstacle Avoidance using APF and COLREGS for USVs",
+          "autores": "NUNES, KELVIN K. C. F. ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S.",
+          "periodico": "In: 2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 2024, Paredes de Coura. 2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 2024. p. 106.",
+          "doi": "http://dx.doi.org/10.1109/icarsc61747.2024.10535946",
+          "citacao_completa": "NUNES, KELVIN K. C. F. ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S. . Trajectory Planning with Obstacle Avoidance using APF and COLREGS for USVs. In: 2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 2024, Paredes de Coura. 2024 IEEE International Conference on Autonomous Robot Systems and Competitions (ICARSC), 2024. p. 106."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Transfer Learning-based Lane Line Detection System for Visual Path Following Control",
+          "autores": "ALMEIDA, ALLAN S. ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S.",
+          "periodico": "In: 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024, Bari. 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024. p. 782.",
+          "doi": "http://dx.doi.org/10.1109/case59546.2024.10711739",
+          "citacao_completa": "ALMEIDA, ALLAN S. ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S. . Transfer Learning-based Lane Line Detection System for Visual Path Following Control. In: 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024, Bari. 2024 IEEE 20th International Conference on Automation Science and Engineering (CASE), 2024. p. 782."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Detecção de Faixa Baseado em Aprendizado Profundo para Seguimento de Caminho Visual",
+          "autores": "ALMEIDA, ALLAN S. ; RIBEIRO, T. T. ;",
+          "periodico": "In: CBA2024, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automatica, 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, ALLAN S. ; RIBEIRO, T. T. ; . Detecção de Faixa Baseado em Aprendizado Profundo para Seguimento de Caminho Visual. In: CBA2024, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automatica, 2024, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Segmentação de Objetos utilizando LiDAR e os Métodos de Clusterização DBSCAN e HDBSCAN",
+          "autores": "RIBEIRO, T. T. ; ; POLESELO, H.",
+          "periodico": "In: Simposio Brasileiro de Automacao Inteligente,, 2023, Manaus. Anais do Simposio Brasileiro de Automacao Inteligente, 2023.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; ; POLESELO, H. . Segmentação de Objetos utilizando LiDAR e os Métodos de Clusterização DBSCAN e HDBSCAN. In: Simposio Brasileiro de Automacao Inteligente,, 2023, Manaus. Anais do Simposio Brasileiro de Automacao Inteligente, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Seguidores Visuais Baseados em NMPC com Horizonte de Percepção Variável.",
+          "autores": "RIBEIRO, T. T. ; P. B. FRANCO, IAGO JOSÉ ; Conceição, A. G. S.",
+          "periodico": "In: XV Simpósio Brasileiro de Automação Inteligente, 2021. anais do XV Simpósio Brasileiro de Automação Inteligente.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; P. B. FRANCO, IAGO JOSÉ ; Conceição, A. G. S. . Seguidores Visuais Baseados em NMPC com Horizonte de Percepção Variável.. In: XV Simpósio Brasileiro de Automação Inteligente, 2021. anais do XV Simpósio Brasileiro de Automação Inteligente."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Controle NMPC para o Seguimento de Caminhos Visuais com Velocidade de Navegação Variável",
+          "autores": "T. RIBEIRO, TIAGO ; P. B. FRANCO, IAGO JOSÉ ; S. CONCEIÇÃO, ANDRÉ GUSTAVO",
+          "periodico": "In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1524",
+          "citacao_completa": "T. RIBEIRO, TIAGO ; P. B. FRANCO, IAGO JOSÉ ; S. CONCEIÇÃO, ANDRÉ GUSTAVO . Controle NMPC para o Seguimento de Caminhos Visuais com Velocidade de Navegação Variável. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "SEGUIMENTO DE CAMINHOS VISUAIS: AVALIAÇÃO DE DESEMPENHO DE UMA ESTRATÉGIA BASEADA EM NMPC PARA ROBÔS DIFERENCIAIS",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, R. O. ;",
+          "periodico": "In: 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019, Ouro Preto. Anais do 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, R. O. ; . SEGUIMENTO DE CAMINHOS VISUAIS: AVALIAÇÃO DE DESEMPENHO DE UMA ESTRATÉGIA BASEADA EM NMPC PARA ROBÔS DIFERENCIAIS. In: 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019, Ouro Preto. Anais do 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "UMA NOVA ABORDAGEM PARA EXTRAÇÃO DE PARÂMETROS DO MODELO DE SEGUIDORES VISUAIS BASEADO EM NMPC APLICADO AO HUSKY UGV",
+          "autores": "FRANCO, I. J. P. B. ; RIBEIRO, T. T. ;",
+          "periodico": "In: https://www.sbai2019.com.br, 2019, Ouro Preto. Anais do 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "FRANCO, I. J. P. B. ; RIBEIRO, T. T. ; . UMA NOVA ABORDAGEM PARA EXTRAÇÃO DE PARÂMETROS DO MODELO DE SEGUIDORES VISUAIS BASEADO EM NMPC APLICADO AO HUSKY UGV. In: https://www.sbai2019.com.br, 2019, Ouro Preto. Anais do 14º Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Novel Approach for Parameter Extraction of an NMPC-Based Visual Follower Model",
+          "autores": "RIBEIRO, T. T. ; FRANCO, I. J. P. B. ;",
+          "periodico": "In: 19th International Conference on Advanced Robotics - ICAR 2019, 2019, Belo Horizonte. Proceedings of 19th International Conference on Advanced Robotics - ICAR 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FRANCO, I. J. P. B. ; . A Novel Approach for Parameter Extraction of an NMPC-Based Visual Follower Model. In: 19th International Conference on Advanced Robotics - ICAR 2019, 2019, Belo Horizonte. Proceedings of 19th International Conference on Advanced Robotics - ICAR 2019, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "SEGUIMENTO DE CAMINHOS VISUAIS: UMA ABORDAGEM PARA IDENTIFICAÇÃO DE PARÂMETROS ATRAVÉS DE VISÃO COMPUTACIONAL",
+          "autores": "RIBEIRO, T. T. ; FRANCO, I. J. P. B. ; FERNANDES, R. O. ;",
+          "periodico": "In: XXII Congresso Brasileiro de Automática - CBA2018, 2018, João Pessoa - BA. Anais do XXII Congresso Brasileiro de Automática - CBA2018, 2018.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FRANCO, I. J. P. B. ; FERNANDES, R. O. ; . SEGUIMENTO DE CAMINHOS VISUAIS: UMA ABORDAGEM PARA IDENTIFICAÇÃO DE PARÂMETROS ATRAVÉS DE VISÃO COMPUTACIONAL. In: XXII Congresso Brasileiro de Automática - CBA2018, 2018, João Pessoa - BA. Anais do XXII Congresso Brasileiro de Automática - CBA2018, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "NMPC-based Visual Leader-Follower Formation Control for Wheeled Mobile Robots",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, R. O. ;",
+          "periodico": "In: IEEE 16TH INTERNATIONAL CONFERENCE OF INDUSTRIAL INFORMATICS - INDIN2018, 2018, Porto. PROCEEDINGS OF THE IEEE 16TH INTERNATIONAL CONFERENCE OF INDUSTRIAL INFORMATICS - INDIN2018, 2018.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, R. O. ; . NMPC-based Visual Leader-Follower Formation Control for Wheeled Mobile Robots. In: IEEE 16TH INTERNATIONAL CONFERENCE OF INDUSTRIAL INFORMATICS - INDIN2018, 2018, Porto. PROCEEDINGS OF THE IEEE 16TH INTERNATIONAL CONFERENCE OF INDUSTRIAL INFORMATICS - INDIN2018, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "CONTROLE DE FORMAÇÃO LÍDER-SEGUIDOR BASEADO EM NMPC UTILIZANDO INFORMAÇÕES VISUAIS - FORMALIZAÇÃO DO PROBLEMA",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, R. O. ; LIMA, A. M. N. ;",
+          "periodico": "In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente., 2017.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, R. O. ; LIMA, A. M. N. ; . CONTROLE DE FORMAÇÃO LÍDER-SEGUIDOR BASEADO EM NMPC UTILIZANDO INFORMAÇÕES VISUAIS - FORMALIZAÇÃO DO PROBLEMA. In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente., 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "CONTROLE DE FORMAÇÃO LÍDER-SEGUIDOR BASEADO EM NMPC UTILIZANDO INFORMAÇÕES VISUAIS - GARANTIA DE FACTIBILIDADE E ESTABILIDADE.",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, R. O. ; LIMA, A. M. N. ;",
+          "periodico": "In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017,, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente., 2017.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, R. O. ; LIMA, A. M. N. ; . CONTROLE DE FORMAÇÃO LÍDER-SEGUIDOR BASEADO EM NMPC UTILIZANDO INFORMAÇÕES VISUAIS - GARANTIA DE FACTIBILIDADE E ESTABILIDADE.. In: XIII Simpósio Brasileiro de Automação Inteligente (SBAI), 2017,, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente., 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Communication Faults in Robot Formation Control: A Reconfigurable Spanning Tree Approach",
+          "autores": "KOST'ALOVA, ALENA ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S.",
+          "periodico": "In: 2017 International Conference on Computational Science and Computational Intelligence (CSCI), 2017, Las Vegas. 2017 International Conference on Computational Science and Computational Intelligence (CSCI), 2017. p. 1842.",
+          "doi": "http://dx.doi.org/10.1109/csci.2017.337",
+          "citacao_completa": "KOST'ALOVA, ALENA ; RIBEIRO, TIAGO T. ; CONCEICAO, ANDRE G. S. . Communication Faults in Robot Formation Control: A Reconfigurable Spanning Tree Approach. In: 2017 International Conference on Computational Science and Computational Intelligence (CSCI), 2017, Las Vegas. 2017 International Conference on Computational Science and Computational Intelligence (CSCI), 2017. p. 1842."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Seguimento de Caminhos Visuais Baseado em NMPC para Robôs Diferenciais",
+          "autores": "RIBEIRO, T. T. ; FERNANDES, R. O. ;",
+          "periodico": "In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória-ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; FERNANDES, R. O. ; . Seguimento de Caminhos Visuais Baseado em NMPC para Robôs Diferenciais. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória-ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Garantia de Estabilidade e Factibilidade de Controladores NMPC para o Seguimento de Caminhos Visuais",
+          "autores": "RIBEIRO, T. T. ; ; FERNANDES, R. O.",
+          "periodico": "In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória-ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; ; FERNANDES, R. O. . Garantia de Estabilidade e Factibilidade de Controladores NMPC para o Seguimento de Caminhos Visuais. In: XXI Congresso Brasileiro de Automática - CBA2016, 2016, Vitória-ES. XXI Congresso Brasileiro de Automática - CBA2016, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Nonlinear Model Predictive Formation Control for Quadcopters",
+          "autores": "RiBEIRO, TIAGO TRINDADE ; André Gustavo Scolari Conceição ; CORKE, P. ; SA, I.",
+          "periodico": "In: 11th IFAC Symposium on Robot Control, 2015, Salvador. SYROCO 2015, 2015. v. 1. p. 46-51.",
+          "doi": "",
+          "citacao_completa": "RiBEIRO, TIAGO TRINDADE ; André Gustavo Scolari Conceição ; CORKE, P. ; SA, I. . Nonlinear Model Predictive Formation Control for Quadcopters. In: 11th IFAC Symposium on Robot Control, 2015, Salvador. SYROCO 2015, 2015. v. 1. p. 46-51."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Controle de Formação baseado em NMPC para Quadricopteros",
+          "autores": "RIBEIRO, T. T. ; COSTA, A. L. ;",
+          "periodico": "In: XX Congresso Brasileiro de Automática, 2014, Belo Horizonte. anais do XX Congresso Brasileiro de Automática - CBA2014, 2014. p. 1490-1497.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; COSTA, A. L. ; . Controle de Formação baseado em NMPC para Quadricopteros. In: XX Congresso Brasileiro de Automática, 2014, Belo Horizonte. anais do XX Congresso Brasileiro de Automática - CBA2014, 2014. p. 1490-1497."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Omnidirectional mobile robots navigation: A joint approach combining reinforcement learning and knowledge-based systems",
+          "autores": "DA COSTA, AUGUSTO LOUREIRO ; CEONCEICAO, ANDRE GUSTAVO SCOLARI ; CERQUEIRA, ROMULO GUEDES ; RiBEIRO, TIAGO TRINDADE",
+          "periodico": "In: 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC), 2013, Rio de Janerio. 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC). v. 1. p. 1-6.",
+          "doi": "http://dx.doi.org/10.1109/BRC.2013.6487531",
+          "citacao_completa": "DA COSTA, AUGUSTO LOUREIRO ; CEONCEICAO, ANDRE GUSTAVO SCOLARI ; CERQUEIRA, ROMULO GUEDES ; RiBEIRO, TIAGO TRINDADE . Omnidirectional mobile robots navigation: A joint approach combining reinforcement learning and knowledge-based systems. In: 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC), 2013, Rio de Janerio. 2013 ISSNIP Biosignals and Biorobotics Conference: Biosignals and Robotics for Better and Safer Living (BRC). v. 1. p. 1-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Formation control of mobile robots using decentralized nonlinear model predictive control",
+          "autores": "TRINDADE RIBEIRO, TIAGO ; FERRARI, RAFAEL ; SANTOS, JESSIVALDO ; CONCEICAO, ANDRE G. S.",
+          "periodico": "In: 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2013, Wollongong. 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. p. 32.",
+          "doi": "http://dx.doi.org/10.1109/AIM.2013.6584064",
+          "citacao_completa": "TRINDADE RIBEIRO, TIAGO ; FERRARI, RAFAEL ; SANTOS, JESSIVALDO ; CONCEICAO, ANDRE G. S. . Formation control of mobile robots using decentralized nonlinear model predictive control. In: 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics (AIM), 2013, Wollongong. 2013 IEEE/ASME International Conference on Advanced Intelligent Mechatronics. p. 32."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Wireless Real-Time System for Omnidirectional Mobile Robots Control",
+          "autores": "RIBEIRO, T. T. ; SANTOS JUNIOR, J. ; COSTA, A. L. ;",
+          "periodico": "In: XI Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza-CE. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2013.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; SANTOS JUNIOR, J. ; COSTA, A. L. ; . Wireless Real-Time System for Omnidirectional Mobile Robots Control. In: XI Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza-CE. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Controle de Formação Baseado em NMPC Aplicado a Robótica Móvel",
+          "autores": "RIBEIRO, T. T. ; André Gustavo Scolari Conceição",
+          "periodico": "In: XI Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza-CE. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2013.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; André Gustavo Scolari Conceição . Controle de Formação Baseado em NMPC Aplicado a Robótica Móvel. In: XI Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza-CE. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "CONTROLADORES PREDITIVOS BASEADOS EM MODELOS NÃO LINEARES PARA O SEGUIMENTO DE CAMINHO COORDENADO ENTRE ROBÔS MOVEIS OMNIDIRECIONAIS",
+          "autores": "RIBEIRO, T. T. ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 1219-4458.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; . CONTROLADORES PREDITIVOS BASEADOS EM MODELOS NÃO LINEARES PARA O SEGUIMENTO DE CAMINHO COORDENADO ENTRE ROBÔS MOVEIS OMNIDIRECIONAIS. In: XIX Congresso Brasileiro de Automática, 2012, Campina grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 1219-4458."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Embarcando o Agente Autônomo Concorrente no Robô Móvel Omnidirecional AxeBot: Nivel Reativo",
+          "autores": "COSTA, A. L. P. ; ; RIBEIRO, T. T. ; SANTOS JUNIOR, J.",
+          "periodico": "In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 635-640.",
+          "doi": "",
+          "citacao_completa": "COSTA, A. L. P. ; ; RIBEIRO, T. T. ; SANTOS JUNIOR, J. . Embarcando o Agente Autônomo Concorrente no Robô Móvel Omnidirecional AxeBot: Nivel Reativo. In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 635-640."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Arquitetura Hierárquica Distribuída para Coordenação e Cooperação de Sistemas Multi-Robôs",
+          "autores": "; RIBEIRO, T. T. ; MOREIRA, P. ; Costa, P.",
+          "periodico": "In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 659-664.",
+          "doi": "",
+          "citacao_completa": "; RIBEIRO, T. T. ; MOREIRA, P. ; Costa, P. . Arquitetura Hierárquica Distribuída para Coordenação e Cooperação de Sistemas Multi-Robôs. In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 659-664."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema Microprocessado para Controle em Tempo Real de Robôs Móveis Omnidirecionais",
+          "autores": "RIBEIRO, T. T. ; SANTOS, J. T. ; CONCEIÇÃO ; COSTA, A. L. P.",
+          "periodico": "In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 1340-1345.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; SANTOS, J. T. ; CONCEIÇÃO ; COSTA, A. L. P. . Sistema Microprocessado para Controle em Tempo Real de Robôs Móveis Omnidirecionais. In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 1340-1345."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Modelagem de um robô móvel omnidirecional de três rodas incluindo compensação de atrito",
+          "autores": "; CORREA, M. ; SANTOS, J. T. ; RIBEIRO, T. T.",
+          "periodico": "In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 1031-1036.",
+          "doi": "",
+          "citacao_completa": "; CORREA, M. ; SANTOS, J. T. ; RIBEIRO, T. T. . Modelagem de um robô móvel omnidirecional de três rodas incluindo compensação de atrito. In: X Simpósio Brasileiro de Automação Inteligente, 2011, São João del-Rei. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 1031-1036."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Real-time microprocessed system applied to mobile robots control",
+          "autores": "RiBEIRO, TIAGO TRINDADE ; DOS SANTOS, JOVELINO TORRES ; SANTOS, JESSIVALDO ; CONCEICAO, ANDRE G. SCOLARI ; DA COSTA, AUGUSTO LOUREIRO",
+          "periodico": "In: 2011 IEEE IX Latin American Robotics Symposium and IEEE Colombian Conference on Automatic Control (LARC), 2011, Bogota. IX Latin American Robotics Symposium and IEEE Colombian Conference on Automatic Control, 2011 IEEE. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LARC.2011.6086797",
+          "citacao_completa": "RiBEIRO, TIAGO TRINDADE ; DOS SANTOS, JOVELINO TORRES ; SANTOS, JESSIVALDO ; CONCEICAO, ANDRE G. SCOLARI ; DA COSTA, AUGUSTO LOUREIRO . Real-time microprocessed system applied to mobile robots control. In: 2011 IEEE IX Latin American Robotics Symposium and IEEE Colombian Conference on Automatic Control (LARC), 2011, Bogota. IX Latin American Robotics Symposium and IEEE Colombian Conference on Automatic Control, 2011 IEEE. p. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema Embarcado de tempo real aplicado a robótica móvel.",
+          "autores": "RIBEIRO, T. T. ; CONCEIÇÃO",
+          "periodico": "In: VII SNCA ? SEMINÁRIO NACIONAL DE CONTROLE E AUTOMAÇÃO INDUSTRIAL, ELÉTRICA E DE TELECOMUNICAÇÕES, 2011, Salvador. Anais do VII SNCA, 2011.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; CONCEIÇÃO . Sistema Embarcado de tempo real aplicado a robótica móvel.. In: VII SNCA ? SEMINÁRIO NACIONAL DE CONTROLE E AUTOMAÇÃO INDUSTRIAL, ELÉTRICA E DE TELECOMUNICAÇÕES, 2011, Salvador. Anais do VII SNCA, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema Embarcado Microprocessado Aplicado à Robótica Móvel",
+          "autores": "Santos ; RIBEIRO, T. T. ; CONCEIÇÃO",
+          "periodico": "In: XXIV Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2010, Rio Grande. XXIV CRICTE - 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "Santos ; RIBEIRO, T. T. ; CONCEIÇÃO . Sistema Embarcado Microprocessado Aplicado à Robótica Móvel. In: XXIV Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2010, Rio Grande. XXIV CRICTE - 2010, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Seguimento de Caminhos Visuais Baseado em NMPC para Robôs Diferenciais.",
+          "autores": "RIBEIRO, T. T. ; ; FERNANDES, R. O.",
+          "periodico": "2016. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; ; FERNANDES, R. O. . Seguimento de Caminhos Visuais Baseado em NMPC para Robôs Diferenciais.. 2016. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Garantia de Estabilidade e Factibilidade de Controladores NMPC para o Seguimento de Caminhos Visuais.",
+          "autores": "RIBEIRO, T. T. ; ; FERNANDES, R. O.",
+          "periodico": "2016. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; ; FERNANDES, R. O. . Garantia de Estabilidade e Factibilidade de Controladores NMPC para o Seguimento de Caminhos Visuais.. 2016. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Wireless Real-Time System for Omnidirectional Mobile Robots Control",
+          "autores": "RiBEIRO, TIAGO TRINDADE ; SANTOS JUNIOR, J. ; ; COSTA, A. L.",
+          "periodico": "2013. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "RiBEIRO, TIAGO TRINDADE ; SANTOS JUNIOR, J. ; ; COSTA, A. L. . Wireless Real-Time System for Omnidirectional Mobile Robots Control. 2013. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Controle de Formação Baseado em NMPC Aplicado à Robótica Móvel",
+          "autores": "RiBEIRO, TIAGO TRINDADE ; ; FROES, S.",
+          "periodico": "2013. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "RiBEIRO, TIAGO TRINDADE ; ; FROES, S. . Controle de Formação Baseado em NMPC Aplicado à Robótica Móvel. 2013. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Controladores Preditivos Baseados em Modelos Não Lineares para o Seguimento de Caminho Coordenado entre Robôs Móveis Omnidirecionais",
+          "autores": "RIBEIRO, T. T. ;",
+          "periodico": "2012. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; . Controladores Preditivos Baseados em Modelos Não Lineares para o Seguimento de Caminho Coordenado entre Robôs Móveis Omnidirecionais. 2012. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Controladores Preditivos Baseados em Modelos Não Lineares para o Seguimento de Caminho Coordenado entre Robôs Móveis Omnidirecionais",
+          "autores": "RIBEIRO, T. T. ;",
+          "periodico": "2012. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; . Controladores Preditivos Baseados em Modelos Não Lineares para o Seguimento de Caminho Coordenado entre Robôs Móveis Omnidirecionais. 2012. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema embarcado de tempo real aplicado à robótica móvel",
+          "autores": "RIBEIRO, T. T. ; SANTOS JUNIOR, J. ; SANTOS, J. T. ; ; COSTA, A. L. P.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, T. T. ; SANTOS JUNIOR, J. ; SANTOS, J. T. ; ; COSTA, A. L. P. . Sistema embarcado de tempo real aplicado à robótica móvel. 2011. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "A Receptance-Based Vibration Control With Dead-Zone Compensation for Systems With Input Delay",
+          "membros": "ARAUJO, J. M.; SANTOS, T. L. M.; RIBEIRO, T. T. ; ACHY, A. R. A.; EUZEBIO, T. A. M.",
+          "candidato": "André Juárez Jaime Duarte",
+          "citacao_completa": "ARAUJO, J. M.; SANTOS, T. L. M.; RIBEIRO, T. T. ; ACHY, A. R. A.; EUZEBIO, T. A. M.. Participação em banca de André Juárez Jaime Duarte. A Receptance-Based Vibration Control With Dead-Zone Compensation for Systems With Input Delay. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Trajectory optimization applied to motion planning of industrial manipulators",
+          "membros": "Conceição, A. G. S.; RIBEIRO, T. T. ; BRAGA, R. A. M.",
+          "candidato": "Miguel Felipe Nery Vieira",
+          "citacao_completa": "Conceição, A. G. S.; RIBEIRO, T. T. ; BRAGA, R. A. M.. Participação em banca de Miguel Felipe Nery Vieira. Trajectory optimization applied to motion planning of industrial manipulators. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comunicação entre Robot Operating System - ROS e SoC",
+          "membros": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; PINHEIRO, O. R.; RIBEIRO, T. T.",
+          "candidato": "Nestor Dias Pereira Neto",
+          "citacao_completa": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; PINHEIRO, O. R.; RIBEIRO, T. T. . Participação em banca de Nestor Dias Pereira Neto. Comunicação entre Robot Operating System - ROS e SoC. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Mobile Robot Motion Planning for a Sequence of Goals",
+          "membros": "FARIAS, P. C. M. A; RIBEIRO, T. T. ; COSTA, E. B.",
+          "candidato": "Rafael Barreto de Santana Lopes",
+          "citacao_completa": "FARIAS, P. C. M. A; RIBEIRO, T. T. ; COSTA, E. B.. Participação em banca de Rafael Barreto de Santana Lopes. A Mobile Robot Motion Planning for a Sequence of Goals. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estimadores Visuais para o Seguimento de Caminhos Baseadoem NMPC",
+          "membros": "André Gustavo Scolari Conceição; RIBEIRO, T. T. ; FARIAS, P. C. M. A; MARCATO, A. L. M.",
+          "candidato": "Iago José Pattas Bastos Franco",
+          "citacao_completa": "André Gustavo Scolari Conceição; RIBEIRO, T. T. ; FARIAS, P. C. M. A; MARCATO, A. L. M.. Participação em banca de Iago José Pattas Bastos Franco. Estimadores Visuais para o Seguimento de Caminhos Baseadoem NMPC. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Contribuição ao Desenvolvimento de um Módulo Auditivo para Robotica Assistiva",
+          "membros": "CERQUEIRA, J. J. F.; SIMAS FILHO, E. F.; RIBEIRO, T. T. ; MONTALVAO, J.",
+          "candidato": "Elmo Alberto Teixeira Borges Junior",
+          "citacao_completa": "CERQUEIRA, J. J. F.; SIMAS FILHO, E. F.; RIBEIRO, T. T. ; MONTALVAO, J.. Participação em banca de Elmo Alberto Teixeira Borges Junior. Contribuição ao Desenvolvimento de um Módulo Auditivo para Robotica Assistiva. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mapeamento de Ambientes Tridimensionais Utilizando Sensores RGB-D e LIDAR Aplicados à Robótica Móvel",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T. ; HONORIO, L. M.",
+          "candidato": "Ricardo Sutana de Mello",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. ; HONORIO, L. M.. Participação em banca de Ricardo Sutana de Mello. Mapeamento de Ambientes Tridimensionais Utilizando Sensores RGB-D e LIDAR Aplicados à Robótica Móvel. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Axebot II - Uma Plataforma Modular para Sistemas Multi-Robôs",
+          "membros": "COSTA, A. L.; RIBEIRO, T. T. ; CERQUEIRA, J. J. F.; FILARDI, V. L.",
+          "candidato": "Márcio Garcia Figueiredo",
+          "citacao_completa": "COSTA, A. L.; RIBEIRO, T. T. ; CERQUEIRA, J. J. F.; FILARDI, V. L.. Participação em banca de Márcio Garcia Figueiredo. Axebot II - Uma Plataforma Modular para Sistemas Multi-Robôs. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Object Detection, Localization, and Grasping with Visual Sensors Applied to Robotic Manipulators",
+          "membros": "; RIBEIRO, T. T. ; SANTOS, E. T. F.",
+          "candidato": "Daniel Moura de Oliveira",
+          "citacao_completa": "; RIBEIRO, T. T. ; SANTOS, E. T. F.. Participação em banca de Daniel Moura de Oliveira. Object Detection, Localization, and Grasping with Visual Sensors Applied to Robotic Manipulators. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Um Agente Autônomo Concorrente para o Manipulador JACO Kinova",
+          "membros": "COSTA, A. L. P.; FRANCO, A. C. E. S.; RIBEIRO, T. T.",
+          "candidato": "Edi Moreira Martins",
+          "citacao_completa": "COSTA, A. L. P.; FRANCO, A. C. E. S.; RIBEIRO, T. T. . Participação em banca de Edi Moreira Martins. Um Agente Autônomo Concorrente para o Manipulador JACO Kinova. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estimação de Parâmetros do Modelo Dinâmico e Simulação de Veículo Autônomo Submarino",
+          "membros": "; RIBEIRO, T. T. ; SANTOS, E. T. F.",
+          "candidato": "João da Costa Britto Neto",
+          "citacao_completa": "; RIBEIRO, T. T. ; SANTOS, E. T. F.. Participação em banca de João da Costa Britto Neto. Estimação de Parâmetros do Modelo Dinâmico e Simulação de Veículo Autônomo Submarino. 2018. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Contribuições ao Problema de Localização para Veículos Terrestres Não-Tripulados",
+          "membros": "RIBEIRO, T. T. ; FARIAS, P. C. M. A; SIMAS FILHO, E. F.; FERNANDES JUNIOR, A. C. L.; BARRETO, G. A.; FREIRE, E.",
+          "candidato": "João Luiz Carneiro Carvalho",
+          "citacao_completa": "RIBEIRO, T. T. ; FARIAS, P. C. M. A; SIMAS FILHO, E. F.; FERNANDES JUNIOR, A. C. L.; BARRETO, G. A.; FREIRE, E.. Participação em banca de João Luiz Carneiro Carvalho. Contribuições ao Problema de Localização para Veículos Terrestres Não-Tripulados. 2023. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Perception for Autonomous Vehicles in Off-Road Environment Using Deep Learning",
+          "membros": "BARRETO, G. A.; PRATES, R. M.; FARIAS, P. C. M. A; W. L. A. DE OLIVEIRA; SIMAS FILHO, E. F.; RIBEIRO, T. T.",
+          "candidato": "Nelson Alves Ferreira Neto",
+          "citacao_completa": "BARRETO, G. A.; PRATES, R. M.; FARIAS, P. C. M. A; W. L. A. DE OLIVEIRA; SIMAS FILHO, E. F.; RIBEIRO, T. T. . Participação em banca de Nelson Alves Ferreira Neto. Perception for Autonomous Vehicles in Off-Road Environment Using Deep Learning. 2022. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Linearização Transversal por Realimentação Aplicada a RRT*",
+          "membros": "SCHINITMAN, L.; MARTINS, M. A. F.; FONTES, C. H. O.; RIBEIRO, T. T. ; CHAGAS, T. P.",
+          "candidato": "Gildeberto de Souza Cardoso",
+          "citacao_completa": "SCHINITMAN, L.; MARTINS, M. A. F.; FONTES, C. H. O.; RIBEIRO, T. T. ; CHAGAS, T. P.. Participação em banca de Gildeberto de Souza Cardoso. Linearização Transversal por Realimentação Aplicada a RRT*. 2019. Tese (Doutorado em Programa de Pós-Graduação em Macatrônica) - Universidade Federal da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Análise de métodos e técnicas de point cloud registration para inspeção visual em ambiente subaquático",
+          "membros": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Ana Carolina Barreto de Jesus",
+          "citacao_completa": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Ana Carolina Barreto de Jesus. Análise de métodos e técnicas de point cloud registration para inspeção visual em ambiente subaquático. 2022. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Modelagem e Controle Preditivo de um Sistema Integrado de Abastecimento de Água: uma Avaliação Inicial",
+          "membros": "SANTOS, T. L. M.; ARAUJO, J. M.; RIBEIRO, T. T.",
+          "candidato": "Carlos César Oliveira Araujo Filho",
+          "citacao_completa": "SANTOS, T. L. M.; ARAUJO, J. M.; RIBEIRO, T. T. . Participação em banca de Carlos César Oliveira Araujo Filho. Modelagem e Controle Preditivo de um Sistema Integrado de Abastecimento de Água: uma Avaliação Inicial. 2022. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Planejamento de trajetórias baseado em APF compatível com COLREGS para navegação de veículos de superfície Não Tripulados",
+          "membros": "; FARIAS, P. C. M. A; SANTOS, T. L. M.; RIBEIRO, T. T.",
+          "candidato": "Kelvin Kefren Carvalho Feitosa Nunes",
+          "citacao_completa": "; FARIAS, P. C. M. A; SANTOS, T. L. M.; RIBEIRO, T. T. . Participação em banca de Kelvin Kefren Carvalho Feitosa Nunes. Planejamento de trajetórias baseado em APF compatível com COLREGS para navegação de veículos de superfície Não Tripulados. 2022. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Modelagem e Aplicação de Controladores LQR e MPC à classe de robôs móveis skid-steer com rodas para Rastreamento de Trajetórias",
+          "membros": "Conceição, A. G. S.; ARAUJO, H. X.; SANTOS, T. L. M.; RIBEIRO, T. T.",
+          "candidato": "Lorenna Santos Vilas Boas",
+          "citacao_completa": "Conceição, A. G. S.; ARAUJO, H. X.; SANTOS, T. L. M.; RIBEIRO, T. T. . Participação em banca de Lorenna Santos Vilas Boas. Modelagem e Aplicação de Controladores LQR e MPC à classe de robôs móveis skid-steer com rodas para Rastreamento de Trajetórias. 2022. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Odometria Visual RGB-D aplicada à Robótica Móvel",
+          "membros": "; RIBEIRO, T. T. ; SIMAS FILHO, E. F.",
+          "candidato": "Murilo Souza Santos",
+          "citacao_completa": "; RIBEIRO, T. T. ; SIMAS FILHO, E. F.. Participação em banca de Murilo Souza Santos. Odometria Visual RGB-D aplicada à Robótica Móvel. 2021. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Otimização de trajetórias aplicada ao planejamento de movimento de manipuladores industriais",
+          "membros": "; SIMAS FILHO, E. F.; RIBEIRO, T. T.",
+          "candidato": "Miguel Nery Vieira",
+          "citacao_completa": "; SIMAS FILHO, E. F.; RIBEIRO, T. T. . Participação em banca de Miguel Nery Vieira. Otimização de trajetórias aplicada ao planejamento de movimento de manipuladores industriais. 2020. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Sistema de Mapeamento e Auto localização para Veículos Autônomos utilizando Deep Learning e Fusão Sensorial",
+          "membros": "COSTA, A. L.; RIBEIRO, T. T. ; FARIAS, P. C. M. A",
+          "candidato": "Carine Ramos de Almeida Gottschall",
+          "citacao_completa": "COSTA, A. L.; RIBEIRO, T. T. ; FARIAS, P. C. M. A. Participação em banca de Carine Ramos de Almeida Gottschall. Sistema de Mapeamento e Auto localização para Veículos Autônomos utilizando Deep Learning e Fusão Sensorial. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Modelagem e Controle de Veículo Elétrico Autônomo utilizando Zero Moment Control",
+          "membros": "COSTA, A. L.; RIBEIRO, T. T. ;",
+          "candidato": "Robson José Neves Mattos Junior",
+          "citacao_completa": "COSTA, A. L.; RIBEIRO, T. T. ; . Participação em banca de Robson José Neves Mattos Junior. Modelagem e Controle de Veículo Elétrico Autônomo utilizando Zero Moment Control. 2020. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Projeto e Desenvolvimento de Sistemas Embarcados: Aplicação à Robótica Móvel Usando a Familia PIC32MK",
+          "membros": "CERQUEIRA, J. J. F.; RIBEIRO, T. T. ;",
+          "candidato": "Wellington Passos Igino",
+          "citacao_completa": "CERQUEIRA, J. J. F.; RIBEIRO, T. T. ; . Participação em banca de Wellington Passos Igino. Projeto e Desenvolvimento de Sistemas Embarcados: Aplicação à Robótica Móvel Usando a Familia PIC32MK. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise de Algoritmos de Detecção e Seguimento de Caminhos Visuais Aplicados a Controladores NMPC",
+          "membros": "; RIBEIRO, T. T. ; FARIAS, P. C. M. A; SIMAS FILHO, E. F.",
+          "candidato": "Iago Pattas Bastos Franco",
+          "citacao_completa": "; RIBEIRO, T. T. ; FARIAS, P. C. M. A; SIMAS FILHO, E. F.. Participação em banca de Iago Pattas Bastos Franco. Análise de Algoritmos de Detecção e Seguimento de Caminhos Visuais Aplicados a Controladores NMPC. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento de um Coprocessador de Vídeo em FPGA para Integração com o Robot Operating System - ROS",
+          "membros": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Nestor Dias Pereira Neto",
+          "citacao_completa": "W. L. A. DE OLIVEIRA; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Nestor Dias Pereira Neto. Desenvolvimento de um Coprocessador de Vídeo em FPGA para Integração com o Robot Operating System - ROS. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Calibração Extínseca entre Câmera Matricial RGB e Scanner Laser 3D - Um método Automático Baseado em Feature Matching",
+          "membros": "FARIAS, P. C. M. A; ; RIBEIRO, T. T.",
+          "candidato": "Tiago Pereira de Souza",
+          "citacao_completa": "FARIAS, P. C. M. A; ; RIBEIRO, T. T. . Participação em banca de Tiago Pereira de Souza. Calibração Extínseca entre Câmera Matricial RGB e Scanner Laser 3D - Um método Automático Baseado em Feature Matching. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Planejamento de Trajetória online evitando obstáculos de manipulador robótico 6GDL utilizando Campos Potenciais Artificiais",
+          "membros": "; RIBEIRO, T. T. ; FARIAS, P. C. M. A",
+          "candidato": "Malu de Leon Jardim Silva",
+          "citacao_completa": "; RIBEIRO, T. T. ; FARIAS, P. C. M. A. Participação em banca de Malu de Leon Jardim Silva. Planejamento de Trajetória online evitando obstáculos de manipulador robótico 6GDL utilizando Campos Potenciais Artificiais. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Mapaeamento de Ambientes Tridimensionais Utilizando Câmera RGB-D e LiDAR Aplicados à Robótica Móvel",
+          "membros": "; COSTA, A. L.; RIBEIRO, T. T. ; FARIAS, P. C. M. A",
+          "candidato": "Ricardo Sutana de Mello",
+          "citacao_completa": "; COSTA, A. L.; RIBEIRO, T. T. ; FARIAS, P. C. M. A. Participação em banca de Ricardo Sutana de Mello. Mapaeamento de Ambientes Tridimensionais Utilizando Câmera RGB-D e LiDAR Aplicados à Robótica Móvel. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Embarcando o Agente Autônomo Concorrente em um Quadrirotor para a Realização de Voos Autônomos",
+          "membros": "COSTA, A. L.; ORDONEZ, B.; RIBEIRO, T. T.",
+          "candidato": "Lorenzo Moura Pereira Oliveira",
+          "citacao_completa": "COSTA, A. L.; ORDONEZ, B.; RIBEIRO, T. T. . Participação em banca de Lorenzo Moura Pereira Oliveira. Embarcando o Agente Autônomo Concorrente em um Quadrirotor para a Realização de Voos Autônomos. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Sistema anticolisão baseado em campos potenciais artificiais aplicado a manipuladores robóticos",
+          "membros": "; RIBEIRO, T. T. ; COSTA, A. L.",
+          "candidato": "Ubiratan de Melo Pinto Junior",
+          "citacao_completa": "; RIBEIRO, T. T. ; COSTA, A. L.. Participação em banca de Ubiratan de Melo Pinto Junior. Sistema anticolisão baseado em campos potenciais artificiais aplicado a manipuladores robóticos. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Módulo Auricular Embarcado para um Robô Socialmente Assistivo",
+          "membros": "CERQUEIRA, J. J. F.; RIBEIRO, T. T. ; COSTA, A. L. P.",
+          "candidato": "Elmo Alberto Teixeira Borges Junior",
+          "citacao_completa": "CERQUEIRA, J. J. F.; RIBEIRO, T. T. ; COSTA, A. L. P.. Participação em banca de Elmo Alberto Teixeira Borges Junior. Módulo Auricular Embarcado para um Robô Socialmente Assistivo. 2019. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Pick and Place utilizando o sensor de visão 3D e QR Code",
+          "membros": "; COSTA, A. L. P.; RIBEIRO, T. T.",
+          "candidato": "Daniel Moura de Oliveira",
+          "citacao_completa": "; COSTA, A. L. P.; RIBEIRO, T. T. . Participação em banca de Daniel Moura de Oliveira. Pick and Place utilizando o sensor de visão 3D e QR Code. 2018. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Um Agente Cognitivo Embarcado para Realização Autônoma de Missão para Drones",
+          "membros": "COSTA, A. L. P.; ORDONEZ, B.; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Ricardo Gomes Brito",
+          "citacao_completa": "COSTA, A. L. P.; ORDONEZ, B.; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Ricardo Gomes Brito. Um Agente Cognitivo Embarcado para Realização Autônoma de Missão para Drones. 2018. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Planejamento de Movimento em um Ambiente Industrial Dinâmico Utuilizando a Plataforma Robótica Husky UGV",
+          "membros": "FARIAS, P. C. M. A; ; RIBEIRO, T. T.",
+          "candidato": "Rafael Barreto de Santana Lopes",
+          "citacao_completa": "FARIAS, P. C. M. A; ; RIBEIRO, T. T. . Participação em banca de Rafael Barreto de Santana Lopes. Planejamento de Movimento em um Ambiente Industrial Dinâmico Utuilizando a Plataforma Robótica Husky UGV. 2018. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Estimação de Parâmetros do Modelo Dinâmico e Simulação de Veículo Autônomo Submarino",
+          "membros": "; ORDONEZ, B.; RIBEIRO, T. T.",
+          "candidato": "João da Costa Britto Neto",
+          "citacao_completa": "; ORDONEZ, B.; RIBEIRO, T. T. . Participação em banca de João da Costa Britto Neto. Estimação de Parâmetros do Modelo Dinâmico e Simulação de Veículo Autônomo Submarino. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Interfaceamento para o uso de FPGA's em Coprocessamento Amparado pelo ROS",
+          "membros": "W. L. A. DE OLIVEIRA; FERNANDES JUNIOR, A. C. L.; RIBEIRO, T. T.",
+          "candidato": "Glauber Luiz de Moura Moraes",
+          "citacao_completa": "W. L. A. DE OLIVEIRA; FERNANDES JUNIOR, A. C. L.; RIBEIRO, T. T. . Participação em banca de Glauber Luiz de Moura Moraes. Interfaceamento para o uso de FPGA's em Coprocessamento Amparado pelo ROS. 2017. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Sistema de Navegação Usando Cmpos Potenciais e Controlador Preditivo para Robôs Diferenciais",
+          "membros": "SANTOS, T. L. M.; ; ORDONEZ, B.; RIBEIRO, T. T.",
+          "candidato": "Gustavo Duran Brito",
+          "citacao_completa": "SANTOS, T. L. M.; ; ORDONEZ, B.; RIBEIRO, T. T. . Participação em banca de Gustavo Duran Brito. Sistema de Navegação Usando Cmpos Potenciais e Controlador Preditivo para Robôs Diferenciais. 2017. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": ".Avaliação de um Critério de Estabilidade Voltado ao Controle De Quadrotores com Atraso Variável",
+          "membros": "SANTOS, T. L. M.; ARAUJO, J. M.; RIBEIRO, T. T.",
+          "candidato": "Vitor Argiles Azoubel",
+          "citacao_completa": "SANTOS, T. L. M.; ARAUJO, J. M.; RIBEIRO, T. T. . Participação em banca de Vitor Argiles Azoubel.Avaliação de um Critério de Estabilidade Voltado ao Controle De Quadrotores com Atraso Variável. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Um Estudo Comparativo de Técnicas de Desacoplamento Aplicadas a Sistemas de Controle Preditivo Baseados em Modeloo",
+          "membros": "ARAUJO, J. M.; SANTOS, T. L. M.; RIBEIRO, T. T.",
+          "candidato": "Matheus Alves Santos",
+          "citacao_completa": "ARAUJO, J. M.; SANTOS, T. L. M.; RIBEIRO, T. T. . Participação em banca de Matheus Alves Santos.Um Estudo Comparativo de Técnicas de Desacoplamento Aplicadas a Sistemas de Controle Preditivo Baseados em Modeloo. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Segmentação de Objetos utilizando Lidar e Métodos de Clusterização",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Henrique Nunes Poleselo",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Henrique Nunes Poleselo.Segmentação de Objetos utilizando Lidar e Métodos de Clusterização. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Emulação de Consoles Retrô",
+          "membros": "ESTEVES, L. T. C.; W. L. A. DE OLIVEIRA; RIBEIRO, T. T.",
+          "candidato": "Pedro Freitas de Carvalho",
+          "citacao_completa": "ESTEVES, L. T. C.; W. L. A. DE OLIVEIRA; RIBEIRO, T. T. . Participação em banca de Pedro Freitas de Carvalho.Emulação de Consoles Retrô. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Projeto de respirador mecânico de baixo custo para Coronavírus",
+          "membros": "CERQUEIRA, J. J. F.; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "ERICK DE ANDRADE NOLASCO",
+          "citacao_completa": "CERQUEIRA, J. J. F.; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de ERICK DE ANDRADE NOLASCO.Projeto de respirador mecânico de baixo custo para Coronavírus. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".COMPILADOR COMO FERRAMENTA DE INICIAÇÃO À PROGRAMAÇÃO",
+          "membros": "RIBEIRO, T. T. ; FARIAS, P. C. M. A; W. L. A. DE OLIVEIRA",
+          "candidato": "DHENE ARLIS OLIVEIRA CAVALCANTE DA SILVA",
+          "citacao_completa": "RIBEIRO, T. T. ; FARIAS, P. C. M. A; W. L. A. DE OLIVEIRA. Participação em banca de DHENE ARLIS OLIVEIRA CAVALCANTE DA SILVA.COMPILADOR COMO FERRAMENTA DE INICIAÇÃO À PROGRAMAÇÃO. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Desenvolvimento de um Sistema Detector de Objetos Usando Hog e Svm Linear",
+          "membros": "; SIMAS FILHO, E. F.; RIBEIRO, T. T.",
+          "candidato": "Everton Geovane de Cerqueira Quadros",
+          "citacao_completa": "; SIMAS FILHO, E. F.; RIBEIRO, T. T. . Participação em banca de Everton Geovane de Cerqueira Quadros.Desenvolvimento de um Sistema Detector de Objetos Usando Hog e Svm Linear. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Estudo da Funcionalidade Phone-as-a-Key Com uma Aplicação da Técnica Model-in-the-Loop",
+          "membros": "FARIAS, P. C. M. A; RIBEIRO, T. T. ; W. L. A. DE OLIVEIRA",
+          "candidato": "Maria Paula Borges de Carvalho",
+          "citacao_completa": "FARIAS, P. C. M. A; RIBEIRO, T. T. ; W. L. A. DE OLIVEIRA. Participação em banca de Maria Paula Borges de Carvalho.Estudo da Funcionalidade Phone-as-a-Key Com uma Aplicação da Técnica Model-in-the-Loop. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação de Processos) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudo de caso da integração framework ROS com a plataforma mbed",
+          "membros": "FARIAS, P. C. M. A; RIBEIRO, TIAGO T.",
+          "candidato": "João Victor Simões de Brito",
+          "citacao_completa": "FARIAS, P. C. M. A; RIBEIRO, TIAGO T. . Participação em banca de João Victor Simões de Brito.Estudo de caso da integração framework ROS com a plataforma mbed. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Controle de Movimento de Câmera com Base em Sensores de Movimento de um Smartphone",
+          "membros": "FARIAS, P. C. M. A; CERQUEIRA, J. J. F.; RIBEIRO, T. T.",
+          "candidato": "Raffaello Salvetti Santos",
+          "citacao_completa": "FARIAS, P. C. M. A; CERQUEIRA, J. J. F.; RIBEIRO, T. T. . Participação em banca de Raffaello Salvetti Santos.Controle de Movimento de Câmera com Base em Sensores de Movimento de um Smartphone. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Interface do Framework ROS com Aplicativos WEB através dp Robot Web Tools",
+          "membros": "FARIAS, P. C. M. A; CERQUEIRA, J. J. F.; RIBEIRO, T. T.",
+          "candidato": "Virginia de Paula de Souza Campos",
+          "citacao_completa": "FARIAS, P. C. M. A; CERQUEIRA, J. J. F.; RIBEIRO, T. T. . Participação em banca de Virginia de Paula de Souza Campos.Interface do Framework ROS com Aplicativos WEB através dp Robot Web Tools. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Planejamento de Trajetória para Robôs Terrestres baseado em Campos Potenciais Artificiais",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Pedro Aurélio dos Santos Carvalho e Santos",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Pedro Aurélio dos Santos Carvalho e Santos.Planejamento de Trajetória para Robôs Terrestres baseado em Campos Potenciais Artificiais. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação de Processos) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Sistema de Localização Probabilístico para Robôs Móveis Terrestres",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Renata Antunes da Costa",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Renata Antunes da Costa.Sistema de Localização Probabilístico para Robôs Móveis Terrestres. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Odometria Visual Utilizando Imagens RGB-D",
+          "membros": "FARIAS, P. C. M. A; CARVALHO, :. J. L. C.; RIBEIRO, T. T.",
+          "candidato": "Felipe Ribeiro Rosa Alves",
+          "citacao_completa": "FARIAS, P. C. M. A; CARVALHO, :. J. L. C.; RIBEIRO, T. T. . Participação em banca de Felipe Ribeiro Rosa Alves.Odometria Visual Utilizando Imagens RGB-D. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Solução para Controle de Braço Robótico em Ambiente Simulado utilizando o Myo",
+          "membros": "RIBEIRO, T. T. ;",
+          "candidato": "Enrique Sartori",
+          "citacao_completa": "RIBEIRO, T. T. ; . Participação em banca de Enrique Sartori.Solução para Controle de Braço Robótico em Ambiente Simulado utilizando o Myo. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação de Processos) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estratégias para Reduzir o Consumo Energético em Dispositivos de Internet das Coisas",
+          "membros": "CERQUEIRA, J. J. F.; RIBEIRO, T. T.",
+          "candidato": "Andressa Silva Valente de Andrade",
+          "citacao_completa": "CERQUEIRA, J. J. F.; RIBEIRO, T. T. . Participação em banca de Andressa Silva Valente de Andrade.Estratégias para Reduzir o Consumo Energético em Dispositivos de Internet das Coisas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Análise e Geração de Trajetória a partir do ZMP para um Robô Humanoide",
+          "membros": "COSTA, A. L.; ORDONEZ, B.; RIBEIRO, T. T.",
+          "candidato": "Rodrigo Andrade Fragoso",
+          "citacao_completa": "COSTA, A. L.; ORDONEZ, B.; RIBEIRO, T. T. . Participação em banca de Rodrigo Andrade Fragoso.Análise e Geração de Trajetória a partir do ZMP para um Robô Humanoide. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Implementação de Efeitos de Áudio para Guitarra Utilizando a Placa de Processamento Digital de Sinais TMS320C6713",
+          "membros": "FERNANDES JUNIOR, A. C. L.; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Lara Cardoso Figueirêdo",
+          "citacao_completa": "FERNANDES JUNIOR, A. C. L.; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Lara Cardoso Figueirêdo.Implementação de Efeitos de Áudio para Guitarra Utilizando a Placa de Processamento Digital de Sinais TMS320C6713. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Avaliação de Controladores H_{inf}, Projetados via LMI, aplicados à um robô omnidirecional",
+          "membros": "ARAUJO, H. X.; RIBEIRO, T. T. ; SANTOS, T. L. M.",
+          "candidato": "Iuri Vilasboas Rodrigues",
+          "citacao_completa": "ARAUJO, H. X.; RIBEIRO, T. T. ; SANTOS, T. L. M.. Participação em banca de Iuri Vilasboas Rodrigues.Avaliação de Controladores H_{inf}, Projetados via LMI, aplicados à um robô omnidirecional. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Metodologia para Melhoria da Usabilidade do Site da Escola Politécnica da Ufba",
+          "membros": "CERQUEIRA, J. J. F.; DUMET, T. B; RIBEIRO, T. T.",
+          "candidato": "Daiane Fátima Gomes Araújo",
+          "citacao_completa": "CERQUEIRA, J. J. F.; DUMET, T. B; RIBEIRO, T. T. . Participação em banca de Daiane Fátima Gomes Araújo.Metodologia para Melhoria da Usabilidade do Site da Escola Politécnica da Ufba. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Monitoramento da Qualidade do Ar Interno Usando Sistema Microprocessado com Interface Web em PHP",
+          "membros": "; FERNANDES JUNIOR, A. C. L.; RIBEIRO, T. T.",
+          "candidato": "Caio Cesar Guimarães de Queiroz",
+          "citacao_completa": "; FERNANDES JUNIOR, A. C. L.; RIBEIRO, T. T. . Participação em banca de Caio Cesar Guimarães de Queiroz.Monitoramento da Qualidade do Ar Interno Usando Sistema Microprocessado com Interface Web em PHP. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Geração de Sinais Simulados de Ruído Acústico de Máquinas Irradiado por Embarcações para o Meio Submarino",
+          "membros": "SIMAS FILHO, E. F.; Sena, A.L.S.; RIBEIRO, T. T.",
+          "candidato": "Isabella Medeiros de Souza",
+          "citacao_completa": "SIMAS FILHO, E. F.; Sena, A.L.S.; RIBEIRO, T. T. . Participação em banca de Isabella Medeiros de Souza.Geração de Sinais Simulados de Ruído Acústico de Máquinas Irradiado por Embarcações para o Meio Submarino. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Planejamento de Trajetórias no Espaço das Juntas para Manipuladores Articulados",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Guilherme Nunes Guimarães",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Guilherme Nunes Guimarães.Planejamento de Trajetórias no Espaço das Juntas para Manipuladores Articulados. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Planejamento de Trajetórias de Braço Manipulador Utilizando Campos Potenciais Artificiais",
+          "membros": "; FARIAS, P. C. M. A; RIBEIRO, T. T.",
+          "candidato": "Malu de Leon Jardim",
+          "citacao_completa": "; FARIAS, P. C. M. A; RIBEIRO, T. T. . Participação em banca de Malu de Leon Jardim.Planejamento de Trajetórias de Braço Manipulador Utilizando Campos Potenciais Artificiais. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação de Processos) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Modelagem e Análise do Manipulador JACO para Planejamento de Trajetória com Desvio de Obstáculos por Campos Potenciais Artificiais Utilizando o ROS",
+          "membros": "; COSTA, A. L.; RIBEIRO, T. T.",
+          "candidato": "Ubiratan de Melo Pinto Junior",
+          "citacao_completa": "; COSTA, A. L.; RIBEIRO, T. T. . Participação em banca de Ubiratan de Melo Pinto Junior.Modelagem e Análise do Manipulador JACO para Planejamento de Trajetória com Desvio de Obstáculos por Campos Potenciais Artificiais Utilizando o ROS. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Controle Preditivo Baseado em Modelo Aplicado a um Robô Omnidirecional utilizando-se Preditor de Smith Filtrado",
+          "membros": "ARAUJO, J. M.; ARAUJO, H. X.; SANTOS, T. L. M.; PAIM, C. C.; ORDONEZ, B.; RIBEIRO, T. T.",
+          "candidato": "PEDRO XAVIER ALCANTARA",
+          "citacao_completa": "ARAUJO, J. M.; ARAUJO, H. X.; SANTOS, T. L. M.; PAIM, C. C.; ORDONEZ, B.; RIBEIRO, T. T. . Participação em banca de PEDRO XAVIER ALCANTARA.Controle Preditivo Baseado em Modelo Aplicado a um Robô Omnidirecional utilizando-se Preditor de Smith Filtrado. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Bahia."
+        }
+      ]
+    }
+  ]
+}

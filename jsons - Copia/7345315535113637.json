@@ -1,0 +1,1113 @@
+{
+  "name": "Antonio Felipe da Cunha de Aquino",
+  "lattes_id": "7345315535113637",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "BUSS, BEATRIZ S. ; ANTUNES, VITOR ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; ISSICABA, DIEGO . An approach to mapping operation conditions to levels of generation rejection for the SIPS of the Brazilian North-Southeast HVDC bipoles. ELECTRIC POWER SYSTEMS RESEARCH , v. 262, p. 113651, 2027.",
+          "ano": 2027,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113651"
+        },
+        {
+          "texto": "ALMEIDA SILVA AMBRÓSIO, BRYAN ; TORRES BERNARDO, RAUL ; DA COSTA ZANELLA, LUCAS ; SOUSA DA SILVA, DANIEL ; MANTELLI, FÁBIO MATHEUS ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; SLAGHENAUF JUNIOR, JOSÉ CARLOS ; PARO FILHO, OSVALTER ; DA CUNHA DE AQUINO, ANTONIO FELIPE ; ISSICABA, DIEGO . Synchrophasor-based backup protection scheme to prevent transient instability in bulk power systems with embedded HVDC links. ELECTRIC POWER SYSTEMS RESEARCH , v. 263, p. 113656, 2027.",
+          "ano": 2027,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113656"
+        },
+        {
+          "texto": "AMBRÓSIO, BRYAN A.S. ; MORAES, GUIDO R. ; BERNARDO, RAUL T. ; NETTO, ULISSES C. ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ C.S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; ISSICABA, DIEGO . Determining lower and upper bounds for active power calculated from synchronized measurements in system integrity protection applications. ELECTRIC POWER SYSTEMS RESEARCH , v. 264, p. 113759, 2027.",
+          "ano": 2027,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113759"
+        },
+        {
+          "texto": "ANTUNES, VITOR ; AQUINO, ANTONIO F. DA C. ; SILVA, AGUINALDO S. E . Design of Multiple Supplementary Controllers for Embedded HVDC Links Using a Model-Free Adaptive Control Approach. IEEE Access , v. 1, p. 1-1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3664512"
+        },
+        {
+          "texto": "ANTUNES, VITOR ; SILVA, AGUINALDO SILVEIRA E ; ISSICABA, DIEGO ; AQUINO, Antonio Felipe da Cunha de ; MORAES, GUIDO ROSSETTO ; DECKER, ILDEMAR CASSANA ; MOURINHO, FABRICIO ANDRADE . Model Validation and Calibration of Large Power Systems Using Hierarchical Topological Cuts. IEEE Access , v. 1, p. 1-1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3662498"
+        },
+        {
+          "texto": "PEREIRA, JULIANA L. ; MORAES, GUIDO R. ; BERNARDO, RAUL T. ; DOTTA, DANIEL ; TIETZ, AUGUSTO ; AQUINO, ANTONIO F. C. ; ISSICABA, DIEGO . Evaluating the Application of a Perturbation-based Inertia Estimation Methodology with Synchrophasor Data of the Brazilian Interconnected Power System. IEEE Access , v. 1, p. 1-1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3586839"
+        },
+        {
+          "texto": "PINHEIRO, BRUNO ; LLERENA VELASQUEZ, M.C. ; FARIA, GIOVANE ; AQUINO, A.F.C. ; ISSICABA, DIEGO ; DOTTA, DANIEL . Evaluation of the Impact of IBR on the Frequency Dynamics in the Brazilian Power System. Sustainable Energy Grids & Networks , v. 1, p. 101827, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.segan.2025.101827"
+        },
+        {
+          "texto": "LOPES, GABRIEL V. DE S. ; De Aquino, Antonio F. da C. ; DOTTA, DANIEL ; ISSICABA, DIEGO ; PATERNINA, MARIO R. ARRIETA . Real-time multi-label event categorization in the Brazilian interconnected power system. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111036, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2025.111036"
+        },
+        {
+          "texto": "ANTUNES, VITOR ; AQUINO, ANTONIO F. C. ; E SILVA, AGUINALDO S. . Damping Electromechanical Oscillations Using Data-Driven Control Applied to Embedded HVDC Links. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1-19, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/s40313-025-01217-x"
+        },
+        {
+          "texto": "DA SILVA, DANIEL S. ; MORAES, GUIDO R. ; PENNA, LEANDRO D. ; DECKER, ILDEMAR C. ; AQUINO, ANTONIO F.C. ; ISSICABA, DIEGO . Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110821, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110821"
+        },
+        {
+          "texto": "ZANELLA, L. ; AMBRÓSIO, B.A.S. ; MORAES, G.R. ; DECKER, I.C. ; AQUINO, A.F.C. ; ISSICABA, D. . Design of a machine learning model to enhance the arming of the system integrity protection scheme of the Brazilian North-Southeast HVDC Bipoles. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110647, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110647"
+        },
+        {
+          "texto": "BERNARDO, RAUL T. ; CAMPESTRINI, LUCÍOLA ; OLIVEIRA, RICARDO C. L. F. ; AQUINO, ANTONIO F. C. ; DOTTA, DANIEL . A Data-driven Approach for the Design of Wide-Area Damping Controllers. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , p. 1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s40313-023-01026-0"
+        },
+        {
+          "texto": "CASAMALI, DALTON FELLIPE ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; E SILVA, AGUINALDO SILVEIRA . Supplementary Frequency Control for Low Inertia Power Systems. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s40313-023-01034-0"
+        },
+        {
+          "texto": "MORAES, GUIDO R. ; AMBRÓSIO, BRYAN A.S. ; PEREIRA, JULIANA L. ; ISSICABA, DIEGO ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C. . Impact analysis of COVID-19 pandemic on the electricity demand, frequency control and electromechanical oscillation modes of the Brazilian Interconnected Power System using low voltage WAMS data. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 142, p. 108266, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2022.108266"
+        },
+        {
+          "texto": "VAZ, RODRIGO ; MORAES, GUIDO R. ; ARRUDA, EDUARDO H.Z. ; TERCEIRO, JYVAGO C.B.S. ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C. ; ISSICABA, DIEGO . Event detection and classification through wavelet-based method in low voltage wide-area monitoring systems. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 130, p. 106919, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.106919"
+        },
+        {
+          "texto": "FILHO, DANILO P. C. ; FINARDI, ERLON C. ; AQUINO, ANTONIO F. C. . Real-Time Dispatch for Multi-Unit Hydroelectric Plants With AC Optimal Power Flow: The Case of the Santo Antonio System. IEEE Access , v. 9, p. 149322-149337, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2021.3124041"
+        },
+        {
+          "texto": "GOMES, PAULO ; AQUINO, ANTONIO FELIPE ; TICOM, SUMARA DUARTE ; FERNANDES, BERNARDO ; FELTES, JAMES . How Brazil Aims for Gold in Reliability: From Past Blackouts to Preparedness for the 2016 Summer Olympic and Paralympic Games. IEEE Power & Energy Magazine , v. 14, p. 40-51, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/mpe.2016.2593782"
+        },
+        {
+          "texto": "A. R. M. Tenório ; A. A. Nohara ; A. F. C. AQUINO . Brazilian Experience Regarding Interactions between Series Capacitors and SVCs - Main Challenges of Tucuruí-Macapá-Manaus Interconnection Project. ELETROEVOLUÇÃO (RIO DE JANEIRO) , v. 1, p. 66, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; Arjan C. Vinhaes ; Edson H. Watanabe ; Maurício Aredes . A Controller Applied To Variable Frequency Transformer - Vft. REVISTA ELETRÔNICA DE POTÊNCIA , v. 17, p. 521-528, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.18618/REP.2012.2.521528"
+        },
+        {
+          "texto": "DIAS, ROBSON ; DA CUNHA DE AQUINO, ANTONIO FELIPE ; PORTELA, CARLOS ; WATANABE, EDSON . Going the Distance. IEEE Industrial Electronics Magazine , v. 5, p. 36-48, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/mie.2011.940252"
+        },
+        {
+          "texto": "A. F. C. AQUINO ; MASSAUD, A. G. ; GONCALVES, D. N. . Utilização do religamento automático tripolar lento em linhas de transmissão do SIN - Sistema Inteligado Nacional: uma experiência bem sucedida. ELETROEVOLUÇÃO (RIO DE JANEIRO) , v. 1, p. 52, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Operating the Power System Closer to Technical Limits. ELETROEVOLUÇÃO (RIO DE JANEIRO) , v. 36, p. 16, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "AREDES, M. ; AQUINO, A. F. C. ; SANTOS JR, G. . Multipulse converters and controls for HVDC and FACTS systems. ELECTRICAL ENGINEERING , v. 83, p. 137-145, 2001.",
+          "ano": 2001,
+          "doi": "http://dx.doi.org/10.1007/s002020100069"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "MASSAUD, A. G. ; AQUINO, A.F.C. ; GONCALVES, D. N. ; VIOTTI, F. A. ; CARDOSO JUNIOR, G. ; FRANCISCO, G. S. ; MUNIZ, M. P. ; ALVES, T. M. T. S. . A segurança operacional elétrica no SIN - a importância do sistema de transmissão. In: Roberto Gomes. (Org.). A gestão do sistema de transmissão do Brasil. 1ed.Rio de Janeiro: FGV, 2012, v. , p. 263-.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DALL ; HIRASSAKI, VINÍCIUS ; ABREU, JOÃO ; NETO, LUCAS ; BORTOLUZZI, GABRIEL ; NASPOLINI, HELENA ; AQUINO, ANTÔNIO ; PACHECO, LEONARDO ; RÜTHER, RICARDO . Dynamic Performance Evaluation of a Transportable Energy Storage System Supplying Off-Grid Loads. In: SWC2025 Solar World Congress 2025, 2026, Fortaleza. Proceedings of SWC2025 - ISES Solar World Congress 2025. Freiburg: International Solar Energy Society, 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18086/swc.2025.03.23"
+        },
+        {
+          "texto": "NETO, LUCAS ; NASPOLINI, HELENA ; AQUINO, ANTÔNIO ; HIRASSAKI, VINÍCIUS ; ABREU, JOÃO146 ; BORTOLUZZI, GABRIEL ; PACHECO, LEONARDO ; RÜTHER, RICARDO . Dynamic Performance Analysis of a Distribution Feeder With a Transportable Storage System Connected. In: SWC2025 Solar World Congress 2025, 2026, Fortaleza. Proceedings of SWC2025 - ISES Solar World Congress 2025. Freiburg: International Solar Energy Society, 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18086/swc.2025.03.22"
+        },
+        {
+          "texto": "SANCHEZ, DAVID ; PINHEIRO, BRUNO ; LUGNANI, LUCAS ; AQUINO, ANTONIO F. C. ; DOTTA, DANIEL . Multiple-Case Voltage Profile Evaluation of Brazilian Interconnected Power System. In: 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024, Seattle. 2024 IEEE Power & Energy Society General Meeting (PESGM), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/PESGM51994.2024.10689243"
+        },
+        {
+          "texto": "SNAIDER, A. ; TEIXEIRA, M. V. P. ; AQUINO, Antonio Felipe da Cunha de . Aplicação da Simulação Dinâmica Híbrida no Processo de Validação de Modelos do Sistema Interligado Nacional. In: XVIII Encontro Regional Ibero-americano do CIGRE, 2023, Foz do Iguaçu. Anais do XVIII Encontro Regional Ibero-americano do CIGRE, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DOTTA, DANIEL ; SILVA, B. P. ; J. L. A. Jardim ; AQUINO, Antonio Felipe da Cunha de . Metodologia para análise de múltiplos cenários do SIN com alta penetração de geração baseada em inversores. In: XXVII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do XXVII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, JULIANA L. ; MORAES, GUIDO R. ; ISSICABA, DIEGO ; BERNARDO, RAUL T. ; AQUINO, Antonio Felipe da Cunha de . Estimação da inércia de grupos de geradores a partir de dados pós-perturbação de PMUs existentes no SIN. In: XXVII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do XXVII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D. S. ; MORAES, GUIDO R. ; I.C. Decker ; Leandro Dehon Penna ; Antonio F. C. Aquino ; ISSICABA, D. . Monitoramento dos Efeitos de Perturbações na Transmissão de Potência dos Elos HVDC do SIN a partir de Indicadores de Severidade Sistêmicos e Dados de Sincrofasores. In: SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2023, Manaus - AM. Anais do SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ULIANA, A. N. ; WILK, I. W. ; DECKER, ILDEMAR C. ; ISSICABA, DIEGO ; AQUINO, ANTONIO F.C. . Aplicação de Dados de Sincrofasores do SIN para a Obtenção de Indicadores de Afundamento Momentâneo de Tensão. In: XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. Anais do XXVI SNPTEE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MANTUANO FILHO, S. ; DINIZ, S. S. ; GASPAR, A. R. ; Amelia Y. Takarata ; CASTRO, A. ; Maria José C Ximenes ; DECKER, ILDEMAR C. ; AQUINO, ANTONIO F.C. ; ISSICABA, DIEGO ; Dotta, D. ; MORAES, GUIDO R. . Desenvolvimento de Sistema Especial De Proteção baseado em Sincrofasores para a UHE Belo Monte. In: XXVI SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. Anais do XXVI SNPTEE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO, I. S. ; TEIXEIRA, M. V. ; PELLANDA, P. C. ; AQUINO, Antonio Felipe da Cunha de ; FERNANDES, R. O. ; SARDINHA, S. L. A. . Aplicação de função de ilhamento em Sistema Especial de Proteção baseado em Unidades de Medição Sincrofasorial. In: XVI Seminário Técnico de Proteção e Controle, 2022, Rio de Janeiro. Anais do XVI Seminário Técnico de Proteção e Controle, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MANTUANO FILHO, S. ; DINIZ, S. S. ; CRUZ, M. S. ; DECKER, ILDEMAR C. ; GASPAR, A. R. ; NOHARA, A. A. ; Adriana Nakazato ; AQUINO, Antonio Felipe da Cunha de ; MOTTA, D. V. P. . Aplicação Piloto de Sincrofasores em Sistemas Especiais de Proteção. In: XV Seminário Técnico de Proteção e Controle, 2021, Rio de Janeiro. Anais do XVI Seminário Técnico de Proteção e Controle, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "NOHARA, A. A. ; AQUINO, A. F. C. ; SARDINHA, S. L. A. ; MASSAUD, A. G. ; FERNANDES, R. D. O. . Melhoria do desempenho dinâmico do SIN através das funções de estabilidade do primeiro bipolo de corrente contínua de Belo Monte. In: XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Antônio Ricardo M Tenório ; Arjan C Vinhaes ; Karina S. Herszterg ; Antonio Felipe Aquino ; Mauro P Muniz . Modelagem de compensadores estáticos de reativos para estudos de transitórios eletromagnéticos ? requisitos básicos e boas práticas para uso em estudos. In: XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Gustavo de Souza Francisco ; Antonio Felipe Aquino ; Antônio Ricardo M Tenório ; Edinoel Padovani ; Edson Ferreira de Oliveira ; Gerson Frederico C. Rocha ; Guilherme Cardoso Junior ; José Augusto Gomes ; Karina Stockler Herszterg ; Lucia Mariana S. de Abreu ; Neyl Hamilton Martelotta Soares . Integração da UHE Teles Pires ao SIN - Desafios operativos vivenciados pelo ONS. In: XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Paulo Gomes ; Sergio Luiz de Azevedo Sardinha ; Antonio Felipe Aquino ; André Della Roca Medeiros ; Mauro Muniz ; Paulo Eduardo Martins Quintão ; Arlindo Lins A. Junior ; Alonso José Torres ; Ylani Freitas ; Lilian Monteath ; Alberto Sérgio Kligerman ; Vinicius A. Parga ; Fábio Medeiros . Uma visão geral sobre as questões relacionadas com a integração e operação de usinas de energia eólica no Sistema Brasileiro Interligado. In: XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "A. R. M. Tenório ; A. A. Nohara ; AQUINO, A. F. C. . Brazilian Experience Regarding Interactions between Series Capacitors and SVCs ? Main Challenges of Tucuruí-Macapá-Manaus Interconnection Project. In: CIGRÉ Session, 2016, Paris. Proc. of 46th CIGRE Session, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Tatiana M. T. de S. Alves ; Denise B. de Oliveira ; Antônio Carlos da R. Duarte ; Alexandre G Massaud ; Antonio F. C. Aquino ; Alexandre A. Nohara . Aplicação das funções de bloqueio e disparo por oscilação (68 OSB e 68 OST) no SIN ? casos exemplos.. In: XIII Seminário Técnico de Proteção e Controle, SPTC., 2016, Brasilia. Proceedings of the XIII STPC Seminário Técnico de Proteçâo e Controle, 2016. p. 1-9.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe Aquino ; Adriano de Andrade Barbosa ; Alexadre Akio Nohara ; Antonio Padua Guarini ; Arjan Carvalho Vinhaes ; Gustavo de Souza Francisco ; João Marcos Fracischetti Ferreira ; José Augusto Gomes ; Karina Stockler Hersterg ; Leandro Dehon Penna ; Marcelo de Castro Guarini ; Marcio Leonardo Ramos Roberto ; Paulo Eduardo Martins Quintão ; Raphael Grados ; Antônio Ricardo M Tenório ; Rodrigo Villela de Faria ; Sergio Luiz de Azevedo Sardinha ; Sumara Duarte Ticom . Desafios para Escoamento da Energia do Complexo Gerador do Madeira no Horizonte do Planejamento e Programação da Operação do SIN. In: XXIII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. Anais do XXIII SNPTEE, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "P. F. Toledo ; M. F. Pinto ; A. F. C. AQUINO ; A. A. Nohara . Adapting the controls of Rio Madeira HVDC transmission systems to improve the frequency stability of generators in Jirau and Santo Antonio power plants. In: HVDC and Power Electronics International Colloquium, CIGRE Session, 2015, Agra, India. In: Proceedings of the HVDC and Power Electronics International Colloquium, CIGRE Session, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "GUARINI, A. P. ; GOMES, P. ; MUNIZ, M. P. ; SILVA, R. L. B. ; AQUINO, A.F.C. ; OLIVEIRA, A. M. S. . A evolução do Processo de Recomposição do Sistema Interligado Nacional. In: Symposium of Specialists in Operation Planning and Electrical Expansion, 2014, Foz do Iguaçu. XIII Symposium of Specialists in Electric Operational and Expansion Planning. Rio de Janeiro: CIGRÉ Brasil, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Paulo Gomes ; MARTINS, N. ; A. F. C. AQUINO ; RIBEIRO, C. ; OLIVEIRA, S. . Os Grandes Projetos de Expansão, seus Benefícios, Impactos e Desafios. In: XIII Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Foz do Iguaçu. : XIII Symposium of Specialists in Electric Operational ans Expansion Planning. Rio de Janeiro: CIGRÉ Brasil, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "B.P.S. Santos ; T.M.L. Assis ; G.N. Taranto ; I.C. Decker ; A. A. Barbosa ; A. F. C. AQUINO . Reprodução de Perturbações a Partir de Dados de Medição Fasorial Sincronizada.. In: XIII Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Rio de Janeiro. In: Proceedings of the XIII Symposium of Specialists in Electric Operational and Expansion Planning, SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Paulo Eduardo M. Quintão ; Neyl Hamilton Soares ; Renan Giovanini ; Alexandre Akio Nohara ; Adriano de Andrade Barbosa ; Gerson F. C. Rocha ; Mauro Pereira Muniz ; Antonio F. C. Aquino ; Alexandre Garcia Massaud . Detecção e Mitigação de Oscilações Mal Amortecidas no Sistema Interligado Nacional - Exploração de Medição Fasorial Sincronizada e Ferramentas de Análise Linear.. In: XIII Symposium of Specialists in Electric Operational and Expansion Planning, SEPOPE, 2014, Foz do Iguaçu. In: Proceedings of the XIII Symposium of Specialists in Electric Operational and Expansion Planning, SEPOPE, 2014. p. 1-11.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "A. R. M. Tenório ; A. F. C. AQUINO ; M. P. Muniz ; A. C. Vinhaes ; R. Vivas . Estudos de transitórios eletromagnéticos para a integração da Interligação Tucuruí ? Manaus. In: XXII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013, Brasília. Anais do XXII Seminário Nacional de Proteção e Transmissão de Energia Elétrica, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Raphael Gardos ; Leandro Dehon Penna ; Sergio Luiz de Azevedo Sardinha ; Rodrigo Villela de Faria ; Adriano de Andrade Barbosa ; Paulo Eduardo Martins Quintão ; Antonio de Pádua Guarini ; Sumara Duarte Ticom ; Antonio Felipe Aquino ; João Marcos Fracischetti Ferreira ; Marcio Leonardo Roberto Ramos ; José Augusto Gomes ; Paulo Gomes ; Mario Daher ; Mauro Muniz ; Sebastião Tarciso . Alternativas provisórias para a operação do sistema Acre e Rondônia, considerando a estação conversora back-to-back 525/300 kV, 1º bipolo 600 kV e transformador provisório 252/230 kV em paralelo CA/CC. In: XXII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013, Brasília. XXII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Antônio Ricardo M Tenório ; Daniele V. P. da Motta ; Paulo Eduardo Martins Quintão ; Leonardo C. Soares ; Eliane de Fátima Silva ; Antonio Felipe Aquino . Desafios da integração elétrica dos sistemas isolados de Manaus e Macapá ao Sistema Interligado Nacional - Interligação 500 kV Tucuruí-Macapá-Manaus. In: XXII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013, Brasília. XXII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "A. R. M. Tenório ; A. F. C. AQUINO ; M. P. Muniz . Brazilian Experience on SVC models for EMT Studies. In: CIGRÉ SC-B4 Meeting and Colloquium - HVDC and Power Electronics to Boost Network Performance, 2013, Brasilia. Proc. of CIGRÉ SC-B4 Meeting and Colloquium, Brasília, 2013, 2013. p. 1-9.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "George Emílio Régnier ; Denise Borges de Oliveira ; Nelson Pinto da Silva Jr. ; Alexandre Garcia Massaud ; Antonio Felipe da Cunha de Aquino . Ampliação do SEP da Interligação Norte-Sudeste Associada à Entrada em Operação do Segundo Circuito do Tronco de 500 kV Colinas ? Ribeiro Gonçalves ? São João do Piauí ? Milagres e da UHE de Estreito. In: XII Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2012, Rio de Janeiro. In: Proceedings of the XII Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2012. p. 0-9.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; A. C. VINHAES ; WATANABE, E. H. ; . Conexão de Sistemas Elétricos Utilizando o VFT - Transformador de Frequência Variável: Análise de Aplicações no Sistema Interligado Nacional.. In: XII Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2012, Rio de Janeiro. In: Proceedings of the XII Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2012. p. 1-10.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A.F.C. ; LIMA, A. C. S. . Modelagem e visualização de surtos em linhas de transmissão. In: SNPTEE 2001 - XVI Seminário Nacional de Transmissão e Produção de Energia Elétrica, 2011, Campinas. Proceedings of the SNPTEE 2001 - XVI Seminário Nacional de Transmissão e Produção de Energia Elétrica, 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "Maria José C Ximenes ; Sergio L. A. Sardinha ; Antonio de P. Guarini ; Helio Pessoa ; Antonio Felipe Aquino ; Amelia Y. Takarata ; Raphael Gardos ; Arnoldo R. Saavedra ; Mario Szchetman ; Paulo Fischer . Desempenho dinâmico do sistema de transmissão do complexo Rio Madeira fase do projeto básico. In: XXI SNPTT Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2011, Florianópolis. XXI SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "AREDES, M. ; DIAS, R. F. S. ; AQUINO, A. F. C. ; PORTELA, C. ; WATANABE, E. H. . Power electronics applications in bulk power transmission over long distances. In: 2010 IEEE International Symposium on Industrial Electronics (ISIE 2010), 2010, Bari. 2010 IEEE International Symposium on Industrial Electronics, 2010. p. 3757.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/isie.2010.5637680"
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Technical Benefits with Parallel Operation of TSC SHEMES - The Brazilian Experience. In: Symposium of Specialists in Operation Planning and Electrical Expansion, 2010, Florianópolis. X SEPOPE - 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; B. A. S. Silva ; A. G. Massaud ; S. E. M. Oliveira . Um critério para Estudos de Estabilidade Transitória frente a Curtos Monofásicos, na Ausência de Informações sobre a Rede de Sequência Zero. In: III Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém. III Simpósio Brasileiro de Sistemas Elétricos, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; B. A. S. Silva ; A. G. Massaud ; F. A. Viotti ; M. P. Muniz . Estratégias Organizacionais para Integração e Otimização dos Recursos das áreas de Proteção e de Estudos Elétricos. In: X SPTC - Seminário Técnico de Proteção e Controle, 2010, Recife. Proceedings of the X STPC Seminário Tecnico de Proteçâo e Controle, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "S. P. Romério ; J. I. Rossi ; A. F. C. AQUINO ; R. D. Rangel ; L. N. Levy . Representação de Geradores Eólicos Síncronos com Conversor de Frequência por Fontes de Corrente Controladas em um Programa de Cálculo de Curtos-Circuitos. In: XI Symposium of Specialists In Electric Operational and Expansion Planning, 2009, Belém. Proceedings of the XI Symposium of Specialists In Electric Operational and Expansion Planning, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; Alexandre Garcia Massaud ; David do Nascimento Gonçalves . Utilização do religamento automático tripolar lento em linhas de transmissão do SIN - Sistema Interligado Nacional: uma experiência bem sucedida.. In: XX Seminário Nacional de Transmissão e Produção de Energia Elétrica, SNPTEE, 2009, Recife. In: Proceedings of the XX Seminário Nacional de Transmissão e Produção de Energia Elétrica, SNPTEE, 2009. p. 1-8.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "George Emílio Régnier ; Denise Borges de Oliveira ; Nelson Pinto da Silva Jr. ; Alexandre Garcia Massaud ; Antonio Felipe da Cunha de Aquino . Ampliação do Esquema de Controle de Emergência por CLP da Interligação Norte-Sudeste Associada à Entrada em Operação do Terceiro Circuito desta Interligação. In: XI Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2009, Belém. Proceedings of the XI Symposium of Specialists In Electric Operational and Expansion Planning, SEPOPE, 2009. p. 0-9.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Alexandre Garcia Massaud ; Antonio F. C. Aquino . Adoção do religamento tripolar lento: benefícios para o desempenho do SIN e para concessionárias de transmissão. In: IX Seminário Técnico de Proteção e Controle, 2008, Belo Horizonte. Proc. of the IX STPC Seminário Técnico de Proteção e Controle, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "S. L. Silva Lima ; ; F. D. Jesus ; A. F. C. AQUINO ; M. S. Ndiaye . Modeling And Investigation Of The Tcsc In Brazilian North/south Interconnection. In: 9th Brazilian Power Electronics Conference (COBEP 07), 2007, Blumenau, SC. 9th Brazilian Power Electronics Conference, 2007. v. 9. p. 534-539.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "José Luiz Silva Neto ; Mamour Ndiaye ; Maurício Aredes ; Antonio Felipe Aquino ; G. Santos Jr . Modeling Of Non-linear Loads By Synchronized Current Sources And Zip Model. In: 9th Brazilian Power Electronics Conference (COBEP 07), 2007, Blumenau, SC. 9th Brazilian Power Electronics Conference (COBEP 07), 2007. v. 9. p. 563-567.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; A. G. Massaud ; A. A. Barbosa . Proteção para Perda de Sincronismo da Interligação Norte/Sul: Histórico dos Ajustes de Estratégia Adotada na Configuração Atual. In: VIII Seminário Técnico de Proteção e Controle, 2005, Rio de Janeiro. Anais do VIII Seminário Técnico de Proteção e Controle, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "George E Régnier ; Denise B Oliveira ; Alexandre G Massaud ; Antonio F. C. Aquino ; Rogério A Silva . Esquema de controle de emergência por CLP da interligação Norte/Sudeste - Centro Oeste e sistema de 500 kV assoaciado a UHE de Serra de Mesa. In: XVIII SNPTEE Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005, Curitiba. XVIII SNPTEE Seminário Nacional de Produção de Transmissão de Energia Elétrica, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "BELLAR, M.D. ; AREDES, M. ; SILVA NETO, J.L. ; ROLIM, L.G.B. ; AQUINO, F.C. ; PETERSEN, V.C. . Comparative analysis of single-phase to three-phase converters for rural electrification. In: 2004 IEEE International Symposium on Industrial Electronics, 2004, Ajaccio. 2004 IEEE International Symposium on Industrial Electronics, 2005. p. 1255.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.1109/isie.2004.1571993"
+        },
+        {
+          "texto": "BELLAR, M.D. ; AREDES, M. ; SILVA NETO, J.L. ; ROLIM, L.G.B. ; AQUINO, A.F.C. ; PETERSEN, V.C. . Single-phase static converters for rural distribution system. In: 2004 IEEE International Symposium on Industrial Electronics, 2004, Ajaccio. 2004 IEEE International Symposium on Industrial Electronics, 2005. p. 1237.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.1109/isie.2004.1571990"
+        },
+        {
+          "texto": "BELLAR, M.D. ; AREDAS, M. ; NETO, J.L.S. ; ROLIM, L.G.B. ; MIRANDA, UD.A. ; FERNANDES, R.M. ; AQUINO, A.F.C. ; PETERSEN, V.C. . Four wire single-phase to three-phase system for rural distribution network. In: 2004 IEEE 35th Annual Power Electronics Specialists Conference, 2004, Aachen. 2004 IEEE 35th Annual Power Electronics Specialists Conference (IEEE Cat. No.04CH37551). p. 1064.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1109/pesc.2004.1355568"
+        },
+        {
+          "texto": "AQUINO, A.F.C. ; SANTOS, G. ; MIRANDA, U. ; AREDES, M. ; ARAUJO, A.C.M. . Synchronizing circuits applied to nonlinear loads models. In: 2004 IEEE/PES Transmission and Distribution Conference and Exposition: Latin America, 2004, Sao Paulo. 2004 IEEE/PES Transmision and Distribution Conference and Exposition: Latin America (IEEE Cat. No. 04EX956). p. 700.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1109/TDC.2004.1432465"
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO ; BARBOSA, A. A. ; OLIVEIRA, V. R. . Experiência Brasileira com a Utilização de TCSC em circuitos paralelos. In: XI ERLAC - Undécimo Encuentro Regional Iberoamericano da CIGRÉ, 2004, Ciudad del Este. XI ERLAC - Undécimo Encuentro Regional Iberoamericano da CIGRÉ, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "I C Honório ; J. W. Marangon Lima ; A. F. C. AQUINO ; P. P. C. Mendes ; C. Ferreira ; J. C. L. Pinto ; L. V. Gomes . Sistemas Especiais de Proteção na Interligação Norte-Sul: Filosofias e Efeitos nos Limites de Intercâmbio entre Regiões. In: IX Symposium of Specialists In Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Proceedings of the IX Symposium of Specialists In Electric Operational and Expansion Planning, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "P. GOMES ; SANTOS, M. G. ; A. F. C. AQUINO . Operating the Power System Closer to Technical Limits: The Brazilian Experience. In: 40th CIGRE Session, 2004, Paris. In: Proceedings of the 40th CIGRE Session, 2004. p. 1-8.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "P. GOMES ; M. G. dos SANTOS ; A. F. C. AQUINO . Operating the Power System Closer to Technical Limit: The Brazilian Experience.. In: IX SEPOPE - Symposium of Specialists In Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Proc. of IX SEPOPE - Symposium of Specialists In Electric Operational and Expansion Planning,, 2004. p. 1-6.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; C. Portela ; A. F. C. AQUINO ; C. A. O. Peixoto . A 500 kV Soft-Switching HVDC Tap. In: 29th Session of the CIGRE, 2002, Paris. Proc. (CDROM) of the 39th Session of the CIGRÉ, 2002. p. 1-7.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO ; OLIVEIRA, V. R. ; BARBOSA, A. A. ; ALVES, S. R. M. . Métodos de Gerenciamento do Congestionamento da Transmissão e da Segurança do Sistema Elétrico - A Experiência Brasileira Parte I. In: VIII SEPOPE - Symposium of Specialists in Electric Operational and Expansion Planning, 2002. VIII SEPOPE - Symposium of Specialists in Electric Operational and Expansion Planning, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO ; OLIVEIRA, V. R. ; BARBOSA, A. A. ; ALVES, S. R. M. . Métodos de gerenciamento do congestionamento da transmissão e da segurança operativa do sistema elétrico ? A Experiência Brasileira Parte II. In: VIII SEPOPE - Symposium Of Specialists In Electric Operational And Expansion Planning, 2002, Brasília. VIII SEPOPE - Symposium Of Specialists In Electric Operational And Expansion Planning, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; C. Portela ; C. A. O. Peixoto ; A. F. C. AQUINO . Small power tapping from HVDC transmission systems. In: 19th CIGRÉ Session, 2002, Paris. Proceedings of the 39th CIGRE Session, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; ; C. Portela ; E. Watanabe . Um TAP HVDC de Chaveamento Suave. In: IX ERLAC ? Encontro Regional Latino-Americano da Cigré, 2001, Foz do Iguaçu. Proc. (CDROM) of the IX ERLAC ? IX Encontro Regional Latino-Americano da Cigré, 2001. p. 1-6.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; . Análise de um Novo Tap HVDC de Chaveamento Suave. In: CBA 2000 - XIII Congresso Brasileiro de Automática, 2000, Florianópolis. Proceedings of the CBA 2000 - XIII Congresso Brasileiro de Automática, 2000. p. 1968-1973.",
+          "ano": 1973,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "AQUINO, ANTONIO FELIPE . Projeto Belo Monte - Desafios da operação do primeiro bipolo de 800 kV no Sistema Interligado Nacional. 2018. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, ANTONIO FELIPE ; TICOM, SUMARA DUARTE . Experiência Operacional do Projeto Madeira. 2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A.F.C. . Estabilidade transitória e aplicações do programa ANATEM. 2010. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio Felipe da Cunha de Aquino ; Gustavo de Souza Francisco ; Karina Stockler Herszterg . Estudos pré-operacionais para integração do Complexo Solar Guaimbê. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "José Mario Mamfrin Capano Junior ; Antonio Felipe da Cunha de Aquino ; Mauro Muniz . Validação dos dados e modelos dos equipamentos e dos controladores associados à UG01 da UHE Belo Monte, a partir dos resultados dos testes de comissionamento. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio Felipe da Cunha de Aquino ; Karina Stockler Herszterg ; Lucia Mariana S. de Abreu . Estudos pré-operacionais para integração das UFV Pirapora V, VI, VII, IX e X. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino . Estudos pré-operacionais para integração da UHE Belo Monte e Sistema de transmissão CCCAT associado. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "José Mario Mamfrin Capano Junior ; Gustavo de Souza Francisco ; Antonio Felipe da Cunha de Aquino ; Mauro Pereira Muniz . Estudo pré-operacional para integração da UTE Mauá 3 ao SIN. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio Felipe da Cunha de Aquino ; Adriano de Andrade Barbosa ; Alexandre Akio Nohara ; Leonardo Côrtes Soares ; Vinicius Amante Pineschi . Estudos pré-operacionais para integração da UHE Belo Monte ao Sistema Interligado Nacional. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Adriano de Andrade Barbosa ; Gustavo de Souza Francisco ; Lúcia Mariana de Souza de Abreu ; Antonio Felipe da Cunha de Aquino ; Edson Ferreira de Oliveira ; Guilherme Cardoso Junior ; Victor Rodrigues Borges Bonfim ; Vinicius Amante Pineschi . Estudos pré-operacionais para integração da UHE Teles Pires em conexão provisória ao SIN. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino . Estudos pré-operacionais para integração do complexo gerador do Rio Madeira considerando a entrada em operação do 2o bipolo. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Muniz ; Antonio Felipe da Cunha de Aquino ; Alexandre Akio Nohara ; Antonio Ricardo de Mattos Tenorio ; Daniele V. P. da Motta ; Luciana Mariana de Souza ; Edson Ferreira de Oliveira ; Guilherme Cardoso Junior ; Vinicius Amante Pineschi ; Victor Rodrigues Borges Bonfim . Estudos pré-operacionais para integração da LT 500 kV Mesquita-Viana. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio ; Alexandre Garcia Massaud ; Alexandre Akio Nohara ; Leonardo Côrtes Soares ; Guilherme Cardoso Junior ; Edson Ferreira de Oliveira ; Victor Rodrigues Borges Bonfim ; Saulo Jose Nascimento Cisneiros ; Arlindo Lins A. Junior ; Felipe Rodrigues Sobral ; Mônica Falcão Souto ; Mario Jorge Daher ; Sumara Duarte Ticom ; Eliane de Fátima Silva . Estudos para reavaliação do esquema regional de alívio de carga das regiões Norte e Nordeste. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Neyl Hamilton Martelotta Soares ; Antonio Felipe da Cunha de Aquino . Estudos pré-operacionais para entrada em operação da UTE Baixada Fluminense no Sistema Interligado Nacional. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio Felipe Aquino ; Antonio de Pádua Guarini ; Adriana Nakazato ; Carlos Marcelo A. Jimenez ; Alexandre Akio Nohara . Estudos para definição de procedimento alternativo para recomposição de parte das cargas das áreas Sudoeste e Sul pela interligação Sudeste-Nordeste. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Muniz ; Antonio ; Antônio Ricardo M Tenório ; Daniele de V. Pereira da Motta ; Leonardo Côrtes Soares ; Mariana Marçal P. de Souza ; Paulo Eduardo M. Quintão . Estudos pré-operacionais associados à interligação em 500 kV Tucuruí-Macapá-Manaus. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Antonio Felipe da Cunha de Aquino ; Antonio Ricardo de Mattos Tenorio ; Arjan Carvalho Vinhaes ; Karina Stockler Herszterg . Estudos pré-operacionais para integração dos transformadores conversores associados ao Bipolo 1 da SE Araraquara 2. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; A. F. C. AQUINO ; GARDOS, R. ; SARDINHA, S. L. A. . Estudos operativos bipolos para integração da UHE Santo Antonio até a entrada em operação do 1. 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Adriano de Andrade Barbosa ; Alexandre Akio Nohara ; Antonio Felipe da Cunha de Aquino ; Alexandre Garcia Massaud . Estudos pré-operacionais associados à LT 525 kV Cascavel Oeste/Foz do Iguaçu. 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SARDINHA, S. L. A. ; A. F. C. AQUINO . Pontos Estratégicos do Sistema Interligado Brasileiro - Ações Mitigadoras. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; Roberval Madeira da Silva ; Alexandre Garcia Massaud ; George Emílio Régnier . Controladores lógicos programáveis para as interligações N/SE e SE/NE e sistema de 500 kV associado à UHE S. Mesa. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Alexandre Garcia Massaud ; Antonio Felipe da Cunha de Aquino ; Antonio Ricardo de Mattos Tenorio ; Henildo Medeiros de Barros ; Renata Ribeiro Silva ; Guilherme Cardoso Junior ; Tatiana M. T. de S. Alves ; Claudio Amorim Guimarães ; Arlindo Lins A. Junior ; Claudia Maria Carrico de Lima Menezes . Estudos pré-operacionais associados à SE Miranda II (seccionamento da LT 500 kV P. Dutra/ S. Luis II C1/C2 e ATR 500/230 kV - 450 MVA. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Mauro Pereira Muniz ; Alexandre Garcia Massaud ; Antonio Felipe da Cunha de Aquino ; Antonio Ricardo de Mattos Tenorio ; Arjan Carvalho Vinhaes ; Daniele de V. Pereira da Motta ; Henildo Medeiros de Barros ; Lúcia Mariana de Souza de Abreu ; Mario Jorge Daher ; Rogério A Silva ; Eliane de Fátima Silva ; Frederico Garcia Cavalcante ; Leandro Dehon Penna ; Francisco Jose Arteiro de Oliveira ; Sebastião Tarciso Ferreira ; José de Alencar Silva Junior ; Ricardo da Silva Gomes ; Saulo Jose Nascimento Cisneiros ; Sandra Maria Maciel Pontes ; Alécio Barreto Fernandes ; et.al . Estudos pré-operacionais associados às LT 500 kV Colinas/R. Gonçalves/ São João do Piauí C2 e São João do Piauí/ Milagres. 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; Adriano de Andrade Barbosa ; Venilton Rodrigues de Oliveira ; João Paulo Rodrigues Pinheiro ; José Mario Mamfrin Capano Junior . Estudos pré-operacionais associados à UHE Castro Alves. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; João Paulo Rodrigues Pinheiro ; Marcio Leonardo Ramos Roberto ; Michel dos Santos Moreale ; Sumara Duarte Ticom . Força tarefa para validação da ferramenta Radar Dinâmico do Organon. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; Mariana Marçal P. de Souza ; Alexandre Garcia Massaud ; George Emílio Régnier . Controladores lógicos programáveis para as interligações N/SE e SE/NE e Sistemas de 500 kV associados à UHE S. Mesa. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SARDINHA, S. L. A. ; A. F. C. AQUINO . Estudos pré-operacionais associados à LT 525 kV Ivaiporã - Londrina C2 - Síntese Gerencial. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "VALGAS, H. M. ; GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Estudos Pré-operacionais da LT 345 kV Montes Caros-Irapé e UHE Irapé - Aspectos Relacionados ao Fechamento de Anéis, Rejeição de Carga e Religamento Automático Monopolar. 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Estudos pré-operacionais LT 525 kV Lodrina - Assis - Araraquara : Indisponibilidade x emergências. 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Novos ajustes da proteção para perda de sincronismo da interligação Norte/Sudeste - Centro-Oeste, considerando o circuito 2 entre Serra da Mesa e Imperatriz em operação. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Operação conjunta dos TCSC da interligação Norte/Sul. Recomendações quanto a modificações a serem implementada por Furnas e Eletronorte nas subestações de Serra da Mesa e Imperatriz. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; SANTOS, M. G. ; A. F. C. AQUINO . Estudos Pré-Operacionais associados à Interligação Norte/Sul II - Sistemas Especiais de Proteção. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino . Operação conjunta dos TCSC da Inteligração Norte/Sul. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, P. ; A. F. C. AQUINO . Síntese dos estudos pré-operacionais associados à UHE Lageado. 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "AQUINO, A. F. C. . HVDC - Transmissão em Corrente Contínua Princípios da conversão CA/CC. 2013. (Curso de curta duração ministrado/Outra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; SANTOS JR, G. ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye ; . Projeto Piloto Arsenal ? Consumidor Industrial Aloés Fraldas. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; SANTOS JR, G. ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye ; . Banco de Dados sobre Qualidade e Projetos Pilotos Consumidores Industriais. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; G. Santos Jr ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye ; . Banco de Dados sobre Qualidade e Projetos Pilotos Consumidores Comerciais. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; G. Santos Jr ; J. L. S. Neto ; M. S. Ndiaye ; . Banco de Dados sobre Qualidade e Projetos Pilotos Consumidores Residenciais. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; G. Santos Jr ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye . Modelos Digitais para Cargas Industriais. 2004. (Relatório de pesquisa).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye . Requisitos Técnicos da Medição de Grandezas Elétricas para o Desenvolvimento de Modelos Digitais de Cargas Não-Lineares no PSCAD/EMTDC. 2004. (Relatório de pesquisa).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye ; G. Santos Jr . Modelos Digitais para Cargas Comerciais. 2004. (Relatório de pesquisa).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye ; G. Santos Jr . Modelos Digitais para Cargas Residenciais. 2004. (Relatório de pesquisa).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "Maurício Aredes ; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye . Modelagem de Redes de Distribuição. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye . Especificação de um Medidor de Qualidade de Energia Elétrica para a realização das Medições de Campo. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; L. G. B. Rolim ; J. L. S. Neto ; M. D. Bellar ; R. M. Fernandes ; A. F. C. AQUINO ; U. A. Miranda . Testes Iniciais do Protótipo do Conversor para Eletrificação Rural. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. L. S. Neto ; L. G. B. Rolim ; M. S. Ndiaye . Especificação de um Programa para Simulação de Fenômenos de Qualidade de Energia Elétrica em Sistemas Elétricos de Média e Baixa Tensão. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; L. G. B. Rolim ; J. L. S. Neto ; A. F. C. AQUINO ; M. D. Bellar . Parte 2: Detalhamento do Sistema de Controle do Conversor. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; L. G. B. Rolim ; J. L. S. Neto ; A. F. C. AQUINO ; M. D. Bellar . Parte 1: Especificação Preliminar do Protótipo. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; L. G. B. Rolim ; J. L. S. Neto ; A. F. C. AQUINO ; M. D. Bellar . Estudo Comparativo das Topologias Mono-Tri e Seleção da Topologia a ser Construída. 2003. (Relatório de pesquisa).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; A. F. C. AQUINO ; J. C. Aguiar . Substituição de Lâmpadas Incandescentes por Lâmpadas Fluorescentes de Baixo Consumo: Avaliação do Impacto no Sistema de Distribuição. 1999. (Relatório de pesquisa).",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "TARANTO, G.; ASSIS, T. M. L.; MASSERAN, T. J.; AQUINO, A. F. C. . Participação em banca de Bruno Pestana Rosa. Monitoração da Inércia Efetiva por meio de Medição Fasorial Sincronizada. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, K. M. E.; BAINY, R. G.; AQUINO, ANTONIO F.C. . Participação em banca de Glaufe Santos de Oliveira. HVDC Converter Transformers Protection - Differential Function Assessment. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FALCAO, D. M.; TARANTO, G. N.; AQUINO, A.F.C. ; J. L. A. Jardim. Participação em banca de Eduardo Nunes Teich. Avaliações do Desempenho Dinâmico de Sistemas de Armazenamento de Energia em Baterias com Tecnologias Grid Following e Grid Forming no Sistema Interligado Nacional. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "TOMIM, M. A.; PASSOS FILHO, J. A.; Antonio F. C. Aquino . Participação em banca de Ricardo Proba Fava. Estratégia de Simulação de Transitórios Eletromecânicos com Emprego de Unidades de Simulação Funcional e OpenDSS. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PELLANDA, P. C.; TEIXEIRA, M. V. P.; Antonio F. C. Aquino ; J. L. A. Jardim. Participação em banca de Igor Siqueira Cardoso. Síntese de funções para ilhamento em Sistema Especial de Proteção baseada em Unidades de Medição Sincrofasoral. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Instituto Militar de Engenharia.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, F. D.; MELO, F. C.; SILVA, K. M. E.; AQUINO, F. C. . Participação em banca de Jefferson Carlos Tavares Oliveira de Lima. Implementação de Modelagem e Solução de Sistemas de Corrente Contínua em Alta Tensão no Programa de Fluxo De Potência CA MATPOWER. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de Brasília.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PRIOSTE, F. B.; DE AQUINO, ANTONIO FELIPE DA CUNHA . Participação em banca de Gérson Vieira Martinez. Análise de Ocorrências e Desempenho da Proteção de Linhas de Transmissão de Extra Alta Tensão através da Modelagem e Simulação Computacional de Um Relé de Proteção Digital. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "G.N. Taranto; A. F. C. AQUINO ; ORLANDE, H. R. B.. Participação em banca de Leon Marcel Oliveira de Mesquita. Modelagem de Reguladores de Velocidade e Turbinas Térmicas para Estudos de Ilhamento de uma Planta Industrial. 2023. Dissertação (Mestrado em UFRJ COPPE-PEE Programa de Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R.; Antonio F. C. Aquino . Participação em banca de Rodrigo Vaz Pina Cabral Silva. Aplicação de Analytical Target Cascading para solução de problemas de Unit Commitment hidrotérmico. 2022. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Dotta, D.; OLIVEIRA, R. C. L. F.; AQUINO, ANTONIO F.C. . Participação em banca de Moisés Martins do Nascimento. Controle Secundário de Tensão Baseado em Dados usando Medições de PMU. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; AQUINO, ANTONIO F.C. ; Kuiava, R.. Participação em banca de Tarcísio Pollnow Krüger. Detecção e Localização de Oscilações Forçadas em Sistemas Elétricos de Potência. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Dotta, D.; A. F. C. AQUINO ; J. L. A. Jardim. Participação em banca de Bruno Pinheiro da Silva. Avaliação de Metodologias para a Estimação da Resposta de Frequência de Sistemas Elétricos de Potência. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PRADA, R. B.; A. F. C. AQUINO ; Dotta, D.; André Della Roca Medeiros. Participação em banca de Luiz Felipe Ferreira Marques da Silva. Quantificação e Análise das Taxas de Variação de Frequência no Sistema Interligado Nacional Considerando a Expansão de Geração Eólica e Fotovoltaica. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "I.C. Decker; ANTONIO F. C. AQUINO ; Dotta, D.; ISSICABA, D.. Participação em banca de Juliana Luiza Pereira. Identificação de oscilações eletromecânicas: Estudos de aplicação em dados de ambiente de sistemas reais de grande porte. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; PRIOSTE, F. B.; ANTONIO F. C. AQUINO ; COSTA, A. J. A. S.. Participação em banca de Lívia Fonseca Ribeiro. Metodologia de detecção de faltas de alta impedância e descargas atmosféricas em redes de distribuição a partir dos sinais trifásicos de tensão da saída da subestação. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; ANTONIO F. C. AQUINO ; Machado, R. H. S.; Sales, W.; I.C. Decker. Participação em banca de Sandy Tondolo de Miranda. Introdução do conceito de flexibilidade na avaliação da reserva operacional de longo prazo. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Silva, A. S.; COSTA, A. J. A. S.; AQUINO, A.F.C. ; Kuiava, R.; MORETO, M.. Participação em banca de Gisllane Santos de Oliveira. Sistema de Potência com Geração Fotovoltaica Centralizada: Análise de Estabilidade a Pequenas Perturbações e Projeto de Controle. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; I.C. Decker. Participação em banca de Palloma Graziely Santos Araujo. Validação de Modelos e Detecção de Erros de Modelagem em Sistemas Elétricos Utilizando Medição Fasorial e Simulação Dinâmica Híbrida. 2019. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ZURN, H. H.; AQUINO, A. F. C. ; MORETO, M.. Participação em banca de Vitor Antunes. Desempenho dinâmico e controle de oscilações eletromecânicas em sistemas HVDC Multi-Infeed. 2019. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; SALGADO, R. S.; COSTA, A. J. A. S.. Participação em banca de Diogo Vinícius João. Proteção Adaptativa em Microrredes de Média Tensão Formadas exclusivamente por Conversores Eletrônicos: Uma abordagem baseada em medição centralizada de tensão. 2019.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "RAMOS, R. A.; ANTONIO F. C. AQUINO ; GEHRKE, C. S.; TARANTO, G.; LONDON JUNIOR, J. B. A.. Participação em banca de Maiara Camila Oliveira. Avaliação Probabilística da Margem de Segurança de Tensão Considerando Incertezas de Fontes Intermitentes de Geração. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; MARAFAO, F. P.; MOIA, J.; HELDWEIN, M. L.. Participação em banca de Matheus Schramm Dall'Asta. Metodologia para Projetos de Controladores de Frequência em Sistemas de Conversão de Energia Eólica Offshore com Processamento Total de Energia Conectados a Redes Isoladas. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "L. G. B. Rolim; FRANCA, B. W.; SUEMITSU, W. I.; TAVARES, M. C. D.; AQUINO, Antonio Felipe da Cunha de . Participação em banca de Diego de Souza de Oliveira. An Analysis on the VSC-HVDC Contribution for the Static Voltage Stability Margin and Effective Short Circuit Ratio Enhancement in Hybrid Multi-Infeed HVDC Systems. 2023. Tese (Doutorado em UFRJ COPPE-PEE Programa de Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "Kuiava, R.; OLIVEIRA, R. V.; Antonio F. C. Aquino . Participação em banca de Hugo Menezes Barra. Controle Robusto Paramétrico com Compensação de Atrasos Variantes para o Amortecimento de Oscilações Eletromecânicas em Sistemas de Potência. 2022. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "Dotta, D.; ISSICABA, D.; Antonio F. C. Aquino . Participação em banca de Guilherme Pereira Albino da Silva. Classificação e Predição da Estabilidade de Frequência via GNN e Interpretabilidade. 2024. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Dotta, D.; Alberto, L. F. C.; AQUINO, A. F. C. . Participação em banca de Bruno Pinheiro da Silva. Avaliação de Metodologias Baseadas em Dados para Estimação de Inércia em Sistema de Potência. 2020 - Universidade Estadual de Campinas.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "items": [
+        {
+          "texto": "TEIXEIRA, M. V. P.; AQUINO, A.F.C. ; Antonio Ricardo de Mattos Tenorio. Participação em banca de Rodrigo Callegaro Bernardi. Análise e Desafios da Falha de Comutação no Sistema HVDC do Bipolo 2 de Belo Monte ? Xingu ? Terminal Rio. 2025. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação em Proteção de Sistemas Elétricos) - Instituto Militar de Engenharia.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA, M. V. P.; DOBBIN, T. M. C. V. C.; A. F. C. AQUINO . Participação em banca de Leonardo Costa dos Santos. Benefícios do VSC MMC e Desafios para Proteção de Falta em seus Equipamentos em Corrente Contínua. 2024. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação em Proteção de Sistemas Elétricos) - Instituto Militar de Engenharia.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA, M. V. P.; A. F. C. AQUINO ; MOUCO, A. C.. Participação em banca de Vittorio Torres Missagia. Verificação de utilização da tecnologia de Medição Sincronizada de Fasores na monitoração da estabilidade do SIN ? Caso Nordeste/Sudeste. 2024. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação em Proteção de Sistemas Elétricos) - Instituto Militar de Engenharia.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA, M. V. P.; AQUINO, Antonio Felipe da Cunha de ; LAGE, F. R.. Participação em banca de Andre Snaider. Aplicação da Simulação Dinâmica Híbrida no Processo de Validação de Modelos do Sistema Interligado Nacional. 2022. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação em Proteção de Sistemas Elétricos) - Instituto Militar de Engenharia.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PELLANDA, P. C.; TEIXEIRA, M. V. P.; AQUINO, Antonio Felipe da Cunha de . Participação em banca de Clara Rodrigues Villela. Benefícios da Utilização da Medição de Sincrofasores por Agentes de Geração sob o Ponto de Vista da Proteção. 2022. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação em Proteção de Sistemas Elétricos) - Instituto Militar de Engenharia.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, L. L.; CALILI, R. F.; AQUINO, A. F. C. . Participação em banca de Claudia Alves Lins. Parcela Variável por Indisponibilidade ? PVI: avaliação dos critérios para apuração baseados na regulamentação da ANEEL e um breve histórico dos impactos nas atividades de Tempo Real do ONS. 2013. Monografia (Aperfeiçoamento/Especialização em IAG Master em Desenvolvimento Gerencial) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, L. L.; COSTA, A. S. M.; AQUINO, A.F.C. . Participação em banca de João Marcos Santos Correia. O funcionário cidadão de sua empresa e a função social das corporações. 2013. Monografia (Aperfeiçoamento/Especialização em IAG Master em Desenvolvimento Gerencial) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "A. F. C. AQUINO ; CAUS, A. P.; ANTUNES, V.; ROTHSTEIN, O. J.. Participação em banca de Alexandre Schwanck Vieira.Análise da Contribuição de Sistemas de Armazenamento em Baterias na Estabilidade de Frequência e no Perfil de Tensão de Parques Eólicos. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; MORETO, M.; CAUS, A. P.. Participação em banca de Luiz Fernando Flores.Análise e verificação da resistência isolação em usinas fotovoltaicas: metodologia, testes e lições aprendidas. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; DALL?ASTA, M. S.; J. L. A. Jardim. Participação em banca de Pedro Afonso Vasconcellos Rolim,.Implementação e Validação de um Sistema Equivalente Contemplando um Elo HVDC-VSC Tipo Embutido na Ferramenta Organon. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A.F.C. ; ISSICABA, D.; LUZ, G. S.; SILVA, D. S.. Participação em banca de Maria Antônia Schüler Vieira.Aplicação de indicadores de severidade baseados em sincrofasores para quantificação dos efeitos de falhas de comutação no desempenho dinâmico do Sistema Interligado Nacional. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A.F.C. ; FINARDI, E. C.; BOLACELL, G. S.. Participação em banca de Alexandre Silva Barbaresco.A Integração das Fontes de Energia Renovável Variável (FERVs) no SIN: curtailment e seus efeitos para os agentes de geração. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D. S.; A. F. C. AQUINO ; ISSICABA, D.. Participação em banca de Gabriel Schäfer Bendo.Desenvolvimento de Modelo de Unidade de Medição Fasorial para Programa de Simulação tipo EMT. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "A. F. C. AQUINO ; FINARDI, E. C.; NOHARA, A. A.; RIBAS, R.. Participação em banca de Pedro Bellani Paladini.Utilização das Cargas de Data Centers de Mineração de Bitcoin para Ampliação da Flexibilidade Operacional do Sistema Interligado Nacional. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "HIRASSAKI, V.; NASPOLINI, H. F.; A. F. C. AQUINO . Participação em banca de Lucas Hack de Souza Neto.Avaliação em regime permanente do impacto da geração fotovoltaica no perfil de tensão diário de um alimentador da rede de distribuição - Caso de estudo: Alimentador real da região metropolitana de Florianópolis. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FINARDI, E. C.; AQUINO, A. F. C. ; LOSS, A. P.. Participação em banca de Émillyn Cristina Caon Silva.Análise de Viabilidade Técnica e Econômica de Migração para o Mercado Livre de Energia. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; ALMEIDA, K. C.; SENNA, F. S.. Participação em banca de Ricardo Pereira.Aplicação da Metodologia de Região de Segurança no Planejamento Elétrico: Análise da Integração da SE 525 kV Gaspar 2. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; ISSICABA, DIEGO; MOTTA, D. V. P.. Participação em banca de Gustavo Luiz Rodrigues Pavanati.A Importância do Uso de Simuladores para o Aprimoramento da Recomposição de Subestações Telecomandadas do Sistema Interligado Nacional. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; ISSICABA, D.; MORAES, GUIDO R.. Participação em banca de Hugo Nobrega Raffi.Efeito da Inércia Sintética no Desempenho da Regulação de Frequência do SIN. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; MORAES, GUIDO R.; PEREIRA, JULIANA L.. Participação em banca de Lucas Lorensi.Implementação de protótipo de ambiente para convergência de dados de sincrofasores e de oscilografias e análise de eventos no Sistema Interligado Nacional. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; MORETO, M.; BOLACELL, G.. Participação em banca de Teodora Giacomazzi.Monitoramento de Buchas de Alta Tensão como Estratégia de Prevenção de Falhas em Transformadores de Potência por meio da Utilização de um Centro de Monitoramento de Ativos. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; MORETO, M.; ANTUNES, V.. Participação em banca de Beatriz Vieira Reitz,.Análise de Efeitos de Controles de Planta de Usinas Eólicas e Fotovoltaicas no Desempenho Dinâmico de Sistemas de Potência. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A.F.C. ; Silva, A. S.; LOBO, L. B.. Participação em banca de Eduardo Dellagnelo Farias.Estudo do uso de métricas como recurso para validação de modelos de simulação de componentes no SIN: estudo de caso de um sistema de excitação de unidade geradora de usina hidrelétrica. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; ISSICABA, DIEGO; ANTUNES, V.. Participação em banca de João Pedro Schmitz de Souza.Avaliação do desempenho da regulação primária de frequência por meio de unidades de medição de sincrofasores (PMUs). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; ISSICABA, D.; MORAES, GUIDO R.. Participação em banca de Giovane Faria de Souza.Análise de efeitos da expansão da geração renovável não convencional no desempenho do controle de frequência do Sistema Interligado Nacional. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; MORETO, M.; MANTUANO FILHO, S.. Participação em banca de Igor Wagner Wilk.Estudo e aplicação de medição sincronizada de fasores em Sistemas Especiais de Proteção. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, Antonio Felipe da Cunha de ; COSTA, A. J. A. S.; MENEZES, H. H. X. M. E.. Participação em banca de Vinicius de Bem Sousa.Integração de Empreendimentos no Sistema Interligado Nacional sob o ponto de vista dos Procedimentos Operativos do Operador Nacional do Sistema Elétrico. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; MORETO, M.; PAVAN, A. P.. Participação em banca de Artur Ferrari Fernandes.Estudo de Caso de Acesso ao Sistema Interligado Nacional de uma Usina Eólica. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ANTONIO F. C. AQUINO ; FINARDI, ERLON C.; AMBRÓSIO, BRYAN A.S.. Participação em banca de Bruno Muratori Seibel.Ações estruturais, operacionais e econômicas no contexto do Sistema Interligado Nacional, impulsionadas por períodos de baixa afluência no Brasil. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. J. A. S.; ASCARI, L. B.; Antonio F. C. Aquino . Participação em banca de Matheus Soares Marco.Estratégias para Dimensionamento e Aplicação de Buffer de Medidas Fasoriais no Aprimoramento da Estimação Híbrida de Estados em Sistemas de Potência?. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; ROSA, M. A.; BIZON, E. G. A.. Participação em banca de Alexssander de Souza Camassola.Usinas de Autorrestabelecimento do Sistema Interligado Nacional: requisitos de desempenho e ensaios para verificação de conformidade. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; LAZZARIN, T. B.; ALBUQUERQUE, A. N. C.. Participação em banca de Luiz Felipe Pfleger.Requisitos de desempenho dinâmico do controle de tensão no SIN: estudo de caso de uma usina fotovoltaica. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; PEREIRA, JULIANA L.; CASAMALI, DALTON FELLIPE. Participação em banca de Clenio Goulart de Souza Neto.Análise da Contribuição da Energia das Baterias dos Veículos Eletrificados para o Controle de Frequência do Sistema Elétrico. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; ISSICABA, D.; DECKER, ILDEMAR C.; Agostini, M. N.; Oliveira, F. A.. Participação em banca de Alessandra Nazi Uliana.Análise da utilização de dados de sincrofasores para obtenção de indicadores de afundamentos momentâneos de tensão. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; SILVA, D.; AQUINO, A. F. C. . Participação em banca de Jonattan Alves de Carvalho.Modelagem e Controle de um robô do tipo pêndulo invertido utilizando aprendizado por reforço. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, ANTONIO F. C. ; PACHECO, R. L.; PEREIRA, JULIANA L.. Participação em banca de Ricardo Klöppel Rosa.Diagnóstico Energético por Imersão: O processo de elaboração. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; MORETO, M.; AQUINO, ANTONIO F.C. . Participação em banca de Lucas Jardim Silva.Análise e simulação de intervenções em instalações do Sistema Interligado Nacional. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; AQUINO, ANTONIO F.C. ; COUTO, V. F.. Participação em banca de André Vinícius Mascarenhas Santos.Impactos da Conexão de Geração Distribuída Baseada em Conversores Eletrônicos em Situações de Curto-circuito. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; MORETO, M.; AQUINO, ANTONIO F.C. ; BOLACELL, G.. Participação em banca de Gustavo Bittencourt.Estudo da Compensação Reativa e das Manobras de Religamento Monopolar em Linhas de Transmissão. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Silva, A. S.; AQUINO, ANTONIO F.C. ; GRILLO, L. O. S.. Participação em banca de Bruno Maciel Machado.Ensaios em reguladores de tensão de geradores com sinais externos aplicados ao transformador de potencial: concepção, análise, implementação e testes de campo. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, ANTONIO F.C. ; MORETO, M.; GAVIOLI, G. A.. Participação em banca de Vinicius Pravinchandra Shah.Um Estudo de Caso do Fenômeno da Lenta Recuperação da Tensão no Sistema Interligado Nacional. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C.; ISSICABA, D.; MOURINHO, F. A.. Participação em banca de Henrique Pederneiras dos Guaranys.Sistemas CCAT em Configuração Multi-Infeed: Operação em Regime Normal e Durante Falhas de Comutação. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; Antonio F. C. Aquino ; CIESLAK, D. A. G.. Participação em banca de Leonardo Martins Kattah.Análise da atuação da proteção anti-ilhamento ?Salto de Vetor? em geradores distribuídos síncronos durante eventos sistêmicos no Sistema Elétrico de Potência. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio F. C. Aquino ; ISSICABA, DIEGO; MORETO, M.; GASPAR, A. R.; MORAES, GUIDO R.. Participação em banca de Victor Vieira da Freiria.Análise do Sistema Especial de Proteção da UHE Belo Monte e do sistema HVDC associado, sob o ponto de vista da estabilidade transitória. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; ISSICABA, D.; André Della Roca Medeiros. Participação em banca de Rafael Soares Gomes.Efeitos da expansão da microgeração solar no desempenho do controle da frequência elétrica durante perturbações. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; BOLACELL, G.; ISSICABA, D.; Antonio Felipe da Cunha de Aquino . Participação em banca de Bernardo Boing Robl.Sensoriamento óptico da tração mecânica de linhas de transmissão. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BISPO, B. C.; ZURN, H. H.; Antonio Felipe da Cunha de Aquino . Participação em banca de Ana Beatriz Rodrigues Costa de Mattos.Avaliação da capacidade de estatísticas de distribuições da proeminência do pico cepstral de vogais sustentadas em distinguir disfonia hipercinética, disfonia hipocinética e laringite causada por refluxo. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "AQUINO, A. F. C. ; ISSICABA, D.. Participação em banca de André Macagan.Estratégias de Validação de Modelos de Simulação Dinâmica de Sistemas Elétricos Utilizando Sincrofasores. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; ISSICABA, D.; AQUINO, A. F. C. . Participação em banca de Rafael Eduardo Graefling.Integração de uma Estação Meteorológica a um Sistema de Potência para Suporte ao Monitoramento da Ampacidade de uma Linha de Transmissão. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Antonio Felipe da Cunha de Aquino ; SILVA, E. L. G.; FINARDI, E. C.; ALMEIDA, K. C.. Participação em banca de Danilo Ramos Oliveira.Análise da viabilidade de migração de consumidores de energia elétrica para o Mercado Livre. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "AREDES, M.; BORGES, C. L. T.; ROLIM, L.G.B.; AQUINO, A. F. C. . Participação em banca de Maynara Azevedo Aredes.Análise do Potencial Eólico no Litoral do Rio Grande do Norte. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

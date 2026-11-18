@@ -1,0 +1,633 @@
+{
+  "name": "Angelo Márcio Formiga de Almeida",
+  "lattes_id": "6353140630152661",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Alocação e configuração de bancos de capacitores utilizando um algoritmo Multiobjetivo NSGA-II",
+          "autores": "SANTOS, FELIPE SANTANA ; SOUSA, ANDRÉA ARAÚJO ; ALMEIDA, ANGELO MÁRCIO FORMIGA DE",
+          "periodico": "Brazilian Journal of Development , v. 8, p. 55681-55695, 2022.",
+          "doi": "http://dx.doi.org/10.34117/bjdv8n8-066",
+          "citacao_completa": "SANTOS, FELIPE SANTANA ; SOUSA, ANDRÉA ARAÚJO ; ALMEIDA, ANGELO MÁRCIO FORMIGA DE . Alocação e configuração de bancos de capacitores utilizando um algoritmo Multiobjetivo NSGA-II. Brazilian Journal of Development , v. 8, p. 55681-55695, 2022."
+        },
+        {
+          "ano": 2010,
+          "titulo": "",
+          "autores": "de Souza, Benemar Alencar ; de Almeida, Angelo Márcio Formiga",
+          "periodico": "IEEE Transactions on Power Systems , v. 25, p. 1274-1281, 2010.",
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2010.2042734",
+          "citacao_completa": "de Souza, Benemar Alencar ; de Almeida, Angelo Márcio Formiga . . IEEE Transactions on Power Systems , v. 25, p. 1274-1281, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Alocação e Ajuste Ótimos de Dispositivos FACTS em Sistemas de Distribuição de Energia Elétrica Utilizando Algoritmos Genéticos",
+          "autores": "SOUSA, A. A. ; de Almeida, Angelo Márcio Formiga ; ARAUJO, R. D.",
+          "periodico": "In: XI Conferência Brasileira sobre Qualidade de Energia Elétrica, 2015, Campina Grande/PB. XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015) , 07 a 10 de julho de 2015, 2015.",
+          "doi": "",
+          "citacao_completa": "SOUSA, A. A. ; de Almeida, Angelo Márcio Formiga ; ARAUJO, R. D. . Alocação e Ajuste Ótimos de Dispositivos FACTS em Sistemas de Distribuição de Energia Elétrica Utilizando Algoritmos Genéticos. In: XI Conferência Brasileira sobre Qualidade de Energia Elétrica, 2015, Campina Grande/PB. XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015) , 07 a 10 de julho de 2015, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Modelo do Dispositivo FACTS STATCOM para o Método da Soma de Potências",
+          "autores": "SOUSA, A. A. ; de Almeida, Angelo Márcio Formiga ; CARVALHO, C. S.",
+          "periodico": "In: XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015), 2015, Campina Grande/PB. XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015) Campina Grande/PB, 07 a 10 de julho de 2015, 2015.",
+          "doi": "",
+          "citacao_completa": "SOUSA, A. A. ; de Almeida, Angelo Márcio Formiga ; CARVALHO, C. S. . Modelo do Dispositivo FACTS STATCOM para o Método da Soma de Potências. In: XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015), 2015, Campina Grande/PB. XI Conferência Brasileira sobre Qualidade de Energia Elétrica (CBQEE 2015) Campina Grande/PB, 07 a 10 de julho de 2015, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "MULTIOBJECTIVE OPTIMIZATION FOR VOLT/THD PROBLEM IN DISTRIBUTION SYSTEM",
+          "autores": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; Braz, H.D.M. ; SILVA, J. A. C. B. ; BARROS, L. S.",
+          "periodico": "In: VI NABIC ? World Congress on Nature and Biologically Inspired Computing, 2014, Porto - Portugal. http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6921893, 2014.",
+          "doi": "http://dx.doi.org/10.1109/NaBIC.2014.6921893",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; Braz, H.D.M. ; SILVA, J. A. C. B. ; BARROS, L. S. . MULTIOBJECTIVE OPTIMIZATION FOR VOLT/THD PROBLEM IN DISTRIBUTION SYSTEM. In: VI NABIC ? World Congress on Nature and Biologically Inspired Computing, 2014, Porto - Portugal. http://ieeexplore.ieee.org/xpl/articleDetails.jsp?arnumber=6921893, 2014."
+        },
+        {
+          "ano": 2012,
+          "titulo": "CONTROLE INTEGRADO DO PERFIL DE TENSÃO E DISTORÇÕES HARMÔNICAS VIA OTIMIZAÇÃO MULTIOBJETIVO E LÓGICA FUZZY",
+          "autores": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; SOUSA, A. A. ; Braz, H.D.M.",
+          "periodico": "In: CBA 2012- CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2012, Campina Grande/PB. ANAIS DO XIX CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2012. p. 2200-2205.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; SOUSA, A. A. ; Braz, H.D.M. . CONTROLE INTEGRADO DO PERFIL DE TENSÃO E DISTORÇÕES HARMÔNICAS VIA OTIMIZAÇÃO MULTIOBJETIVO E LÓGICA FUZZY. In: CBA 2012- CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2012, Campina Grande/PB. ANAIS DO XIX CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2012. p. 2200-2205."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Compensação Reativa em Redes de Distribuição via Otimização Multiobjetivo e Lógica Fuzzy",
+          "autores": "de Almeida, Angelo Márcio Formiga ; Braz, H.D.M. ; Pamplona, F.M.P. ;",
+          "periodico": "In: IX CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2011, CUIABÁ/MT. IX CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2011.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; Braz, H.D.M. ; Pamplona, F.M.P. ; . Compensação Reativa em Redes de Distribuição via Otimização Multiobjetivo e Lógica Fuzzy. In: IX CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2011, CUIABÁ/MT. IX CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Método da Soma de Potências com Ajuste de Demanda considerando Múltiplas Medições",
+          "autores": "Braz, H.D.M. ; ; de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2010, BELÉM/PA. http://www.labplan.ufsc.br/congressos/III%20SBSE%20-%202010/artigos.html, 2010.",
+          "doi": "",
+          "citacao_completa": "Braz, H.D.M. ; ; de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. . Método da Soma de Potências com Ajuste de Demanda considerando Múltiplas Medições. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, BELÉM/PA. http://www.labplan.ufsc.br/congressos/III%20SBSE%20-%202010/artigos.html, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Planejamento de Reguladores de Tensão em Redes de Distribuição via Algoritmos Genéticos e Lógica Fuzzy",
+          "autores": "de Almeida, Angelo Márcio Formiga ; de Souza, Benemar Alencar ; Braz, H.D.M. ; Pamplona, F.M.P.",
+          "periodico": "In: VIII CBQEE - Conferência Brasileira sobre qualidade de Energia Elétrica, 2009, Blumenau/SC. http://www.sbqee.com.br/artigos_cbqee_2009.htm, 2009.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; de Souza, Benemar Alencar ; Braz, H.D.M. ; Pamplona, F.M.P. . Planejamento de Reguladores de Tensão em Redes de Distribuição via Algoritmos Genéticos e Lógica Fuzzy. In: VIII CBQEE - Conferência Brasileira sobre qualidade de Energia Elétrica, 2009, Blumenau/SC. http://www.sbqee.com.br/artigos_cbqee_2009.htm, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Genetic Algorithm and Fuzzy Logic Applied to Planning of Voltage Regulators in Distribution Systems",
+          "autores": "de Almeida, Angelo Márcio Formiga ; de Souza, Benemar Alencar ; Braz, H.D.M. ; Pamplona, F.M.P.",
+          "periodico": "In: XXIX CILAMCE ? Iberian Latin American Congress on Computational Methods in Engineering., 2008, Maceió/AL. http://www.acquacon.com.br/cilamce2008/br/anais.php, 2008.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; de Souza, Benemar Alencar ; Braz, H.D.M. ; Pamplona, F.M.P. . Genetic Algorithm and Fuzzy Logic Applied to Planning of Voltage Regulators in Distribution Systems. In: XXIX CILAMCE ? Iberian Latin American Congress on Computational Methods in Engineering., 2008, Maceió/AL. http://www.acquacon.com.br/cilamce2008/br/anais.php, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Planejamento Integrado de Bancos de Capacitores e Reguladores de Tensão",
+          "autores": "de Almeida, Angelo Márcio Formiga ; Braz, H.D.M. ; Pamplona, F.M.P. ;",
+          "periodico": "In: CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2007, SANTOS/SP. VII CBQEE - CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2007.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; Braz, H.D.M. ; Pamplona, F.M.P. ; . Planejamento Integrado de Bancos de Capacitores e Reguladores de Tensão. In: CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2007, SANTOS/SP. VII CBQEE - CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "VOLT/VAR CONTROL IN DISTRIBUTION SYSTEMS AS A MULTIOBJECTIVE OPTIMIZATION PROBLEM",
+          "autores": "de Almeida, Angelo Márcio Formiga ; ; Braz, H.D.M. ; Pamplona, F.M.P.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2007, FLORIANÓPOLIS/SC. VIII SBAI - Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; ; Braz, H.D.M. ; Pamplona, F.M.P. . VOLT/VAR CONTROL IN DISTRIBUTION SYSTEMS AS A MULTIOBJECTIVE OPTIMIZATION PROBLEM. In: Simpósio Brasileiro de Automação Inteligente, 2007, FLORIANÓPOLIS/SC. VIII SBAI - Simpósio Brasileiro de Automação Inteligente, 2007."
+        },
+        {
+          "ano": 2005,
+          "titulo": "OPTIMAL LOCALIZATION OF VOLTAGE REGULATOR BANKS IN DISTRIBUTION SYSTEMS BASED ON TECHNICAL AND ECONOMIC CRITERIONS",
+          "autores": "de Almeida, Angelo Márcio Formiga ; ; Pamplona, F.M.P. ; Braz, H.D.M.",
+          "periodico": "In: INTERNATIONAL CONFERENCE AND EXHIBITION ON ELECTRICITY DISTRIBUTION, 2005, TURIM / ITALY. 18th - INTERNATIONAL CONFERENCE AND EXHIBITION ON ELECTRICITY DISTRIBUTION, 2005.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; ; Pamplona, F.M.P. ; Braz, H.D.M. . OPTIMAL LOCALIZATION OF VOLTAGE REGULATOR BANKS IN DISTRIBUTION SYSTEMS BASED ON TECHNICAL AND ECONOMIC CRITERIONS. In: INTERNATIONAL CONFERENCE AND EXHIBITION ON ELECTRICITY DISTRIBUTION, 2005, TURIM / ITALY. 18th - INTERNATIONAL CONFERENCE AND EXHIBITION ON ELECTRICITY DISTRIBUTION, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "CONTROLE INTEGRADO DO PERFIL DE TENSÃO E DE DISTORÇÕES HARMÔNICAS EM ALIMENTADORES RADIAIS DE DISTRIBUIÇÃO COM APLICAÇÃO SIMULTÂNEA DE REGULADORES DE TENSÃO E FILTROS HARMÔNICOS PASSIVOS",
+          "autores": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; Braz, H.D.M. ;",
+          "periodico": "In: SEMINÁRIO BRASILEIRO SOBRE QUALIDADE DE ENERGIA ELÉTRICA, 2005, BELÉM/PA. VI SBQEE - SEMINÁRIO BRASILEIRO SOBRE QUALIDADE DE ENERGIA ELÉTRICA, 2005.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga ; Pamplona, F.M.P. ; Braz, H.D.M. ; . CONTROLE INTEGRADO DO PERFIL DE TENSÃO E DE DISTORÇÕES HARMÔNICAS EM ALIMENTADORES RADIAIS DE DISTRIBUIÇÃO COM APLICAÇÃO SIMULTÂNEA DE REGULADORES DE TENSÃO E FILTROS HARMÔNICOS PASSIVOS. In: SEMINÁRIO BRASILEIRO SOBRE QUALIDADE DE ENERGIA ELÉTRICA, 2005, BELÉM/PA. VI SBQEE - SEMINÁRIO BRASILEIRO SOBRE QUALIDADE DE ENERGIA ELÉTRICA, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Localização e Ajustes Ótimos de Bancos de Reguladores Automáticos em Redes de Distribuição Utilizando Algoritmos Genéticos",
+          "autores": "; de Almeida, Angelo Márcio Formiga ; Alves, H.N. ; Cavalcanti, C.V.A.",
+          "periodico": "In: IEEE/PES Transmission & Distribution Conference and Exposition: Latin America, 2004, São Paulo. 2004 IEEE/PES Transmission & Distribution Conference and Exposition: Latin America. SÃO PAULO: SONOPRESS, 2004.",
+          "doi": "",
+          "citacao_completa": "; de Almeida, Angelo Márcio Formiga ; Alves, H.N. ; Cavalcanti, C.V.A. . Localização e Ajustes Ótimos de Bancos de Reguladores Automáticos em Redes de Distribuição Utilizando Algoritmos Genéticos. In: IEEE/PES Transmission & Distribution Conference and Exposition: Latin America, 2004, São Paulo. 2004 IEEE/PES Transmission & Distribution Conference and Exposition: Latin America. SÃO PAULO: SONOPRESS, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "UM ALGORITMO GENÉTICO PARA LOCALIZAÇÃO ÓTIMA DE REGULADORES DE TENSÃO EM REDES DE DISTRIBUIÇÃO",
+          "autores": "; Alves, H.N. ; de Almeida, Angelo Márcio Formiga",
+          "periodico": "In: CBA 2004 - CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2004, GRAMADO/RS. CBA 2004 - XV CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2004.",
+          "doi": "",
+          "citacao_completa": "; Alves, H.N. ; de Almeida, Angelo Márcio Formiga . UM ALGORITMO GENÉTICO PARA LOCALIZAÇÃO ÓTIMA DE REGULADORES DE TENSÃO EM REDES DE DISTRIBUIÇÃO. In: CBA 2004 - CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2004, GRAMADO/RS. CBA 2004 - XV CONGRESSO BRASILEIRO DE AUTOMÁTICA, 2004."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 1995,
+          "titulo": "AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "In: III ENCONTRO DE INICIAÇÃO CIENTÍFICA DA UFPB, 1995, JOÃO PESSOA. Automação da Medição do Fluxo de Transporte Coletivo. João Pessoa/PB: Editora Universitária, 1995. v. 01. p. 705-705.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO. In: III ENCONTRO DE INICIAÇÃO CIENTÍFICA DA UFPB, 1995, JOÃO PESSOA. Automação da Medição do Fluxo de Transporte Coletivo. João Pessoa/PB: Editora Universitária, 1995. v. 01. p. 705-705."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 1995,
+          "titulo": "AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "1995. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO. 1995. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 1995,
+          "titulo": "AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "1995.",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . AUTOMAÇÃO DA MEDIÇÃO DO FLUXO DE TRANSPORTE COLETIVO. 1995."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2000,
+          "titulo": "Eletricidade para Técnicos em Informática",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "2000. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . Eletricidade para Técnicos em Informática. 2000. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Eletrônica Analógica para Técnicos em Informática",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "2000. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . Eletrônica Analógica para Técnicos em Informática. 2000. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Eletrônica Digital para Técnicos em Informática",
+          "autores": "de Almeida, Angelo Márcio Formiga",
+          "periodico": "2000. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "de Almeida, Angelo Márcio Formiga . Eletrônica Digital para Técnicos em Informática. 2000. (Curso de curta duração ministrado/Especialização)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Planejamento Integrado de Filtros Harmônicos e Reguladores de Tensão em Sistemas de Distribuição Utilizando um Algoritmo Multiobjetivo",
+          "membros": "SOUSA, A. A.; ; Pamplona, F.M.P.; SOTOMAYOR, O. A. Z.",
+          "candidato": "Felipe Santana Santos",
+          "citacao_completa": "SOUSA, A. A.; ; Pamplona, F.M.P.; SOTOMAYOR, O. A. Z.. Participação em banca de Felipe Santana Santos. Planejamento Integrado de Filtros Harmônicos e Reguladores de Tensão em Sistemas de Distribuição Utilizando um Algoritmo Multiobjetivo. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Programação Diária de Sistemas Termelétricos Utilizando Algoritmo Genético Adaptativo e Método de Pontos Interiores",
+          "membros": "SOUSA, A. A.; ; OLIVEIRA, R. A.; SOTOMAYOR, O. A. Z.",
+          "candidato": "Roberto Felipe Andrade Menezes",
+          "citacao_completa": "SOUSA, A. A.; ; OLIVEIRA, R. A.; SOTOMAYOR, O. A. Z.. Participação em banca de Roberto Felipe Andrade Menezes. Programação Diária de Sistemas Termelétricos Utilizando Algoritmo Genético Adaptativo e Método de Pontos Interiores. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".ANÁLISE DA QUALIDADE DA ENERGIA NO DEPARTAMENTO DE ENGENHARIA ELÉTRICA DA UNIVERSIDADE FEDERAL DE SERGIPE",
+          "membros": "OLIVEIRA, L. P. B.; XAVIER, G. V. R.; de Almeida, Angelo Márcio Formiga",
+          "candidato": "Flaviane Santos Silveira",
+          "citacao_completa": "OLIVEIRA, L. P. B.; XAVIER, G. V. R.; de Almeida, Angelo Márcio Formiga . Participação em banca de Flaviane Santos Silveira.ANÁLISE DA QUALIDADE DA ENERGIA NO DEPARTAMENTO DE ENGENHARIA ELÉTRICA DA UNIVERSIDADE FEDERAL DE SERGIPE. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".DESENVOLVIMENTO DE METODOLOGIA PARA ESPECIFICAÇÃO DE MICROAEROGERADORES RESIDENCIAIS",
+          "membros": "SERNA, M.; SOUSA, A. A.; de Almeida, Angelo Márcio Formiga",
+          "candidato": "GUSTAVO MONTEIRO DANTAS",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; de Almeida, Angelo Márcio Formiga . Participação em banca de GUSTAVO MONTEIRO DANTAS.DESENVOLVIMENTO DE METODOLOGIA PARA ESPECIFICAÇÃO DE MICROAEROGERADORES RESIDENCIAIS. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".PROJETO DE UMA SUBESTAÇÃO COM ESTUDO DE PROTEÇÃO NO SOFTWARE ETAP",
+          "membros": "FERREIRA, T. V.; de Almeida, Angelo Márcio Formiga ; XAVIER, G. V. R.",
+          "candidato": "Hellen Cleia Moura Mota",
+          "citacao_completa": "FERREIRA, T. V.; de Almeida, Angelo Márcio Formiga ; XAVIER, G. V. R.. Participação em banca de Hellen Cleia Moura Mota.PROJETO DE UMA SUBESTAÇÃO COM ESTUDO DE PROTEÇÃO NO SOFTWARE ETAP. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Estudo Acerca da Proteção Diferencial Em Transformadores de Potência",
+          "membros": "XAVIER, G. V. R.; FERREIRA, T. V.;",
+          "candidato": "Francisco Daniel Farias Carvalho",
+          "citacao_completa": "XAVIER, G. V. R.; FERREIRA, T. V.; . Participação em banca de Francisco Daniel Farias Carvalho.Estudo Acerca da Proteção Diferencial Em Transformadores de Potência. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Ferramenta Computacional Dedicada à Modelagem de Solo de Aterramento Elétrico em linguagem open source",
+          "membros": "XAVIER, G. V. R.; ; FERREIRA, T. V.",
+          "candidato": "Carlos Daniel Barreto dos Santos",
+          "citacao_completa": "XAVIER, G. V. R.; ; FERREIRA, T. V.. Participação em banca de Carlos Daniel Barreto dos Santos.Ferramenta Computacional Dedicada à Modelagem de Solo de Aterramento Elétrico em linguagem open source. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".USINAS FOTOVOLTAICAS MISTAS: APLICAÇÃO SIMULTÂNEA DE INVERSORES STRING E MICROINVERSORES COMO SOLUÇÃO PARA SOMBREAMENTO",
+          "membros": "Milthon Serna Silva; SOUSA, A. A.; de Almeida, Angelo Márcio Formiga",
+          "candidato": "LEANDRO MATHEUS DE OLIVEIRA SOUZA",
+          "citacao_completa": "Milthon Serna Silva; SOUSA, A. A.; de Almeida, Angelo Márcio Formiga . Participação em banca de LEANDRO MATHEUS DE OLIVEIRA SOUZA.USINAS FOTOVOLTAICAS MISTAS: APLICAÇÃO SIMULTÂNEA DE INVERSORES STRING E MICROINVERSORES COMO SOLUÇÃO PARA SOMBREAMENTO. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - FUNDACAO UNIVERSIDADE FEDERAL DE SERGIPE."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".GERAÇÃO FOTOVOLTAICA APLICADA ÀS PREFEITURAS MUNICIPAIS",
+          "membros": "SERNA, M.; ; SOUSA, A. A.",
+          "candidato": "YASMIN VIEIRA VILANOVA DE CARVALHO",
+          "citacao_completa": "SERNA, M.; ; SOUSA, A. A.. Participação em banca de YASMIN VIEIRA VILANOVA DE CARVALHO.GERAÇÃO FOTOVOLTAICA APLICADA ÀS PREFEITURAS MUNICIPAIS. CASO DE ESTUDO MUNICÍPIO DE INDIAROBA/SE. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Proteção na Subtransmissão: Modelagem de um Sistema Real",
+          "membros": "XAVIER, G. V. R.; FERREIRA, T. V.;",
+          "candidato": "Hugo Carneiro Mute Batista",
+          "citacao_completa": "XAVIER, G. V. R.; FERREIRA, T. V.; . Participação em banca de Hugo Carneiro Mute Batista.Proteção na Subtransmissão: Modelagem de um Sistema Real. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Guia Experimental de Ensaios para Transformadores de Distribuição",
+          "membros": "XAVIER, G. V. R.; FERREIRA, T. V.;",
+          "candidato": "João Antônio Marques Bulhões",
+          "citacao_completa": "XAVIER, G. V. R.; FERREIRA, T. V.; . Participação em banca de João Antônio Marques Bulhões.Guia Experimental de Ensaios para Transformadores de Distribuição. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Impactos da Geração Distribuída na Proteção do Sistema Elétrico de Potência",
+          "membros": "XAVIER, G. V. R.; SOUSA, A. A.; ALMEIDA, A. M. F.;",
+          "candidato": "Ítalo Manoel aa Silva Resende",
+          "citacao_completa": "XAVIER, G. V. R.; SOUSA, A. A.; ALMEIDA, A. M. F.; . Participação em banca de Ítalo Manoel aa Silva Resende.Impactos da Geração Distribuída na Proteção do Sistema Elétrico de Potência. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise Técnico-Econômica das Mudanças na Legislação da Geração Distribuída no Brasil",
+          "membros": "SERNA, M.; ; COLNAGO, G. P.",
+          "candidato": "Lucas Emanuel Rodrigues",
+          "citacao_completa": "SERNA, M.; ; COLNAGO, G. P.. Participação em banca de Lucas Emanuel Rodrigues.Análise Técnico-Econômica das Mudanças na Legislação da Geração Distribuída no Brasil. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Avaliação dos Impactos no Fornecimento de Energia Elétrica com a Inserção de Veículos Elétricos No Sistema de Distribuição",
+          "membros": "SOUSA, A. A.; ; XAVIER, G. V. R.",
+          "candidato": "Cleidiane Passos Soares",
+          "citacao_completa": "SOUSA, A. A.; ; XAVIER, G. V. R.. Participação em banca de Cleidiane Passos Soares.Avaliação dos Impactos no Fornecimento de Energia Elétrica com a Inserção de Veículos Elétricos No Sistema de Distribuição. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Despacho Econômico Ambiental de Centrais Termelétricas utilizando Programação Quadrática Considerando Perdas na Transmissão",
+          "membros": "SOUSA, A. A.; ; XAVIER, G. V. R.",
+          "candidato": "Elson Amorim Simões Filho",
+          "citacao_completa": "SOUSA, A. A.; ; XAVIER, G. V. R.. Participação em banca de Elson Amorim Simões Filho.Despacho Econômico Ambiental de Centrais Termelétricas utilizando Programação Quadrática Considerando Perdas na Transmissão. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ESTUDO SOBRE O BLOQUEIO DE ENERGIA ELÉTRICA EM UMA FÁBRICA DE CIMENTO",
+          "membros": "SOUSA, A. A.; OLIVEIRA, L. P. B.;",
+          "candidato": "Leonan Figueiredo Fernandes",
+          "citacao_completa": "SOUSA, A. A.; OLIVEIRA, L. P. B.; . Participação em banca de Leonan Figueiredo Fernandes.ESTUDO SOBRE O BLOQUEIO DE ENERGIA ELÉTRICA EM UMA FÁBRICA DE CIMENTO. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".PROGRAMAÇÃO DE RELÉ DIGITAL PARA COMANDO DE DISJUNTOR DE MÉDIA TENSÃO: UM GUIA DIDÁTICO",
+          "membros": "XAVIER, G. V. R.; FERREIRA, T. V.;",
+          "candidato": "Felipe Araujo Santos",
+          "citacao_completa": "XAVIER, G. V. R.; FERREIRA, T. V.; . Participação em banca de Felipe Araujo Santos.PROGRAMAÇÃO DE RELÉ DIGITAL PARA COMANDO DE DISJUNTOR DE MÉDIA TENSÃO: UM GUIA DIDÁTICO. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ESTUDO DA VIABILIDADE TÉCNICA-ECONÔMICA DE SISTEMAS FOTOVOLTAICOS NO FORMATO DE TELHAS SOLARES",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "Davi Alves dos Santos",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de Davi Alves dos Santos.ESTUDO DA VIABILIDADE TÉCNICA-ECONÔMICA DE SISTEMAS FOTOVOLTAICOS NO FORMATO DE TELHAS SOLARES. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".ANÁLISE TARIFÁRIA E O MERCADO DE ENERGIA: ESTUDO DE CASO EM UM SETOR ADMINISTRATIVO DA UNIMED",
+          "membros": "SOUSA, A. A.; ; XAVIER, G. V. R.",
+          "candidato": "Augusto Sérgio Silva Santos",
+          "citacao_completa": "SOUSA, A. A.; ; XAVIER, G. V. R.. Participação em banca de Augusto Sérgio Silva Santos.ANÁLISE TARIFÁRIA E O MERCADO DE ENERGIA: ESTUDO DE CASO EM UM SETOR ADMINISTRATIVO DA UNIMED. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".LÂMPADAS LED E DISTORÇÃO HARMÔNICA: UMA AVALIAÇÃO DO CENÁRIO BRASILEIRO",
+          "membros": "FERREIRA, T. V.; ; BARROS, L. M.",
+          "candidato": "BRUNO VINICIUS SILVEIRA ARAUJO",
+          "citacao_completa": "FERREIRA, T. V.; ; BARROS, L. M.. Participação em banca de BRUNO VINICIUS SILVEIRA ARAUJO.LÂMPADAS LED E DISTORÇÃO HARMÔNICA: UMA AVALIAÇÃO DO CENÁRIO BRASILEIRO. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".DETECÇÃO DE PERDAS NÃO TÉCNICAS EM SISTEMA DE DISTRIBUIÇÃO EMPREGANDO A TRANSFORMADA WAVELET",
+          "membros": "FERREIRA, T. V.; ; OLIVEIRA, V.",
+          "candidato": "ALMIR CARLOS DOS SANTOS JÚNIOR",
+          "citacao_completa": "FERREIRA, T. V.; ; OLIVEIRA, V.. Participação em banca de ALMIR CARLOS DOS SANTOS JÚNIOR.DETECÇÃO DE PERDAS NÃO TÉCNICAS EM SISTEMA DE DISTRIBUIÇÃO EMPREGANDO A TRANSFORMADA WAVELET. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Aplicação de uma Nova Técnica Meta-heurística na Estimação de Parâmetros Elétricos Fotovoltaicos",
+          "membros": "RIFFEL, D. B.; SOUSA, A. A.;",
+          "candidato": "Ézio Soares de Moura",
+          "citacao_completa": "RIFFEL, D. B.; SOUSA, A. A.; . Participação em banca de Ézio Soares de Moura.Aplicação de uma Nova Técnica Meta-heurística na Estimação de Parâmetros Elétricos Fotovoltaicos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS ? SPDA: ESTUDO DE CASO CONFORME ABNT NBR 5419:2015",
+          "membros": "FERREIRA, T. V.; ; SERNA, M.",
+          "candidato": "LUCAS GOIS DE MENEZES",
+          "citacao_completa": "FERREIRA, T. V.; ; SERNA, M.. Participação em banca de LUCAS GOIS DE MENEZES.SISTEMA DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS ? SPDA: ESTUDO DE CASO CONFORME ABNT NBR 5419:2015. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".ANÁLISE DA VIABILIDADE TÉCNICO-ECONÔMICA DA INSTALAÇÃO DE UM ESTACIONAMENTO SOLAR FOTOVOLTAICO CARPORT CONECTADO À REDE",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "DEISE OLIVEIRA DO NASCIMENTO",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de DEISE OLIVEIRA DO NASCIMENTO.ANÁLISE DA VIABILIDADE TÉCNICO-ECONÔMICA DA INSTALAÇÃO DE UM ESTACIONAMENTO SOLAR FOTOVOLTAICO CARPORT CONECTADO À REDE. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".DESENVOLVIMENTO DE SISTEMA AUTOMÁTICO DE TRACKING SOLAR BIAXIAL PARA MÓDULOS FOTOVOLTAICOS",
+          "membros": "SERNA, M.; ; BARROS, L. M.",
+          "candidato": "Gabriel Philippe de Oliveira Lima",
+          "citacao_completa": "SERNA, M.; ; BARROS, L. M.. Participação em banca de Gabriel Philippe de Oliveira Lima.DESENVOLVIMENTO DE SISTEMA AUTOMÁTICO DE TRACKING SOLAR BIAXIAL PARA MÓDULOS FOTOVOLTAICOS. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".AVALIAÇÃO DO IMPACTO DA INSERÇÃO DE BANCOS DE CAPACITORES NAS REDES ELÉTRICAS COM PRESENÇA DE GERAÇÃO DISTRIBUÍDA",
+          "membros": "SERNA, M.; BARROS, L. M.;",
+          "candidato": "GABRIEL DELIAN SILVA VALADARES",
+          "citacao_completa": "SERNA, M.; BARROS, L. M.; . Participação em banca de GABRIEL DELIAN SILVA VALADARES.AVALIAÇÃO DO IMPACTO DA INSERÇÃO DE BANCOS DE CAPACITORES NAS REDES ELÉTRICAS COM PRESENÇA DE GERAÇÃO DISTRIBUÍDA. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Análise das Distorções Harmônicas no Sistema Elétrico do Hospital Universitário de Sergipe ? Um Estudo de Caso",
+          "membros": "COLNAGO, G. P.; ; BARROS, L. M.",
+          "candidato": "Maria Alícia Gomes Santos",
+          "citacao_completa": "COLNAGO, G. P.; ; BARROS, L. M.. Participação em banca de Maria Alícia Gomes Santos.Análise das Distorções Harmônicas no Sistema Elétrico do Hospital Universitário de Sergipe ? Um Estudo de Caso. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Aplicação do Método de Elementos Finitos no Mapeamento Térmico de Transformadores",
+          "membros": "FERREIRA, T. V.; ; BARROS, L. M.",
+          "candidato": "Gustavo Aragão Rodrigues",
+          "citacao_completa": "FERREIRA, T. V.; ; BARROS, L. M.. Participação em banca de Gustavo Aragão Rodrigues.Aplicação do Método de Elementos Finitos no Mapeamento Térmico de Transformadores. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Junta.Análise da Viabilidade Técnico-Econômica para Uso de Lentes Eólicas em Microgeradores",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "João Guilherme G",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de João Guilherme G. Junta.Análise da Viabilidade Técnico-Econômica para Uso de Lentes Eólicas em Microgeradores. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudo da Viabilidade Técnico-Econômica para Geração Fotovotáica On-Grid em Unidade Básicas de Saúde.",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "Anderson Souza Carregosa",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de Anderson Souza Carregosa.Estudo da Viabilidade Técnico-Econômica para Geração Fotovotáica On-Grid em Unidade Básicas de Saúde.. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Disjunto PVO: Diagnóstico via Resistência Dinâmica de Contatos Utilizando Transformada Wavelet Packet",
+          "membros": "FERREIRA, T. V.; ; SOUSA, A. A.",
+          "candidato": "Ingrid Alves Santos",
+          "citacao_completa": "FERREIRA, T. V.; ; SOUSA, A. A.. Participação em banca de Ingrid Alves Santos.Disjunto PVO: Diagnóstico via Resistência Dinâmica de Contatos Utilizando Transformada Wavelet Packet. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estimação de Fator de Potência e Fator de Utilização em Alimentadores de Distribuição: comparação entre simulated annealing e colônia de formigas",
+          "membros": "SOUSA, A. A.; FERREIRA, T. V.;",
+          "candidato": "Marília Estevão dos Santos",
+          "citacao_completa": "SOUSA, A. A.; FERREIRA, T. V.; . Participação em banca de Marília Estevão dos Santos.Estimação de Fator de Potência e Fator de Utilização em Alimentadores de Distribuição: comparação entre simulated annealing e colônia de formigas. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Projeto e Construção de Fonte Regulável de Alta Tensão para Aplicações Experimentais em Laboratório",
+          "membros": "FERREIRA, T. V.; ; SOUSA, A. A.",
+          "candidato": "Marcelino Pereira dos Santos",
+          "citacao_completa": "FERREIRA, T. V.; ; SOUSA, A. A.. Participação em banca de Marcelino Pereira dos Santos.Projeto e Construção de Fonte Regulável de Alta Tensão para Aplicações Experimentais em Laboratório. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Adesão do Campus São Cristóvão/UFS ao Mercado Livre de Energia: Um Estudo de Viabilidade",
+          "membros": "FERREIRA, T. V.; ; SOUSA, A. A.",
+          "candidato": "Thaís Abreu Costa",
+          "citacao_completa": "FERREIRA, T. V.; ; SOUSA, A. A.. Participação em banca de Thaís Abreu Costa.Adesão do Campus São Cristóvão/UFS ao Mercado Livre de Energia: Um Estudo de Viabilidade. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estudo da Viabilidade Técnico-Econômica para Instalação de um Sistema Fotovoltaico On Grid em uma Unidade Pública Educativa",
+          "membros": "SERNA, M.; ; SOUSA, A. A.",
+          "candidato": "Victor Emanoel Araujo de Jesus",
+          "citacao_completa": "SERNA, M.; ; SOUSA, A. A.. Participação em banca de Victor Emanoel Araujo de Jesus.Estudo da Viabilidade Técnico-Econômica para Instalação de um Sistema Fotovoltaico On Grid em uma Unidade Pública Educativa. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise Comparativa de Softwares de Desenvolvimento para Projetos Fotovoltaicos",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "HUGO AMARAL DO PRADO TORRES",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de HUGO AMARAL DO PRADO TORRES.Análise Comparativa de Softwares de Desenvolvimento para Projetos Fotovoltaicos. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise da Distorção Harmônica de Tensão nas Subestações da UFS: Um Estudo de Caso",
+          "membros": "COLNAGO, G. P.; SERNA, M.;",
+          "candidato": "Karla Nayane Correia de Oliveira",
+          "citacao_completa": "COLNAGO, G. P.; SERNA, M.; . Participação em banca de Karla Nayane Correia de Oliveira.Análise da Distorção Harmônica de Tensão nas Subestações da UFS: Um Estudo de Caso. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Monitoramento de Sistemas Fotovoltaicos Utilizando Tecnologia Wireless",
+          "membros": "SERNA, M.; ; MENEZES, R. F. A.",
+          "candidato": "Rodrigo dos Santos Alves",
+          "citacao_completa": "SERNA, M.; ; MENEZES, R. F. A.. Participação em banca de Rodrigo dos Santos Alves.Monitoramento de Sistemas Fotovoltaicos Utilizando Tecnologia Wireless. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estudo de Caso: Utilização de Termografia na Manutenção de uma Indústria de Bebidas",
+          "membros": "BARROS, L. M.; ; COLNAGO, G. P.",
+          "candidato": "José Fernando Santana de Andrade",
+          "citacao_completa": "BARROS, L. M.; ; COLNAGO, G. P.. Participação em banca de José Fernando Santana de Andrade.Estudo de Caso: Utilização de Termografia na Manutenção de uma Indústria de Bebidas. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de um Sistema de Monitoramento do Consumo de Energia Elétrica Residencial",
+          "membros": "MOLINA, L.; CARVALHO, E. A. N.;",
+          "candidato": "Mikaelle Lucindo do Nascimento",
+          "citacao_completa": "MOLINA, L.; CARVALHO, E. A. N.; . Participação em banca de Mikaelle Lucindo do Nascimento.Desenvolvimento de um Sistema de Monitoramento do Consumo de Energia Elétrica Residencial. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".AVALIAÇÃO TÉCNICO-ECONÔMICA PARA IMPLANTAÇÃO DE UM SISTEMA FOTOVOLTAICO-EÓLICO EM COMUNIDADE ISOLADA",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "LORENA DE FARO DOS XAVIER DE ALMEIDA",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de LORENA DE FARO DOS XAVIER DE ALMEIDA.AVALIAÇÃO TÉCNICO-ECONÔMICA PARA IMPLANTAÇÃO DE UM SISTEMA FOTOVOLTAICO-EÓLICO EM COMUNIDADE ISOLADA. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Análises da Viabilidade Técnico-Econômica da Aplicação de Sistemas Fotovoltaicos Para Bombeamento de Água em Áreas Isoladas",
+          "membros": "SERNA, M.; SOUSA, A. A.;",
+          "candidato": "THIERES DA CUNHA LIMA",
+          "citacao_completa": "SERNA, M.; SOUSA, A. A.; . Participação em banca de THIERES DA CUNHA LIMA.Análises da Viabilidade Técnico-Econômica da Aplicação de Sistemas Fotovoltaicos Para Bombeamento de Água em Áreas Isoladas. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação do Impacto de Geração Distribuída em Redes de Distribuição de Energia Utilizando o Software ANAREDE",
+          "membros": "SOUSA, A. A.; ; BRITO, F. E. J.",
+          "candidato": "Bruno Barretto Anunciação",
+          "citacao_completa": "SOUSA, A. A.; ; BRITO, F. E. J.. Participação em banca de Bruno Barretto Anunciação.Avaliação do Impacto de Geração Distribuída em Redes de Distribuição de Energia Utilizando o Software ANAREDE. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Alocação de Dispositivos Limitadores de Corrente de Curto-Circuito Utilizando Algoritmos Genéticos",
+          "membros": "SOUSA, A. A.; ; MENEZES, R. F. A.",
+          "candidato": "Luís Augusto Conrado de Macedo",
+          "citacao_completa": "SOUSA, A. A.; ; MENEZES, R. F. A.. Participação em banca de Luís Augusto Conrado de Macedo.Alocação de Dispositivos Limitadores de Corrente de Curto-Circuito Utilizando Algoritmos Genéticos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".PROJETO DE USINA FOTOVOLTAICA COM SEGUIDOR SOLAR",
+          "membros": "Milthon Serna Silva; ; BRITO, F. E. J.",
+          "candidato": "WISLAY KLAYSON ABREU E SILVA",
+          "citacao_completa": "Milthon Serna Silva; ; BRITO, F. E. J.. Participação em banca de WISLAY KLAYSON ABREU E SILVA.PROJETO DE USINA FOTOVOLTAICA COM SEGUIDOR SOLAR. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".ALOCAÇÃO ÓTIMA DE BANCOS DE CAPACITORES EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA UTILIZANDO ALGORITMOS GENÉTICOS",
+          "membros": "SOUSA, A. A.; ; Alvarez, Gustavo Pérez",
+          "candidato": "Felipe Santana Santos",
+          "citacao_completa": "SOUSA, A. A.; ; Alvarez, Gustavo Pérez. Participação em banca de Felipe Santana Santos.ALOCAÇÃO ÓTIMA DE BANCOS DE CAPACITORES EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA UTILIZANDO ALGORITMOS GENÉTICOS. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".METODOLOGIA DE PROJETO E VALIDAÇÃO DE UM SISTEMA DE AUTOMAÇÃO RESIDENCIAL COM FOCO EM EFICIÊNCIA ENERGÉTICA",
+          "membros": "Cardoso, C.A.V.; SOUSA, A. A.;",
+          "candidato": "GABRIEL FERREIRA PINTO DAVINO JÚNIOR",
+          "citacao_completa": "Cardoso, C.A.V.; SOUSA, A. A.; . Participação em banca de GABRIEL FERREIRA PINTO DAVINO JÚNIOR.METODOLOGIA DE PROJETO E VALIDAÇÃO DE UM SISTEMA DE AUTOMAÇÃO RESIDENCIAL COM FOCO EM EFICIÊNCIA ENERGÉTICA. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Avaliação da Geração de Energia Eólica através de Ferramenta Computacional não Dedicada",
+          "membros": "Milthon Serna Silva; ; SOUSA, A. A.",
+          "candidato": "JOSÉ RAIMUNDO TEODORO JÚNIOR",
+          "citacao_completa": "Milthon Serna Silva; ; SOUSA, A. A.. Participação em banca de JOSÉ RAIMUNDO TEODORO JÚNIOR.Avaliação da Geração de Energia Eólica através de Ferramenta Computacional não Dedicada. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".APLICAÇÃO DA EFICIENCIA ENERGETICA NA ILUMINAÇÃO DA UNIVERSIDADE FEDERAL DE SERGIPE",
+          "membros": "Milthon Serna Silva; ; SOUSA, A. A.",
+          "candidato": "MARK DOUGLAS SUSSUMU KIKUCHI",
+          "citacao_completa": "Milthon Serna Silva; ; SOUSA, A. A.. Participação em banca de MARK DOUGLAS SUSSUMU KIKUCHI.APLICAÇÃO DA EFICIENCIA ENERGETICA NA ILUMINAÇÃO DA UNIVERSIDADE FEDERAL DE SERGIPE. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".AVALIAÇÃO DOS SISTEMAS DE MANUTENÇÃO DE DISJUNTORES DE POTÊNCIA",
+          "membros": "Milthon Serna Silva; SOUSA, A. A.;",
+          "candidato": "FELIX ESTEVAM DE JESUS BRITO",
+          "citacao_completa": "Milthon Serna Silva; SOUSA, A. A.; . Participação em banca de FELIX ESTEVAM DE JESUS BRITO.AVALIAÇÃO DOS SISTEMAS DE MANUTENÇÃO DE DISJUNTORES DE POTÊNCIA. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".AVALIAÇÃO DE EFICIÊNCIA ENERGÉTICA: Estudo de caso na Fundação de Beneficência Hospital de Cirurgia",
+          "membros": "; SOUSA, A. A.; Milthon Serna Silva",
+          "candidato": "MARCOS ANTONIO ANDRADE SILVA",
+          "citacao_completa": "; SOUSA, A. A.; Milthon Serna Silva. Participação em banca de MARCOS ANTONIO ANDRADE SILVA.AVALIAÇÃO DE EFICIÊNCIA ENERGÉTICA: Estudo de caso na Fundação de Beneficência Hospital de Cirurgia. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".INTEGRAÇÃO ELÉTRICA DE SISTEMAS EÓLICOS USANDO DIGSILENT POWERFACTORY",
+          "membros": "Milthon Serna Silva; ; SOUSA, A. A.",
+          "candidato": "Felipe Emanoel da Silva Santos",
+          "citacao_completa": "Milthon Serna Silva; ; SOUSA, A. A.. Participação em banca de Felipe Emanoel da Silva Santos.INTEGRAÇÃO ELÉTRICA DE SISTEMAS EÓLICOS USANDO DIGSILENT POWERFACTORY. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".ESTUDOS DE PERDAS TÉCNICAS EM SISTEMAS DE POTÊNCIA",
+          "membros": "SOUSA, A. A.; ; Levi Pedro Barbosa de Oliveira",
+          "candidato": "CRISTIANO SANTOS CARVALHO",
+          "citacao_completa": "SOUSA, A. A.; ; Levi Pedro Barbosa de Oliveira. Participação em banca de CRISTIANO SANTOS CARVALHO.ESTUDOS DE PERDAS TÉCNICAS EM SISTEMAS DE POTÊNCIA. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "CERQUEIRA, E. S. A; ; ANDRADE, E. T. Edital 04/2014: Concurso para Professor Efetivo no Núcleo de Engenharia Agrícola (N",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "CERQUEIRA, E. S. A; ; ANDRADE, E. T. Edital 04/2014: Concurso para Professor Efetivo no Núcleo de Engenharia Agrícola (NEAGRI), da UFS ? Universidade Federal de Sergipe, na área de ensino de Energia na Agricultura. 2014. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "FACCIOLI, G. G.; MARTINS, J. H.; . Edital 031/2012: Concurso para Professor Efetivo no Núcleo de Engenharia Agrícola (NE",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "FACCIOLI, G. G.; MARTINS, J. H.; . Edital 031/2012: Concurso para Professor Efetivo no Núcleo de Engenharia Agrícola (NEAGRI), da UFS ? Universidade Federal de Sergipe, na área de ensino de Energia na Agricultura. 2012. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "CAVALCANTE, J. M. F.; ; SOUSA, A. A.. Edital 046/2012: Concurso para Professor Efetivo da UFERSA - Universidade Federal ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "CAVALCANTE, J. M. F.; ; SOUSA, A. A.. Edital 046/2012: Concurso para Professor Efetivo da UFERSA - Universidade Federal do Semi-Árido, para as disciplinas: Instalações Elétricas, Eletricidade e Magnetismo, Eletricidade Básica e seus laboratórios.. 2012. Universidade Federal Rural do Semi-Árido."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "SOUSA, A. A.; Pamplona, F.M.P.; . Planejamento Integrado de Filtros Harmônicos e Reguladores de Tensão em Sistemas de Di",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SOUSA, A. A.; Pamplona, F.M.P.; . Planejamento Integrado de Filtros Harmônicos e Reguladores de Tensão em Sistemas de Distribuiçãoo Utilizando um Algoritmo Multiobjetivo. 2017. Universidade Federal de Sergipe."
+        }
+      ]
+    }
+  ]
+}

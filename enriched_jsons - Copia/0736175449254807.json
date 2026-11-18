@@ -1,0 +1,810 @@
+{
+  "name": "Guilherme Luiz Moritz",
+  "lattes_id": "0736175449254807",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques",
+          "autores": "PEREIRA, IGOR VINÍCIUS ; PERON, GUILHERME DE SANTI ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026.",
+          "doi": "http://dx.doi.org/10.1109/jiot.2026.3660732",
+          "citacao_completa": "PEREIRA, IGOR VINÍCIUS ; PERON, GUILHERME DE SANTI ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; MORITZ, GUILHERME LUIZ ; . Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques. IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Goal-Oriented Random Access: Optimizing Retransmissions for Age of Incorrect Information",
+          "autores": "PEREIRA, FELIPPE MORAES ; ; FARHAT, JAMIL DE ARAUJO ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "Ieee Open Journal Of The Communications Society , v. 1, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/ojcoms.2026.3723704",
+          "citacao_completa": "PEREIRA, FELIPPE MORAES ; ; FARHAT, JAMIL DE ARAUJO ; MORITZ, GUILHERME LUIZ ; . Goal-Oriented Random Access: Optimizing Retransmissions for Age of Incorrect Information. Ieee Open Journal Of The Communications Society , v. 1, p. 1-1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "AoA and RSSI-Based BLE Indoor Positioning System With Kalman Filter and Data Fusion",
+          "autores": "FABRIS, A. ; ; ; MORITZ, G. L. ;",
+          "periodico": "IEEE Internet of Things Journal , v. 12, p. 15348-15359, 2025.",
+          "doi": "http://dx.doi.org/10.1109/jiot.2025.3530866",
+          "citacao_completa": "FABRIS, A. ; ; ; MORITZ, G. L. ; . AoA and RSSI-Based BLE Indoor Positioning System With Kalman Filter and Data Fusion. IEEE Internet of Things Journal , v. 12, p. 15348-15359, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors",
+          "autores": "GUIMARÃES, PEDRO CARVALHO DA FONSECA ; DE CRISTO, LEONARDO BRAGA ; MONTEIRO, MARCOS EDUARDO PIVARO ; REBELATTO, JOÃO LUIZ ; PERON, GUILHERME DE SANTI ; ; MORITZ, GUILHERME LUIZ",
+          "periodico": "IEEE Access , v. 13, p. 82492-82502, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3567871",
+          "citacao_completa": "GUIMARÃES, PEDRO CARVALHO DA FONSECA ; DE CRISTO, LEONARDO BRAGA ; MONTEIRO, MARCOS EDUARDO PIVARO ; REBELATTO, JOÃO LUIZ ; PERON, GUILHERME DE SANTI ; ; MORITZ, GUILHERME LUIZ . Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors. IEEE Access , v. 13, p. 82492-82502, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Classifying Small Animals, Standing and Lying Down Humans With Multi-mmWave Radars",
+          "autores": "MATTOS, ANA BEATRIZ RODRIGUES COSTA ; ; MORITZ, GUILHERME LUIZ ; SOUTO, VICTORIA DALA PEGORARA ; DEMO SOUZA, RICHARD",
+          "periodico": "IEEE SENSORS JOURNAL , v. 25, p. 27513-27525, 2025.",
+          "doi": "http://dx.doi.org/10.1109/jsen.2025.3576077",
+          "citacao_completa": "MATTOS, ANA BEATRIZ RODRIGUES COSTA ; ; MORITZ, GUILHERME LUIZ ; SOUTO, VICTORIA DALA PEGORARA ; DEMO SOUZA, RICHARD . Classifying Small Animals, Standing and Lying Down Humans With Multi-mmWave Radars. IEEE SENSORS JOURNAL , v. 25, p. 27513-27525, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems",
+          "autores": "FABRIS, ANDREY ; ; REBELATTO, JOÃO LUIZ ; MORITZ, GUILHERME LUIZ ; MONTEIRO, MARCOS EDUARDO PIVARO ; PERON, GUILHERME DE SANTI",
+          "periodico": "Ieee Open Journal Of The Communications Society , v. 1, p. 1-1, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ojcoms.2025.3640550",
+          "citacao_completa": "FABRIS, ANDREY ; ; REBELATTO, JOÃO LUIZ ; MORITZ, GUILHERME LUIZ ; MONTEIRO, MARCOS EDUARDO PIVARO ; PERON, GUILHERME DE SANTI . A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems. Ieee Open Journal Of The Communications Society , v. 1, p. 1-1, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Human and Small Animal Detection Using Multiple Millimeter-Wave Radars and Data Fusion: Enabling Safe Applications",
+          "autores": "MATTOS, ANA BEATRIZ RODRIGUES COSTA DE ; ; MORITZ, GUILHERME L. ;",
+          "periodico": "SENSORS , v. 24, p. 1901, 2024.",
+          "doi": "http://dx.doi.org/10.3390/s24061901",
+          "citacao_completa": "MATTOS, ANA BEATRIZ RODRIGUES COSTA DE ; ; MORITZ, GUILHERME L. ; . Human and Small Animal Detection Using Multiple Millimeter-Wave Radars and Data Fusion: Enabling Safe Applications. SENSORS , v. 24, p. 1901, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Exploiting Simultaneous Multi-Brand Operation to Improve 6TiSCH Reliability and Latency",
+          "autores": "BUNN, MARCUS VINICIUS ; MAFRA, SAMUEL BARALDI ; ; MORITZ, GUILHERME LUIZ",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 38, p. 157-168, 2023.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2023.18",
+          "citacao_completa": "BUNN, MARCUS VINICIUS ; MAFRA, SAMUEL BARALDI ; ; MORITZ, GUILHERME LUIZ . Exploiting Simultaneous Multi-Brand Operation to Improve 6TiSCH Reliability and Latency. Journal of Communication and Information Systems (JCIS), , v. 38, p. 157-168, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Weighted-Centroid localization using LoRaWAN network on large outdoor areas",
+          "autores": "TELLES, G. P. ; ; MORITZ, G. L.",
+          "periodico": "Internet Technology Letters , p. 1-6, 2022.",
+          "doi": "http://dx.doi.org/10.1002/itl2.367",
+          "citacao_completa": "TELLES, G. P. ; ; MORITZ, G. L. . Weighted-Centroid localization using LoRaWAN network on large outdoor areas. Internet Technology Letters , p. 1-6, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Batteryless Machine-Type Communications with Average Channel State Information Energy Beamforming",
+          "autores": "SCACIOTA, RAFAELA ; ALCARAZ LOPEZ, ONEL L. ; ; ; MARIANO, ANDRE A. ; MORITZ, GUILHERME LUIZ",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2022.3227801",
+          "citacao_completa": "SCACIOTA, RAFAELA ; ALCARAZ LOPEZ, ONEL L. ; ; ; MARIANO, ANDRE A. ; MORITZ, GUILHERME LUIZ . Batteryless Machine-Type Communications with Average Channel State Information Energy Beamforming. IEEE Access , v. 1, p. 1-1, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Improving Bluetooth Mesh Energy Ef-ciency Using Clustering",
+          "autores": "GOTZ, JOELTON ; ; MORITZ, GUILHERME",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 36, p. 156-165, 2021.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2021.17",
+          "citacao_completa": "GOTZ, JOELTON ; ; MORITZ, GUILHERME . Improving Bluetooth Mesh Energy Ef-ciency Using Clustering. Journal of Communication and Information Systems (JCIS), , v. 36, p. 156-165, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Age-of-Information of SIC-Aided Massive IoT Networks with Random Access",
+          "autores": "GRYBOSI, JORGE FELIPE ; ; MORITZ, GUILHERME LUIZ",
+          "periodico": "IEEE Internet of Things Journal , v. 9, p. 662-670, 2021.",
+          "doi": "http://dx.doi.org/10.1109/jiot.2021.3084454",
+          "citacao_completa": "GRYBOSI, JORGE FELIPE ; ; MORITZ, GUILHERME LUIZ . Age-of-Information of SIC-Aided Massive IoT Networks with Random Access. IEEE Internet of Things Journal , v. 9, p. 662-670, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "LoRaWAN vs",
+          "autores": "DE BARROS, JOÃO LUÍS VERDEGAY ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ; ;",
+          "periodico": "6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 1, p. 1, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.comcom.2021.12.004",
+          "citacao_completa": "DE BARROS, JOÃO LUÍS VERDEGAY ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ; ; . LoRaWAN vs. 6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 1, p. 1, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Increased Network Lifetime and Load Balancing Based on Network Interface Average Power Metric for RPL",
+          "autores": "PEREIRA, HERMANO ; MORITZ, GUILHERME LUIZ ; ; MUNARETTO, ANELISE ; FONSECA, MAURO",
+          "periodico": "IEEE Access , v. 8, p. 48686-48696, 2020.",
+          "doi": "http://dx.doi.org/10.1109/access.2020.2979834",
+          "citacao_completa": "PEREIRA, HERMANO ; MORITZ, GUILHERME LUIZ ; ; MUNARETTO, ANELISE ; FONSECA, MAURO . Increased Network Lifetime and Load Balancing Based on Network Interface Average Power Metric for RPL. IEEE Access , v. 8, p. 48686-48696, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Age-Energy Tradeoff of Truncated ARQ Retransmission with Receiver Diversity",
+          "autores": "GRYBOSI, JORGE FELIPE ; ; MORITZ, GUILHERME LUIZ ; LI, YONGHUI",
+          "periodico": "IEEE Wireless Communications Letters , v. 1, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/LWC.2020.3009378",
+          "citacao_completa": "GRYBOSI, JORGE FELIPE ; ; MORITZ, GUILHERME LUIZ ; LI, YONGHUI . Age-Energy Tradeoff of Truncated ARQ Retransmission with Receiver Diversity. IEEE Wireless Communications Letters , v. 1, p. 1-1, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Monitoring System for Online Fault Detection and Classification in Photovoltaic Plants",
+          "autores": "; COSTA, CLAYTON HILGEMBERG DA ; RODRIGUES, MARCELO PALUDETTO ; YAMADA, GUILHERME DAN ; LEXINOSKI, GILBERTO ; MORITZ, GUILHERME LUIZ ; OROSKI, ELDER ; GOES, RAFAEL ELEODORO DE ; LINHARES, ROBSON RIBEIRO ; STADZISZ, PAULO CÉZAR ; OMORI, JÚLIO SHIGEAKI ; SANTOS, RODRIGO BRAUN DOS",
+          "periodico": "SENSORS , v. 20, p. 4688, 2020.",
+          "doi": "http://dx.doi.org/10.3390/s20174688",
+          "citacao_completa": "; COSTA, CLAYTON HILGEMBERG DA ; RODRIGUES, MARCELO PALUDETTO ; YAMADA, GUILHERME DAN ; LEXINOSKI, GILBERTO ; MORITZ, GUILHERME LUIZ ; OROSKI, ELDER ; GOES, RAFAEL ELEODORO DE ; LINHARES, ROBSON RIBEIRO ; STADZISZ, PAULO CÉZAR ; OMORI, JÚLIO SHIGEAKI ; SANTOS, RODRIGO BRAUN DOS . A Monitoring System for Online Fault Detection and Classification in Photovoltaic Plants. SENSORS , v. 20, p. 4688, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Towards Improving TSCH Energy Efficiency: An Analytical Approach to a Practical Implementation",
+          "autores": "SORDI, MARCOS A. ; ; MORITZ, GUILHERME L. ;",
+          "periodico": "SENSORS , v. 20, p. 6047, 2020.",
+          "doi": "http://dx.doi.org/10.3390/s20216047",
+          "citacao_completa": "SORDI, MARCOS A. ; ; MORITZ, GUILHERME L. ; . Towards Improving TSCH Energy Efficiency: An Analytical Approach to a Practical Implementation. SENSORS , v. 20, p. 6047, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Hybrid ARQ in Wireless Packetized Predictive Control",
+          "autores": "DA SILVA, FERNANDO EFFTING ; IAREMCZUK, ANA LUCIA VIEIRA ; ; ; MORITZ, G. L. ; HUSSAIN, SAJJAD",
+          "periodico": "IEEE Sensors Letters , v. 4, p. 1-4, 2020.",
+          "doi": "http://dx.doi.org/10.1109/LSENS.2020.2986835",
+          "citacao_completa": "DA SILVA, FERNANDO EFFTING ; IAREMCZUK, ANA LUCIA VIEIRA ; ; ; MORITZ, G. L. ; HUSSAIN, SAJJAD . Hybrid ARQ in Wireless Packetized Predictive Control. IEEE Sensors Letters , v. 4, p. 1-4, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "ICENET: An Information Centric Protocol for Big Data Wireless Sensor Networks",
+          "autores": "LACHOWSKI, ROSANA ; PELLENZ, MARCELO ; JAMHOUR, EDGARD ; PENNA, MANOEL ; ; MORITZ, GUILHERME ;",
+          "periodico": "SENSORS , v. 19, p. 930, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19040930",
+          "citacao_completa": "LACHOWSKI, ROSANA ; PELLENZ, MARCELO ; JAMHOUR, EDGARD ; PENNA, MANOEL ; ; MORITZ, GUILHERME ; . ICENET: An Information Centric Protocol for Big Data Wireless Sensor Networks. SENSORS , v. 19, p. 930, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Minimization of Energy Consumption Per Bit Using an Average Dwell-Time Approach for Wireless Networked Control Systems",
+          "autores": "SCACIOTA, RAFAELA ; MORITZ, GUILHERME LUIZ ; ;",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2019.",
+          "doi": "http://dx.doi.org/10.1109/access.2019.2923961",
+          "citacao_completa": "SCACIOTA, RAFAELA ; MORITZ, GUILHERME LUIZ ; ; . Minimization of Energy Consumption Per Bit Using an Average Dwell-Time Approach for Wireless Networked Control Systems. IEEE Access , v. 1, p. 1-1, 2019."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Time-Switching Uplink Network-Coded Cooperative Communication with Downlink Energy Transfer",
+          "autores": "MORITZ, G. L. ; ; ; ; LI, Y.",
+          "periodico": "IEEE Transactions on Signal Processing , v. 1, p. 1-1, 2014.",
+          "doi": "http://dx.doi.org/10.1109/TSP.2014.2345332",
+          "citacao_completa": "MORITZ, G. L. ; ; ; ; LI, Y. . Time-Switching Uplink Network-Coded Cooperative Communication with Downlink Energy Transfer. IEEE Transactions on Signal Processing , v. 1, p. 1-1, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Turbo Decoding Using the Sectionalized Minimal Trellis of the Constituent Code: Performance-Complexity Trade-Off",
+          "autores": "MORITZ, GUILHERME LUIZ ; ; ; ; ;",
+          "periodico": "IEEE Transactions on Communications (Print) , v. 61, p. 3600-3610, 2013.",
+          "doi": "http://dx.doi.org/10.1109/tcomm.2013.072913.120912",
+          "citacao_completa": "MORITZ, GUILHERME LUIZ ; ; ; ; ; . Turbo Decoding Using the Sectionalized Minimal Trellis of the Constituent Code: Performance-Complexity Trade-Off. IEEE Transactions on Communications (Print) , v. 61, p. 3600-3610, 2013."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A parallel algorithm for large-scale multiple sequence alignment",
+          "autores": "MORITZ, G. L. ; ;",
+          "periodico": "Computing and Informatics , v. 29, p. 1233, 2010.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; ; . A parallel algorithm for large-scale multiple sequence alignment. Computing and Informatics , v. 29, p. 1233, 2010."
+        },
+        {
+          "ano": 2006,
+          "titulo": "A graph-based genetic algorithm for the multiple sequence alignment problem",
+          "autores": "; MORITZ, G. L.",
+          "periodico": "Lecture Notes in Computer Science , v. 4029, p. 420-429, 2006.",
+          "doi": "",
+          "citacao_completa": "; MORITZ, G. L. . A graph-based genetic algorithm for the multiple sequence alignment problem. Lecture Notes in Computer Science , v. 4029, p. 420-429, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "BLE-Based AoA Estimation Using a Sliding Window Median Filter to Remove Outliers",
+          "autores": "RODRIGUEZ, E. A. I. ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, G. L. ;",
+          "periodico": "In: XLIII Brazilian Symposium on Telecommunications and Signal Processing, 2025, Natal. Anals of XLIII Brazilian Symposium on Telecommunications and Signal Processing, 2025.",
+          "doi": "",
+          "citacao_completa": "RODRIGUEZ, E. A. I. ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, G. L. ; . BLE-Based AoA Estimation Using a Sliding Window Median Filter to Remove Outliers. In: XLIII Brazilian Symposium on Telecommunications and Signal Processing, 2025, Natal. Anals of XLIII Brazilian Symposium on Telecommunications and Signal Processing, 2025."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Improving 6TiSCH Reliability and Latency with Simultaneous Multi-Band Operation",
+          "autores": "MORITZ, G. L. ; BUNN, M. ; ; MAFRA, S. B.",
+          "periodico": "In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022. v. 1. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; BUNN, M. ; ; MAFRA, S. B. . Improving 6TiSCH Reliability and Latency with Simultaneous Multi-Band Operation. In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2021,
+          "titulo": "In-Network Data Aggregation for Information-Centric WSNs using Unsupervised Machine Learning Techniques",
+          "autores": "; LACHOWSKI, R. ; JAMHOUR, E. ; ; MORITZ, GUILHERME L. ;",
+          "periodico": "In: 2021 IEEE Symposium on Computers and Communications (ISCC), 2021, Atenas. Annals 2021 IEEE Symposium on Computers and Communications (ISCC), 2021. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "; LACHOWSKI, R. ; JAMHOUR, E. ; ; MORITZ, GUILHERME L. ; . In-Network Data Aggregation for Information-Centric WSNs using Unsupervised Machine Learning Techniques. In: 2021 IEEE Symposium on Computers and Communications (ISCC), 2021, Atenas. Annals 2021 IEEE Symposium on Computers and Communications (ISCC), 2021. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2020,
+          "titulo": "On the Age-of-Information of Buffer-Aided Truncated ARQ Receiver with Chase Combining",
+          "autores": "GRYBOSI, J. F. ; ; MORITZ, G. L.",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "GRYBOSI, J. F. ; ; MORITZ, G. L. . On the Age-of-Information of Buffer-Aided Truncated ARQ Receiver with Chase Combining. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Minimization of Energy Consumption Per Bit of Wireless Networked Control Systems with Time-Correlated Nakagami-m Fading Channels",
+          "autores": "SCACIOTA, R. ; ; MORITZ, G. L. ;",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "SCACIOTA, R. ; ; MORITZ, G. L. ; . Minimization of Energy Consumption Per Bit of Wireless Networked Control Systems with Time-Correlated Nakagami-m Fading Channels. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Performance of MU-MIMO WLAN Systems with User Selection and Receive Diversity",
+          "autores": "GRYBOSI, J. F. ; MORITZ, G. L. ; ;",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "GRYBOSI, J. F. ; MORITZ, G. L. ; ; . Performance of MU-MIMO WLAN Systems with User Selection and Receive Diversity. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Information Centric Protocols to Overcome the Limitations of Group Communication in the IoT",
+          "autores": "LACHOWSKI, R. ; ; JAMHOUR, E. ; PENNA, M. C. ; MORITZ, G. L. ; ;",
+          "periodico": "In: The 34th International Conference on Advanced Information Networking and Applications (AINA-2020), 2020, Caserta. Annals of AINA-2020, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "LACHOWSKI, R. ; ; JAMHOUR, E. ; PENNA, M. C. ; MORITZ, G. L. ; ; . Information Centric Protocols to Overcome the Limitations of Group Communication in the IoT. In: The 34th International Conference on Advanced Information Networking and Applications (AINA-2020), 2020, Caserta. Annals of AINA-2020, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Otimização do Consumo Energético em Sistemas de Controle sem Fio Através de Controle Preditivo e Redundância Incremental",
+          "autores": "IAREMCZUK, A. ; MORITZ, G. L. ; ;",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "IAREMCZUK, A. ; MORITZ, G. L. ; ; . Otimização do Consumo Energético em Sistemas de Controle sem Fio Através de Controle Preditivo e Redundância Incremental. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2020), 2020, Florianópolis. Anais do SBrT 2020. Florianópolis, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Uma Métrica de Roteamento com Eficiência Energética para o RPL da Internet das Coisas",
+          "autores": "PEREIRA, H. ; FONSECA, M. S. P. ; MORITZ, G. L.",
+          "periodico": "In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019, Gramado - RS. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, H. ; FONSECA, M. S. P. ; MORITZ, G. L. . Uma Métrica de Roteamento com Eficiência Energética para o RPL da Internet das Coisas. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019, Gramado - RS. Anais do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Comparison of Machine Learning-Based Methods for Fault Classification in Photovoltaic Systems",
+          "autores": "COSTA, C. H. ; MORITZ, G. L. ; ; MULINARI, B. M. ; ANCELMO, H. C. ; RODRIGUES, M. P. ; OROSKI, E. ; GOES, R. E.",
+          "periodico": "In: 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019, Gramado - RS. IEEE Innovative Smart Grid Technologies - Latin America. Gramado - RS: Gramado - RS, 2019. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "COSTA, C. H. ; MORITZ, G. L. ; ; MULINARI, B. M. ; ANCELMO, H. C. ; RODRIGUES, M. P. ; OROSKI, E. ; GOES, R. E. . A Comparison of Machine Learning-Based Methods for Fault Classification in Photovoltaic Systems. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019, Gramado - RS. IEEE Innovative Smart Grid Technologies - Latin America. Gramado - RS: Gramado - RS, 2019. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Monitoring and Management System for Medium-Scale Photovoltaic Plants",
+          "autores": "COSTA, C. H. ; YAMADA, G. D. ; RODRIGUES, M. P. ; JIAYU, X. ; MORITZ, G. L. ; OROSKI, E. ; LINHARES, R. R. ; GOES, R. E. ; ;",
+          "periodico": "In: IEEE Innovative Smart Grid Technologies (ISGT), 2019, Gramado - RS. IEEE Innovative Smart Grid Technologies (ISGT), 2019. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "COSTA, C. H. ; YAMADA, G. D. ; RODRIGUES, M. P. ; JIAYU, X. ; MORITZ, G. L. ; OROSKI, E. ; LINHARES, R. R. ; GOES, R. E. ; ; . A Monitoring and Management System for Medium-Scale Photovoltaic Plants. In: IEEE Innovative Smart Grid Technologies (ISGT), 2019, Gramado - RS. IEEE Innovative Smart Grid Technologies (ISGT), 2019. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Effect of Nakagami-m Fading on the Scalability of LoRa/LoRaWAN Networks",
+          "autores": "HONORIO, F. G. ; ; MORITZ, G. L. ;",
+          "periodico": "In: 33º Simpósio Sul de Microeletrônica, 2018, Curitiba. Anais do 33º Simpósio Sul de Microeletrônica, 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "HONORIO, F. G. ; ; MORITZ, G. L. ; . Effect of Nakagami-m Fading on the Scalability of LoRa/LoRaWAN Networks. In: 33º Simpósio Sul de Microeletrônica, 2018, Curitiba. Anais do 33º Simpósio Sul de Microeletrônica, 2018. v. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Energy Efficiency Optimization in Wireless Sensor Networks with Latency and QoS Constraints",
+          "autores": "HEILMANN, E. A. ; ; MORITZ, G. L. ;",
+          "periodico": "In: 33º Simpósio Sul de Microeletrônica, 2018, Curitiba. Anais do 33º Simpósio Sul de Microeletrônica, 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "HEILMANN, E. A. ; ; MORITZ, G. L. ; . Energy Efficiency Optimization in Wireless Sensor Networks with Latency and QoS Constraints. In: 33º Simpósio Sul de Microeletrônica, 2018, Curitiba. Anais do 33º Simpósio Sul de Microeletrônica, 2018. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A automação no processo de economia de energia e certificação LEED de um edifício de faculdade: estudo de caso",
+          "autores": "SCARSI, V. H. E. ; ASSEF, A. A. ; MORITZ, G. L. ; SOUTO, R. F.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente (SBAI), 2017, Porto Alegre. Simpósio Brasileiro de Automação Inteligente (SBAI), 2017. v. 11. p. 1.",
+          "doi": "",
+          "citacao_completa": "SCARSI, V. H. E. ; ASSEF, A. A. ; MORITZ, G. L. ; SOUTO, R. F. . A automação no processo de economia de energia e certificação LEED de um edifício de faculdade: estudo de caso. In: Simpósio Brasileiro de Automação Inteligente (SBAI), 2017, Porto Alegre. Simpósio Brasileiro de Automação Inteligente (SBAI), 2017. v. 11. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Secrecy Outage Probability of Network-Coded Cooperation without Channel State Information",
+          "autores": "MONTEIRO, M. E. P. ; ; ; ; MORITZ, G. L. ;",
+          "periodico": "In: IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015, Bruxelas. To appear in the proceedings of the IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, M. E. P. ; ; ; ; MORITZ, G. L. ; . Secrecy Outage Probability of Network-Coded Cooperation without Channel State Information. In: IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015, Bruxelas. To appear in the proceedings of the IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Network-Coded Secondary Communication with Opportunistic Energy Harvesting",
+          "autores": "MORITZ, G. L. ; MAFRA, S. B. ; ; ; ; LI, Y.",
+          "periodico": "In: IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015, Bruxelas. To appear in the proceedings of the IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; MAFRA, S. B. ; ; ; ; LI, Y. . Network-Coded Secondary Communication with Opportunistic Energy Harvesting. In: IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015, Bruxelas. To appear in the proceedings of the IEEE International Symposium on Wireless Communication Systems (ISWCS'15), 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "On the performance of network-coded cooperative communications with wireless energy transfer under a realistic power consumption model",
+          "autores": "MORITZ, GUILHERME LUIZ ; ; ; ; LI, YONGHUI",
+          "periodico": "In: 2014 Wireless Days (WD), 2014, Rio de Janeiro. 2014 IFIP Wireless Days (WD). p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wd.2014.7020805",
+          "citacao_completa": "MORITZ, GUILHERME LUIZ ; ; ; ; LI, YONGHUI . On the performance of network-coded cooperative communications with wireless energy transfer under a realistic power consumption model. In: 2014 Wireless Days (WD), 2014, Rio de Janeiro. 2014 IFIP Wireless Days (WD). p. 1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Análise de desempenho e complexidade da decodificação turbo utilizando a treliça mí­nima e seccionada",
+          "autores": "MORITZ, G. L. ; ; ; ;",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações, 2012, Brasília. XXX Simpósio Brasileiro de Telecomunicações (sbrt 2012). Rio de Janeiro: Sociedade Brasileira de Telecomunicações, 2012. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; ; ; ; . Análise de desempenho e complexidade da decodificação turbo utilizando a treliça mí­nima e seccionada. In: Simpósio Brasileiro de Telecomunicações, 2012, Brasília. XXX Simpósio Brasileiro de Telecomunicações (sbrt 2012). Rio de Janeiro: Sociedade Brasileira de Telecomunicações, 2012. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Implementation of a parallel algorithm for protein pairwise alignment using reconfigurable computing",
+          "autores": "MORITZ, G. L. ; ; ;",
+          "periodico": "In: 3rd International Conference on Reconfigurable Computing and FPGA's, 2006, San Luis de Potosi. Proceedings of the 3rd International Conference on Reconfigurable Computing and FPGA's, 2006.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; ; ; . Implementation of a parallel algorithm for protein pairwise alignment using reconfigurable computing. In: 3rd International Conference on Reconfigurable Computing and FPGA's, 2006, San Luis de Potosi. Proceedings of the 3rd International Conference on Reconfigurable Computing and FPGA's, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Hardalign: a parallel pairwise alignment hardware",
+          "autores": "MORITZ, G. L. ; ; ;",
+          "periodico": "In: IEEE International Conference on Field Programmable Technology, 2006, Bankok. Proceedings of the IEEE International Conference on Field Programmable Technology. Piscataway, NJ: IEEE Press, 2006. p. 369-372.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; ; ; . Hardalign: a parallel pairwise alignment hardware. In: IEEE International Conference on Field Programmable Technology, 2006, Bankok. Proceedings of the IEEE International Conference on Field Programmable Technology. Piscataway, NJ: IEEE Press, 2006. p. 369-372."
+        },
+        {
+          "ano": 2005,
+          "titulo": "A distributed approach for a multiple sequence alignment algorithm using a parallel virtual machine",
+          "autores": "; MORITZ, G. L.",
+          "periodico": "In: IEEE Engineering in Medicine and Biology Society Conference, 2005, Shangai. Proceedings of the 27th Annual International Conference of the IEEE-EMBS. Piscataway, NJ: IEEE Press, 2005. p. 2843-2846.",
+          "doi": "",
+          "citacao_completa": "; MORITZ, G. L. . A distributed approach for a multiple sequence alignment algorithm using a parallel virtual machine. In: IEEE Engineering in Medicine and Biology Society Conference, 2005, Shangai. Proceedings of the 27th Annual International Conference of the IEEE-EMBS. Piscataway, NJ: IEEE Press, 2005. p. 2843-2846."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2005,
+          "titulo": "Um algoritmo genético para alinhamento múltiplo de proteínas",
+          "autores": "MORITZ, G. L. ;",
+          "periodico": "In: X Seminário de Iniciação Científica e Tecnológica, 2005, Curitiba. Anais do X Seminário de Iniciação Científica e Tecnológica. Curitiba, 2005. v. 1. p. 33-36.",
+          "doi": "",
+          "citacao_completa": "MORITZ, G. L. ; . Um algoritmo genético para alinhamento múltiplo de proteínas. In: X Seminário de Iniciação Científica e Tecnológica, 2005, Curitiba. Anais do X Seminário de Iniciação Científica e Tecnológica. Curitiba, 2005. v. 1. p. 33-36."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Sistema de Reconhecimento de Poses Utilizando Bluetooth e Técnicas de Aprendizado de Máquina",
+          "membros": "LIMA, E. G.; ; MORITZ, GUILHERME LUIZ",
+          "candidato": "Igor Vinicius Pereira",
+          "citacao_completa": "LIMA, E. G.; ; MORITZ, GUILHERME LUIZ . Participação em banca de Igor Vinicius Pereira. Sistema de Reconhecimento de Poses Utilizando Bluetooth e Técnicas de Aprendizado de Máquina. 2025. Dissertação (Mestrado em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Estimation of Missing Strings Based on Tracker and Stringbox Operational Data in Utility-Scale Photovoltaic Power Plants",
+          "membros": "COELHO, R. F.; ; MORITZ, GUILHERME ; HOELLER JR, A. S.",
+          "candidato": "João Vitor Rosa Negri",
+          "citacao_completa": "COELHO, R. F.; ; MORITZ, GUILHERME ; HOELLER JR, A. S.. Participação em banca de João Vitor Rosa Negri. Estimation of Missing Strings Based on Tracker and Stringbox Operational Data in Utility-Scale Photovoltaic Power Plants. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Um Método para a Estimativa de Strings Ausentes em Usinas Fotovoltaicas de Grande Escala",
+          "membros": "; DIAS, R. A.; MORITZ, G. L.",
+          "candidato": "Bruno Castro Valle",
+          "citacao_completa": "; DIAS, R. A.; MORITZ, G. L. . Participação em banca de Bruno Castro Valle. Um Método para a Estimativa de Strings Ausentes em Usinas Fotovoltaicas de Grande Escala. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": "ALGORITMOS DE LOCALIZAÇÃO EM AMBIENTES EXTERNOS APLICANDO REDE LORAWAN",
+          "membros": "; ; MORITZ, G. L.",
+          "candidato": "GUILHERME PAZETTO TELLES",
+          "citacao_completa": "; ; MORITZ, G. L. . Participação em banca de GUILHERME PAZETTO TELLES. ALGORITMOS DE LOCALIZAÇÃO EM AMBIENTES EXTERNOS APLICANDO REDE LORAWAN. 2022. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Age-of- Information Dependent Random Access in Multiple-Relay Slotted Aloha",
+          "membros": "MORITZ, G. L. ; ;",
+          "candidato": "Gabriel Germino Martins de Jesus",
+          "citacao_completa": "MORITZ, G. L. ; ; . Participação em banca de Gabriel Germino Martins de Jesus. Age-of- Information Dependent Random Access in Multiple-Relay Slotted Aloha. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "UTILIZAÇÃO DE REDUNDÂNCIA INCREMENTAL EM SISTEMAS DE CONTROLE PREDITIVO COM REALIMENTAÇÃO SEM FIO",
+          "membros": "; MORITZ, GUILHERME LUIZ ;",
+          "candidato": "Fernando Effting da Silva",
+          "citacao_completa": "; MORITZ, GUILHERME LUIZ ; . Participação em banca de Fernando Effting da Silva. UTILIZAÇÃO DE REDUNDÂNCIA INCREMENTAL EM SISTEMAS DE CONTROLE PREDITIVO COM REALIMENTAÇÃO SEM FIO. 2020. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Previsão da velocidade do Vento Utilizando Redes Neurais Artificiais e Modelos Autorregressivos",
+          "membros": "; PES, B. S.; MORITZ, GUILHERME LUIZ",
+          "candidato": "Felipe Maia Barbosa Oliveira",
+          "citacao_completa": "; PES, B. S.; MORITZ, GUILHERME LUIZ . Participação em banca de Felipe Maia Barbosa Oliveira. Previsão da velocidade do Vento Utilizando Redes Neurais Artificiais e Modelos Autorregressivos. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Codificação Analógica Conjunta Fonte-Canal com Conjuntos Não-Gaussianos de Amostras de Sensores",
+          "membros": "; MARIANO, A. A.; MORITZ, GUILHERME LUIZ",
+          "candidato": "RAfaela Schroeder",
+          "citacao_completa": "; MARIANO, A. A.; MORITZ, GUILHERME LUIZ . Participação em banca de RAfaela Schroeder. Codificação Analógica Conjunta Fonte-Canal com Conjuntos Não-Gaussianos de Amostras de Sensores. 2019. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem Comportamental de Amplificadores de Potência Utilizando Cascata de Modelos Polinomiais com Memória",
+          "membros": "LIMA, E. G.; MORITZ, G. L. ; LEITE, B. R. B. A.",
+          "candidato": "Anibal Takeshiro Fukamati",
+          "citacao_completa": "LIMA, E. G.; MORITZ, G. L. ; LEITE, B. R. B. A.. Participação em banca de Anibal Takeshiro Fukamati. Modelagem Comportamental de Amplificadores de Potência Utilizando Cascata de Modelos Polinomiais com Memória. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Identificação automática de sinais ISDB-T baseada em cicloestacionariedade aplicada a sistemas de rádio cognitivo",
+          "membros": "Fernandez, E.; MORITZ, G. L. ; MAFRA, S. B.; LOLIS, L. H. A.; BONFIM, M. J. C.",
+          "candidato": "Favio Eduardo Valle Yanes",
+          "citacao_completa": "Fernandez, E.; MORITZ, G. L. ; MAFRA, S. B.; LOLIS, L. H. A.; BONFIM, M. J. C.. Participação em banca de Favio Eduardo Valle Yanes. Identificação automática de sinais ISDB-T baseada em cicloestacionariedade aplicada a sistemas de rádio cognitivo. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Uma Análise Entre-Camadas de Protocolos HARQ em Redes Sem Fio",
+          "membros": "; ; MARIANO, A. A.; MORITZ, GUILHERME LUIZ",
+          "candidato": "Mariano Eduardo Burich",
+          "citacao_completa": "; ; MARIANO, A. A.; MORITZ, GUILHERME LUIZ . Participação em banca de Mariano Eduardo Burich. Uma Análise Entre-Camadas de Protocolos HARQ em Redes Sem Fio. 2017. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Amostrador CMOS para Receptor de radio-frequência Baseado em Subamostragem com Dupla Quadratura",
+          "membros": "MARIANO, A. A.; MORITZ, GUILHERME LUIZ ; BONFIM, M. J. C.; GOUVEIRA FILHO, O. C.",
+          "candidato": "João Paulo Camelo Cunha",
+          "citacao_completa": "MARIANO, A. A.; MORITZ, GUILHERME LUIZ ; BONFIM, M. J. C.; GOUVEIRA FILHO, O. C.. Participação em banca de João Paulo Camelo Cunha. Amostrador CMOS para Receptor de radio-frequência Baseado em Subamostragem com Dupla Quadratura. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Emabaralhamento de pacotes e seleção de antenas Como alternativa para aumentar a segurança em redes sem fio",
+          "membros": "; Fernandez, E.; MORITZ, G. L.",
+          "candidato": "Marco Antônio Chiodi Júnior",
+          "citacao_completa": "; Fernandez, E.; MORITZ, G. L. . Participação em banca de Marco Antônio Chiodi Júnior. Emabaralhamento de pacotes e seleção de antenas Como alternativa para aumentar a segurança em redes sem fio. 2016. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Sincronismo eficiente de relógios para redes de sensores sem fio em aplicações orientadas a alarmes",
+          "membros": "; MORITZ, G. L. ; MAFRA, S. B.",
+          "candidato": "João Pedro Batistella Nadas",
+          "citacao_completa": "; MORITZ, G. L. ; MAFRA, S. B.. Participação em banca de João Pedro Batistella Nadas. Sincronismo eficiente de relógios para redes de sensores sem fio em aplicações orientadas a alarmes. 2016. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Múltiplas Antenas como Alternativa para Aumentar a Taxa de Extração de Chaves Secretas em Redes Veiculares com Desvanecimento Lento",
+          "membros": "; ; MORITZ, G. L.",
+          "candidato": "Fábio César Schuartz",
+          "citacao_completa": "; ; MORITZ, G. L. . Participação em banca de Fábio César Schuartz. Múltiplas Antenas como Alternativa para Aumentar a Taxa de Extração de Chaves Secretas em Redes Veiculares com Desvanecimento Lento. 2015. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "ESTRATÉGIA DE ENCONTRO PARALELO PARA ASSOCIAÇÃO DE NÓS EM REDES WI-SUN FAN",
+          "membros": "Fernandez, E.; MAFRA, S. B.; PEDROSO, C. M.; MORITZ, GUILHERME LUIZ",
+          "candidato": "ANANIAS AMBROSIO QUISPE",
+          "citacao_completa": "Fernandez, E.; MAFRA, S. B.; PEDROSO, C. M.; MORITZ, GUILHERME LUIZ . Participação em banca de ANANIAS AMBROSIO QUISPE. ESTRATÉGIA DE ENCONTRO PARALELO PARA ASSOCIAÇÃO DE NÓS EM REDES WI-SUN FAN. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Behavioral Modeling of an Energy Harvesting Circuit in RF Wireless Power Transfer Systems for Batteryless IoT Applications",
+          "membros": "MARIANO, ANDRE A.; SANCHEZ, S. M.; MORITZ, G. L. ; Fernandez, E.",
+          "candidato": "POLYANA CAMARGO DE LACERDA",
+          "citacao_completa": "MARIANO, ANDRE A.; SANCHEZ, S. M.; MORITZ, G. L. ; Fernandez, E.. Participação em banca de POLYANA CAMARGO DE LACERDA. Behavioral Modeling of an Energy Harvesting Circuit in RF Wireless Power Transfer Systems for Batteryless IoT Applications. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DA AUTO-EQUALIZAÇÃO E CONTROLE DE POTÊNCIA NO UPLINK EM SISTEMAS DE REDES CELULARES BASEADAS EM MIMO MASSIVO COM ESQUEMAS OFDM E FMBC",
+          "membros": "LOLIS, L. H. A.; MORITZ, G. L. ; CAMPONOGARA, A.; CHANG, B. S.",
+          "candidato": "FELIPE KURPIEL JOSE",
+          "citacao_completa": "LOLIS, L. H. A.; MORITZ, G. L. ; CAMPONOGARA, A.; CHANG, B. S.. Participação em banca de FELIPE KURPIEL JOSE. ANÁLISE DA AUTO-EQUALIZAÇÃO E CONTROLE DE POTÊNCIA NO UPLINK EM SISTEMAS DE REDES CELULARES BASEADAS EM MIMO MASSIVO COM ESQUEMAS OFDM E FMBC. 2023. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "IMPACTO DE TÉCNICAS COM MÚLTIPLAS ANTENAS EM UMA REDE DE SENSORES SEM FIO BASEADA EM COOPERAÇÃO PROBABILÍSTICA",
+          "membros": "; MARIANO, A. A.; Fernandez, E.; MORITZ, GUILHERME LUIZ ;",
+          "candidato": "Eduardo Yabcznski",
+          "citacao_completa": "; MARIANO, A. A.; Fernandez, E.; MORITZ, GUILHERME LUIZ ; . Participação em banca de Eduardo Yabcznski. IMPACTO DE TÉCNICAS COM MÚLTIPLAS ANTENAS EM UMA REDE DE SENSORES SEM FIO BASEADA EM COOPERAÇÃO PROBABILÍSTICA. 2021. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "PROTOCOLOS CENTRADOS EM INFORMAÇÃO PARA REDES DE SENSORES SEM FIO DE LARGA ESCALA",
+          "membros": "PENNA, M. C.; VIEGAS, E.; JAMHOUR, E.; MORITZ, GUILHERME LUIZ ; ;",
+          "candidato": "ROSANA LACHOWSKI",
+          "citacao_completa": "PENNA, M. C.; VIEGAS, E.; JAMHOUR, E.; MORITZ, GUILHERME LUIZ ; ; . Participação em banca de ROSANA LACHOWSKI. PROTOCOLOS CENTRADOS EM INFORMAÇÃO PARA REDES DE SENSORES SEM FIO DE LARGA ESCALA. 2020. Tese (Doutorado em Informática) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise de Eficiência Energética de Redes Cooperativas em Ambientes Subaquáticos Utilizando Codificação de Rede e OFDMA",
+          "membros": "; MORITZ, G. L. ; ; MAFRA, S. B.;",
+          "candidato": "Zaqueu Cabral Pereira",
+          "citacao_completa": "; MORITZ, G. L. ; ; MAFRA, S. B.; . Participação em banca de Zaqueu Cabral Pereira. Análise de Eficiência Energética de Redes Cooperativas em Ambientes Subaquáticos Utilizando Codificação de Rede e OFDMA. 2018. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Esquemas de Comunicação Cooperativa com Múltiplos Relays e Múltiplas Antenas Visando a Eficiência Energética",
+          "membros": "; NORONHA NETO, M.; ; MARIANO, A. A.; MORITZ, G. L. ;",
+          "candidato": "Guilherme de Santi Peron",
+          "citacao_completa": "; NORONHA NETO, M.; ; MARIANO, A. A.; MORITZ, G. L. ; . Participação em banca de Guilherme de Santi Peron. Esquemas de Comunicação Cooperativa com Múltiplos Relays e Múltiplas Antenas Visando a Eficiência Energética. 2017. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Compensando a Perda de Eficiência Espectral da Transferência sem Fio de Energia por Rádio Frequência com Codificação Analógica Conjunta Fonte-Canal",
+          "membros": "; ; Fernandez, E.; ; MORITZ, G. L.",
+          "candidato": "Eduardo Alves Hodgson",
+          "citacao_completa": "; ; Fernandez, E.; ; MORITZ, G. L. . Participação em banca de Eduardo Alves Hodgson. Compensando a Perda de Eficiência Espectral da Transferência sem Fio de Energia por Rádio Frequência com Codificação Analógica Conjunta Fonte-Canal. 2017. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Wireless RAN slicing of heterogeneous services for 5G systems and beyond: channel allocation and multiple access solutions",
+          "membros": "; SOUTO, V. D. P.; MORITZ, G. L. ;",
+          "candidato": "Elço João dos Santos Junior",
+          "citacao_completa": "; SOUTO, V. D. P.; MORITZ, G. L. ; . Participação em banca de Elço João dos Santos Junior. Wireless RAN slicing of heterogeneous services for 5G systems and beyond: channel allocation and multiple access solutions. 2022. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": ".Redes de Sensores sem Fio para Controle de Irrigação",
+          "membros": "; ; MORITZ, GUILHERME LUIZ",
+          "candidato": "Geovana Gomes Machado; Marcel Shunji Aoki; Rafael Nogara",
+          "citacao_completa": "; ; MORITZ, GUILHERME LUIZ . Participação em banca de Geovana Gomes Machado; Marcel Shunji Aoki; Rafael Nogara.Redes de Sensores sem Fio para Controle de Irrigação. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Sistema microcontrolado para análise e monitoramento de emissão de gases tóxicos utilizando protocolo IEEE 802.15.4",
+          "membros": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ",
+          "candidato": "Alexandre Calado de Oliveira",
+          "citacao_completa": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ . Participação em banca de Alexandre Calado de Oliveira.Sistema microcontrolado para análise e monitoramento de emissão de gases tóxicos utilizando protocolo IEEE 802.15.4. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Dispositivo com monitoramento remoto que libera comprimidos aos idosos",
+          "membros": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ",
+          "candidato": "Ana Carolina Ribeiro dos Santos; Igor de Souza Morimatsu",
+          "citacao_completa": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ . Participação em banca de Ana Carolina Ribeiro dos Santos; Igor de Souza Morimatsu.Dispositivo com monitoramento remoto que libera comprimidos aos idosos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Plataforma de carro elétrico em escala reduzida para estudo e desenvolvimento de controles eletrônicos",
+          "membros": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ",
+          "candidato": "Rafael Hiroaki Tanaka",
+          "citacao_completa": "ASSEF, A. A.; ; MORITZ, GUILHERME LUIZ . Participação em banca de Rafael Hiroaki Tanaka.Plataforma de carro elétrico em escala reduzida para estudo e desenvolvimento de controles eletrônicos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Compartilhamento de Recursos em Redes Lora",
+          "membros": "MUNARETTO, A.; FONSECA, M. S. P.; MORITZ, GUILHERME LUIZ",
+          "candidato": "Matheus Kenji Kageyama; Victor Augusto de Menezes",
+          "citacao_completa": "MUNARETTO, A.; FONSECA, M. S. P.; MORITZ, GUILHERME LUIZ . Participação em banca de Matheus Kenji Kageyama; Victor Augusto de Menezes.Compartilhamento de Recursos em Redes Lora. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Rede de sensores sem fio aplica à meteorologia florestal",
+          "membros": "MORITZ, GUILHERME LUIZ ; ;",
+          "candidato": "Bruno Nunes; Ivan Batista; Matheus Kunhavalik da Rosa",
+          "citacao_completa": "MORITZ, GUILHERME LUIZ ; ; . Participação em banca de Bruno Nunes; Ivan Batista; Matheus Kunhavalik da Rosa.Rede de sensores sem fio aplica à meteorologia florestal. 2018 - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Avaliação de Eficiência Residencial Utilizando Internet das Coisas",
+          "membros": "; MORITZ, G. L. ; FRITZEN, P. C.",
+          "candidato": "Lucas Camargo de Jesus Correia",
+          "citacao_completa": "; MORITZ, G. L. ; FRITZEN, P. C.. Participação em banca de Lucas Camargo de Jesus Correia.Avaliação de Eficiência Residencial Utilizando Internet das Coisas. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Implementação de Codificação Analógica Paramétrica para Aplicação em Redes de Sensores sem Fio",
+          "membros": "; ; MORITZ, G. L.",
+          "candidato": "Rafaela Schroeder",
+          "citacao_completa": "; ; MORITZ, G. L. . Participação em banca de Rafaela Schroeder.Implementação de Codificação Analógica Paramétrica para Aplicação em Redes de Sensores sem Fio. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "M",
+          "membros": "; UBRBANETZ, J.; MORITZ, G. L.",
+          "candidato": "Alynne P",
+          "citacao_completa": "; UBRBANETZ, J.; MORITZ, G. L. . Participação em banca de Alynne P. M. Silva; Lucas Eduardo Ribeiro.Rede de Sensores sem Fio em sistemas fotovoltaicos: Sistema de sensoriamento de potência remoto para o Escritório Verde da UTFPR. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "V",
+          "membros": "MORITZ, GUILHERME LUIZ ; OROSKI, E.; ROSA, M. O.",
+          "candidato": "Lucas",
+          "citacao_completa": "MORITZ, GUILHERME LUIZ ; OROSKI, E.; ROSA, M. O.. Participação em banca de Lucas. V. Sanches; Nikolas N. Aguilar; Raul M. Martins.Automação de dispositivos para captura de javalis com base em visão computacional. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "M",
+          "membros": "; MORITZ, G. L. ; UBRBANETZ, J.",
+          "candidato": "Alynne P",
+          "citacao_completa": "; MORITZ, G. L. ; UBRBANETZ, J.. Participação em banca de Alynne P. M. Silva; Lucas E. Ribeiro.Rede de Sensores sem fio e sistemas fotovoltaicos: Sistema de sensoriamento de potência remoto para Escritório Verde da UTFPR. 2017 - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Implementação da codificação analógica paramétrica para aplicação em redes de sensores sem fio",
+          "membros": "; ; MORITZ, G. L.",
+          "candidato": "Rafaela Scroeder",
+          "citacao_completa": "; ; MORITZ, G. L. . Participação em banca de Rafaela Scroeder.Implementação da codificação analógica paramétrica para aplicação em redes de sensores sem fio. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Pellegrim; Letícia B",
+          "membros": "MORITZ, G. L. ; ;",
+          "candidato": "Caio C",
+          "citacao_completa": "MORITZ, G. L. ; ; . Participação em banca de Caio C. Pellegrim; Letícia B. Proença; Victor E. de Jesus.Panela com controle de temperatura para etapa de brassagem na fabricação de cerveja artesanal. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de Sistema de Posicionamento Automático para Painel Solar Fotovoltaico através de Sensores e estudo da Eficiência do Sistema",
+          "membros": "FAVRETTO, J.; MORITZ, G. L. ; ROCHA, J. E.; SANCHEZ, W. D. C.",
+          "candidato": "Gregory Lusa Krug; Marcel Braga Lopes",
+          "citacao_completa": "FAVRETTO, J.; MORITZ, G. L. ; ROCHA, J. E.; SANCHEZ, W. D. C.. Participação em banca de Gregory Lusa Krug; Marcel Braga Lopes.Desenvolvimento de Sistema de Posicionamento Automático para Painel Solar Fotovoltaico através de Sensores e estudo da Eficiência do Sistema. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Controle e automação do sistema de ajuste de potência de um feixe de laser",
+          "membros": "CHIAMENTI, I.; ASSEF, A. A.; BERTOGNA, E.; MORITZ, G. L. ; SOUTO, R. F.",
+          "candidato": "Henrique Napolião Barreto; Lucas Lugnani Fernandes",
+          "citacao_completa": "CHIAMENTI, I.; ASSEF, A. A.; BERTOGNA, E.; MORITZ, G. L. ; SOUTO, R. F.. Participação em banca de Henrique Napolião Barreto; Lucas Lugnani Fernandes.Controle e automação do sistema de ajuste de potência de um feixe de laser. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Proposta de uma plataforma de hardware e software para desenvolvimento de dispositivos eletrônicos inteligentes",
+          "membros": "NETTO, U. C.; ASSEF, A. A.; MORITZ, G. L.",
+          "candidato": "Denisson Vargas; Ketlyn de Oliveira; Milton Marcante",
+          "citacao_completa": "NETTO, U. C.; ASSEF, A. A.; MORITZ, G. L. . Participação em banca de Denisson Vargas; Ketlyn de Oliveira; Milton Marcante.Proposta de uma plataforma de hardware e software para desenvolvimento de dispositivos eletrônicos inteligentes. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de um sistema de reconhecimento facial com controle de iluminação PID",
+          "membros": "MORITZ, G. L. ; CHIAMENTI, I.; DORINI, L. E. B.; ROSA, M. O.",
+          "candidato": "Luis Lops; MAtheus Wisniewski; Lucas Vazquez",
+          "citacao_completa": "MORITZ, G. L. ; CHIAMENTI, I.; DORINI, L. E. B.; ROSA, M. O.. Participação em banca de Luis Lops; MAtheus Wisniewski; Lucas Vazquez.Desenvolvimento de um sistema de reconhecimento facial com controle de iluminação PID. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Implementação de conversor CA-CA com estratégia de comando para incremento de rendimento",
+          "membros": "ROMANELI, E. F. R.; MORITZ, G. L. ; BADIN, A. A.; GULES, R.",
+          "candidato": "Daniel Precybilovicz Neto ; Marcelle Vasco De Godoy",
+          "citacao_completa": "ROMANELI, E. F. R.; MORITZ, G. L. ; BADIN, A. A.; GULES, R.. Participação em banca de Daniel Precybilovicz Neto ; Marcelle Vasco De Godoy.Implementação de conversor CA-CA com estratégia de comando para incremento de rendimento. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Implementação de um sistema de automação predial controlado via web com comunicação wireless entre dispositivos",
+          "membros": "MORITZ, G. L. ; ASSEF, A. A.; LOURES, E. F. R.",
+          "candidato": "Cristian Lottici Valle; Victor Hugo Evangelista Scarsi",
+          "citacao_completa": "MORITZ, G. L. ; ASSEF, A. A.; LOURES, E. F. R.. Participação em banca de Cristian Lottici Valle; Victor Hugo Evangelista Scarsi.Implementação de um sistema de automação predial controlado via web com comunicação wireless entre dispositivos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um sistema para leitura de código de barras com feedback para aquisição e segurança de produtos em supermercados",
+          "membros": "ALVES, G. M.; LOURES, E. F. R.; MORITZ, G. L. ; RODRIGUES, M.",
+          "candidato": "Eduardo Dusanoski Simoes",
+          "citacao_completa": "ALVES, G. M.; LOURES, E. F. R.; MORITZ, G. L. ; RODRIGUES, M.. Participação em banca de Eduardo Dusanoski Simoes.Desenvolvimento de um sistema para leitura de código de barras com feedback para aquisição e segurança de produtos em supermercados. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de protótipo para medição de indutância em corrente e frequência nominal para conversores estáticos",
+          "membros": "BADIN, A. A.; MORITZ, G. L. ; PINHO, A. C.",
+          "candidato": "Lúcio Steckling; Yuri Taura Marques",
+          "citacao_completa": "BADIN, A. A.; MORITZ, G. L. ; PINHO, A. C.. Participação em banca de Lúcio Steckling; Yuri Taura Marques.Desenvolvimento de protótipo para medição de indutância em corrente e frequência nominal para conversores estáticos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Estudo e aplicação de Powerline communication com microcontrolador na automação residencial",
+          "membros": "ASSEF, A. A.; ; MORITZ, G. L.",
+          "candidato": "Danilo Marcato Silva",
+          "citacao_completa": "ASSEF, A. A.; ; MORITZ, G. L. . Participação em banca de Danilo Marcato Silva.Estudo e aplicação de Powerline communication com microcontrolador na automação residencial. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Rede de Sensores sem Fio Monitorada Por Aplicativo",
+          "membros": "MORITZ, G. L. ; NABAS, K. K. H.; FARIA, R. A.",
+          "candidato": "Kenneth Hioki Sato; Ramon Bassani Gueri",
+          "citacao_completa": "MORITZ, G. L. ; NABAS, K. K. H.; FARIA, R. A.. Participação em banca de Kenneth Hioki Sato; Ramon Bassani Gueri.Rede de Sensores sem Fio Monitorada Por Aplicativo. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Estudo e aplicação de uma rede de sensores sem fio para monitoramento de ambientes",
+          "membros": "MORITZ, G. L. ; ; SILVA, J. C. C.",
+          "candidato": "Andressa Carolinne del Monego",
+          "citacao_completa": "MORITZ, G. L. ; ; SILVA, J. C. C.. Participação em banca de Andressa Carolinne del Monego.Estudo e aplicação de uma rede de sensores sem fio para monitoramento de ambientes. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Sistema de Medição e Faturamento de Filamento para Impressoras 3D tipo FDM",
+          "membros": "ASSEF, A. A.; KRETSCHEK, D.; MORITZ, G. L. ; AGUIAR, M. A.",
+          "candidato": "Lucas Eduardo de Freitas; Pedro Henrique Gaio Pacheco",
+          "citacao_completa": "ASSEF, A. A.; KRETSCHEK, D.; MORITZ, G. L. ; AGUIAR, M. A.. Participação em banca de Lucas Eduardo de Freitas; Pedro Henrique Gaio Pacheco.Sistema de Medição e Faturamento de Filamento para Impressoras 3D tipo FDM. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Bancada para um simulador de microgerador eólico",
+          "membros": "SANCHEZ, W. D. C.; SILVA, DANIEL B.; BENEDITO, R. A. S.; MORITZ, GUILHERME LUIZ",
+          "candidato": "Andre Luis Da Silva Cunha, Joao Henrique Nicolotte",
+          "citacao_completa": "SANCHEZ, W. D. C.; SILVA, DANIEL B.; BENEDITO, R. A. S.; MORITZ, GUILHERME LUIZ . Participação em banca de Andre Luis Da Silva Cunha, Joao Henrique Nicolotte.Bancada para um simulador de microgerador eólico. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de conversor para chuveiro com aquecimento por indução",
+          "membros": "SANCHEZ, W. D. C.; BADIN, A. A.; MORITZ, GUILHERME LUIZ",
+          "candidato": "Cristiano Teiti Inoue, Danilo Shooji Higaki, Guilerme Trapp",
+          "citacao_completa": "SANCHEZ, W. D. C.; BADIN, A. A.; MORITZ, GUILHERME LUIZ . Participação em banca de Cristiano Teiti Inoue, Danilo Shooji Higaki, Guilerme Trapp.Desenvolvimento de conversor para chuveiro com aquecimento por indução. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de uma metodologia de calibração para giroscópio",
+          "membros": "SANTOS, W. E.; VIERA, R.; MORITZ, G. L.",
+          "candidato": "Caroline Dal Molin Grando, Rodrigo Rubim De Oliveira",
+          "citacao_completa": "SANTOS, W. E.; VIERA, R.; MORITZ, G. L. . Participação em banca de Caroline Dal Molin Grando, Rodrigo Rubim De Oliveira.Desenvolvimento de uma metodologia de calibração para giroscópio. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Estudo e implementação de uma plataforma didática e de pesquisa para controle digital de conversores de tensão CC-CA.",
+          "membros": "MORITZ, G. L. ; GULES, R.; BADIN, A. A.;",
+          "candidato": "Vinicius Antonio Pulga",
+          "citacao_completa": "MORITZ, G. L. ; GULES, R.; BADIN, A. A.; . Participação em banca de Vinicius Antonio Pulga.Estudo e implementação de uma plataforma didática e de pesquisa para controle digital de conversores de tensão CC-CA.. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Obtenção do Modelo Matemático de um Motor BLDC Utilizando Métodos de Identificação com Dispositivo DSC",
+          "membros": "ASSEF, A. A.; BADIN, A. A.; MORITZ, G. L. ; FARIA, R. A.",
+          "candidato": "Julio Cesar Moura Faé; Ana Lúcia Vieira Iaremczuk",
+          "citacao_completa": "ASSEF, A. A.; BADIN, A. A.; MORITZ, G. L. ; FARIA, R. A.. Participação em banca de Julio Cesar Moura Faé; Ana Lúcia Vieira Iaremczuk.Obtenção do Modelo Matemático de um Motor BLDC Utilizando Métodos de Identificação com Dispositivo DSC. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de Controlador para Cultivo de Microalgas em Lagoas Tipo Raceway",
+          "membros": "MORITZ, G. L. ; CARVALHO, J. C.; ASSEF, A. A.;",
+          "candidato": "Rafael Rocha Penteado",
+          "citacao_completa": "MORITZ, G. L. ; CARVALHO, J. C.; ASSEF, A. A.; . Participação em banca de Rafael Rocha Penteado.Desenvolvimento de Controlador para Cultivo de Microalgas em Lagoas Tipo Raceway. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Chuveiro elétrico inteligente para aplicação concomitante com sistemas de pré aquecimento de água",
+          "membros": "BADIN, A. A.; ASSEF, A. A.; MORITZ, G. L.",
+          "candidato": "Luiz Felipe Germiniani",
+          "citacao_completa": "BADIN, A. A.; ASSEF, A. A.; MORITZ, G. L. . Participação em banca de Luiz Felipe Germiniani.Chuveiro elétrico inteligente para aplicação concomitante com sistemas de pré aquecimento de água. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Implementação de um inversor multinível monofásico controlado por FPGA",
+          "membros": "ASSEF, A. A.; GULES, R.; MORITZ, G. L.",
+          "candidato": "Paulo Eduardo Martins; Rafael de Lima; Shoichi Eduardo",
+          "citacao_completa": "ASSEF, A. A.; GULES, R.; MORITZ, G. L. . Participação em banca de Paulo Eduardo Martins; Rafael de Lima; Shoichi Eduardo.Implementação de um inversor multinível monofásico controlado por FPGA. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

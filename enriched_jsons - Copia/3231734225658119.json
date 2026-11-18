@@ -1,0 +1,203 @@
+{
+  "name": "Mateus Gabriel Santos",
+  "lattes_id": "3231734225658119",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "A Markov Decision Process and Adapted Particle Swarm Optimization-Based Approach for the Hydropower Dispatch Problem-Jirau Hydropower Plant Case Study",
+          "autores": "SANTOS, MATEUS ; FONSECA, MARCELO ; BERNARDES, JOSÉ ; PRADO, LENIO ; ABREU, THIAGO ; BORTONI, EDSON ; BASTOS, GUILHERME",
+          "periodico": "Energies , v. 18, p. 4919, 2025.",
+          "doi": "http://dx.doi.org/10.3390/en18184919",
+          "citacao_completa": "SANTOS, MATEUS ; FONSECA, MARCELO ; BERNARDES, JOSÉ ; PRADO, LENIO ; ABREU, THIAGO ; BORTONI, EDSON ; BASTOS, GUILHERME . A Markov Decision Process and Adapted Particle Swarm Optimization-Based Approach for the Hydropower Dispatch Problem-Jirau Hydropower Plant Case Study. Energies , v. 18, p. 4919, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Forecast of Operational Downtime of the Generating Units for Sediment Cleaning in the Water Intakes: A Case of the Jirau Hydropower Plant",
+          "autores": "PRADO, LENIO ; FONSECA, MARCELO ; BERNARDES, JOSÉ V. ; SANTOS, MATEUS G. ; BORTONI, EDSON C. ; BASTOS, GUILHERME S.",
+          "periodico": "Energies , v. 16, p. 6354, 2023.",
+          "doi": "http://dx.doi.org/10.3390/en16176354",
+          "citacao_completa": "PRADO, LENIO ; FONSECA, MARCELO ; BERNARDES, JOSÉ V. ; SANTOS, MATEUS G. ; BORTONI, EDSON C. ; BASTOS, GUILHERME S. . Forecast of Operational Downtime of the Generating Units for Sediment Cleaning in the Water Intakes: A Case of the Jirau Hydropower Plant. Energies , v. 16, p. 6354, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Hydropower Operation Optimization Using Machine Learning: A Systematic Review",
+          "autores": "BERNARDES JR, J. V. ; SANTOS, M. G. ; ABREU, T. M. ; PRADO JUNIOR, L. O. ; MIRANDA, D. S. S. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "AI Systems: Theory and Applications , v. 3, p. 78-99, 2022.",
+          "doi": "http://dx.doi.org/10.3390/ai3010006",
+          "citacao_completa": "BERNARDES JR, J. V. ; SANTOS, M. G. ; ABREU, T. M. ; PRADO JUNIOR, L. O. ; MIRANDA, D. S. S. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . Hydropower Operation Optimization Using Machine Learning: A Systematic Review. AI Systems: Theory and Applications , v. 3, p. 78-99, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Continuous Partial Discharges Analysis During Automated Thermal Cycle Aging Experiment",
+          "autores": "SANTOS, M. G. ; BRAULIO, G. A. ; BERNARDES JR, J. V. ; SALLES, C. ; MILANEZ, J. R. C. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "IEEE TRANSACTIONS ON ENERGY CONVERSION , v. 35, p. 1989-1992, 2020.",
+          "doi": "http://dx.doi.org/10.1109/tec.2020.3025434",
+          "citacao_completa": "SANTOS, M. G. ; BRAULIO, G. A. ; BERNARDES JR, J. V. ; SALLES, C. ; MILANEZ, J. R. C. ; BORTONI, E. C. ; BASTOS, G. S. . Continuous Partial Discharges Analysis During Automated Thermal Cycle Aging Experiment. IEEE TRANSACTIONS ON ENERGY CONVERSION , v. 35, p. 1989-1992, 2020."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Plataforma de convergência tecnológica para operação otimizada da UHE Jirau",
+          "autores": "SANTOS, M. G. ; PRADO JUNIOR, L. O. ; BERNARDES JUNIOR, J. V. ; ABREU, T. M. ; MIRANDA, D. S. S. ; MILANEZ, JOSE RENATO CASTRO ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos 2023, 2023, Manaus. Anais do X Simpósio Brasileiro de Sistemas Elétricos - SBSE 2023, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. G. ; PRADO JUNIOR, L. O. ; BERNARDES JUNIOR, J. V. ; ABREU, T. M. ; MIRANDA, D. S. S. ; MILANEZ, JOSE RENATO CASTRO ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . Plataforma de convergência tecnológica para operação otimizada da UHE Jirau. In: Simpósio Brasileiro de Sistemas Elétricos 2023, 2023, Manaus. Anais do X Simpósio Brasileiro de Sistemas Elétricos - SBSE 2023, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ferramenta para detecção e monitoramento automáticos de estados operativos de Unidades Geradoras de Usinas Hidrelétricas",
+          "autores": "PRADO JUNIOR, L. O. ; MIRANDA, D. S. S. ; JULIO, R. E. ; ABREU, T. M. ; MILANEZ, J. R. C. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (XV SEPOPE), 2022, Foz do Iguaçu. XV SEPOPE - Volume I: Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (Anais de Eventos do CIGRE-Brasil) (Portuguese Edition), 2022. v. 1. p. 267-276.",
+          "doi": "",
+          "citacao_completa": "PRADO JUNIOR, L. O. ; MIRANDA, D. S. S. ; JULIO, R. E. ; ABREU, T. M. ; MILANEZ, J. R. C. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . Ferramenta para detecção e monitoramento automáticos de estados operativos de Unidades Geradoras de Usinas Hidrelétricas. In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (XV SEPOPE), 2022, Foz do Iguaçu. XV SEPOPE - Volume I: Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (Anais de Eventos do CIGRE-Brasil) (Portuguese Edition), 2022. v. 1. p. 267-276."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Integração do Sistema de Gerenciamento de Informações da Pré-Operação com DESSEM utilizando PI System: O Caso da UHE Jirau",
+          "autores": "ABREU, T. M. ; SANTOS, M. G. ; MIRANDA, D. S. S. ; BERNARDES JUNIOR, J. V. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (XV SEPOPE), 2022, Foz do Iguaçu. XV SEPOPE - Volume I: Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (Anais de Eventos do CIGRE-Brasil) (Portuguese Edition), 2022. v. 1. p. 333-342.",
+          "doi": "",
+          "citacao_completa": "ABREU, T. M. ; SANTOS, M. G. ; MIRANDA, D. S. S. ; BERNARDES JUNIOR, J. V. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . Integração do Sistema de Gerenciamento de Informações da Pré-Operação com DESSEM utilizando PI System: O Caso da UHE Jirau. In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (XV SEPOPE), 2022, Foz do Iguaçu. XV SEPOPE - Volume I: Simpósio de Especialistas em Planejamento da Operação e Expansão de Sistemas de Energia Elétrica (Anais de Eventos do CIGRE-Brasil) (Portuguese Edition), 2022. v. 1. p. 333-342."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Redução de Dimensionalidade Via Análise de Componentes Principais de Variáveis Inerentes à Geração de Energia Hidrelétrica",
+          "autores": "de Campos, G. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BASTOS, G. S.",
+          "periodico": "In: XXIV Congresso Brasileiro de Automática - CBA 2022, 2022, Fortaleza. Anais do XXIV Congresso Brasileiro de Automática - CBA 2022, 2022.",
+          "doi": "",
+          "citacao_completa": "de Campos, G. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BASTOS, G. S. . Redução de Dimensionalidade Via Análise de Componentes Principais de Variáveis Inerentes à Geração de Energia Hidrelétrica. In: XXIV Congresso Brasileiro de Automática - CBA 2022, 2022, Fortaleza. Anais do XXIV Congresso Brasileiro de Automática - CBA 2022, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "IT/OT Integration at Jirau Hydropower Plant: real-time operational intelligence using the PI System",
+          "autores": "SANTOS, M. G. ; MILANEZ, J. R. C. ; PRADO JUNIOR, L. O. ; BERNARDES JUNIOR, J. V. ; MIRANDA, D. S. S. ; ABREU, T. M. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "In: 13th International conference on hydraulic efficiency measurement, 2022, Grenoble, França. 13th International conference on hydraulic efficiency measurement, 2022.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. G. ; MILANEZ, J. R. C. ; PRADO JUNIOR, L. O. ; BERNARDES JUNIOR, J. V. ; MIRANDA, D. S. S. ; ABREU, T. M. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . IT/OT Integration at Jirau Hydropower Plant: real-time operational intelligence using the PI System. In: 13th International conference on hydraulic efficiency measurement, 2022, Grenoble, França. 13th International conference on hydraulic efficiency measurement, 2022."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Test Bench Automation for Aging and Partial Discharge Experiments in Hydrogenerator Stators",
+          "autores": "SANTOS, M. G. ; BRAULIO, G. A. ; BERNARDES JUNIOR, J. V. ; SALLES, C. ; MILANEZ, J. R. C. ; BASTOS, G. S. ; BORTONI, E. C.",
+          "periodico": "In: XXI Congresso Brasileiro de Automática, 2018, João Pessoa, PB. XXII Congresso Brasileiro de Automática - Conference Proceedings, 2018.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. G. ; BRAULIO, G. A. ; BERNARDES JUNIOR, J. V. ; SALLES, C. ; MILANEZ, J. R. C. ; BASTOS, G. S. ; BORTONI, E. C. . Test Bench Automation for Aging and Partial Discharge Experiments in Hydrogenerator Stators. In: XXI Congresso Brasileiro de Automática, 2018, João Pessoa, PB. XXII Congresso Brasileiro de Automática - Conference Proceedings, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Dimensionamento de uma praça de pedágio no Brasil: estudo de caso em um feriado prolongado",
+          "autores": "ARANTES, P. P. ; PAES, V. C. ; SANTOS, M. G. ; BORGES, B. S. ; LIMA, J. P.",
+          "periodico": "In: XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016, Vitória. Anais do XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016. p. 2899-2911.",
+          "doi": "",
+          "citacao_completa": "ARANTES, P. P. ; PAES, V. C. ; SANTOS, M. G. ; BORGES, B. S. ; LIMA, J. P. . Dimensionamento de uma praça de pedágio no Brasil: estudo de caso em um feriado prolongado. In: XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016, Vitória. Anais do XLVIII Simpósio Brasileiro de Pesquisa Operacional, 2016. p. 2899-2911."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Implementação do Smart Campus UNIFEI utilizando o PI System",
+          "autores": "CARMELITO, B. E. ; BASTOS, G. S. ; MILANEZ, J. R. C. ; SANTOS, M. G. ; JULIO, R. E. ; PEDRILIO, J. G.",
+          "periodico": "In: 9ª Jornada Científica e Tecnologica do IFSULDEMINAS, 2017, Machado/MG. 9ª Jornada Científica e Tecnologica do IFSULDEMINAS, 2017.",
+          "doi": "",
+          "citacao_completa": "CARMELITO, B. E. ; BASTOS, G. S. ; MILANEZ, J. R. C. ; SANTOS, M. G. ; JULIO, R. E. ; PEDRILIO, J. G. . Implementação do Smart Campus UNIFEI utilizando o PI System. In: 9ª Jornada Científica e Tecnologica do IFSULDEMINAS, 2017, Machado/MG. 9ª Jornada Científica e Tecnologica do IFSULDEMINAS, 2017."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Integração do sistema de gerenciamento de informações da pré-operação com DESSEM utilizando o PI System: O caso da UHE Jirau",
+          "autores": "ABREU, T. M. ; SANTOS, M. G. ; MIRANDA, D. S. S. ; BERNARDES JUNIOR, J. V. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "2022. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "ABREU, T. M. ; SANTOS, M. G. ; MIRANDA, D. S. S. ; BERNARDES JUNIOR, J. V. ; JULIO, R. E. ; VIANA, P. P. C. ; FONSECA, M. O. ; BORTONI, E. C. ; BASTOS, G. S. . Integração do sistema de gerenciamento de informações da pré-operação com DESSEM utilizando o PI System: O caso da UHE Jirau. 2022. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Redução de Dimensionalidade Via Análise de Componentes Principais de Variáveis Inerentes à Geração de Energia Hidrelétrica",
+          "autores": "de Campos, G. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BASTOS, G. S.",
+          "periodico": "2022. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Campos, G. ; SANTOS, M. G. ; VIANA, P. P. C. ; FONSECA, M. O. ; BASTOS, G. S. . Redução de Dimensionalidade Via Análise de Componentes Principais de Variáveis Inerentes à Geração de Energia Hidrelétrica. 2022. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise de vida útil de hidrogeradores via monitoramento de descargas parciais.",
+          "autores": "SANTOS, M. G. ; BASTOS, G. S. ; MILANEZ, J. R. C.",
+          "periodico": "2018. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. G. ; BASTOS, G. S. ; MILANEZ, J. R. C. . Análise de vida útil de hidrogeradores via monitoramento de descargas parciais.. 2018. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "TEST BENCH AUTOMATION FOR AGING AND PARTIAL DISCHARGE EXPERIMENTS IN HYDROGENERATOR STATORS",
+          "autores": "SANTOS, MATEUS GABRIEL ; BERNARDES JUNIOR, J. V. ; MILANEZ, J. R. C. ; BRAULIO, G. A. ; SALLES, C. ; BORTONI, E. C. ; BASTOS, G. S.",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SANTOS, MATEUS GABRIEL ; BERNARDES JUNIOR, J. V. ; MILANEZ, J. R. C. ; BRAULIO, G. A. ; SALLES, C. ; BORTONI, E. C. ; BASTOS, G. S. . TEST BENCH AUTOMATION FOR AGING AND PARTIAL DISCHARGE EXPERIMENTS IN HYDROGENERATOR STATORS. 2018. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Otimização da operação de UHEs ? Tempo-real, pré e pós-operação",
+          "autores": "BASTOS, G. S. ; SANTOS, M. G.",
+          "periodico": "2023. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "BASTOS, G. S. ; SANTOS, M. G. . Otimização da operação de UHEs ? Tempo-real, pré e pós-operação. 2023. (Curso de curta duração ministrado/Outra)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PI Datalink",
+          "autores": "SANTOS, M. G.",
+          "periodico": "2021. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. G. . PI Datalink. 2021. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": ".Separação Automática de Pedidos de uma Empresa Varejista Usando Computação em Nuvem",
+          "membros": "BASTOS, G. S.; VERMAAS, L. L. G.; SANTOS, K. R. S.; SANTOS, M. G.",
+          "candidato": "Lucas Sagiorato Bruno",
+          "citacao_completa": "BASTOS, G. S.; VERMAAS, L. L. G.; SANTOS, K. R. S.; SANTOS, M. G. . Participação em banca de Lucas Sagiorato Bruno.Separação Automática de Pedidos de uma Empresa Varejista Usando Computação em Nuvem. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Captação e análise de dados de linha de produção utilizando técnicas de IoT",
+          "membros": "LI, A. W.; Souza, C. W.;",
+          "candidato": "Cleber Ferreira Augusto Paola e Kaique Vinicius da Silva",
+          "citacao_completa": "LI, A. W.; Souza, C. W.; . Participação em banca de Cleber Ferreira Augusto Paola e Kaique Vinicius da Silva.Captação e análise de dados de linha de produção utilizando técnicas de IoT. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Itajubá."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Using PI System to monitor cable and wireless network of the IESTI bulding.",
+          "membros": "SERAPHIM, E.; MILANEZ, J. R. C.;",
+          "candidato": "Ayrton Sérgio Dias Nogueira",
+          "citacao_completa": "SERAPHIM, E.; MILANEZ, J. R. C.; . Participação em banca de Ayrton Sérgio Dias Nogueira.Using PI System to monitor cable and wireless network of the IESTI bulding.. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Itajubá."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1558 @@
+{
+  "name": "Roberto Francisco Coelho",
+  "lattes_id": "9967005468124403",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "BUZZIO, CHRISTIAN ; OGGIER, GERMÁN G. ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. ; ALDOSARI, OBAID . A Magnetic-Shunt-Based Magnetic Structure for Coupled Inductor Filters. IET Power Electronics , v. 19, p. 1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1049/pel2.70182"
+        },
+        {
+          "texto": "DIAS, JULIO C. ; GRUNER, VICTOR F. ; GILI, LUIZ C. ; LIMA, MATHEUS P. DE ; BEHR, EDUARDO E. ; COELHO, ROBERTO F. ; SCHMITZ, LENON . A Current-Sensorless Quasi-Resonant Control for Flyback Inverters with Low Switching Losses. IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. 1, p. 1-12, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/TIA.2026.3728735"
+        },
+        {
+          "texto": "CRIVELLARI, A. L. S. ; LEAO, A. S. L. F. ; SANTOS JUNIOR, B. F. ; Coelho, R.F. ; L. Schmitz ; MARTINS, D. C. ; DOS SANTOS, WALBERMARK M. . Comparative analysis between recursive least squares state space (RLSS) and nonlinear least squares (NLS) methods for parameter identification in buck converters applied to solar energy systems. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1-16, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.22541/au.172777726.69988434/v1"
+        },
+        {
+          "texto": "CRIVELLARI, ANDRÉ LUIZ SILVA ; LEÃO, ANDRÉ SALUME LIMA FERREIRA ; JUNIOR, BARTOLOMEU F. DOS SANTOS ; Coelho, Roberto Francisco ; SCHMITZ, LENON ; MARTINS, DENIZAR CRUZ ; SANTOS, WALBERMARK M. DOS . Multi-Objective Optimization in a Boost Converter for Photovoltaic Systems Based on Environmental Data. IEEE Access , v. 13, p. 143550-143575, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3593619"
+        },
+        {
+          "texto": "RECH, THIAGO F. ; ORLANDO, TAILAN ; KIRSTEN, ANDRÉ L. ; COELHO, ROBERTO F. . A case study on hydrogen generation from solar energy with MPPT control strategy. REVISTA ELETRÔNICA DE POTÊNCIA , v. 30, p. e202559, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18618/rep.e202559"
+        },
+        {
+          "texto": "DA SILVA, MATHEUS MEIRELES ; GRUNER, VICTOR F. ; RECH, THIAGO F. ; ORLANDO, TAILAN ; COSTA, KEVIN R. ; FRIEBE, JENS ; KIRSTEN, ANDRÉ L. ; COELHO, ROBERTO F. . Introducing INEP PVSim: A Free Offline Application to Assess the Effects of Parameter Variations on the I-V Curves of Photovoltaic Modules. REVISTA ELETRÔNICA DE POTÊNCIA , v. 30, p. e202549, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18618/rep.e202549"
+        },
+        {
+          "texto": "JUNG, FELIPE ; PEREIRA, THIAGO A. ; RECH, THIAGO FONSECA ; COELHO, ROBERTO F. ; KIRSTEN, ANDRÉ LUÍS . A performance comparison of current controllers for grid-tied photovoltaic microinverters. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 9, p. 1-12, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1002/cta.4121"
+        },
+        {
+          "texto": "DE ANDRADE, JÉSSIKA MELO ; SALVADOR, MARCOS ANTONIO ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Metodologia para derivação de conversores cc-cc elevadores de alto ganho baseados em conexões diferenciais. REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202409, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.18618/rep.2024.1.0003"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; GONÇALVES, CHRISTOPHER F. ; SCHLINGMANN, ANDRÉ ; DE SOUZA, EDUARDO V. ; EYNG, JULIANA ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . The symmetrical differential Buck-Boost DC-DC converter with partial power processing applied to photovoltaic systems. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1-17, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1002/cta.4162"
+        },
+        {
+          "texto": "GRUNER, V. F. ; Coelho, R.F. ; MARTINS, DENIZAR CRUZ ; . Analysis and Design of Total Harmonic Distortion Performance in Grid-Tied Single-Phase Voltage Source Inverters through Closed-Loop Modeling. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1-17, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1002/cta.4314"
+        },
+        {
+          "texto": "DE ANDRADE, JESSIKA MELO ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Methodology for Deriving High-Gain Step-Up dc-dc Converters with Partial Power Processing Based on Differential Connections. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 1, p. 1-1, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/jestpe.2024.3507293"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; ORIGE, MATEUS C. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . High-Gain ZVS-ZCS DC-DC Landsman Converter With Low-Input Current Ripple. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-11, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/tie.2024.3390740"
+        },
+        {
+          "texto": "GRUNER, VÍCTOR FERREIRA ; ZANOTTI, JEFFERSON WILLIAM ; SANTOS, WALBERMARK MARQUES ; PEREIRA, THIAGO ANTONIO ; SCHMITZ, LENON ; MARTINS, DENIZAR CRUZ ; Coelho, Roberto Francisco . Modified Current Sensorless Incremental Conductance Algorithm for Photovoltaic Systems. Energies , v. 16, p. 790, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16020790"
+        },
+        {
+          "texto": "FERREIRA GRUNER, VÍCTOR ; F. GONÇALVES, CHRISTOPHER ; SCHMITZ, LENON ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . METHODOLOGY FOR ESTIMATION OF THE TOTAL HARMONIC DISTORTION IN GRID-CONNECTED SINGLE-PHASE INVERTERS. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 28, p. 314-323, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.18618/rep.2023.4.0027"
+        },
+        {
+          "texto": "DE ANDRADE, JÉSSIKA MELO ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Partial Power Processing and Efficiency Analysis of dc-dc Differential Converters. Energies , v. 15, p. 1159, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15031159"
+        },
+        {
+          "texto": "OLIVEIRA, DÉBORA B. S. ; GLÓRIA, LUNA L. ; KRAEMER, RODRIGO A. S. ; SILVA, ALISSON C. ; DIAS, DOUGLAS P. ; OLIVEIRA, ALICE C. ; MARTINS, MARCOS A. I. ; LUDWIG, MATHIAS A. ; GRUNER, VICTOR F. ; SCHMITZ, LENON ; COELHO, ROBERTO F. . Mixed-Integer Linear Programming Model to Assess Lithium-Ion Battery Degradation Cost. Energies , v. 15, p. 3060, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15093060"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Three-Terminal Gain Cells Based on Coupled Inductor and Voltage Multiplers for High Step-Up Conversion. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 70, p. 236-240, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tcsii.2022.3205599"
+        },
+        {
+          "texto": "HAUPT, DOUGLAS ; BUZZIO, CHRISTIAN ; SCHMITZ, LENON ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . Design and implementation of a T-type based topology for Grid-Connected Current-Source Inverters in PV applications. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 27, p. 344-353, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.18618/rep.2022.4.0032"
+        },
+        {
+          "texto": "PEREIRA, THIAGO A. ; SCHMITZ, LENON ; DOS SANTOS, WALBERMARK M. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Design of a Portable Photovoltaic I-V Curve Tracer Based on the DC-DC Converter Method. IEEE Journal of Photovoltaics , v. 11, p. 1-9, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/JPHOTOV.2021.3049903"
+        },
+        {
+          "texto": "ANDRADE, JESSIKA M. ; SILVA, GILBERTO V. ; COELHO, ROBERTO F. ; . The switched capacitor differential boost inverter applied to grid connection. International Transactions on Electrical Energy Systems , v. 31, p. 1-24, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1002/2050-7038.12752"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . A Simple, Accurate Small-Signal Model of a Coupled-Inductor-Based DC-DC Converter Including the Leakage Inductance Effect. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 68, p. 2533-2537, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/TCSII.2021.3061942"
+        },
+        {
+          "texto": "ANDRADE, JESSIKA M. ; COELHO, ROBERTO F. ; . High step\"up dc\"dc converter based on the differential connection of basic converters and switched\"capacitor cells. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 49, p. 2555-2577, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1002/cta.3003"
+        },
+        {
+          "texto": "ÍCARO T. NOGUEIRA, PAULO ; SCHLINGMANN, ANDRÉ ; SCHMITZ, LENON ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . SYMMETRIC DIFFERENTIAL DC-DC BUCK-BOOST CONVERTER. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 26, p. 136-146, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.18618/REP.2021.2.0049"
+        },
+        {
+          "texto": "L. Schmitz ; MARTINS, D. C. ; COELHO, R. F. . A Simple Accurate Small-Signal Model of a Coupled-Inductor-Based DC-DC Converter Including the Leakage Inductance Effect. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-5, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/TCSII.2021.30611942"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Comprehensive Conception of High Step-Up DC-DC Converters With Coupled Inductor and Voltage Multipliers Techniques. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 67, p. 2140-2151, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/TCSI.2020.2973154"
+        },
+        {
+          "texto": "MELO DE ANDRADE, JESSIKA ; COELHO, ROBERTO ; LAZZARIN, TELLES . High Step-Up dc-dc Converter Based on Modified Active Switched-Inductor and Switched-Capacitor Cells. IET Power Electronics , v. 13, p. 3127-3137, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2020.0064"
+        },
+        {
+          "texto": "MELO DE ANDRADE, JESSIKA ; SALVADOR, MARCOS ANTONIO ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . General Method for Synthesizing High Gain Step-up dc-dc Converters Based on Differential Connections. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 35, p. 13239-13254, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/tpel.2020.2996501"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; CACAU, RONNY G.A. ; HORN, THAMIRES P. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . High step-up non-isolated ZVS-ZCS dc-dc Cúk-based converter. IET Power Electronics , v. 13, p. 1343-1352, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2019.1262"
+        },
+        {
+          "texto": "ANTONIO PEREIRA, THIAGO ; SCHMITZ, LENON ; PORTH HORN, THAMIRES ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . POWER DECOUPLING CELL FOR PHOTOVOLTAIC MICROINVERTERS. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 25, p. 1-12, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.18618/REP.2020.2.0018"
+        },
+        {
+          "texto": "SALVADOR, MARCOS A. ; ANDRADE, JESSIKA M. ; ; COELHO, ROBERTO F. . Methodology for synthesis of high\"gain step\"up DC-DC converters based on differential connections. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 49, p. 306-326, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1002/cta.2892"
+        },
+        {
+          "texto": "SALVADOR, MARCOS ANTONIO ; DE ANDRADE, JESSIKA MELO ; ; COELHO, R. F. . Nonisolated High-Step-Up DC-DC Converter Derived from Switched-Inductors and Switched-Capacitors. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 67, p. 8506-8516, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/tie.2019.2949535"
+        },
+        {
+          "texto": "SILVA, GILBERTO VALENTIM ; DE ANDRADE, JESSIKA MELO ; COELHO, R. F. ; . Switched-Capacitor Differential Boost Inverter: Design, Modeling, and Control. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 67, p. 5421-5431, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/tie.2019.2931258"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; ISAAC PEREIRA, AIRTON ; GLAUBER DE ALMEIDA CACAU, RONNY ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . Conversor CC-CC de Alto Ganho Baseado no Conversor \"uk com Indutor Acoplado e Multiplicadores de Tensão. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 24, p. 1-10, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.18618/REP.2019.3.0020"
+        },
+        {
+          "texto": "GRUNER, VÍCTOR F. ; HORN, THAMIRES P. ; SCHMITZ, LENON ; MARTINS, DENIZAR ; COELHO, ROBERTO . Forward-Based High Step-Up DC-DC Converter with Input Current Sharing and Output Filter Reduction: Design, Modeling, and Control. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1-10, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s40313-019-00540-4"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . High Step-Up Nonisolated ZVS/ZCS DC-DC Converter for Photovoltaic Thin-Film Module Applications. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 7, p. 565-575, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/JESTPE.2018.2830650"
+        },
+        {
+          "texto": "COELHO, ROBERTO ; GRUNER, VÍCTOR ; SCHMITZ, LENON ; MARTINS, DENIZAR . High Gain Step-up Dc-dc Converter With Input Current Sharing, Phase-shift Modulation And Output Filter Reduction. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 141-150, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2018.2.2747"
+        },
+        {
+          "texto": "COELHO, ROBERTO ; BERGER, FELIPE ; SALVADOR, MARCOS ; LAZZARIN, TELLES ; PEREIRA, THIAGO . Methodology For Modeling Power Converters Employing The Thevenin Equivalent Circuit. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 151-160, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2018.2.2749"
+        },
+        {
+          "texto": "COELHO, ROBERTO ; SALVADOR, MARCOS ; HORN, THAMIRES ; LAZZARIN, TELLES . High Gain Dc-dc Converter Obtained By Combining Switched Inductor And Switched Capacitor Cells. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 161-170, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2018.2.2754"
+        },
+        {
+          "texto": "LAZZARIN, TELLES ; COELHO, ROBERTO ; FACCHINELLO, GABRIEL . Forward-type Inverters For Grid Connected Renewable Power Sources. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 193-203, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2018.2.2767"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; PORTH HORN, THAMIRES ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . HIGH STEP-UP DC-DC CONVERTER FOR THIN-FILM PV MODULE APPLICATIONS. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 1-10, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2018.3.2789"
+        },
+        {
+          "texto": "MELO DE ANDRADE, JÉSSIKA ; VALENTIM SILVA, GILBERTO ; FRANCISCO COELHO, ROBERTO ; BRUNELLI LAZZARIN, TELLES . SWITCHED CAPACITOR BOOST INVERTER CONNECTED TO THE GRID. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 1-11, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/rep.2018.4.0005"
+        },
+        {
+          "texto": "BUERGER, ROBERTO ; COSTA DOS SANTOS, FREDERICO ; SCARPA SITONIO, MURILO ; CRUZ MARTINS, DENIZAR ; FRANCISCO COELHO, ROBERTO . CONTROL AND STABILITY ANALYSIS OF DC-DC CONVERTERS UNDER POWER SHARING MODE. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 24, p. 1-10, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/REP.2019.1.0039"
+        },
+        {
+          "texto": "VALENTIM SILVA, GILBERTO ; MELO DE ANDRADE, JÉSSIKA ; FRANCISCO COELHO, ROBERTO ; BRUNELLI LAZZARIN, TELLES . MODULATION, MODELING AND CONTROL OF THE SWITCHED-CAPACITOR BOOST INVERTER. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 24, p. 1-12, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/rep.2019.1.0030"
+        },
+        {
+          "texto": "SALVADOR, MARCOS ANTONIO ; LAZZARIN, TELLES BRUNELLI ; Coelho, Roberto Francisco . High Step-Up DC-DC Converter With Active Switched-Inductor and Passive Switched-Capacitor Networks. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 65, p. 5644-5654, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tie.2017.2782239"
+        },
+        {
+          "texto": "BRIGHENTI, LUCAS ; FACCHINELLO, GABRIEL ; JUNIOR, SÉRGIO ; SANTOS, WALBERMARK ; COELHO, ROBERTO ; MARTINS, DENIZAR . Ac-ac Hybrid Dual Active Bridge Converter With Half Bridge Port For Solid State Transformers. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 156-166, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/REP.2017.2.2665"
+        },
+        {
+          "texto": "COELHO, ROBERTO ; PEREIRA, THIAGO ; SANTOS, WALBERMARK ; MARTINS, DENIZAR . Electrical Characterizer Od Photovoltaic Modules Using The Dc-dc Â-uk Converter. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 139-147, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/rep.2017.2.2661"
+        },
+        {
+          "texto": "COELHO, ROBERTO ; SILVA, GILBERTO ; LAZZARIN, TELLES . Modelling Of A Switched-capacitor Boost Converter Through A Reduced Order Equivalent Converter. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 288-297, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/rep.2017.3.2688"
+        },
+        {
+          "texto": "SANTOS, WALBERMARK ; MAMEDE, HENRIQUE ; TRUCCO, VINICIUS ; TOBIAS, DANIEL ; BRIGHENTI, LUCAS ; COELHO, ROBERTO ; MARTINS, DENIZAR . Proposal Of A Dc-dc Structure With Internal Redundancy Of Converter Modules For Applications In Solid State Transformers. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 418-428, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/rep.2017.4.2714"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Generalized High Step-Up DC-DC Boost-Based Converter With Gain Cell. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 64, p. 480-493, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tcsi.2016.2603782"
+        },
+        {
+          "texto": "SALVADOR, M. A. ; ; COELHO, R. F. . Overview Of Compressed Air Energy Storage System. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 21, p. 169-178, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.18618/rep.2016.3.2589"
+        },
+        {
+          "texto": "; COELHO, R. F. ; MARTINS, D. C. . Conversor CC-CC de Alto Ganho e com Compartilhamento da Corrente de Entrada Empregado em Células a Combustível. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 21, p. 285-295, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.18618/REP.2016.4.2630"
+        },
+        {
+          "texto": "COELHO, R. F. ; ; MACEDO, L. T. ; . Power Flow Control Strategy For A Hybrid Microgrid Destined To Supply Critical Dc Loads. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 20, p. 205-214, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.18618/rep.2015.2.205214"
+        },
+        {
+          "texto": "COELHO, R. F. ; SANTOS, W. M. ; . INFLUENCE OF POWER CONVERTERS ON PV MAXIMUM POWER POINT TRACKING EFFICIENCY. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 19, p. 73-80, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.18618/REP.2014.1.073080"
+        },
+        {
+          "texto": "COELHO, R. F. ; GALBIATTI, A. P. ; . Grid-Connected PV Solar Energy Converter with Active and Reactive Power Control. JOURNAL OF ENERGY AND POWER ENGINEERING , v. 8, p. 331-342, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.17265/1934-8975/2014.02.017"
+        },
+        {
+          "texto": "SCHORNADIE, M. F. ; COELHO, R. F. ; ; . Active And Reactive Power Control In A Three-phase Grid-connected Pv Power System Using Dq0 Transformation. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 18, p. 1180-1187, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.18618/rep.2013.4.11801187"
+        },
+        {
+          "texto": "SEVERO, L. ; COELHO, R. F. ; . Modeling, Control And Implementation Of A Single-phase Pv Converter Using Anti-islanding Passive Protection Schemes. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 17, p. 681-689, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.18618/REP.2012.4.681689"
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . Proposal Of A Two Stages Gridconnected Photovoltaic System. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 12, p. 129-136, 2007.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.18618/REP.2007.2.129136"
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "COELHO, ROBERTO ; L. Schmitz ; MARTINS, D. C. . Energia solar fotovoltaica: geração, conversão e aplicações - ISBN: 9786500485943. 1. ed. Florianópolis: Roberto, 2022. v. 1. 261p .",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "COELHO, R. F. ; ; CRUZ MARTINS, DENIZAR . Introduction to Photovoltaic Energy Generation. In: Jacqueline A. Stagner; David S-K. Ting. (Org.). Sustainable Engineering for Life Tomorrow. 1ed.: Lexington Books, 2021, v. , p. 1-238.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SALVADOR, M. A. ; L. Schmitz ; ; Coelho, R.F. . Comprehensive overview of compressed air energy storage systems. In: David S-K. Ting; Jacqueline A. Stagner. (Org.). Compressed Air Energy Storage: Types, systems and applications. 1ed.: , 2021, v. , p. 91-.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1049/PBPO184E"
+        },
+        {
+          "texto": "COELHO, R. F. ; . An Optimized Maximum Power Point Tracking Method Based on PV Surface Temperature Measurement (DOI: 10.5772/51167). Sustainable Energy - Recent Studies. 1ed.Rijeka: Intech open, 2012, v. , p. 89-114.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ARRUDA, LUIZ FERNANDO MARQUEZ ; LEMOS, GUILHERME BECK ; Coelho, Roberto Francisco ; MARTINS, DENIZAR CRUZ . Synthetic Inertia in Small Inverters: A New Strategy Based on DC Link Current Control*. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11369972"
+        },
+        {
+          "texto": "BELING, RHUAN GUSTAVO ; ORLANDO, TAILAN ; DOS PASSOS ROSA, FELLIPE ; MARTINS, DENIZAR CRUZ ; KIRSTEN, ANDRÉ LUÍS ; SCHMITZ, LENON ; Coelho, Roberto Francisco . Autonomous Photovoltaic System for Water Pumping in Irrigating Remote Agricultural Areas. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231585"
+        },
+        {
+          "texto": "RECH, THIAGO FONSECA ; ORLANDO, TAILAN ; GUERRA, AMANDA LAHERA ; KIRSTEN, ANDRÉ LUÍS ; HELDWEIN, MARCELO LOBO ; Coelho, Roberto Francisco . A Comprehensive Analysis of the Dynamic Phasor Model for the Active Ripple Reduction Circuit. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231607"
+        },
+        {
+          "texto": "ORIGE, MATEUS CONSTANTINO ; Coelho, Roberto Francisco ; SCHMITZ, LENON . Robust Damping Optimization of Power Filters Under Grid Impedance Variations. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231623"
+        },
+        {
+          "texto": "RECH, THIAGO FONSECA ; GRUNER, VICTOR FERREIRA ; Coelho, Roberto Francisco ; HELDWEIN, MARCELO LOBO . Inverter for Three-Phase and Single-Phase Operation With Active Ripple Control. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231508"
+        },
+        {
+          "texto": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; Coelho, Roberto Francisco ; SCHMITZ, LENON . Analytic iGSE Solution for Core Loss Calculation in Single-Phase VSI or Totem-Pole PFC for Hysteresis Control. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ecce58356.2025.11260249"
+        },
+        {
+          "texto": "CESAR DIAS, JULIO ; FERREIRA GRUNER, VICTOR ; CARLOS GILI, LUIZ ; PROTASIO DE LIMA, MATHEUS ; ELLER BEHR, EDUARDO ; FRANCISCO COELHO, ROBERTO ; SCHMITZ, LENON . A Current-Sensorless Quasi-Resonant Control for Flyback Inverters with Low Switching Losses. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ecce58356.2025.11259846"
+        },
+        {
+          "texto": "ARRUDA, LUIZ FERNANDO MARQUEZ ; LEMOS, GUILHERME BECK ; Coelho, Roberto Francisco ; MARTINS, DENIZAR CRUZ . Power Factor Correction Strategy Through Angular Phase Shift in Photovoltaic System. In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/sepoc67005.2025.11297721"
+        },
+        {
+          "texto": "LEITE, ARIDANE NUNES ; Coelho, Roberto Francisco ; SCHMITZ, LENON . A \"uk-Based Three-Port Converter with High-Voltage Gain. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/COBEP66423.2025.11231679"
+        },
+        {
+          "texto": "DA FONSECA GONÇALVES, CHRISTOPHER ; ANDERSON, JOSÉ A. ; MARTINS, DENIZAR C. ; SCHMITZ, LENON ; Coelho, Roberto Francisco . High Step-Up \"uk PFC Rectifier Integrated to Gain Cell Based on Coupled Inductor and Voltage Multiplier. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231561"
+        },
+        {
+          "texto": "DOS PASSOS ROSA, FELLIPE ; BELING, RHUAN GUSTAVO ; ORIGE, MATEUS CONSTANTINO ; DIAS, JULIO CESAR ; Coelho, Roberto Francisco ; SCHMITZ, LENON ; LAZZARIN, TELLES BRUNELLI . Design and Analysis of a GaN-Based Photovoltaic Microinverter Operating Up to 1 MHz. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231650"
+        },
+        {
+          "texto": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; MARTINS, DENIZAR CRUZ ; Coelho, Roberto Francisco ; SCHMITZ, LENON . Modeling and Control of a Quasi-Resonant DC-DC Converter for Thin-Film PV Module Integration. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231682"
+        },
+        {
+          "texto": "SALVADOR, MARCOS ANTÔNIO ; ORLANDO, TAILAN ; MARTINS, DENIZAR CRUZ ; HELDWEIN, MARCELO LOBO ; LAZZARIN, TELLES BRUNELLI ; KIRSTEN, ANDRÉ LUÍS ; Coelho, Roberto Francisco . Dynamic Modeling of Differential DC-DC Converters Using Thévenin Equivalent Circuit. In: 2024 IEEE 15th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2024, Luxembourg. 2024 IEEE 15th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/pedg61800.2024.10667443"
+        },
+        {
+          "texto": "RECH, THIAGO FONSECA ; CONSTANTINO ORIGE, MATEUS ; SCHMITZ, LENON ; HELDWEIN, MARCELO LOBO ; BRUNELLI LAZZARIN, TELLES ; KIRSTEN, ANDRÉ LUÍS ; FRANCISCO COELHO, ROBERTO . A Case Study on Modelling, Design, and Optimization of an Interleaving Buck Converter for Powering a Hydrogen Electrolyzer. In: 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024, Darmstadt. 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ecceeurope62508.2024.10752079"
+        },
+        {
+          "texto": "ORLANDO, TAILAN ; RECH, THIAGO FONSECA ; COSTA, KEVIN RABELO ; FRIEBE, JENS ; LAZZARIN, TELLES BRUNELLI ; KIRSTEN, ANDRÉ LUÍS ; Coelho, Roberto Francisco . Development of Electronic Capacitors In Hardware-in-the-Loop And Its Applications. In: 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024, Darmstadt. 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ecceeurope62508.2024.10751998"
+        },
+        {
+          "texto": "RECH, THIAGO FONSECA ; ORLANDO, TAILAN ; Coelho, Roberto Francisco ; KIRSTEN, ANDRÉ LUÍS . Step-Down Converter for Low Current Ripple in Electrolyzer with MPPT Control Strategy. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/spec56436.2023.10407276"
+        },
+        {
+          "texto": "DA SILVA, MATHEUS MEIRELES ; KIRSTEN, ANDRÉ LUÍS ; Coelho, Roberto Francisco . Assessing the Effects of One-Diode Model Parameter Variations on the I-V Curves of Photovoltaic Generators: An Application. In: 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference (SPEC), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/spec56436.2023.10407734"
+        },
+        {
+          "texto": "BUERGER, ROBERTO ; DOS SANTOS, FREDERICO C. ; HORN, THAMIRES P. ; SINTONIO, MURILO S. ; SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Control and Stability Analysis of DC-DC Converters under Power Sharing Mode. In: 2021 IEEE 12th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2021, Chicago. 2021 IEEE 12th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/PEDG51384.2021.9494272"
+        },
+        {
+          "texto": "DE ANDRADE, JESSIKA MELO ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Modeling Methodology and Control Strategy for Differential Step-up dc-dc Converters. In: 2021 Brazilian Power Electronics Conference (COBEP), 2021, João Pessoa. 2021 Brazilian Power Electronics Conference (COBEP), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/COBEP53665.2021.9750931"
+        },
+        {
+          "texto": "DE ANDRADE, JESSIKA MELO ; FRANCISCO COELHO, ROBERTO ; LAZZARIN, TELLES BRUNELLI . New High Step-up dc-dc Converter with Quasi-Z-Source Network and Switched-Capacitor Cell. In: 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), 2020, New Orleans. 2020 IEEE Applied Power Electronics Conference and Exposition (APEC), 2020. p. 2062.",
+          "ano": 2062,
+          "doi": "http://dx.doi.org/10.1109/apec39645.2020.9124305"
+        },
+        {
+          "texto": "DE SOUZA, VINICIUS FIAMONCINI ; BEHR, EDUARDO ELLER ; WALTRICH, GIERRI ; MARTINS, DENIZAR CRUZ ; Coelho, Roberto Francisco . Photovoltaic Array Emulator Based on the Buck Converter. In: 2019 IEEE 10th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2019, Xi'an. 2019 IEEE 10th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2019. p. 843.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/PEDG.2019.8807464"
+        },
+        {
+          "texto": "GRUNER, VICTOR FERREIRA ; FIAMONCINI, LUCAS ; SCHMITZ, LENON ; MARTINS, DENIZAR CRUZ ; FRANCISCO COELHO, ROBERTO . High Step-Up DC-DC Converter with Input Current Sharing Based on the Forward Converter. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065676"
+        },
+        {
+          "texto": "MARTINS PASTUCH, LUIZ FERNANDO ; FRANCISCO COELHO, ROBERTO ; LAZZARIN, TELLES BRUNELLI ; ANTONIO SALVADOR, MARCOS . Small Scale Compressed Air Energy Storage (SS-CAES) Strategies Overview. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065744"
+        },
+        {
+          "texto": "DE ANDRADE, JESSIKA MELO ; FRANCISCO COELHO, ROBERTO ; LAZZARIN, TELLES BRUNELLI . 250 W Single Stage Step-up Inverter Connected to the Grid. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065879"
+        },
+        {
+          "texto": "PEREIRA, THIAGO A. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Active-Capacitor for Power Decoupling in Single-Phase Grid-Connected Converters. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065863"
+        },
+        {
+          "texto": "PEREIRA, THIAGO A. ; HORN, THAMIRES P. ; DOS SANTOS, WALBERMARK M. ; MUSSA, SAMIR A. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Electrical characterizer of photovoltaic modules using the DC/DC \"uk converter. In: 2018 IEEE International Conference on Industrial Technology (ICIT), 2018, Lyon. 2018 IEEE International Conference on Industrial Technology (ICIT), 2018. p. 954.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/icit.2018.8352307"
+        },
+        {
+          "texto": "SCHLINGMANN, ANDRE L. ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. . A New Step-Up DC-DC Converter for Photovoltaic Applications. In: 2018 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2018, Charlotte. 2018 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/PEDG.2018.8447631"
+        },
+        {
+          "texto": "DA SILVA BORGES, DANIEL TOBIAS ; DOS SANTOS, WALBERMARK MARQUES ; Coelho, Roberto Francisco ; MARTINS, DENIZAR CRUZ . Proposal for Virtual Synchronous Machine with Control Voltage on the DC. In: 2018 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2018, Charlotte. 2018 9th IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/PEDG.2018.8447666"
+        },
+        {
+          "texto": "KENSKI, DIOGO DUARTE ; LAZZARIN, TELLES BRUNELLI ; Coelho, Roberto Francisco . Load voltage compensation of two modes single-phase VSI. In: 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017, Florianopolis. 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/PEDG.2017.7972458"
+        },
+        {
+          "texto": "ORTMANN, MARCIO S. ; MARYAMA, VICTOR ; CAMURCA, LUIZ J. ; GILI, LUIZ C. ; SUAREZ-SOLANO, DIEGO L. ; DANTAS, DANIELA ; FINAMOR, GUSTAVO ; DA SILVA, VICTOR L. ; MUNARETTO, LUCAS ; RUSELER, ADRIANO ; ANDRETA, ANDRE G. ; COELHO, ROBERTO F. ; HELDWEIN, MARCELO L. . Architecture, components and operation of an experimental hybrid ac/dc smart microgrid. In: 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017, Florianopolis. 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/pedg.2017.7972564"
+        },
+        {
+          "texto": "KNABBEN, GUSTAVO CARLOS ; SCHMITZ, LENON ; Coelho, Roberto Francisco ; MARTINS, DENIZAR CRUZ ; CUSTODIO, ODAIR JOSE ; DE MEDEIROS, RENATO ZAMPIROLI ; BETTIOL, ARLAN LUIZ . Transformerless micro-inverter for grid-connected photovoltaic systems. In: 2017 52nd International Universities Power Engineering Conference (UPEC), 2017, HERAKLION. 2017 52nd International Universities Power Engineering Conference (UPEC), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/UPEC.2017.8231946"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Conception of high step-up DC-DC boost-based converters. In: 2017 Brazilian Power Electronics Conference (COBEP), 2017, JUIZ DE FORA. 2017 Brazilian Power Electronics Conference (COBEP), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/cobep.2017.8257241"
+        },
+        {
+          "texto": "KNABBEN, GUSTAVO CARLOS ; SCHMITZ, LENON ; CUSTODIO, ODAIR JOSE ; DE MEDEIROS, RENATO ZAMPIROLI ; BETTIOL, ARLAN LUIZ ; MARTINS, DENIZAR CRUZ ; Coelho, Roberto Francisco . Photovoltaic micro-inverter with active filtering and thin-film capacitors. In: 2017 Brazilian Power Electronics Conference (COBEP), 2017, JUIZ DE FORA. 2017 Brazilian Power Electronics Conference (COBEP), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/cobep.2017.8257253"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; KNABBEN, GUSTAVO C. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. ; CUSTODIO, ODAIR J. ; DE MEDEIROS, RENATO Z. ; FERREIRA, ALEXANDRE L. . Design optimization of a high step-Up DC-DC converter for photovoltaic microinverters. In: 2017 IEEE International Telecommunications Energy Conference (INTELEC), 2017, Broadbeach. 2017 IEEE International Telecommunications Energy Conference (INTELEC), 2017. p. 432.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/intlec.2017.8214174"
+        },
+        {
+          "texto": "FINAMOR, GUSTAVO A. ; SOLANO, DIEGO L. S. ; ORTMANN, MARCIO S. ; RUSELER, ADRIANO ; MUNARETTO, LUCAS ; DA SILVA, DANIELA D. ; COELHO, ROBERTO F. ; HELDWEIN, MARCELO L. . Solar photovoltaic static conversion system applied to a smart microgrid. In: 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017, Florianopolis. 2017 IEEE 8th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/pedg.2017.7972513"
+        },
+        {
+          "texto": "FINAMOR, GUSTAVO A. ; SOLANO, DIEGO L. S. ; ORTMANN, MARCIO S. ; RUSELER, ADRIANO ; MUNARETTO, LUCAS ; GILI, LUIZ C. ; COELHO, ROBERTO F. ; HELDWEIN, MARCELO L. . Stability analysis of a smart microgrid solar photovoltaic system. In: 2017 Brazilian Power Electronics Conference (COBEP), 2017, JUIZ DE FORA. 2017 Brazilian Power Electronics Conference (COBEP), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/cobep.2017.8257416"
+        },
+        {
+          "texto": "SILVA, GILBERTO VALENTIM ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Switched-capacitor differential boost inverter: Static gain and generalized structure. In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/induscon.2016.7874461"
+        },
+        {
+          "texto": "SILVA, GILBERTO VALENTIM ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Switched capacitor boost inverter. In: 2016 IEEE 25th International Symposium on Industrial Electronics (ISIE), 2016, Santa Clara. 2016 IEEE 25th International Symposium on Industrial Electronics (ISIE), 2016. p. 528.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/isie.2016.7744945"
+        },
+        {
+          "texto": "FACCHINELLO, GABRIEL GRUNITZKI ; Coelho, Roberto Francisco ; LAZZARIN, TELLES BRUNELLI . Single-stage grid-connected forward inverter in continuous conduction mode. In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/induscon.2016.7874472"
+        },
+        {
+          "texto": "DE MACEDO, GABRIEL B. N. ; MARTINS, DENIZAR C. ; COELHO, ROBERTO F. . Design and comparative analysis of CL, CLCL and Trap-CL filters for current source inverters. In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2016.7874533"
+        },
+        {
+          "texto": "PEREIRA, T. A. ; SANTOS, W. M. ; MARTINS, D. C. ; COELHO, R. F. . Caracterizador de Curvas I-V e P-V de Módulos Fotovoltaicos utilizando o Conversor CC-CC Cúk em Modo Condução Contínua. In: IEEE International Conference on Industrial Applications, 2016, Curitiba. Induscon 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "GRUNER, V. F. ; ; MARTINS, D. C. ; COELHO, R. F. . Conversor CC-CC de Alto Ganho com Compartilhamento da Corrente de Entrada Empregando Modulação Phase-Shift. In: IEEE International Conference on Industrial applications, 2016. Induscon 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SCHMITZ, LENON ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. . High step-up DC-DC converter with input current sharing for fuel cell applications. In: 2015 IEEE 6th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2015, Aachen. 2015 IEEE 6th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2015. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/pedg.2015.7223013"
+        },
+        {
+          "texto": "MAMEDE, HENRIQUE R. ; DOS SANTOS, WALBERMARK M. ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. . A multicell Dual-Active Bridge converter for increasing the reliability of power supply in a DC microgrid. In: 2015 IEEE First International Conference on DC Microgrids (ICDCM), 2015, Atlanta. 2015 IEEE First International Conference on DC Microgrids (ICDCM), 2015. p. 274.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/ICDCM.2015.7152053"
+        },
+        {
+          "texto": "Coelho, Roberto Francisco ; SCHMITZ, LENON ; MARTINS, DENIZAR CRUZ . Proposal of a power flow control strategy applied to a hybrid microgrid. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/cobep.2015.7420226"
+        },
+        {
+          "texto": "SCHMITZ, LENON ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. . High step-up high efficiency dc-dc converter for module-integrated photovoltaic applications. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/cobep.2015.7420072"
+        },
+        {
+          "texto": "SILVA, GILBERTO V. ; COELHO, ROBERTO F. ; . State space modeling of a hybrid Switched-Capacitor boost converter. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/cobep.2015.7420239"
+        },
+        {
+          "texto": "ROCHA, N. M. M. ; COELHO, R. F. ; PASSOS, J. ; MARTINS, DENIZAR C. . An idea of combination of a PV MPPT algorithm based on temperature control with a PV cooling system. In: 8º Seminário de Eletrônica de Potência e Controle, 2014, Santa Maria - RS. Redes Elétricas Inteligentes - REI, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DA ROCHA, NUNO M. ; COELHO, ROBERTO F. ; MARTINS, DENIZAR CRUZ ; PASSOS, JULIO C. . A suggestion of combining a PV MPPT algorithm based on temperature control with a PV cooling system. In: IECON 2014 40th Annual Conference of the IEEE Industrial Electronics Society, 2014, Dallas. IECON 2014 - 40th Annual Conference of the IEEE Industrial Electronics Society. p. 1950.",
+          "ano": 1950,
+          "doi": "http://dx.doi.org/10.1109/IECON.2014.7048769"
+        },
+        {
+          "texto": "ROCHA, N. M. M. ; COELHO, R. F. ; ; PASSOS, J. . Proposal of associating a PV MPPT algorithm based on temperature control wth a PV cooler system. In: PCIM South America, 2014, São Paulo. PCIM South America, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; . A Single-Phase Grid-Connected Power System Control Strategy for Uninterrupted Energy Generation Employing Renewable Energy Sources. In: PCIM South America, 2012, São Paulo. PCIM South America, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SCHWEITZER, R. ; . Obtenção de modelos médios para grandes sinais voltados à simulação de conversores estáticos. In: Congresso Brasileiro de Automática, 2012, Campina Grande. CBA 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; DOS SANTOS, WALBERMARK M. ; MARTINS, DENIZAR C. . Influence of power converters on PV maximum power point tracking efficiency. In: 2012 10th IEEE/IAS International Conference on Industry Applications INDUSCON 2012, 2012, Fortaleza. 2012 10th IEEE/IAS International Conference on Industry Applications, 2012. p. 1.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2012.6453083"
+        },
+        {
+          "texto": "Coelho, Roberto Francisco ; SCHIMTZ, LENON ; MARTINS, DENIZAR CRUZ . Grid-connected PV-wind-fuel cell hybrid system employing a supercapacitor bank as storage device to supply a critical DC load. In: INTELEC 2011 2011 33rd International Telecommunications Energy Conference, 2011, Amsterdam. 2011 IEEE 33rd International Telecommunications Energy Conference (INTELEC), 2011. p. 1.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/INTLEC.2011.6099817"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; ; MARTINS, DENIZAR C. . Modelling and control of the single-phase dc-ac PWM converter for grid-connected applications including a loop for average primary current controlling. In: 2011 Brazilian Power Electronics Conference (COBEP 2011), 2011, Natal. XI Brazilian Power Electronics Conference, 2011. p. 334.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/cobep.2011.6085259"
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . Estudo Comparativo entre Conversores Estáticos Operando como Rastreadores de Máxima Potência em Sistemas Fotovoltaicos. In: Congresso Brasileiro de Automática, 2010, Bonito - MS. CBA, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SCHONARDIE, MATEUS F. ; RUSELER, ADRIANO ; COELHO, ROBERTO F. ; MARTINS, DENIZAR C. . Three-phase grid-connected PV system with active and reactive power control using dq0 transformation. In: 2010 9th IEEE/IAS International Conference on Industry Applications INDUSCON 2010, 2010, Sao Paulo. 2010 9th IEEE/IAS International Conference on Industry Applications - INDUSCON 2010. p. 1.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/induscon.2010.5740001"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; CONCER, FILIPE M. ; MARTINS, DENIZAR C. . A MPPT approach based on temperature measurements applied in PV systems. In: 2010 9th IEEE/IAS International Conference on Industry Applications INDUSCON 2010, 2010, Sao Paulo. 2010 9th IEEE/IAS International Conference on Industry Applications - INDUSCON 2010. p. 1.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2010.5740006"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; CONCER, FILIPE M. ; MARTINS, DENIZAR C. . A simplified analysis of DC-DC converters applied as maximum power point tracker in photovoltaic systems. In: 2010 2nd IEEE International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2010, Hefei. The 2nd International Symposium on Power Electronics for Distributed Generation Systems. p. 29-34.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/PEDG.2010.5545753"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; CONCER, FILIPE M. ; MARTINS, DENIZAR C. . Analytical and experimental analysis of DC-DC converters in photovoltaic maximum Power Point Tracking applications. In: IECON 2010 36th Annual Conference of IEEE Industrial Electronics, 2010, Glendale. IECON 2010 - 36th Annual Conference on IEEE Industrial Electronics Society, 2010. p. 2778.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/IECON.2010.5675090"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; CONCER, FILIPE ; MARTINS, DENIZAR C. . A study of the basic DC-DC converters applied in maximum power point tracking. In: 2009 Brazilian Power Electronics Conference (COBEP), 2009, Bonito-Mato Grosso do Sul. 2009 Brazilian Power Electronics Conference, 2009. p. 673.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/COBEP.2009.5347723"
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; CONCER, FILIPE ; MARTINS, DENIZAR C. . A proposed photovoltaic module and array mathematical modeling destined to simulation. In: 2009 IEEE International Symposium on Industrial Electronics (ISIE 2009), 2009, Seoul. 2009 IEEE International Symposium on Industrial Electronics, 2009. p. 1624.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/ISIE.2009.5214722"
+        },
+        {
+          "texto": "SCHORNADIE, M. F. ; COELHO, R. F. ; . Photovoltaic System Interconnected to the Grid with Active and Reactive Power Control. In: VIII conferência Internacional de Aplicações Industriais, 2008, Poços de Caldas. INDUSCON, 2008.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "GONCALVES, C. F. ; ANDERSON, J. A. ; MARTINS, D. C. ; ; Coelho, R.F. . High Step-Up Ćuk PFC Rectifier Integrated to Gain Cell Based on Coupled Inductor and Voltage Multiplier. 2025. (Apresentação de Trabalho/Congresso).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . A Eletrônica de Potência aplicada ao processamento da energia solar fotovoltaica. 2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . Energia Solar Fotovoltaica. 2018. (Apresentação de Trabalho/Outra).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; . Fontes Renováveis e Dispositivos de Armazenamento de Energia. 2016. (Apresentação de Trabalho/Outra).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MARINS, D. C. . Implementação de uma microrrede baseada no emprego de fontes renováveis. 2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; . A Single-Phase Grid-Connected Power System Control Strategy for Uninterrupted Energy Generation Employing Renewable Energy Sources. 2012. (Apresentação de Trabalho/Congresso).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . Geração e Processamento de Energia Solar Fotovoltaica. 2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . Grid-connected Renewable Hybrid System for Uninterruptible dc load maintenance. 2011. (Apresentação de Trabalho/Congresso).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . Modelling and contrl of the single-phase dc-ac PWM converter for grid-conneted applications including a loop for average primary current controlling. 2011. (Apresentação de Trabalho/Congresso).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . Estudo comparativo entre conversores estáticos operando como rastreadores de máxima potência em sistemas fotovoltaicos. 2010. (Apresentação de Trabalho/Congresso).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . A MPPT approach based on temperature measurments applied in PV systems. 2010. (Apresentação de Trabalho/Congresso).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Mateus Felzke Schornadie ; Adriano Russeler ; COELHO, R. F. ; . Three-phase grid-connected PV system with active and reactive control using dqo transformation. 2010. (Apresentação de Trabalho/Congresso).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; . A study of the basic dc-dc converters applied in maximum power point tracking. 2009. (Apresentação de Trabalho/Congresso).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "COELHO, R. F. . Concepção, análise e implementação de uma microrrede interligada à rede Elétrica para alimentação ininterrupta de cargas cc a partir de fontes renováveis 2013 (Tese de Doutorado).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . Estudo dos conversores Buck e Boost aplicados ao rastreamento de máxima potência de sistemas solares fotovloltaicos 2008 (Dissertação de Mestrado).",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "items": [
+        {
+          "texto": "COELHO, R. F. ; MARINS, D. C. . Técnica de rastreamento de máxima potência baseada na mediação de temperatura na superfície de módulos fotovoltaicos. 2010.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "COELHO, R. F. ; OLIVIERA, R. H. . Dimensionado de um sistema fotovoltaico para suprimento de uma estação rádio-base para o Corpo de Bombeiros de Santa Catarina. 2012.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "items": [
+        {
+          "texto": "COELHO, R. F. ; MARTINS, D. C. ; ; PEREIRA, T. A. ; CUSTODIO, O. J. . O sol também é nosso. 2017. (Programa de rádio ou TV/Comentário).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . Fontes renováveis como moeda de troca. 2016. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "COELHO, R. F. . Energia Solar Fotovoltaica. 2015. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SANTOS, W. M. ; . Introdução à microgeração fotovoltaica no Brasil: Conceitos e normas. 2013. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SANTOS, W. M. ; . Introdução à Geração Fotovoltaica. 2012. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. . Sistemas de Processamento de Energia Fotovoltaica. 2011. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SANTOS, W. M. ; . Técnicas de Rastreamento de Máxima Potência para Sistemas Fotovoltaicos: Revisão e Novas Propostas. 2011. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "Coelho, R.F. ; PEREIRA, H. A.; DARDENGO, V. P.; BRITO, E. M. S.. Participação em banca de Ives de Oliveira Furtado. \"Gtracer, A Unified Tool For Photovoltaic Module Characterization And Performance Monitoring. 2026. Dissertação (Mestrado em Engenharia Elétrica (Ufsj / Cefet-Mg)) - Universidade Federal de São João Del-Rei.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "Coelho, R.F. ; MORETO, M.; GUARDA, F. G. K.. Participação em banca de Antonio Almeida de Sousa Neto. Estudo de proteção para sistemas de minigeração fotovoltaica e análise da influência da modelagem matemática do conversor estático. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "NASPOLINI, H. F.; RUTHER, R.; Coelho, R.F. . Participação em banca de Daniel Odílio dos Santos. Avaliação da inserção da geração fotovoltaica em redes isoladas. 2023. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AGOSTINI JUNIOR, E.; FONTE, C. H. I.; NASCIMENTO, C. B.; Coelho, R.F. . Participação em banca de JOSE LUIZ SAVIEL GERALDIS. Conversor CC-CC ZVZCS de Três Níveis com Ampla Faixa de Comutação Suave. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GULES, R.; CORTEZ, D. F.; Coelho, R.F. . Participação em banca de Leandro de Orte Stamm. Retificadores trifásicos três níveis em modo de condução descontínua para geração eólica de baixa potência. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SIMONETTI, D. S. L.; PAIVA, M. H. M.; COELHO, ROBERTO ; SANTOS, W. M.. Participação em banca de André Luiz Silva Crivellari. Projeto otimizado de conversores cc-cc sintetizados pela teoria de grafos e algoritmo genético aplicando parâmetros avaliativos de performance. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; RUTHER, R.; Coelho, R.F. . Participação em banca de Valdecir Junior De Paris. Projeto e Simulação de um Sistema de Microgeração Híbrido Alimentado por Energia Hídrica e Solar Fotovoltaica. 2022. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "VITORINO, M. A.; Coelho, R.F. . Participação em banca de Thiago Fonseca Rech. FLEXIBLE GRID CONNECTED INVERTER TO ENABLE SINGLEAND THREE-PHASE POWER PROCESSING WITH AN INTEGRATED ACTIVE RIPPLE CONTROL UNIT. 2021. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FONTE, C. H. I.; MARTINS, M. L. S.; Coelho, R.F. ; CASARO, M. M.. Participação em banca de André Miguel Senderski. Conversor CC-CC SEPIC com célula R2P2 para Aplicações com Elevado Ganho Estático. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CORTEZ, D. F.; Coelho, R.F. ; GULES, R.. Participação em banca de Luís Paulo Custódio. RETIFICADOR BOOST TRIFÁSICO INTERCALADO COM RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA PARA APLICAÇÃO EM AEROGERADOR DE PEQUENO PORTE. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FLESH, R. C. C.; COELHO, R. F. ; OLIVEIRA, M. L. C.; NORMEY-RICO, J. E.. Participação em banca de Samuel Bahu Rovea. Controle Preditivo Adaptativo de Cômputo Rápido para Sistemas Dinâmicos Lineares com 9 Parâmetros Variantes. 2020. Dissertação (Mestrado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; BATSCHAUER, A. L.; OLIEVIRA, S. V. G.. Participação em banca de Marciel Wenk. Estudo, modelagem e controle de conversor cc-cc bidirecional não-isolado baseado na célula de comutação de três estados. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MEZAROBA, M.; HEERDT, J. A.; MICHELS, L.. Participação em banca de José Adriano Damacena Diesel. Carga eletrônica ativa regenerativa aplicada a ensaios de anti-ilhamento de inversores fotovoltaicos. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MOIA, J.; COELHO, R. F. . Participação em banca de Vanderlei Cardoso. Conversor duplo boost-flyback de alto ganho. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA JUNIOR, D. S.; OLIVEIRA FILHO, H. M.; PRACA, P. P.; BASCOPE, R. P. T.; COELHO, R. F. . Participação em banca de Raimundo Nonato da Silva. Conversor CC-CC trifásico, bidirecional, com três portas, isolado em alta frequência para aplicação em sistemas fotovoltaicos. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Ceará.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MOIA, J.. Participação em banca de Rogério Luiz da Silva Júnior. Fonte Auxiliar para Média Tensão de 2 kV para 24 V Baseada na Integração do Conversor Forward com Células de Capacitor Chaveado. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "HAUSMANN, R.; COELHO, R. F. ; MUSSA, S. A.. Participação em banca de Julio Cesar Dias. Família de retificadores boost unidirecionais híbridos monofásicos com célula de capacitor chaveado. 2017. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "HAUSMANN, R.; COELHO, R. F. ; BORGES, A. R.. Participação em banca de Luciano Moraes Neto. Conversor CC-CC bidirecional empregando célula de comutação de quatro estados. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Fundação Universidade Regional de Blumenau.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BATISTA, F. A. B.; ; COELHO, R. F. . Participação em banca de Luis Juarez Castelo Branco Camurça Neto. Sistema de conversão de energia eólica de alta eficiência utilizando o conversor delta tipo-T e minimização de perdas da máquina baseada em modelo. 2016. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, D. F.; ORTMANN, M. S.; COELHO, R. F. ; MUSSA, S. A.. Participação em banca de Alex Augusto Costa Machado. Modelagem e estudo de estabilidade de sistemas com múltiplos filtros ativos paralelos que empregam controladores ressonantes. 2016. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PETRY, C. A.; HELDWEIN, M. L.; COELHO, R. F. ; MUSSA, S. A.. Participação em banca de Henrique Mamede. Interligação de conversores DAB para aplicação em transformadores de estado sólido. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; FONTE, C. H. I.; ; BUTTENDORF, J. M.; . Participação em banca de Rodrigo José Piontkewicz. Conversor cc-cc modular isolado para elevadas tensões de entrada e de saída. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MARTINS, DENIZAR C.; ORTMANN, M. S.; PERES, A.. Participação em banca de Rômulo Schweitzer. Sistema de bombeamento de água empregando bomba vibratória submersa alimentada por meio de módulos fotovoltaicos. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; PERES, A.; KASSICK, E. V.; COELHO, R. F. . Participação em banca de Jefferson William Zanotti. Rastreador de máxima potência para sistemas fotovoltaicos utilizando o método da impedância característica de conversores estáticos. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; WALTRICH, G.; HAUSMANN, R.. Participação em banca de Rafael Comes Faust. Conversor flyback modular conectado em série na entrada e em série na saída operando no modo descontínuo com pulso único de comando. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "NOVAES, Y. R.; HEERDT, J. A.; COELHO, R. F. ; BATSCHAUER, A. L.. Participação em banca de Tiago Lemes da Silva. Estudo do inversor monofásico T-Type de cinco níveis para processamento de energia solar fotovoltaica. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; WALTRICH, G.; FONTE, C. H. I.; QUEIROZ, H. L.. Participação em banca de Rafael Henrique Eckstein. Sistema para conexão de pequenos aerogeradores com a rede elétrica: análise, projeto e experimentação. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "PINHEIRO, H.; COUTINHO, D. F.; COELHO, R. F. ; . Participação em banca de Andre Guitierrez Andreta. Estratégia híbrida de controle para inversores trifásicos conectados à rede baseada em controladores deadbeat + ressonante. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "SANTOS, W. M.; ENCARNACAO, L. F.; PENA, E. J. B.; SIMONETTI, D. S. L.; Coelho, R.F. ; MARTINS, D. C.; RECH, C.. Participação em banca de Adriano Fazolo Nardoto. Desenvolvimento e validação experimental do controle preditivo em conversores DAB e ANPC-DAB aplicados a SST. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Coelho, R.F. ; BADIN, A. A.; RUSSELER, A.; CORTEZ, D. F.; DEMONTI, R.. Participação em banca de ÉDWIN AUGUSTO TONOLO. Conversores cc-cc de alto ganho interleaved baseados na célula de comutação SC-PFM sem sensor de corrente para sistemas fotovoltaicos. 2024. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "GULES, R.; BADIN, A. A.; AGOSTINI JUNIOR, E.; Coelho, R.F. ; FONSECA, Z. P.. Participação em banca de Ismael Burgardt. Retificadores PFC monofásicos isolados integrados empregando estratégias de controle e modulação para redução de capacitância. 2024. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BADIN, A. A.; ASSEF, A. A.; BIANCHIN, C. G.; COELHO, R. F. ; GULES, R.. Participação em banca de Andressa Carolinne Del Monego. Conversor Trifásico CA-CC de estágio único isolado com correção ativa do fator de potência. 2024. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARETTI, A. E.; Coelho, R.F. ; ISSICABA, D.. Participação em banca de Vitor Fernando Couto. Detecção de Faltas de Alta Impedância em Microrredes Considerando a Influência de Geração Conectada via Conversores de Frequência. 2023. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "TOFILI, F. L.; GULES, R.; Coelho, R.F. . Participação em banca de e Marcelo Flavio Guepfrih. Conversores CCCC Não Isolados de Elevado Ganho Estático Concebidos com Acoplamento Magnético. 2021. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MARTINS, M. L. S.; ALVES, R. L.; KIRSTEN, A.. Participação em banca de Lenon Schmitz. Metodologia para Concepção de Conversores CC-CC de Alto Ganho baseados em Topologias Básicas com Indutor Acoplado e Células Multiplicadoras de Tensão. 2020. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ZANESCO, I.; BECHTOLD, I. H.; COELHO, R. F. . Participação em banca de Manfred Georg Kratzenberg. Multidimensional optimization of perovskite-type solar cells. 2020. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, M. C.; RECH, C.; COELHO, ROBERTO F. ; NOVAES, Y. R.; BATSCHAUER, A. L.. Participação em banca de Rubens Tadeu Hock Júnior. Conversor multiníveis para compensação de reativos e harmônicos em redes de distribuição. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, M. C.; WALTRICH, G.; COELHO, R. F. . Participação em banca de Lucas Lapolli Brighenti. Estudo de geometrias de núcleos usadas em barramentos magnéticos de alta frequência. 2020. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BADIN, A. A.; CORTEZ, D. F.; SA JUNIOR, E. M.; VILELA JUNIOR, J. A.; COELHO, R. F. ; GULES, R.. Participação em banca de Zito Palhano da Fonseca. Desenvolvimento de Conversores Eletrônicos de Energia com Estágio Único e Elevado Fator de Potência Para Acionar e Controlar Iluminação de Estado Sólido. 2020. Tese (Doutorado em Programa de Pós-Graduação em Tecnologia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, R. V.; MOREIRA, C. C. L. M.; COSTA, A. J. A. S.; COELHO, R. F. . Participação em banca de Kauana Palma Silva. MÉTODOS DE PROJETO DE CONTROLADORES PARA SISTEMAS ELÉTRICOS EM OPERAÇÃO TEMPORÁRIA OU PERMANENTEMENTE ISOLADA. 2020. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CASSULA, A. M.; LEMOS, F. A. B.; COELHO, R. F. . Participação em banca de Ivo Cristiano de Almeida Gonçalves Costa. Avaliação da confiabilidade de sistemas de distribuição considerando a interferência do vento, esquema de proteção e variação da tensão. 2019. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, ROBERTO F. ; NOVAES, Y. R.; PETRY, C. A.; MUSSA, S. A.. Participação em banca de Marcos Antonio Salvador. Conversores CC-CC Diferenciais de Alto Ganho. 2018. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GULES, R.; BATISTA, F. A. B.; COELHO, R. F. ; MUSSA, S. A.; HELDWEIN, M. L.. Participação em banca de Paulo Junior Silva Costa. Retificadores SEPIC monofásicos e trifásicos com elevação de ganho estático e redução dos esforços de tensão sobre os semicondutores. 2017. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "GULES, R.; FONTE, C. H. I.; CORTEZ, D. F.; WALTRICH, G.; COELHO, R. F. . Participação em banca de Rodrigo de Souza Santos. Inversores PWM trifásicos híbridos a capacitor chaveado para aplicações com reduzido ganho de tensão (high step-down). 2017. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FONTE, C. H. I.; HAUSMANN, R.; MUSSA, S. A.; COELHO, R. F. ; WALTRICH, G.. Participação em banca de Adriano Ruseler. Inversor modular baseado na conexão série de pontes completas para acionamento de motores com enrolamentos divididos e em aberto. 2016. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "RECH, C.; KASSICK, E. V.; HELDWEIN, M. L.; ; COELHO, R. F. . Participação em banca de Walbermark Marques dos Santos. Contribuição ao estudo e concepção de conversores multiportas com acoplamento magnético para utilização em SST. 2016. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "GULES, R.; BADIN, A. A.; AGOSTINI JUNIOR, E.; Coelho, R.F. . Participação em banca de Ismael Burgardt. RETIFICADORES PFC MONOFÁSICOS ISOLADOS DE ESTÁGIO ÚNICO EMPREGANDO ESTRATÉGIAS DE CONTROLE E MODULAÇÃO PARA REDUÇÃO DE CAPACITÂNCIA. 2023. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BADIN, A. A.; CORTEZ, D. F.; Coelho, R.F. . Participação em banca de Edwin Augusto Tonolo. CONVERSORES CC-CC PARA SISTEMAS FOTOVOLTAICOS BASEADO NA CÉLULA DE COMUTAÇÃO SC-SFM SEM SENSORES DE CORRENTE. 2022. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARETTI, A. E.; COELHO, R. F. ; ISSICABA, D.. Participação em banca de Vitor Fernando Couto. Detecção de Faltas de Alta Impedância Considerando a Influência de Geração Conectada via Inversores de Frequência. 2021. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BADIN, A. A.; GULES, R.; COELHO, R. F. . Participação em banca de Andressa Carolinne Del Monego. CONVERSOR TRIFÁSICO CA-CC DE ESTÁGIO ÚNICO ISOLADO COM CORREÇÃO ATIVA DO FATOR DE POTÊNCIA. 2021. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SANTOS, W. M.; KIRSTEN, A.. Participação em banca de Vinicius Fiamoncini de Soza. Capacitor eletrônico: proposta, análise, dimensionamento, modelagem e controle. 2021. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; BATSCHAUER, A. L.; KIRSTEN, A.; . Participação em banca de Víctor Ferreira Gruner. DESIGN METHODOLOGY OF PHOTOVOLTAIC INVERTERS CONSIDERING THE HARMONIC DISTORTION OF THE GRID CURRENT AS A DESIGN PARAMETER. 2020. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; OLIEVIRA, S. V. G.; ALVES, R. L.; KIRSTEN, A.. Participação em banca de Lenon Schmitz. Microinversor fotovoltaico para módulos de filme fino com capacidade de prover serviços ancilares à rede elétrica comercial. 2018. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; NOVAES, Y. R.; PETRY, C. A.. Participação em banca de Marcos Antonio Salvador. Conversores cc-cc diferenciais de alto ganho. 2018. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; OLIEVIRA, S. V. G.; ALVES, R. L.; KIRSTEN, A.. Participação em banca de Lenon Schmitz. Microinversor Fotovoltaico para módulos de filme fino com capacidade de prover serviços ancilares à rede elétrica comercial. 2018. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; FONTE, C. H. I.; HAUSMANN, R.; MARTINS, D. C.; KASSICK, E. V.. Participação em banca de Gilberto Valentim Silva. Inversor boost a capacitor chaveado. 2017. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; NOVAES, Y. R.; WALTRICH, G.; MOIA, J.; COELHO, R. F. . Participação em banca de Roberto Buerger. Contribuição ao estudo de microrredes supridas a partir de geração fotovoltaica com possibilidade de operação em modo isolado ou conectado à rede elétrica. 2017. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, M. C.; RECH, C.; COELHO, R. F. . Participação em banca de Rubens Tadeu Hock Júnior. Conversor multiníveis para compensação de reativos e harmônicas em redes de distribuição. 2017. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, A. S. E.; COSTA, A. J. A. S.; OLIVEIRA, R. V.; COELHO, R. F. ; MORETO, M.. Participação em banca de Kauana Palma Silva. Aspectos dinâmicos da modelagem e controle de microrredes. 2017. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; BECHTOLD, I. H.; FOLGUERAS, M. V.. Participação em banca de Manfred Georg Kratzenberg. Eficiência máxima de célula solar de peroviskita a partir da configuração de suas propriedades de material: uma abordagem multidisciplinar. 2017. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; BORGES, C. L. T.; LEMOS, F. A. B.; COELHO, R. F. . Participação em banca de Ivo Cristiano de Almeida Gonçalves da Costa. Proposta de modelo de interrupção para avaliação probabilística da adequação e segurança de sistemas elétricos.. 2016. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; DUARTE, C. M. C.; AGOSTINI JUNIOR, E.; COELHO, R. F. . Participação em banca de Delvanei Gomes Bandeira Junior. Conversores cc-cc isolados tipo T com comutação suave para altas tensões. 2016. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; GULES, R.; HELDWEIN, M. L.; COELHO, R. F. ; WALTRICH, G.. Participação em banca de Paulo Junior Silva Costa. Retificadores SEPIC monofásicos e trifásicos com elevação do ganho estático e redução dos esforços de tensão sobre seus semicondutores. 2016. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "NOVAES, Y. R.; BATISTA, F. A. B.; COELHO, R. F. ; ORTMANN, M. S.. Participação em banca de Daniel Augusto Collier. Contribuição ao estudo de retificadores multiníveis PWM unidirecionais com interruptores CA em delta. 2015. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, DENIZAR C.; VILLALVA, M. G.; COELHO, R. F. ; HELDWEIN, M. L.. Participação em banca de Walbermark Marques dos Santos. Contribuição ao estudo e aplicação de conversores multiportas com link magnético para utilização em UPS ou SST em microrredes cc e/ou ca. 2014. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "COELHO, R. F. ; CASARO, M. M.; FONTE, C. H. I.. Participação em banca de André Miguel Senderski. Conversor CC-CC SEPIC com Célula R2P2 para Aplicações com Elevado Ganho Estático. 2020. Exame de qualificação (Mestrando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MAZZOLA, C. F.; LEITE, J. V.; Coelho, R.F. ; BECKER, C.. Participação em banca de Vitor Eickhoff Cavalhieri.Desenvolvimento de um algoritmo para análise da relação tensão/frequência em regime transitório durante acionamentos elétricos com fontes de alimentação variáveis. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KIRSTEN, A.; COELHO, R. F. ; RECH, T. F.. Participação em banca de Tiago Nascimento Siemann.Estudo sobre modulação de conversores buck intercalados. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MAZZOLA, C. F.; LEITE, J. V.; Coelho, R.F. ; BECKER, C.. Participação em banca de Vinicius Delatore Martins de Andrade.Desenvolvimento de um dispositivo para medição de sinais de transdutores de torque. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Coelho, R.F. ; SUZUKI, D.; ORLANDO, T.. Participação em banca de Erich Mello Oehninger.Sistema de gerenciamento de baterias de íons de lítio para aeronave remotamente pilotada classe 3 de reserva energética híbrida.. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; ; Coelho, R.F. . Participação em banca de Guilherme Beck Lemos.Implementação de Inércia Virtual como Técnica de Controle de um Inversor Fotovoltaico de 3kW. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; Coelho, R.F. ; MUSSA, S. A.. Participação em banca de Marcelo Macagnan.Estudo de filtros LCL para inversores trifásicos conectados à rede para atender normas de conteúdo harmônico. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZURN, H. H.; Coelho, R.F. ; DEUS, L. M.. Participação em banca de Rafael Augusto Fernandez Bittar.Dimensionamento e análise de viabilidade econômica de um empreendimento de microgeração de energia fotovoltaica localizado em Minas Gerais: um estudo de caso. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; Coelho, R.F. ; SALGADO, R. S.. Participação em banca de Pedro Parron Vargas.Energia Solar Fotovoltaica: Análise de sua expansão no Brasil. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; SILVA, GILBERTO VALENTIM; OLIVIERA, R. H.; ARRUDA, L. F. M.. Participação em banca de Diogo Hackmann.Análise e utilização de um painel elétrico de comando para um picador florestal voltado à produção de biomassa. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RAIZER, A.; Coelho, R.F. ; ELIAS, E. P.; CASSOLI JR., J.. Participação em banca de Rafael Ruiz Peroni.Análise de um Sistema de Geração de Energia Eólica: Estudo das Correntes Comuns e Diferenciais em um Modelo de Simulação Numérica. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; Coelho, R.F. ; PACHECO, A. L. S.. Participação em banca de Lucas Henrique Ranucci.GERAÇÃO DISTRIBUÍDA: INTEGRAÇÃO DE GERAÇÃO SOLAR FOTOVOLTAICA COM BIOGÁS. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, ROBERTO ; KIRSTEN, A. L.; PARIS, V. J.. Participação em banca de Álisson Carlos da Silva.Implementação e análise de um sistema de processamento de energia composto por geração fotovoltaica e armazenamento por baterias utilizando a técnica de software-in-the loop. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, ROBERTO ; L. Schmitz; ECKSTEIN, R. H.. Participação em banca de Yago Nunes.Análise comparativa do efeito de sombreamento entre o uso de inversores string e microinversores no cenário de irradiação de Florianópolis. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; LEITE, J. V.; COELHO, ROBERTO F. . Participação em banca de Israel Pereira Marcelino.Análise de viabilidade técnica e econômica de um sistema fotovoltaico de microgeração distribuída. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; Coelho, R.F. ; PACHECO, A. L. S.. Participação em banca de Rodolfo Brunetto Machado Borges.Desenvolvimento de hardware para um sistema de controle de temperatura de baterias de íons de lítio. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; LEITE, J. V.; Coelho, R.F. . Participação em banca de Suellen Ribeiro.Mobilidade Elétrica e Estações de Recarga para Veículos Elétricos: um Estudo. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; Coelho, R.F. ; LEITE, J. V.. Participação em banca de Matheus Murilo Livramento.Análise de viabilidade econômica de um sistema fotovoltaico integrado a um supermercado. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; LEITE, J. V.; Coelho, R.F. . Participação em banca de José Eduardo Nascimento dos Santos.Inversores multiníveis a capacitor flutuante: em aplicação de processamento de energia fotovoltaica conectado à rede. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PACHECO, R. L.; Coelho, R.F. ; LEITE, J. V.. Participação em banca de Gustavo Rodrigues Nolla.Análise do custo total de propriedade da adoção de veículos elétricos na frota de coletivo urbano de Florianópolis. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Coelho, R.F. ; ECKSTEIN, R. H.; GONCALVES, C. F.. Participação em banca de Douglas Florentin de Nadai.Conversor cc-cc de alto ganho baseado no conversor Landsman. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; GLORIA, L. L.; LEITES, T. N.; HELDWEIN, M. L.; . Participação em banca de Débora Batissoco Sanches de Oliveira.ANÁLISE DA VIABILIDADE DE RESPOSTA DA DEMANDA EM EQUIPAMENTOS HVAC.. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; MARTINS, D. C.; L. Schmitz; SANTOS, W. M.. Participação em banca de Alberto Besen Borges.LEVANTAMENTO EXPERIMENTAL DO GRADIENTE TÉRMICO DE MÓDULOS FOTOVOLTAICOS COM FOCO NA APLICAÇÃO DO ALGORITMO DE RASTREAMENTO DO PONTO DE MÁXIMA POTÊNCIA BASEADO NA MEDIÇÃO DE TEMPERATURA. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; ANDRADE, JESSIKA M.; BALBINO, A. J.. Participação em banca de Ion Leandro dos Santos.Inversor Diferencial Buck-Boost com Técnica de Linearização de Ganho Estático para Redução de Distorção Harmônica de Tensão. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; NASPOLINI, H. F.; COELHO, R. F. . Participação em banca de Júlia Nunes.Implementação de módulos fotovoltaicos em torres de transmissão. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; MARTINS, D. C.; ECKSTEIN, R. H.. Participação em banca de André Luiz Canela.Desenvolvimento e execução de um controlador de carga para um sistema fotovoltaico autônomo. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; GRUNER, V. F.; HELDWEIN, M. L.; . Participação em banca de Eduardo Eller Behr.Filtros passivos aplicados a inversores monofásicos conectados à rede elétrica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "RABELO, R. J.; CASARIN, M. A.; COELHO, R. F. ; KIRSTEN, A.; BERTO, R. F.; BATTI, B. M. B.. Participação em banca de Gabriel Vinicius Casarin.Análise de viabilidade econômica de um sistema fotovoltaico conectado à rede elétrica baseado em um estudo de caso. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "HELDWEIN, M. L.; COELHO, R. F. ; KIRSTEN, A.. Participação em banca de Fellipe Paolo Buzzarello.Análise financeira de rede inteligente na Universidade Federal de Santa Catarina. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; TOCCOLINI, K.. Participação em banca de Felipe Zimmerman Severino.Contribuição ao estudo da interferência eletromagnética em sistemas fotovoltaicos autônomos. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "HELDWEIN, M. L.; SILVA, A. S. E.; COELHO, R. F. . Participação em banca de Mateo Daniel Roig Greidanus.Estratégia de controle da regulação de tensão via inversor VSI padrão em microrredes CC-CA trifásica. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; PERIN, A. J.; COELHO, R. F. . Participação em banca de Guilherme Schowantz Silva.Modelagem das perdas térmicas em semicondutores de potência. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KIRSTEN, A.; JUNG, F.; COELHO, ROBERTO F. . Participação em banca de Luiz Felipe Manke.Análise dinâmica da associação de conversores Flyback operando no modo de condução descontínua. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; PACHECO, A. L. S.; BUERGER, R.. Participação em banca de Murilo Scarpa Sitonio.Estudo de estratégias de controle para conversores CC-CC conectados em paralelo com foco numa microrrede fotovoltaica operando em modo isolado. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, H. B.; ; PAGANO, D. J.; GUEDES, P. C.; SOUZA, G. C.; COELHO, R. F. . Participação em banca de Thamires Porth Horn.Modelagem Dinâmica de Conversores CC-CC Elevadores de Alto Ganho. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ECKSTEIN, R. H.; ; ANDERSON, J. A.. Participação em banca de Vitor Querino Palhano.Comparação experimental de métodos de rastreamento do ponto de máxima potência de módulos fotovoltaicos. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "PASSOS, J. C.; COELHO, R. F. ; HIPOLITO, H. L.. Participação em banca de Marcelo Pesco Alcade.Desenvolvimento e análise de sistema solar híbrido inteligente. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; PAGLIOSA, M. A.. Participação em banca de Jeferson Nogueira dos Santos.Eficiência energética em sistemas de excitação para máquinas síncronas. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, D. C.; PERIN, A. J.; COELHO, R. F. . Participação em banca de Clênio Silva Araújo.Análise de perdas de comutação e características elétricas de módulos IGBT de alta potência usados em conversores de energias renováveis através do teste de double pulse. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; ECKSTEIN, R. H.; SALVADOR, M. A.. Participação em banca de Airton Isaac Pereira.Conversor cc-cc de alto ganho baseado no conversor Cuk. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; PEREIRA, T. A.; ECKSTEIN, R. H.. Participação em banca de Umberto De Marco Bragaglia.Estudo do comportamento dinâmico do conversor Buck por meio da análise da resposta em frequência. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SCHNEIDER, M. C.; COELHO, R. F. ; RADIN, R. L.; NOVACK, D.. Participação em banca de Nathalia Della Giustina Ballmann.Conversor Boost para aplicações em baixa tensão. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; RUSSELER, A.. Participação em banca de Rogério Luiz da Silva Júnior.Conversor CA-CA trifásico a capacitor chaveado com número reduzido de interruptores. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SALGADO, R. S.; COELHO, R. F. ; COELHO, V. B.. Participação em banca de Renan Gaetti Franco.O impacto da inserção dos geradores eólicos no sistema elétrico brasileiro com ênfase no subsistema Sul. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; CUSTODIO, O. J.; COELHO, R. F. ; SANTOS, W. M.. Participação em banca de André Tonelli Schneider.Proposta de uma configuração de microrrede trifásica com suporte natural à falta de uma fase. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; ; SILVA, GILBERTO V.. Participação em banca de Rafael Fornari Müller.Modelos médios de grandes e pequenos sinais dos conversores cc-cc básicos não isolados: Buck, Boost e Buck-boost. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; KIRSTEN, A.; ; SANTOS, W. M.. Participação em banca de Rafael Pizzolatto.Validação experimental do comportamento de conversores cc-cc básicos não isolados empregados como rastreadores do ponto de máxima potência em sistemas fotovoltaicos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; PETRY, C. A.; FUERBACK, A. L.; SANTOS, W. M.. Participação em banca de Thiago Antonio Pereira.Concepção, projeto, dimensionamento e avaliação prática de um caracterizador elétrico de módulos fotovoltaicos utilizando o conversor cc-cc Cuk. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; SILVA, GILBERTO V.. Participação em banca de Caio Vale Barbosa Eiterer.Estudo do conversor boost com célula de multiplicação. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; PAGLIOSA, M. A.; SOUSA, G. J. M.. Participação em banca de Vinícius Bernardi Fuerback.Conexões série e paralelo do conversor flyback modular operando no modo de condução descontínua. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; Roberto Francisco Coelho ; ; SANTOS, W. M.. Participação em banca de Carolina Knesel.Transformador de estado sólido monofásico utilizando o conversor Dual Active Bridge (DAB): estudo do bloco DAB-inversor. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "NASPOLINI, H. F.; RUTHER, R.; ; COELHO, R. F. . Participação em banca de Eduardo Martins Deschamps.Avaliação de desempenho de diferentes tecnologias solares fotovoltaicas no nordeste brasileiro. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; WALTRICH, G.; SANTOS, W. M.. Participação em banca de Leonardo Hugen Panata.Estudo de viabilidade financeira para a instalação de uma unidade de microgeração fotovoltaica no Shopping Center Iguatemi Florianópolis. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; WALTRICH, G.. Participação em banca de Neilor Colombo Dal Pont.Inversor monofásico elevador com controle instantâneo de tensão baseado na integração entre um inversor clássico e um conversor a capacitor chaveado. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBI, I.; . Participação em banca de Mauricio Dalla Vecchia.Conversor CA-CA trifásico a capacitor chaveado com conexão delta-aberto. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; COELHO, R. F. ; ORTMANN, M. S.. Participação em banca de Vinícius Neto Trucco.Projeto de um inversor trifásico full-bridge de 1 kW de potência com modulação PWM senoidal em malha aberta. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; ; SOUZA, E. V.. Participação em banca de Frederico Brandt Torres.Estudo e comparação de métodos de anti-ilhamento para sistemas de geração fotovotltaica conectados à rede elétrica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; KASSICK, E. V.; WALTRICH, G.. Participação em banca de Frederico Costa dos Santos.Metodologia para determinação de impedância de conversores voltada à análise de microrredes compostas por fontes renováveis. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; KASSICK, E. V.; WALTRICH, G.. Participação em banca de Artur Pagnoncelli Galbiatti.Investigação sobre os efeitos da redução da temperatura de módulos fotovoltaicos na energia gerada. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; COELHO, R. F. ; WALTRICH, G.. Participação em banca de Marcel Araújo Cunha.Inversor de tensão tipo boost baseado na integração do inversor clássico com células de capacitor chaveado. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "HELDWEIN, M. L.; KASSICK, E. V.; MOIA, J.; COELHO, R. F. . Participação em banca de Andreas Mattos Pratto Corrêa.Desenvolvimento de ferramenta computacional para a análise do impacto de fontes de geração distribuída com interface de eletrônica de potência nos perfis harmônicos de tensão em redes de distribuição. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MUSSA, S. A.; COELHO, R. F. ; ORTMANN, M. S.. Participação em banca de Daniel Cabral Silveira.Plataforma baseada em FPGA para Controle de Conversores Estáticos. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F. ; ; WALTRICH, G.. Participação em banca de Evandro Gabriel Oss-Emer.Sistema de recarga de baterias a partir de módulos fotovoltaicos com rastreamento de máxima potência baseado na estimação de temperatura. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; BARBI, I.. Participação em banca de Lenon Schmitz.Estágio de processamento da energia gerada a partir de células a combustível para aplicação em um sistema de microgeração interligado à rede elétrica comercial. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; ; WALTRICH, G.; . Participação em banca de Marcos Paulo Moccelini.Conversor CC-CA a capacitor chaveado com saída monofásica split-phase. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; SANTOS, W. M.; ; . Participação em banca de Henrique Rocha Mamede.Parelelismo de conversores DAB (Dual Active Bridge) utilizando a teoria do gyrator. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; MAY, P. R.; ALKAIN, J. L.. Participação em banca de Ronaldo Alves Silva.Energias Renováveis: Estádios Solares. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRE, A. S.; TRAVESSA, S. S.. Participação em banca de Bruno Filippe Espindola e Luciano Pedro Demoro.Smart Grid: os primeiros passo para implantação do conceito no Brasil. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRE, A. S.. Participação em banca de Bruna Mariá Morosini Bogoni e Guilherme luiz Eberhardt.Sistema Fotovoltaico para suprimento de uma unidade consumidora remota. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRE, A. S.; TRAVESSA, S. S.. Participação em banca de Ícaro Bernd e Rafael Adelino tomaz.Sistema de microgeração fotovoltaica. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVIERA, R. H.. Participação em banca de Alessandro Miguel Domingos.Geração maremotriz: estudo da viabilidade técnica e econômica da implantação hipotética de geradores maremotrizes entre as baías norte e sul da ilha de Santa Catarina. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; TRAVESSA, S. S.. Participação em banca de Ricardo Ramiro de Oliveira.Especificação e dimensionamento de sistemas ininterruptos de energia em corrente Alternada. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Ismael Souza e Rafael Paulo dos Santos.Diagnóstico em transformadores de potência através de ensaios de campo. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Gabriel Lopes Kahler.Sistema de demótica wireless com controle via internet. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Elton Thiesen e Thiago de Lima Leite.Jig de teste e ajuste de Telefone sem fio desct. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; TRAVESSA, S. S.; PIZZIO, R.. Participação em banca de Eder Pinheiro e Lívia Barreto de Melo.Morfismo e deformações. 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVIERA, R. H.. Participação em banca de Diego Filipe Brunatto e Fepile Vescovi Marques.Energia eólica offshore. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ALKAIN, J. L.; LICIO, T. A.. Participação em banca de Fernando Marcelino e Adriano Pereira.Análise de Técnicas de proteção de anti-ilhamento para sistemas de geração distribuída. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRE, A. S.. Participação em banca de Emerson Antônio Thiesen/Sérgio Luís dos Passos Júnior.Desenvolvimento de Kit Didático para Disparo de Tiristores. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica -Telemática) - Universidade do Sul de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Antônio Vitorino Ávila; Oscar Ciro Lopez. Participação em banca de Alex Sandro Souza de Oliveira e Ervino Ribeiro Machado.Geração Energética e Análise de Viabilidade Financeira em um Aproveitamento Energético. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Civil) - Universidade do Sul de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "; HELDWEIN, M. L.; COELHO, R. F. . Processo seletivo simplificado destinado a contratação de professor substituto. 2015. Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1708 @@
+{
+  "name": "João Henrique Kleinschmidt",
+  "lattes_id": "8288566727400452",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; DADKHAH, SAJJAD ; RODRÍGUEZ, DEMOSTENES ZEGARRA ; KLENSCHMIDT, JOÃO HENRIQUE . Lightweight IDS Method for IoT Devices Traffic Monitoring through Distilled Federated Knowledge on Decentralized Data. Ieee Open Journal Of The Computer Society , v. 1, p. 1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/OJCS.2026.3683846"
+        },
+        {
+          "texto": "STOWELL, PATRICK ; KAMIENSKI, CARLOS ; HEIDEKER, ALEXANDRE ; SILVA, DENER ; KLEINSCHMIDT, JOÃO ; PRATI, RONALDO ; CHADWICK, PAULA ; POWER, DANIEL ; ROSOLEM, RAFAEL ; KÖHLI, MARKUS ; ROCHA, HUMBERTO ; HEINEMANN, ALEXANDRE ; MADARI, BEATA ; SOLER, MELLISSA ; TORRE-NETO, ANDRÉ . COSMIC-SWAMP: IoT Processing of Cosmic Ray Soil Moisture Sensors. IEEE Access , v. 14, p. 1-1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/access.2026.3682125"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; RODRÍGUEZ, DEMÓSTENES ZEGARRA ; GUIMARÃES, FREDERICO GADELHA ; KLEINSCHMIDT, JOÃO HENRIQUE . CAFiKS: Communication-Aware Federated IDS With Knowledge Sharing for Secure IoT Connectivity. IEEE Access , v. 13, p. 140694-140708, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3596374"
+        },
+        {
+          "texto": "OGOBUCHI OKEY, DANIEL ; DADKHAH, SAJJAD ; MOLYNEAUX, HEATHER ; ZEGARRA RODRÍGUEZ, DEMÓSTENES ; KLEINSCHMIDT, JOÃO HENRIQUE . iPASecIoT: An Intelligent Pipeline for Automatic and Adaptive Feature Extraction for Secure IoT Device Identification and Intrusion Detection. Internet Of Things , v. 1, p. 101802, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.iot.2025.101802"
+        },
+        {
+          "texto": "OGOBUCHI OKEY, DANIEL ; DADKHAH, SAJJAD ; ZEGARRA RODRÍGUEZ, DEMÓSTENES ; Kleinschmidt, Joao Henrique . Explainable Resource-Aware IoT Security Model via Knowledge Distillation and Adaptive Loss Function Optimization. EXPERT SYSTEMS WITH APPLICATIONS , v. 1, p. 130460, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.eswa.2025.130460"
+        },
+        {
+          "texto": "AOAD NETO, E. ; KLEINSCHMIDT, J. H. . Análise do impacto da latência de rede no desempenho de projetos de gêmeo digital na Indústria 4.0. Revista Brasileira de Mecatrônica , v. 7, p. 1-15, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.62899/revistabrmecatronica.v7i3.269"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; MELGAREJO, DICK CARRILLO ; SAADI, MUHAMMAD ; ROSA, RENATA LOPES ; Kleinschmidt, Joao Henrique ; RODRIGUEZ, DEMOSTENES ZEGARRA . Transfer Learning Approach to IDS on Cloud IoT Devices Using Optimized CNN. IEEE Access , v. 11, p. 1023-1038, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2022.3233775"
+        },
+        {
+          "texto": "DE ANDRADE, RICARDO ; SANTOS, MAX MAURO DIAS ; JUSTO, JOÃO FRANCISCO ; YOSHIOKA, LEOPOLDO RIDEKI ; HOF, HANS-JOACHIM ; KLEINSCHMIDT, JOÃO HENRIQUE . Security Architecture for Automotive Communication Networks With CAN FD. COMPUTERS & SECURITY , v. 1, p. 103203, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.cose.2023.103203"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; UDO, EKIKERE UMOREN ; ROSA, RENATA LOPES ; RODRÍGUEZ, DEMOSTENES ZEGARRA ; KLEINSCHMIDT, JOÃO HENRIQUE . Investigating ChatGPT and cybersecurity: A perspective on topic modeling and sentiment analysis. COMPUTERS & SECURITY , v. 1, p. 103476, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.cose.2023.103476"
+        },
+        {
+          "texto": "ZEGARRA RODRÍGUEZ, DEMÓSTENES ; DANIEL OKEY, OGOBUCHI ; MAIDIN, SITI SARAH ; UMOREN UDO, EKIKERE ; KLEINSCHMIDT, JOÃO HENRIQUE . Attentive transformer deep learning algorithm for intrusion detection on IoT systems using automatic Xplainable feature selection. PLoS One , v. 18, p. e0286652, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1371/journal.pone.0286652"
+        },
+        {
+          "texto": "COTRIM, JEFERSON RODRIGUES ; KLEINSCHMIDT, JOÃO HENRIQUE . An analytical model for multihop LoRaWAN networks. Internet Of Things , v. 1, p. 100807, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.iot.2023.100807"
+        },
+        {
+          "texto": "SILVA, DENER ; HEIDEKER, ALEXANDRE ; ZYRIANOFF, IVAN D. ; Kleinschmidt, João H. ; ROFFIA, LUCA ; SOININEN, JUHA-PEKKA ; KAMIENSKI, CARLOS A. . A Management Architecture for IoT Smart Solutions: Design and Implementation. Journal of Network and Systems Management , v. 30, p. 35, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s10922-022-09648-6"
+        },
+        {
+          "texto": "ZYRIANOFF, IVAN ; HEIDEKER, ALEXANDRE ; SILVA, DENER ; KLEINSCHMIDT, JOÃO ; SOININEN, JUHA-PEKKA ; SALMON CINOTTI, TULLIO ; KAMIENSKI, CARLOS . Architecting and Deploying IoT Smart Applications: A Performance-Oriented Approach. SENSORS , v. 20, p. 84, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.3390/s20010084"
+        },
+        {
+          "texto": "GARCIA, P. S. R. ; KLEINSCHMIDT, J. H. . Sharing Health and Wellness Data with Blockchain and Smart Contracts. IEEE Latin America Transactions , v. 18, p. 1026-1033, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/TLA.2020.9099679"
+        },
+        {
+          "texto": "COTRIM, JEFERSON RODRIGUES ; KLEINSCHMIDT, JOÃO HENRIQUE . LoRaWAN Mesh Networks: A Review and Classification of Multihop Communication. SENSORS , v. 20, p. 4273, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.3390/s20154273"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Teaching Internet of Things for Engineering Courses: a Project-Based Cooperative Approach. International Journal of Electrical Engineering Education , v. 1, p. 1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1177/0020720919867437"
+        },
+        {
+          "texto": "MÜHLBAUER, RICARDO ; KLEINSCHMIDT, JOÃO . Bring Your Own Reputation: A Feasible Trust System for Vehicular Ad Hoc Networks. JOURNAL OF SENSOR AND ACTUATOR NETWORKS , v. 7, p. 37, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.3390/jsan7030037"
+        },
+        {
+          "texto": "MENDOZA, CAROLINA VERONICA LEZAMA ; KLEINSCHMIDT, JOÃO HENRIQUE . A Distributed Trust Management Mechanism for the Internet of Things Using a Multi-Service Approach. WIRELESS PERSONAL COMMUNICATIONS , v. 1, p. 1, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1007/s11277-018-5942-8"
+        },
+        {
+          "texto": "VARGAS, I. R. J. S. ; KLEINSCHMIDT, J. H. . Capture and Analysis of Malicious Traffic in VoIP Environments Using a Low Interaction Honeypot. Revista IEEE América Latina , v. 13, p. 777-783, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/TLA.2015.7069104"
+        },
+        {
+          "texto": "MENDOZA, C. V. L. ; KLEINSCHMIDT, J. H. . Mitigating On-Off Attacks in the Internet of Things Using a Distributed Trust Management Scheme. International Journal of Distributed Sensor Networks , v. 2015, p. 1-8, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1155/2015/859731"
+        },
+        {
+          "texto": "RODRIGUES, F. F. ; KLEINSCHMIDT, J. H. . Estudo de Aplicações da Internet das Coisas em um Ambiente Acadêmico. Revista Espacios , v. 35, p. 9, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Analyzing and improving the energy efficiency of IEEE 802.15.4 wireless sensor networks using retransmissions and custom coding. TELECOMMUNICATION SYSTEMS , v. 1, p. 1-8, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1007/s11235-013-9692-3"
+        },
+        {
+          "texto": "; ; Kleinschmidt, João H. ; ; ; Herai, Roberto H. ; ; . Is a Genome a Codeword of an Error-Correcting Code?. Plos One , v. 7, p. e36644, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1371/journal.pone.0036644"
+        },
+        {
+          "texto": "SCHERER, R. W. ; KLEINSCHMIDT, J. H. . A middleware architecture for wireless sensor networks using secure web services. Revista IEEE América Latina , v. 9, p. 815-820, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/TLA.2011.6030994"
+        },
+        {
+          "texto": "; ; Kleinschmidt, J.H. ; ; . DNA sequences generated by BCH codes over GF(4). Electronics Letters , v. 46, p. 202, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1049/el.2010.3397"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . An energy efficiency model for adaptive and custom error control schemes in Bluetooth sensor networks. AEÜ. International Journal of Electronics and Communications , v. 63, p. 188-199, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1016/j.aeue.2008.01.001"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "Silva, Dener Edson Ottolini Guedes da ; TROMBETA, LUCAS ; Carvalho, Bruna Cunha de ; HEIDEKER, ALEXANDRE ; Silva, Felipe Augusto Anon da ; Marotta, Marcelo Antonio ; KLEINSCHMIDT, JOÃO HENRIQUE ; Granville, Lisandro Zambenedetti ; KAMIENSKI, CARLOS ALBERTO . 10 Anos de P4: Explorando a Programação no Plano de Dados. In: Jussara Almeirda; e Alex Vieira. (Org.). Minicursos do SBRC 2025. 1ed.: SBC, 2025, v. , p. 94-143.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/sbc.18862.9.3"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; ROSA, RENATA LOPES ; SAADI, MUHAMMAD ; RODRÍGUEZ, DEMOSTENES ZEGARRA ; KLEINSCHMIDT, JOAO H. . Transfer Learning with CNN for Cyberattack Detection in IoT Networks. In: Dinh Thai Hoang; Nguyen Quang Hieu; Diep N. Nguyen; Ekram Hossain. (Org.). Advanced Machine Learning for Cyber-Attack Detection in IoT Networks. 1ed.: Elsevier Academic Press, 2025, v. 1, p. 165-192.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/B978-0-44-329032-9.00012-9"
+        },
+        {
+          "texto": "COTRIM, J. R. ; ARATA, E. P. ; KLEINSCHMIDT, J. H. . Roteamento em Internet das Coisas - Protocolos, Mobilidade e Segurança. Minicurso do XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. 1ed.: SBrT, 2017, v. 1, p. 1-23.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A. ; BIONDI, G. ; BORELLI, F. ; HEIDEKER, A. ; RATUSZNEI, J. ; KLEINSCHMIDT, J. H. . Computação Urbana: Tecnologias e Aplicações para Cidades Inteligentes. In: Lau Cheuk Lung; Frank Augusto Siqueira. (Org.). Minicurso do Simpósio Brasileiro de Redes de Computadores (SBRC). 1ed.Porto Alegre: Sociedade Brasileira de Computação, 2016, v. 1, p. 1-50.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Error Control Schemes for Bluetooth Technology: Analysis and Performance. In: Janice P. Bauer. (Org.). Computer Science Research and Technology. 1ed.: Science Publishers, 2011, v. 2, p. 110-.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Kleinschmidt, João H. . Genetic Algorithms for Wireless Sensor Networks. In: Juan R. Rabuñal; Julian Dorado; Alejandro Pazos. (Org.). Encyclopedia of Artificial Intelligence. 1ed.Hershey, Pennsylvania, USA: IGI Global, 2009, v. 1, p. 755-758.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.4018/978-1-59904-849-9.ch112"
+        },
+        {
+          "texto": "Kleinschmidt, J. . Enabling Technologies for Pervasive Computing. In: David Taniar. (Org.). Encyclopedia of Mobile Computing and Commerce. 1ed.Hershey, Pennsylvania, USA: IGI Global, 2007, v. 1, p. 272-276.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.4018/978-1-59904-002-8.ch046"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; RODRIGUEZ, D. Z. ; KLEINSCHMIDT, JOAO H. . An Optimized Federated Resource-Efficient IoT Security Framework with Uncertainty-Aware Distillation Loss. In: XXVI Simpósio Brasileiro de Cibersegurança, 2026, Armação dos Búzios. Anais do XXVI Simpósio Brasileiro de Cibersegurança, 2026. v. 1.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5753/sbseg.2026.27040"
+        },
+        {
+          "texto": "CARVALHO, B. C. ; SILVA, D. E. O. G. ; TROMBETA, L. ; HEIDEKER, A. ; KAMIENSKI, C. A. ; KLEINSCHMIDT, J. H. . Interoperabilidade e Automação de Serviços em Redes de Internet das Coisas usando P4. In: XVI Workshop de Pesquisa Experimental da Internet do Futuro (WPEIF), 2025, Natal. Anais do WPEIF 2025, 2025. v. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/wpeif.2025.8807"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; RODRÍGUEZ, DEMOSTENES ZEGARRA ; DADKHAH, SAJJAD ; KLEINSCHMIDT, JOÃO HENRIQUE . Enhancing IoT Security via Optimized Dual Chain-Channel Device Identification and Attack Detection Scheme. In: 2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM), 2025, Split. 2025 International Conference on Software, Telecommunications and Computer Networks (SoftCOM), 2025. v. 1. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.23919/SoftCOM66362.2025.11197344"
+        },
+        {
+          "texto": "PONTES, JULIO GRAZIANO ; KLEINSCHMIDT, JOÃO HENRIQUE . A Transparent Baseline for LoRa Device Fingerprinting with CNN. In: 2025 Symposium on Internet of Things (SIoT), 2025, Campinas. 2025 Symposium on Internet of Things (SIoT), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/SIoT68426.2025.11368823"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; DADKHAH, SAJJAD ; RODRÍGUEZ, DEMÓSTENES ZEGARRA ; KLEINSCHMIDT, JOÃO HENRIQUE . Zero-Day Device Identification for IoT Security through Optimized Incremental Learning and Drift Adaptation. In: 2025 Symposium on Internet of Things (SIoT), 2025, Campinas. 2025 Symposium on Internet of Things (SIoT), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/SIoT68426.2025.11368834"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; DADKHAH, SAJJAD ; ROSA, RENATA LOPES ; ZEGARRA RODRÍGUEZ, DEMÓSTENES ; KLEINSCHMIDT, JOÃO HENRIQUE . Adaptive IoT Device Fingerprinting with Dynamic Feature Optimization on Fine-Grained Network Packet Characteristics for IoT Security. In: 2025 IEEE Annual Congress on Artificial Intelligence of Things (AIoT), 2025, Osaka. 2025 IEEE Annual Congress on Artificial Intelligence of Things (AIoT), 2025. p. 245.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/AIoT66900.2025.00045"
+        },
+        {
+          "texto": "SILVA, DENER ; CARVALHO, BRUNA ; HEIDEKER, ALEXANDRE ; TROMBETA, LUCAS ; KLEINSCHMIDT, JOÃO HENRIQUE ; KAMIENSKI, CARLOS . P4-Enabled Smart Gateways for Agriculture: Selective Sensor Cloning for Edge Inference without Traffic Disruption. In: 2025 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2025, Bologna. 2025 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2025. p. 418.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/metroagrifor66923.2025.11512423"
+        },
+        {
+          "texto": "SILVA, D. E. O. G. ; HEIDEKER, A. ; TROMBETA, L. ; CARVALHO, B. C. ; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A. . P4Docker: Enabling Efficient P4 Switch Testbeds with Docker Integration. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC), 2024, Niterói. Anais do Salão de Ferramentas do SBRC 2024., 2024. v. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/sbrc_estendido.2024.2254"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; RODRIGUEZ, DEMOSTENES ZEGARRA ; KLEINSCHMIDT, JOÃO HENRIQUE . Enhancing IoT Intrusion Detection with Federated Learning-Based CNN-GRU and LSTM-GRU Ensembles. In: 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024, Rio de Janeiro. 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ISWCS61526.2024.10639159"
+        },
+        {
+          "texto": "TROMBETA, LUCAS ; DA SILVA, DENER EDSON O. G. ; CARVALHO, BRUNA CUNHA ; ANON DA SILVA, FELIPE AUGUSTO ; KLEINSCHMIDT, JOÃO HENRIQUE ; KAMIENSKI, CARLOS ALBERTO . P4Checkers: Exploring Modern Network Concepts Through a Classic Game. In: 2024 IEEE Frontiers in Education Conference (FIE), 2024, Washington. 2024 IEEE Frontiers in Education Conference (FIE), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/FIE61694.2024.10893518"
+        },
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; RODRIGUES, DEMOSTENES ZEGARRA ; KLENSCHMIDT, JOÃO HENRIQUE . MLCFSM: Multi-Layer Common Feature Selection Methods for Robust Intrusion Detection in IoT Network. In: 2024 IEEE 5th International Conference on ElectroComputing Technologies for Humanity (NIGERCON), 2024, Ado Ekiti. 2024 IEEE 5th International Conference on Electro-Computing Technologies for Humanity (NIGERCON), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/NIGERCON62786.2024.10927398"
+        },
+        {
+          "texto": "HEIDEKER, ALEXANDRE ; SILVA, DENER ; KLEINSCHMIDT, JOÃO HENRIQUE ; KAMIENSKI, CARLOS . Otimização de Tráfego IoT-LoRaWAN Usando Programação de Plano de Dados em P4. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2023, Brasil. Anais do XLI Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC 2023). p. 239.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.5753/sbrc.2023.504"
+        },
+        {
+          "texto": "CASTRO, V. M. ; KLEINSCHMIDT, J. H. . Using Fog computing for Bike-Sharing Systems. In: Symposium on Internet of Things (SIoT),, 2023, São Paulo. Symposium on Internet of Things (SIoT), 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SIoT60039.2023.10390002"
+        },
+        {
+          "texto": "COTRIM, JEFERSON RODRIGUES ; MARGI, CÍNTIA BORGES ; KLEINSCHMIDT, JOÃO HENRIQUE . Design of a Gateway-based relay node for LoRaWAN multihop networks. In: 2022 Symposium on Internet of Things (SIoT), 2022, São Paulo. 2022 Symposium on Internet of Things (SIoT), 2022. v. 1. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/siot56383.2022.10070205"
+        },
+        {
+          "texto": "DE ALMEIDA CORREIA, THIAGO ; KLEINSCHMIDT, JOÃO HENRIQUE . Development of a Blockchain and IoT-based Platform for Animal Surveillance. In: 2022 Symposium on Internet of Things (SIoT), 2022, São Paulo. 2022 Symposium on Internet of Things (SIoT), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/SIoT56383.2022.10070150"
+        },
+        {
+          "texto": "SILVA, D. E. O. G. ; ZYRIANOFF, I. D. ; HEIDEKER, A. ; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A. . Desempenho e Escalabilidade de Plataformas Livres de IoT. In: Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2020, Rio de Janeiro. Anais do SBRC, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5753/sbrc.2020.12274"
+        },
+        {
+          "texto": "QUETE, BRUNO ; HEIDEKER, ALEXANDRE ; ZYRIANOFF, IVAN ; OTTOLINI, DENER ; Kleinschmidt, Joao Henrique ; SOININEN, JUHA-PEKKA ; KAMIENSKI, CARLOS . Understanding the tradeoffs of LoRaWAN for IoT-based Smart Irrigation. In: 2020 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2020, Trento. 2020 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2020. v. 1. p. 73.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/metroagrifor50201.2020.9277566"
+        },
+        {
+          "texto": "TORRE-NETO, ANDRE ; RODRIGUES COTRIM, JEFERSON ; HENRIQUE KLEINSCHMIDT, JOAO ; KAMIENSKI, CARLOS ; CEZAR VISOLI, MARCOS . Enhancing Soil Measurements with a Multi-Depth Sensor for IoT-based Smart Irrigation. In: 2020 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2020, Trento. 2020 IEEE International Workshop on Metrology for Agriculture and Forestry (MetroAgriFor), 2020. p. 78-1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/MetroAgriFor50201.2020.9277562"
+        },
+        {
+          "texto": "ZYRIANOFF, IVAN ; KAMIENSKI, CARLOS ALBERTO ; HEIDEKER, ALEXANDRE ; KLEINSCHMIDT, JOÃO HENRIQUE ; SILVA, DENER OTTOLINI . IMAIoT Infrastructure Monitoring Agent for IoT: Um Agente Monitor de Infraestruturas para Ambientes de IoT. In: XXXVII Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos, 2019. Anais Estendidos do Simpósio Brasileiro de Redes de Computadores e Sistemas Distribuídos (SBRC). v. 1. p. 9.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.5753/sbrc_estendido.2019.7764"
+        },
+        {
+          "texto": "ZYRIANOFF, IVAN ; HEIDEKER, ALEXANDRE ; SILVA, DENER OTTOLINI ; KLEINSCHMIDT, JOÃO HENRIQUE ; KAMIENSKI, CARLOS ALBERTO . Impacto de LoRaWAN no Desempenho de Plataformas de IoT baseadas em Nuvem e Névoa Computacional. In: XVII Workshop em Clouds e Aplicações, 2019. Workshop em Clouds e Aplicações. v. 1. p. 43.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.5753/wcga.2019.7593"
+        },
+        {
+          "texto": "GRIESE, M. G. ; KLEINSCHMIDT, J. H. . Performance Analysis of a System for Vehicle Identification using LoRa and RFID. In: 14th International Conference on Green, Pervasive and Cloud Computing (GPC 2019), 2019, Uberlândia - MG. Proc. of GPC 2019, 2019. v. 1.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A. ; PRATI, R. C. ; KLEINSCHMIDT, J. H. ; SOININEN, J. . Designing an Open IoT Ecosystem. In: Workshop on Cloud Networks (WCN 2019), 2019, Belém. Anais do WCN, 2019. v. 1.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SOUTO, S. P. ; PRATI, R. C. ; KLEINSCHMIDT, J. H. . Otimização multiobjetivo de trajetórias de VANTs utilizando curvas de Bézier e Algoritmos Genéticos. In: 14th Brazilian Computational Intelligence Meeting, 2019, Belém. Anais do CBIC, 2019. v. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.21528/CBIC2019-71"
+        },
+        {
+          "texto": "MINAMI, MARIO ; GOMES, MARCO AURELIO CAZAROTTO ; SUYAMA, RICARDO ; PANAZIO, ALINE DE OLIVEIRA NEVES ; TAKAHATA, ANDRE KAZUO ; KURASHIMA, CELSO SETSUO ; MOURA, FERNANDO SILVA DE ; Kleinschmidt, Joao Henrique ; SILVA JUNIOR, LUNEQUE DEL RIO DE SOUZA E . A Scaffolding Empathic Methodology in the Robotics Teacher Formation Using Log Book and the BNCC References. In: 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE), 2019, Rio Grande. 2019 Latin American Robotics Symposium (LARS), 2019 Brazilian Symposium on Robotics (SBR) and 2019 Workshop on Robotics in Education (WRE), 2019. v. 1. p. 435.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/lars-sbr-wre48964.2019.00083"
+        },
+        {
+          "texto": "COTRIM, JEFERSON RODRIGUES ; Kleinschmidt, Joao Henrique . Performance evaluation of RPL on a mobile scenario with different ContikiMAC radio duty cycles. In: 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017, Campinas. 2017 IEEE 18th International Conference on High Performance Switching and Routing (HPSR), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/HPSR.2017.7968675"
+        },
+        {
+          "texto": "PIANOSKI, ESTEFANIA ; COTRIM, JEFERSON ; KLEINSCHMIDT, JOÃO . O Impacto do Ataque Hello no Protocolo de Roteamento RPL. In: XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017. Anais de XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. v. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2017.102"
+        },
+        {
+          "texto": "GARCIA, PAULO ; KLEINSCHMIDT, JOÃO . Tecnologias Emergentes de Conectividade na IoT: Estudo de Redes LPWAN. In: XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2017. Anais de XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. v. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2017.141"
+        },
+        {
+          "texto": "COTRIM, J. R. ; KLEINSCHMIDT, J. H. . Avaliação de Desempenho do Protocolo RPL em Ambientes com Mobilidade. In: XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2016, Santarém - PA. Anais do SBrT, 2016. v. 1. p. 1-6.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.13140/RG.2.2.35986.66247"
+        },
+        {
+          "texto": "DA COSTA, GUSTAVO A. ; KLEINSCHMIDT, JOAO H. . Implementation of a wireless sensor network using standardized IoT protocols. In: 2016 IEEE International Symposium on Consumer Electronics (ISCE), 2016, Sao Paulo. 2016 IEEE International Symposium on Consumer Electronics (ISCE). v. 1. p. 17.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/ISCE.2016.7797327"
+        },
+        {
+          "texto": "MENDOZA, CAROLINA V. L. ; KLEINSCHMIDT, JOAO H. . Defense for selective attacks in the IoT with a distributed trust management scheme. In: 2016 IEEE International Symposium on Consumer Electronics (ISCE), 2016, Sao Paulo. 2016 IEEE International Symposium on Consumer Electronics (ISCE). v. 1. p. 53.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/ISCE.2016.7797367"
+        },
+        {
+          "texto": "JESUS, DANIELE F. DE ; Kleinschmidt, João H. . Análise de Desempenho do Protocolo DTLS para Internet das Coisas. In: Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais, 2015, Brasil. Anais do XV Simpósio Brasileiro de Segurança da Informação e de Sistemas Computacionais (SBSeg 2015), 2015. v. 1. p. 318.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.5753/sbseg.2015.20105"
+        },
+        {
+          "texto": "; ; KLEINSCHMIDT, J. H. . Segurança em sistemas de e-learning: uma análise do ambiente Tidia-Ae/Sakai. In: III Congreso Internacional de Computación y Telecomunicaciones, 2011, Lima. COMTEL 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Kleinschmidt, João H. ; ; . DNA sequences generated by Z4-linear codes. In: IEEE International Symposium on Information Theory, 2010, Austin, Texas. Proceedings of the IEEE International Symposium on Information Theory, 2010. p. 1320-1324.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/ISIT.2010.5513747"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; . Adaptive Error Control Using ARQ and BCH Codes in Sensor Networks Using Coverage Area Information. In: The 20th IEEE International Symposium On Personal, Indoor and Mobile Radio Communications, 2009, Tóquio. Proc. of the IEEE International Symposium On Personal, Indoor and Mobile Radio Communications, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/PIMRC.2009.5450161"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; . Controle Adaptativo de Erros para Redes de Sensores sem Fio usando Informação de Área de Cobertura. In: II Workshop on Pervasive and Ubiquitous Computing, 2008, Campo Grande, MS. Anais do II Workshop on Pervasive and Ubiquitous Computing, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; . Controle de Erros Adaptativo para Redes de Sensores sem Fio usando Valor de Informação de Mensagens Baseado em Entropia. In: 7th International Information and Telecommunication Technologies Symposium, 2008, Foz do Iguaçu, PR. Proc. of the 7th International Information and Telecommunication Technologies Symposium, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . An analytical model for energy efficiency of error control schemes in sensor networks. In: IEEE International Conference on Communications, 2007, Glasgow. Proceedings of the IEEE International Conference on Communications, 2007. p. 3895-3900.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/icc.2007.642"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; . Análise de Estratégias de Controle de Erros para Redes de Sensores com Modulação OQPSK e GFSK. In: XXV Simpósio Brasileiro de Telecomunicações, 2007, Recife - PE. Anais do XXV Simpósio Brasileiro de Telecomunicações, 2007.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2007.31115"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . Custom Error Control Schemes for Energy Efficient Bluetooth Sensor Networks. In: SBrT/IEEE International Telecommunications Symposium, 2006, Fortaleza-CE. Proc. of International Telecommunications Symposium, 2006. p. 391-396.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1109/ITS.2006.4433410"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; . Análise da Eficiência de Energia de Esquemas de Retransmissão em Redes de Sensores IEEE 802.15.4. In: I2TS'2006 - 5th International Information and Telecommunication Technologies Symposium, 2006, Cuiabá - MT. I2TS'2006 - 5th International Information and Telecommunication Technologies Symposium, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, JOÃO HENRIQUE ; BORELLI, WALTER ; PELLENZ, MARCELO . Controle de erros para redes de sensores Bluetooth. In: XXII Simpósio Brasileiro de Telecomunicações, 2005. Anais do XXII Simpósio Brasileiro de Telecomunicações, 2005.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2005.703"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . Power Efficient Error Control for Bluetooth-based Sensor Networks. In: The 30th IEEE Conference on Local Computer Networks (LCN), 2005, Sydney. Proceedings of the 30th IEEE Conference on Local Computer Networks, 2005. p. 284-296.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.1109/LCN.2005.108"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . Evaluating and Improving Bluetooth Piconet Performance over Nakagami-m Fading Channels. In: The Ninth IEEE Symposium on Computers and Communications, 2004, Alexandria, Egito. Proceedings of The Ninth IEEE Symposium on Computers and Communications, 2004. v. 2. p. 639-644.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1109/ISCC.2004.1358611"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . An Efficient Polling Strategy for Bluetooth Piconets using Channel State Information. In: IEEE 6th CAS Symposium on Emerging Technologies: Frontiers of Mobile and Wireless Communication, 2004, Xangai. Proceedings of the IEEE 6th CAS Symposium on Emerging Technologies: Frontiers of Mobile and Wireless Communication, 2004. v. 2. p. 667-670.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1109/CASSET.2004.1321976"
+        },
+        {
+          "texto": "Kleinschmidt, João H. ; ; LIMA JR., LUIZ A. DE PAULA . Modelagem de Redes Bluetooth em Canais com Desvanecimento Nakagami-m. In: XXI Simpósio Brasileiro de Telecomunicações, 2004. Anais do XXI Simpósio Brasileiro de Telecomunicações, 2004.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2004.71"
+        },
+        {
+          "texto": "Kleinschmidt, João H. ; ; . Uma Estratégia de Escalonamento de Piconets Bluetooth usando Estimação de Estado de Canal. In: XXI Simpósio Brasileiro de Telecomunicações, 2004. Anais do XXI Simpósio Brasileiro de Telecomunicações, 2004.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2004.262"
+        },
+        {
+          "texto": "Kleinschmidt, João H. ; ; LIMA JR., LUIZ A. DE PAULA . Um Protocolo de Formação de Rotas para Redes de Sensores usando Bluetooth. In: XXI Simpósio Brasileiro de Telecomunicações, 2004. Anais do XXI Simpósio Brasileiro de Telecomunicações, 2004.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2004.232"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . An Alternative Metric for Channel Estimation with Applications in Bluetooth Scheduling. In: Sixth IFIP IEEE International Conference on Mobile and Wireless Communication Networks, 2004, Paris. Proceedings of the Sixth IFIP IEEE MWCN, 2004. p. 203-213.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1007/0-387-23150-1_18"
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; ; . Bluetooth Network Performance in Nakagami-m Fading Channels. In: The Fifth IFIP TC6 International Conference on Mobile and Wireless Communications Networks, 2003, Cingapura. The Fifth IFIP TC6 International Conference on Mobile and Wireless Communications Networks, 2003. v. 1. p. 319-322.",
+          "ano": 2003,
+          "doi": "http://dx.doi.org/10.1142/9789812791146_0069"
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, JOAO H. ; KAMIENSKI, CARLOS ; PRATI, RONALDO C. ; KOLEHMAINEN, KARI ; AGUZZI, CRISTIANO . End-to-End Security in the IoT Computing Continuum: Perspectives in the SWAMP Project. In: 2019 9th LatinAmerican Symposium on Dependable Computing (LADC), 2019, Natal. 2019 9th Latin-American Symposium on Dependable Computing (LADC), 2019. v. 1. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ladc48089.2019.8995724"
+        },
+        {
+          "texto": "KAMIENSKI, CARLOS ; KLEINSCHMIDT, JOAO ; SOININEN, JUHA-PEKKA ; KOLEHMAINEN, KARI ; ROFFIA, LUCA ; VISOLI, MARCOS ; FILEV MAIA, RODRIGO ; FERNANDES, STENIO . SWAMP: Smart Water Management Platform Overview and Security Challenges. In: 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSNW), 2018, Luxembourg. 2018 48th Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2018. v. 1. p. 49.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/dsn-w.2018.00024"
+        },
+        {
+          "texto": "TORRE NETO, A. ; FERREIRA, E.J. ; BASSOI, L. H. ; VISOLI, M. ; KAMIENSKI, C. A. ; KLEINSCHMIDT, J. H. ; COTRIM, J. R. ; CINOTTI, T. S. ; LIAKOS, V. ; VELLIDIS, G. . SWAMP-UGA Multi-Parameter and Multi-Depth Soil Probe. In: 23rd FRUCT - IMSA18, 2018, Bologna. Proceedings of 23rd FRUCT - IMSA18, 2018. v. 1.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "JESUS, D. F. ; KLEINSCHMIDT, J. H. . Estudo do consumo de energia do protocolo DTLS para Internet das Coisas. In: Computer on the Beach, 2015, Florianópolis-SC. Anais do Computer on the Beach, 2015. v. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.14210/cotb.v0n0.p504%20-%20506"
+        },
+        {
+          "texto": "MENDOZA, C. V. L. ; KLEINSCHMIDT, J. H. . Estudo de mecanismos de gerenciamento de confiança no contexto da Internet das Coisas. In: Computer on the Beach, 2014, Florianópolis. Anais do Computer on the Beach, 2014. v. 1. p. 449-450.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.14210/cotb.v0n0.pp.449-450"
+        },
+        {
+          "texto": "DIVINO, K. S. ; KLEINSCHMIDT, J. H. . Detecção de vulnerabilidades usando introspecção de máquinas virtuais. In: Simpósio de Pesquisa do Grande ABC, 2014, São Bernardo. Anais do Simpósio de Pesquisa do Grande ABC, 2014.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "OKEY, OGOBUCHI DANIEL ; DADKHAH, S. ; RODRIGUEZ, D. Z. ; KLEINSCHMIDT, J. H. . Adaptive fingerprint-based intrusion and device recognition system for IoT via optimized multi-task learning. In: International Conference on Privacy, Security and Trust, 2025, Fredericton, New Brunswick. 22nd Annual International Conference on PST, 2025. v. 1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "STOWELL, P. ; COOPER, J. ; EVANS, J. ; HEIDEKER, A. ; HEINEMAN, A. ; KAMIENSKI, C. A. ; KLEINSCHMIDT, J. H. ; KOHLI, M. ; LANGFORD, H. ; MADARI, B. ; NICHOLS, A. ; POWER, D. ; REDSON, D. ; PRATI, R. C. ; ROCHA, H. ; ROSOLEM, R. ; SILVA, D. E. O. G. ; STANDEN, J. ; STEER, C. ; THOMPSON, L. ; et.al . Smart Scintillating Neutron Detectors for Soil Moisture Monitoring. In: EGU General Assembly, 2022, Viena. EGU General Assembly, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "STOWELL, P. ; COOPER, J. ; EVANS, J. ; HEIDEKER, A. ; HEINEMAN, A. ; KAMIENSKI, C. A. ; KLEINSCHMIDT, J. H. ; KOHLI, M. ; MADARI, B. ; NICHOLS, A. ; POWER, D. ; REDSON, D. ; PRATI, R. C. ; ROCHA, H. ; ROSOLEM, R. ; SILVA, D. E. O. G. ; TORRE NETO, A. ; SOLER, M. ; VISOLI, M. . Boron Based Cosmic Ray Sensing and COSMIC-SWAMP. In: International Symposium on Managing Land and Water for Climate-Smart Agriculture, 2022, Viena. International Symposium on Managing Land and Water for Climate-Smart Agriculture, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, DIMITRI ; COTRIM, JEFERSON ; KLEINSCHMIDT, JOÃO . Avaliação do LoraWAN para Campus Inteligente. In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019. Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. v. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2019.1570558795"
+        },
+        {
+          "texto": "GRIESE, M. G. ; KLEINSCHMIDT, J. H. . Arquitetura para fiscalização eletrônica de veículos. In: XIX Congresso Metodista de Iniciação e Produção Científica, 2017, São Bernardo do Campo. XIX Congresso Metodista de Iniciação e Produção Científica, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; PEREIRA, D. ; ; KLEINSCHMIDT, J. H. ; . Error-correcting codes identify mutations in exon14 of the BRCA1 gene. In: X-meeting - 8th International Conference of the Brazilian Association for Bioinformatics and Computacional Biology, 2012, Campinas - SP. X-meeting - 8th International Conference of the Brazilian Association for Bioinformatics and Computacional Biology, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, GUSTAVO ; KLEINSCHMIDT, JOÃO . Uma proposta de arquitetura de middleware para redes de sensores e atuadores sem fio utilizando web services. In: XXIX Simpósio Brasileiro de Telecomunicações, 2011. Anais de XXIX Simpósio Brasileiro de Telecomunicações.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2011.129"
+        },
+        {
+          "texto": "SCHERER, R. W. ; KLEINSCHMIDT, J. H. . Proposta de uma arquitetura de middleware usando serviços web para redes de sensores sem fio. In: Escola Regional de Alto Desempenho de SP, 2010, São Paulo. Anais da Escola Regional de Alto Desempenho, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "STANKIEVICZ, F. ; KLEINSCHMIDT, J. H. . Estudo e implementação de segurança em redes de sensores usando serviços web. In: Escola Regional de Alto Desempenho de SP, 2010, São Paulo. Anais da Escola Regional de Alto Desempenho, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; KLEINSCHMIDT, J. H. ; SILVA-FILHO, M. C. ; . Analysis of amino acid substitutions by use of error-correcting codes. In: X-Meeting, 2010, Ouro Preto - MG. 6th International Conference of Brazilian Association for Bioinformatics and Computational Biology, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Estratégias de controle de erros para redes ad hoc sem fio com restrições de energia. In: I2TS'2006 - 5th International Information and Telecommunication Technologies Symposium, 2006, Cuiabá - MT. I2TS'2006 - 5th International Information and Telecommunication Technologies Symposium, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Qualidade de serviço em redes Bluetooth usando informação de estado de canal. In: V Mostra de Pesquisa da PUC-PR, 2003, Curitiba-PR, 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Redes de Sensores Sem Fio: Aplicações e Tecnologias. 2009. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Redes Ad Hoc Móveis Sem Fio. 2007. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Geração de sequências de DNA usando códigos corretores de erros. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Simulador de esquemas de controle de erros para redes de sensores. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Simulador de redes Bluetooth. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Registrador digital. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; NOGUEIRA NETO, G. N. . Fonocardiograma. 2000.",
+          "ano": 2000,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "items": [
+        {
+          "texto": "; ; KLEINSCHMIDT, J. H. ; ; SILVA-FILHO, M. C. . Generation and reproduction of DNA sequences and analysis of polymorphisms and mutations by using error correcting codes (patent application). 2009.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do TPC do Simpósio Brasileiro de Redes de Computadores. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Infocom. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE 11th World Forum on Internet of Things (WF-IoT). 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do TPC do Simpósio Brasileiro de Redes de Computadores. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do TPC do Symposium on Internet of Things. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Redes de Computadores.. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do TPC do Symposium on Internet of Things. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro de comitê de programa do 2nd International Workshop on the Internet of Time-Critical Things (IoTime 2023). 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 2023 IEEE Future Networks World Forum (FNWF). 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Redes de Computadores.. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Telecomunicações. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Redes de Computadores.. 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Telecomunicações. 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do comitê técnico do Simpósio Brasileiro de Redes de Computadores - Workshops. 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do Simpósio Brasileiro de Redes de Computadores. 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do comitê de programa do IV Workshop de Tecnologia Eleitoral (WTE). 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE International Symposium on Computer and Communications. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Conferece on Wireless Sensors. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do XXXV Simpósio Brasileiro de Telecomunicações. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 20th ACM International Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE GCC Conference and Exhibition. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE World Forum on Internet of Things (WF-IoT). 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE GCC Conference and Exhibition. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (IEEE SPICES). 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 2nd International Conference on Communication and Computer Engineering. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor da 4th Int. Conf. on Advances in Computing, Communications and Informatics. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do XXXIII Simpósio Brasileiro de Telecomunicações. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 15th IEEE International Symposium on Signal Processing and Information Technology. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Symposium on Computer Applications and Industrial Electronics. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 1st International Conference on Communication and Computer Engineering. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do International Symposium on Technology Management and Emerging Technologies. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Symposium on Wireless Technology & Applications. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro do comitê de programa do IEEE LatinCloud. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Asia-Pacific Conference on Applied Electromagnetics (APACE). 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems (IEEE SPICES). 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Symposium on Computers & Informatics. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Conference on Wireless Sensors. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE International RF and Microwave Conference. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do 2nd IEEE Latin America Conference on Cloud Computing and Communications (LatinCloud). 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE Symposium on Wireless Technology & Applications. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Avaliador do V Simpósio de Iniciação Científica da UFABC. 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Avaliador de projetos de iniciação científica - PIBIC - UTFPR. 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Avaliador de projetos de iniciação científica - UFABC. 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Avaliador de projetos de iniciação científica - PIBIC - UTFPR. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Revisor do IEEE International Conference on Communications (ICC). 2009.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Site de divulgação de material didático e produção acadêmica. 2010. (Site).",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Gerenciamento e Interoperabilidade de Redes. 2017. (Desenvolvimento de material didático ou instrucional - Graduação em Engenharia de Informação).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Estudo de arquiteturas de segurança para Internet das Coisas. 2016. (Relatório de pesquisa).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Redes Sem Fio. 2014. (Desenvolvimento de material didático ou instrucional - Programa de Pós-Graduação em Engenharia da Informação).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Segurança da Informação. 2011. (Desenvolvimento de material didático ou instrucional - Programa de Pós-Graduação em Engenharia da Informação).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Introdução à Criptografia. 2009. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; SILVA, F. A.. Participação em banca de Fernando Jorge Vieira Santos. Propostas de Otimização de Taxas de Dados Adaptativas em LoRaWAN Móvel: Controle Fuzzy e Modelo Neural Leve para a Borda. 2026. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, H. M. N. S.; KLEINSCHMIDT, J. H. ; ANDRADE, T. P. C.. Participação em banca de Andreia Alexandre Felix. Detecção proativa de riscos em redes veiculares utilizando comunicação V2X, aprendizado de máquina e aprendizado federado. 2026. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "FANTINATO, D. G.; KLEINSCHMIDT, J. H. ; SIMOES, A. S.. Participação em banca de Felipe Augusto Oliveira dos Santos. A Deep Reinforcement Learning Framework for Autonomous Cybersecurity Defense in IoT Networks. 2026. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; SILVA, F. A.. Participação em banca de Israel da Silva Barros. Aprendizado por Reforço para Controle Autônomo de Drones e Evasão de Colisões em Serviços de Entregas Aéreas. 2025. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANCHES, A. L.; KLEINSCHMIDT, J. H. ; REIS JUNIOR, J. V.. Participação em banca de Maurício de Souza Sebastião. Análise de vulnerabilidade contra interceptações em redes FFH-OCDMA. 2024. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LOIOLA, M. B.; KLEINSCHMIDT, J. H. ; FANTINATO, D. G.. Participação em banca de João Paulo dal Poz Pereira. Detecção de anomalias em tráfego de dados em redes IoT. 2024. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; SOUSA JUNIOR, V. A.. Participação em banca de Marcos Lima Romero. Data quality assurance in the Internet of Things using online machine learning. 2024. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, L. A. L.; KLEINSCHMIDT, J. H. ; SUYAMA, R.. Participação em banca de Rodrigo Sagaseta de Oliveira Souza. Pré-processamento de imagens para identificação de objetos usando deep learning. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, L. A. L.; KLEINSCHMIDT, J. H. ; SOUSA, T.. Participação em banca de Filinto Bonte Có. Mitigação de ruído impulsivo em sinais EMG sem fio através do filtro FWMA. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SCOTT, A. L.; KLEINSCHMIDT, J. H. ; GOLOBOVANTE, M. C.. Participação em banca de Giselda Cristina Ferreira. Covid-19 vs. Política e a Polarização no Twitter. 2023. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; WALDMAN, H.. Participação em banca de Fábio Della Nina. Análise de desempenho de redes ópticas elásticas com cenários de distribuição desigual de tipos de serviço por tamanhos de rota. 2022. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; PISANI, P. H.. Participação em banca de Paulo César Dias Lima. Otimização do fronthaul em Redes de Acesso por Rádio em Nuvem 5G por meio de algoritmos genéticos e georreferenciamento. 2022. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, R. M.; KLEINSCHMIDT, J. H. ; LEJBMAN, A. G. V.. Participação em banca de Artur Carvalho Zucchi. Proposta de arquitetura FANET com cooperação entre protocolos de comunicação e movimentação. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CAPOVILLA, C. E.; KLEINSCHMIDT, J. H. ; ARAUJO, H. X.. Participação em banca de Renan Rodrigues Mendes. Avaliação de Desempenho da Tecnologia LoRa para Aplicações na Indústria 4.0. 2021. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; SOARES, A. C. B.. Participação em banca de Jocines Dela Flora da Silveira. Estudo e Desenvolvimento de um Sistema Fuzzy para Auxílio à Tomada de Decisão de Infraestrutura de Rede LoRaWAN, LoRaMesh e Híbrida para um Cenário Smart Farming. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; RABELO, R. A. L.. Participação em banca de Artur Felipe da Silva Veloso. Estudo e Proposta de uma Infraestutura de Comunicação Híbrida com LoRaWAN e LoraMesh para o Gerenciamento do Consumo de Energia Elétrica pelo lado da Demanda. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "RABELLO, R. S.; KLEINSCHMIDT, J. H. ; REBONATTO, M. T.. Participação em banca de Fernando Vinícius Manchini de Souza. Uma arquitetura LPWAN de custo acessível para cidades inteligentes. 2019. Dissertação (Mestrado em Computação Aplicada) - Universidade de Passo Fundo.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "GOYA, D. H.; KLEINSCHMIDT, J. H. ; RODRIGUES, C. K. S.. Participação em banca de Rodrigo Penella Cardoso. Um framework para interoperabilidade de instituições heterogêneas de ensino utilizando Blockchain. 2019. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; BITTENCOURT, L. F.. Participação em banca de Ivan Dimitry Ribeiro Zyrianoff. Fog-aware computing: Automated Fog Computing support for the Internet of Things. 2019. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; KON, F.. Participação em banca de Veruska Lorraine Ayora. Redes Sociais Online como Plataforma de Distribuição de Dados para Cidades Inteligentes. 2019. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; ZUFFO, M. K.. Participação em banca de Bruno Ricardo Queté. Compreendendo o Desempenho da Tecnologia LoRaWAN para Agricultura Inteligente baseada na Internet das Coisas. 2019. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARGI, C. B.; KLEINSCHMIDT, J. H. ; OKAMOTO, J.. Participação em banca de Gustavo Alonso Nuñez Segura. Previsão de consumo de energia em redes de sensores sem fio definidas por software. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; NETTO, M. A. S.. Participação em banca de Gustavo Uruguay Castilho. Aplicação de Computação em Névoa na Internet das Coisas para Cidades Inteligentes: da Teoria à Prática. 2018. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FERNANDES, S.. Participação em banca de Andrea Garcia Trindade. Análise, modelagem e predição de eventos em praças digitais. 2018. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; ABBADE, M. L. F.. Participação em banca de Joel Carlos Farias de Queiroz. Técnicas para nivelamento de desempenho inter-rotas aplicadas a redes ópticas elásticas. 2017. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Joel Hernán Flores Martinez. Roteamento em redes tolerantes a atrasos por meio de otimização por colônia de formigas. 2017. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; ROTHENBERG, C. E.. Participação em banca de Alexandre Heideker. Gerenciamento flexível de infraestrutura de acesso público à Internet com NFV. 2016. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "UEDA, E. T.; KLEINSCHMIDT, J. H. ; SANTOS, M. A. S.. Participação em banca de Daniel Abujabra Merege. HAMRA - Um middleware para gerenciamento de tráfego de dados em redes de segurança pública. 2016. Dissertação (Mestrado em Engenharia de Computação) - Instituto de Pesquisas Tecnológicas do Estado de São Paulo.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; FAGOTTO, E. A. M.. Participação em banca de Wilson Carvalho Ferreira dos Santos. Avaliação de desempenho de redes ópticas elásticas com políticas híbridas de alocação de espectro. 2016. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; BATISTA, D. M.. Participação em banca de Juliano Ratusznei. Qualidade de experiência do usuário em uma rede Wi-Fi municipal usando streaming de vídeo. 2016. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FAVERO, P. B.; KLEINSCHMIDT, J. H. ; CAPELAS, M.. Participação em banca de Juliana Bilecki da Cunha. Sistema de suporte à decisão para previsão de crises em mananciais. 2016. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SCOTT, L. P.; KLEINSCHMIDT, J. H. ; OLIVEIRA, R. J.. Participação em banca de André Kliousoff. Investigando padrões em proteínas em regiões de desordem por meio de mineração de dados. 2015. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; FONSECA, I. E.. Participação em banca de Alexandre dos Santos Tozetti. Análise de Desempenho de Redes Ópticas Elásticas com Múltiplos Serviços. 2014. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SCHWEITZER, C. M.; KLEINSCHMIDT, J. H. ; CARVALHO, T. C. M. B.. Participação em banca de Robson Ferreira Lopes. Redes definidas por software na flexibilização de centrais de dados para sistemas de computação em nuvem. 2014. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; BITTENCOURT, L. F.. Participação em banca de Kleber da Silva Divino. Uso de Mecanismos de Elasticidade como Solução de Recuperação de Falhas em Ambientes de Computação em Nuvem. 2014. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FERNANDES, S.. Participação em banca de Bruno Tadeu Caetano. Implementação e Avaliação de Estratégias de Middleware para o Modelo Integrado de Composição em Nuvem Computacional. 2014. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; MADEIRA, E.. Participação em banca de Rhodney Arthur Menna Barreto Konig Simões. Gerenciamento de Elasticidade em Computação em Nuvem: Estudo de Caso Usando Smart Grid. 2013. Dissertação (Mestrado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; SILVA, F. A.; RABELO, R. A. L.; FLAUZINO, R. A.. Participação em banca de Artur Felipe da Silva Veloso. A Microservices-Based Solution with Hybrid Communication for Energy Management in Smart Grid Environments. 2026. Tese (Doutorado em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; SOARES, A. C. B.; RABELO, R. A. L.; FLAUZINO, R. A.. Participação em banca de Thiago Allisson Ribeiro da Silva. LoRaWAN Communication Infrastructure Applied to Provide Connectivity for Applications in Smart Grids. 2026. Tese (Doutorado em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; TRUJILLO, J. D. M.; AKAMINE, C.; RENNA, R. B.. Participação em banca de Fernando Simplicio de Sousa. Técnicas Multicanais de Controle de Acesso ao Meio para Aumento da Eficiência do Uplink de LoRaWAN Massivas. 2025. Tese (Doutorado em Energia) - Universidade Federal do ABC.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; GRANVILLE, L. Z.; MAROTTA, M. A.; RODRIGUES, C. K. S.. Participação em banca de Dener Edson Ottolini Guedes da Silva. Uma arquitetura multi-camadas de gerenciamento de sistemas de Internet das Coisas fim a fim com nuvem, névoa e bruma. 2024. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; BITTENCOURT, L. F.; PAVANI, G. S.; CERQUEIRA, E. C.. Participação em banca de Franklin Magalhães Ribeiro Junior. Data flow trustworthiness for mist and fog based IoT systems. 2023. Tese (Doutorado em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; SANCHES, A. L.; ABBADE, M. L. F.; ROCHA, M. L.. Participação em banca de Maurício Antonio Deffert. Heurísticas para a Alocação Eficiente de Serviços no Espectro Óptico em Redes Ópticas Elásticas. 2022. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FILEV MAIA, R.; BITTENCOURT, L. F.; SCOTT, A. L.. Participação em banca de Gabriela Oliveira Biondi. Modelos de Dados Rastreáveis em Arquiteturas de Aplicações Inteligentes. 2021. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; GASPARY, L. P.; BATISTA, D. M.; STIUBIENER, I.. Participação em banca de Alexandre Heideker. Identificação de Gargalos em SFC para Gerenciamento de Elasticidade de Serviços. 2021. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; TORRE NETO, A.; BIANCHI, R. A. C.; SCOTT, A. L.. Participação em banca de Rodrigo Marotti Togneri. Water need estimation for smart irrigation: from traditional to machine learning approaches. 2021. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CINOTTI, T. S.; FELICE, M.; KLEINSCHMIDT, J. H. . Participação em banca de Cristiano Aguzzi. Structural health and Environmental Monitoring with the Web of Things. 2021. Tese (Doutorado em Software Engineering) - Università di Bologna.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FILEV MAIA, RODRIGO; KON, F.; PAVANI, G. S.. Participação em banca de Fabrizio Ferreira Borelli. BIoTA: Uma linguagem de desenvolvimento de software para IoT. 2020. Tese (Doutorado em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PANTONI, R. P.; TORRISI, N. M.; KLEINSCHMIDT, J. H. ; CAVALIERI, S.; CUNHA, M. J.; DUARTE FILHO, N. F.. Participação em banca de Ricardo Borges dos Santos. Non Fungible Tokens Smart Contracts Applied to Third Party Certification of Recipe Based Foods. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "RAMIREZ, M. A.; KLEINSCHMIDT, J. H. ; GABOS, D.; LIMA FILHO, D. F.; HERNANDEZ, E. D.. Participação em banca de Marcel Stefan Wagner. Sistema cognitivo com tomada de decisão baseada em Lógica Fuzzy para aplicação em ambientes de redes de sensores sem fio com múltiplos saltos. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SHINODA, A. A.; KLEINSCHMIDT, J. H. ; SCHWEITZER, C. M.; OLIVEIRA, L. C. O.; COSTA, E. C. M.. Participação em banca de Alcides Ortega. Análise de desempenho de redes de comunicação wireless em aplicações de smart grid. 2015. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "REIS FILHO, C. A.; KLEINSCHMIDT, J. H. ; MOREIRA, D. A.; MADEIRA, E.; FONSECA, N. L. S.. Participação em banca de Rogério Esteves Salustiano. Núcleo de simulação computacional baseado na sincronização por barreiras com aplicação em redes de sensores sem fio. 2014. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, A. C. R.; KLEINSCHMIDT, J. H. ; JARDINI, E. A.; MACHADO, E. R. M. D.; OLIVEIRA, E. R.. Participação em banca de Alexandre Alves de Lima Ribeiro. Arquitetura para publicação e universalização do acesso a Transdutores Inteligentes. 2012. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; SOARES, A. C. B.. Participação em banca de Thiago Alisson Ribeiro da Silva. A Smart Communication Architecture to Provide Connectivity to Applications in the Power Distribution System of Smart Grids. 2024. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; TRUJILLO, J. D. M.. Participação em banca de Maurício Simplicio de Sousa. Protocolos MAC Multicanais para o Uplink de LoRaWAN Massivas. 2024. Exame de qualificação (Doutorando em Energia) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; GRANVILLE, L. Z.. Participação em banca de Dener Edson Ottolini Guedes da Silva. Arquitetura para gerenciamento de sistemas inteligentes baseados em IoT. 2022. Exame de qualificação (Doutorando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PAVANI, G. S.. Participação em banca de Franklin Magalhães Ribeiro Junior. Trustworthiness de dados em bruma e névoa computacional na Internet das Coisas. 2021. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, R. M.; KLEINSCHMIDT, J. H. ; BATISTA, D. M.. Participação em banca de Samuel Kopp. Otimização do uso de recursos na orquestração de aplicações em Fog Computing. 2020. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, F. D.; KLEINSCHMIDT, J. H. ; BRANDLI, L. L.; HOLBIG, C. A.. Participação em banca de Ricardo Schleder Tozetto. Arquitetura de coleta de dados de consumo de energia elétrica para consumidores finais. 2020. Exame de qualificação (Doutorando em Engenharia Civil e Ambiental) - Universidade de Passo Fundo.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "LOIOLA, M. B.; KLEINSCHMIDT, J. H. ; PANAZIO, A. O. N.. Participação em banca de Pedro Ivo da Cruz. Physical layer security using the wireless channel information. 2019. Exame de qualificação (Doutorando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; ELAHABAD, M. F.. Participação em banca de Joel Carlos Farias de Queiroz. Heurísticas de ordenamento ponderado aplicadas ao processo de roteamento em redes ópticas. 2019. Exame de qualificação (Doutorando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; PAVANI, G. S.. Participação em banca de Mauricio Antonio Deffert. Heurísticas para a Alocação Eficiente de Serviços no Espectro Óptico em Redes Ópticas Elásticas. 2019. Exame de qualificação (Doutorando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FILEV MAIA, R.. Participação em banca de Fabrizio Ferreira Borelli. Arquiteturas de software para cidades inteligentes. 2018. Exame de qualificação (Doutorando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "BATISTA, D. M.; KLEINSCHMIDT, J. H. ; MUNARETTO, A.. Participação em banca de Edllyn de Jesus Silva. Modelos de detecção de intrusão baseados em consumo de energia para dispositivos IoT. 2026. Exame de qualificação (Mestrando em Ciências da Computação) - Universidade de São Paulo.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Chisom Gideon Ezegbe. Spatial division security in elastic optical networks: ABLISHING A NETWORK-LEVEL BASELINE. 2026. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Chisom Gideon Ezegbe. Spatial division security in elastic optical networks: establishig a network-level baseline. 2026. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; BONANI, L. H.. Participação em banca de Alexandre Tambra Carmo. Detecção e Classificação Multiclasse de Falhas em Redes Ópticas Utilizando Machine Learning e Engenharia de Features de Séries Temporais. 2026. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "FANTINATO, D. G.; KLEINSCHMIDT, J. H. ; ZUBEN, F. J. V.. Participação em banca de Felipe Augusto Oliveira dos Santos. An adaptive defense system for IoT networks using proactive attack prediction and deep reinforcement learning. 2025. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PRATI, R. C.. Participação em banca de Israel da Silva Barros. Neural Autonomous UAV (NAV): Aprendizado por Reforço Profundo para Controle Autônomo de Drones e Evasão de Colisões em Serviços de Entregas Aéreas. 2025. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, H. M. N. S.; KLEINSCHMIDT, J. H. ; MENEGUETTE, R. I.. Participação em banca de Andreia Alexandre Felix. Prevenção de colisões veiculares com IA e comunicação V2X: uma abordagem baseada em simulaçã. 2025. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, L. A. L.; KLEINSCHMIDT, J. H. ; BELATI, E. A.. Participação em banca de Rodrigo Sagaseta de Oliveira Souza. Transformadores de visão para previsão densa: uma abordagem inovadora em segurança pública e inteligência de monitoramento. 2024. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Marcos Lima Romero. Garantia de qualidade de dados na Internet das Coisas explorando inteligência artificial. 2024. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SCOTT, A. L.; KLEINSCHMIDT, J. H. ; PENTEADO, C.. Participação em banca de Giselda Cristina Ferreira. Covid-19 vs. política e a polarização no Twitter. 2023. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; WALDMAN, H.. Participação em banca de Fábio Della Nina. Análise de desempenho de redes ópticas elásticas com cenários de distribuição desigual de tipos de serviço por tamanhos de rota. 2022. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LOIOLA, M. B.; KLEINSCHMIDT, J. H. ; FANTINATO, D. G.. Participação em banca de João Paulo dal Poz Pereira. Detecção de anomalias em tráfego de dados em redes IoT. 2022. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, R. M.; KLEINSCHMIDT, J. H. ; MARGI, C. B.. Participação em banca de Artur Carvalho Zucchi. Arquitetura FANET baseada em cooperação de tecnologia híbrida. 2021. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PRATI, RONALDO C.. Participação em banca de Renato Bueno Domingos de Oliveira. Gerenciamento da heterogeneidade em aplicações inteligentes baseadas na Internet das Coisas. 2020. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "REIS JUNIOR, J. V.; KLEINSCHMIDT, J. H. ; RABELO, R. A. L.. Participação em banca de Artur Felipe da Silva Veloso. Estudo e Proposta de uma Infraestutura de Comunicação Híbrida com LoRaWAN e LoraMesh para Gerenciamento do Consumo de Energia Elétrica pelo lado da Demanda. 2020. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do Piauí.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CAPOVILLA, C. E.; KLEINSCHMIDT, J. H. ; ARAUJO, H. X.. Participação em banca de Renan Rodrigues Mendes. Avaliação de Desempenho da Tecnologia LoRa para Aplicações na Indústria 4.0. 2020. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PRATI, R. C.. Participação em banca de Renato Bueno Domingos de Oliveira. Gerenciamento da Heterogeneidade em Aplicações Inteligentes baseadas na Internet das Coisas. 2020. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; PISANI, P. H.. Participação em banca de Paulo César Dias Lima. Otimização da alocação de unidades de banda-base (BBU) em arquiteturas de rede de acesso por rádio em nuvem (C-RAN) com uso de algoritmos genéticos. 2019. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; BONANI, L. H.. Participação em banca de Aldo Ventura da Silva. Gerenciando Múltiplas Falhas Bizantinas em Redes Ópticas Roteadas por Algoritmos baseados em Otimização por Colônia de Formigas. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; CHALCO, J. P. M.. Participação em banca de Veruska Lorraine Ayora. Redes sociais como plataforma de distribuição de dados para cidades inteligentes. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PAVANI, G. S.. Participação em banca de Bruno Ricardo Queté. Avaliação de desempenho de tecnologias de comunicação sem fio com simulação computacional para gestão inteligente de irrigação. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; FRANCA, F. O.. Participação em banca de Ivan Dimitry Ribeiro Zyrianoff. Suporte de computação em névoa para cidades inteligentes baseadas na Internet das Coisas. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Marcos Imperio. Estudo técnico econômico da RAN sharing das operadoras móveis 4G do Brasil. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GOYA, D. H.; KLEINSCHMIDT, J. H. ; RODRIGUES, C. K. S.. Participação em banca de Rodrigo Pennella Cardoso. Um framework para interoperabilidade de instituições heterogêneas de ensino utilizando Blockchain. 2018. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; SANCHES, A. L.. Participação em banca de Douglas Pessanha Lopes. Algoritmos de Alocação de Espectro com Compartilhamento Seletivo aplicados a Redes Ópticas Elásticas. 2018. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, JOAO H. ; SCOTT, L. P.. Participação em banca de Andrea Garcia Trindade. Análise, modelagem e predição de eventos em praças digitais. 2017. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARGI, C. B.; KLEINSCHMIDT, J. H. ; ALBERTINI, B. C.. Participação em banca de Gustavo Alonso Nunez Segura. Energy Consumption Prediction in Software Defined Wireless Sensor Networks. 2017. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; NETTO, M. A. S.. Participação em banca de Gustavo Uruguay Castilho. Avaliação de desempenho em cenários de computação em névoa utilizando virtualização de funções de rede e redes definidas por software. 2017. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Joel Carlos Farias de Queiroz. Proposta de uma técnica de nivelamento desempenho inter-rotas aplicada às redes ópticas elásticas. 2016. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PAVANI, G. S.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Joel Hernán Flores Martinez. Roteamento em redes tolerantes ao atraso por meio de otimização por colônia de formigas. 2016. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FAVERO, P. B.; KLEINSCHMIDT, J. H. ; CAPELAS, M.. Participação em banca de Juliana Bilecki da Cunha. Sistema de suporte à decisão para previsão de crises em mananciais. 2016. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; TORRISI, N. M.. Participação em banca de Daniel Freitas de Jesus. Estudo de mecanismos de posicionamento de máquinas virtuais na computação em nuvem. 2016. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "UEDA, E. T.; KLEINSCHMIDT, J. H. ; SANTOS, M. A. S.. Participação em banca de Daniel Abujabra Merege. Proposta de um middleware para gerenciamento de tráfego de dados em redes de segurança pública. 2015. Exame de qualificação (Mestrando em Engenharia de Computação) - Instituto de Pesquisas Tecnológicas do Estado de São Paulo.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KURASHIMA, C. S.; KLEINSCHMIDT, J. H. ; KOBAYASHI, G.. Participação em banca de Geiza Caruline Costa. Interatividade e transmissão de dados entre TV digital com Ginga e dispositivos de segunda tela. 2015. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PAVANI, G. S.. Participação em banca de Juliano Ratusznei. Uma rede Wi-Fi aberta de larga escala como infraestrutura para cidades inteligentes. 2015. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "TORRISI, N. M.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Lucas Trombeta. A scale out DHCP failover approach over distributed private networks. 2015. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "TORRISI, N. M.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Thais Rodriguez de Toledo. AN DNP3 protocol attack using supervised and unsupervised learning algorithms. 2015. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; KAMIENSKI, C. A.. Participação em banca de Wilson Carvalho Ferreira dos Santos. Uma contribuição ao estudo de políticas de alocação de recursos em redes ópticas. 2015. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; PEREIRA, L.. Participação em banca de Davi Brandão Zanotto. Compreendendo Mecanismos de Inﬂuência em Redes Sociais Online através do Comportamento dos Usuários. 2014. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LOIOLA, M. B.; KLEINSCHMIDT, J. H. ; PANAZIO, A. O. N.. Participação em banca de José Fábio Santos Barros. Modulação adaptativa em sistemas de comunicações cooperativas. 2014. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SCOTT, L. P.; KLEINSCHMIDT, J. H. ; BRAZ, A. S. K.. Participação em banca de André Kliousoff Junior. Investigando Padrões em Proteínas com Regiões de Desordem por meio de Mineração de Dados. 2014. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KOBAYASHI, G.; KLEINSCHMIDT, J. H. ; NASCIMENTO, M. Z.. Participação em banca de Kleber da Silva Divino. Estudo de soluções de tolerância a falhas para ambientes de computação em nuvem. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; KOBAYASHI, G.. Participação em banca de Bruno Tadeu Caetano. Implementação e avaliação de estratégias de middleware para o modelo integrado de composição em nuvem computacional. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "SCHWEITZER, C. M.; KLEINSCHMIDT, J. H. ; BONANI, L. H.. Participação em banca de Robson Ferreira Lopes. Redes Definidas por Software como Solução de Segurança contra Ataques de Negação de Serviço. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; SUYAMA, R.; BRAZ, A. S. K.. Participação em banca de Raphael Agostin Leite Cristofaro. Desenvolvimento de um módulo Web e aprimoramento da ferramenta GANM para simular docking completamente flexível de proteína ligante. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; LOIOLA, M. B.. Participação em banca de Alexandre dos Santos Tozetti. Análise de desempenho de redes óptica elásticas com múltiplos serviços. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; LOIOLA, M. B.; BONANI, L. H.. Participação em banca de Érica Monique Almeida Ramos. Comparação dos Protocolos Bidirecionais HTTP: SPDY e WebSocket. 2013. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; BUDRI, A. K.. Participação em banca de Matheus Borges dos Santos. Análise da Qualidade de Serviço de Arquiteturas OPS/OBS com Recursos de Diferenciação de Tráfego. 2012. Exame de qualificação (Mestrando em Engenharia da Informação) - Universidade Federal do ABC.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "BORDIN JUNIOR, C. J.; KLEINSCHMIDT, J. H. ; CRUZ, P. I.. Participação em banca de Herbert Hurtado Antunes Junior e Marcos Aurelio Silva Costa.Análise Comparativa de Algoritmos de Balanceamento de Carga em Redes SDN. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "HERRERA, V. A. S.; KLEINSCHMIDT, J. H. ; GOYA, D. H.. Participação em banca de Lucas Trombeta.Recurso educacional sobre encaminhamento de pacotes para orientação interativa em redes de computadores: P4ERING. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "HERRERA, V. A. S.; KLEINSCHMIDT, J. H. ; GOYA, D. H.. Participação em banca de Lucas Trombeta.Recurso educacional sobre encaminhamento de pacotes para orientação interativa em redes de computadores ? P4ERING. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "YOKOYAMA, R. S.; KLEINSCHMIDT, J. H. ; GOMES, M. A. C.. Participação em banca de Brendol Alexandre Assis Freire.Avaliação da Segurança DNS com DNSSEC Durante a Transição para Redes IPV6-only. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BORDIN JUNIOR, C. J.; KLEINSCHMIDT, J. H. ; PEROTONI, M. B.. Participação em banca de Felipe Roberto Martins de Andrade.Testes de desempenho de redes 4G baseadas em IPv6. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LOIOLA, M. B.; KLEINSCHMIDT, J. H. ; ZINANNI, E.. Participação em banca de Beatriz Cavalcante Silva.Análise de segurança e modelagem de ataques em sistemas NFC: estudo de caso em máquinas transacionais POS (Point Of Sale). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, A. A.; KLEINSCHMIDT, J. H. . Participação em banca de Caroline Miranda Pereira Lima.Critérios de segurança da informação para IoT. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Instrumentação, Automação e Robótica) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; YOKOYAMA, R. S.. Participação em banca de Kauan Carvalho Calasans e Luiz Henrique Speht de Oliveira.Governança de dados em big data no cenário de desenvolvimento de software pós LGPD. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; SOUSA, G. B.. Participação em banca de Kauan Manzato do Nascimento.Identificação Civil Digital. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "NOSE FILHO, K.; KLEINSCHMIDT, J. H. ; GOMES, M. A. C.. Participação em banca de Jonas Santos Marma.Implantação de Ferramenta de Geração de Leads para Organização Não Governamental. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; MUNOZ, R. R.. Participação em banca de Rafael Montoia da Silva.Aplicação de um sistema embarcado baseado em ZigBee para monitoramento de vias férreas. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; JOSKO, J. M. B.. Participação em banca de Giselle Silva de Santana e Rodrigo Akiyama Abrantes.Computação de Borda e Bancos de Dados Distribuídos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; PAVANI, G. S.. Participação em banca de Marcos Romero.Consistência e Qualidade de Big Data em Sistemas Distribuídos. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SUYAMA, R.; KLEINSCHMIDT, J. H. ; COTRIM, J. R.. Participação em banca de Guilherme Bueno Aoki.Apache Spot: Big data e segurança da informação. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; KURASHIMA, C. S.. Participação em banca de Danielle Lucarini.Desenvolvimento de um modelo computacional para análise do consumo de energia residencial monitorado por um sistema IoT. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; TORRISI, N. M.. Participação em banca de Ivan Dimitry Ribeiro Zyrianoff.Computação em névoa para Internet das Coisas: desafios e aplicações. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "GOYA, D. H.; KLEINSCHMIDT, JOAO H. ; PELLEGRINI, J. C.. Participação em banca de Bruna de Paula Gomes.Protocolo de autenticação HIP: uma análise sobre segurança da informação. 2017. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; LOIOLA, M. B.. Participação em banca de Pedro Caetano de Oliveira.Análise de sistemas de comunicação sem fio baseados em técnicas OFDM e MIMO. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BONANI, L. H.; KLEINSCHMIDT, J. H. ; BUDRI, A. K.. Participação em banca de Felippe Zanin.Análise de desempenho de sistemas VoIP baseados em redes sem fio. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KAMIENSKI, C. A.; KLEINSCHMIDT, J. H. ; BORELLI, F.. Participação em banca de Felipe Luccas Miranda Pinto.Evolução do cenário de Internet das Coisas através da tecnologia 5G e de soluções NFV. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PEROTONI, M. B.; KLEINSCHMIDT, J. H. ; BORDIN JUNIOR, C. J.. Participação em banca de Fernando Henrique Gomes Faggi.Protótipo de climatização em uma casa inteligente. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "GAZZIRO, M. A.; KLEINSCHMIDT, J. H. ; ARANHA, D.; KAMIENSKI, C. A.. Participação em banca de Fernando Teodoro de Lima.Protótipo de urna eletrônica de 3a geração. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CASELLA, I. R. S.; KLEINSCHMIDT, J. H. ; LOIOLA, M. B.. Participação em banca de Bruno Crepaldi Ambrózio.Alocação de recursos em sistemas OFDM. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KOBAYASHI, G.; KLEINSCHMIDT, J. H. ; MINAMI, M.. Participação em banca de Luis Felipe Pellegrini Meloni.Desenvolvimento de Software de Interface para Dispositivos Interativos de TVs Inteligentes. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KURASHIMA, C. S.; KLEINSCHMIDT, J. H. ; FERREIRA, F. T.. Participação em banca de Douglas Galetti Ribeiro.Teleconferência 3D em rede IP utilizando visão estereoscópica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Informação) - Universidade Federal do ABC.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, J. R.; KLEINSCHMIDT, J. H. ; PIETRUCHINSKI, M. H.. Participação em banca de Sullivan Lourenço da Silva.Desenvolvimento de um sistema para dispositivo móvel para controle de pedidos. 2009. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, Helyane; KLEINSCHMIDT, J. H. ; AIRES, S.. Participação em banca de José Ricardo da Silva e Victor Schechtel Kodum.Sistema de controle de tráfego de veículos da Empresa Brasileira de Pesquisa Agropecuária de Ponta Grossa utilizando arquitetura em 3 camadas. 2009. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "GOIS, L. A.; KLEINSCHMIDT, J. H. ; KOSCIANSKI, André.. Participação em banca de Fabian Maurice Malheiros Franco e Márcio Hosoya Name.Um modelo econômico para alocação de recursos em grades computacionais. 2008. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "GOIS, L. A.; KLEINSCHMIDT, J. H. ; KOSCIANSKI, André.. Participação em banca de Jonathan Rui de Lima.Sistema para localização, disponibilização e gerenciamento de recursos ociosos em uma grade computacional. 2008. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, Helyane; KLEINSCHMIDT, J. H. ; ISHIKAWA, Eliana C. M.. Participação em banca de Rodrigo José dos Santos.Aplicação da integração da metodologia de desenvolvimento de software scrum com PMBOK em um sistema de controle financeiro pessoal. 2008. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "ISHIKAWA, Eliana C. M.; KLEINSCHMIDT, J. H. ; PIETRUCHINSKI, Mônica H.. Participação em banca de Jackson Luiz Vaz e Marco Antonio Bernardino.O moodle como ambiente virtual de aprendizagem colaborativa via internet para o campus Ponta Grossa da UTFPR: avaliação, elaboração, proposta e implantação. 2008. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "GOIS, L. A.; KLEINSCHMIDT, J. H. ; KOSCIANSKI, André.. Participação em banca de Marcos Mincov Tenório.Um modelo para levantamento de informações sobre recursos ociosos em uma grade computacional. 2008. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Análise e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; PANAZIO, A. O. N.; SILVA JUNIOR, L. R. S. E.. Banca de comissão de seleção para professor visitante - Engenharia de Informação. 2024. Universidade Federal do ABC.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BUDRI, A. K.; KLEINSCHMIDT, J. H. ; MINAMI, M.. Banca de comissão de seleção para professor visitante - Engenharia de Informação - Programação. 2019. Universidade Federal do ABC.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "GOIS, L. A.; KLEINSCHMIDT, J. H. ; BARRETO, F.. Banca de concurso para professor assistente - Redes de Computadores e Sistemas Distribuídos. 2012. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; SOUZA, R. D.; ASSIS, K. D. R.. Banca de concurso para professor adjunto - Engenharia de Informação - Redes de Computadores. 2012. Universidade Federal do ABC.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Avaliação de cursos",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; SILVA, M. C.. Autorização do curso de Tecnologia em Redes de Computadores - Recife - PE. 2017. Faculdade de Ciências Humanas Esuda.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; PLACCA, J. A.. Autorização do Curso de Engenharia de Computação - Governador Valadares - MG. 2017. Faculdade Pitágoras.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; BEZERRA, E. P.. Autorização do Curso de Engenharia de Computação - Jaboatão dos Guararapes - PE. 2016. Faculdade dos Guararapes.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; PLACCA, J. A.. Autorização do Curso de Engenharia de Computação - Belo Horizonte - MG. 2015. Escola Superior de Engenharia de Minas Gerais.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; URIARTE, L. R.. Reconhecimento do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - Londrina - PR. 2014. INSTITUTO FEDERAL DO PARANA.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; PACHECO, E. J.. Reconhecimento do Curso de Engenharia de Computação. 2013. Universidade de Brasília.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; FERREIRA, A. P. L.. Renovação de Reconhecimento do Curso de Engenharia de Computação - Goiânia - GO. 2013. Centro Universitário de Goiás.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; MEDEIROS, M. A. A.. Reconhecimento do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - Sorriso - MT. 2012. Faculdades Integradas de Sorriso.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; FERREIRA, A. P. L.. Reconhecimento do Curso de Engenharia de Computação. 2012. Universidade Católica de Petrópolis.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; PAZZINATO, E.. Reconhecimento do curso de Tecnologia em Redes de Computadores - São José dos Pinhais - PR. 2011. Faculdade Metropolitana de Curitiba.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; FRANCHI, C. M.. Reconhecimento do Curso de Tecnologia em Redes de Computadores - Jaboatão dos Guararapes - PE. 2011. Faculdade dos Guararapes.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; CABRINI, F. H.. Renovação de Reconhecimento do Curso de Tecnologia em Análise e Desenvolvimento de Sistemas - Colatina - ES. 2011. Centro Universitário do Espírito Santo.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "items": [
+        {
+          "texto": "KLEINSCHMIDT, J. H. . Membro ad hoc em processo de promoção de professor. 2015. Instituto Mauá de Tecnologia.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; KOSCIANSKI, André.; GOIS, L. A.. Banca de Processo Seletivo para Professor Substituto de Arquitetura e Redes de Computadores. 2009. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "KLEINSCHMIDT, J. H. ; GOIS, L. A.; BELMONTE, Danillo L.. Banca de Processo Seletivo para Professor Substituto na Disciplina de Programação para Web. 2008. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

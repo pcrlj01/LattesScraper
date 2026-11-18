@@ -1,0 +1,2538 @@
+{
+  "name": "Sérgio Francisco Pichorim",
+  "lattes_id": "5874071100916364",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A guideline for gesture recognition developers with triboelectric gloves: Key insights on handcrafted feature extraction approach",
+          "autores": "DIAS, T. S. ; PICHORIM, SERGIO FRANCISCO ; MENDES JUNIOR, J. J. A.",
+          "periodico": "Biomedical Signal Processing and Control , v. 112, p. 108736, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.bspc.2025.108736",
+          "citacao_completa": "DIAS, T. S. ; PICHORIM, SERGIO FRANCISCO ; MENDES JUNIOR, J. J. A. . A guideline for gesture recognition developers with triboelectric gloves: Key insights on handcrafted feature extraction approach. Biomedical Signal Processing and Control , v. 112, p. 108736, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "MOT: A Low-Latency, Multichannel Wireless Surface Electromyography Acquisition System Based on the AD8232 Front-End",
+          "autores": "INAFUCO, A. T. P. ; MACHOSKI, P. ; CAMPOS, DANIEL PRADO ; PICHORIM, SERGIO FRANCISCO ; MENDES JUNIOR, J. J. A.",
+          "periodico": "SENSORS , v. 25, p. 3600-3623, 2025.",
+          "doi": "http://dx.doi.org/10.3390/s25123600",
+          "citacao_completa": "INAFUCO, A. T. P. ; MACHOSKI, P. ; CAMPOS, DANIEL PRADO ; PICHORIM, SERGIO FRANCISCO ; MENDES JUNIOR, J. J. A. . MOT: A Low-Latency, Multichannel Wireless Surface Electromyography Acquisition System Based on the AD8232 Front-End. SENSORS , v. 25, p. 3600-3623, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Comparison between handcraft feature extraction and methods based on Recurrent Neural Network models for gesture recognition by instrumented gloves: A case for Brazilian Sign Language Alphabet",
+          "autores": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "Biomedical Signal Processing and Control , v. 80, p. 104201, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.bspc.2022.104201",
+          "citacao_completa": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, SÉRGIO FRANCISCO . Comparison between handcraft feature extraction and methods based on Recurrent Neural Network models for gesture recognition by instrumented gloves: A case for Brazilian Sign Language Alphabet. Biomedical Signal Processing and Control , v. 80, p. 104201, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "An Instrumented Glove for Recognition of Brazilian Sign Language Alphabet",
+          "autores": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "IEEE SENSORS JOURNAL , v. 22, p. 2518-2529, 2022.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2021.3136790",
+          "citacao_completa": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, SÉRGIO FRANCISCO . An Instrumented Glove for Recognition of Brazilian Sign Language Alphabet. IEEE SENSORS JOURNAL , v. 22, p. 2518-2529, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ludic Table: a comparative study between playful rehabilitation and kinesiotherapy in restricting upper limb movements in individuals with stroke",
+          "autores": "; BRAWERMAN, A. ; SANTOS, A. T. D. ; PICHORIM, S. F.",
+          "periodico": "MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING , v. 60, p. 1187-1198, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s11517-022-02532-0",
+          "citacao_completa": "; BRAWERMAN, A. ; SANTOS, A. T. D. ; PICHORIM, S. F. . Ludic Table: a comparative study between playful rehabilitation and kinesiotherapy in restricting upper limb movements in individuals with stroke. MEDICAL & BIOLOGICAL ENGINEERING & COMPUTING , v. 60, p. 1187-1198, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Pattern recognition of human movements using features extracted by triangulation method - a comparison with features of time and frequency domains",
+          "autores": "GIACOMOSSI, LUIZ CARLOS ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING , v. 38, p. 539-557, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s42600-022-00204-4",
+          "citacao_completa": "GIACOMOSSI, LUIZ CARLOS ; PICHORIM, SÉRGIO FRANCISCO . Pattern recognition of human movements using features extracted by triangulation method - a comparison with features of time and frequency domains. RESEARCH ON BIOMEDICAL ENGINEERING , v. 38, p. 539-557, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A Three-Coil Wireless Power Transfer System using Self-Resonant Open-Bifilar Coils",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS , v. 154, p. 154300, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.aeue.2022.154300",
+          "citacao_completa": "; PICHORIM, S. F. . A Three-Coil Wireless Power Transfer System using Self-Resonant Open-Bifilar Coils. AEU-INTERNATIONAL JOURNAL OF ELECTRONICS AND COMMUNICATIONS , v. 154, p. 154300, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Defect Detection in Aluminum Bars Using Impedance and Ultrasonic Attenuation",
+          "autores": "COSTA, R. ; MAIA, J. ; ASSEF, AMAURI A. ; PICHORIM, S. F. ; GEWEHR, P. M. ;",
+          "periodico": "IEEE SENSORS JOURNAL , v. 20, p. 7400-7413, 2020.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2020.2978427",
+          "citacao_completa": "COSTA, R. ; MAIA, J. ; ASSEF, AMAURI A. ; PICHORIM, S. F. ; GEWEHR, P. M. ; . Defect Detection in Aluminum Bars Using Impedance and Ultrasonic Attenuation. IEEE SENSORS JOURNAL , v. 20, p. 7400-7413, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Feature selection and dimensionality reduction: An extensive comparison in hand gesture classification by sEMG in eight channels armband approach",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, SERGIO F. ; LAZZARETTI, A. E.",
+          "periodico": "Biomedical Signal Processing and Control , v. 59, p. 101920, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.bspc.2020.101920",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, SERGIO F. ; LAZZARETTI, A. E. . Feature selection and dimensionality reduction: An extensive comparison in hand gesture classification by sEMG in eight channels armband approach. Biomedical Signal Processing and Control , v. 59, p. 101920, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comparative analysis among feature selection of sEMG signal for hand gesture classification by armband",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. ; LAZZARETTI, A. E.",
+          "periodico": "IEEE Latin America Transactions , v. 18, p. 1135-1143, 2020.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2020.9099752",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. ; LAZZARETTI, A. E. . Comparative analysis among feature selection of sEMG signal for hand gesture classification by armband. IEEE Latin America Transactions , v. 18, p. 1135-1143, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analysis of influence of Segmentation, Features, and Classification in sEMG processing: a case study of Recognition of Brazilian Sign Language Alphabet",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F.",
+          "periodico": "SENSORS , v. 20, p. 1-25, 2020.",
+          "doi": "http://dx.doi.org/10.3390/s20164359",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. . Analysis of influence of Segmentation, Features, and Classification in sEMG processing: a case study of Recognition of Brazilian Sign Language Alphabet. SENSORS , v. 20, p. 1-25, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Independent component analysis in multi-channel forearm surface electromyography processing on armband approach for hand gesture classification",
+          "autores": "MENDES JUNIOR, JOSÉ JAIR ALVES ; CAMPOS, DANIEL PRADO ; DIAS, THIAGO SIMÕES ; SIQUEIRA, HUGO VALADARES ; STEVAN JR, SERGIO LUIZ ; PICHORIM, SERGIO FRANCISCO",
+          "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING , v. 36, p. 439-448, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s42600-020-00082-8",
+          "citacao_completa": "MENDES JUNIOR, JOSÉ JAIR ALVES ; CAMPOS, DANIEL PRADO ; DIAS, THIAGO SIMÕES ; SIQUEIRA, HUGO VALADARES ; STEVAN JR, SERGIO LUIZ ; PICHORIM, SERGIO FRANCISCO . Independent component analysis in multi-channel forearm surface electromyography processing on armband approach for hand gesture classification. RESEARCH ON BIOMEDICAL ENGINEERING , v. 36, p. 439-448, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "An obstetric brachial plexus lesion rehabilitation platform",
+          "autores": "ALBERTI, EDUARDO JULIANO ; PICHORIM, SÉRGIO FRANCISCO ; BRAWERMAN, ALESSANDRO",
+          "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING , v. 35, p. 167-172, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s42600-019-00018-x",
+          "citacao_completa": "ALBERTI, EDUARDO JULIANO ; PICHORIM, SÉRGIO FRANCISCO ; BRAWERMAN, ALESSANDRO . An obstetric brachial plexus lesion rehabilitation platform. RESEARCH ON BIOMEDICAL ENGINEERING , v. 35, p. 167-172, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "On the self-resonant frequency reduction of closed- and open-bifilar coils",
+          "autores": "DE MIRANDA, CAIO M. ; PICHORIM, SÉRGIO F.",
+          "periodico": "INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 47, p. 641-653, 2019.",
+          "doi": "http://dx.doi.org/10.1002/cta.2609",
+          "citacao_completa": "DE MIRANDA, CAIO M. ; PICHORIM, SÉRGIO F. . On the self-resonant frequency reduction of closed- and open-bifilar coils. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 47, p. 641-653, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "On the impact of relay circuit losses in four-coil wireless power transfer systems",
+          "autores": "MIRANDA, CAIO M. ; PICHORIM, SERGIO F. ; ABATTI, PAULO J.",
+          "periodico": "INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 47, p. 1922-1932, 2019.",
+          "doi": "http://dx.doi.org/10.1002/cta.2685",
+          "citacao_completa": "MIRANDA, CAIO M. ; PICHORIM, SERGIO F. ; ABATTI, PAULO J. . On the impact of relay circuit losses in four-coil wireless power transfer systems. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 47, p. 1922-1932, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Two Solutions of Soil Moisture Sensing with RFID for Landslide Monitoring",
+          "autores": "PICHORIM, SÉRGIO FRANCISCO ; GOMES, N. ; BATCHELOR, J.",
+          "periodico": "SENSORS , v. 18, p. 0452, 2018.",
+          "doi": "http://dx.doi.org/10.3390/s18020452",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; GOMES, N. ; BATCHELOR, J. . Two Solutions of Soil Moisture Sensing with RFID for Landslide Monitoring. SENSORS , v. 18, p. 0452, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Analysis and optimisation of three-coil wireless power transfer systems",
+          "autores": "ABATTI, PAULO J. ; DE MIRANDA, CAIO M. ; DA SILVA, MÁRCIO A.P. ; PICHORIM, SÉRGIO F.",
+          "periodico": "IET POWER ELECTRONICS (ONLINE) , v. 11, p. 68-72, 2018.",
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2016.0492",
+          "citacao_completa": "ABATTI, PAULO J. ; DE MIRANDA, CAIO M. ; DA SILVA, MÁRCIO A.P. ; PICHORIM, SÉRGIO F. . Analysis and optimisation of three-coil wireless power transfer systems. IET POWER ELECTRONICS (ONLINE) , v. 11, p. 68-72, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modeling of Open Square Bifilar Planar Spiral Coils",
+          "autores": "SILVA, DENIVALDO P. DA ; PICHORIM, SÉRGIO F.",
+          "periodico": "JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 17, p. 319-339, 2018.",
+          "doi": "http://dx.doi.org/10.1590/2179-10742018v17i31254",
+          "citacao_completa": "SILVA, DENIVALDO P. DA ; PICHORIM, SÉRGIO F. . Modeling of Open Square Bifilar Planar Spiral Coils. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 17, p. 319-339, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Self-Resonant 2-Coil Wireless Power Transfer System Using Open Bifilar Coils",
+          "autores": "MIRANDA, CAIO M. ; PICHORIM, SERGIO F.",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 64, p. 1-1, 2016.",
+          "doi": "http://dx.doi.org/10.1109/tcsii.2016.2595402",
+          "citacao_completa": "MIRANDA, CAIO M. ; PICHORIM, SERGIO F. . A Self-Resonant 2-Coil Wireless Power Transfer System Using Open Bifilar Coils. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 64, p. 1-1, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Influences of the signal border extension in the discrete wavelet transform in EEG spike detection",
+          "autores": "PACOLA, EDRAS REILY ; QUANDT, VERONICA ISABELA ; LIBERALESSO, PAULO BRENO NORONHA ; PICHORIM, SERGIO FRANCISCO ; GAMBA, HUMBERTO REMIGIO ; SOVIERZOSKI, MIGUEL ANTONIO",
+          "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING , v. 32, p. 253-262, 2016.",
+          "doi": "http://dx.doi.org/10.1590/2446-4740.01815",
+          "citacao_completa": "PACOLA, EDRAS REILY ; QUANDT, VERONICA ISABELA ; LIBERALESSO, PAULO BRENO NORONHA ; PICHORIM, SERGIO FRANCISCO ; GAMBA, HUMBERTO REMIGIO ; SOVIERZOSKI, MIGUEL ANTONIO . Influences of the signal border extension in the discrete wavelet transform in EEG spike detection. RESEARCH ON BIOMEDICAL ENGINEERING , v. 32, p. 253-262, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "NEW APPROACHES IN DISCRETE WAVELET TRANSFORM USE FOR PULMONARY CRACKLE CHARACTERIZATION: THE BORDER EFFECT EVALUATION, THE USED SUBBANDS REDUCTION AND THE BEST WAVELET CHOICE",
+          "autores": "; ; PICHORIM, S. F. ; ;",
+          "periodico": "Research on Biomedical Engineering , v. 31, p. 148-159, 2015.",
+          "doi": "",
+          "citacao_completa": "; ; PICHORIM, S. F. ; ; . NEW APPROACHES IN DISCRETE WAVELET TRANSFORM USE FOR PULMONARY CRACKLE CHARACTERIZATION: THE BORDER EFFECT EVALUATION, THE USED SUBBANDS REDUCTION AND THE BEST WAVELET CHOICE. Research on Biomedical Engineering , v. 31, p. 148-159, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Maximum Power Transfer versus Efficiency in Mid-Range Wireless Power Transfer Systems",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 14, p. 97-109, 2015.",
+          "doi": "http://dx.doi.org/10.1590/2179-10742015v14i1433",
+          "citacao_completa": "; PICHORIM, S. F. ; . Maximum Power Transfer versus Efficiency in Mid-Range Wireless Power Transfer Systems. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 14, p. 97-109, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Self-resonant frequencies of air-core single-layer solenoid coils calculated by a simple method",
+          "autores": "DE MIRANDA, CAIO MARCELO ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "Electrical Engineering (Berlin. Print) , v. 97, p. 57-64, 2015.",
+          "doi": "http://dx.doi.org/10.1007/s00202-014-0312-3",
+          "citacao_completa": "DE MIRANDA, CAIO MARCELO ; PICHORIM, SÉRGIO FRANCISCO . Self-resonant frequencies of air-core single-layer solenoid coils calculated by a simple method. Electrical Engineering (Berlin. Print) , v. 97, p. 57-64, 2015."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Analysis of errors in some simplified textbook interpretations of coil coupling coefficient",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "International Journal of Electrical Engineering Education , v. 50, p. 127-132, 2013.",
+          "doi": "http://dx.doi.org/10.7227/IJEEE.50.2.2",
+          "citacao_completa": "PICHORIM, S. F. ; . Analysis of errors in some simplified textbook interpretations of coil coupling coefficient. International Journal of Electrical Engineering Education , v. 50, p. 127-132, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Distance Measurement with Inductive Coils",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "IEEE Sensors Journal , v. 12, p. 2237-2242, 2012.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2012.2185789",
+          "citacao_completa": "; PICHORIM, S. F. ; . Distance Measurement with Inductive Coils. IEEE Sensors Journal , v. 12, p. 2237-2242, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Equacionamento e Modelagem ba Bobina Bifilar de Tesla",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "Revista Uniandrade (Impresso) , v. 13, p. 42-59, 2012.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Equacionamento e Modelagem ba Bobina Bifilar de Tesla. Revista Uniandrade (Impresso) , v. 13, p. 42-59, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Humidity in sandy soil measured by passive, wireless, and resonant sensor with bifilar coil",
+          "autores": "PICHORIM, S F ; ; LASKOSKI, G T",
+          "periodico": "Journal of Physics. Conference Series (Online) , v. 407, p. 012013, 2012.",
+          "doi": "http://dx.doi.org/10.1088/1742-6596/407/1/012013",
+          "citacao_completa": "PICHORIM, S F ; ; LASKOSKI, G T . Humidity in sandy soil measured by passive, wireless, and resonant sensor with bifilar coil. Journal of Physics. Conference Series (Online) , v. 407, p. 012013, 2012."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Novel Method to Read Remotely Resonant Passive Sensors in Biotelemetry Systems",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "IEEE Sensors Journal , v. 8, p. 6-11, 2008.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2007.912386",
+          "citacao_completa": "PICHORIM, S. F. ; . A Novel Method to Read Remotely Resonant Passive Sensors in Biotelemetry Systems. IEEE Sensors Journal , v. 8, p. 6-11, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A method to derive mutual inductance properties using electric circuit analysis tools",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION , v. 45, p. 46-50, 2008.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . A method to derive mutual inductance properties using electric circuit analysis tools. INTERNATIONAL JOURNAL OF ELECTRICAL ENGINEERING EDUCATION , v. 45, p. 46-50, 2008."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Biotelemetric Passive Sensor Injected within Tendon for Strain and Elasticity Measurement",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "IEEE Transactions on Biomedical Engineering (Print) , USA, v. 53, n.5, p. 921-925, 2006.",
+          "doi": "http://dx.doi.org/10.1109/TBME.2006.872157",
+          "citacao_completa": "PICHORIM, S. F. ; . Biotelemetric Passive Sensor Injected within Tendon for Strain and Elasticity Measurement. IEEE Transactions on Biomedical Engineering (Print) , USA, v. 53, n.5, p. 921-925, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Development of a Telemetric System Employing a Passive Force Sensor",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "Sensors & Transducers , v. 39, n.1, p. 121-127, 2004.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Development of a Telemetric System Employing a Passive Force Sensor. Sensors & Transducers , v. 39, n.1, p. 121-127, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Design of Coils for Millimeter- and Submillimeter-Sized Biotelemetry",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "IEEE Transactions on Biomedical Engineering (Print) , v. 51, n.august, p. 1487-1489, 2004.",
+          "doi": "http://dx.doi.org/10.1109/TBME.2004.827542",
+          "citacao_completa": "PICHORIM, S. F. ; . Design of Coils for Millimeter- and Submillimeter-Sized Biotelemetry. IEEE Transactions on Biomedical Engineering (Print) , v. 51, n.august, p. 1487-1489, 2004."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Transmissor com Acionamento Remoto Utilizando Apenas um Transistor para Unidades Biotelemétricas Implantáveis ou Ingeríveis",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "Revista Brasileira de Engenharia Biomédica (Impresso) , v. 12, n.3, p. 51-61, 1996.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Transmissor com Acionamento Remoto Utilizando Apenas um Transistor para Unidades Biotelemétricas Implantáveis ou Ingeríveis. Revista Brasileira de Engenharia Biomédica (Impresso) , v. 12, n.3, p. 51-61, 1996."
+        },
+        {
+          "ano": 1994,
+          "titulo": "Single transistor underdumped RF pulse position modulator with remote switching for implantable units",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "Electronics Letters , v. 30, n.19, p. 1564-1565, 1994.",
+          "doi": "http://dx.doi.org/10.1049/el:19941082",
+          "citacao_completa": "PICHORIM, S. F. ; . Single transistor underdumped RF pulse position modulator with remote switching for implantable units. Electronics Letters , v. 30, n.19, p. 1564-1565, 1994."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Classification of Brazilian Sign Language Gestures Based on Recurrent Neural Networks Models, with Instrumented Glove",
+          "autores": "DIAS, T. S. ; Junior, J. J. A. Mendes ; PICHORIM, S. F.",
+          "periodico": "IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2024, v. , p. 611-620.",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-49407-9_61",
+          "citacao_completa": "DIAS, T. S. ; Junior, J. J. A. Mendes ; PICHORIM, S. F. . Classification of Brazilian Sign Language Gestures Based on Recurrent Neural Networks Models, with Instrumented Glove. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2024, v. , p. 611-620."
+        },
+        {
+          "ano": 2019,
+          "titulo": "SISTEMAS TELEMÉTRICOS PARA MEDIÇÃO DA UMIDADE DO SOLO",
+          "autores": "PICHORIM, SÉRGIO FRANCISCO ; Gamba, Adriano Ricardo de Abreu ; Champaoski, Karol de Freitas ; Castilho, Leonardo Henrique dos Santos",
+          "periodico": "In: Jorge González Aguilera, Alan Mario Zuffo. (Org.). Ensaios nas ciências agrárias e ambientais 5. 1ed.Ponta Grossa: Antonella Carvalho de Oliveira, 2019, v. 5, p. 218-232.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.41419160124",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; Gamba, Adriano Ricardo de Abreu ; Champaoski, Karol de Freitas ; Castilho, Leonardo Henrique dos Santos . SISTEMAS TELEMÉTRICOS PARA MEDIÇÃO DA UMIDADE DO SOLO. In: Jorge González Aguilera, Alan Mario Zuffo. (Org.). Ensaios nas ciências agrárias e ambientais 5. 1ed.Ponta Grossa: Antonella Carvalho de Oliveira, 2019, v. 5, p. 218-232."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Resonance frequency Detector System with Intelligent Sweeping for Injectable Passive Resonant Circuit",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "In: Megha Singh; S. Radhakrishnan. (Org.). Advances in Medical Diagnostic Techniques and Procedures. New Delhi: Anamaya, 2004, v. , p. 78-81.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Resonance frequency Detector System with Intelligent Sweeping for Injectable Passive Resonant Circuit. In: Megha Singh; S. Radhakrishnan. (Org.). Advances in Medical Diagnostic Techniques and Procedures. New Delhi: Anamaya, 2004, v. , p. 78-81."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "DETECÇÃO DE ANOMALIAS EM EQUIPAMENTOS DE RADIOGRAFIA DIGITAL: SENSOR, IOT E INTELIGÊNCIA ARTIFICIAL - REVISÃO SISTEMÁTICA",
+          "autores": "DESIDERIO, E. H. M. ; PICHORIM, SÉRGIO F.",
+          "periodico": "In: XVI SEB - Simpósio de Engenharia, 2025, Uberlândia. Anais do XVI SEB. Uberlância: UFU, 2025. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "DESIDERIO, E. H. M. ; PICHORIM, SÉRGIO F. . DETECÇÃO DE ANOMALIAS EM EQUIPAMENTOS DE RADIOGRAFIA DIGITAL: SENSOR, IOT E INTELIGÊNCIA ARTIFICIAL - REVISÃO SISTEMÁTICA. In: XVI SEB - Simpósio de Engenharia, 2025, Uberlândia. Anais do XVI SEB. Uberlância: UFU, 2025. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Characterization of defects in aluminum plates using acoustic impedance analysis of piezoelectric ceramic discs",
+          "autores": "MAIA, J. ; PICHORIM, S. F. ; SILVA, W. J. ; ;",
+          "periodico": "In: 9th International Congress on Ultrasonics ? ICU, 2025, PADERBORN. 2025 ICU PADERBORN Proceedings. Paderborn, Germany: AMA Service GmbH, 2025. v. 1. p. 339-342.",
+          "doi": "http://dx.doi.org/10.5162/Ultrasonic2025/P1.21",
+          "citacao_completa": "MAIA, J. ; PICHORIM, S. F. ; SILVA, W. J. ; ; . Characterization of defects in aluminum plates using acoustic impedance analysis of piezoelectric ceramic discs. In: 9th International Congress on Ultrasonics ? ICU, 2025, PADERBORN. 2025 ICU PADERBORN Proceedings. Paderborn, Germany: AMA Service GmbH, 2025. v. 1. p. 339-342."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Comparison between Traditional RNNs and RNNs with Attention Mechanism for Sign Language Recognition based on Data Gloves",
+          "autores": "DIAS, T. S. ; INAFUCO, A. T. P. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S F",
+          "periodico": "In: XXIX CONGRESSO BRASILEIRO DE ENGENHARIA BIOMÉDICA, 2024, Ribeirão Preto. Anais do CBEB 2024. Ribeirão Preto: USP, 2024.",
+          "doi": "",
+          "citacao_completa": "DIAS, T. S. ; INAFUCO, A. T. P. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S F . Comparison between Traditional RNNs and RNNs with Attention Mechanism for Sign Language Recognition based on Data Gloves. In: XXIX CONGRESSO BRASILEIRO DE ENGENHARIA BIOMÉDICA, 2024, Ribeirão Preto. Anais do CBEB 2024. Ribeirão Preto: USP, 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comparison Between Features Extracted in the Time and Frequency Domain with the Triangulation Method in the Recognition of Activities of Human Movements",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Comparison Between Features Extracted in the Time and Frequency Domain with the Triangulation Method in the Recognition of Activities of Human Movements. In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Leitura Remota de pH Através da Tecnologia RFID com Eletrodo ELET-UV100",
+          "autores": "CASTILHO, L. H. S. ; PICHORIM, SÉRGIO F.",
+          "periodico": "In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022.",
+          "doi": "",
+          "citacao_completa": "CASTILHO, L. H. S. ; PICHORIM, SÉRGIO F. . Leitura Remota de pH Através da Tecnologia RFID com Eletrodo ELET-UV100. In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Avaliação de Serious Games Aplicados ao Ensino na Área de Radiologia por meio da Realidade Virtual",
+          "autores": "MAZUR, M. J. ; PICHORIM, SÉRGIO F. ; FAGUNDES, A. C. F. ; PINHO, K. E. P.",
+          "periodico": "In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022.",
+          "doi": "",
+          "citacao_completa": "MAZUR, M. J. ; PICHORIM, SÉRGIO F. ; FAGUNDES, A. C. F. ; PINHO, K. E. P. . Avaliação de Serious Games Aplicados ao Ensino na Área de Radiologia por meio da Realidade Virtual. In: IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022), 2022, Florianópolis. Anais do IX Congresso Latino-Americano de Engenharia Biomédica (CLAIB 2022). Florialópolis: SBEB, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "CHANNEL INFLUENCE IN ARMBAND APPROACH FOR GESTURE RECOGNITION BY SEMG SIGNALS",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S F",
+          "periodico": "In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória ES. Proceedings of CBEB 2020. Vitória ES: Springer Nature Switzerland, 2020. v. 83. p. 1597-1602.",
+          "doi": "",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S F . CHANNEL INFLUENCE IN ARMBAND APPROACH FOR GESTURE RECOGNITION BY SEMG SIGNALS. In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória ES. Proceedings of CBEB 2020. Vitória ES: Springer Nature Switzerland, 2020. v. 83. p. 1597-1602."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ANALYSIS OF SENSORS IN THE CLASSIFICATION OF THE BRAZILIAN SIGN LANGUAGE",
+          "autores": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S F",
+          "periodico": "In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 1325-1331.",
+          "doi": "",
+          "citacao_completa": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S F . ANALYSIS OF SENSORS IN THE CLASSIFICATION OF THE BRAZILIAN SIGN LANGUAGE. In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 1325-1331."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ANALYSIS OF INDUCTANCE IN FLEXIBLE SQUARE COIL APPLIED TO BIOTELEMETRY",
+          "autores": "PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 771-776.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO . ANALYSIS OF INDUCTANCE IN FLEXIBLE SQUARE COIL APPLIED TO BIOTELEMETRY. In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 771-776."
+        },
+        {
+          "ano": 2020,
+          "titulo": "INFLUENCE OF THE LAYOUT OF THE LUDIC TABLES ON THE AMPLITUDE AND CONCENTRATION OF UPPER LIMB MOVEMENTS",
+          "autores": "; BRAWERMAN, A. ; PICHORIM, S. F.",
+          "periodico": "In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 313-318.",
+          "doi": "",
+          "citacao_completa": "; BRAWERMAN, A. ; PICHORIM, S. F. . INFLUENCE OF THE LAYOUT OF THE LUDIC TABLES ON THE AMPLITUDE AND CONCENTRATION OF UPPER LIMB MOVEMENTS. In: XXVII Congresso Brasileiro de Engenharia Biomédica (CBEB 2020), 2020, Vitória-ES. Proceedings of CBEB 2020. Vitória-ES: Springer Nature Switzerland, 2020. v. 83. p. 313-318."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Alternative Configuration of Open-Bifilar Coil for Self-Resonant Wireless Power Transfer System",
+          "autores": "; PICHORIM, S F",
+          "periodico": "In: 2019 IEEE Wireless Power Transfer Conference (WPTC), 2019, London. Proceedings of 2019 IEEE Wireless Power Transfer Conference (WPTC), 2019. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S F . Alternative Configuration of Open-Bifilar Coil for Self-Resonant Wireless Power Transfer System. In: 2019 IEEE Wireless Power Transfer Conference (WPTC), 2019, London. Proceedings of 2019 IEEE Wireless Power Transfer Conference (WPTC), 2019. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Flexible Circuits for Moisture Measurement in Cylindrical Timber of Wood",
+          "autores": "DOS REIS, DIEGO DIAS ; CARDOSO CASTALDO, FERNANDO ; PICHORIM, SERGIO FRANCISCO",
+          "periodico": "In: 2019 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS), 2019, Glasgow. 2019 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS), 2019. v. 1. p. 1-3.",
+          "doi": "http://dx.doi.org/10.1109/fleps.2019.8792322",
+          "citacao_completa": "DOS REIS, DIEGO DIAS ; CARDOSO CASTALDO, FERNANDO ; PICHORIM, SERGIO FRANCISCO . Flexible Circuits for Moisture Measurement in Cylindrical Timber of Wood. In: 2019 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS), 2019, Glasgow. 2019 IEEE International Conference on Flexible and Printable Sensors and Systems (FLEPS), 2019. v. 1. p. 1-3."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Um Estudo das Reflexões de Sinais de RF em Sistemas RFID de UHF",
+          "autores": "PICHORIM, S F ; VIEIRA, L. C. ; CASTILHO, L. H. S.",
+          "periodico": "In: XXXVII SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS, 2019, Petrópolis, RJ. Anais do 37o SBrT, 2019. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F ; VIEIRA, L. C. ; CASTILHO, L. H. S. . Um Estudo das Reflexões de Sinais de RF em Sistemas RFID de UHF. In: XXXVII SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS, 2019, Petrópolis, RJ. Anais do 37o SBrT, 2019. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análise de suco de abacaxi natural e liofilizado como agentes de contraste em exames de colangiopancreatografia por ressonância magnética",
+          "autores": "AMARANTE, N. C. ; PINHO, K. E. P. ; PICHORIM, S F",
+          "periodico": "In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia, MG. Anais SEB 2019, 2019. v. 1.",
+          "doi": "http://dx.doi.org/10.5281/zenodo.3459955",
+          "citacao_completa": "AMARANTE, N. C. ; PINHO, K. E. P. ; PICHORIM, S F . Análise de suco de abacaxi natural e liofilizado como agentes de contraste em exames de colangiopancreatografia por ressonância magnética. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlândia, MG. Anais SEB 2019, 2019. v. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Luva instrumentada para reconhecimento de padrões de gestos em Libras",
+          "autores": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S. F.",
+          "periodico": "In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlância, MG. Anais SEB 2019, 2019. v. 1.",
+          "doi": "http://dx.doi.org/10.5281/zenodo.3457592",
+          "citacao_completa": "DIAS, T. S. ; MENDES JUNIOR, J. J. A. ; PICHORIM, S. F. . Luva instrumentada para reconhecimento de padrões de gestos em Libras. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlância, MG. Anais SEB 2019, 2019. v. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Transmissão de energia sem fio multibobinas para dispositivos médicos implantáveis - revisão crítica",
+          "autores": "BRAGA, E. F. A. ; ; PICHORIM, S. F.",
+          "periodico": "In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlância, MG. Anais SEB 2019, 2019. v. 1.",
+          "doi": "http://dx.doi.org/10.5281/zenodo.3457576",
+          "citacao_completa": "BRAGA, E. F. A. ; ; PICHORIM, S. F. . Transmissão de energia sem fio multibobinas para dispositivos médicos implantáveis - revisão crítica. In: XII SIMPÓSIO DE ENGENHARIA BIOMÉDICA - IX SIMPÓSIO DE INSTRUMENTAÇÃO E IMAGENS MÉDICAS, 2019, Uberlância, MG. Anais SEB 2019, 2019. v. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo da Blindagem Eletromagnética em Camadas Metálicas Depositadas",
+          "autores": "; PICHORIM, S. F. ; CASTALDO, F.",
+          "periodico": "In: MOMAG 2018 - 18 SIMP BRAS MICRO-ONDAS E OPTOELETR - 13 CONG BRAS ELETROMAGNETISMO, 2018, Sta Rita do Sapucai. Anais do MOMAG 2018, 2018.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; CASTALDO, F. . Estudo da Blindagem Eletromagnética em Camadas Metálicas Depositadas. In: MOMAG 2018 - 18 SIMP BRAS MICRO-ONDAS E OPTOELETR - 13 CONG BRAS ELETROMAGNETISMO, 2018, Sta Rita do Sapucai. Anais do MOMAG 2018, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem de bobinas espirais planas quadradas bifilares em aberto",
+          "autores": "Da SILVA, D. P. ; PICHORIM, S F",
+          "periodico": "In: MOMAG 2018 - 18 SIMP BRAS MICRO-ONDAS E OPTOELETR - 13 CONG BRAS ELETROMAGNETISMO, 2018, Sta Rita do Sapucai. Anais do MOMAG 2018, 2018.",
+          "doi": "",
+          "citacao_completa": "Da SILVA, D. P. ; PICHORIM, S F . Modelagem de bobinas espirais planas quadradas bifilares em aberto. In: MOMAG 2018 - 18 SIMP BRAS MICRO-ONDAS E OPTOELETR - 13 CONG BRAS ELETROMAGNETISMO, 2018, Sta Rita do Sapucai. Anais do MOMAG 2018, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "RECOGNITION OF LIBRAS STATIC ALPHABET USING MYO AND MULTILAYER PERCEPTRON",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F.",
+          "periodico": "In: XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018, Buzios, RJ. Anais do XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018.",
+          "doi": "",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. . RECOGNITION OF LIBRAS STATIC ALPHABET USING MYO AND MULTILAYER PERCEPTRON. In: XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018, Buzios, RJ. Anais do XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação de Técnicas de Segmentação de sEMG de Múltiplos Canais",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. ;",
+          "periodico": "In: Congresso Brasileiro de Eletromiografia e Cinesiologia (COBEC), 2017, Uberlândia, MG. Anais do COBEC e SEB, 2017.",
+          "doi": "",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. ; . Avaliação de Técnicas de Segmentação de sEMG de Múltiplos Canais. In: Congresso Brasileiro de Eletromiografia e Cinesiologia (COBEC), 2017, Uberlândia, MG. Anais do COBEC e SEB, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "ANÁLISE DA MEDIÇÃO DE UMIDADE DO SOLO UTILIZANDO SENSORES E ESTUDO DE UM SISTEMA PARA MEDIÇÃO À DISTÂNCIA",
+          "autores": "GAMBA, A. R. A. ; PICHORIM, S. F.",
+          "periodico": "In: XXII SICITE - Sem. de Iniciação Científica e Tecnológica, 2017, Londrina, PR. Anais do XXII SICITE, 2017.",
+          "doi": "",
+          "citacao_completa": "GAMBA, A. R. A. ; PICHORIM, S. F. . ANÁLISE DA MEDIÇÃO DE UMIDADE DO SOLO UTILIZANDO SENSORES E ESTUDO DE UM SISTEMA PARA MEDIÇÃO À DISTÂNCIA. In: XXII SICITE - Sem. de Iniciação Científica e Tecnológica, 2017, Londrina, PR. Anais do XXII SICITE, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "SISTEMA TELEMÉTRICO VIA RFID EM UHF PARA MEDIÇÃO DA UMIDADE DO SOLO",
+          "autores": "GAMBA, A. R. A. ; PICHORIM, S F",
+          "periodico": "In: XI Congresso Brasileiro de Agroinformática (SBIAgro 2017), 2017, Campinas, SP. Anais do SBIAgro 2017, 2017.",
+          "doi": "",
+          "citacao_completa": "GAMBA, A. R. A. ; PICHORIM, S F . SISTEMA TELEMÉTRICO VIA RFID EM UHF PARA MEDIÇÃO DA UMIDADE DO SOLO. In: XI Congresso Brasileiro de Agroinformática (SBIAgro 2017), 2017, Campinas, SP. Anais do SBIAgro 2017, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Cálculo da Indutância em Bobinas a Núcleo de Ar",
+          "autores": "PINHO, A. C. ; PICHORIM, SERGIO F.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal, RN. Anais do SBSE2016, 2016. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "PINHO, A. C. ; PICHORIM, SERGIO F. . Cálculo da Indutância em Bobinas a Núcleo de Ar. In: Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal, RN. Anais do SBSE2016, 2016. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2016,
+          "titulo": "ANÁLISE E DESENVOLVIMENTO DE UM ENLACE INDUTIVO RESSONANTE COM 4 BOBINAS PARA FINS BIOMÉDICOS",
+          "autores": "; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Ctba: UTFPR, 2016. v. 1. p. 476-479.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, SÉRGIO FRANCISCO . ANÁLISE E DESENVOLVIMENTO DE UM ENLACE INDUTIVO RESSONANTE COM 4 BOBINAS PARA FINS BIOMÉDICOS. In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Ctba: UTFPR, 2016. v. 1. p. 476-479."
+        },
+        {
+          "ano": 2016,
+          "titulo": "GONIÔMETRO INDUTIVO TRIFÁSICO PARA APLICAÇÕES BIOMÉDICAS",
+          "autores": "TURQUETI, C. A. ; PICHORIM, SÉRGIO FRANCISCO ;",
+          "periodico": "In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Curitiba: UTFPR, 2016. v. 1. p. 452-455.",
+          "doi": "",
+          "citacao_completa": "TURQUETI, C. A. ; PICHORIM, SÉRGIO FRANCISCO ; . GONIÔMETRO INDUTIVO TRIFÁSICO PARA APLICAÇÕES BIOMÉDICAS. In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Curitiba: UTFPR, 2016. v. 1. p. 452-455."
+        },
+        {
+          "ano": 2016,
+          "titulo": "USO DE VIDEOGAMES NA REABILITAÇÃO DE INDIVÍDUOS",
+          "autores": "; ADAMOSKI, T. M. ; BRAWERMAN, A. ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Curitiba: UTFPR, 2016. v. 1. p. 17-20.",
+          "doi": "",
+          "citacao_completa": "; ADAMOSKI, T. M. ; BRAWERMAN, A. ; PICHORIM, SÉRGIO FRANCISCO . USO DE VIDEOGAMES NA REABILITAÇÃO DE INDIVÍDUOS. In: XXV CBEB 2016, 2016, Foz do Iguaçu, PR. Anais do XXV CBEB. Curitiba: UTFPR, 2016. v. 1. p. 17-20."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Monitoring the integrity of massive aluminum structures using PZT transducers and the technique of impedance",
+          "autores": "COSTA, R. ; MAIA, J. ; ; PICHORIM, S. F. ; ; BUTTON, V. L. S. N.",
+          "periodico": "In: SPIE Smart Structures and Materials + Nondestructive Evaluation and Health Monitoring, 2015, San Diego. Proceedings of the SPIE SMART STRUCTURES/NDE 2015. Bellingham, WA: SPIE, 2015. v. 9437. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "COSTA, R. ; MAIA, J. ; ; PICHORIM, S. F. ; ; BUTTON, V. L. S. N. . Monitoring the integrity of massive aluminum structures using PZT transducers and the technique of impedance. In: SPIE Smart Structures and Materials + Nondestructive Evaluation and Health Monitoring, 2015, San Diego. Proceedings of the SPIE SMART STRUCTURES/NDE 2015. Bellingham, WA: SPIE, 2015. v. 9437. p. 1-7."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Proposal of a Biological Database to Research for the Fish Epinephelus itajara",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: MTS IEEE Oceans 15, 2015, Gênova. Proceedings of MTS IEEE Ocenas, 2015.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Proposal of a Biological Database to Research for the Fish Epinephelus itajara. In: MTS IEEE Oceans 15, 2015, Gênova. Proceedings of MTS IEEE Ocenas, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Psammite - a Soil Characterization System for Environmental Analysis",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: MTS IEEE Oceans 15, 2015, Gênova. Proceedings of IEEE Oceans, 2015.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Psammite - a Soil Characterization System for Environmental Analysis. In: MTS IEEE Oceans 15, 2015, Gênova. Proceedings of IEEE Oceans, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Self-Resonant Frequencies, Standing Waves, and Impedance Behavior of Air-Core Helical Solenoidal Coil.",
+          "autores": "; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "In: INT CONF ON ELECTROMAGNETICS IN ADVANCED APPLICATIONS & IEEE-APS CONF ON ANTENNAS AND PROPAGATION IN WIRELESS COMMUNICATIONS, 2015, Turim. Proceedings of ICEAA-IEEE APWC-EMS, 2015. v. 1. p. 1296-1299.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, SÉRGIO FRANCISCO . Self-Resonant Frequencies, Standing Waves, and Impedance Behavior of Air-Core Helical Solenoidal Coil.. In: INT CONF ON ELECTROMAGNETICS IN ADVANCED APPLICATIONS & IEEE-APS CONF ON ANTENNAS AND PROPAGATION IN WIRELESS COMMUNICATIONS, 2015, Turim. Proceedings of ICEAA-IEEE APWC-EMS, 2015. v. 1. p. 1296-1299."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sensor Passivo Ressonante com Bobina Bifilar para Medição de Umidade em Madeira",
+          "autores": "; ; PICHORIM, S. F.",
+          "periodico": "In: MOMAG 2014, 2014, Curitiba. Anais do MOMAG 2014, 2014. p. 198-203.",
+          "doi": "",
+          "citacao_completa": "; ; PICHORIM, S. F. . Sensor Passivo Ressonante com Bobina Bifilar para Medição de Umidade em Madeira. In: MOMAG 2014, 2014, Curitiba. Anais do MOMAG 2014, 2014. p. 198-203."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Pode uma Bobina Ter Resistência Negativa? Aspectos Didáticos da Medição de Impedâncias em RF",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: MOMAG 2014, 2014, Curitiba. Anais MOMAG 2014, 2014. p. 204-207.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Pode uma Bobina Ter Resistência Negativa? Aspectos Didáticos da Medição de Impedâncias em RF. In: MOMAG 2014, 2014, Curitiba. Anais MOMAG 2014, 2014. p. 204-207."
+        },
+        {
+          "ano": 2014,
+          "titulo": "SENSOR BIOTELEMÉTRICO DE DESLOCAMENTO POR AUTORRESSONÂNCIA DE ONDA ESTACIONÁRIA",
+          "autores": "PICHORIM, S F ;",
+          "periodico": "In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 773-776.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F ; . SENSOR BIOTELEMÉTRICO DE DESLOCAMENTO POR AUTORRESSONÂNCIA DE ONDA ESTACIONÁRIA. In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 773-776."
+        },
+        {
+          "ano": 2014,
+          "titulo": "SISTEMA DE GESTÃO DE DADOS BIOLÓGICOS DO MERO (EPINEPHELUS ITAJARA)",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 1518-1521.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . SISTEMA DE GESTÃO DE DADOS BIOLÓGICOS DO MERO (EPINEPHELUS ITAJARA). In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 1518-1521."
+        },
+        {
+          "ano": 2014,
+          "titulo": "MONITOR DE DESEMPENHO DE GOLPES EM TREINAMENTO DE LUTA UTILIZANDO TELEMETRIA BLUETOOTH EM SMARTPHONE",
+          "autores": "PICHORIM, S. F. ; ; SANTOS, V.",
+          "periodico": "In: CBEB 2014, 2014, U. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 2130-2133.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; SANTOS, V. . MONITOR DE DESEMPENHO DE GOLPES EM TREINAMENTO DE LUTA UTILIZANDO TELEMETRIA BLUETOOTH EM SMARTPHONE. In: CBEB 2014, 2014, U. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 2130-2133."
+        },
+        {
+          "ano": 2014,
+          "titulo": "DETECÇÃO DE FALHAS EM ESTRUTURAS MACIÇAS DE ALUMÍNIO UTILIZANDO A TÉCNICA DA IMPEDÂNCIA",
+          "autores": "COSTA, R. ; MAIA, J. ; PICHORIM, S. F. ;",
+          "periodico": "In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 1212-1215.",
+          "doi": "",
+          "citacao_completa": "COSTA, R. ; MAIA, J. ; PICHORIM, S. F. ; . DETECÇÃO DE FALHAS EM ESTRUTURAS MACIÇAS DE ALUMÍNIO UTILIZANDO A TÉCNICA DA IMPEDÂNCIA. In: CBEB 2014, 2014, Uberlândia, MG. Anais do XXIV CBEB. Uberlandia: UFU, 2014. v. 1. p. 1212-1215."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Towards a Motor Ability Training Table for Rehabilitation Children with Obstetric Brachial Plexus Lesion",
+          "autores": "; BRAWERMAN, A. ; PICHORIM, S. F.",
+          "periodico": "In: International Conference on Bioinformatics and Computactional Biology, 2012, Las Vegas. Proceedings of the 2012 International Conference on Bioinformatics and Computational Biology, 2012. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; BRAWERMAN, A. ; PICHORIM, S. F. . Towards a Motor Ability Training Table for Rehabilitation Children with Obstetric Brachial Plexus Lesion. In: International Conference on Bioinformatics and Computactional Biology, 2012, Las Vegas. Proceedings of the 2012 International Conference on Bioinformatics and Computational Biology, 2012. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Desenvolvimento de um dispositivo de reabilitação de crianças portadoras de lesão obstétrica do plexo braquial",
+          "autores": "; PICHORIM, S. F. ; BRAWERMAN, A.",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 751-753.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; BRAWERMAN, A. . Desenvolvimento de um dispositivo de reabilitação de crianças portadoras de lesão obstétrica do plexo braquial. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 751-753."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A bobina bifilar de Tesla como um sensor biotelemetrico autorressonante",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 1363-1367.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . A bobina bifilar de Tesla como um sensor biotelemetrico autorressonante. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 1363-1367."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Reconhecimento de padrões em sons pulmonares utilizando wavelet, lda e k-nn",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 1894-1898.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Reconhecimento de padrões em sons pulmonares utilizando wavelet, lda e k-nn. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2012, Ipojuca-PE. Anais CBEB2012, 2012. p. 1894-1898."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Border Extension in the Wavelet Analysis of Lung Sounds",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: World Congress on Medical Physics and Biomedical Engineering, 2012, Pequim. IFMBE Proceedings, 2012. v. 39. p. 597-600.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Border Extension in the Wavelet Analysis of Lung Sounds. In: World Congress on Medical Physics and Biomedical Engineering, 2012, Pequim. IFMBE Proceedings, 2012. v. 39. p. 597-600."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Humidity in sandy soil measured by passive, wireless, and resonant sensor with bifilar coil",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "In: 1st CLABIO Latin American Bioimpedance, 2012, Joinville. Proceedings of 1st CLABIO, 2012. p. 1-9.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Humidity in sandy soil measured by passive, wireless, and resonant sensor with bifilar coil. In: 1st CLABIO Latin American Bioimpedance, 2012, Joinville. Proceedings of 1st CLABIO, 2012. p. 1-9."
+        },
+        {
+          "ano": 2012,
+          "titulo": "ESTUDO E APLICAÇÃO DA AUTORRESSONÂNCIA EM MICROSSENSORES INDUTIVOS",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: XVII SICITE - Sem. de Inic. Cientifica, 2012, Curitiba. Anais do XVII SICITE - Sem. de Inic. Cientifica, 2012. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . ESTUDO E APLICAÇÃO DA AUTORRESSONÂNCIA EM MICROSSENSORES INDUTIVOS. In: XVII SICITE - Sem. de Inic. Cientifica, 2012, Curitiba. Anais do XVII SICITE - Sem. de Inic. Cientifica, 2012. p. 1-8."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Design of Circular and Square Coils for Inductive Link",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "In: 19th symposium of the International Society on Biotelemetry ISOB, 2012, Graz - Austria. Proceedings of 19 th Symposium of the International Society on Biotelemetry. Vienna: Medical University of Vienna, 2012. p. 90-92.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Design of Circular and Square Coils for Inductive Link. In: 19th symposium of the International Society on Biotelemetry ISOB, 2012, Graz - Austria. Proceedings of 19 th Symposium of the International Society on Biotelemetry. Vienna: Medical University of Vienna, 2012. p. 90-92."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Classificação de Movimentos Normais e Anormais Capturados por Acelerômetro: Resultados Preliminares",
+          "autores": "; PICHORIM, S. F. ; ;",
+          "periodico": "In: V Congreso Latinoamericano de Ingeniería Biomédica (CLAIB2011), 2011, Havana. IFMBE Proceedings, 2011. v. 33. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; ; . Classificação de Movimentos Normais e Anormais Capturados por Acelerômetro: Resultados Preliminares. In: V Congreso Latinoamericano de Ingeniería Biomédica (CLAIB2011), 2011, Havana. IFMBE Proceedings, 2011. v. 33. p. 1-4."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Separation of Discontinuous Adventitious Sounds from Vesiclar Sounds using Fuzzy Logic",
+          "autores": "; ; PICHORIM, S. F. ; ; Delgado",
+          "periodico": "In: V Congreso Latinoamericano de Ingeniería Biomédica (CLAIB2011), 2011, Havana. IFMBE Proceedings, 2011. v. 33. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; ; PICHORIM, S. F. ; ; Delgado . Separation of Discontinuous Adventitious Sounds from Vesiclar Sounds using Fuzzy Logic. In: V Congreso Latinoamericano de Ingeniería Biomédica (CLAIB2011), 2011, Havana. IFMBE Proceedings, 2011. v. 33. p. 1-4."
+        },
+        {
+          "ano": 2011,
+          "titulo": "SISTEMA TELEMÉTRICO PARA MONITORAMENTO DE MOVIMENTOS HUMANOS CAPTURADOS POR ACELERÔMETRO",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: SICITE 2011 - Sem. Inic. Cientifica da UTFPR, 2011, Ponta Grossa. Anais do SICITE2011, 2011. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . SISTEMA TELEMÉTRICO PARA MONITORAMENTO DE MOVIMENTOS HUMANOS CAPTURADOS POR ACELERÔMETRO. In: SICITE 2011 - Sem. Inic. Cientifica da UTFPR, 2011, Ponta Grossa. Anais do SICITE2011, 2011. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2011,
+          "titulo": "APERFEIÇOAMENTO DO CIRCUITO DE EXCITAÇÃO PARA MEDIÇÃO DA VELOCIDADE DE CONDUÇÃO NERVOSA",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: SICITE 2011 - Sem. Inic. Cientifica da UTFPR, 2011, Ponta Grossa. Anais do SICITE 2011, 2011. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . APERFEIÇOAMENTO DO CIRCUITO DE EXCITAÇÃO PARA MEDIÇÃO DA VELOCIDADE DE CONDUÇÃO NERVOSA. In: SICITE 2011 - Sem. Inic. Cientifica da UTFPR, 2011, Ponta Grossa. Anais do SICITE 2011, 2011. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Selectable Gain Amplifier for Inductive Sensor used to measure Human Motion",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: IEEE Latin American Symposium on Circuits and Systems., 2010, Foz do Iguacu. Anais do LASCAS 2010, 2010. p. 120-123.",
+          "doi": "http://dx.doi.org/10.1109/LASCAS.2010.7410230",
+          "citacao_completa": "; PICHORIM, S. F. ; . Selectable Gain Amplifier for Inductive Sensor used to measure Human Motion. In: IEEE Latin American Symposium on Circuits and Systems., 2010, Foz do Iguacu. Anais do LASCAS 2010, 2010. p. 120-123."
+        },
+        {
+          "ano": 2010,
+          "titulo": "ANÁLISE DE INDUTORES SOLENÓIDES PARA APLICAÇÃO EM SENSORES BIOMÉDICOS PASSIVOS TELEMÉTRICOS",
+          "autores": "PICHORIM, S. F. ; Destefani F",
+          "periodico": "In: XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010, Cornélio Procópio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 439-442.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; Destefani F . ANÁLISE DE INDUTORES SOLENÓIDES PARA APLICAÇÃO EM SENSORES BIOMÉDICOS PASSIVOS TELEMÉTRICOS. In: XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010, Cornélio Procópio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 439-442."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SISTEMA TELEMÉTRICO PARA MONITORAMENTO DE TREMORES HUMANOS: TESTES E AQUISIÇÃO DE DADOS",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: XV Seminário de Iniciação Científica e Tecnológica, 2010, Cornelio Procopio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 671-674.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . SISTEMA TELEMÉTRICO PARA MONITORAMENTO DE TREMORES HUMANOS: TESTES E AQUISIÇÃO DE DADOS. In: XV Seminário de Iniciação Científica e Tecnológica, 2010, Cornelio Procopio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 671-674."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SENSOR TELEMÉTRICO PARA MONITORAMENTO DE TREMORES HUMANOS: DESENHO DO CIRCUITO E PROGRAMAÇÃO",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: XV Seminário de Iniciação Científica e Tecnológica, 2010, Cornelio Procopio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 647-650.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . SENSOR TELEMÉTRICO PARA MONITORAMENTO DE TREMORES HUMANOS: DESENHO DO CIRCUITO E PROGRAMAÇÃO. In: XV Seminário de Iniciação Científica e Tecnológica, 2010, Cornelio Procopio. Anais do XV Seminário de Iniciação Científica e Tecnológica (SICITE-2010), 2010. v. 2. p. 647-650."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SENSOR INDUTIVO RESSONANTE PARA MEDICAO DO MOVIMENTO ARTICULAR",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 271-274.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . SENSOR INDUTIVO RESSONANTE PARA MEDICAO DO MOVIMENTO ARTICULAR. In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 271-274."
+        },
+        {
+          "ano": 2010,
+          "titulo": "ESTUDO DE BOBINA BIFILAR DE TESLA COMO SENSOR PARA ENGENHARIA BIOMÉDICA",
+          "autores": "PICHORIM, S. F. ; Destefani F",
+          "periodico": "In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 359-362.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; Destefani F . ESTUDO DE BOBINA BIFILAR DE TESLA COMO SENSOR PARA ENGENHARIA BIOMÉDICA. In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 359-362."
+        },
+        {
+          "ano": 2010,
+          "titulo": "DESENVOLVIMENTO DE UM TRANSPONDER RFID COM SENSORIAMENTO PARA APLICAÇÕES BIOMÉDICAS",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 48-51.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . DESENVOLVIMENTO DE UM TRANSPONDER RFID COM SENSORIAMENTO PARA APLICAÇÕES BIOMÉDICAS. In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 48-51."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Sistema para Leitura de Sensores Passivos aplicados à Biotelemetria",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "In: CONGRESO ARGENTINO DE BIOINGENIARIA, 2009, Rosario. Memorias SABI 09, 2009. v. 1.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Sistema para Leitura de Sensores Passivos aplicados à Biotelemetria. In: CONGRESO ARGENTINO DE BIOINGENIARIA, 2009, Rosario. Memorias SABI 09, 2009. v. 1."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Nerve Conduction Velocity Measurement: A didactic example.",
+          "autores": "PICHORIM, S. F. ; ; VOLLMANN, W. ; PELLANDA, U.",
+          "periodico": "In: CONGRESO ARGENTINO DE BIOINGENIARIA, 2009, Rosario. Memorias SABI 09, 2009. v. 1.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; VOLLMANN, W. ; PELLANDA, U. . Nerve Conduction Velocity Measurement: A didactic example.. In: CONGRESO ARGENTINO DE BIOINGENIARIA, 2009, Rosario. Memorias SABI 09, 2009. v. 1."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Development of a Telemetric Goniometer",
+          "autores": "; ; PICHORIM, S. F.",
+          "periodico": "In: World Congress on Medical Physics and Biomedical Eng., 2009, Munich. IFMBE Proceedings, 2009. v. 25. p. 227-230.",
+          "doi": "",
+          "citacao_completa": "; ; PICHORIM, S. F. . Development of a Telemetric Goniometer. In: World Congress on Medical Physics and Biomedical Eng., 2009, Munich. IFMBE Proceedings, 2009. v. 25. p. 227-230."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Aperfeiçoamento dos Circuitos Eletronicos de um Medidor de Fase de Impedancia apl",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "a Biotelemetria. In: XIV Seminario de Iniciação Cientifica e Tecnologica da UTFPR, 2009, Pato Branco. Anais SICITE 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Aperfeiçoamento dos Circuitos Eletronicos de um Medidor de Fase de Impedancia apl. a Biotelemetria. In: XIV Seminario de Iniciação Cientifica e Tecnologica da UTFPR, 2009, Pato Branco. Anais SICITE 2009, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implementação de Método para Medir Coeficiente Magnetico Relativo de Ferrites",
+          "autores": "Hedrich M N ; ; PICHORIM, S. F.",
+          "periodico": "In: XIV Seminario de Iniciação Cientifica e Tecnologica da UTFPR, 2009, Pato Branco. Anais SICITE 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "Hedrich M N ; ; PICHORIM, S. F. . Implementação de Método para Medir Coeficiente Magnetico Relativo de Ferrites. In: XIV Seminario de Iniciação Cientifica e Tecnologica da UTFPR, 2009, Pato Branco. Anais SICITE 2009, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "SENSOR BIOTELEMÉTRICO PASSIVO ? TESTES DINÂMICOS E CALIBRAÇÃO DO SISTEMA",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 872-875.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . SENSOR BIOTELEMÉTRICO PASSIVO ? TESTES DINÂMICOS E CALIBRAÇÃO DO SISTEMA. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 872-875."
+        },
+        {
+          "ano": 2008,
+          "titulo": "ELETROMIOGRAFIA E GONIOMETRIA TELEMÉTRICA",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 910-913.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . ELETROMIOGRAFIA E GONIOMETRIA TELEMÉTRICA. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 910-913."
+        },
+        {
+          "ano": 2008,
+          "titulo": "DESENVOLVIMENTO DE UM GONIÔMETRO TELEMÉTRICO COM SENSOR INDUTIVO PARA APLICAÇÕES MÉDICAS",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 922-925.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . DESENVOLVIMENTO DE UM GONIÔMETRO TELEMÉTRICO COM SENSOR INDUTIVO PARA APLICAÇÕES MÉDICAS. In: CONGRESSO BRASILEIRO DE ENGENHARIA BIOMEDICA, 2008, SALVADOR. ANAIS DO CBEB 2008, 2008. p. 922-925."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Desenvolvimento De Um Medidor De Fase De Impedância Otimizado Aplicado A Um Sistema De Biotelemetria Passiva",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: XIII SICITE2008, 2008, Curitiba. Anais, 2008. p. 233-236.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Desenvolvimento De Um Medidor De Fase De Impedância Otimizado Aplicado A Um Sistema De Biotelemetria Passiva. In: XIII SICITE2008, 2008, Curitiba. Anais, 2008. p. 233-236."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Desenvolvimento De Um Sistema De Alimentação Para Unidades Biotelemétricas Passivas",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: XIII SICITE2008, 2008, Curitiba. Anais, 2008. p. 346-352.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Desenvolvimento De Um Sistema De Alimentação Para Unidades Biotelemétricas Passivas. In: XIII SICITE2008, 2008, Curitiba. Anais, 2008. p. 346-352."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Avaliação do desempenho de um sensor biotelemétrico passivo para monitoração da pressão arterial ? testes estáticos",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: IV Latin American Congress on Biomedical Engineering 2007, 2007, Margarita Island. IFMBE proceedings, 2007. v. 18. p. 524-527.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Avaliação do desempenho de um sensor biotelemétrico passivo para monitoração da pressão arterial ? testes estáticos. In: IV Latin American Congress on Biomedical Engineering 2007, 2007, Margarita Island. IFMBE proceedings, 2007. v. 18. p. 524-527."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensor de força passivo baseado em indutância mútua para aplicações em biotelemetria",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: IV Latin American Congress on Biomedical Engineering 2007, 2007, Margarita Island,. IFMBE Proceedings, 2007. v. 18. p. 460-463.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Sensor de força passivo baseado em indutância mútua para aplicações em biotelemetria. In: IV Latin American Congress on Biomedical Engineering 2007, 2007, Margarita Island,. IFMBE Proceedings, 2007. v. 18. p. 460-463."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de um Micro-Sensor Passivo Injetavel para Medição deForça e Temperatura",
+          "autores": "; PICHORIM, S. F. ;",
+          "periodico": "In: XII Seminário de Iniciação Científica e Tecnológica da UTFPR, 2007, Curitiba. Anais do XII Seminário de Iniciação Científica e Tecnológica da UTFPR. Curitiba: UTFPR, 2007. p. 173-176.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; . Desenvolvimento de um Micro-Sensor Passivo Injetavel para Medição deForça e Temperatura. In: XII Seminário de Iniciação Científica e Tecnológica da UTFPR, 2007, Curitiba. Anais do XII Seminário de Iniciação Científica e Tecnológica da UTFPR. Curitiba: UTFPR, 2007. p. 173-176."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Sensor Biotelemetrico Passivo para Medição de Forças Oclusais",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1324-1327.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Sensor Biotelemetrico Passivo para Medição de Forças Oclusais. In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1324-1327."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Estudo de Células Fotovoltaicas para Alimentação de Circuitos Elétricos de ECG em Câmaras Hiperbáricas",
+          "autores": "PICHORIM, S. F. ; SOUZA, Carlos M ;",
+          "periodico": "In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1291-1294.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; SOUZA, Carlos M ; . Estudo de Células Fotovoltaicas para Alimentação de Circuitos Elétricos de ECG em Câmaras Hiperbáricas. In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1291-1294."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Desenvolvimento de Sensor Biotelemétrico Passivo para Avaliação da Pressão Arterial",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1263-1266.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Desenvolvimento de Sensor Biotelemétrico Passivo para Avaliação da Pressão Arterial. In: CBEB 2006, 2006, São Pedro - SP. Anais XXCBEB, 2006. p. 1263-1266."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Propriedades Mecânicas de Tendão Animal obtidas por Sensor Telemétrico Injetável",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: III LAtin American Congress on Biomedical Eng., 2004, Joao Pessoa. IFMBE Proceedings. Joao Pessoa: SBEB, CORAL IFMBE, 2004. v. 5. p. 665-668.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Propriedades Mecânicas de Tendão Animal obtidas por Sensor Telemétrico Injetável. In: III LAtin American Congress on Biomedical Eng., 2004, Joao Pessoa. IFMBE Proceedings. Joao Pessoa: SBEB, CORAL IFMBE, 2004. v. 5. p. 665-668."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Telemetria de Força Muscular com Sensor Injetável",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: SABI 2003, 2003, Córdoba. MEMORIAS SABI 2003. Córdoba: Universitas, 2003. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Telemetria de Força Muscular com Sensor Injetável. In: SABI 2003, 2003, Córdoba. MEMORIAS SABI 2003. Córdoba: Universitas, 2003. p. 1-7."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Desenvolvimento de leitor para identificadores de animais (transponders)",
+          "autores": "PICHORIM, S. F. ; ; BARBOSA, W. A.",
+          "periodico": "In: VIII Sem. Inic. Científica e Tecnológica, 2003, Curitiba. VIII Sem. Inic. Científica e Tecnológica. Curitiba: CEFET-PR, 2003. p. 92-95.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; BARBOSA, W. A. . Desenvolvimento de leitor para identificadores de animais (transponders). In: VIII Sem. Inic. Científica e Tecnológica, 2003, Curitiba. VIII Sem. Inic. Científica e Tecnológica. Curitiba: CEFET-PR, 2003. p. 92-95."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Mouse de sopro para tetraplégicos",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: CBEB 2002, 2002, S. J. dos Campos. CBEB 2002, 2002. v. 3/5. p. 126-128.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Mouse de sopro para tetraplégicos. In: CBEB 2002, 2002, S. J. dos Campos. CBEB 2002, 2002. v. 3/5. p. 126-128."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Telemetria passiva com circuito RLC para medição de duas grandezas",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: CBEB 2002, 2002, S. J. dos Campos. CBEB 2002, 2002. v. 3/5. p. 121-125.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Telemetria passiva com circuito RLC para medição de duas grandezas. In: CBEB 2002, 2002, S. J. dos Campos. CBEB 2002, 2002. v. 3/5. p. 121-125."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Uma técnica para medir a freqüência de ressonância de um circuito RLC remoto",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: I SEMTI, 2001, Curitiba. I SEMTI. Curitiba: CEFET-PR, 2001. p. 71-76.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Uma técnica para medir a freqüência de ressonância de um circuito RLC remoto. In: I SEMTI, 2001, Curitiba. I SEMTI. Curitiba: CEFET-PR, 2001. p. 71-76."
+        },
+        {
+          "ano": 2001,
+          "titulo": "A technique to measure the resonance frequency of a remote RLC circuit",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: 16th ISOB, 2001, Viena. Biotelemetry XVI, 2001. p. 78.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . A technique to measure the resonance frequency of a remote RLC circuit. In: 16th ISOB, 2001, Viena. Biotelemetry XVI, 2001. p. 78."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Sistema Biotelemetrico Injetavel para Medição de Pressao",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: IV FNCTS, 1998, Curitiba. IV FNCTS, 1998. p. 237-238.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Sistema Biotelemetrico Injetavel para Medição de Pressao. In: IV FNCTS, 1998, Curitiba. IV FNCTS, 1998. p. 237-238."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Telemetria Passiva aplicando Analise em Frequencia",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: IV FNCTS, 1998, Curitiba. IV FNCTS, 1998. p. 239-240.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Telemetria Passiva aplicando Analise em Frequencia. In: IV FNCTS, 1998, Curitiba. IV FNCTS, 1998. p. 239-240."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Measurement of temperature and position of an egg in the nest by a telemetric system.",
+          "autores": "PICHORIM, S. F. ; ; FERNANDES, C. M.",
+          "periodico": "In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 401-405.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; FERNANDES, C. M. . Measurement of temperature and position of an egg in the nest by a telemetric system.. In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 401-405."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Injectable passive resonant circuit for pressure biotelemetry.",
+          "autores": "PICHORIM, S. F. ; ; ENDERS, T.",
+          "periodico": "In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 131-136.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; ENDERS, T. . Injectable passive resonant circuit for pressure biotelemetry.. In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 131-136."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Design of circular and solenoid coils for maximum mutual inductance.",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 71-76.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Design of circular and solenoid coils for maximum mutual inductance.. In: 14th ISOB, 1997, Marburg. Biotelemetry XIV, 1997. p. 71-76."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Projeto de bobinas para biotelemetria",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: III FNCTS, 1996, Campos do Jordão. III FNCTS, 1996. p. 265-268.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Projeto de bobinas para biotelemetria. In: III FNCTS, 1996, Campos do Jordão. III FNCTS, 1996. p. 265-268."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Biotelemetria por acoplamento indutivo.",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: TELEMO 96, 1996, Curitiba. TELEMO 96, 1996. p. 489-500.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Biotelemetria por acoplamento indutivo.. In: TELEMO 96, 1996, Curitiba. TELEMO 96, 1996. p. 489-500."
+        },
+        {
+          "ano": 1995,
+          "titulo": "A temperature telemetry system based on a single transistor PPM transmitter with remote switching",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: 13th ISOB, 1995, Williamsburg. Biotelemetry XIII, 1995. p. 151-156.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . A temperature telemetry system based on a single transistor PPM transmitter with remote switching. In: 13th ISOB, 1995, Williamsburg. Biotelemetry XIII, 1995. p. 151-156."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "LUVA COM SENSORES FLEXÍVEIS PARA RECONHECIMENTO DE LIBRAS",
+          "autores": "DIAS, T. S. ; PICHORIM, S F",
+          "periodico": "In: XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018, Buzios, RJ. Anais XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018.",
+          "doi": "",
+          "citacao_completa": "DIAS, T. S. ; PICHORIM, S F . LUVA COM SENSORES FLEXÍVEIS PARA RECONHECIMENTO DE LIBRAS. In: XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018, Buzios, RJ. Anais XXVI Cong Bras de Engenharia Biomédica (CBEB2018), 2018."
+        },
+        {
+          "ano": 2010,
+          "titulo": "CIRCUITO TELEMÉTRICO PARA AVALIAÇÃO DE FERIDAS ATRAVÉS DE MEDIÇÃO DE BIOIMPEDÂNCIA EM CÂMARAS HIPERBÁRICAS",
+          "autores": "PICHORIM, S. F. ; Scharf C ; FARIA, R. A.",
+          "periodico": "In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 1054-1054.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; Scharf C ; FARIA, R. A. . CIRCUITO TELEMÉTRICO PARA AVALIAÇÃO DE FERIDAS ATRAVÉS DE MEDIÇÃO DE BIOIMPEDÂNCIA EM CÂMARAS HIPERBÁRICAS. In: XXII CBEB 2010, 2010, Tiradentes. XXII CBEB 2010, 2010. p. 1054-1054."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Classification of Normal and Abnormal Movements Captured by Accelerometer in Humans",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: 1th International Workshop on Bioinformatics, 2010, Curitiba. Proc of 1st IWB, 2010.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Classification of Normal and Abnormal Movements Captured by Accelerometer in Humans. In: 1th International Workshop on Bioinformatics, 2010, Curitiba. Proc of 1st IWB, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Medição in situ do grau de saturação de água de depósitos sedimentares arenosos com base na impedância elétrica e variação térmica induzida",
+          "autores": "; PICHORIM, S. F. ; LAMOUR, M. R.",
+          "periodico": "In: VI Congresso Brasileiro de Oceanografia, 2014, Itajai, SC. Anais do VI Congresso Brasileiro de Oceanografia, 2014.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; LAMOUR, M. R. . Medição in situ do grau de saturação de água de depósitos sedimentares arenosos com base na impedância elétrica e variação térmica induzida. In: VI Congresso Brasileiro de Oceanografia, 2014, Itajai, SC. Anais do VI Congresso Brasileiro de Oceanografia, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Cienciometria sobre a conservação de espécies ameaçadas: o caso de Epinephelus Itajara",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "In: XX Encontro Brasileiro de Ictiologia, 2013, Maringá. Anais eletrônicos do XX Encontro Brasileiro de Ictiologia. Maringá: UEM, Nupélia, 2013. p. 1138-1138.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Cienciometria sobre a conservação de espécies ameaçadas: o caso de Epinephelus Itajara. In: XX Encontro Brasileiro de Ictiologia, 2013, Maringá. Anais eletrônicos do XX Encontro Brasileiro de Ictiologia. Maringá: UEM, Nupélia, 2013. p. 1138-1138."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estudo de Sensor Ressonante, Telemétrico e Passivo para Medição de Umidade e Amostras de Solo e Madeira",
+          "autores": "PICHORIM, S. F. ; SILVA, D. M.",
+          "periodico": "In: SICITE2013 - XVIII Seminário de Iniciação Científica e Tecnológica, 2013, Dois Vizinhos. Anais do SICITE 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; SILVA, D. M. . Estudo de Sensor Ressonante, Telemétrico e Passivo para Medição de Umidade e Amostras de Solo e Madeira. In: SICITE2013 - XVIII Seminário de Iniciação Científica e Tecnológica, 2013, Dois Vizinhos. Anais do SICITE 2013, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estudo e Desenvolvimento de Sensor Ressonante, Telemétrico e Passivo para Medição de Umidade",
+          "autores": "PICHORIM, S. F. ; MAHFOUD, S. G.",
+          "periodico": "In: SICITE2013 - XVIII Seminário de Iniciação Científica e Tecnológica, 2013, Dois vizinhos. Anais SICITE 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; MAHFOUD, S. G. . Estudo e Desenvolvimento de Sensor Ressonante, Telemétrico e Passivo para Medição de Umidade. In: SICITE2013 - XVIII Seminário de Iniciação Científica e Tecnológica, 2013, Dois vizinhos. Anais SICITE 2013, 2013."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Biotelemetria Passiva utilizando Analise Espectral",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "In: VI Jornadas Inter. Ing. y Manten. Hosp., 2000, Paraná. VI Jornadas Inter. Ing. y Manten. Hosp., 2000. p. 17.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Biotelemetria Passiva utilizando Analise Espectral. In: VI Jornadas Inter. Ing. y Manten. Hosp., 2000, Paraná. VI Jornadas Inter. Ing. y Manten. Hosp., 2000. p. 17."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2003,
+          "titulo": "Sistema Biotelemétrico Passivo utilizando Microunidade Injetável em Tendão para Medição de Força Muscular",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "Curitiba: CEFET-PR, 2003 (Tese de Doutorado).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Sistema Biotelemétrico Passivo utilizando Microunidade Injetável em Tendão para Medição de Força Muscular. Curitiba: CEFET-PR, 2003 (Tese de Doutorado)."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Sistema Biotelemétrico Não Invasivo para Medição da Temperatura Central do Corpo utilizando Cápsula Sensora Ingerível.",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "Curitiba: CEFET-PR, 1995 (Dissertação de Mestrado).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Sistema Biotelemétrico Não Invasivo para Medição da Temperatura Central do Corpo utilizando Cápsula Sensora Ingerível.. Curitiba: CEFET-PR, 1995 (Dissertação de Mestrado)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Sistema de Monitoramento para Linhas de Energia Elétrica Subterrâneas",
+          "autores": "; PICHORIM, S F",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S F . Sistema de Monitoramento para Linhas de Energia Elétrica Subterrâneas. 2018."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Chip do Boi",
+          "autores": "PICHORIM, S F",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Chip do Boi. 2009."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Algoritmo para Classificação de Sinais Libras proveniente de Luva com multissensores",
+          "autores": "DIAS, T. S. ; PICHORIM, S. F.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "DIAS, T. S. ; PICHORIM, S. F. . Algoritmo para Classificação de Sinais Libras proveniente de Luva com multissensores. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Algoritmo para Classificação de Sinais Libras proveniente de EMGs",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. . Algoritmo para Classificação de Sinais Libras proveniente de EMGs. 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Algoritmo para Classificação de Movimentos por Triangulação",
+          "autores": "; PICHORIM, S F",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S F . Algoritmo para Classificação de Movimentos por Triangulação. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Calculador de Auto e Mútua indutâncias em Bobinas Quadradas Curvas",
+          "autores": "PICHORIM, S F",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Calculador de Auto e Mútua indutâncias em Bobinas Quadradas Curvas. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Calculador de Ângulos de Articulação",
+          "autores": "PICHORIM, S F",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Calculador de Ângulos de Articulação. 2018."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Calculador de indutância mútua entre bobinas em anel",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Calculador de indutância mútua entre bobinas em anel. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Calculador de Capacitânca entre trilhas",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Calculador de Capacitânca entre trilhas. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Análise de Tensão Induzida em bobinas espirais",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Análise de Tensão Induzida em bobinas espirais. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Projeto de Banco de Dados científico para o peixe Mero",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Projeto de Banco de Dados científico para o peixe Mero. 2014."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Calculador de indutância mútua entre bobinas quadradas",
+          "autores": "PICHORIM, S F",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Calculador de indutância mútua entre bobinas quadradas. 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Calculador de auto-indutância em bobinas espirais",
+          "autores": "PICHORIM, S F",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Calculador de auto-indutância em bobinas espirais. 2010."
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Suco de abacaxi liofilizado como agente de contraste",
+          "autores": "PINHO, K. E. P. ; AMARANTE, N. C. ; PICHORIM, S F",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "PINHO, K. E. P. ; AMARANTE, N. C. ; PICHORIM, S F . Suco de abacaxi liofilizado como agente de contraste. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Luva Instrumentada com Multissensores",
+          "autores": "DIAS, T. S. ; PICHORIM, S F",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "DIAS, T. S. ; PICHORIM, S F . Luva Instrumentada com Multissensores. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bracelete (armband) para aquisição de sEMG",
+          "autores": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "MENDES JUNIOR, J. J. A. ; STEVAN JR, S. L. ; PICHORIM, S. F. . Bracelete (armband) para aquisição de sEMG. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Oscilador via Bobina Bifilar em Aberto para Unidade",
+          "autores": "PICHORIM, S. F. ; CHAMPAOSKI, K. F.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; CHAMPAOSKI, K. F. . Oscilador via Bobina Bifilar em Aberto para Unidade. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Ressonador de Onda Estacionária Toroidal",
+          "autores": "PICHORIM, S F ;",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F ; . Ressonador de Onda Estacionária Toroidal. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Goniômetro Indutivo Ortogonal",
+          "autores": "TURQUETI, C. A. ; PICHORIM, S. F.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "TURQUETI, C. A. ; PICHORIM, S. F. . Goniômetro Indutivo Ortogonal. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Sensor Flexível para Medição de Umidade em Madeiras",
+          "autores": "PICHORIM, S. F. ; ; CASTALDO, F.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; CASTALDO, F. . Sensor Flexível para Medição de Umidade em Madeiras. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Medidor de Umidade em Solo via RFID em UHF",
+          "autores": "PICHORIM, SÉRGIO F.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, SÉRGIO F. . Medidor de Umidade em Solo via RFID em UHF. 2016."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sensor de Umidade em PCB com bobina bifilar em aberto",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Sensor de Umidade em PCB com bobina bifilar em aberto. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Medidor de Parâmetros Físicos de Solo",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Medidor de Parâmetros Físicos de Solo. 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Sensor óptico em UV para Detecção de Poluição do Mar por Hidrocarboneto",
+          "autores": "PICHORIM, S. F. ; SIECZKA JUNIOR, E. L.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; SIECZKA JUNIOR, E. L. . Sensor óptico em UV para Detecção de Poluição do Mar por Hidrocarboneto. 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mesa Lúdica para reabilitação de OBPL",
+          "autores": "; PICHORIM, S. F. ; BRAWERMAN, A.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; BRAWERMAN, A. . Mesa Lúdica para reabilitação de OBPL. 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Sensor Passivo Wireless (PWR) com enrolamento Bifilar para Medição de Umidade",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Sensor Passivo Wireless (PWR) com enrolamento Bifilar para Medição de Umidade. 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detector Telemétrico de Tremores Humanos via Acelerômetro",
+          "autores": "; PICHORIM, S. F. ; ;",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. ; ; . Detector Telemétrico de Tremores Humanos via Acelerômetro. 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Goniômetro Telemétrico Indutivo",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Goniômetro Telemétrico Indutivo. 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema via RFID para medição de pressão",
+          "autores": "; PICHORIM, S. F.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "; PICHORIM, S. F. . Sistema via RFID para medição de pressão. 2010."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensor Biotelemetrico Passivo para Medicao de Forças Oclusais",
+          "autores": "PICHORIM, S. F. ; ;",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; ; . Sensor Biotelemetrico Passivo para Medicao de Forças Oclusais. 2007."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Sistema Telemétrico para Medição de Deformação em Tendão",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2003.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Sistema Telemétrico para Medição de Deformação em Tendão. 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Mouse controlado por Sopro",
+          "autores": "PICHORIM, S. F. ;",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; . Mouse controlado por Sopro. 2002."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Medidor Telemétrico de Temperatura do Nucleo Corporal",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "1995.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Medidor Telemétrico de Temperatura do Nucleo Corporal. 1995."
+        },
+        {
+          "ano": 1990,
+          "titulo": "Gigas de teste para Equipamentos de Automação Bancária",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "1990.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Gigas de teste para Equipamentos de Automação Bancária. 1990."
+        },
+        {
+          "ano": 1987,
+          "titulo": "Cargas para Teste de Fontes Chaveadas",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "1987.",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Cargas para Teste de Fontes Chaveadas. 1987."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2009,
+          "titulo": "Registro do Chip RFID - Transponder para Rastreamento de Bovinos - CHIP-BOI",
+          "autores": "SHIRAKAWA, M. ; ; PICHORIM, S. F. ;",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "SHIRAKAWA, M. ; ; PICHORIM, S. F. ; . Registro do Chip RFID - Transponder para Rastreamento de Bovinos - CHIP-BOI. 2009."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Estudo de Ângulos de Articulações sobre uma Mesa",
+          "autores": "PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "2019. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO . Estudo de Ângulos de Articulações sobre uma Mesa. 2019. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo de Sensores com Bobinas Flexionáveis",
+          "autores": "PICHORIM, S F",
+          "periodico": "2018. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S F . Estudo de Sensores com Bobinas Flexionáveis. 2018. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Comparação de Bobinas Quadradas e Circulares",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2017. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Comparação de Bobinas Quadradas e Circulares. 2017. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Design of Circular Coils: Extra Solution",
+          "autores": "PICHORIM, SÉRGIO F.",
+          "periodico": "2016. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, SÉRGIO F. . Design of Circular Coils: Extra Solution. 2016. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "ESTUDO DE BOBINAS PARA SENSORES E TELEMETRIA",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2011. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . ESTUDO DE BOBINAS PARA SENSORES E TELEMETRIA. 2011. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Fundamentos em Equipamentos Medico-hospitalares",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2002. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Fundamentos em Equipamentos Medico-hospitalares. 2002. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções artísticas/culturais",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Antologia Literária",
+          "autores": "KONDO, A. ; PICHORIM, S. F. ; ET, A.",
+          "periodico": "2024 (literatura).",
+          "doi": "",
+          "citacao_completa": "KONDO, A. ; PICHORIM, S. F. ; ET, A. . Antologia Literária. 2024 (literatura)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Olhem as Aves do Céu",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2021 (Livro de Poesias).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Olhem as Aves do Céu. 2021 (Livro de Poesias)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "HAIKAI DO PARANÁ",
+          "autores": "RESENDE, T. H. ; SCHMIDT, R. ; PICHORIM, SÉRGIO FRANCISCO",
+          "periodico": "2018 (Livro de Haicai e Tanka (110 anos imigração japonesa)).",
+          "doi": "",
+          "citacao_completa": "RESENDE, T. H. ; SCHMIDT, R. ; PICHORIM, SÉRGIO FRANCISCO . HAIKAI DO PARANÁ. 2018 (Livro de Haicai e Tanka (110 anos imigração japonesa))."
+        },
+        {
+          "ano": 2017,
+          "titulo": "THE CARTERBURY HAIKU (HAICAIS DA CANTUÁRIA)",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2017 (Livro de Poesia (haicais)).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . THE CARTERBURY HAIKU (HAICAIS DA CANTUÁRIA). 2017 (Livro de Poesia (haicais))."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Ressonâncias",
+          "autores": "VIEGAS, C. ; PICHORIM, S. F.",
+          "periodico": "2016 (Apresentação do Livro \"Ouvir o Silêncio - haicai\" de Carlos Viegas).",
+          "doi": "",
+          "citacao_completa": "VIEGAS, C. ; PICHORIM, S. F. . Ressonâncias. 2016 (Apresentação do Livro \"Ouvir o Silêncio - haicai\" de Carlos Viegas)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "comentário de capa",
+          "autores": "SOLON, A. ; PICHORIM, S. F.",
+          "periodico": "2016 (Comentário da Capa do Livro \"Chapéu de Aba Larga\" de Amauri Solon).",
+          "doi": "",
+          "citacao_completa": "SOLON, A. ; PICHORIM, S. F. . comentário de capa. 2016 (Comentário da Capa do Livro \"Chapéu de Aba Larga\" de Amauri Solon)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Celebração Haicais",
+          "autores": "ODA, T. ; PICHORIM, S. F.",
+          "periodico": "2016 (Livro de Haicai).",
+          "doi": "",
+          "citacao_completa": "ODA, T. ; PICHORIM, S. F. . Celebração Haicais. 2016 (Livro de Haicai)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Vladimir Devidé Haiku Award 2015",
+          "autores": "HALDANE, J. ; PICHORIM, S F",
+          "periodico": "2015 (Coletânea de Poesias (Haiku)).",
+          "doi": "",
+          "citacao_completa": "HALDANE, J. ; PICHORIM, S F . Vladimir Devidé Haiku Award 2015. 2015 (Coletânea de Poesias (Haiku))."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma companhia no Haicai",
+          "autores": "AZEVEDO, B. ; PICHORIM, S. F.",
+          "periodico": "2015 (Apresentação de Livro \"Haikai Doojin\" de Benedita Azevedo).",
+          "doi": "",
+          "citacao_completa": "AZEVEDO, B. ; PICHORIM, S. F. . Uma companhia no Haicai. 2015 (Apresentação de Livro \"Haikai Doojin\" de Benedita Azevedo)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Exposição Bilíngue Encontro com Poemas Nipo-Brasileiros",
+          "autores": "ODA, T. ; PICHORIM, S. F.",
+          "periodico": "2014 (Exposição de Haicais).",
+          "doi": "",
+          "citacao_completa": "ODA, T. ; PICHORIM, S. F. . Exposição Bilíngue Encontro com Poemas Nipo-Brasileiros. 2014 (Exposição de Haicais)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "As Flores do Cacto in 'A Lâmpada e as Estrelas'",
+          "autores": "PICHORIM, S. F. ; MARINS, José",
+          "periodico": "2012 (Antologia de Haicais, José Marins (org.)).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; MARINS, José . As Flores do Cacto in 'A Lâmpada e as Estrelas'. 2012 (Antologia de Haicais, José Marins (org.))."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Quero Contar Minha História",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2012 (Conto).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Quero Contar Minha História. 2012 (Conto)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "LUAR DE ABRIL",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2011 (Livro de Haicais).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . LUAR DE ABRIL. 2011 (Livro de Haicais)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Letras Mínimas",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2008 (Antologia de Haicais).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Letras Mínimas. 2008 (Antologia de Haicais)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Prêmio Literário Canon de Poesia - Cidadania",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2008 (Antologia / concurso de Poesias).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . Prêmio Literário Canon de Poesia - Cidadania. 2008 (Antologia / concurso de Poesias)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Um exercício apocalíptico",
+          "autores": "PICHORIM, SERGIO FRANCISCO",
+          "periodico": "2008 (Texto).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, SERGIO FRANCISCO . Um exercício apocalíptico. 2008 (Texto)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "ArteZ",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2007 (Antologia).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . ArteZ. 2007 (Antologia)."
+        },
+        {
+          "ano": 2007,
+          "titulo": "haikais",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2007 (Antologia / concurso de Haicais).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . haikais. 2007 (Antologia / concurso de Haicais)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "CHE PARANÁ PORÃ",
+          "autores": "PICHORIM, S. F.",
+          "periodico": "2006 (Livro de Haicais).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. . CHE PARANÁ PORÃ. 2006 (Livro de Haicais)."
+        },
+        {
+          "ano": 2004,
+          "titulo": "PINHA PINHÃO - PINHÄO PINHEIRO",
+          "autores": "PICHORIM, S. F. ; MARINS, José",
+          "periodico": "2004 (Livro de Renga).",
+          "doi": "",
+          "citacao_completa": "PICHORIM, S. F. ; MARINS, José . PINHA PINHÃO - PINHÄO PINHEIRO. 2004 (Livro de Renga)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "SENSOR DE CAMPO MAGNÉTICO BASEADO EM REDE DE BRAGG EM FIBRA ÓTICA COM TRANSDUTOR MAGNETO-MECÂNICO DE FERRO REDUZIDO",
+          "membros": "SOUZA, M. A.; ABE, I.; OLIVEIRA, V.; PICHORIM, S. F. ; KAMIKAWACHI, R. C.",
+          "candidato": "ACY CIDADE FILHO",
+          "citacao_completa": "SOUZA, M. A.; ABE, I.; OLIVEIRA, V.; PICHORIM, S. F. ; KAMIKAWACHI, R. C.. Participação em banca de ACY CIDADE FILHO. SENSOR DE CAMPO MAGNÉTICO BASEADO EM REDE DE BRAGG EM FIBRA ÓTICA COM TRANSDUTOR MAGNETO-MECÂNICO DE FERRO REDUZIDO. 2026. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Reconhecimento de Libras por meio de Eletromiografia de Superfície usando Modelos de Classificação de Séries Temporais por Aprendizado Profundo",
+          "membros": "MENDES JUNIOR, J. J. A.; PICHORIM, S F",
+          "candidato": "MATHEUS TABORDA CARNEIRO",
+          "citacao_completa": "MENDES JUNIOR, J. J. A.; PICHORIM, S F . Participação em banca de MATHEUS TABORDA CARNEIRO. Reconhecimento de Libras por meio de Eletromiografia de Superfície usando Modelos de Classificação de Séries Temporais por Aprendizado Profundo. 2026. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2026,
+          "titulo": "ELETRODOS FLEXÍVEIS COM COMPÓSITOS DE POLIANILINA, NANOTUBOS DE CARBONO E LIGNINAPARA SENSORES DE PRESSÃO",
+          "membros": "SILVA, W. J.; PICHORIM, SÉRGIO F.",
+          "candidato": "Ivan Ronald Serathiuk da Silveira",
+          "citacao_completa": "SILVA, W. J.; PICHORIM, SÉRGIO F. . Participação em banca de Ivan Ronald Serathiuk da Silveira. ELETRODOS FLEXÍVEIS COM COMPÓSITOS DE POLIANILINA, NANOTUBOS DE CARBONO E LIGNINAPARA SENSORES DE PRESSÃO. 2026. Dissertação (Mestrado em Física e Astronomia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANÁLISE DA CREDIBILIDADE DE CONTEÚDO DIDÁTICO EM APLICATIVOS EDUCACIONAIS NA RADIOLOGIA",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; PINHO, K. E. P.; FAGUNDES, A. C. F.",
+          "candidato": "MARLOS JOAO MAZUR",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; PINHO, K. E. P.; FAGUNDES, A. C. F.. Participação em banca de MARLOS JOAO MAZUR. ANÁLISE DA CREDIBILIDADE DE CONTEÚDO DIDÁTICO EM APLICATIVOS EDUCACIONAIS NA RADIOLOGIA. 2024. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "DESENVOLVIMENTO DE CINTAS TORÁCICAS INSTRUMENTADAS POR SENSORES A FIBRA ÓTICA PARA MEDIDAS CARDÍACAS E RESPIRATÓRIAS.",
+          "membros": "ABE, I.; PICHORIM, SERGIO F.",
+          "candidato": "GABRIEL HENRIQUE DE ANDRADE",
+          "citacao_completa": "ABE, I.; PICHORIM, SERGIO F. . Participação em banca de GABRIEL HENRIQUE DE ANDRADE. DESENVOLVIMENTO DE CINTAS TORÁCICAS INSTRUMENTADAS POR SENSORES A FIBRA ÓTICA PARA MEDIDAS CARDÍACAS E RESPIRATÓRIAS.. 2024. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "AVALIAÇÃO DE UM SISTEMA DE NEURO-ÓRTESE sEMG-FES: UM ESTUDO DE CASO EM PACIENTES NEUROLÓGICOS.",
+          "membros": "MENDES JUNIOR, J. J. A.; PICHORIM, S. F.",
+          "candidato": "Maria Veronica Gonzalez Mendez",
+          "citacao_completa": "MENDES JUNIOR, J. J. A.; PICHORIM, S. F. . Participação em banca de Maria Veronica Gonzalez Mendez. AVALIAÇÃO DE UM SISTEMA DE NEURO-ÓRTESE sEMG-FES: UM ESTUDO DE CASO EM PACIENTES NEUROLÓGICOS.. 2024. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ESTUDO DE MÉTODO PARA RECONHECIMENTO DE GESTOS PARA O CONTROLE DE ÓRTESE DE MEMBRO SUPERIOR BASEADO EM MECANOMIOGRAFIA",
+          "membros": "SANCHES, P. R. S.; ; PICHORIM, S F",
+          "candidato": "Leonardo Teixeira dos Santos",
+          "citacao_completa": "SANCHES, P. R. S.; ; PICHORIM, S F . Participação em banca de Leonardo Teixeira dos Santos. ESTUDO DE MÉTODO PARA RECONHECIMENTO DE GESTOS PARA O CONTROLE DE ÓRTESE DE MEMBRO SUPERIOR BASEADO EM MECANOMIOGRAFIA. 2023. Dissertação (Mestrado em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "ESTUDO DE UMA SOLUÇÃO PARA MONITORAMENTO REMOTO DA UMIDADE DE SOLO POR MEIO DA TECNOLOGIA RFID E SENSORES CAPACITIVOS",
+          "membros": "CUNHA, J. C.; ; PICHORIM, S F",
+          "candidato": "LEONARDO HENRIQUE DOS SANTOS CASTILHO",
+          "citacao_completa": "CUNHA, J. C.; ; PICHORIM, S F . Participação em banca de LEONARDO HENRIQUE DOS SANTOS CASTILHO. ESTUDO DE UMA SOLUÇÃO PARA MONITORAMENTO REMOTO DA UMIDADE DE SOLO POR MEIO DA TECNOLOGIA RFID E SENSORES CAPACITIVOS. 2022. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação de algoritmos de geração de imagens de ultrassom beamformers e sparse arrays",
+          "membros": "; MAIA, J.; HARA, M. S.; PICHORIM, SÉRGIO FRANCISCO",
+          "candidato": "Danilo Fernandes Gomes",
+          "citacao_completa": "; MAIA, J.; HARA, M. S.; PICHORIM, SÉRGIO FRANCISCO . Participação em banca de Danilo Fernandes Gomes. Avaliação de algoritmos de geração de imagens de ultrassom beamformers e sparse arrays. 2020. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Luva Instrumentada para Reconhecimento de Padrões de Gestos em Libras",
+          "membros": "RASERA, C. C.; HARA, M. S.; PICHORIM, SERGIO F. ; JANECZKO, C.",
+          "candidato": "Thiago Simões Dias",
+          "citacao_completa": "RASERA, C. C.; HARA, M. S.; PICHORIM, SERGIO F. ; JANECZKO, C.. Participação em banca de Thiago Simões Dias. Luva Instrumentada para Reconhecimento de Padrões de Gestos em Libras. 2020. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Correlação entre as variações na concentração de elementos traço e densidade eletrônica em tumores mamários caninos",
+          "membros": "PICHORIM, S. F.",
+          "candidato": "Camila de Almeida Salvego",
+          "citacao_completa": "PICHORIM, S. F. . Participação em banca de Camila de Almeida Salvego. Correlação entre as variações na concentração de elementos traço e densidade eletrônica em tumores mamários caninos. 2019. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Fantoma Cardíaco Antropomórfico Dinâmico Controlado por Arduino",
+          "membros": "MANFRA, E.; PICHORIM, S F ; VIEIRA NETO, H.",
+          "candidato": "Caroline Kretezel Bandeira",
+          "citacao_completa": "MANFRA, E.; PICHORIM, S F ; VIEIRA NETO, H.. Participação em banca de Caroline Kretezel Bandeira. Fantoma Cardíaco Antropomórfico Dinâmico Controlado por Arduino. 2019. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem de Espectros de Impedância Elétrica de Gelatinas Submetidas a variação de pressão, temp",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; PATERNO, A. S.; BERTEMES FILHO, P.",
+          "candidato": "Thalys Eduardo Ferreira Rezende",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; PATERNO, A. S.; BERTEMES FILHO, P.. Participação em banca de Thalys Eduardo Ferreira Rezende. Modelagem de Espectros de Impedância Elétrica de Gelatinas Submetidas a variação de pressão, temp. e conc. de sal. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliacao de Uma Analise Automatizada para Determinacao de Atividade Enzimatica",
+          "membros": "SCHNEIDER, F. K.; GOES, V. M.; PICHORIM, SÉRGIO FRANCISCO",
+          "candidato": "Mariely Cordeiro Estrela",
+          "citacao_completa": "SCHNEIDER, F. K.; GOES, V. M.; PICHORIM, SÉRGIO FRANCISCO . Participação em banca de Mariely Cordeiro Estrela. Avaliacao de Uma Analise Automatizada para Determinacao de Atividade Enzimatica. 2017. Dissertação (Mestrado em Engenharia Biomédica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Simulação e Projeto de Indutores Integrados em CMOS para circuitos RF",
+          "membros": "MARIANO, A. A.; PICHORIM, SÉRGIO FRANCISCO ; LEITE, B. R. B. A.",
+          "candidato": "Rodrigo Godinho Silva",
+          "citacao_completa": "MARIANO, A. A.; PICHORIM, SÉRGIO FRANCISCO ; LEITE, B. R. B. A.. Participação em banca de Rodrigo Godinho Silva. Simulação e Projeto de Indutores Integrados em CMOS para circuitos RF. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Amplificador de Ganho Programável Aplicado a Receptor RF com Subamostragem",
+          "membros": "LEITE, B. R. B. A.; PICHORIM, SÉRGIO FRANCISCO ; LOLIS, L. H. A.",
+          "candidato": "Mateus Lovatel Matias",
+          "citacao_completa": "LEITE, B. R. B. A.; PICHORIM, SÉRGIO FRANCISCO ; LOLIS, L. H. A.. Participação em banca de Mateus Lovatel Matias. Amplificador de Ganho Programável Aplicado a Receptor RF com Subamostragem. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Desenvolvimento de Goniômetro Indutivo com Bobinas Ortogonais para apl",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; HARA, M. S.;",
+          "candidato": "Carlos Augusto D Orazio Turqueti",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; HARA, M. S.; . Participação em banca de Carlos Augusto D Orazio Turqueti. Desenvolvimento de Goniômetro Indutivo com Bobinas Ortogonais para apl. Biomédica. 2017. Dissertação (Mestrado em Engenharia Biomédica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Detector de Luminescencia de Descargas Eletrocirurgicas",
+          "membros": "; CUNHA, J. C.; PICHORIM, SERGIO F.",
+          "candidato": "Sandro Waldir Goes",
+          "citacao_completa": "; CUNHA, J. C.; PICHORIM, SERGIO F. . Participação em banca de Sandro Waldir Goes. Detector de Luminescencia de Descargas Eletrocirurgicas. 2016. Dissertação (Mestrado em Engenharia Biomédica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "DESENVOLVIMENTO DE UMA ARMBAND PARA CAPTURA DE SINAIS ELETROMIOGRÁFICOS PARA RECONHECIMENTO DE MOVIMENTOS",
+          "membros": "STEVAN JR, S. L.; PICHORIM, S. F. ; OKIDA, S.; BALBINOT, A.; PAREDES, A. E. O.",
+          "candidato": "José Jair Alves mendes Jr",
+          "citacao_completa": "STEVAN JR, S. L.; PICHORIM, S. F. ; OKIDA, S.; BALBINOT, A.; PAREDES, A. E. O.. Participação em banca de José Jair Alves mendes Jr. DESENVOLVIMENTO DE UMA ARMBAND PARA CAPTURA DE SINAIS ELETROMIOGRÁFICOS PARA RECONHECIMENTO DE MOVIMENTOS. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Métodos para Medição de Fase e Magnetude de Sinais para FPGA",
+          "membros": "MARIANO, A. A.; PICHORIM, S. F.",
+          "candidato": "Allan Conservan de Oliveira",
+          "citacao_completa": "MARIANO, A. A.; PICHORIM, S. F. . Participação em banca de Allan Conservan de Oliveira. Métodos para Medição de Fase e Magnetude de Sinais para FPGA. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PROPOSTA DE UM BANCO DE DADOS BIOLÓGICOS PARA PESQUISA DO MERO (EPINEPHELUS ITAJARA)",
+          "membros": "PICHORIM, S. F. ; LANA, P. C.; NORONHA, R. V.; KOZIEVITCH, N. P.",
+          "candidato": "Danielle Forbeci Suzuki",
+          "citacao_completa": "PICHORIM, S. F. ; LANA, P. C.; NORONHA, R. V.; KOZIEVITCH, N. P.. Participação em banca de Danielle Forbeci Suzuki. PROPOSTA DE UM BANCO DE DADOS BIOLÓGICOS PARA PESQUISA DO MERO (EPINEPHELUS ITAJARA). 2014. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Desenvolvimento de Transdutores Baseados em Paladio-porfirinas para a Detecção de O2 atraves dos Tempos de Vida de Fosforescencia",
+          "membros": "GEWEHR, P. M.; CUNHA, J. C.; ; BRANCO, G.",
+          "candidato": "Alexandre Francisco de Moraes Filho",
+          "citacao_completa": "GEWEHR, P. M.; CUNHA, J. C.; ; BRANCO, G.. Participação em banca de Alexandre Francisco de Moraes Filho. Desenvolvimento de Transdutores Baseados em Paladio-porfirinas para a Detecção de O2 atraves dos Tempos de Vida de Fosforescencia. 2013. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estudo da Alteração da Luz Monocromática (Transmitância) como Parâmetro de Contaminação do Mar por Hidrocarbonetos",
+          "membros": "; ; ARRUDA, L. V. R.; FERRARI, G. L.",
+          "candidato": "Edson Luiz Sieczka Junior",
+          "citacao_completa": "; ; ARRUDA, L. V. R.; FERRARI, G. L.. Participação em banca de Edson Luiz Sieczka Junior. Estudo da Alteração da Luz Monocromática (Transmitância) como Parâmetro de Contaminação do Mar por Hidrocarbonetos. 2013. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detector de Luminescência de Faíscas Eletrocirúrgicas",
+          "membros": "PICHORIM, S. F. ; ; HARA, M. S.",
+          "candidato": "Sandro Waldir Goes",
+          "citacao_completa": "PICHORIM, S. F. ; ; HARA, M. S.. Participação em banca de Sandro Waldir Goes. Detector de Luminescência de Faíscas Eletrocirúrgicas. 2013. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Banco de Sangue de Cordao Umbilical e Placentario - Proposta de Sistema Hibrido Brasileiro",
+          "membros": "; ; MEIER, M. J.",
+          "candidato": "Soraya Andressa Neves",
+          "citacao_completa": "; ; MEIER, M. J.. Participação em banca de Soraya Andressa Neves. Banco de Sangue de Cordao Umbilical e Placentario - Proposta de Sistema Hibrido Brasileiro. 2012. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Equacionamento e Modelagem da Bobina Bifilar de Tesla e Proposta da sua Utilizacao como um Sensor Biotelemetrico Autorressonante",
+          "membros": "; SCHNEIDER, F. K.; GARIBA, M. A.",
+          "candidato": "Caio Marcelo de Miranda",
+          "citacao_completa": "; SCHNEIDER, F. K.; GARIBA, M. A.. Participação em banca de Caio Marcelo de Miranda. Equacionamento e Modelagem da Bobina Bifilar de Tesla e Proposta da sua Utilizacao como um Sensor Biotelemetrico Autorressonante. 2012. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Software para desenvolvimento de transformadores para equipamentos biomédicos",
+          "membros": ";",
+          "candidato": "Jhonisson Ricardo de Paula",
+          "citacao_completa": "; . Participação em banca de Jhonisson Ricardo de Paula. Software para desenvolvimento de transformadores para equipamentos biomédicos. 2012. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estimulador Eletrico Neuromuscular Bifasico com Saida em Ponte H Isolada",
+          "membros": "; ; DIAS, J. S.",
+          "candidato": "Marcelo do Carmo Camargo Gaiotto",
+          "citacao_completa": "; ; DIAS, J. S.. Participação em banca de Marcelo do Carmo Camargo Gaiotto. Estimulador Eletrico Neuromuscular Bifasico com Saida em Ponte H Isolada. 2012. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mesa Ludica para Reabilitação de Crianças com Lesão Obstetrica do Plexo Braquial",
+          "membros": "GEWEHR, P. M.; ; SANCHES, P. R. S.",
+          "candidato": "Eduardo Juliano Alberti",
+          "citacao_completa": "GEWEHR, P. M.; ; SANCHES, P. R. S.. Participação em banca de Eduardo Juliano Alberti. Mesa Ludica para Reabilitação de Crianças com Lesão Obstetrica do Plexo Braquial. 2012. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2011,
+          "titulo": "MÉTODO NÃO INVASIVO PARA CLASSIFICAR MOVIMENTOS NORMAIS E ANORMAIS DE HUMANOS CAPTURADOS POR ACELERÔMETRO",
+          "membros": "; MAIA, J.; R T Raittz; L B Dorini",
+          "candidato": "Luiz Carlos Giacomossi",
+          "citacao_completa": "; MAIA, J.; R T Raittz; L B Dorini. Participação em banca de Luiz Carlos Giacomossi. MÉTODO NÃO INVASIVO PARA CLASSIFICAR MOVIMENTOS NORMAIS E ANORMAIS DE HUMANOS CAPTURADOS POR ACELERÔMETRO. 2011. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema de Eletroestimulação Portátil com Oito Canais Síncronos",
+          "membros": "",
+          "candidato": "André Luiz Gonçalves Pepino",
+          "citacao_completa": ". Participação em banca de André Luiz Gonçalves Pepino. Sistema de Eletroestimulação Portátil com Oito Canais Síncronos. 2011. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Mensuracao da Pressao de Dioxido de Carbono Arterial e Espirado em Lactentes sob MVI",
+          "membros": "",
+          "candidato": "Carmen Caroline Rasera",
+          "citacao_completa": ". Participação em banca de Carmen Caroline Rasera. Mensuracao da Pressao de Dioxido de Carbono Arterial e Espirado em Lactentes sob MVI. 2010. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema para Avaliacao da Umidade Relativa do Solo utilizando Impedancia e Ultrassom",
+          "membros": "MAIA, J.;",
+          "candidato": "João Marcos Ferreira Damaceno",
+          "citacao_completa": "MAIA, J.; . Participação em banca de João Marcos Ferreira Damaceno. Sistema para Avaliacao da Umidade Relativa do Solo utilizando Impedancia e Ultrassom. 2010. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Laskoski",
+          "membros": "",
+          "candidato": "Gustavo T",
+          "citacao_completa": ". Participação em banca de Gustavo T. Laskoski. Desenvolvimento de um Goniometro Telemetrico Indutivo para Aplicações Biomédicas.. 2010. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema Telemétrico com Tecnologia RFID para Medição de Pressão",
+          "membros": ";",
+          "candidato": "Hamilton Costa Luis",
+          "citacao_completa": "; . Participação em banca de Hamilton Costa Luis. Sistema Telemétrico com Tecnologia RFID para Medição de Pressão. 2010. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Distrator Osseo Craniano de Acionamento Magnetico Percutâneo",
+          "membros": ";",
+          "candidato": "Charles Kondageski",
+          "citacao_completa": "; . Participação em banca de Charles Kondageski. Distrator Osseo Craniano de Acionamento Magnetico Percutâneo. 2010. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Determinação da Unidade da Soja por Medida Capacitiva",
+          "membros": "",
+          "candidato": "Tânia Evelyn Olivo",
+          "citacao_completa": ". Participação em banca de Tânia Evelyn Olivo. Determinação da Unidade da Soja por Medida Capacitiva. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Medidor de pressão e dose sonora",
+          "membros": "; MANFRA, E.; MAIA, J.",
+          "candidato": "Fernando Estevam Gazzoni",
+          "citacao_completa": "; MANFRA, E.; MAIA, J.. Participação em banca de Fernando Estevam Gazzoni. Medidor de pressão e dose sonora. 2009. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Caracterização da Deflagração da Descarga Eletrocirúrgica",
+          "membros": "; ;",
+          "candidato": "Elton Dias Junior",
+          "citacao_completa": "; ; . Participação em banca de Elton Dias Junior. Caracterização da Deflagração da Descarga Eletrocirúrgica. 2009. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Sistema Portatil de Comunicação Alternativa",
+          "membros": ";",
+          "candidato": "Luciane Aparecida Liegel",
+          "citacao_completa": "; . Participação em banca de Luciane Aparecida Liegel. Sistema Portatil de Comunicação Alternativa. 2008. Dissertação (Mestrado em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensor Biotelemetrico Passivo para Avaliação da Pressão Arterial",
+          "membros": "; ;",
+          "candidato": "Graciele Kiyomi Maeoka",
+          "citacao_completa": "; ; . Participação em banca de Graciele Kiyomi Maeoka. Sensor Biotelemetrico Passivo para Avaliação da Pressão Arterial. 2007. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": "(Qualificação) Sistema Portatil de Comunicação Alternativa",
+          "membros": ";",
+          "candidato": "Luciane Aparecida Liegel",
+          "citacao_completa": "; . Participação em banca de Luciane Aparecida Liegel. (Qualificação) Sistema Portatil de Comunicação Alternativa. 2007. Dissertação (Mestrado em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de Sistema telemetrico PAssivo Alimentado por Celulas Fotovoltaicas para Aquisicao de ECG em Camaras Hiperbaricas",
+          "membros": "",
+          "candidato": "Carlos Marques de Souza",
+          "citacao_completa": ". Participação em banca de Carlos Marques de Souza. Desenvolvimento de Sistema telemetrico PAssivo Alimentado por Celulas Fotovoltaicas para Aquisicao de ECG em Camaras Hiperbaricas. 2007. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de um Sensor Biotelemetrico Passivo para Medicao de Forças Oclusais",
+          "membros": "",
+          "candidato": "Davi Sabbag Roveri",
+          "citacao_completa": ". Participação em banca de Davi Sabbag Roveri. Desenvolvimento de um Sensor Biotelemetrico Passivo para Medicao de Forças Oclusais. 2007. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de um equipamento para estudo de eletrocirurgia com controle de potencia ativa",
+          "membros": "; ;",
+          "candidato": "Ricardo Bernardi",
+          "citacao_completa": "; ; . Participação em banca de Ricardo Bernardi. Desenvolvimento de um equipamento para estudo de eletrocirurgia com controle de potencia ativa. 2007. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Sistema Integrado de Biofeedback e/ou Estimulação Elétrica Neuromuscular para Reeducação Muscular",
+          "membros": "",
+          "candidato": "Ricardo Muzzolon Schmal",
+          "citacao_completa": ". Participação em banca de Ricardo Muzzolon Schmal. Sistema Integrado de Biofeedback e/ou Estimulação Elétrica Neuromuscular para Reeducação Muscular. 2006. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Procedimentos para Digitalização de Imagens Médicas",
+          "membros": ";",
+          "candidato": "Wagnes Borges Franceschi",
+          "citacao_completa": "; . Participação em banca de Wagnes Borges Franceschi. Procedimentos para Digitalização de Imagens Médicas. 2006. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento de um medidor de fase para um sistema de biotelemetria passiva",
+          "membros": ";",
+          "candidato": "Fabio Luiz Bertotti",
+          "citacao_completa": "; . Participação em banca de Fabio Luiz Bertotti. Desenvolvimento de um medidor de fase para um sistema de biotelemetria passiva. 2005. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Desenvolvimento de um Medidor Multifrequencial de bioimpedancia Complexa",
+          "membros": "",
+          "candidato": "Carlos Eduardo Ferrante do Amaral",
+          "citacao_completa": ". Participação em banca de Carlos Eduardo Ferrante do Amaral. Desenvolvimento de um Medidor Multifrequencial de bioimpedancia Complexa. 2004. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "AVALIAÇÃO DE TÉCNICAS DE RECONHECIMENTO DE GESTOS DA LÍNGUA DE SINAIS UTILIZANDO SENSORES VESTÍVEIS",
+          "membros": "MENDES JUNIOR, J. J. A.; STEVAN JR, S. L.; PICHORIM, SÉRGIO F.",
+          "candidato": "Thiago Simões Dias",
+          "citacao_completa": "MENDES JUNIOR, J. J. A.; STEVAN JR, S. L.; PICHORIM, SÉRGIO F. . Participação em banca de Thiago Simões Dias. AVALIAÇÃO DE TÉCNICAS DE RECONHECIMENTO DE GESTOS DA LÍNGUA DE SINAIS UTILIZANDO SENSORES VESTÍVEIS. 2025. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "SISTEMA DE TOMOGRAFIA DE IMPEDÂNCIA ELÉTRICA MULTIFREQUENCIAL PARA IMAGEAMENTO PULMONAR EM SUÍNOS",
+          "membros": "PATERNO, A. S.; PICHORIM, SERGIO FRANCISCO",
+          "candidato": "Julia Grasiela Busarello Wolff",
+          "citacao_completa": "PATERNO, A. S.; PICHORIM, SERGIO FRANCISCO . Participação em banca de Julia Grasiela Busarello Wolff. SISTEMA DE TOMOGRAFIA DE IMPEDÂNCIA ELÉTRICA MULTIFREQUENCIAL PARA IMAGEAMENTO PULMONAR EM SUÍNOS. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": "ESTUDO DE UM SISTEMA DE TRANSFERÊNCIA DE ENERGIA SEM FIOS COM SINTONIZAÇÃO DINÂMICA E COMPENSAÇÃO MULTIPARAMÉTRICA",
+          "membros": "PICHORIM, S F ; BRUSAMARELLO, V. J.; SOUSA, F. R.; ECKERT, P.",
+          "candidato": "Lucas Murliky",
+          "citacao_completa": "PICHORIM, S F ; BRUSAMARELLO, V. J.; SOUSA, F. R.; ECKERT, P.. Participação em banca de Lucas Murliky. ESTUDO DE UM SISTEMA DE TRANSFERÊNCIA DE ENERGIA SEM FIOS COM SINTONIZAÇÃO DINÂMICA E COMPENSAÇÃO MULTIPARAMÉTRICA. 2022. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2022,
+          "titulo": "APLICAÇÃO DO EQUIPAMENTO ?BASE MÓVEL DE TREINAMENTO DO EQUILÍBRIO? NO TREINAMENTO DE ESTABILIZAÇÃO POSTURAL EM JOVENS E IDOSOS",
+          "membros": "PICHORIM, S F",
+          "candidato": "Caluê Papcke",
+          "citacao_completa": "PICHORIM, S F . Participação em banca de Caluê Papcke. APLICAÇÃO DO EQUIPAMENTO ?BASE MÓVEL DE TREINAMENTO DO EQUILÍBRIO? NO TREINAMENTO DE ESTABILIZAÇÃO POSTURAL EM JOVENS E IDOSOS. 2022. Tese (Doutorado em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Método de triangulação aplicado sobre dados capturados com acelerômetro de movimentos humanos, visando a extração de novas características e o reconhecimento de padrões.",
+          "membros": "NIEVOLA, J. C.; R T Raittz; LAZZARETTI, A. E.; MENDES JUNIOR, J. J. A.; PICHORIM, S. F.",
+          "candidato": "Luiz Carlos Giacomossi",
+          "citacao_completa": "NIEVOLA, J. C.; R T Raittz; LAZZARETTI, A. E.; MENDES JUNIOR, J. J. A.; PICHORIM, S. F. . Participação em banca de Luiz Carlos Giacomossi. Método de triangulação aplicado sobre dados capturados com acelerômetro de movimentos humanos, visando a extração de novas características e o reconhecimento de padrões.. 2022. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A single propagation path multimode CMOS PA based on the stacked topology",
+          "membros": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S. F.",
+          "candidato": "FÁVERO GUILHERME SANTOS",
+          "citacao_completa": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S. F. . Participação em banca de FÁVERO GUILHERME SANTOS. A single propagation path multimode CMOS PA based on the stacked topology. 2021. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estudo Comparativo Entre Progressão de Feridas de Diabéticos e Não Diabéticos Utilizando Nova Tecnologia de Avaliação Vulnerária",
+          "membros": "; PICHORIM, S. F. ; DIAS JUNIOR, E.; FARIA, R. A.; BORBA, G. B.",
+          "candidato": "Adriano Antonio Mehl",
+          "citacao_completa": "; PICHORIM, S. F. ; DIAS JUNIOR, E.; FARIA, R. A.; BORBA, G. B.. Participação em banca de Adriano Antonio Mehl. Estudo Comparativo Entre Progressão de Feridas de Diabéticos e Não Diabéticos Utilizando Nova Tecnologia de Avaliação Vulnerária. 2020. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estudo da maximização da potência na carga em sist",
+          "membros": "PICHORIM, S. F. ; BRUSAMARELLO, V. J.; SOUSA, F. R.",
+          "candidato": "Rodrigo Wolff Porto",
+          "citacao_completa": "PICHORIM, S. F. ; BRUSAMARELLO, V. J.; SOUSA, F. R.. Participação em banca de Rodrigo Wolff Porto. Estudo da maximização da potência na carga em sist. de transf. de energia sem fios. 2019. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Compatibilidade Eletromag",
+          "membros": "BONFIM, M. J. C.; CASTALDO, F.; PICHORIM, S. F. ; MARIANO, A. A.",
+          "candidato": "Bruno Pohlot Ricobom",
+          "citacao_completa": "BONFIM, M. J. C.; CASTALDO, F.; PICHORIM, S. F. ; MARIANO, A. A.. Participação em banca de Bruno Pohlot Ricobom. Compatibilidade Eletromag. em Conversores Chaveados: ...estudo de caso. 2019. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Quantificação, qualificação e interação de Energia em Tecidos Biológicos no Processo Electrocirúrgico de Ablação",
+          "membros": "ABATTI, PAULO J.; ; HARA, M. S.; PICHORIM, S F",
+          "candidato": "Elton Dias Júnior",
+          "citacao_completa": "ABATTI, PAULO J.; ; HARA, M. S.; PICHORIM, S F . Participação em banca de Elton Dias Júnior. Quantificação, qualificação e interação de Energia em Tecidos Biológicos no Processo Electrocirúrgico de Ablação. 2019. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Mesa Ludica: Um Estudo Comparativo entre Reabilitação Ludica e Cinesioterapia na Restrição de Mov",
+          "membros": "BRAWERMAN, A.; PICHORIM, S. F. ; ; ; SILVA, L.",
+          "candidato": "Eduardo Juliano Alberti",
+          "citacao_completa": "BRAWERMAN, A.; PICHORIM, S. F. ; ; ; SILVA, L.. Participação em banca de Eduardo Juliano Alberti. Mesa Ludica: Um Estudo Comparativo entre Reabilitação Ludica e Cinesioterapia na Restrição de Mov. dos Membros Superiores em Indivíduos com AVC. 2019. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem Numérica do Efeito de Aplicação de Força em Fantomas de Espectroscopia de Impedância Elétrica",
+          "membros": "PICHORIM, S. F. ; BERTEMES FILHO, P.",
+          "candidato": "Douglas Dutra",
+          "citacao_completa": "PICHORIM, S. F. ; BERTEMES FILHO, P.. Participação em banca de Douglas Dutra. Modelagem Numérica do Efeito de Aplicação de Força em Fantomas de Espectroscopia de Impedância Elétrica. 2018. Tese (Doutorado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem de Bobinas Bifilares no Formato Espiral Plano Quadrado Simétrico em Aberto",
+          "membros": "PICHORIM, S F ; LEITE, B. R. B. A.; ; PINHO, A. C.",
+          "candidato": "Denivaldo Pereira da Silva",
+          "citacao_completa": "PICHORIM, S F ; LEITE, B. R. B. A.; ; PINHO, A. C.. Participação em banca de Denivaldo Pereira da Silva. Modelagem de Bobinas Bifilares no Formato Espiral Plano Quadrado Simétrico em Aberto. 2018. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Geração e caracterização de microbolhas monodispersas com revestimento lipídico utilizando dispositivos de entrocamento microfluídicos",
+          "membros": "SILVA, W. J.; CUNHA, J. C.; PICHORIM, S F ; MAIA, J.",
+          "candidato": "Carlos Toshiyuki Matsumi",
+          "citacao_completa": "SILVA, W. J.; CUNHA, J. C.; PICHORIM, S F ; MAIA, J.. Participação em banca de Carlos Toshiyuki Matsumi. Geração e caracterização de microbolhas monodispersas com revestimento lipídico utilizando dispositivos de entrocamento microfluídicos. 2018. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "DESENVOLVIMENTO DE SISTEMA DE DETECÇÃO DE ÓLEOS EM ÁGUAS UTILIZANDO PAINA",
+          "membros": "RIBEIRO, E. P.; PICHORIM, SERGIO F.",
+          "candidato": "ROBERTA PAYE BARA",
+          "citacao_completa": "RIBEIRO, E. P.; PICHORIM, SERGIO F. . Participação em banca de ROBERTA PAYE BARA. DESENVOLVIMENTO DE SISTEMA DE DETECÇÃO DE ÓLEOS EM ÁGUAS UTILIZANDO PAINA. 2017. Tese (Doutorado em Engenharia Mecânica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Determinação da Freq",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; SARTORI, C. F.; BONFIM, M. J. C.; PINHO, A. C.;",
+          "candidato": "Caio Marcelo de Miranda",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; SARTORI, C. F.; BONFIM, M. J. C.; PINHO, A. C.; . Participação em banca de Caio Marcelo de Miranda. Determinação da Freq. de Autorressonância por Onda Estacionária em Enrolamentos Solenoidais e Proposta de um Sist. Autorressonante de Transf. de Energia Sem Fio com Bobina Bifilar Aberta. 2016. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Analise Quantitativa da pCO2 expirado por Capnografia como Indice de Sucesso na Retirada da VMI Pediatrica",
+          "membros": "GEWEHR, P. M.; BUTTON, V. L. S. N.; VALDERRAMAS, S. R.; PICHORIM, S. F. ;",
+          "candidato": "Carmen Caroline Rasera",
+          "citacao_completa": "GEWEHR, P. M.; BUTTON, V. L. S. N.; VALDERRAMAS, S. R.; PICHORIM, S. F. ; . Participação em banca de Carmen Caroline Rasera. Analise Quantitativa da pCO2 expirado por Capnografia como Indice de Sucesso na Retirada da VMI Pediatrica. 2015. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Identificação de Estertores em Sons Respiratórios Utilizando Transformada Wavelet e Análise de Discriminante Linear",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; MORAES, R.; RESENDE, L. S.; ARRUDA, L. V. R.;",
+          "candidato": "Verônica Isabela Quandt",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; MORAES, R.; RESENDE, L. S.; ARRUDA, L. V. R.; . Participação em banca de Verônica Isabela Quandt. Identificação de Estertores em Sons Respiratórios Utilizando Transformada Wavelet e Análise de Discriminante Linear. 2015. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uso da Analise de Discriminante com Transformada Wavelet no Reconhecimento de Espiculas",
+          "membros": "; MORAES, R.; ARRUDA, L. V. R.; PICHORIM, S. F.",
+          "candidato": "Edras Reily Pacola",
+          "citacao_completa": "; MORAES, R.; ARRUDA, L. V. R.; PICHORIM, S. F. . Participação em banca de Edras Reily Pacola. Uso da Analise de Discriminante com Transformada Wavelet no Reconhecimento de Espiculas. 2015. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sistema de Caracterização de Depósitos Sedimentares em Função de Respostas Latentes Acústica, Elétrica e Térmica.",
+          "membros": "PATERNO, A. S.; LAMOUR, M. R.; ; SATO, G. Y.; PICHORIM, S. F.",
+          "candidato": "Gustavo Theodoro Laskoski",
+          "citacao_completa": "PATERNO, A. S.; LAMOUR, M. R.; ; SATO, G. Y.; PICHORIM, S. F. . Participação em banca de Gustavo Theodoro Laskoski. Sistema de Caracterização de Depósitos Sedimentares em Função de Respostas Latentes Acústica, Elétrica e Térmica.. 2014. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sist",
+          "membros": "; MAIA, J.;",
+          "candidato": "Fabio Luiz Bertotti",
+          "citacao_completa": "; MAIA, J.; . Participação em banca de Fabio Luiz Bertotti. Sist. de Biotelemetria Passiva e Tecnica de Medição p/ Aquisicão da Impedância Elet. de Tecido Animal. 2010. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Pupilometria dinâmica: aplicação na detecção e avaliação de neuropatia autonômica diabética...",
+          "membros": "",
+          "candidato": "Giselle Lopes Ferrari",
+          "citacao_completa": ". Participação em banca de Giselle Lopes Ferrari. Pupilometria dinâmica: aplicação na detecção e avaliação de neuropatia autonômica diabética.... 2008. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Técnica de Biotelemetria Passiva com Unidade Implantável composta por Apenas Um Componente",
+          "membros": ";",
+          "candidato": "MArcos Santos Hara",
+          "citacao_completa": "; . Participação em banca de MArcos Santos Hara. Técnica de Biotelemetria Passiva com Unidade Implantável composta por Apenas Um Componente. 2008. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Projeto de Acopladores em Quadratura Integrados para Radiofrequencia",
+          "membros": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S F",
+          "candidato": "João Paulo Perbiche",
+          "citacao_completa": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S F . Participação em banca de João Paulo Perbiche. Projeto de Acopladores em Quadratura Integrados para Radiofrequencia. 2026. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2025,
+          "titulo": "DESENVOLVIMENTO E ANÁLISE DE MACROMODELOS IMPRESSOS EM 3D BASEADO EM SENSORES DE REDE DE BRAGG PARA ESTUDO DE FORÇAS OCLUSAIS EM SISTEMAS DE DENTES NATURAIS E IMPLANTADOS",
+          "membros": "ABE, I.; OLIVEIRA, V.; PICHORIM, SÉRGIO F.",
+          "candidato": "DANIELLE MAGALHAES FONTENELE",
+          "citacao_completa": "ABE, I.; OLIVEIRA, V.; PICHORIM, SÉRGIO F. . Participação em banca de DANIELLE MAGALHAES FONTENELE. DESENVOLVIMENTO E ANÁLISE DE MACROMODELOS IMPRESSOS EM 3D BASEADO EM SENSORES DE REDE DE BRAGG PARA ESTUDO DE FORÇAS OCLUSAIS EM SISTEMAS DE DENTES NATURAIS E IMPLANTADOS. 2025. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "AVALIAÇÃO MUSCULAR ATRAVÉS DA TOMOGRAFIA POR IMPEDÂNCIA ELÉTRICA",
+          "membros": "BERTEMES FILHO, P.; ; PICHORIM, S. F. ; MANFRA, E.",
+          "candidato": "Luiz Augusto Kalva de Andrade",
+          "citacao_completa": "BERTEMES FILHO, P.; ; PICHORIM, S. F. ; MANFRA, E.. Participação em banca de Luiz Augusto Kalva de Andrade. AVALIAÇÃO MUSCULAR ATRAVÉS DA TOMOGRAFIA POR IMPEDÂNCIA ELÉTRICA. 2022. Exame de qualificação (Doutorando em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "AMPLIFICADOR DE POTÊNCIA CMOS RECONFIGURÁVEL EM POTÊNCIA E EM BANDA DE OPERAÇÃO",
+          "membros": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S F",
+          "candidato": "Fávero Guilherme Santos",
+          "citacao_completa": "LEITE, B. R. B. A.; MARIANO, A. A.; PICHORIM, S F . Participação em banca de Fávero Guilherme Santos. AMPLIFICADOR DE POTÊNCIA CMOS RECONFIGURÁVEL EM POTÊNCIA E EM BANDA DE OPERAÇÃO. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Indutores Variáveis Baseados em Transformadores Integrados em Tec",
+          "membros": "LEITE, B. R. B. A.; PICHORIM, S. F.",
+          "candidato": "Rodrigo Godinho Silva",
+          "citacao_completa": "LEITE, B. R. B. A.; PICHORIM, S. F. . Participação em banca de Rodrigo Godinho Silva. Indutores Variáveis Baseados em Transformadores Integrados em Tec. CMOS. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estudo Sistema WPT com Sintonia Dinâmica e Compensação Multiparamétrica",
+          "membros": "PICHORIM, S. F. ; BRUSAMARELLO, V. J.",
+          "candidato": "Lucas Murliky",
+          "citacao_completa": "PICHORIM, S. F. ; BRUSAMARELLO, V. J.. Participação em banca de Lucas Murliky. Estudo Sistema WPT com Sintonia Dinâmica e Compensação Multiparamétrica. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Sist",
+          "membros": "PICHORIM, S F ; STEVAN JR, S. L.; LAZZARETTI, A. E.",
+          "candidato": "José Jair Alves Mendes Junior",
+          "citacao_completa": "PICHORIM, S F ; STEVAN JR, S. L.; LAZZARETTI, A. E.. Participação em banca de José Jair Alves Mendes Junior. Sist. de Reconhecimento de Linguagem Bras. de Sinais por meio de sEMG. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Novo Metodo para Extrair Caracteristicas de Dados Aleatórios em Ampl e Freq visando Reconhecimento de Padrões",
+          "membros": "PICHORIM, S. F. ; R T Raittz; NIEVOLA, J. C.",
+          "candidato": "Luiz Carlos Giacomossi",
+          "citacao_completa": "PICHORIM, S. F. ; R T Raittz; NIEVOLA, J. C.. Participação em banca de Luiz Carlos Giacomossi. Novo Metodo para Extrair Caracteristicas de Dados Aleatórios em Ampl e Freq visando Reconhecimento de Padrões. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo da Blindagem, Sensores Flexíveis e Dissipadores em tecnologia de PCI",
+          "membros": "PICHORIM, SERGIO F. ; HARA, M. S.; RIBEIRO, E. P.",
+          "candidato": "Diego Dias dos Reis",
+          "citacao_completa": "PICHORIM, SERGIO F. ; HARA, M. S.; RIBEIRO, E. P.. Participação em banca de Diego Dias dos Reis. Estudo da Blindagem, Sensores Flexíveis e Dissipadores em tecnologia de PCI. 2018. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Mesa de Desenvolvimento Motor: estudo comparativo entre reabilitação lúdica e cinesioterapia em AVC",
+          "membros": "CUNHA, J. C.; ; PICHORIM, SÉRGIO FRANCISCO ; SILVA, L.",
+          "candidato": "Eduardo Juliano Alberti",
+          "citacao_completa": "CUNHA, J. C.; ; PICHORIM, SÉRGIO FRANCISCO ; SILVA, L.. Participação em banca de Eduardo Juliano Alberti. Mesa de Desenvolvimento Motor: estudo comparativo entre reabilitação lúdica e cinesioterapia em AVC. 2017. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Modelagem de Bobinas e Espirais Planas Bifilares",
+          "membros": "PINHO, A. C.; PICHORIM, SÉRGIO FRANCISCO ; LEITE, B. R. B. A.; SOUSA, F. R.",
+          "candidato": "Denivaldo Pereira da Silva",
+          "citacao_completa": "PINHO, A. C.; PICHORIM, SÉRGIO FRANCISCO ; LEITE, B. R. B. A.; SOUSA, F. R.. Participação em banca de Denivaldo Pereira da Silva. Modelagem de Bobinas e Espirais Planas Bifilares. 2017. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Estudo da Autoressonancia por Onda Estacionária em Bobinas Solenoidais com Camada Simples de Enrolamento e Nucleo de Ar",
+          "membros": "SARTORI, C. F.; PINHO, A. C.; PICHORIM, SERGIO F.",
+          "candidato": "Caio Marcelo de Miranda",
+          "citacao_completa": "SARTORI, C. F.; PINHO, A. C.; PICHORIM, SERGIO F. . Participação em banca de Caio Marcelo de Miranda. Estudo da Autoressonancia por Onda Estacionária em Bobinas Solenoidais com Camada Simples de Enrolamento e Nucleo de Ar. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Amplificador de Baixo Ruído Digitalmente Controlado para Rádio Adaptativo",
+          "membros": "MARIANO, A. A.; LIMA, R. N.; GOUVEIA FILHO, O. C.; PICHORIM, S. F.",
+          "candidato": "Marcelo de Souza",
+          "citacao_completa": "MARIANO, A. A.; LIMA, R. N.; GOUVEIA FILHO, O. C.; PICHORIM, S. F. . Participação em banca de Marcelo de Souza. Amplificador de Baixo Ruído Digitalmente Controlado para Rádio Adaptativo. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Estudo Cicatrização Óssea Sob Influencia de Campo Magnetico Extracorporeo",
+          "membros": "MAIA, J.; PICHORIM, S. F. ; MARANHO, L. T.",
+          "candidato": "Lucienne Miranda Ulbrich",
+          "citacao_completa": "MAIA, J.; PICHORIM, S. F. ; MARANHO, L. T.. Participação em banca de Lucienne Miranda Ulbrich. Estudo Cicatrização Óssea Sob Influencia de Campo Magnetico Extracorporeo. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sist Biotelemetrico Monitoramento Parametros Vitais em Mamiferos utilizando Microtrans",
+          "membros": "; PICHORIM, S. F. ;",
+          "candidato": "Marcos Mendes Albano",
+          "citacao_completa": "; PICHORIM, S. F. ; . Participação em banca de Marcos Mendes Albano. Sist Biotelemetrico Monitoramento Parametros Vitais em Mamiferos utilizando Microtrans. RF em Biomaterial. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Analise Quantitativa da Pressao de Dioxido de Carbono Expirada por Capnografia como Indice Preditivo de Sucesso na Retirada da VMI Pediatrica",
+          "membros": "; ; VALDERRAMAS, S. R.; BUTTON, V. L. S. N.; GEWEHR, P. M.",
+          "candidato": "Carmen Caroline Rasera",
+          "citacao_completa": "; ; VALDERRAMAS, S. R.; BUTTON, V. L. S. N.; GEWEHR, P. M.. Participação em banca de Carmen Caroline Rasera. Analise Quantitativa da Pressao de Dioxido de Carbono Expirada por Capnografia como Indice Preditivo de Sucesso na Retirada da VMI Pediatrica. 2012. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Análise Sedimentar In Situ Utilizando as Respostas Latentes Acusticas, Eletrica e Termica",
+          "membros": "; PATERNO, A. S.; LAMOUR, M. R.; AMARAL, C. E. F.",
+          "candidato": "Gustavo Theodoro Laskoski",
+          "citacao_completa": "; PATERNO, A. S.; LAMOUR, M. R.; AMARAL, C. E. F.. Participação em banca de Gustavo Theodoro Laskoski. Análise Sedimentar In Situ Utilizando as Respostas Latentes Acusticas, Eletrica e Termica. 2012. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema Biotelemetria Passiva e TEcnica de Medicao de Impedancia Eletrica de Tecido Post Mortem",
+          "membros": ";",
+          "candidato": "Fabio Luiz Bertotti",
+          "citacao_completa": "; . Participação em banca de Fabio Luiz Bertotti. Sistema Biotelemetria Passiva e TEcnica de Medicao de Impedancia Eletrica de Tecido Post Mortem. 2010. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Est",
+          "membros": "; ;",
+          "candidato": "Rubens Alexandre de Faria",
+          "citacao_completa": "; ; . Participação em banca de Rubens Alexandre de Faria. Est. e Des. de Instrument. para Monitoramento de Param. Fiologicos em Pacientes em Oxigenoterapia Hiperbarica. 2009. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Tecnica de Biotelemetria Passiva com Unidade Implantavel de Apenas Um componente",
+          "membros": "",
+          "candidato": "Marcos Santos hara",
+          "citacao_completa": ". Participação em banca de Marcos Santos hara. Tecnica de Biotelemetria Passiva com Unidade Implantavel de Apenas Um componente. 2006. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "VESTUÁRIO TERAPEUTICO PNEUMATICO PARA DRENAGEM LINFATICA DE MEMBROS INFERIORES AFETADOS POR LINFEDEMA",
+          "membros": "; FARIA, R. A.; PICHORIM, SERGIO F.",
+          "candidato": "Ana Lucia de Lara Faucz",
+          "citacao_completa": "; FARIA, R. A.; PICHORIM, SERGIO F. . Participação em banca de Ana Lucia de Lara Faucz. VESTUÁRIO TERAPEUTICO PNEUMATICO PARA DRENAGEM LINFATICA DE MEMBROS INFERIORES AFETADOS POR LINFEDEMA. 2026. Exame de qualificação (Mestrando em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SISTEMA DE RECONHECIMENTO DE GESTOS PARA CONTROLE DE ÓRTESE DE MEMBRO SUPERIOR BASEADO EM MECANOMIOGRAFIA",
+          "membros": "; PICHORIM, S F",
+          "candidato": "Leonardo Teixeira dos Santos",
+          "citacao_completa": "; PICHORIM, S F . Participação em banca de Leonardo Teixeira dos Santos. SISTEMA DE RECONHECIMENTO DE GESTOS PARA CONTROLE DE ÓRTESE DE MEMBRO SUPERIOR BASEADO EM MECANOMIOGRAFIA. 2022. Exame de qualificação (Mestrando em Tecnologia em Saúde) - Pontifícia Universidade Católica do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": "IMPLEMENTAÇÃO DE UM SISTEMA DE TRANSFERÊNCIA DE DADOS VIA ETHERNET PARA PROCESSAMENTO EMBARCADO EM DISPOSITIVO FPGA",
+          "membros": "; MAIA, J.; PICHORIM, S F",
+          "candidato": "JONATHAN DE OLIVEIRA",
+          "citacao_completa": "; MAIA, J.; PICHORIM, S F . Participação em banca de JONATHAN DE OLIVEIRA. IMPLEMENTAÇÃO DE UM SISTEMA DE TRANSFERÊNCIA DE DADOS VIA ETHERNET PARA PROCESSAMENTO EMBARCADO EM DISPOSITIVO FPGA. 2018. Exame de qualificação (Mestrando em Prog. de Pós-Graduação em Sistemas de Energia PPGSE) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Desenv",
+          "membros": "PICHORIM, SÉRGIO FRANCISCO ; STEVAN JR, S. L.",
+          "candidato": "José Jair Alves Mendes Jr",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO ; STEVAN JR, S. L.. Participação em banca de José Jair Alves Mendes Jr. Desenv. de ARMBAND para Captura de EMG para Reconhecimento de Movimento. 2016. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": ".Desenvolvimento de sensor de angulação com acelerômetro para a avaliação postural da coluna",
+          "membros": "RASERA, C. C.; ; FARIA, R. A.; PICHORIM, S. F.",
+          "candidato": "Alisson Gabriel Portela Sebastião",
+          "citacao_completa": "RASERA, C. C.; ; FARIA, R. A.; PICHORIM, S. F. . Participação em banca de Alisson Gabriel Portela Sebastião.Desenvolvimento de sensor de angulação com acelerômetro para a avaliação postural da coluna. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Desenvolvimento de uma prótese de mão e antebraço com movimentos controlados por sinais de eletromiografia",
+          "membros": "RASERA, C. C.; MAIA, J.; PICHORIM, S F",
+          "candidato": "Leonardo Teixeira dos Santos",
+          "citacao_completa": "RASERA, C. C.; MAIA, J.; PICHORIM, S F . Participação em banca de Leonardo Teixeira dos Santos.Desenvolvimento de uma prótese de mão e antebraço com movimentos controlados por sinais de eletromiografia. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Sistema Doppler Contínuo com Transdutor Ultrassônico de Elemento Único...",
+          "membros": "MAIA, J.; PICHORIM, SÉRGIO FRANCISCO ; RASERA, C. C.",
+          "candidato": "André Augusto Paz & Larissa C Neves",
+          "citacao_completa": "MAIA, J.; PICHORIM, SÉRGIO FRANCISCO ; RASERA, C. C.. Participação em banca de André Augusto Paz & Larissa C Neves.Sistema Doppler Contínuo com Transdutor Ultrassônico de Elemento Único.... 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Monitor de Desempenho de Golpes",
+          "membros": "FARIA, R. A.; PICHORIM, S. F.",
+          "candidato": "Valeria C Zavadzki Santos & Vitor K Hirozawa",
+          "citacao_completa": "FARIA, R. A.; PICHORIM, S. F. . Participação em banca de Valeria C Zavadzki Santos & Vitor K Hirozawa.Monitor de Desempenho de Golpes. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Onda Alfa EEG Olho Aberto",
+          "membros": "PICHORIM, S. F. ; FARIA, R. A.; MAIA, J.",
+          "candidato": "Higor Barbosa Santos",
+          "citacao_completa": "PICHORIM, S. F. ; FARIA, R. A.; MAIA, J.. Participação em banca de Higor Barbosa Santos.Onda Alfa EEG Olho Aberto. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Dispositivo Apontador Voltado a Portadores de Paralisia nos Membros Superiores",
+          "membros": "",
+          "candidato": "Carlos Eduardo Mayer de Oliveira",
+          "citacao_completa": ". Participação em banca de Carlos Eduardo Mayer de Oliveira.Dispositivo Apontador Voltado a Portadores de Paralisia nos Membros Superiores. 2010. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Desenv",
+          "membros": "",
+          "candidato": "Alexandre Vassinieski Ribeiro e Stephanie Diana dos Santos",
+          "citacao_completa": ". Participação em banca de Alexandre Vassinieski Ribeiro e Stephanie Diana dos Santos.Desenv. de um Sensor de Posição Corpórea Sem Fio p/ Uso em Polissonografia. 2010. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Obrzut e Glaucio B Silva.Especificacao e Implement",
+          "membros": "",
+          "candidato": "Elton F",
+          "citacao_completa": ". Participação em banca de Elton F. Obrzut e Glaucio B Silva.Especificacao e Implement. de Amplificador de Potencia com Ajuste de Impedancia. 2009. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Carregador Programavel de Baterias",
+          "membros": "",
+          "candidato": "Ricardo Moreno",
+          "citacao_completa": ". Participação em banca de Ricardo Moreno.Carregador Programavel de Baterias. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Eletrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Sistema de Biotelemetria para Eletromiografia e Goniometria",
+          "membros": ";",
+          "candidato": "Gustavo Theodoro Laskoski",
+          "citacao_completa": "; . Participação em banca de Gustavo Theodoro Laskoski.Sistema de Biotelemetria para Eletromiografia e Goniometria. 2007. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".BIOZ - Medidor de bioimpedancia multifrequencial",
+          "membros": "",
+          "candidato": "Rafael Eraldo Sartori Martins e Raphael Heitor Nezzi",
+          "citacao_completa": ". Participação em banca de Rafael Eraldo Sartori Martins e Raphael Heitor Nezzi.BIOZ - Medidor de bioimpedancia multifrequencial. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Eletrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Transgado, sist",
+          "membros": "",
+          "candidato": "Alex G Sta Maria, Elton Canteri, Hamilton C Luis",
+          "citacao_completa": ". Participação em banca de Alex G Sta Maria, Elton Canteri, Hamilton C Luis.Transgado, sist. de rastreamento de gado com Transponders. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Eletrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Desenvolvimento de Bomba de Seringa Microporcessada",
+          "membros": "",
+          "candidato": "André Kavaturo e Cláudio Tosin",
+          "citacao_completa": ". Participação em banca de André Kavaturo e Cláudio Tosin.Desenvolvimento de Bomba de Seringa Microporcessada. 2006. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Holter para ECG com memória de estado sólido",
+          "membros": "",
+          "candidato": "Anderson Sussumu Sonehara, Alysson Pereira, Marcos de Rosso",
+          "citacao_completa": ". Participação em banca de Anderson Sussumu Sonehara, Alysson Pereira, Marcos de Rosso.Holter para ECG com memória de estado sólido. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Eletrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Mouse controlado por ultrasom",
+          "membros": "",
+          "candidato": "Ronie",
+          "citacao_completa": ". Participação em banca de Ronie.Mouse controlado por ultrasom. 2004. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Sistema de Identificação de Euipamentos Eletromédicos",
+          "membros": "",
+          "candidato": "Wagner Barbosa",
+          "citacao_completa": ". Participação em banca de Wagner Barbosa.Sistema de Identificação de Euipamentos Eletromédicos. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Eletrica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Professor titular",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "FARIA, R. A.; PICHORIM, S F ; . Professora GISELLE LOPES FERRARI RONQUE. 2025. Universidade Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "FARIA, R. A.; PICHORIM, S F ; . Professora GISELLE LOPES FERRARI RONQUE. 2025. Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "BONFIM, M. J. C.; PICHORIM, S. F. . Prof. Marlio Bonfim. 2020. Universidade Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BONFIM, M. J. C.; PICHORIM, S. F. . Prof. Marlio Bonfim. 2020. Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "PICHORIM, S F . Carreira EBTT - Professor Jean Carlos Cardozo da Silva. 2020. Universidade Tecnológica Federal do Paraná",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S F . Carreira EBTT - Professor Jean Carlos Cardozo da Silva. 2020. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "PICHORIM, S F . Professor LUCIANO SCANDELARI. 2017. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S F . Professor LUCIANO SCANDELARI. 2017. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "PICHORIM, SÉRGIO FRANCISCO . EBTT prof. PAULO ROBERTO BRERO CAMPOS. 2015. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, SÉRGIO FRANCISCO . EBTT prof. PAULO ROBERTO BRERO CAMPOS. 2015. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "PICHORIM, S. F. . Prof ERALDO SILVEIRA E SILVA. 2015. Instituto Federal de Santa Catarina.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S. F. . Prof ERALDO SILVEIRA E SILVA. 2015. Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "PICHORIM, S. F. . Prof SAUL SILVA CAETANO. 2015. Instituto Federal de Santa Catarina.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S. F. . Prof SAUL SILVA CAETANO. 2015. Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PICHORIM, S F . Prof Eden Januario Netto. 2014. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S F . Prof Eden Januario Netto. 2014. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PICHORIM, S. F. . Prof Gilberto Branco. 2014. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S. F. . Prof Gilberto Branco. 2014. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PICHORIM, SÉRGIO F. . Prof HÉLIO VOLTOLINI. 2014. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, SÉRGIO F. . Prof HÉLIO VOLTOLINI. 2014. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PICHORIM, S. F. . Prof Luiz Fernando Nunes. 2014. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S. F. . Prof Luiz Fernando Nunes. 2014. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2014,
+          "titulo": "PICHORIM, S F . Prof MARCIO MENDES CASARO. 2014. Universidade Tecnológica Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "PICHORIM, S F . Prof MARCIO MENDES CASARO. 2014. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": ". Avaliação de projetos PIBIC - UFPR. 2011. Universidade Federal do Paraná.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Avaliação de projetos PIBIC - UFPR. 2011. Universidade Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

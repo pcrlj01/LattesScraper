@@ -1,0 +1,1645 @@
+{
+  "name": "Sérgio Jose Melo de Almeida",
+  "lattes_id": "2722601824277488",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "On the variance of the LMS algorithm squared-error sample curve",
+          "autores": "MARUO, MARCOS H. ; ALMEIDA, SÉRGIO J.M. ; BERMUDEZ, JOSÉ C.M.",
+          "periodico": "SIGNAL PROCESSING , v. 238, p. 110168, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.sigpro.2025.110168",
+          "citacao_completa": "MARUO, MARCOS H. ; ALMEIDA, SÉRGIO J.M. ; BERMUDEZ, JOSÉ C.M. . On the variance of the LMS algorithm squared-error sample curve. SIGNAL PROCESSING , v. 238, p. 110168, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Local Volt-Var Control Applied in an Islanded Microgrid Using Supervised Learning Techniques",
+          "autores": "DIAS DOMINGUES, DIEGO ; JOSÉ MELO ALMEIDA, SÉRGIO ; ANTONIO CÉSAR COSTA, EDUARDO",
+          "periodico": "IEEE Latin America Transactions , v. 23, p. 600-608, 2025.",
+          "doi": "http://dx.doi.org/10.1109/tla.2025.11045645",
+          "citacao_completa": "DIAS DOMINGUES, DIEGO ; JOSÉ MELO ALMEIDA, SÉRGIO ; ANTONIO CÉSAR COSTA, EDUARDO . Local Volt-Var Control Applied in an Islanded Microgrid Using Supervised Learning Techniques. IEEE Latin America Transactions , v. 23, p. 600-608, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Generalized Multiscale Bundle-Based Hyperspectral Sparse Unmixing Algorithm",
+          "autores": "AYRES, L. C. ; BORSOI, R. A. ; ; ALMEIDA, S. J. M.",
+          "periodico": "IEEE Geoscience and Remote Sensing Letters , v. 21, p. 1-5, 2024.",
+          "doi": "http://dx.doi.org/10.1109/LGRS.2024.3358694",
+          "citacao_completa": "AYRES, L. C. ; BORSOI, R. A. ; ; ALMEIDA, S. J. M. . A Generalized Multiscale Bundle-Based Hyperspectral Sparse Unmixing Algorithm. IEEE Geoscience and Remote Sensing Letters , v. 21, p. 1-5, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Hierarchical homogeneity-based superpixel segmentation: application to hyperspectral image analysis",
+          "autores": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A.",
+          "periodico": "INTERNATIONAL JOURNAL OF REMOTE SENSING , v. 1, p. 1-31, 2024.",
+          "doi": "http://dx.doi.org/10.1080/01431161.2024.2384098",
+          "citacao_completa": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A. . Hierarchical homogeneity-based superpixel segmentation: application to hyperspectral image analysis. INTERNATIONAL JOURNAL OF REMOTE SENSING , v. 1, p. 1-31, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "MAxPy: A Framework for Bridging Approximate Computing Circuits to its Applications",
+          "autores": "ARBELETCHE, YURI ; PAIM, GUILHERME ; ABREU, BRUNNO ; ALMEIDA, SERGIO ; COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tcsii.2023.3240897",
+          "citacao_completa": "ARBELETCHE, YURI ; PAIM, GUILHERME ; ABREU, BRUNNO ; ALMEIDA, SERGIO ; COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO . MAxPy: A Framework for Bridging Approximate Computing Circuits to its Applications. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "VLSI Architecture for Energy-Efficient and Accurate Pre-Processing Pan-Tompkins Design",
+          "autores": "RIBEIRO, LEO ; DA COSTA, PATRICIA ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tcsii.2023.3241124",
+          "citacao_completa": "RIBEIRO, LEO ; DA COSTA, PATRICIA ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO . VLSI Architecture for Energy-Efficient and Accurate Pre-Processing Pan-Tompkins Design. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ReAdapt: A Reconfigurable Datapath for Runtime Energy-Quality Scalable Adaptive Filters",
+          "autores": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 70, p. 327-339, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tcsi.2022.3204931",
+          "citacao_completa": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO . ReAdapt: A Reconfigurable Datapath for Runtime Energy-Quality Scalable Adaptive Filters. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 70, p. 327-339, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Design of a low power and robust VLSI power line interference canceler with optimized arithmetic operators",
+          "autores": "ROSA, M. M. A. ; COSTA, P. U. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, SERGIO J. M. ;",
+          "periodico": "Analog Integrated Circuits and Signal Processing , v. 1, p. 247-261, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s10470-022-02050-x",
+          "citacao_completa": "ROSA, M. M. A. ; COSTA, P. U. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, SERGIO J. M. ; . Design of a low power and robust VLSI power line interference canceler with optimized arithmetic operators. Analog Integrated Circuits and Signal Processing , v. 1, p. 247-261, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploring NLMS-Based Adaptive Filter Hardware Architectures for Eliminating Power Line Interference in EEG Signals",
+          "autores": "ROSA, A. L. ; TAUA, P. ; COSTA, P. U. L. ; COSTA, E. A. C. ; BAMPI, S. ; ALMEIDA, S. J. M.",
+          "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1-10, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s00034-020-01620-6",
+          "citacao_completa": "ROSA, A. L. ; TAUA, P. ; COSTA, P. U. L. ; COSTA, E. A. C. ; BAMPI, S. ; ALMEIDA, S. J. M. . Exploring NLMS-Based Adaptive Filter Hardware Architectures for Eliminating Power Line Interference in EEG Signals. CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1-10, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Approximate Pruned and Truncated Haar Discrete Wavelet Transform VLSI Hardware for Energy-Efficient ECG Signal Processing",
+          "autores": "SEIDEL, HENRIQUE BESTANI ; MACEDO AZEVEDO DA ROSA, MORGANA ; PAIM, GUILHERME ; ANTONIO CESAR DA COSTA, EDUARDO ; ALMEIDA, SERGIO J. M. ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-13, 2021.",
+          "doi": "http://dx.doi.org/10.1109/tcsi.2021.3057584",
+          "citacao_completa": "SEIDEL, HENRIQUE BESTANI ; MACEDO AZEVEDO DA ROSA, MORGANA ; PAIM, GUILHERME ; ANTONIO CESAR DA COSTA, EDUARDO ; ALMEIDA, SERGIO J. M. ; BAMPI, SERGIO . Approximate Pruned and Truncated Haar Discrete Wavelet Transform VLSI Hardware for Energy-Efficient ECG Signal Processing. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-13, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Architectural Exploration for Energy-Efficient Fixed-Point Kalman Filter VLSI Design",
+          "autores": "TAUA, P. ; PAIM, G. ; COSTA, P. U. L. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 1, p. 1-14, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TVLSI.2021.3075379",
+          "citacao_completa": "TAUA, P. ; PAIM, G. ; COSTA, P. U. L. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Architectural Exploration for Energy-Efficient Fixed-Point Kalman Filter VLSI Design. IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 1, p. 1-14, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploring Multi-Level Composition and Efficient MCM Schemes for an Energy-Efficient Wavelet Haar Architecture",
+          "autores": "SEIDEL, H. ; ROSA, M. M. A. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "Journal of Integrated Circuits and Systems , v. 16, p. 1-9, 2021.",
+          "doi": "http://dx.doi.org/10.29292/jics.v16i2.242",
+          "citacao_completa": "SEIDEL, H. ; ROSA, M. M. A. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring Multi-Level Composition and Efficient MCM Schemes for an Energy-Efficient Wavelet Haar Architecture. Journal of Integrated Circuits and Systems , v. 16, p. 1-9, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Fixed-Point NLMS and IPNLMS VLSI Architecturesfor Accurate FECG and FHR Processing",
+          "autores": "COSTA, P. U. L. ; PAIM, GUILHERME ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "IEEE Transactions on Biomedical Circuits and Systems , v. 1, p. 1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TBCAS.2021.3120237",
+          "citacao_completa": "COSTA, P. U. L. ; PAIM, GUILHERME ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Fixed-Point NLMS and IPNLMS VLSI Architecturesfor Accurate FECG and FHR Processing. IEEE Transactions on Biomedical Circuits and Systems , v. 1, p. 1, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Power-Efficient Approximate Newton-Raphson Integer Divider Applied to NLMS Adaptive Filter for High-Quality Interference Cancelling",
+          "autores": "GUIDOTTI, V. ; PAIM, G. ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 39, p. 1-29, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s00034-020-01431-9",
+          "citacao_completa": "GUIDOTTI, V. ; PAIM, G. ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Power-Efficient Approximate Newton-Raphson Integer Divider Applied to NLMS Adaptive Filter for High-Quality Interference Cancelling. CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 39, p. 1-29, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "An Energy-Efficient Haar Wavelet Transform Architecture for Respiratory Signal Processing",
+          "autores": "DA ROSA, MORGANA M. ; SEIDEL, HENRIQUE B. ; PAIM, GUILHERME ; DA COSTA, EDUARDO A. ; ALMEIDA, SERGIO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/tcsii.2020.3046919",
+          "citacao_completa": "DA ROSA, MORGANA M. ; SEIDEL, HENRIQUE B. ; PAIM, GUILHERME ; DA COSTA, EDUARDO A. ; ALMEIDA, SERGIO ; BAMPI, SERGIO . An Energy-Efficient Haar Wavelet Transform Architecture for Respiratory Signal Processing. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS , v. 1, p. 1-1, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Voice Activity Detection Using Generalized Exponential Kernels for Time and Frequency Domains",
+          "autores": "SOARES, A. S. P. ; PARREIRA, W. ; SOUZA, E. G. ; NASCIMENTO, C. D. ; ALMEIDA, S. J. M.",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-8, 2019.",
+          "doi": "http://dx.doi.org/10.1109/TCSI.2019.2895771",
+          "citacao_completa": "SOARES, A. S. P. ; PARREIRA, W. ; SOUZA, E. G. ; NASCIMENTO, C. D. ; ALMEIDA, S. J. M. . Voice Activity Detection Using Generalized Exponential Kernels for Time and Frequency Domains. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-8, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "IIR Filter Architectures with Truncation Error Feedback for ECG Signal Processing",
+          "autores": "OTT, G. ; ; ALMEIDA, S. J. M. ; FONSECA, M. B.",
+          "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1-12, 2018.",
+          "doi": "http://dx.doi.org/10.1007/s00034-018-0860-2",
+          "citacao_completa": "OTT, G. ; ; ALMEIDA, S. J. M. ; FONSECA, M. B. . IIR Filter Architectures with Truncation Error Feedback for ECG Signal Processing. CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1-12, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A New Theoretical Model for the Pseudo Affine Projection Algorithm for Unity Step Size and Autoregressive Inputs",
+          "autores": "; ALMEIDA, S. J. M. ;",
+          "periodico": "IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 64, p. 3591-3604, 2016.",
+          "doi": "http://dx.doi.org/10.1109/tsp.2016.2549992",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; . A New Theoretical Model for the Pseudo Affine Projection Algorithm for Unity Step Size and Autoregressive Inputs. IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 64, p. 3591-3604, 2016."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Region-Based Wavelet-Packet Adaptive Algorithm for Identification of Sparse Impulse Responses",
+          "autores": "Odair A. Noskoski ; ; ALMEIDA, S. J. M.",
+          "periodico": "IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 61, p. 3321-3333, 2013.",
+          "doi": "http://dx.doi.org/10.1109/tsp.2013.2257763",
+          "citacao_completa": "Odair A. Noskoski ; ; ALMEIDA, S. J. M. . Region-Based Wavelet-Packet Adaptive Algorithm for Identification of Sparse Impulse Responses. IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 61, p. 3321-3333, 2013."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Motion Estimation Architecture Using Efficient Adder-Compressors for HDTV Video Coding",
+          "autores": "Porto M. ; ; ALMEIDA, S. J. M. ; ;",
+          "periodico": "JICS. Journal of Integrated Circuits and Systems (Ed. Português) , v. 5, p. 78-88, 2010.",
+          "doi": "",
+          "citacao_completa": "Porto M. ; ; ALMEIDA, S. J. M. ; ; . Motion Estimation Architecture Using Efficient Adder-Compressors for HDTV Video Coding. JICS. Journal of Integrated Circuits and Systems (Ed. Português) , v. 5, p. 78-88, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Efficient Dedicated Multiplication Blocks for 2´s Complement Radix-2m Array Multipliers",
+          "autores": "; ALMEIDA, S. J. M. ; ; FONSECA, M. B.",
+          "periodico": "JOURNAL OF COMPUTERS , v. 5, p. 1502-1509, 2010.",
+          "doi": "http://dx.doi.org/10.4304/jcp.5.10.1502-1509",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; ; FONSECA, M. B. . Efficient Dedicated Multiplication Blocks for 2´s Complement Radix-2m Array Multipliers. JOURNAL OF COMPUTERS , v. 5, p. 1502-1509, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A Stochastic Model for a Pseudo Affine Projection Algorithm",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J.",
+          "periodico": "IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 57, p. 107-118, 2009.",
+          "doi": "http://dx.doi.org/10.1109/tsp.2008.2007109",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. . A Stochastic Model for a Pseudo Affine Projection Algorithm. IEEE TRANSACTIONS ON SIGNAL PROCESSING , v. 57, p. 107-118, 2009."
+        },
+        {
+          "ano": 2005,
+          "titulo": "A statistical analysis of the affine projection algorithm for unity step size and autoregressive inputs",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. ;",
+          "periodico": "IEEE Transactions on Circuits and Systems. I, Fundamental Theory and Applications (Cessou em 2003. Cont.1549-8328 IEEE Transactions on Circuits and Sy , v. 52, p. 1394-1405, 2005.",
+          "doi": "http://dx.doi.org/10.1109/tcsi.2005.851720",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. ; . A statistical analysis of the affine projection algorithm for unity step size and autoregressive inputs. IEEE Transactions on Circuits and Systems. I, Fundamental Theory and Applications (Cessou em 2003. Cont.1549-8328 IEEE Transactions on Circuits and Sy , v. 52, p. 1394-1405, 2005."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Energy-Efficient VLSI Exponential Function Combining a Fourth-Order Maclaurin Series and Horner's Method (Aceito para publicação)",
+          "autores": "SEIDEL, H. ; ROSA, M. M. A. ; LOPES, R. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. ; SOARES, R.",
+          "periodico": "In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "SEIDEL, H. ; ROSA, M. M. A. ; LOPES, R. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. ; SOARES, R. . Energy-Efficient VLSI Exponential Function Combining a Fourth-Order Maclaurin Series and Horner's Method (Aceito para publicação). In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A Cross-Layer Single-Cycle Approximate Fixed-Point Square Root Unit",
+          "autores": "WACHHOLZ, S. ; SILVEIRA, L. ; ROSA, M. M. A. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. ; SOARES, R.",
+          "periodico": "In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "WACHHOLZ, S. ; SILVEIRA, L. ; ROSA, M. M. A. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. ; SOARES, R. . A Cross-Layer Single-Cycle Approximate Fixed-Point Square Root Unit. In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2025,
+          "titulo": "RASC: A Low-Power Reconfigurable 4-2 Adder-Subtractor-Compressor",
+          "autores": "SILVEIRA, L. ; WACHHOLZ, S. ; ANTONIETTI, L. ; ROSA, M. ; COSTA, E. ; ALMEIDA, S. J. M. ; SOARES, R.",
+          "periodico": "In: 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (aceito para publicação), 2025, Manaus. 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design, 2025. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, L. ; WACHHOLZ, S. ; ANTONIETTI, L. ; ROSA, M. ; COSTA, E. ; ALMEIDA, S. J. M. ; SOARES, R. . RASC: A Low-Power Reconfigurable 4-2 Adder-Subtractor-Compressor. In: 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (aceito para publicação), 2025, Manaus. 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design, 2025. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Uma Abordagem Multi-escala para Separação Espectral Esparsa e Estruturada em Imagens Hiperespectrais (Aceito para publicação))",
+          "autores": "AYRES, L. C. ; BORSOI, R. A. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS - SBrT 2023, 2023, SÃO JOSÉ DOS CAMPOS. SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS - SBrT 2023, 2023. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "AYRES, L. C. ; BORSOI, R. A. ; ; ALMEIDA, S. J. M. . Uma Abordagem Multi-escala para Separação Espectral Esparsa e Estruturada em Imagens Hiperespectrais (Aceito para publicação)). In: SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS - SBrT 2023, 2023, SÃO JOSÉ DOS CAMPOS. SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES E PROCESSAMENTO DE SINAIS - SBrT 2023, 2023. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A Multiplier-Less Level-3 Haar Wavelet Transform Approximation Requiring Five Additions Only",
+          "autores": "ROSA, M. M. A. ; PAIM, G. ; SEIDEL, H. ; ALMEIDA, S. J. M. ; ; BAMPI, S.",
+          "periodico": "In: 15th IEEE Dallas Circuits and Systems Conference, 2022, Dallas. 5th IEEE DCAS, 2022, 2022. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "ROSA, M. M. A. ; PAIM, G. ; SEIDEL, H. ; ALMEIDA, S. J. M. ; ; BAMPI, S. . A Multiplier-Less Level-3 Haar Wavelet Transform Approximation Requiring Five Additions Only. In: 15th IEEE Dallas Circuits and Systems Conference, 2022, Dallas. 5th IEEE DCAS, 2022, 2022. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Exploring Approximate Arithmetic for a Power-Efficient Kalman Gain VLSI Design",
+          "autores": "TAUA, P. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: IEEE International Conference on Electron Circuits & Systems - ICECS 2022, 2022, Glasgow. ICECS 2022, 2022. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "TAUA, P. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring Approximate Arithmetic for a Power-Efficient Kalman Gain VLSI Design. In: IEEE International Conference on Electron Circuits & Systems - ICECS 2022, 2022, Glasgow. ICECS 2022, 2022. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploring Approximate Adders for Power-Efficient Harmonics Elimination Hardware Architectures",
+          "autores": "TAUA, P. ; PAIM, G. ; FERREIRA, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: 12th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2021, 2021, Arequipa. 12th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2021, 2021. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "TAUA, P. ; PAIM, G. ; FERREIRA, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring Approximate Adders for Power-Efficient Harmonics Elimination Hardware Architectures. In: 12th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2021, 2021, Arequipa. 12th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2021, 2021. v. 1. p. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A HOMOGENEITY-BAED MULTISCALE HYPERSPECTRAL IMAGE REPRESENTATION FOR SPARSE SPECTRAL UNMIXING",
+          "autores": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A.",
+          "periodico": "In: IEEE International Conference on Acoustics, Speech and Signal Processing 2021, 2021, Toronto. IEEE International Conference on Acoustics, Speech and Signal Processing - ICASSP 2021, 2021. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A. . A HOMOGENEITY-BAED MULTISCALE HYPERSPECTRAL IMAGE REPRESENTATION FOR SPARSE SPECTRAL UNMIXING. In: IEEE International Conference on Acoustics, Speech and Signal Processing 2021, 2021, Toronto. IEEE International Conference on Acoustics, Speech and Signal Processing - ICASSP 2021, 2021. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Robust and Power-Efficient Power Line Interference Canceling VLSI Design",
+          "autores": "ROSA, M. M. A. ; COSTA, P. U. L. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; PAIM, G. ; BAMPI, S.",
+          "periodico": "In: 34th Symposium on Integrated Circuits and Systems Design (SBCCI), 2021, Campinas - Virtual. 34th Symposium on Integrated Circuits and Systems Design (SBCCI), 2021. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "ROSA, M. M. A. ; COSTA, P. U. L. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; PAIM, G. ; BAMPI, S. . A Robust and Power-Efficient Power Line Interference Canceling VLSI Design. In: 34th Symposium on Integrated Circuits and Systems Design (SBCCI), 2021, Campinas - Virtual. 34th Symposium on Integrated Circuits and Systems Design (SBCCI), 2021. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Energy-Efficient Haar Transform Architectures Using Efficient Addition Schemes",
+          "autores": "SEIDEL, H. ; ROSA, M. M. A. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: 11th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2020, 2020, San José. 11th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2020, 2020. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "SEIDEL, H. ; ROSA, M. M. A. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; . Energy-Efficient Haar Transform Architectures Using Efficient Addition Schemes. In: 11th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2020, 2020, San José. 11th IEEE LASCAS - Latin American Symposium on Circuits and Systems ? LASCAS 2020, 2020. v. 1. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Arquitetura de Hardware Baseada no Algoritmo NLMS para a Extração de Sinais FECG",
+          "autores": "COSTA, P. U. L. ; ALMEIDA, S. J. M. ; COSTA, E. A. C.",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianopolis. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais 2020, 2020. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "COSTA, P. U. L. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. . Arquitetura de Hardware Baseada no Algoritmo NLMS para a Extração de Sinais FECG. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianopolis. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais 2020, 2020. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Representação Aprimorada de Imagens Hiperespectrais em Múltiplas Escalas para a Separação Espectral Esparsa",
+          "autores": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A.",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais 2020, 2020. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "AYRES, L. C. ; ALMEIDA, S. J. M. ; ; BORSOI, R. A. . Representação Aprimorada de Imagens Hiperespectrais em Múltiplas Escalas para a Separação Espectral Esparsa. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais 2020, 2020. v. 1. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "An Efficient NLMS-Based VLSI Architecture for Robust FECG Extraction and FHR Processing",
+          "autores": "COSTA, P. U. L. ; PAIM, G. ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: 27th IEEE International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020, Glasgow. International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "COSTA, P. U. L. ; PAIM, G. ; ROCHA, L. M. G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . An Efficient NLMS-Based VLSI Architecture for Robust FECG Extraction and FHR Processing. In: 27th IEEE International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020, Glasgow. International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020. v. 1. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Exploring NLMS and IPNLMS Adaptive Filtering VLSI Hardware Architectures for Robust EEG Signal Artifacts Elimination",
+          "autores": "ROSA, A. L. ; COSTA, P. U. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: 27th IEEE International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020, Glasgow. International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "ROSA, A. L. ; COSTA, P. U. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring NLMS and IPNLMS Adaptive Filtering VLSI Hardware Architectures for Robust EEG Signal Artifacts Elimination. In: 27th IEEE International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020, Glasgow. International Conference on Electronics, Circuits & Systems - ICECS 2020, 2020. v. 1. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Non-Destructive Prediction of Pork Meat Degradation Using a Stacked Autoencoder Classifier on Hyperspectral Images",
+          "autores": "GALLO, B. B. ; ALMEIDA, S. J. M. ; ; CHEN, J. ; RICHARD, C.",
+          "periodico": "In: 27th European Signal Processing Conference (EUSIPCO), 2019, La Coruna - Espanha. 27th European Signal Processing Conference (EUSIPCO), 2019. v. 1.",
+          "doi": "",
+          "citacao_completa": "GALLO, B. B. ; ALMEIDA, S. J. M. ; ; CHEN, J. ; RICHARD, C. . Non-Destructive Prediction of Pork Meat Degradation Using a Stacked Autoencoder Classifier on Hyperspectral Images. In: 27th European Signal Processing Conference (EUSIPCO), 2019, La Coruna - Espanha. 27th European Signal Processing Conference (EUSIPCO), 2019. v. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploring Architectural Solutions for an Energy-Efficient Kalman Filter Gain Realization",
+          "autores": "TAUA, P. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: 26th IEEE International Conference on Electronics, Circuits and Systems - ICECS 2019, 2019, Genova. 26th IEEE International Conference on Electronics, Circuits and Systems, 2019. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "TAUA, P. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring Architectural Solutions for an Energy-Efficient Kalman Filter Gain Realization. In: 26th IEEE International Conference on Electronics, Circuits and Systems - ICECS 2019, 2019, Genova. 26th IEEE International Conference on Electronics, Circuits and Systems, 2019. v. 1. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Energy-Based Voice Activity Detection Algorithm using Gaussian and Cauchy Kernels",
+          "autores": "SOARES, A. S. P. ; PARREIRA, W. ; SOUZA, E. G. ; ALMEIDA, S. J. M. ; DINIZ, C. M. ; NASCIMENTO, C. D. ; STIGGER, M. F.",
+          "periodico": "In: LASCAS 2018., 2018, Mexico. LASCAS 2018., 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "SOARES, A. S. P. ; PARREIRA, W. ; SOUZA, E. G. ; ALMEIDA, S. J. M. ; DINIZ, C. M. ; NASCIMENTO, C. D. ; STIGGER, M. F. . Energy-Based Voice Activity Detection Algorithm using Gaussian and Cauchy Kernels. In: LASCAS 2018., 2018, Mexico. LASCAS 2018., 2018. v. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Power System Frequency Estimation Using the Kernel Least Mean Square Algorithm and the Clarke Transform",
+          "autores": "FERREIRA, M. R. ; ALMEIDA, S. J. M. ; COSTA, E. A. C.",
+          "periodico": "In: IEEE -The second New Generation of Circuits and Systems (NGCAS), 2018, Valleta. The second New Generation of Circuits and Systems (NGCAS) 2018, 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "FERREIRA, M. R. ; ALMEIDA, S. J. M. ; COSTA, E. A. C. . Power System Frequency Estimation Using the Kernel Least Mean Square Algorithm and the Clarke Transform. In: IEEE -The second New Generation of Circuits and Systems (NGCAS), 2018, Valleta. The second New Generation of Circuits and Systems (NGCAS) 2018, 2018. v. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Efeitos da Injeção de Gás HHO na Máquina Primária de um Grupo Gerador à Diesel",
+          "autores": "B.TRIANTAFILU, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Congresso Brasileiro de Geração Distribuição - CBGD 2018, 2018, Fortaleza. CBGD Congresso Brasileiro de Geração Distribuição 2018, 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "B.TRIANTAFILU, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. . Efeitos da Injeção de Gás HHO na Máquina Primária de um Grupo Gerador à Diesel. In: Congresso Brasileiro de Geração Distribuição - CBGD 2018, 2018, Fortaleza. CBGD Congresso Brasileiro de Geração Distribuição 2018, 2018. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A New Kernel Kalman Filter Algorithm for Estimating Time-Varying Nonlinear Systems",
+          "autores": "ROSINHA, J. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: 2017 IEEE International Symposium on Circuits & Systems - ISCAS 2017, 2017, Baltimore. International Symposium on Circuits & Systems - ISCAS 2017, 2017. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSINHA, J. ; ALMEIDA, S. J. M. ; . A New Kernel Kalman Filter Algorithm for Estimating Time-Varying Nonlinear Systems. In: 2017 IEEE International Symposium on Circuits & Systems - ISCAS 2017, 2017, Baltimore. International Symposium on Circuits & Systems - ISCAS 2017, 2017. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A New Approach for Electrooculogram Recognition Algorithms",
+          "autores": "ROSA, A. L. ; BORDIGNON, V. ; Carla Becker ; ALMEIDA, S. J. M.",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017, São Pedro - SP. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSA, A. L. ; BORDIGNON, V. ; Carla Becker ; ALMEIDA, S. J. M. . A New Approach for Electrooculogram Recognition Algorithms. In: Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017, São Pedro - SP. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação do desempenho de métodos de detecção da Resposta Auditiva de Estado Estável",
+          "autores": "OTT, G. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017, São Pedro - SP. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017. v. 1.",
+          "doi": "",
+          "citacao_completa": "OTT, G. ; ALMEIDA, S. J. M. ; . Avaliação do desempenho de métodos de detecção da Resposta Auditiva de Estado Estável. In: Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017, São Pedro - SP. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017), 2017. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Improved Goldschmidt Algorithm for Fast and Energy-Efficient Fixed-Point Divider",
+          "autores": "PAIM, G. ; MARQUES, P. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2017, Batumi. 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2017.",
+          "doi": "",
+          "citacao_completa": "PAIM, G. ; MARQUES, P. ; ; ALMEIDA, S. J. M. . Improved Goldschmidt Algorithm for Fast and Energy-Efficient Fixed-Point Divider. In: 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2017, Batumi. 24th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Exploiting Architectural Solutions for IIR Filter Architecture with Truncation Error Feedback",
+          "autores": "OTT, G. ; ; ALMEIDA, S. J. M. ; TAVARES, M. C. ; FONSECA, M. B.",
+          "periodico": "In: 7th IEEE Latin American Symposium on Circuits and Systems, 2016, Florianópolis. 7th IEEE Latin American Symposium on Circuits and Systems, 2016. v. 1.",
+          "doi": "",
+          "citacao_completa": "OTT, G. ; ; ALMEIDA, S. J. M. ; TAVARES, M. C. ; FONSECA, M. B. . Exploiting Architectural Solutions for IIR Filter Architecture with Truncation Error Feedback. In: 7th IEEE Latin American Symposium on Circuits and Systems, 2016, Florianópolis. 7th IEEE Latin American Symposium on Circuits and Systems, 2016. v. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Exploiting Adder Compressors for Power-Efficient 2-D Approximate DCT Realization",
+          "autores": "SCHIAVON, T. ; PAIM, G. ; FONSECA, M. B. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 7th IEEE Latin American Symposium on Circuits and Systems, 2016, Florianópolis. 7th IEEE Latin American Symposium on Circuits and Systems, 2016. v. 1.",
+          "doi": "",
+          "citacao_completa": "SCHIAVON, T. ; PAIM, G. ; FONSECA, M. B. ; ; ALMEIDA, S. J. M. . Exploiting Adder Compressors for Power-Efficient 2-D Approximate DCT Realization. In: 7th IEEE Latin American Symposium on Circuits and Systems, 2016, Florianópolis. 7th IEEE Latin American Symposium on Circuits and Systems, 2016. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Floating-Point Adaptive Filter Architectures for the Cancelling of Harmonics Power Line Interference",
+          "autores": "GUIDOTTI, V. ; ; ALMEIDA, S. J. M. ; FONSECA, M. B.",
+          "periodico": "In: 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015, Cairo. 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "GUIDOTTI, V. ; ; ALMEIDA, S. J. M. ; FONSECA, M. B. . Floating-Point Adaptive Filter Architectures for the Cancelling of Harmonics Power Line Interference. In: 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015, Cairo. 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Power Efﬁcient 2-D Rounded Cosine Transform with Adder Compressors for Image Compression",
+          "autores": "PAIM, G. ; FONSECA, M. B. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015, Cairo. 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "PAIM, G. ; FONSECA, M. B. ; ; ALMEIDA, S. J. M. . Power Efﬁcient 2-D Rounded Cosine Transform with Adder Compressors for Image Compression. In: 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015, Cairo. 2015 IEEE International Conference on Electronics, Circuits, and Systems, 2015. v. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Study and Development of Anunmanned Aerial Vehicle (UAV)",
+          "autores": "PONTES, T. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014, Alegrete/RS. 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "PONTES, T. ; ALMEIDA, S. J. M. ; . Study and Development of Anunmanned Aerial Vehicle (UAV). In: 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014, Alegrete/RS. 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Exploiting the Number of Coefficients and the Number of Bits forthe Efficient FPGA-Based FIR Filters Design",
+          "autores": "GIACOMELLI, T. ; PAIM, G. ; ; Carla Becker ; ALMEIDA, S. J. M.",
+          "periodico": "In: 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014, Alegrete/RS. 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "GIACOMELLI, T. ; PAIM, G. ; ; Carla Becker ; ALMEIDA, S. J. M. . Exploiting the Number of Coefficients and the Number of Bits forthe Efficient FPGA-Based FIR Filters Design. In: 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014, Alegrete/RS. 16th South Microeletronics School - EMICRO 2014 - 30th South Symposium on Microeletronics SIM 2014, 2014. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Fixed-Point Adaptive Filter Architecture for the Harmonics Power Line Interference Cancelling",
+          "autores": "Gustavo Seibel ; Fábio Itturriet ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 4th IEEE Latin American Symposium on Circuits and Systems - Lascas 2013, 2013, Cusco. 4th IEEE Latin American Symposium on Circuits and Systems - Lascas 2013, 2013. v. 1.",
+          "doi": "",
+          "citacao_completa": "Gustavo Seibel ; Fábio Itturriet ; ; ALMEIDA, S. J. M. . Fixed-Point Adaptive Filter Architecture for the Harmonics Power Line Interference Cancelling. In: 4th IEEE Latin American Symposium on Circuits and Systems - Lascas 2013, 2013, Cusco. 4th IEEE Latin American Symposium on Circuits and Systems - Lascas 2013, 2013. v. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Gray Encoded Fixed-Point LMS Adaptive Filter Architecture for the Harmonics Power Line Interference Cancelling )",
+          "autores": "; ALMEIDA, S. J. M. ;",
+          "periodico": "In: The 26th Symposium on Integrated Circuits and System Design - SBCCI 2013, 2013, Curitiba. The 26th Symposium on Integrated Circuits and System Design 2013, 2013. v. 1.",
+          "doi": "",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; . Gray Encoded Fixed-Point LMS Adaptive Filter Architecture for the Harmonics Power Line Interference Cancelling ). In: The 26th Symposium on Integrated Circuits and System Design - SBCCI 2013, 2013, Curitiba. The 26th Symposium on Integrated Circuits and System Design 2013, 2013. v. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Design of an Efficient FPGA-Based Interference Canceller Structure Using NLMS Adaptive Algorithm",
+          "autores": "; ALMEIDA, S. J. M.",
+          "periodico": "In: 2013 IEEE International Conference on Electronics, Circuits, and Systems, 2013, Abu Dhabi. 2013 IEEE International Conference on Electronics, Circuits, and Systems, 2013. v. 1.",
+          "doi": "",
+          "citacao_completa": "; ALMEIDA, S. J. M. . Design of an Efficient FPGA-Based Interference Canceller Structure Using NLMS Adaptive Algorithm. In: 2013 IEEE International Conference on Electronics, Circuits, and Systems, 2013, Abu Dhabi. 2013 IEEE International Conference on Electronics, Circuits, and Systems, 2013. v. 1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "FPGA Implementation of Neural Network for EEG Signal Processing",
+          "autores": "Thiago Pontes ; Rodrigo Braga ; Carla Becker ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das Missões-RS. SIM 2012, 2012. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "Thiago Pontes ; Rodrigo Braga ; Carla Becker ; ; ALMEIDA, S. J. M. . FPGA Implementation of Neural Network for EEG Signal Processing. In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das Missões-RS. SIM 2012, 2012. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Matrices Manipulation for the Implementation of a Hardwired Affine Projections Algorithm for Acoustic Echo Cancelling",
+          "autores": "Aminadabe Soares ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das Missões - RS. SIM 2012, 2012. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "Aminadabe Soares ; ALMEIDA, S. J. M. ; . Matrices Manipulation for the Implementation of a Hardwired Affine Projections Algorithm for Acoustic Echo Cancelling. In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das Missões - RS. SIM 2012, 2012. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2012,
+          "titulo": "2-Coefficient Fixed Point Hardwired Adaptive Filtering Based on LMS Algorithm",
+          "autores": "Maique Garcia ; Gustavo Seibel ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das MIssões - RS. SIM 2012, 2012. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "Maique Garcia ; Gustavo Seibel ; ; ALMEIDA, S. J. M. . 2-Coefficient Fixed Point Hardwired Adaptive Filtering Based on LMS Algorithm. In: South Symposium on Microelectronics - SIM 2012, 2012, São Miguel das MIssões - RS. SIM 2012, 2012. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2012,
+          "titulo": "New Insights Into the Weight Behaviour of the Affine Projection Algorithm",
+          "autores": "; ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: 20th European Signal Processing Conference - EUSIPCO, 2012, Bucharest. 20th European Signal Processing Conference, 2012. v. 1. p. 2610-2614.",
+          "doi": "",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; ; . New Insights Into the Weight Behaviour of the Affine Projection Algorithm. In: 20th European Signal Processing Conference - EUSIPCO, 2012, Bucharest. 20th European Signal Processing Conference, 2012. v. 1. p. 2610-2614."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Efeito da inicialização no comportamento dos coeficientes do algoritmo de projeções afins",
+          "autores": "; ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: XXX Simpósio Brasileiro de Telecomunicações - SBrT'12, 2012, Brasilia. XXX Simpósio Brasileiro de Telecomunicações - SBrT'12, 2012. v. 1.",
+          "doi": "",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; ; . Efeito da inicialização no comportamento dos coeficientes do algoritmo de projeções afins. In: XXX Simpósio Brasileiro de Telecomunicações - SBrT'12, 2012, Brasilia. XXX Simpósio Brasileiro de Telecomunicações - SBrT'12, 2012. v. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Composite Hypothesis Test for Active Weight Detection in Sparse System",
+          "autores": "ALMEIDA, S. J. M. ; ; Tourneret, J-Y",
+          "periodico": "In: International Workshop on Statistical Signal Processing 2011 - SSP 2011, 2011, Nice. IEEE International Workshop on Statistical Signal processing 2011, 2011. v. 1. p. 305-308.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; Tourneret, J-Y . A Composite Hypothesis Test for Active Weight Detection in Sparse System. In: International Workshop on Statistical Signal Processing 2011 - SSP 2011, 2011, Nice. IEEE International Workshop on Statistical Signal processing 2011, 2011. v. 1. p. 305-308."
+        },
+        {
+          "ano": 2011,
+          "titulo": "High Performance Haar Wavelet Transform Architecture",
+          "autores": "; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 20th European Conference on Circuit Theory and Design - ECCTD 2011, 2011, Linköping. 20th European Conference on Circuit Theory and Design, 2011. v. 1. p. 617-620.",
+          "doi": "",
+          "citacao_completa": "; ; ALMEIDA, S. J. M. . High Performance Haar Wavelet Transform Architecture. In: 20th European Conference on Circuit Theory and Design - ECCTD 2011, 2011, Linköping. 20th European Conference on Circuit Theory and Design, 2011. v. 1. p. 617-620."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A Stochastic Model For The Dedicient Order Affine Projection Algorithm",
+          "autores": "ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: ISSPA 2010 - 10th International Conference on Information Science, Signal Processing and their Aplications, 2010, Kuala Lumpur. 10th International Conference on Information Science, Signal Processing and their Aplications, 2010. v. 1. p. 554-557.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; . A Stochastic Model For The Dedicient Order Affine Projection Algorithm. In: ISSPA 2010 - 10th International Conference on Information Science, Signal Processing and their Aplications, 2010, Kuala Lumpur. 10th International Conference on Information Science, Signal Processing and their Aplications, 2010. v. 1. p. 554-557."
+        },
+        {
+          "ano": 2010,
+          "titulo": "'A theoretical model for the deficient order pseudo-affine",
+          "autores": "ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: 2010 European Signal Processing Conference (EUSIPCO-2010), 2010, Aalborg. European Signal Processing Conference (EUSIPCO-2010), 2010. v. 1. p. 1718-1722.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; . 'A theoretical model for the deficient order pseudo-affine. In: 2010 European Signal Processing Conference (EUSIPCO-2010), 2010, Aalborg. European Signal Processing Conference (EUSIPCO-2010), 2010. v. 1. p. 1718-1722."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Implementation of Adders Circuits Using Residue Number System - RNS",
+          "autores": "Alexsandro O. Schiavon ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: SIM-25th South Symposium on Microelectronics, 2010, Porto Alegre. SIM-25th South Symposium on Microelectronics, 2010. v. 1. p. 157-160.",
+          "doi": "",
+          "citacao_completa": "Alexsandro O. Schiavon ; ; ALMEIDA, S. J. M. . Implementation of Adders Circuits Using Residue Number System - RNS. In: SIM-25th South Symposium on Microelectronics, 2010, Porto Alegre. SIM-25th South Symposium on Microelectronics, 2010. v. 1. p. 157-160."
+        },
+        {
+          "ano": 2009,
+          "titulo": "FIR Filter Optimization by Using Efficient Array Multiplier and Coefficient Ordering",
+          "autores": "; ROSCHILD, J ; Pieper, L. Z. ; Porto, D ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: IBERCHIP XV Workshpo 2009, 2009, Buenos Aires. IBERCHIP XV Workshop, 2009. v. 1. p. 356-361.",
+          "doi": "",
+          "citacao_completa": "; ROSCHILD, J ; Pieper, L. Z. ; Porto, D ; ; ALMEIDA, S. J. M. . FIR Filter Optimization by Using Efficient Array Multiplier and Coefficient Ordering. In: IBERCHIP XV Workshpo 2009, 2009, Buenos Aires. IBERCHIP XV Workshop, 2009. v. 1. p. 356-361."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Paralle-Prefix Adders Applied to Adder Compressors",
+          "autores": "; ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: IBERCHIP XV Workshop, 2009, Buenos Aires. IBERCHIP XV Workshop, 2009. v. 1. p. 11-16.",
+          "doi": "",
+          "citacao_completa": "; ; ALMEIDA, S. J. M. ; . Paralle-Prefix Adders Applied to Adder Compressors. In: IBERCHIP XV Workshop, 2009, Buenos Aires. IBERCHIP XV Workshop, 2009. v. 1. p. 11-16."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Techniques for Optimization of Dedicated FIR Filter Architectures",
+          "autores": "; ROSCHILD, J ; Pieper, L. Z. ; Porto, D ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 24th South Symposium on Microelectronics - SIM 2009, 2009, Pelotas - RS. 24th South Symposium on Microelectronics - SIM 2009, 2009. v. 1. p. 67-70.",
+          "doi": "",
+          "citacao_completa": "; ROSCHILD, J ; Pieper, L. Z. ; Porto, D ; ; ALMEIDA, S. J. M. . Techniques for Optimization of Dedicated FIR Filter Architectures. In: 24th South Symposium on Microelectronics - SIM 2009, 2009, Pelotas - RS. 24th South Symposium on Microelectronics - SIM 2009, 2009. v. 1. p. 67-70."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Optimization of Adder Compressors Using Parallel-Prefix Adders",
+          "autores": "; ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: 24th South Symposium on Microelectronics - SIM 2009, 2009, Pelotas - RS. 24th South Symposium on Microelectronics - SIM 2009, 2009. v. 1. p. 63-66.",
+          "doi": "",
+          "citacao_completa": "; ; ALMEIDA, S. J. M. ; . Optimization of Adder Compressors Using Parallel-Prefix Adders. In: 24th South Symposium on Microelectronics - SIM 2009, 2009, Pelotas - RS. 24th South Symposium on Microelectronics - SIM 2009, 2009. v. 1. p. 63-66."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A Stochastic Model for the Deficient Length Pseudo Affine",
+          "autores": "ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: EUSIPCO 2009, 2009, Glasgow. EUSIPCO 2009, 2009. v. 1. p. 1715-1719.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; . A Stochastic Model for the Deficient Length Pseudo Affine. In: EUSIPCO 2009, 2009, Glasgow. EUSIPCO 2009, 2009. v. 1. p. 1715-1719."
+        },
+        {
+          "ano": 2009,
+          "titulo": "High Performance Motion Estimation Architecture Using Efficient Adder-Compressors",
+          "autores": "; Porto M. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: 22º Symposium on Integrated Circuits and Systems Design - SBCCI, 2009, Natal. 22º Symposium on Integrated Circuits and Systems Design - SBCCI, 2009. v. 1. p. 69-74.",
+          "doi": "",
+          "citacao_completa": "; Porto M. ; ; ALMEIDA, S. J. M. . High Performance Motion Estimation Architecture Using Efficient Adder-Compressors. In: 22º Symposium on Integrated Circuits and Systems Design - SBCCI, 2009, Natal. 22º Symposium on Integrated Circuits and Systems Design - SBCCI, 2009. v. 1. p. 69-74."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Architectural Exploration of Forward 4X4 Hadamard Transform Applied to H.264/AVC Video Compression Standard",
+          "autores": "André M. C. Silva ; ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: International Conference On Very Large Scale Integration - VLSI - SoC 2009, 2009, Florianópolis. International Conference On Very Large Scale Integration - VLSI - SoC 2009, 2009. v. 1. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "André M. C. Silva ; ; ALMEIDA, S. J. M. ; . Architectural Exploration of Forward 4X4 Hadamard Transform Applied to H.264/AVC Video Compression Standard. In: International Conference On Very Large Scale Integration - VLSI - SoC 2009, 2009, Florianópolis. International Conference On Very Large Scale Integration - VLSI - SoC 2009, 2009. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Efficient Dedicated Structures for the Radix -16 Multiplication",
+          "autores": "Pieper, L. Z. ; ALMEIDA, S. J. M. ; ; ; MONTEIRO, J. C.",
+          "periodico": "In: XIV Iberchip Workshop, 2008, Puebla. Ibership - XIV Workshop, 2008.",
+          "doi": "",
+          "citacao_completa": "Pieper, L. Z. ; ALMEIDA, S. J. M. ; ; ; MONTEIRO, J. C. . Efficient Dedicated Structures for the Radix -16 Multiplication. In: XIV Iberchip Workshop, 2008, Puebla. Ibership - XIV Workshop, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "New Dedicated Architectures for the Radix-16 Multiplication.",
+          "autores": "Pieper, L. Z. ; ; ALMEIDA, S. J. M. ; ; MONTEIRO, J. C.",
+          "periodico": "In: In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 105-108.",
+          "doi": "",
+          "citacao_completa": "Pieper, L. Z. ; ; ALMEIDA, S. J. M. ; ; MONTEIRO, J. C. . New Dedicated Architectures for the Radix-16 Multiplication.. In: In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 105-108."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Development of Low Power Architectures for H.264/AVC Vídeo Compression Standard.",
+          "autores": "; ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 69-112.",
+          "doi": "",
+          "citacao_completa": "; ; ALMEIDA, S. J. M. ; . Development of Low Power Architectures for H.264/AVC Vídeo Compression Standard.. In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 69-112."
+        },
+        {
+          "ano": 2008,
+          "titulo": "RAMAGT ? Radix-2m Array Multipliers Automatic Generation Tool.",
+          "autores": "Porto, D ; ROSCHILD, J ; Pieper, L. Z. ; ; ALMEIDA, S. J. M.",
+          "periodico": "In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 65-68.",
+          "doi": "",
+          "citacao_completa": "Porto, D ; ROSCHILD, J ; Pieper, L. Z. ; ; ALMEIDA, S. J. M. . RAMAGT ? Radix-2m Array Multipliers Automatic Generation Tool.. In: XXIII SIM ? South Symposimum on Microelectronics, 2008, Bento Gonçalves. XXIII SIM ? South Symposimum on Microelectronics, 2008. v. 1. p. 65-68."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Low Cost Coupled LMS Adaptive Algorithm with Affine Projection Performance for Autoregressive Inputs: Mean Weight Analysis",
+          "autores": "; ALMEIDA, S. J. M. ;",
+          "periodico": "In: 16th European Signal Processing Conference - EUSIPCO 2008, 2008, Lausanne. 16th European Signal Processing Conference - EUSIPCO 2008, 2008. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "; ALMEIDA, S. J. M. ; . A Low Cost Coupled LMS Adaptive Algorithm with Affine Projection Performance for Autoregressive Inputs: Mean Weight Analysis. In: 16th European Signal Processing Conference - EUSIPCO 2008, 2008, Lausanne. 16th European Signal Processing Conference - EUSIPCO 2008, 2008. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Efficient Dedicated Multiplication Blocks for 2´s Complement Radix-16 and Radix-256 Array Multipliers",
+          "autores": "Pieper, L. Z. ; ; ALMEIDA, S. J. M. ; ; MONTEIRO, J. C.",
+          "periodico": "In: International conference on Signals, Circuits & Systems (SCS?08), 2008, Hammamet. International conference on Signals, Circuits & Systems (SCS?08), 2008. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "Pieper, L. Z. ; ; ALMEIDA, S. J. M. ; ; MONTEIRO, J. C. . Efficient Dedicated Multiplication Blocks for 2´s Complement Radix-16 and Radix-256 Array Multipliers. In: International conference on Signals, Circuits & Systems (SCS?08), 2008, Hammamet. International conference on Signals, Circuits & Systems (SCS?08), 2008. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Statistical Analysis of the Deficient Length Affine Projection Adaptive Algorithm",
+          "autores": "ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: European Signal Processing Conference - EUSIPCO 2007, 2007, Poznan. Proceedings - Eurasip, 2007. v. 1. p. 380-384.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; . Statistical Analysis of the Deficient Length Affine Projection Adaptive Algorithm. In: European Signal Processing Conference - EUSIPCO 2007, 2007, Poznan. Proceedings - Eurasip, 2007. v. 1. p. 380-384."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Comportamento do Algoritmo de Projeções Afins com Filtragem de Ordem Insuficiente",
+          "autores": "ALMEIDA, S. J. M. ; ;",
+          "periodico": "In: XXV Simpósio Brasileiro de Telecomunicações - SBrT, 2007, Recife. Prodeedings, 2007. v. 1.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; . Comportamento do Algoritmo de Projeções Afins com Filtragem de Ordem Insuficiente. In: XXV Simpósio Brasileiro de Telecomunicações - SBrT, 2007, Recife. Prodeedings, 2007. v. 1."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Low Power Dedicated Datapaths for LMS Adaptive Filter",
+          "autores": "Douglas Foster, Nathália Ardizzone, Marcelo Fonseca ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: SFORUM 2006 - CHIP ON THE MOUNTAINS, 2006, Ouro Preto. SFORUM 2006, 2006.",
+          "doi": "",
+          "citacao_completa": "Douglas Foster, Nathália Ardizzone, Marcelo Fonseca ; ALMEIDA, S. J. M. ; . Low Power Dedicated Datapaths for LMS Adaptive Filter. In: SFORUM 2006 - CHIP ON THE MOUNTAINS, 2006, Ouro Preto. SFORUM 2006, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A Stochastic Model for the Affine Projection Algorithm Operating in A Nonstationary Environment",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J.",
+          "periodico": "In: International Conference on Acoustics, Speech, and Signal Processing - ICASSP-2004, 2004, Montreal. ICASSP, 2004.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. . A Stochastic Model for the Affine Projection Algorithm Operating in A Nonstationary Environment. In: International Conference on Acoustics, Speech, and Signal Processing - ICASSP-2004, 2004, Montreal. ICASSP, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "New Results on the Performance of the Affine Projection Algorithm",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J.",
+          "periodico": "In: XXI Simpósio Brasileiro de Telecomunicações, 2004, Belém. XXI Simpósio Brasileiro de Telecomunicações, 2004.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. . New Results on the Performance of the Affine Projection Algorithm. In: XXI Simpósio Brasileiro de Telecomunicações, 2004, Belém. XXI Simpósio Brasileiro de Telecomunicações, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A Stochastic Model for a Pseudo Affine Projection Algorithm Operating in a Nonstationary Environment",
+          "autores": "ALMEIDA, S. J. M. ; BERSHAD, N. J. ;",
+          "periodico": "In: Asilomar Conference on Signals, Systems, and Computers 2004, 2004, Monterey, CA. Asilomar Conference on Signals, Systems, and Computers, 2004. v. 1. p. 246-250.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; BERSHAD, N. J. ; . A Stochastic Model for a Pseudo Affine Projection Algorithm Operating in a Nonstationary Environment. In: Asilomar Conference on Signals, Systems, and Computers 2004, 2004, Monterey, CA. Asilomar Conference on Signals, Systems, and Computers, 2004. v. 1. p. 246-250."
+        },
+        {
+          "ano": 2003,
+          "titulo": "A Stochastic Model for the Convergence Behavior of the Affine Projection Algorithm for Gaussian Inputs",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. ;",
+          "periodico": "In: International Conference on Acoustics, Speech, and Signal Processing - ICASSP-2003, 2003, Hong Kong. ICASSP 2003, 2003. v. 1.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. ; . A Stochastic Model for the Convergence Behavior of the Affine Projection Algorithm for Gaussian Inputs. In: International Conference on Acoustics, Speech, and Signal Processing - ICASSP-2003, 2003, Hong Kong. ICASSP 2003, 2003. v. 1."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Statistical Analysis of a Pseudo Affine Projection Adaptive Algorithm",
+          "autores": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J.",
+          "periodico": "In: XX Simpósio Brasileiro de Telecomunicações, 2003, Rio de Janeiro. XX Simpósio Brasileiro de Telecomunicações, 2003. v. 1.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; BERSHAD, N. J. . Statistical Analysis of a Pseudo Affine Projection Adaptive Algorithm. In: XX Simpósio Brasileiro de Telecomunicações, 2003, Rio de Janeiro. XX Simpósio Brasileiro de Telecomunicações, 2003. v. 1."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A New Stochastic Analysis of Projection Algorithm for Gaussian Inputs and Large Number of Coefficients",
+          "autores": "ALMEIDA, S. J. M. ;",
+          "periodico": "In: International Telecommunications Symposium - ITS2002, 2002, Natal-RN. ITS2002, 2002. v. 1.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; . A New Stochastic Analysis of Projection Algorithm for Gaussian Inputs and Large Number of Coefficients. In: International Telecommunications Symposium - ITS2002, 2002, Natal-RN. ITS2002, 2002. v. 1."
+        },
+        {
+          "ano": 1990,
+          "titulo": "Supervisão e Controle de Sobrecarga em Transformadores de Potência Baseado em Microcontrolador",
+          "autores": "ALMEIDA, S. J. M. ; ; MORAIS, M. E. ; ;",
+          "periodico": "In: Congresso Brasileiro de Automática - CBA, 1990, Belém-PA. Congresso Brasileiro de Automática - CBA, 1990. v. 2. p. 722-727.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; MORAIS, M. E. ; ; . Supervisão e Controle de Sobrecarga em Transformadores de Potência Baseado em Microcontrolador. In: Congresso Brasileiro de Automática - CBA, 1990, Belém-PA. Congresso Brasileiro de Automática - CBA, 1990. v. 2. p. 722-727."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Exploring Adaptive Filter Implementation for Elimination of Power Line Artifacts in EEG Signals",
+          "autores": "ROSA, A. L. ; TAUA, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M.",
+          "periodico": "In: 8 th IEEE CASS Rio Grande do Sul Workshop, 2018, Porto Alegre. 8 th IEEE CASS Rio Grande do Sul Workshop, 2018. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSA, A. L. ; TAUA, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. . Exploring Adaptive Filter Implementation for Elimination of Power Line Artifacts in EEG Signals. In: 8 th IEEE CASS Rio Grande do Sul Workshop, 2018, Porto Alegre. 8 th IEEE CASS Rio Grande do Sul Workshop, 2018. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Um Algoritmo Baseado em Kernel para Detecção de Bordas em Imagens Multiespectrais",
+          "autores": "SCHULZ, L. ; ALMEIDA, S. J. M. ; PARREIRA, W.",
+          "periodico": "In: Salão Universitário - UCPel, 2017, Pelotas. Salão Universitário UCPel, 2017. v. 1.",
+          "doi": "",
+          "citacao_completa": "SCHULZ, L. ; ALMEIDA, S. J. M. ; PARREIRA, W. . Um Algoritmo Baseado em Kernel para Detecção de Bordas em Imagens Multiespectrais. In: Salão Universitário - UCPel, 2017, Pelotas. Salão Universitário UCPel, 2017. v. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Eliminação de Artefatos Oculares em Sinais de Eletroencefalograma",
+          "autores": "ROSA, A. L. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Salão Universitário - UCPel, 2017, Pelotas. Salão Universitário UCPel, 2017. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSA, A. L. ; ALMEIDA, S. J. M. . Eliminação de Artefatos Oculares em Sinais de Eletroencefalograma. In: Salão Universitário - UCPel, 2017, Pelotas. Salão Universitário UCPel, 2017. v. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Cancelamento de Eco Acústico utilizando o Filtro de Kalman em um Espaço de Hilbert definido por Kernels Reprodutivos",
+          "autores": "ROSINHA, J. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade Católica de Pelotas, 2016. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSINHA, J. ; ALMEIDA, S. J. M. ; . Cancelamento de Eco Acústico utilizando o Filtro de Kalman em um Espaço de Hilbert definido por Kernels Reprodutivos. In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade Católica de Pelotas, 2016. v. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Um algoritmo para Detecção de Bordas em Imagens no espaço RGB baseado na função 2 Kernel Gaussiano",
+          "autores": "SCHULZ, L. ; PARREIRA, W. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade Católica de Pelotas, 2016. v. 1.",
+          "doi": "",
+          "citacao_completa": "SCHULZ, L. ; PARREIRA, W. ; ALMEIDA, S. J. M. . Um algoritmo para Detecção de Bordas em Imagens no espaço RGB baseado na função 2 Kernel Gaussiano. In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade Católica de Pelotas, 2016. v. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "BRAIN COMPUTER INTERFACE (BCI) E TRANSTORNOS DE HUMOR: DESENVOLVIMENTO DE UMA FERRAMENTA PARA O DIAGNÓSTICO E MONITORAMENTO",
+          "autores": "Pieper, L. Z. ; OSES, J. P. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade católica de Pelotas, 2016. v. 1.",
+          "doi": "",
+          "citacao_completa": "Pieper, L. Z. ; OSES, J. P. ; ALMEIDA, S. J. M. ; . BRAIN COMPUTER INTERFACE (BCI) E TRANSTORNOS DE HUMOR: DESENVOLVIMENTO DE UMA FERRAMENTA PARA O DIAGNÓSTICO E MONITORAMENTO. In: Salão Universitário UCPel, 2016, Pelotas. Salão Universitário - Universidade católica de Pelotas, 2016. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Análise e Desenvolvimento de Técnicas para o Cancelamento de Eco Acústico Não Linear Baseadas em Filtros Adaptativos de Kalman",
+          "autores": "ROSINHA, J. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: SALÃO UNIVERSITÁRIO 2015 - UNIVERSIDADE CATÓLICA DE PELOTAS, 2015, Pelotas. Salão Universitário 2015, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "ROSINHA, J. ; ALMEIDA, S. J. M. ; . Análise e Desenvolvimento de Técnicas para o Cancelamento de Eco Acústico Não Linear Baseadas em Filtros Adaptativos de Kalman. In: SALÃO UNIVERSITÁRIO 2015 - UNIVERSIDADE CATÓLICA DE PELOTAS, 2015, Pelotas. Salão Universitário 2015, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Pré-processamento de Imagens Georreferenciadas",
+          "autores": "SCHULZ, L. ; ALMEIDA, S. J. M. ; PARREIRA, W.",
+          "periodico": "In: Salão Universitário 2015 - Universidade católica de pelotas, 2015, Pelotas. Salão Universitário 2015, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "SCHULZ, L. ; ALMEIDA, S. J. M. ; PARREIRA, W. . Pré-processamento de Imagens Georreferenciadas. In: Salão Universitário 2015 - Universidade católica de pelotas, 2015, Pelotas. Salão Universitário 2015, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Análise e Desenvolvimento de Técnicas de Detecção e Avaliação da Resposta Auditiva de Estado Estável",
+          "autores": "OTT, G. ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "OTT, G. ; ALMEIDA, S. J. M. ; . Análise e Desenvolvimento de Técnicas de Detecção e Avaliação da Resposta Auditiva de Estado Estável. In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Prevenção de Erros Médicos com Rfid e Código de Barras em Bombas de Infusão",
+          "autores": "COSTA, L. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "COSTA, L. ; ALMEIDA, S. J. M. . Prevenção de Erros Médicos com Rfid e Código de Barras em Bombas de Infusão. In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Projeto de arquitetura dedicada de um filtro adaptativo de ponto flutuante para o cancelamento de interferência de harmônicas da rede de energia",
+          "autores": "GUIDOTTI, V. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Salão Universitário 2015 - Universidade católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "GUIDOTTI, V. ; ALMEIDA, S. J. M. . Projeto de arquitetura dedicada de um filtro adaptativo de ponto flutuante para o cancelamento de interferência de harmônicas da rede de energia. In: Salão Universitário 2015 - Universidade católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Sistema de Monitoração Remoto da Rede de Gases Medicinais",
+          "autores": "SEDREZ, H. ; HESSLER, J. ; ALMEIDA, S. J. M.",
+          "periodico": "In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "SEDREZ, H. ; HESSLER, J. ; ALMEIDA, S. J. M. . Sistema de Monitoração Remoto da Rede de Gases Medicinais. In: Salão Universitário 2015 - Universidade Católica de Pelotas, 2015, Pelotas. Salão Universitário 2015 - UCPel, 2015. v. 1."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Arquiteturas Dedicadas de Filtro Adaptativo LMS de Baixa Potência",
+          "autores": "Douglas Foster, Nathália Ardizzone, Marcelo Fonseca ; ALMEIDA, S. J. M. ;",
+          "periodico": "In: XXI Congresso de Iniciação Científica e Tecnologia em Engenharia, 2006, Ijuí. CRICTE 2006, 2006.",
+          "doi": "",
+          "citacao_completa": "Douglas Foster, Nathália Ardizzone, Marcelo Fonseca ; ALMEIDA, S. J. M. ; . Arquiteturas Dedicadas de Filtro Adaptativo LMS de Baixa Potência. In: XXI Congresso de Iniciação Científica e Tecnologia em Engenharia, 2006, Ijuí. CRICTE 2006, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Stochastic Analysis of the Deficient Length and Insufficient Order Affine Projection Algorithm for Unity Step-Size",
+          "autores": "MARUO, MARCOS H. ; ALMEIDA, SÉRGIO J.M. ; BERMUDEZ, JOSÉ C.M.",
+          "periodico": "SIGNAL PROCESSING , 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.sigpro.2026.110802",
+          "citacao_completa": "MARUO, MARCOS H. ; ALMEIDA, SÉRGIO J.M. ; BERMUDEZ, JOSÉ C.M. . Stochastic Analysis of the Deficient Length and Insufficient Order Affine Projection Algorithm for Unity Step-Size. SIGNAL PROCESSING , 2026."
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Usina Termoelétrica Policombustível a Biomassa - UTEBIOS",
+          "autores": "ALMEIDA, S. J. M. ; ; Pieper, L. Z. ; Gilnei Ocácia ; Carla Lopes Diniz",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ; Pieper, L. Z. ; Gilnei Ocácia ; Carla Lopes Diniz . Usina Termoelétrica Policombustível a Biomassa - UTEBIOS. 2011."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Linear Kalman Smoothing with equality constraint",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Linear Kalman Smoothing with equality constraint. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A model-based variable step-size strategy for proximal multitask diffusion LMS algorithm",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . A model-based variable step-size strategy for proximal multitask diffusion LMS algorithm. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "ON THE STOCHASTIC MODELING OF THE NLMS ALGORITHM OPERATING WITH BILINEAR FORMS",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . ON THE STOCHASTIC MODELING OF THE NLMS ALGORITHM OPERATING WITH BILINEAR FORMS. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisão de periódico - Digital Signal Processing - DSP - Elsevier",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão de periódico - Digital Signal Processing - DSP - Elsevier. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Revisão Artigo - XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão Artigo - XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Journal of Sensors",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Journal of Sensors. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "IEEE Transaction Circuits and Systems - TCAS II Brief",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . IEEE Transaction Circuits and Systems - TCAS II Brief. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2020",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . 45th International Conference on Acoustics, Speech, and Signal Processing, ICASSP 2020. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisão de artigo científico (periódico) - International Journal of Adaptive Control and Signal Processing",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão de artigo científico (periódico) - International Journal of Adaptive Control and Signal Processing. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Revisão artigo científico (periódico) Journal Digital Signal Processing",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão artigo científico (periódico) Journal Digital Signal Processing. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Tradução de exercícios para a empresa Macnica DWH - Analog Devices",
+          "autores": "DINIZ, C. M. ; ; SOUZA, E. G. ; Pieper, L. Z. ; ALMEIDA, S. J. M. ; YAMIN, A.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "DINIZ, C. M. ; ; SOUZA, E. G. ; Pieper, L. Z. ; ALMEIDA, S. J. M. ; YAMIN, A. . Tradução de exercícios para a empresa Macnica DWH - Analog Devices. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Revisão de artigo científico - IEEE SBrT- 2017 Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão de artigo científico - IEEE SBrT- 2017 Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisão de artigo científico - IEEE SBrT- 2016 Simpósio Brasileiro de Telecomunicações e Processamento de Sinais",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisão de artigo científico - IEEE SBrT- 2016 Simpósio Brasileiro de Telecomunicações e Processamento de Sinais. 2016."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Desenvolvimento de um Sistema de Automação para Pesagem de Grãos",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "1996.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Desenvolvimento de um Sistema de Automação para Pesagem de Grãos. 1996."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 1999,
+          "titulo": "Curso de Aperfeiçoamento de Docentes de Ensino Médio",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "1999. .",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Curso de Aperfeiçoamento de Docentes de Ensino Médio. 1999. ."
+        }
+      ]
+    },
+    {
+      "name": "Demais trabalhos",
+      "citations": [
+        {
+          "ano": 2006,
+          "titulo": "Revisor - CBA-Congresso Brasileiro de Automação-Revisão de artigo",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2006 (Revisão de artigos científicos) .",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisor - CBA-Congresso Brasileiro de Automação-Revisão de artigo. 2006 (Revisão de artigos científicos) ."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Revisor - International Simposium on Circuits and Systems - ISCAS 2005 - Revisão de artigos",
+          "autores": "ALMEIDA, S. J. M.",
+          "periodico": "2004 (Revisão de artigos científicos) .",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, S. J. M. . Revisor - International Simposium on Circuits and Systems - ISCAS 2005 - Revisão de artigos. 2004 (Revisão de artigos científicos) ."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Exploração de Aritmética Aproximada nos Filtros Gaussiano e Gradiente para o Detector de Bordas Canny",
+          "membros": "ALMEIDA, S. J. M. ; MATTOS, J. C. B.",
+          "candidato": "Rafael Teles Cardoso",
+          "citacao_completa": "ALMEIDA, S. J. M. ; MATTOS, J. C. B.. Participação em banca de Rafael Teles Cardoso. Exploração de Aritmética Aproximada nos Filtros Gaussiano e Gradiente para o Detector de Bordas Canny. 2026. Dissertação (Mestrado em COMPUTAÇÃO) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Método de Automação Industrial para Controle Prescritivo e Detecção de Falhas com Z-Score Adaptativo",
+          "membros": "YAMIN, A. C.; ALMEIDA, S. J. M.",
+          "candidato": "TIAGO BRAGA RICKES",
+          "citacao_completa": "YAMIN, A. C.; ALMEIDA, S. J. M. . Participação em banca de TIAGO BRAGA RICKES. Método de Automação Industrial para Controle Prescritivo e Detecção de Falhas com Z-Score Adaptativo. 2025. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "iHorus: Um modelo para detecção de transtornos depressivos",
+          "membros": "SOUZA, L. D. M.; ALMEIDA, S. J. M.",
+          "candidato": "GABRIEL HARTER ZOPPO",
+          "citacao_completa": "SOUZA, L. D. M.; ALMEIDA, S. J. M. . Participação em banca de GABRIEL HARTER ZOPPO. iHorus: Um modelo para detecção de transtornos depressivos. 2024. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "iAthena: Um Modelo Para Acompanhamento de Pacientes com Sintomas de Transtorno Depressivo",
+          "membros": "SOUZA, L. D. M.; ALMEIDA, S. J. M.",
+          "candidato": "DANIEL GONÇALVES CAPUA",
+          "citacao_completa": "SOUZA, L. D. M.; ALMEIDA, S. J. M. . Participação em banca de DANIEL GONÇALVES CAPUA. iAthena: Um Modelo Para Acompanhamento de Pacientes com Sintomas de Transtorno Depressivo. 2024. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Framework SANEP-iSim: Ciência de Situação dos Reservatórios do SANEP Explorando o Ambiente Computacional da IoT",
+          "membros": "FERRUGEM, A. P.; ALMEIDA, S. J. M.",
+          "candidato": "GRACIELA BARBOSA VIANA",
+          "citacao_completa": "FERRUGEM, A. P.; ALMEIDA, S. J. M. . Participação em banca de GRACIELA BARBOSA VIANA. Framework SANEP-iSim: Ciência de Situação dos Reservatórios do SANEP Explorando o Ambiente Computacional da IoT. 2024. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Exploração de Somadores Aproximados na Transformada Discreta Wavelet Haar para Compressão e Reconstrução de Imagens",
+          "membros": "SOARES, R. I.; ALMEIDA, S. J. M.",
+          "candidato": "CARLOS EDUARDO REIS URBAN",
+          "citacao_completa": "SOARES, R. I.; ALMEIDA, S. J. M. . Participação em banca de CARLOS EDUARDO REIS URBAN. Exploração de Somadores Aproximados na Transformada Discreta Wavelet Haar para Compressão e Reconstrução de Imagens. 2024. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "An Ultra Low-Energy VLSI Approximate Discrete Haar Wavelet Transform for ECG Data Compression",
+          "membros": "ALMEIDA, S. J. M. ; ROSA JUNIOR, L.",
+          "candidato": "Arthur Cardozo Godinho",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ROSA JUNIOR, L.. Participação em banca de Arthur Cardozo Godinho. An Ultra Low-Energy VLSI Approximate Discrete Haar Wavelet Transform for ECG Data Compression. 2024. Dissertação (Mestrado em COMPUTAÇÃO) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Modelagem dos Efeitos da Restrição da Taxa de Comunicação Sobre Métodos de Redução de Ruído em Aparelhos Auditivos Biauriculares",
+          "membros": "ALMEIDA, S. J. M. ; BATISTA, E.; BISPO, B. C.",
+          "candidato": "Vitor Probst Curtarelli",
+          "citacao_completa": "ALMEIDA, S. J. M. ; BATISTA, E.; BISPO, B. C.. Participação em banca de Vitor Probst Curtarelli. Modelagem dos Efeitos da Restrição da Taxa de Comunicação Sobre Métodos de Redução de Ruído em Aparelhos Auditivos Biauriculares. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Abordagem iWater: uma Contribuição ao Monitoramento da Barragem Santa Bárbara no Cenário da IoT",
+          "membros": "ALMEIDA, S. J. M. ; DILLI, R. M.",
+          "candidato": "GERSON DANTAS ROCHA",
+          "citacao_completa": "ALMEIDA, S. J. M. ; DILLI, R. M.. Participação em banca de GERSON DANTAS ROCHA. Abordagem iWater: uma Contribuição ao Monitoramento da Barragem Santa Bárbara no Cenário da IoT. 2022. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SANEP-I2MF: Uma Abordagem na IoT Explorando Ciência de Situação Direcionada aos Artefatos de Distribuição de Água Potável do SANEP",
+          "membros": "ALMEIDA, S. J. M. ; BOIS, A. R.",
+          "candidato": "JULIANO MARIN LONDERO",
+          "citacao_completa": "ALMEIDA, S. J. M. ; BOIS, A. R.. Participação em banca de JULIANO MARIN LONDERO. SANEP-I2MF: Uma Abordagem na IoT Explorando Ciência de Situação Direcionada aos Artefatos de Distribuição de Água Potável do SANEP. 2021. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Arquitetura de Hardware Aproximada para o Filtro de Interpolação de Pixel Fracionário do Padrão de Codificação de Vídeo Versatile Video Coding",
+          "membros": "ALMEIDA, S. J. M. ; SOARES, L. B.",
+          "candidato": "GIOVANE GOMES SILVA",
+          "citacao_completa": "ALMEIDA, S. J. M. ; SOARES, L. B.. Participação em banca de GIOVANE GOMES SILVA. Arquitetura de Hardware Aproximada para o Filtro de Interpolação de Pixel Fracionário do Padrão de Codificação de Vídeo Versatile Video Coding. 2020. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Circuitos Multiplicadores Quadráticos na Base 2^m de Baixa Dissipação de Potência",
+          "membros": "ALMEIDA, S. J. M. ; MARTINS, J. B. S.; YAMIN, A. C.",
+          "candidato": "MORGANA MACEDO AZEVEDO DA ROSA",
+          "citacao_completa": "ALMEIDA, S. J. M. ; MARTINS, J. B. S.; YAMIN, A. C.. Participação em banca de MORGANA MACEDO AZEVEDO DA ROSA. Circuitos Multiplicadores Quadráticos na Base 2^m de Baixa Dissipação de Potência. 2020. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploração de Técnicas de Redução de Potência em Arquitetura de ardware da Transformada Discreta do Cosseno 2-D para o Padrão H.265/HEVC",
+          "membros": "ALMEIDA, S. J. M. ; MARTINS, J. B. S.",
+          "candidato": "Luis Frederico Tokumoto Sequeira",
+          "citacao_completa": "ALMEIDA, S. J. M. ; MARTINS, J. B. S.. Participação em banca de Luis Frederico Tokumoto Sequeira. Exploração de Técnicas de Redução de Potência em Arquitetura de ardware da Transformada Discreta do Cosseno 2-D para o Padrão H.265/HEVC. 2019. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Sistema de apoio à decisão na classificação de imagens histológicas em epitélio oral displásico ou não displásico",
+          "membros": "ALMEIDA, S. J. M. ; SILVA, D.; MARQUES, J. L. B.",
+          "candidato": "Karoline da Rocha",
+          "citacao_completa": "ALMEIDA, S. J. M. ; SILVA, D.; MARQUES, J. L. B.. Participação em banca de Karoline da Rocha. Sistema de apoio à decisão na classificação de imagens histológicas em epitélio oral displásico ou não displásico. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": "I2VSM: Uma Abordagem para Acompanhamento de Pacientes Explorando Ciência de Situação na IoT",
+          "membros": "FLEISCHMANN, A. M. P.; ALMEIDA, S. J. M.",
+          "candidato": "Rogério da Costa Albandes",
+          "citacao_completa": "FLEISCHMANN, A. M. P.; ALMEIDA, S. J. M. . Participação em banca de Rogério da Costa Albandes. I2VSM: Uma Abordagem para Acompanhamento de Pacientes Explorando Ciência de Situação na IoT. 2019. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Implementação do Protocolo de Comunicação DTN Aplicado para Cidades Inteligentes",
+          "membros": "ALMEIDA, S. J. M. ; MEDINA, R. D.",
+          "candidato": "Matheus Ronssani de Figueiredo",
+          "citacao_completa": "ALMEIDA, S. J. M. ; MEDINA, R. D.. Participação em banca de Matheus Ronssani de Figueiredo. Implementação do Protocolo de Comunicação DTN Aplicado para Cidades Inteligentes. 2018. Dissertação (Mestrado em Pós - Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise de Desempenho de Algoritmos de Roteamento de Nodos em Uma Rede de Sensores Sem Fio Aplicada a Cidades Inteligentes",
+          "membros": "ALMEIDA, S. J. M. ; RUTZIG, M. B.",
+          "candidato": "Rafael Ogayar Gomes",
+          "citacao_completa": "ALMEIDA, S. J. M. ; RUTZIG, M. B.. Participação em banca de Rafael Ogayar Gomes. Análise de Desempenho de Algoritmos de Roteamento de Nodos em Uma Rede de Sensores Sem Fio Aplicada a Cidades Inteligentes. 2018. Dissertação (Mestrado em Pós - Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo de técnicas de realce em imagens mamográficas com implante de silicone para identificação de microcalcificação",
+          "membros": "ALMEIDA, S. J. M. ; AGUIAR, M. S.",
+          "candidato": "Rafaela Monteiro Soares",
+          "citacao_completa": "ALMEIDA, S. J. M. ; AGUIAR, M. S.. Participação em banca de Rafaela Monteiro Soares. Estudo de técnicas de realce em imagens mamográficas com implante de silicone para identificação de microcalcificação. 2018. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "EXEHDA-DT: Uma Abordagem Dataflow para Ciência de Contexto na Industria Internet of Things",
+          "membros": "ALMEIDA, S. J. M. ; LADISLAU, J.",
+          "candidato": "Verônica Maurer Tabim",
+          "citacao_completa": "ALMEIDA, S. J. M. ; LADISLAU, J.. Participação em banca de Verônica Maurer Tabim. EXEHDA-DT: Uma Abordagem Dataflow para Ciência de Contexto na Industria Internet of Things. 2018. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Arquiteturas de Hardware de Baixa Potência para Codificação de Vídeo usando Operadores Aritméticos de Codificação Híbrida",
+          "membros": "; ZATT, B.",
+          "candidato": "Rafael dos Santos Ferreira",
+          "citacao_completa": "; ZATT, B.. Participação em banca de Rafael dos Santos Ferreira. Arquiteturas de Hardware de Baixa Potência para Codificação de Vídeo usando Operadores Aritméticos de Codificação Híbrida. 2017. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação da atividade cerebral na depressão, cognição e funcionalidade em pacientes com doença de Parkinson",
+          "membros": "; GHISLENI, G. C.",
+          "candidato": "Alice Vargas Pogorzelski",
+          "citacao_completa": "; GHISLENI, G. C.. Participação em banca de Alice Vargas Pogorzelski. Avaliação da atividade cerebral na depressão, cognição e funcionalidade em pacientes com doença de Parkinson. 2017. Dissertação (Mestrado em Saúde e Comportamento) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Aplicação de Circuitos Somadores Aproximados em Filtros de Processamento de Imagens",
+          "membros": "; ; FRANCO, D. T.",
+          "candidato": "Júlio Francisco Rocha de Oliveira",
+          "citacao_completa": "; ; FRANCO, D. T.. Participação em banca de Júlio Francisco Rocha de Oliveira. Aplicação de Circuitos Somadores Aproximados em Filtros de Processamento de Imagens. 2016. Dissertação (Mestrado em Engenharia e Computação - PGEEC) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Otimização do Método de Localização de Monte Carlo para Redes de Sensores Sem Fio Móveis",
+          "membros": "MEDINA, R. D.; ; MARTINS, J. B. S.",
+          "candidato": "João Otávio Cadó de Matos",
+          "citacao_completa": "MEDINA, R. D.; ; MARTINS, J. B. S.. Participação em banca de João Otávio Cadó de Matos. Otimização do Método de Localização de Monte Carlo para Redes de Sensores Sem Fio Móveis. 2016. Dissertação (Mestrado em Pós - Graduação em Ciência da Computação) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Análise do Risco e da Confiabilidade em Sistemas Complexos e Reparáveis",
+          "membros": "; ESMERALDO, J.; PARREIRA, W.",
+          "candidato": "Jorge Roberto Correa Bacelo",
+          "citacao_completa": "; ESMERALDO, J.; PARREIRA, W.. Participação em banca de Jorge Roberto Correa Bacelo. Análise do Risco e da Confiabilidade em Sistemas Complexos e Reparáveis. 2016. Dissertação (Mestrado em Engenharia e Computação - PGEEC) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Otimização de estruturas de borboletas para arquitetura de transformada rápida de Fourier de baixa dissipação de potência",
+          "membros": "; MARTINS, J. B. S.",
+          "candidato": "Renato Hartwing Neuenfeld",
+          "citacao_completa": "; MARTINS, J. B. S.. Participação em banca de Renato Hartwing Neuenfeld. Otimização de estruturas de borboletas para arquitetura de transformada rápida de Fourier de baixa dissipação de potência. 2016. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Exploração arquitetural nas métricas de similaridade para codificadores de vídeo do padrão HEVC",
+          "membros": "; ROSA, V.",
+          "candidato": "Bianca Santos da Cunha da Silveira",
+          "citacao_completa": "; ROSA, V.. Participação em banca de Bianca Santos da Cunha da Silveira. Exploração arquitetural nas métricas de similaridade para codificadores de vídeo do padrão HEVC. 2016. Dissertação (Mestrado em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Um novo modelo de comportamento estocástico para o algoritmo de projeções afins",
+          "membros": "; ; RESENDE, L. S.; ROCHA, C. A. F.",
+          "candidato": "Juan Lieber Marin",
+          "citacao_completa": "; ; RESENDE, L. S.; ROCHA, C. A. F.. Participação em banca de Juan Lieber Marin. Um novo modelo de comportamento estocástico para o algoritmo de projeções afins. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2013,
+          "titulo": "O efeito de inicialização no pseudo algoritmo de projeções afins: estudo e análise estocástica",
+          "membros": "; ; GUIMARAES, C.; BATISTA, E. L. O.",
+          "candidato": "Rodrigo Borges Barcelos",
+          "citacao_completa": "; ; GUIMARAES, C.; BATISTA, E. L. O.. Participação em banca de Rodrigo Borges Barcelos. O efeito de inicialização no pseudo algoritmo de projeções afins: estudo e análise estocástica. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Proposta de um método híbrido de detecção de defeitos em redes de sensores móveis utilizando algoritmos de localização",
+          "membros": "NUNES, R. C.; OLIVERIRA, L. L.;",
+          "candidato": "Leonardo Guedes da Luz Martins",
+          "citacao_completa": "NUNES, R. C.; OLIVERIRA, L. L.; . Participação em banca de Leonardo Guedes da Luz Martins. Proposta de um método híbrido de detecção de defeitos em redes de sensores móveis utilizando algoritmos de localização. 2012. Dissertação (Mestrado em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Heurísticas para Ordenação e Partiocionamento de Coeficientes em Arquiteturas de Filtros FIR",
+          "membros": "; Felipe Martins Muller;",
+          "candidato": "Ângelo Gonçalves da Luz",
+          "citacao_completa": "; Felipe Martins Muller; . Participação em banca de Ângelo Gonçalves da Luz. Heurísticas para Ordenação e Partiocionamento de Coeficientes em Arquiteturas de Filtros FIR. 2011. Dissertação (Mestrado em Informática) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Exploração de Operadores Aritméticos na Transformada Rápida de Fourrier",
+          "membros": "",
+          "candidato": "Mateus Beck Fonseca",
+          "citacao_completa": ". Participação em banca de Mateus Beck Fonseca. Exploração de Operadores Aritméticos na Transformada Rápida de Fourrier. 2010. Dissertação (Mestrado em Informática) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Aplicações do Modelo qGM na Interpretação de Algoritmos Quânticos",
+          "membros": "",
+          "candidato": "Rafael Burlamaqui Amaral",
+          "citacao_completa": ". Participação em banca de Rafael Burlamaqui Amaral. Aplicações do Modelo qGM na Interpretação de Algoritmos Quânticos. 2009. Dissertação (Mestrado em Informática) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Construção de Planos BDI a partir de Políticas Ótimas de POMPs, com Aplicação na Regulação de Trocas Sociais em Sistemas Multiagentes",
+          "membros": "",
+          "candidato": "Diego Rodrigues Pereira",
+          "citacao_completa": ". Participação em banca de Diego Rodrigues Pereira. Construção de Planos BDI a partir de Políticas Ótimas de POMPs, com Aplicação na Regulação de Trocas Sociais em Sistemas Multiagentes. 2008. Dissertação (Mestrado em Informática) - Universidade Católica de Pelotas."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "UMA NOVA METODOLOGIA DE APRENDIZADO DE MÁQUINA PARA DETECÇÃO DE DISPLASIA EPITELIAL EM LESÕES DE LEUCOPLASIA ORAL",
+          "membros": "ALMEIDA, SERGIO J. M. ; SILVA, D.; MARQUES, J. L. B.; NASCIMENTO, M. Z.",
+          "candidato": "Karoline da Rocha",
+          "citacao_completa": "ALMEIDA, SERGIO J. M. ; SILVA, D.; MARQUES, J. L. B.; NASCIMENTO, M. Z.. Participação em banca de Karoline da Rocha. UMA NOVA METODOLOGIA DE APRENDIZADO DE MÁQUINA PARA DETECÇÃO DE DISPLASIA EPITELIAL EM LESÕES DE LEUCOPLASIA ORAL. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Abordagem IoT PD-RPM: Promovendo Aderência à Diálise Peritoneal Considerando o Cenário da Internet das Coisas",
+          "membros": "GEYER, C. F. R.; SOARES, R.; ALMEIDA, S. J. M.",
+          "candidato": "ROGERIO DA COSTA ALBANDES",
+          "citacao_completa": "GEYER, C. F. R.; SOARES, R.; ALMEIDA, S. J. M. . Participação em banca de ROGERIO DA COSTA ALBANDES. Abordagem IoT PD-RPM: Promovendo Aderência à Diálise Peritoneal Considerando o Cenário da Internet das Coisas. 2024. Tese (Doutorado em COMPUTAÇÃO) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Exploring Approximate Arithmetic Computing in Hardware Security Applications",
+          "membros": "YAMIN, A. C.; MARTINS, J. B. S.; ALMEIDA, S. J. M.",
+          "candidato": "Morgana Macedo Azêvedo da Rosa",
+          "citacao_completa": "YAMIN, A. C.; MARTINS, J. B. S.; ALMEIDA, S. J. M. . Participação em banca de Morgana Macedo Azêvedo da Rosa. Exploring Approximate Arithmetic Computing in Hardware Security Applications. 2024. Tese (Doutorado em COMPUTAÇÃO) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Binaural Multichannel Wiener Filter Methods for Noise Reduction and Preservation of Binaural Sound Impression",
+          "membros": "Nascimento, V. H.; BISPO, B. C.; ALMEIDA, S. J. M.",
+          "candidato": "Diego Marques do Carmo",
+          "citacao_completa": "Nascimento, V. H.; BISPO, B. C.; ALMEIDA, S. J. M. . Participação em banca de Diego Marques do Carmo. Binaural Multichannel Wiener Filter Methods for Noise Reduction and Preservation of Binaural Sound Impression. 2023. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Técnicas de Dereverberação da Fala e Redução de Ruído com Preservação Espacial para Aparelhos Auditivos Biauriculares",
+          "membros": "ALMEIDA, S. J. M. ; MORAES, R.; MASIERO, B. S.; BISPO, B. C.",
+          "candidato": "Johnny Werner",
+          "citacao_completa": "ALMEIDA, S. J. M. ; MORAES, R.; MASIERO, B. S.; BISPO, B. C.. Participação em banca de Johnny Werner. Técnicas de Dereverberação da Fala e Redução de Ruído com Preservação Espacial para Aparelhos Auditivos Biauriculares. 2021. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Classificação de Transtornos Bipolar e Esquisofrenia Utilizando Redes Neurais Artificiais",
+          "membros": "ALMEIDA, S. J. M. ; WIENER, C. D.; MOREIRA, F. P.",
+          "candidato": "Mateus Beck Fonseca",
+          "citacao_completa": "ALMEIDA, S. J. M. ; WIENER, C. D.; MOREIRA, F. P.. Participação em banca de Mateus Beck Fonseca. Classificação de Transtornos Bipolar e Esquisofrenia Utilizando Redes Neurais Artificiais. 2019. Tese (Doutorado em SAÚDE E COMPORTAMENTO) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Análise Estatística de Filtros Adaptativos Aplicados ao Cancelamento de retroalimentação Acústica em Aparelhos Auditivos",
+          "membros": "; ; ; Nascimento, V. H.; Mayer, J.",
+          "candidato": "Yasmín Romina Montenegro Maluenda",
+          "citacao_completa": "; ; ; Nascimento, V. H.; Mayer, J.. Participação em banca de Yasmín Romina Montenegro Maluenda. Análise Estatística de Filtros Adaptativos Aplicados ao Cancelamento de retroalimentação Acústica em Aparelhos Auditivos. 2009. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "METODOLOGIA DE CLASSIFICAÇÃO DE LEUCOPLASIA ORAL EM EPITÉLIO DISPLÁSICO OU NÃO DISPLÁSICO",
+          "membros": "NASCIMENTO, M. Z.; MARQUES, J. L. B.; SILVA, D.; ALMEIDA, S. J. M.",
+          "candidato": "Karoline da Rocha",
+          "citacao_completa": "NASCIMENTO, M. Z.; MARQUES, J. L. B.; SILVA, D.; ALMEIDA, S. J. M. . Participação em banca de Karoline da Rocha. METODOLOGIA DE CLASSIFICAÇÃO DE LEUCOPLASIA ORAL EM EPITÉLIO DISPLÁSICO OU NÃO DISPLÁSICO. 2023. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Abordagem IoT PD-RPM: Promovendo a Aderência do Paciente à Diálise Peritoneal Explorando Ciência de Situação no Cenário da Internet das Coisas",
+          "membros": "FLEISCHMANN, A. M. P.; GEYER, C. F. R.; ALMEIDA, S. J. M.",
+          "candidato": "ROGERIO DA COSTA ALBANDES",
+          "citacao_completa": "FLEISCHMANN, A. M. P.; GEYER, C. F. R.; ALMEIDA, S. J. M. . Participação em banca de ROGERIO DA COSTA ALBANDES. Abordagem IoT PD-RPM: Promovendo a Aderência do Paciente à Diálise Peritoneal Explorando Ciência de Situação no Cenário da Internet das Coisas. 2023. Exame de qualificação (Doutorando em Ciência da Compuatação) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Discrepância de Sinais em Grafos",
+          "membros": "LIMA, J. B.; MARTINS, W. A.; ALMEIDA, S. J. M.",
+          "candidato": "Celso Henrique Herédias Ribas",
+          "citacao_completa": "LIMA, J. B.; MARTINS, W. A.; ALMEIDA, S. J. M. . Participação em banca de Celso Henrique Herédias Ribas. Discrepância de Sinais em Grafos. 2021. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Análise Estatística de Filtros Adaptativos Aplicados ao cancelamento de Retroalimentação Acústica em Aparelhos Auditivos",
+          "membros": "",
+          "candidato": "Yasmín Romina Montenegro Maluenda",
+          "citacao_completa": ". Participação em banca de Yasmín Romina Montenegro Maluenda. Análise Estatística de Filtros Adaptativos Aplicados ao cancelamento de Retroalimentação Acústica em Aparelhos Auditivos. 2007. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Sistema embarcado para manutenção preditiva utilizando técnicas estatísticas adaptativas e integração com supervisório industrial",
+          "membros": "ALMEIDA, SÉRGIO J.M. ; YAMIN, A. C.",
+          "candidato": "TIAGO BRAGA RICKES",
+          "citacao_completa": "ALMEIDA, SÉRGIO J.M. ; YAMIN, A. C.. Participação em banca de TIAGO BRAGA RICKES. Sistema embarcado para manutenção preditiva utilizando técnicas estatísticas adaptativas e integração com supervisório industrial. 2025. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Abordagem iSim: Ciência de Situação dos Reservatórios do SANEP no Ambiente Computacional da IoT Explorando Tendências em Contextos",
+          "membros": "FERRUGEM, A.; ALMEIDA, S. J. M.",
+          "candidato": "GRACIELA BARBOSA VIANA",
+          "citacao_completa": "FERRUGEM, A.; ALMEIDA, S. J. M. . Participação em banca de GRACIELA BARBOSA VIANA. Abordagem iSim: Ciência de Situação dos Reservatórios do SANEP no Ambiente Computacional da IoT Explorando Tendências em Contextos. 2023."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Simulação da proteção direcional frente a efeitos de transitório em sistemas elétricos de potência",
+          "membros": "ALMEIDA, S. J. M. ; DINIZ, C. M.",
+          "candidato": "Fernando Ferreira Lucas",
+          "citacao_completa": "ALMEIDA, S. J. M. ; DINIZ, C. M.. Participação em banca de Fernando Ferreira Lucas. Simulação da proteção direcional frente a efeitos de transitório em sistemas elétricos de potência. 2019. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2019,
+          "titulo": "I2VSM: Uma abordagem para acompanhamento de pacientes explorando ciência de situação na IoT",
+          "membros": "ALMEIDA, S. J. M. ; FLEISCHMANN, A. M. P.",
+          "candidato": "Rogério da Costa Albandes",
+          "citacao_completa": "ALMEIDA, S. J. M. ; FLEISCHMANN, A. M. P.. Participação em banca de Rogério da Costa Albandes. I2VSM: Uma abordagem para acompanhamento de pacientes explorando ciência de situação na IoT. 2019. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo da Influência de Silicone em Imagens Mamográficas Utilizando Técnicas de Processamento de Imagem",
+          "membros": "ALMEIDA, S. J. M. ; DINIZ, C. M.",
+          "candidato": "Rafaela Monteiro Soares",
+          "citacao_completa": "ALMEIDA, S. J. M. ; DINIZ, C. M.. Participação em banca de Rafaela Monteiro Soares. Estudo da Influência de Silicone em Imagens Mamográficas Utilizando Técnicas de Processamento de Imagem. 2018. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Exploração de Algoritmo CORDIC para Arquitetura de Transformada Rápida de Fourier de Baixa Dissipação de Potência",
+          "membros": "ALMEIDA, S. J. M. ; SOUZA, E. G.",
+          "candidato": "André Neves Sapper",
+          "citacao_completa": "ALMEIDA, S. J. M. ; SOUZA, E. G.. Participação em banca de André Neves Sapper. Exploração de Algoritmo CORDIC para Arquitetura de Transformada Rápida de Fourier de Baixa Dissipação de Potência. 2018. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "EXEHDA-DT: Uma Abordagem Dataflow para Ciência de Contexto na Industria Internet of Things",
+          "membros": "ALMEIDA, S. J. M. ; SILVA, M. G.",
+          "candidato": "Verônica Maurer Tabim",
+          "citacao_completa": "ALMEIDA, S. J. M. ; SILVA, M. G.. Participação em banca de Verônica Maurer Tabim. EXEHDA-DT: Uma Abordagem Dataflow para Ciência de Contexto na Industria Internet of Things. 2018. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Implementação de transformadas eficientes para novos padrões de codificação de vídeo",
+          "membros": "; DINIZ, C. M.",
+          "candidato": "Luis Frederico Tokumoto Sequeira",
+          "citacao_completa": "; DINIZ, C. M.. Participação em banca de Luis Frederico Tokumoto Sequeira. Implementação de transformadas eficientes para novos padrões de codificação de vídeo. 2017. Exame de qualificação (Mestrando em Engenharia Eletrônica e Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Avaliação da atividade cerebral na depressão, cognição e funcionalidade em pacientes com a doença de Parkinson",
+          "membros": "GHISLENI, G. C.;",
+          "candidato": "Alice de Vargas Pogorzelski",
+          "citacao_completa": "GHISLENI, G. C.; . Participação em banca de Alice de Vargas Pogorzelski. Avaliação da atividade cerebral na depressão, cognição e funcionalidade em pacientes com a doença de Parkinson. 2016. Exame de qualificação (Mestrando em Saúde e Comportamento) - Universidade Católica de Pelotas."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".Implementação de Controle PID para Regulação de Temperatura em um Tambor Secador de uma Usina de CBUQ",
+          "membros": "ALMEIDA, S. J. M. ; OLIVEIRA, L. S.",
+          "candidato": "Juliano Pinto Vargas",
+          "citacao_completa": "ALMEIDA, S. J. M. ; OLIVEIRA, L. S.. Participação em banca de Juliano Pinto Vargas.Implementação de Controle PID para Regulação de Temperatura em um Tambor Secador de uma Usina de CBUQ. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Melhoria nos indicadores de continuidade do serviço de um circuito de baixa tensão na cidade de Pelotas",
+          "membros": "ALMEIDA, S. J. M. ; RAPOSO, C. E. F.",
+          "candidato": "Heitor Cavada dos Santos",
+          "citacao_completa": "ALMEIDA, S. J. M. ; RAPOSO, C. E. F.. Participação em banca de Heitor Cavada dos Santos.Melhoria nos indicadores de continuidade do serviço de um circuito de baixa tensão na cidade de Pelotas. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".ESTUDO DE VIABILIDADE PARA USO DE CAMINHÕES ELÉTRICOS NA ÁREA PORTUÁRIA",
+          "membros": "ALMEIDA, S. J. M. ; COSTA, E. A. C.",
+          "candidato": "DEJAIR OSMAR SILVA DA SILVEIRA",
+          "citacao_completa": "ALMEIDA, S. J. M. ; COSTA, E. A. C.. Participação em banca de DEJAIR OSMAR SILVA DA SILVEIRA.ESTUDO DE VIABILIDADE PARA USO DE CAMINHÕES ELÉTRICOS NA ÁREA PORTUÁRIA. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".IGUARD: UM SISTEMA SUPERVISÓRIO PARA O SANEP-I 2 MF",
+          "membros": "ALMEIDA, S. J. M. ; ECHEVARRIA, M.",
+          "candidato": "MATHEUS KERN PROTZEN",
+          "citacao_completa": "ALMEIDA, S. J. M. ; ECHEVARRIA, M.. Participação em banca de MATHEUS KERN PROTZEN.IGUARD: UM SISTEMA SUPERVISÓRIO PARA O SANEP-I 2 MF. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Motor de indução trifásico acionado por inversor aplicando controle escalar",
+          "membros": "",
+          "candidato": "Pedro Tauã Lopes Pereira",
+          "citacao_completa": ". Participação em banca de Pedro Tauã Lopes Pereira.Motor de indução trifásico acionado por inversor aplicando controle escalar. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudo de viabilidade na implantação de rede de distribuição de energia abaixo nível do solo para empreendimentos habitacionais",
+          "membros": "",
+          "candidato": "Fernando Morales Tavares",
+          "citacao_completa": ". Participação em banca de Fernando Morales Tavares.Estudo de viabilidade na implantação de rede de distribuição de energia abaixo nível do solo para empreendimentos habitacionais. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudos e parametrização de relé de proteção geral em média tensão com uso de software em linguagem C",
+          "membros": "",
+          "candidato": "Priscila Furtado Pinheiro",
+          "citacao_completa": ". Participação em banca de Priscila Furtado Pinheiro.Estudos e parametrização de relé de proteção geral em média tensão com uso de software em linguagem C. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Implementação de um controlador automático de fator de potência",
+          "membros": "",
+          "candidato": "Jovelino de Vasconcelos Moreira",
+          "citacao_completa": ". Participação em banca de Jovelino de Vasconcelos Moreira.Implementação de um controlador automático de fator de potência. 2013 - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Integração entre mundos virtuais e real: Uma proposta automatizada de reconhecimento e localização de pessoas",
+          "membros": "",
+          "candidato": "Luis Augusto Anderson e Victor Gonçalves da Silva Antoniazzi",
+          "citacao_completa": ". Participação em banca de Luis Augusto Anderson e Victor Gonçalves da Silva Antoniazzi.Integração entre mundos virtuais e real: Uma proposta automatizada de reconhecimento e localização de pessoas. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Heliodon - Simulador de movimento aparente do Sol",
+          "membros": "",
+          "candidato": "Cristiano de Moura Borges",
+          "citacao_completa": ". Participação em banca de Cristiano de Moura Borges.Heliodon - Simulador de movimento aparente do Sol. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Projeto e Implementação de Compensador para Controle de Turbocompressor de Geometria Variável com Acesso por Barramento CAN",
+          "membros": "",
+          "candidato": "Werner Einhardt",
+          "citacao_completa": ". Participação em banca de Werner Einhardt.Projeto e Implementação de Compensador para Controle de Turbocompressor de Geometria Variável com Acesso por Barramento CAN. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Projeto e Implementação de Controladores Clássicos e Adaptativos para uma Cadeira usada em Exames de Eletronistagmografia",
+          "membros": "",
+          "candidato": "Paulo Renato da Costa",
+          "citacao_completa": ". Participação em banca de Paulo Renato da Costa.Projeto e Implementação de Controladores Clássicos e Adaptativos para uma Cadeira usada em Exames de Eletronistagmografia. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Wattímetro Digital Monofásico Utilizando DSC MC56F8013",
+          "membros": "",
+          "candidato": "Nathália Peters Ardizzone",
+          "citacao_completa": ". Participação em banca de Nathália Peters Ardizzone.Wattímetro Digital Monofásico Utilizando DSC MC56F8013. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Regulação de interações em sistemas Multiagentes: um sistema para simulação das trocas sociais entre agentes baseados em personalidade",
+          "membros": "",
+          "candidato": "Luciano Vargas Gonçalves",
+          "citacao_completa": ". Participação em banca de Luciano Vargas Gonçalves.Regulação de interações em sistemas Multiagentes: um sistema para simulação das trocas sociais entre agentes baseados em personalidade. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Católica de Pelotas."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "DINIZ, C. M.; ; . Banca avaliadora no processo seletivo para docente no cenrtro de ciências sociais e tecnológicas. 2018",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "DINIZ, C. M.; ; . Banca avaliadora no processo seletivo para docente no cenrtro de ciências sociais e tecnológicas. 2018. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2018,
+          "titulo": "DE ALMEIDA, SERGIO. J . M. ; ROSSI, M. L.; LIMA, S.. Concurso público para professor - Processo nº 23110.105358/2017-32.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "DE ALMEIDA, SERGIO. J . M. ; ROSSI, M. L.; LIMA, S.. Concurso público para professor - Processo nº 23110.105358/2017-32. 2018. Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": "; MARINS, J. L.. Processo Seletivo para Docente no Centro de Ciências Sociais e Tecnológicas. 2017. Universidade Católic",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; MARINS, J. L.. Processo Seletivo para Docente no Centro de Ciências Sociais e Tecnológicas. 2017. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": "DUARTE, C. M. C.; FRANCO, D. T.; . Concurso para carreira de magistério superior - portaria Nº1.455. 2016. Universidade ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "DUARTE, C. M. C.; FRANCO, D. T.; . Concurso para carreira de magistério superior - portaria Nº1.455. 2016. Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 2014,
+          "titulo": "BECKER, L. B.; CARATI, E. G.; COUTINHO, D. F.; FLESH, R. C. C.; ; GERBER, M. T.. Edital 174/DDP/2014 - Concurso Público ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BECKER, L. B.; CARATI, E. G.; COUTINHO, D. F.; FLESH, R. C. C.; ; GERBER, M. T.. Edital 174/DDP/2014 - Concurso Público para Professor para o Campus de Blumenau - UFSC. 2014. Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": ". Membro do comitê de ética em pesquisa. 2018. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do comitê de ética em pesquisa. 2018. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2017,
+          "titulo": ". Membro do comitê de ética em pesquisa. 2017. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do comitê de ética em pesquisa. 2017. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2016,
+          "titulo": ". Membro do comitê de ética em pesquisa. 2016. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do comitê de ética em pesquisa. 2016. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2014,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa. 2014. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa. 2014. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2013,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa. 2013. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa. 2013. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2012,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa. 2012. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa. 2012. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2011,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa. 2011. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa. 2011. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2010,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa. 2010. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa. 2010. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2009,
+          "titulo": ". Membro do Comitê de Ética em Pesquisa - Representante da Reitoria. 2009. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro do Comitê de Ética em Pesquisa - Representante da Reitoria. 2009. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2006,
+          "titulo": ". Membro da Comissão Científica da Pró-Reitoria de Pesquisa e Extensão. 2006. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro da Comissão Científica da Pró-Reitoria de Pesquisa e Extensão. 2006. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 2005,
+          "titulo": ". Membro da Comissão Cientifica da Pró-Reitoria de Pesquisa e Extensão. 2005. Universidade Católica de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Membro da Comissão Cientifica da Pró-Reitoria de Pesquisa e Extensão. 2005. Universidade Católica de Pelotas."
+        },
+        {
+          "ano": 1999,
+          "titulo": ". VIII Congresso de Iniciação Científica FURG/UFPel/UCPel. 1999. Universidade Federal do Rio Grande.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". VIII Congresso de Iniciação Científica FURG/UFPel/UCPel. 1999. Universidade Federal do Rio Grande."
+        },
+        {
+          "ano": 1998,
+          "titulo": ". VII Congresso de Iniciação Científica UFPel/UCPel/FURG. 1998. Universidade Federal de Pelotas.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". VII Congresso de Iniciação Científica UFPel/UCPel/FURG. 1998. Universidade Federal de Pelotas."
+        },
+        {
+          "ano": 1997,
+          "titulo": ". VI Congresso de Iniciação Científica FURG/UFPel/UCPel. 1997. Fundação Universidade do Rio Grande.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". VI Congresso de Iniciação Científica FURG/UFPel/UCPel. 1997. Fundação Universidade do Rio Grande."
+        }
+      ]
+    }
+  ]
+}

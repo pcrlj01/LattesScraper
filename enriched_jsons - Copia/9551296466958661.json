@@ -1,0 +1,309 @@
+{
+  "name": "Gean Jacques Maia de Sousa",
+  "lattes_id": "9551296466958661",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Thermal Characterization of Magnetic Components in Still Air",
+          "autores": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; DE SOUSA, GEAN JACQUES MAIA ; BARBOSA, JADER RISO ; HELDWEIN, MARCELO LOBO",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 38, p. 7459-7470, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2023.3253076",
+          "citacao_completa": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; DE SOUSA, GEAN JACQUES MAIA ; BARBOSA, JADER RISO ; HELDWEIN, MARCELO LOBO . Thermal Characterization of Magnetic Components in Still Air. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 38, p. 7459-7470, 2023."
+        },
+        {
+          "ano": 2020,
+          "titulo": "PASSIVE VOLTAGE BALANCING IN MODULAR MULTILEVEL CONVERTER DURING PRECHARGE: ANALYSIS AND DESIGN",
+          "autores": "JACQUES MAIA DE SOUSA, GEAN ; H. T. SCHMIDT, LUIZ ; LOBO HELDWEIN, MARCELO ; JUAN PAGANO, DANIEL",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 25, p. 415-426, 2020.",
+          "doi": "http://dx.doi.org/10.18618/rep.2020.4.0042",
+          "citacao_completa": "JACQUES MAIA DE SOUSA, GEAN ; H. T. SCHMIDT, LUIZ ; LOBO HELDWEIN, MARCELO ; JUAN PAGANO, DANIEL . PASSIVE VOLTAGE BALANCING IN MODULAR MULTILEVEL CONVERTER DURING PRECHARGE: ANALYSIS AND DESIGN. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 25, p. 415-426, 2020."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Voltage Sensor Reduction Method for Modular Multilevel Converters Based on a Simple Voltage Reconstruction Approach",
+          "autores": "TIAN, WEI ; SHEN, PENGXIN ; DE SOUSA, GEAN MAIA ; KENNEL, RALPH ; HELDWEIN, MARCELO LOBO",
+          "periodico": "In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10408495",
+          "citacao_completa": "TIAN, WEI ; SHEN, PENGXIN ; DE SOUSA, GEAN MAIA ; KENNEL, RALPH ; HELDWEIN, MARCELO LOBO . Voltage Sensor Reduction Method for Modular Multilevel Converters Based on a Simple Voltage Reconstruction Approach. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Hybrid Unidirectional MMC-Based Rectifier",
+          "autores": "FUERBACK, VINICIUS BERNARDI ; DE SOUSA, GEAN JACQUES MAIA ; HELDWEIN, MARCELO LOBO",
+          "periodico": "In: 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018, Singapore. 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC.2018.8636041",
+          "citacao_completa": "FUERBACK, VINICIUS BERNARDI ; DE SOUSA, GEAN JACQUES MAIA ; HELDWEIN, MARCELO LOBO . Hybrid Unidirectional MMC-Based Rectifier. In: 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018, Singapore. 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Concentrated submodules model for modular multilevel converters",
+          "autores": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L.",
+          "periodico": "In: 2017 IEEE Southern Power Electronics Conference (SPEC), 2017, Puerto Varas. 2017 IEEE Southern Power Electronics Conference (SPEC), 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SPEC.2017.8333622",
+          "citacao_completa": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L. . Concentrated submodules model for modular multilevel converters. In: 2017 IEEE Southern Power Electronics Conference (SPEC), 2017, Puerto Varas. 2017 IEEE Southern Power Electronics Conference (SPEC), 2017. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Modeling and control of a Modular Multilevel Converter for medium voltage drives rectifier applications",
+          "autores": "DE SOUSA, GEAN JACQUES MAIA ; DIAS, ADRIANO DA SILVA ; ALVES, JOABLE ANDRADE ; HELDWEIN, MARCELO LOBO",
+          "periodico": "In: 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE), 2015, Buzios. 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE). p. 1080.",
+          "doi": "http://dx.doi.org/10.1109/isie.2015.7281622",
+          "citacao_completa": "DE SOUSA, GEAN JACQUES MAIA ; DIAS, ADRIANO DA SILVA ; ALVES, JOABLE ANDRADE ; HELDWEIN, MARCELO LOBO . Modeling and control of a Modular Multilevel Converter for medium voltage drives rectifier applications. In: 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE), 2015, Buzios. 2015 IEEE 24th International Symposium on Industrial Electronics (ISIE). p. 1080."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Three-Phase Unidirectional Buck-type Third Harmonic Injection Rectifier Concepts",
+          "autores": "SOEIRO, T. B. ; MAIA, GEAN J. ; ORTMANN, M. S. ; HELDWEIN, M. L.",
+          "periodico": "In: 2014 Twenty-Nine Annual IEEE Applied Power Electronics Conference and Exposition, 2014, Fort Worth. 2014 Twenty-Nine Annual IEEE Applied Power Electronics Conference and Exposition (APEC), 2014.",
+          "doi": "",
+          "citacao_completa": "SOEIRO, T. B. ; MAIA, GEAN J. ; ORTMANN, M. S. ; HELDWEIN, M. L. . Three-Phase Unidirectional Buck-type Third Harmonic Injection Rectifier Concepts. In: 2014 Twenty-Nine Annual IEEE Applied Power Electronics Conference and Exposition, 2014, Fort Worth. 2014 Twenty-Nine Annual IEEE Applied Power Electronics Conference and Exposition (APEC), 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Modular multilevel converter based unidirectional medium/high voltage drive system",
+          "autores": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L.",
+          "periodico": "In: IECON 2013 39th Annual Conference of the IEEE Industrial Electronics Society, 2013, Vienna. IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society. p. 1037.",
+          "doi": "http://dx.doi.org/10.1109/IECON.2013.6699276",
+          "citacao_completa": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L. . Modular multilevel converter based unidirectional medium/high voltage drive system. In: IECON 2013 39th Annual Conference of the IEEE Industrial Electronics Society, 2013, Vienna. IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society. p. 1037."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Three-phase unidirectional modular multilevel converter",
+          "autores": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L.",
+          "periodico": "In: 2013 15th European Conference on Power Electronics and Applications (EPE), 2013, Lille. 2013 15th European Conference on Power Electronics and Applications (EPE). p. 1.",
+          "doi": "http://dx.doi.org/10.1109/EPE.2013.6634676",
+          "citacao_completa": "DE SOUSA, GEAN J. M. ; HELDWEIN, MARCELO L. . Three-phase unidirectional modular multilevel converter. In: 2013 15th European Conference on Power Electronics and Applications (EPE), 2013, Lille. 2013 15th European Conference on Power Electronics and Applications (EPE). p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "MODULAR MULTILEVEL CONVERTER CONTROL STRATEGY FOR FUTURE DC SUBSEA ELECTRIC TRANSMISSION AND DISTRIBUTION SYSTEMS",
+          "autores": "DE SOUSA, GEAN J. M. ; HELDWEIN, M. L.",
+          "periodico": "In: 2013 Brazilian Power Electronics Conference, 2013, Gramado. 2013 Brazilian Power Electronics Conference (COBEP), 2013.",
+          "doi": "",
+          "citacao_completa": "DE SOUSA, GEAN J. M. ; HELDWEIN, M. L. . MODULAR MULTILEVEL CONVERTER CONTROL STRATEGY FOR FUTURE DC SUBSEA ELECTRIC TRANSMISSION AND DISTRIBUTION SYSTEMS. In: 2013 Brazilian Power Electronics Conference, 2013, Gramado. 2013 Brazilian Power Electronics Conference (COBEP), 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "DIGITAL CONTROL/MODULATION PLATFORM FOR A MODULAR MULTILEVEL CONVERTER SYSTEM",
+          "autores": "LAGO, J. ; SOUSA, G. J. M. ; HELDWEIN, M. L.",
+          "periodico": "In: 2013 Brazilian Power Electronics Conference, 2013, Gramado. 2013 Brazilian Power Electronics Conference (COBEP), 2013.",
+          "doi": "",
+          "citacao_completa": "LAGO, J. ; SOUSA, G. J. M. ; HELDWEIN, M. L. . DIGITAL CONTROL/MODULATION PLATFORM FOR A MODULAR MULTILEVEL CONVERTER SYSTEM. In: 2013 Brazilian Power Electronics Conference, 2013, Gramado. 2013 Brazilian Power Electronics Conference (COBEP), 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "High efficiency three-phase unidirectional bucktype PFC rectifier concepts",
+          "autores": "SOEIRO, THIAGO B. ; MAIA, GEAN J. ; ORTMANN, M. S. ; HELDWEIN, MARCELO L.",
+          "periodico": "In: IECON 2013 39th Annual Conference of the IEEE Industrial Electronics Society, 2013, Vienna. IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society, 2013. p. 7763.",
+          "doi": "http://dx.doi.org/10.1109/IECON.2013.6700428",
+          "citacao_completa": "SOEIRO, THIAGO B. ; MAIA, GEAN J. ; ORTMANN, M. S. ; HELDWEIN, MARCELO L. . High efficiency three-phase unidirectional bucktype PFC rectifier concepts. In: IECON 2013 39th Annual Conference of the IEEE Industrial Electronics Society, 2013, Vienna. IECON 2013 - 39th Annual Conference of the IEEE Industrial Electronics Society, 2013. p. 7763."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Proposal of transformerless UPS employing three state switching cell based converters",
+          "autores": "BASCOPE, RENE P. T. ; SOUSA, GEAN J. M. ; BRANCO, CARLOS G. C. ; BEZERRA, LUIZ D. S. ; CRUZ, CICERO M. T. ; CACAU, RONNY G. A",
+          "periodico": "In: 11º Congresso Brasileiro de Eletrônica de Potência, 2011, Natal. 11º Congresso Brasileiro de Eletrônica de Potência, 2011. p. 623.",
+          "doi": "http://dx.doi.org/10.1109/cobep.2011.6085218",
+          "citacao_completa": "BASCOPE, RENE P. T. ; SOUSA, GEAN J. M. ; BRANCO, CARLOS G. C. ; BEZERRA, LUIZ D. S. ; CRUZ, CICERO M. T. ; CACAU, RONNY G. A . Proposal of transformerless UPS employing three state switching cell based converters. In: 11º Congresso Brasileiro de Eletrônica de Potência, 2011, Natal. 11º Congresso Brasileiro de Eletrônica de Potência, 2011. p. 623."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A STEP-UP DC-DC CONVERTER FOR NON-ISOLATED ON-LINE UPS APPLICATIONS",
+          "autores": "BASCOPÉ, René Pastor Torrico ; Bezerra, L. D. ; BRANCO, C. G. C. ; CRUZ, C. M. T. ; SOUSA, G. J. M.",
+          "periodico": "In: IEEE International Symposium on Industrial Electronics, 2010, Bari. IEEE International Symposium on Industrial Electronics, 2010.",
+          "doi": "",
+          "citacao_completa": "BASCOPÉ, René Pastor Torrico ; Bezerra, L. D. ; BRANCO, C. G. C. ; CRUZ, C. M. T. ; SOUSA, G. J. M. . A STEP-UP DC-DC CONVERTER FOR NON-ISOLATED ON-LINE UPS APPLICATIONS. In: IEEE International Symposium on Industrial Electronics, 2010, Bari. IEEE International Symposium on Industrial Electronics, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A NEW STEP-UP HIGH VOLTAGE GAIN DC-DC CONVERTER",
+          "autores": "BASCOPÉ, René Pastor Torrico ; SOUSA, G. J. M. ; BRANCO, C. G. C. ; Bezerra, L. D. ; CRUZ, C. M. T. ; Ronny G. A Cacau",
+          "periodico": "In: International Conference on Industry Application - INDUSCON, 2010, São Paulo. International Conference on Industry Application - INDUSCON, 2010.",
+          "doi": "",
+          "citacao_completa": "BASCOPÉ, René Pastor Torrico ; SOUSA, G. J. M. ; BRANCO, C. G. C. ; Bezerra, L. D. ; CRUZ, C. M. T. ; Ronny G. A Cacau . A NEW STEP-UP HIGH VOLTAGE GAIN DC-DC CONVERTER. In: International Conference on Industry Application - INDUSCON, 2010, São Paulo. International Conference on Industry Application - INDUSCON, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "DESIGN AND COMPARISON OF A DIGITAL PROPORTIONAL-INTEGRAL CONTROLLER AND A MODIFIED PREDICTIVE CONTROLLER FOR A GRID CONNECTED PHOTOVOLTAIC INVERTER.",
+          "autores": "BEZERRA, P. A. M. ; SOUSA, G. J. M. ; DAHER, S. ; Antunes, F. L. M. ; OLIVEIRA JUNIOR, D. S.",
+          "periodico": "In: Congresso Brasileiro de Automática (CBA), 2010, Bonito. Congresso Brasileiro de Automática (CBA), 2010.",
+          "doi": "",
+          "citacao_completa": "BEZERRA, P. A. M. ; SOUSA, G. J. M. ; DAHER, S. ; Antunes, F. L. M. ; OLIVEIRA JUNIOR, D. S. . DESIGN AND COMPARISON OF A DIGITAL PROPORTIONAL-INTEGRAL CONTROLLER AND A MODIFIED PREDICTIVE CONTROLLER FOR A GRID CONNECTED PHOTOVOLTAIC INVERTER.. In: Congresso Brasileiro de Automática (CBA), 2010, Bonito. Congresso Brasileiro de Automática (CBA), 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "PROJETO E COMPARAÇÃO DE UM CONTROLADOR PI DIGITAL E UM CONTROLADOR PREDITIVO MODIFICADO PARA UM INVERSOR FOTOVOLTAICO DE 700 W INTERLIGADO À REDE ELÉTRICA.",
+          "autores": "BEZERRA, P. A. M. ; SOUSA, G. J. M. ; DAHER, S. ; Antunes, F. L. M. ; OLIVEIRA JUNIOR, D. S.",
+          "periodico": "In: III Congresso Brasileiro de Energia Solar, 2010, Belém. III Congresso Brasileiro de Energia Solar, 2010.",
+          "doi": "",
+          "citacao_completa": "BEZERRA, P. A. M. ; SOUSA, G. J. M. ; DAHER, S. ; Antunes, F. L. M. ; OLIVEIRA JUNIOR, D. S. . PROJETO E COMPARAÇÃO DE UM CONTROLADOR PI DIGITAL E UM CONTROLADOR PREDITIVO MODIFICADO PARA UM INVERSOR FOTOVOLTAICO DE 700 W INTERLIGADO À REDE ELÉTRICA.. In: III Congresso Brasileiro de Energia Solar, 2010, Belém. III Congresso Brasileiro de Energia Solar, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SINGLE-PHASE PWM INVERTER WITH SELECTABLE SINUSOIDAL OUTPUT VOLTAGE.",
+          "autores": "COSTA, L. F. ; SOUSA, G. J. M. ; BASCOPÉ, René Pastor Torrico",
+          "periodico": "In: Congresso Brasileiro de Automática (CBA), 2010, Bonito. Congresso Brasileiro de Automática (CBA), 2010.",
+          "doi": "",
+          "citacao_completa": "COSTA, L. F. ; SOUSA, G. J. M. ; BASCOPÉ, René Pastor Torrico . SINGLE-PHASE PWM INVERTER WITH SELECTABLE SINUSOIDAL OUTPUT VOLTAGE.. In: Congresso Brasileiro de Automática (CBA), 2010, Bonito. Congresso Brasileiro de Automática (CBA), 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A HIGH VOLTAGE GAIN SEPIC CONVERTER BASED ON THREE-STATE SWITCHING CELL.",
+          "autores": "COSTA, L. F. ; BASCOPÉ, René Pastor Torrico ; BASCOPÉ, G. V. T. ; SOUSA, G. J. M. ;",
+          "periodico": "In: International Conference on Industry Application - INDUSCON, 2010, São Paulo. International Conference on Industry Application - INDUSCON, 2010.",
+          "doi": "",
+          "citacao_completa": "COSTA, L. F. ; BASCOPÉ, René Pastor Torrico ; BASCOPÉ, G. V. T. ; SOUSA, G. J. M. ; . A HIGH VOLTAGE GAIN SEPIC CONVERTER BASED ON THREE-STATE SWITCHING CELL.. In: International Conference on Industry Application - INDUSCON, 2010, São Paulo. International Conference on Industry Application - INDUSCON, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "PROPOSAL OF A 5KVA SINGLE-PHASE ON-LINE UPS WITH HIGH FREQUENCY ISOLATION AND POWER FACTOR CORRECTION",
+          "autores": "BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C. ; CRUZ, C. M. T. ; ; SOUSA, G. J. M.",
+          "periodico": "In: The 10th Brazilian Power Electronics Conference, 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009.",
+          "doi": "",
+          "citacao_completa": "BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C. ; CRUZ, C. M. T. ; ; SOUSA, G. J. M. . PROPOSAL OF A 5KVA SINGLE-PHASE ON-LINE UPS WITH HIGH FREQUENCY ISOLATION AND POWER FACTOR CORRECTION. In: The 10th Brazilian Power Electronics Conference, 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A LOW COST FLYBACK-BASED HIGH POWER FACTOR BATTERY CHARGER FOR UPS APPLICATIONS.",
+          "autores": "SOUSA, G. J. M. ; CRUZ, C. M. T. ; BRANCO, C. G. C. ; Bezerra, L. D. ; BASCOPÉ, René Pastor Torrico",
+          "periodico": "In: The 10th Brazilian Power Electronics Conference, 2009, Bonito-MS., 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009, Bonito-MS., 2009.",
+          "doi": "",
+          "citacao_completa": "SOUSA, G. J. M. ; CRUZ, C. M. T. ; BRANCO, C. G. C. ; Bezerra, L. D. ; BASCOPÉ, René Pastor Torrico . A LOW COST FLYBACK-BASED HIGH POWER FACTOR BATTERY CHARGER FOR UPS APPLICATIONS.. In: The 10th Brazilian Power Electronics Conference, 2009, Bonito-MS., 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009, Bonito-MS., 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "LOW COST AND HIGH EFFICIENCY STATIC CONVERTER FOR SMALL WIND SYSTEMS.",
+          "autores": "OLIVEIRA JUNIOR, D. S. ; Bezerra, L. D. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; ; QUEIROZ, D. L. ; RANGEL, A. R",
+          "periodico": "In: Congresso Brasileiro de Eletrônica de Potência (COBEP), 2009, Bonito. Congresso Brasileiro de Eletrônica de Potência (COBEP), 2009.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA JUNIOR, D. S. ; Bezerra, L. D. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; ; QUEIROZ, D. L. ; RANGEL, A. R . LOW COST AND HIGH EFFICIENCY STATIC CONVERTER FOR SMALL WIND SYSTEMS.. In: Congresso Brasileiro de Eletrônica de Potência (COBEP), 2009, Bonito. Congresso Brasileiro de Eletrônica de Potência (COBEP), 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "LOW COST AND HIGH EFFICIENCY STATIC CONVERTER FOR SMALL WIND SYSTEMS.",
+          "autores": "OLIVEIRA JUNIOR, D. S. ; BEZERRA, P. A. M. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; RANGEL, A. R ; QUEIROZ, D. L. ;",
+          "periodico": "In: Annual Conference of the IEEE Industrial Electronics Society (IECON), 2009, Porto. Annual Conference of the IEEE Industrial Electronics Society (IECON), 2009.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA JUNIOR, D. S. ; BEZERRA, P. A. M. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; RANGEL, A. R ; QUEIROZ, D. L. ; . LOW COST AND HIGH EFFICIENCY STATIC CONVERTER FOR SMALL WIND SYSTEMS.. In: Annual Conference of the IEEE Industrial Electronics Society (IECON), 2009, Porto. Annual Conference of the IEEE Industrial Electronics Society (IECON), 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "MODELING AND CONTROL OF THE HIGH VOLTAGE GAIN BOOST CONVERTER BASED ON THREE-STATE SWITCHING CELL AND VOLTAGE MULTIPLIERS (MC)",
+          "autores": "ALCAZAR, Y. J. A. ; W. G. C. Cabero ; ; OLIVEIRA JUNIOR, D. S. ; SOUSA, G. J. M. ; DAHER, S.",
+          "periodico": "In: The 10th Brazilian Power Electronics Conference, 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009.",
+          "doi": "",
+          "citacao_completa": "ALCAZAR, Y. J. A. ; W. G. C. Cabero ; ; OLIVEIRA JUNIOR, D. S. ; SOUSA, G. J. M. ; DAHER, S. . MODELING AND CONTROL OF THE HIGH VOLTAGE GAIN BOOST CONVERTER BASED ON THREE-STATE SWITCHING CELL AND VOLTAGE MULTIPLIERS (MC). In: The 10th Brazilian Power Electronics Conference, 2009, Bonito. The 10th Brazilian Power Electronics Conference, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "CONVERSOR ESTÁTICO DE BAIXO CUSTO E ALTO RENDIMENTO PARA SISTEMAS EÓLICOS DE PEQUENO PORTE.",
+          "autores": "OLIVEIRA JUNIOR, D. S. ; BEZERRA, P. A. M. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; RANGEL, A. R ; QUEIROZ, D. L. ;",
+          "periodico": "In: II Congresso Brasileiro de Energia Solar e III Conferência Regional Latino-Americana da ISES, 2008, Florianópolis. II Congresso Brasileiro de Energia Solar e III Conferência Regional Latino-Americana da ISES, 2008.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA JUNIOR, D. S. ; BEZERRA, P. A. M. ; SOUSA, G. J. M. ; dos Santos, L. P. C. ; FONTENELE, L. F. A. ; RANGEL, A. R ; QUEIROZ, D. L. ; . CONVERSOR ESTÁTICO DE BAIXO CUSTO E ALTO RENDIMENTO PARA SISTEMAS EÓLICOS DE PEQUENO PORTE.. In: II Congresso Brasileiro de Energia Solar e III Conferência Regional Latino-Americana da ISES, 2008, Florianópolis. II Congresso Brasileiro de Energia Solar e III Conferência Regional Latino-Americana da ISES, 2008."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "WIND ACTION UMA SOLUÇÃO EFICIENTE PARA SISTEMAS EÓLICOS DE PEQUENO PORTE.",
+          "autores": "; SOUSA, G. J. M. ; BEZERRA, P. A. M. ; Joca, D. R. ; OLIVEIRA JUNIOR, D. S.",
+          "periodico": "In: All about energy, 2010, Fortaleza. All about energy, 2010.",
+          "doi": "",
+          "citacao_completa": "; SOUSA, G. J. M. ; BEZERRA, P. A. M. ; Joca, D. R. ; OLIVEIRA JUNIOR, D. S. . WIND ACTION UMA SOLUÇÃO EFICIENTE PARA SISTEMAS EÓLICOS DE PEQUENO PORTE.. In: All about energy, 2010, Fortaleza. All about energy, 2010."
+        },
+        {
+          "ano": 2008,
+          "titulo": "SISTEMA DE SUPERVISÃO MICROCONTROLADO PARA APLICAÇÃO EM SISTEMAS UPS",
+          "autores": "; SOUSA, G. J. M. ; BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C.",
+          "periodico": "In: III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008, Fortaleza. III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008.",
+          "doi": "",
+          "citacao_completa": "; SOUSA, G. J. M. ; BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C. . SISTEMA DE SUPERVISÃO MICROCONTROLADO PARA APLICAÇÃO EM SISTEMAS UPS. In: III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008, Fortaleza. III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "PROJETO E DESENVOLVIMENTO DE UM SISTEMA ININTERRUPTO DE ENERGIA ISOLADO EM ALTA FREQUÊNCIA DE 5kVA",
+          "autores": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C.",
+          "periodico": "In: III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008, Fortaleza. III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008.",
+          "doi": "",
+          "citacao_completa": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico ; BRANCO, C. G. C. . PROJETO E DESENVOLVIMENTO DE UM SISTEMA ININTERRUPTO DE ENERGIA ISOLADO EM ALTA FREQUÊNCIA DE 5kVA. In: III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008, Fortaleza. III Congresso de Pesquisa e Inovação Tecnológica da Rede Norte Nordeste de Educação Tecnológica, 2008."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "DESENVOLVIMENTO DE UM CONVERSOR CC-CC DE ALTO GANHO PARA APLICAÇÃO EM SISTEMA UPS NÃO ISOLADOS",
+          "autores": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico",
+          "periodico": "In: XXIX Encontro de Iniciação Científica, 2010. XXIX Encontro de Iniciação Científica, 2010.",
+          "doi": "",
+          "citacao_completa": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico . DESENVOLVIMENTO DE UM CONVERSOR CC-CC DE ALTO GANHO PARA APLICAÇÃO EM SISTEMA UPS NÃO ISOLADOS. In: XXIX Encontro de Iniciação Científica, 2010. XXIX Encontro de Iniciação Científica, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "PROPOSTA DE UM CARREGADOR DE BATERIAS DE BAIXO CUSTO E ALTO FATOR DE POTÊNCIA PARA APLICAÇÕES EM SISTEMAS UPS NÃO ISOLADOS",
+          "autores": "SOUSA, G. J. M. ; CRUZ, C. M. T.",
+          "periodico": "In: XXVIII Encontro de Iniciação Científica, 2009, Fortaleza. XXVIII Encontro de Iniciação Científica, 2009.",
+          "doi": "",
+          "citacao_completa": "SOUSA, G. J. M. ; CRUZ, C. M. T. . PROPOSTA DE UM CARREGADOR DE BATERIAS DE BAIXO CUSTO E ALTO FATOR DE POTÊNCIA PARA APLICAÇÕES EM SISTEMAS UPS NÃO ISOLADOS. In: XXVIII Encontro de Iniciação Científica, 2009, Fortaleza. XXVIII Encontro de Iniciação Científica, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "PROJETO E DESENVOLVIMENTO DE UM SISTEMA ININTERRUPTO DE ENERGIA ISOLADO EM ALTA FREQUENCIA DE 5KVA",
+          "autores": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico",
+          "periodico": "In: XXVII Encontro de Iniciação Científica, 2008, Fortalza. XXVII Encontro de Iniciação Científica, 2008.",
+          "doi": "",
+          "citacao_completa": "SOUSA, G. J. M. ; ; BASCOPÉ, René Pastor Torrico . PROJETO E DESENVOLVIMENTO DE UM SISTEMA ININTERRUPTO DE ENERGIA ISOLADO EM ALTA FREQUENCIA DE 5KVA. In: XXVII Encontro de Iniciação Científica, 2008, Fortalza. XXVII Encontro de Iniciação Científica, 2008."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": ".Conexões série e paralelo do conversor flyback operando no modo de condução descontínua",
+          "membros": "Lazarrin, T. B.; Coelho, R. F.; Pagliosa, M. A.; SOUSA, G. J. M.",
+          "candidato": "Vinícius Bernardi Fuerback",
+          "citacao_completa": "Lazarrin, T. B.; Coelho, R. F.; Pagliosa, M. A.; SOUSA, G. J. M. . Participação em banca de Vinícius Bernardi Fuerback.Conexões série e paralelo do conversor flyback operando no modo de condução descontínua. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Calorímetro para medição de perdas em componentes e sistemas eletrônicos",
+          "membros": "HELDWEIN, M. L.; Bazzo, E.; Kirsten, A. L.; SOUSA, G. J. M.",
+          "candidato": "Wagner Hoffmann",
+          "citacao_completa": "HELDWEIN, M. L.; Bazzo, E.; Kirsten, A. L.; SOUSA, G. J. M. . Participação em banca de Wagner Hoffmann.Calorímetro para medição de perdas em componentes e sistemas eletrônicos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Modelagem e projeto de um emulador para cabos submarinos de potência",
+          "membros": "HELDWEIN, M. L.; Bastos, J. P. A.; SOUSA, G. J. M.",
+          "candidato": "Cássio Maraffon",
+          "citacao_completa": "HELDWEIN, M. L.; Bastos, J. P. A.; SOUSA, G. J. M. . Participação em banca de Cássio Maraffon.Modelagem e projeto de um emulador para cabos submarinos de potência. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Estudo sobre componentes para um sistema de inversores estáticos multiníveis utilizados em acionamentos elétricos em média tensão do tipo transformerless",
+          "membros": "HELDWEIN, MARCELO L.; Lazarrin, T. B.; Moia, J.; SOUSA, G. J. M.",
+          "candidato": "Vinícius Fiamonchini de Souza",
+          "citacao_completa": "HELDWEIN, MARCELO L.; Lazarrin, T. B.; Moia, J.; SOUSA, G. J. M. . Participação em banca de Vinícius Fiamonchini de Souza.Estudo sobre componentes para um sistema de inversores estáticos multiníveis utilizados em acionamentos elétricos em média tensão do tipo transformerless. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    }
+  ]
+}

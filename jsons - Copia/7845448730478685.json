@@ -1,0 +1,368 @@
+{
+  "name": "Guilherme de Santi Peron",
+  "lattes_id": "7845448730478685",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "; SANTOS, ANDRÉ BADENAS DOS ; PERON, Guilherme de Santi ; ; SANTOS, EDUARDO NUNES DOS . Deep Learning for Bluetooth Low Energy Indoor Positioning: A Comparative Analysis of Fingerprinting Accuracy and Generalization to Unseen Locations. IEEE Access , v. 14, p. 10395-10405, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/access.2026.3654369"
+        },
+        {
+          "texto": "PEREIRA, IGOR VINÍCIUS ; PERON, Guilherme de Santi ; ; ; ; ; . Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques. IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/JIOT.2026.3660732"
+        },
+        {
+          "texto": "DE AGUIAR, LEONARDO PACHECO ; PIVARO MONTEIRO, MARCOS EDUARDO ; FARHAT, JAMIL ; DE SANTI PERON, GUILHERME ; . Performance analysis of Q-learning-based NOMA in Satellite-Terrestrial Relay Networks. Physical Communication , v. 69, p. 102619, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.phycom.2025.102619"
+        },
+        {
+          "texto": "GUIMARÃES, PEDRO CARVALHO DA FONSECA ; CRISTO, LEONARDO BRAGA DE ; ; REBELATTO, JOÃO LUIZ ; PERON, Guilherme de Santi ; ; . Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors. IEEE Access , v. 13, p. 82492-82502, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3567871"
+        },
+        {
+          "texto": "FABRIS, ANDREY ; KERUSAUSKAS RAYEL, OHARA ; LUIZ REBELATTO, JOÃO ; LUIZ MORITZ, GUILHERME ; ; PERON, Guilherme de Santi . A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems. Ieee Open Journal Of The Communications Society , v. 6, p. 10171-10190, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ojcoms.2025.3640550"
+        },
+        {
+          "texto": "PERON, GUILHERME ; ; BARROS, JOÃO ; FARHAT, JAMIL ; . Performance Analysis of 6TiSCH Networks Using Discrete Events Simulator. Journal of Communication and Information Systems (JCIS), , v. 39, p. 173-177, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.14209/jcis.2024.18"
+        },
+        {
+          "texto": "DE BARROS, JOÃO LUÍS VERDEGAY ; ; PERON, Guilherme de Santi ; ; ; . LoRaWAN vs. 6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 184, p. 1-11, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.comcom.2021.12.004"
+        },
+        {
+          "texto": "KRAUSS, ROBERTO ; PERON, GUILHERME ; ; . Area Energy Efficiency of Antenna Selection in Limited Feedback Device-to-Device Networks. IEEE Wireless Communications Letters , v. 8, p. 949-952, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/lwc.2019.2901475"
+        },
+        {
+          "texto": "PERON, GUILHERME ; ; ; PELLENZ, MARCELO EDUARDO . Physical and MAC Cross-Layer Analysis of Energy-Efficient Cooperative MIMO Networks. IEEE TRANSACTIONS ON COMMUNICATIONS , v. 66, p. 1940-1954, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tcomm.2018.2796601"
+        },
+        {
+          "texto": "PERON, Guilherme de Santi ; ; . Energy-Efficient Distributed Power Allocation with Multiple Relays and Antenna Selection. IEEE Transactions on Communications (Print) , v. 63, p. 4797-4808, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/TCOMM.2015.2487271"
+        },
+        {
+          "texto": "; DE SANTI PERON, GUILHERME ; ; . Distributed Fuzzy Logic-Based Relay Selection Algorithm for Cooperative Wireless Sensor Networks. IEEE Sensors Journal , v. 13, p. 4375-4386, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/JSEN.2013.2269798"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "KOHLER, E. L. ; PERON, G. S ; ; . Análise do Efeito da Cooperação em Redes IEEE 802.15.4g sob Interferência LoraWAN. In: XXXVIII Simpósio Brasileiro de Telecomunicações, 2020, Florianópolis. A ser apresentado: XXXVIII Simpósio Brasileiro de Telecomunicações, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, B. J. ; OLIVEIRA, F. M. B. ; ; PERON, G. S . Metodologia para Elaboração de Mapa de Potencial Eólico de Regiões Metropolitanas. In: XII Congresso Brasileiro de Planejamento Energético (CBPE), 2020, Online. Anais do 2020 XII Congresso Brasileiro de Planejamento Energético (CBPE), 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, B. J. ; ; PERON, G. S . Revisão do Estado da Arte em Desenvolvimento de Mapa do Potencial Eólico de Regiões Urbanas. In: VIII Congresso Brasileiro de Energia Solar (CBENS), 2020, Fortaleza. Anais do 2020 VIII Congresso Brasileiro de Energia Solar (CBENS), 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, F. M. B. ; PERON, G. S ; ; PASSARIN, T. A. R. . Wind Data Forecast using Artificial Neural Networks. In: 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019, Doha. 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/SGRE46976.2019.9020669"
+        },
+        {
+          "texto": "YOSHIKAWA, CESAR H. ; PERON, GUILHERME S. ; PASSARIN, THIAGO A. R. . A Newton-Raphson-based Algorithm for Statistical Characterization of Wind Speed Data. In: 2019 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019, Doha. 2019 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/SGRE46976.2019.9020699"
+        },
+        {
+          "texto": "PERON, Guilherme de Santi ; ; . Physical and MAC Cross-Layer Analysis of Energy-Efficient MIMO Networks. In: 27th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2016, Valencia. Proceeding of the 27th Annual IEEE International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC), 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/PIMRC.2016.7794657"
+        },
+        {
+          "texto": "PERON, Guilherme de Santi ; ; . Método Distribuído de Seleção de Relays em Redes Cooperativas Utilizando Lógica Fuzzy para Otimização da Vazão e do Tempo de Vida. In: XXIX Simpósio Brasileiro de Telecomunicações (SBrT). In: SBrT, 2011, Curitiba. Anais do XXIX Simpósio Brasileiro de Telecomunicações, 2011. p. 1-5.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "REBELATTO, J. L.; PERON, G. S. ; LEONE, A. S.. Participação em banca de Felippe Moraes Pereira. Reinforcement-Learning-Aided NOMA Random Access: An AoI-Based Timeliness Perspective. 2025. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; MARIANO, A. A.; REBELATTO, J. L.. Participação em banca de Leonardo Pacheco de Aguiar. Análise De Desempenho De Noma Baseado Em Q-Learning Em Redes De Retransmissão Satélite-Terrestre. 2025. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; LIMA, E. G.; . Participação em banca de Igor Vinícius Pereira. Pose Recognition System Using Bluetooth And Machine Learning Techniques. 2025. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, E. G.; PERON, G. S. ; SCHUARTZ, L.. Participação em banca de Ana Paula Pelegrini. Circuitos Lineares de Primeira e Segunda Ordens Descritos por Equivalentes no Domínio do Tempo Adaptados Para Análise de Transitório. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; PERON, G. S. ; LOLIS, L. H. A.. Participação em banca de Aline dos Santos Pontes. Avaliação de Protocolos de Comunicação no Contexto da Automação Residencial. 2024. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, E. G.; PERON, G. S. ; MARIANO, A. A.. Participação em banca de Isabella Fernanda Wosniack. Automated Comparison of Different Simulation Setups for Scenario-Based on Similarity Metrics. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, E. G.; MARIANO, A. A.; PERON, G. S. . Participação em banca de Bruna Temporal Marcondes. Modelagem Comportamental de Sistemas de Transmissão sem Fio Suscetíveis de Imperfeições no Amplificador de Potência e no Modulador em Quadratura. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, E. G.; MARIANO, A. A.; LEITE, B. R. B. A.; PERON, G. S . Participação em banca de André Felipe Zanella. Modelagem Comportamental de Amplificadores de Potência de Radiofrequência Baseada no Método de Grupo de Manipulação de Dados. 2020. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S ; LIMA, E. G.; . Participação em banca de Eros Leon Kohler. Comunicação Cooperativa em Redes IEEE 802.15.4g sob Interferência LoRaWAN. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S ; PES, B. S.; . Participação em banca de Felipe Maia Barbosa Oliveira. Previsão da Velocidade do Vento Utilizando Redes Neuras Artificiais e Modelos Autorregressivos. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; PELLENZ, M. E.; PERON, G. S . Participação em banca de Marcos Antônio de Sordi. Otimização da Eficiência Energética em Redes Operando com TSCH: Avaliação Analítica de uma Implementação Prática. 2019. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, E. G.; MARIANO, A. A.; LEITE, B. R. B. A.; PERON, G. S . Participação em banca de Ricardo Augusto da Silva Cavalheiro. Séries de Volterra com truncamentos Independentes para Dinâmicas e Não Linearidades em Amplificadores de Potência. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "MARIANO, A. A.; KAROLAK, D. B.; LOLIS, L. H. A.; PERON, G. S . Participação em banca de Eduil Nascimento Junior. Analisys of Energy Efficiency in Reconfigurable RF Receiver Systems. 2021. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "REBELATTO, J. L.; UCHOA-FILHO, B. F.; ; FERNANDEZ, E. M. G.; PERON, G. S . Participação em banca de Marcos Eduardo Pivaro Monteiro. Máxima Taxa Efetiva de Transmissão Segura em Redes MIMOME com Restrições de Sigilo. 2018. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "items": [
+        {
+          "texto": "PERON, G. S. ; BELMONTE, D. L.; BERTOL, O. F.. Participação em banca de Gabriel Pacheco. Aplicação de rede de sensores sem fio no monitoramento de cargas refrigeradas em porto seco. 2019. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Internet das Coisas (CEIOT Turma II)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "PERON, G. S. ; SANTOS, E. N.; DORINI, L. E. B.. Participação em banca de Alfons C. C. H. de Andrade; João V. C. dos Passos.ROAST?A BEAN: Torrador Portátil de Café Automatizado. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; VIEIRA, J. M.; FARIA, R. A.. Participação em banca de Miguel Ferreira Chagas Neto.Desenvolvimento De Firmware Para Equipamento De Telemetria Com Conexão Via Redes Móveis. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; FARIA, R. A.; . Participação em banca de Bruno Soares De Souza; Fernanda Pimpao Assis.Plataforma Mobile Para Correção De Exercícios De Alfabetização Por Imagem Com Processamento Em Nuvem. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; PERON, G. S. ; CHANG, B. S.. Participação em banca de João Eduardo S. M. Pereira; Lucas Silva Beneti.Solução de Monitoramento Remoto de Estufa. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; COPETTI, L. F.; SANTOS, E. N.. Participação em banca de Mariana Bittencourt Junghans.AutomoTIVA. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COPETTI, L. F.; PERON, G. S. ; GOES, R. E.; VIEIRA, J. M.. Participação em banca de Marcos Graebin.Digital equalizer based on FPGA's FIR Filters. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, D. R.; FONSECA, A. M.; FARIA, R. A.; PERON, G. S. . Participação em banca de Gabriel Kuhnen Brylkowski; Mateus Vieira Freitas.Sistema de Gerenciamento de Ensalamento. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; ; KOVALHUK, G.. Participação em banca de Ian Willian Bolfarini Escobar.Senior Care - Sistema De Acompanhamento Remoto Para Idosos. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BARRETO, R. C.; PERON, G. S. ; MANICA, R.; VIEIRA, J. M.. Participação em banca de Vinicius Debur Bernert.Alternativa Competitiva E Economicamente Acessível Para as Usb Light Guns Do Mercado. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "GOES, R. E.; PIPA, D. R.; PERON, G. S. . Participação em banca de Marcelo Fernandes de Morais Filho.Processador de Áudio e Otimizador de Fones de Ouvido Independente. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I.; PERON, G. S. ; NABAS, K. K. H.. Participação em banca de Victor Murilo Kostycha.Estudo de viabilidade: Desenvolvimento inclinômetro In-place de custo reduzido. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GOES, R. E.; COPETTI, L. F.; PERON, G. S. . Participação em banca de Daniel R. Souza; Filipe de O. Itonaga; Paulo A. V. Moreira.Sistema de som inteligente residencial. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S. ; COPETTI, L. F.; REBELATTO, J. L.. Participação em banca de Davi Schult Kohn; Fernando Adelino da Silva.Fechadura eletrônica controlada por aplicação via wi-fi. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, H. S.; RIBEIRO, M.; PERON, G. S. ; VENDRAMIN, A. C. K.. Participação em banca de Moises de Paulo Dias; Rafael Hora Ramos.Sistema de Contagem, Classificação de Grupo de Idade e Segmentação de Vestimenta de Pessoas em Vídeos Utilizando Deep Learning. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; PERON, G. S. ; ; VENDRAMIN, A. C. K.. Participação em banca de Caroline Rosa da Silva.BlipSOS: acessório IoT para envio de SOS com geolocalização em situações emergenciais. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia de Alimentos) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; PERON, G. S ; REBELATTO, J. L.. Participação em banca de Adriano R. A. Gamba; Davi W. Tokikawa; Erika M. C. Both.Sistema de transmissão de dados via LORA utilizando captação de energia solar. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; PERON, G. S ; REBELATTO, J. L.. Participação em banca de Luzia Higaskino; Sheila Turuta; Weslley Picone.Sistema de monitoramento térmico de painéis solares. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FARIA, R. A.; PERON, G. S ; OROSKI, E.. Participação em banca de Adil de Olveira Coelho Neto, Daniel Grazziotin Bongiolo.Sistema de despertador conectado à internet com aplicativo de configuração e simulação de nascer do sol. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S ; BORBA, G. B.; ROHRICH, R. F.. Participação em banca de Giovanni Unruh; Gabriel Amaral; Mateus Oliveira.Energy IO: sistema de monitoramento de gastos residenciais - água e luz. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PERON, G. S ; SCANDELARI, L.; COPETTI, L. F.. Participação em banca de Emilio Gabriel Dallastella; Eric Karl Schmidt.FEEDMYPET: Alimentador automático de animais de estimação. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FARIA, R. A.; PERON, G. S. ; FONSECA, A. M.. Participação em banca de Leandro Dos Santos Ferreira.RASPISYSTEM - Sistema Embarcado para Catracas de Megaeventos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CHANG, B. S.; PERON, G. S ; COPETTI, L. F.. Participação em banca de Luis Felipe Soto Lauro; Luiz Augusto Bernardi.Unidade de telemetria, armazenamento e visualização de dados embarcado em um carro de fórmula SAE. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "GOES, R. E.; POTTKER, F.; PERON, GUILHERME S. . Participação em banca de Ana Carolina S. Pinto, Leonardo Pacheco de Aguiar.Armadilha Fotográfica para Vida Silvestre. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SCANDELARI, L.; FARIA, R. A.; PERON, G. S . Participação em banca de Alison Michel Fernandes.Desenvolvimento de um osciloscópio digital com o Raspberry PI. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COPETTI, L. F.; VIEIRA NETO, H.; PERON, G. S . Participação em banca de Diogo Nogueira Knop.Sistema de detecção automático de avarias na pista de rolamento. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; PERON, G. S . Participação em banca de Geovana Gomes Machado, Marcel Shunji Aoki, Rafael Nogara.Redes de sensores sem fio para controle de irrigação. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "REBELATTO, J. L.; ; PERON, G. S . Participação em banca de Eric Hideo Yoshitome; João Vitor Rodrigues da Cruz.Localização em Ambiente Rural com a Tecnologia LoRa. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "RASERA, C. C.; COPETTI, L. F.; PERON, G. S. . Participação em banca de Carlo Sganzerla; Leonnardo Furquim Lopes.Forno microondas com potência controlável. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCANDELARI, L.; FARIA, R. A.; PERON, G. S . Participação em banca de Richard Cleverton Wagner.Conversor de Dados Ethernet - Serial. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CHANG, B. S.; MONEGO, H. I.; PERON, Guilherme de Santi . Participação em banca de André Luis Reguim de Paulo.Sistema de Alinhamento Automático de Antenas Micro-ondas.. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; PERON, Guilherme de Santi . Participação em banca de Rafaela Schroeder.Implementação da Codificação Analógica Paramétrica para Aplicação em Redes de Sensores sem Fio. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, L. D. A.; PERON, Guilherme de Santi ; BIM, S. A.. Participação em banca de Fernanda Gasparini Silvano; Lucas Matheus Marin Ribeiro.Leia Braille: Dispositivo tipo linha Braille de baixo custo para leitura de textos digitais por pessoas com deficiência visual. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FARIA, R. A.; PERON, Guilherme de Santi ; ROHRICH, R. F.. Participação em banca de Eduardo K. Yamamoto; Erico Sganzerla; Rodrigo A. F. Lima.Segurança Inteligente: Cerca Virtual Utilizando Visão Computacional. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

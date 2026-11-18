@@ -1,0 +1,167 @@
+{
+  "name": "Julien Okasaki Mauprivez",
+  "lattes_id": "4872628405109554",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Utilização de tecnologias VR e AR para divulgação da Cultura Maker na Educação Profissional e Tecnológica",
+          "autores": "ANDRADE, FABIANA CHAGAS DE ; ALMEIDA, RONISON CUNHA DE ; ; Mauprivez, Julien ; SILVEIRA, RAPHEL JOSÉ ELINO DA",
+          "periodico": "REVISTA BRASILEIRA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA , v. 1, p. e16923, 2025.",
+          "doi": "http://dx.doi.org/10.15628/rbept.2025.16923",
+          "citacao_completa": "ANDRADE, FABIANA CHAGAS DE ; ALMEIDA, RONISON CUNHA DE ; ; Mauprivez, Julien ; SILVEIRA, RAPHEL JOSÉ ELINO DA . Utilização de tecnologias VR e AR para divulgação da Cultura Maker na Educação Profissional e Tecnológica. REVISTA BRASILEIRA DE EDUCAÇÃO PROFISSIONAL E TECNOLÓGICA , v. 1, p. e16923, 2025."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Dynamic analysis of railways using the finite element method / Análise dinâmica das vias férreas utilizando o método dos elementos finitos",
+          "autores": "COUTINHO, DERECK HENRIQUE ; MAUPRIVEZ, J. ;",
+          "periodico": "Brazilian Journal of Development , v. 7, p. 88094-88105, 2021.",
+          "doi": "http://dx.doi.org/10.34117/bjdv7n9-120",
+          "citacao_completa": "COUTINHO, DERECK HENRIQUE ; MAUPRIVEZ, J. ; . Dynamic analysis of railways using the finite element method / Análise dinâmica das vias férreas utilizando o método dos elementos finitos. Brazilian Journal of Development , v. 7, p. 88094-88105, 2021."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Artificial neural networks applied to the estimation of random variables associated to a two-mass model for the vocal folds",
+          "autores": "MAUPRIVEZ, J. ; CATALDO, Edson ; SAMPAIO, R.",
+          "periodico": "INVERSE PROBLEMS IN SCIENCE AND ENGINEERING , v. 20, p. 209-225, 2012.",
+          "doi": "http://dx.doi.org/10.1080/17415977.2011.603086",
+          "citacao_completa": "MAUPRIVEZ, J. ; CATALDO, Edson ; SAMPAIO, R. . Artificial neural networks applied to the estimation of random variables associated to a two-mass model for the vocal folds. INVERSE PROBLEMS IN SCIENCE AND ENGINEERING , v. 20, p. 209-225, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Estimation of a Parameters of a Non-Linear Stochastic Model for the Vocal Folds Through a Modified MCMC Algorithm",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "MECÁNICA COMPUTACIONAL , v. XXX, p. 3331-3338, 2011.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Estimation of a Parameters of a Non-Linear Stochastic Model for the Vocal Folds Through a Modified MCMC Algorithm. MECÁNICA COMPUTACIONAL , v. XXX, p. 3331-3338, 2011."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Modeling and fatigue analysis of an hybrid riser system submitted to vortex-induced motion",
+          "autores": "; ; Mauprivez, Julien",
+          "periodico": "In: DINAME2019, 2019, Armação de Búzios. DINAME2019, 2019.",
+          "doi": "http://dx.doi.org/10.26678/ABCM.DINAME2019.DIN2019-0158",
+          "citacao_completa": "; ; Mauprivez, Julien . Modeling and fatigue analysis of an hybrid riser system submitted to vortex-induced motion. In: DINAME2019, 2019, Armação de Búzios. DINAME2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "DYNAMIC ANALYSIS OF RAILWAYS USING THE FINITE ELEMENT METHOD",
+          "autores": "COUTINHO, D. H. ; ; MAUPRIVEZ, J.",
+          "periodico": "In: XXII ENMC ? Encontro Nacional de Modelagem Computacional, 2019, Juiz de Fora. Anais do XXII Encontro Nacional de Modelagem Computacional e o X Encontro de Ciência e Tecnologia de Materiais, 2019.",
+          "doi": "",
+          "citacao_completa": "COUTINHO, D. H. ; ; MAUPRIVEZ, J. . DYNAMIC ANALYSIS OF RAILWAYS USING THE FINITE ELEMENT METHOD. In: XXII ENMC ? Encontro Nacional de Modelagem Computacional, 2019, Juiz de Fora. Anais do XXII Encontro Nacional de Modelagem Computacional e o X Encontro de Ciência e Tecnologia de Materiais, 2019."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Artificial Neural Networks applied to the estimation of random variables associated to a two-mass model for the vocal folds",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: 18 th International Congress on Sound & Vibration, 2011, Rio de Janeiro. Anais do ICSV, 2011.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Artificial Neural Networks applied to the estimation of random variables associated to a two-mass model for the vocal folds. In: 18 th International Congress on Sound & Vibration, 2011, Rio de Janeiro. Anais do ICSV, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Bayesian actualization and maximum entropy principle applied to solve a non-linear stochastic inverse problem in voice production",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: ENIEF 2011, 2011, Rosario. Anais do ENIEF 2011, 2011.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Bayesian actualization and maximum entropy principle applied to solve a non-linear stochastic inverse problem in voice production. In: ENIEF 2011, 2011, Rosario. Anais do ENIEF 2011, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Fitting random variables associated to a two-mass model for the vocal folds using neural networks",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: ECCM - European Congress on Computational Mechanics - ECOMAS, 2010, Paris. Anais do ECCM 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Fitting random variables associated to a two-mass model for the vocal folds using neural networks. In: ECCM - European Congress on Computational Mechanics - ECOMAS, 2010, Paris. Anais do ECCM 2010, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "PARAMETERS SETTING THROUGH OPTIMAL EXPERIMENTAL DESIGN FOR A TWO-MASS VOCAL FOLDS MODEL",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: 11 th Pan-American Congress of Applied Mechanics (PACAM XI), 2010, Foz do Iguaçu. Anais do PACAM XI, 2010.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . PARAMETERS SETTING THROUGH OPTIMAL EXPERIMENTAL DESIGN FOR A TWO-MASS VOCAL FOLDS MODEL. In: 11 th Pan-American Congress of Applied Mechanics (PACAM XI), 2010, Foz do Iguaçu. Anais do PACAM XI, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Study Of Some Advances Of The Two-Mass Models of The Vocal Folds",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: 20 th International Congress of Mechanical Engineering (COBEM), 2009, Gramado. Anais do COBEM XX, 2009.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Study Of Some Advances Of The Two-Mass Models of The Vocal Folds. In: 20 th International Congress of Mechanical Engineering (COBEM), 2009, Gramado. Anais do COBEM XX, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Parameters Fitting for a Two-Mass Model for the Vocal Folds Using Neural Networks",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: 30th Iberian-Latin-American Congress on Computational Methods in Engineering, 2009, Armaçao de Buzios. Anais do CILAMCE 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Parameters Fitting for a Two-Mass Model for the Vocal Folds Using Neural Networks. In: 30th Iberian-Latin-American Congress on Computational Methods in Engineering, 2009, Armaçao de Buzios. Anais do CILAMCE 2009, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Comparação de modelos mecânicos a duas massas para produção da voz",
+          "autores": "Mauprivez, Julien ; ;",
+          "periodico": "In: Segundo Encontro Nacional de Engenharia BioMecânica, 2009, Florianópolis. Anais do ENEBI 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "Mauprivez, Julien ; ; . Comparação de modelos mecânicos a duas massas para produção da voz. In: Segundo Encontro Nacional de Engenharia BioMecânica, 2009, Florianópolis. Anais do ENEBI 2009, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "VIBRATION ANALYSIS AND RESONANCE IN MACHINES ASSEMBLED ON FLEXIBLE SUPPORT:AN EXPERIMENTAL AND COMPUTATIONAL APPROACH",
+          "autores": "; ; FARIAS, P. ; MAUPRIVEZ, J. ; NOVAES, C. A.",
+          "periodico": "2025. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "; ; FARIAS, P. ; MAUPRIVEZ, J. ; NOVAES, C. A. . VIBRATION ANALYSIS AND RESONANCE IN MACHINES ASSEMBLED ON FLEXIBLE SUPPORT:AN EXPERIMENTAL AND COMPUTATIONAL APPROACH. 2025. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "VALIDATION OF A LOW-COST PORTABLE EXTRUDER FOR SUSTAINABLE 3D PRINTING FILAMENTS USING RECYCLED PET",
+          "autores": "; MAUPRIVEZ, J. ; BELLONI, D. S. ;",
+          "periodico": "2025. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "; MAUPRIVEZ, J. ; BELLONI, D. S. ; . VALIDATION OF A LOW-COST PORTABLE EXTRUDER FOR SUSTAINABLE 3D PRINTING FILAMENTS USING RECYCLED PET. 2025. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Estudo do Modelo dos Elementos finitos Rígidos Aplicado à Dinâmica de Risers",
+          "membros": "SANTOS, P. V. G.; PEREIRA, A. L.; MAUPRIVEZ, J.",
+          "candidato": "Dalvan Mandela Nogueira Macuco",
+          "citacao_completa": "SANTOS, P. V. G.; PEREIRA, A. L.; MAUPRIVEZ, J. . Participação em banca de Dalvan Mandela Nogueira Macuco. Estudo do Modelo dos Elementos finitos Rígidos Aplicado à Dinâmica de Risers. 2022. Monografia (Aperfeiçoamento/Especialização em Pós-Graduação Lato Sensu em Processos Industriais) - Centro Federal de Educação Tecnológica Celso Suckow da Fonseca."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "; SANT?ANNA, A. M. S.; FARNEZE, H. N.; MAUPRIVEZ, J. . Concurso Público para Professor EBTT, Engenharia Mecânica. Edital",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; SANT?ANNA, A. M. S.; FARNEZE, H. N.; MAUPRIVEZ, J. . Concurso Público para Professor EBTT, Engenharia Mecânica. Edital nº023/2015, de 29 de maio de 2015.. 2015. Centro Federal de Educação Tecnológica Celso Suckow da Fonseca."
+        }
+      ]
+    }
+  ]
+}

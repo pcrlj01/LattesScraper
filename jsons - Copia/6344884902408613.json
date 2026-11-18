@@ -1,0 +1,198 @@
+{
+  "name": "Fabricio Rossy de Lima Lobato",
+  "lattes_id": "6344884902408613",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "RIBEIRO, ANDREI N. ; LOBATO, FABRÍCIO R. ; SILVA, MOISÉS F. ; COSTA, JOÃO C.W.A. . A semi-supervised ML-driven strategy for fault detection and localization in optical networks. Optical Switching and Networking , v. 59, p. 100831, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.osn.2025.100831"
+        },
+        {
+          "texto": "RAMOS, INGRID ; INSTITUTE OF TECHNOLOGY, FEDERAL UNIVERSITY OF PARÁ ; RIBEIRO, ANDREI ; LOBATO, FABRÍCIO ; SILVA, MOISÉS ; COSTA, JOÃO . A Comparative Study on Semi-Supervised Learning Algorithms for Fault Management in Optical Networks. Journal of Communication and Information Systems (JCIS), , v. 41, p. 1-15, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.14209/jcis.2026.1"
+        },
+        {
+          "texto": "RIBEIRO, ANDREI ; ROSSY, FABRICIO ; FELIPE, MOISÉS ; SERUFFO, MARCOS ; COSTA, SAULO ; COSTA, JOÃO . A Multi-Criteria Decision-Making Framework for ML Model Selection in Optical Networks Fault Detection. Journal of Optical Communications and Networking , v. 18, p. 354-364, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1364/jocn.572591"
+        },
+        {
+          "texto": "RIBEIRO, A. N. ; LOBATO, F. R. L. ; SILVA, M. F. ; SGAMBELLURI, A. ; VALCARENGHI, L. ; WOSINSKA, L. ; COSTA, J. C. W. A. . PCA-assisted clustering approaches for soft-failure detection in optical networks. Journal of Optical Communications and Networking , v. 17, p. B50-B60, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1364/JOCN.549205"
+        },
+        {
+          "texto": "NATALINO, CARLOS ; MAGALHÃES, TALLES ; ARPANAEI, FARHAD ; LOBATO, FABRICIO R. L. ; COSTA, JOÃO C. W. A. ; HERNÁNDEZ, JOSÉ ALBERTO ; MONTI, PAOLO . Optical Networking Gym: an open-source toolkit for resource assignment problems in optical networks. Journal of Optical Communications and Networking , v. 16, p. G40-G51, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1364/jocn.532850"
+        },
+        {
+          "texto": "LOBATO, FABRICIO R.L. ; JACOB, ANTONIO ; RODRIGUES, JHONATAN ; CARTAXO, ADOLFO V.T. ; COSTA, J.C.W.A. . Inter-core crosstalk aware greedy algorithm for spectrum and core assignment in space division multiplexed elastic optical networks. Optical Switching and Networking , v. 33, p. 61-73, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.osn.2019.03.003"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "RIBEIRO, ANDREI N. ; LOBATO, FABRÍCIO R. L. ; COSTA, JOÃO C. W. A. ; MONTI, PAOLO ; NATALINO, CARLOS . Towards Generalizable ML-Based Event Recognition Using $Phi$-OTDR and Siamese Networks. In: 2026 International Conference on Optical Network Design and Modelling (ONDM), 2026, Munich. 2026 International Conference on Optical Network Design and Modelling (ONDM), 2026. p. 1.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.23919/ONDM68511.2026.11618795"
+        },
+        {
+          "texto": "RIBEIRO, ANDREI N. ; LOBATO, FABRÍCIO R. ; SILVA, MOISÉS F. ; NATALINO, CARLOS ; WOSINSKA, LENA ; VALCARENGHI, LUCA ; SGAMBELLURI, ANDREA ; COSTA, JOÃO C. W. A. . A Decentralized Federated Learning-Based Approach for Fault Detection in Optical Networks. In: 2025 International Conference on Optical Network Design and Modeling (ONDM), 2025, Pisa. 2025 International Conference on Optical Network Design and Modeling (ONDM), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.23919/ONDM65745.2025.11029366"
+        },
+        {
+          "texto": "OLIVEIRA, ADRYELE C. ; SILVA, GIOVANA NASCIMENTO ; RIBEIRO, ANDREI NOGUEIRA ; LOBATO, FABRÍCIO ; SILVA, MOISÉS FELIPE ; COSTA, JOAO WEYL . Data-Constrained Semi-Supervised Approaches for Optical Network Fault Detection. In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2025.1571144607"
+        },
+        {
+          "texto": "DIAS, VITOR RAFAEL OLIVEIRA ; SANTOS, MARCÍLIO F ; RIBEIRO, ANDREI NOGUEIRA ; LOBATO, FABRÍCIO ; SILVA, MOISÉS FELIPE ; COSTA, JOAO WEYL . Integrating Feature Extraction with Semi-Supervised Learning for Failure Detection in Optical Networks. In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2025.1571144674"
+        },
+        {
+          "texto": "MAGALHÃES, TALLES S. ; NATALINO, CARLOS ; LOBATO, FABRICIO R. L. ; COSTA, JOÃO C. W. A. ; MONTI, PAOLO . Analysis of Spectrum Defragmentation in QoT-Constrained Elastic Optical Networks. In: 2025 SBMO/IEEE MTTS International Microwave and Optoelectronics Conference (IMOC), 2025, Campina Grande. 2025 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2025. p. 223.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/IMOC65414.2025.11365801"
+        },
+        {
+          "texto": "SALES, R. F. ; RIBEIRO, A. ; SILVA, M. F. ; LOBATO, F. R. ; SGAMBELLURI, A. ; VALCARENGHI, L. ; COSTA, J. C. W. . Disaggregated Confidentiality-Preserving Scheme for Fault Detection in Optical Networks. In: Optical Fiber Communication Conference, 2024, San Diego California. Optical Fiber Communication Conference (OFC) 2024, 2024. p. Th3I.8.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1364/ofc.2024.th3i.8"
+        },
+        {
+          "texto": "SALES, RAFAEL ; RIBEIRO, ANDREI NOGUEIRA ; LOBATO, FABRÍCIO ; SILVA, MOISÉS FELIPE ; COSTA, JOAO WEYL . Comparative Analysis on Cluster-based Algorithms for Failure Management in Optical Networks. In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024, Belém. Anais do XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2024.1571035792"
+        },
+        {
+          "texto": "RAMOS, INGRID L. F. M. ; OLIVEIRA, ADRYELE C. ; RIBEIRO, ANDREI NOGUEIRA ; SALES, RAFAEL ; LOBATO, FABRÍCIO ; COSTA, JOAO WEYL ; SILVA, MOISÉS FELIPE . A Comparative Study on Principal Components Analysis for Failure Detection in Optical Networks. In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024, Belém. Anais do XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.14209/sbrt.2024.1571036264"
+        },
+        {
+          "texto": "RIBEIRO, A. N. ; SALES, R. F. ; LOBATO, F. R. ; COSTA, J.C.W.A. ; SILVA, M. F. ; SGAMBELLURI, A. ; VALCARENGHI, L. ; WOSINSKA, L. . PCA-Assisted Fuzzy Clustering Approach for Soft-Failure Detection in Optical Networks. In: 2024 International Conference on Optical Network Design and Modeling (ONDM), 2024, Madrid. 2024 International Conference on Optical Network Design and Modeling (ONDM), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.23919/ondm61578.2024.10582591"
+        },
+        {
+          "texto": "MAGALHES, T. ; LOBATO, F. R. L. ; SILVA, G. ; NATALINO, C. ; JACOB, ANTONIO ; COSTA, J. C. W. A. . FlexPower: Atribuição de Potência Flexível para Redes Ópticas Elásticas Multi-Núcleo Considerando Limitações de Camada Física. In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023, Belém. Anais da XIII Confer?encia Nacional em Comunicações, Redes e Segurança da Informação ? Encom 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RIBEIRO, A. ; LOBATO, F. R. L. ; CARDOSO, V. ; COSTA, J. C. W. A. . An Unsupervised ML-driven Approach for Water Leak Detection in Localized Irrigation System. In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023, Belém. Anais da XIII Confer?encia Nacional em Comunicações, Redes e Segurança da Informação ? Encom 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SALES, R. ; RIBEIRO, A. ; LOBATO, F. R. L. ; SILVA, M. ; COSTA, J. C. W. A. . A Cluster-based Approach for Single Failure Management in Transparent Optical Networks. In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023, Belém. Anais da XIII Confer?encia Nacional em Comunicações, Redes e Segurança da Informação ? Encom 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LOBATO, FABRICIO R. L. ; JACOB, ANTONIO ; RODRIGUES, JHONATAN ; CARTAXO, ADOLFO V. T. ; COSTA, J. C. W. A. . Impact of HD- and SD-FEC on the Inter-Core Crosstalk Limitations in Elastic Optical Networks Using Multi-Core Fibers. In: 2019 SBMO/IEEE MTTS International Microwave and Optoelectronics Conference (IMOC), 2019, Aveiro. 2019 SBMO/IEEE MTT-S International Microwave and Optoelectronics Conference (IMOC), 2019. v. v.1. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/imoc43827.2019.9317593"
+        },
+        {
+          "texto": "FIGUEIRA, A. S. ; SILVA, A. G. ; MELO, B. M. ; LINO, A. P. ; LOBATO, F. R. L. ; MORAIS, A. S. ; FAVERO, E. L. . Módulo de Avaliação Automática de Questões Discursivas no Ambiente Virtual de Aprendizagem LabSQL. In: 8ª Conferência Ibérica de Sistemas e Tecnologias de Informação, CISTI'2013, 2013, Lisboa, Portugal. Atas da 8 Conferencia Iberica de Sistemas e Tecnologias de Informacao. Braga, Portugal: APPACDM- Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental, 2013. v. 1. p. 475-479.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MELO, B. M. ; LINO, A. P. ; FIGUEIRA, A. S. ; SILVA, A. G. ; LOBATO, F. R. L. ; MORAIS, A. S. ; FAVERO, E. L. . Módulo de Avaliação Automática de Código SQL com feedback em forma de 'dicas' no Ambiente Virtual de Aprendizagem LabSQL. In: 8ª Conferência Ibérica de Sistemas e Tecnologias de Informação, CISTI'2013, 2013, Lisboa, Portugal. Atas da 8 Conferência Ibérica de Sistemas e Tecnologias de Informação. Braga, Portugal: AAPACDM- Associação Portuguesa de Pais e Amigos do Cidadão Deficiente Mental, 2013. v. 1. p. 468-474.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "LOBATO, F. R. L. ; ; Rodrigues, O. . Seleção de Gateways Móveis em Redes Heterogeneas Sem Fio com Multiplos Saltos. In: simposio brasileiro de redes de computadores e sistemas distribuidos (SBRC), 2008, Rio de Janeiro. 26 Simposio Brasileiro de Redes de Computadores e Sistemas Distribuidos. Rio de Janeiro: Igor Monteiro Moraes e Miguel Elias Mitre Campista, 2008. v. 26. p. 385-398.",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "FIGUEIRA, A. S. ; SILVA, A. G. ; MELO, B. M. ; LINO, A. P. ; LOBATO, F. R. L. ; MORAIS, A. S. ; FAVERO, E. L. . Módulo de Avalição Automática de Questões Discursivas no Ambiente Virtual de Aprendizagem LabSQL. 2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "LOBATO, F. R. L. . Seleção de Gateways Moveis em Redes Heterogeneas sem fio com multiplos saltos. 2009. (Apresentação de Trabalho/Outra).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "LOBATO, F. R. L. ; ; Rodrigues, O. . Seleção de Gateways Móveis em Redes Heterogeneas Sem Fio com Multiplos Saltos. 2008. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "LOBATO, F. R. L. ; . Seleção de Gateways Móveis em Redes Heterogeneas Sem Fio com Multiplos Saltos. 2007. (Apresentação de Trabalho/Seminário).",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "LOBATO, F. R. L. . Capacitação de Usuário INFOSESP. 2009. (Curso de curta duração ministrado/Outra).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "LOBATO, F. R. L. ; CONDE, G. A. B.; CONDE, V. M. G.; FERREIRA, M. G.. Participação em banca de Samaroni Brelaz Feitosa. Identificação de Risco Associado aos Comunicantes de Pacientes de Hanseníase através de Dados Epidemiológicos utilizando Técnicas de Clusterização em Municípios Endêmicos no Estado do Pará. 2019. Exame de qualificação (Mestrando em Biociências) - Universidade Federal do Oeste do Pará.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "LOBATO, FABRICIO R.L. ; SANTOS FILHO, R. C.. Participação em banca de NATAN LUIZ MENDES DOS SANTOS.DIARY FINDER: UMA FERRAMENTA PARA A EXTRAÇÃO DE DADOS DE DIÁRIOS OFICIAIS E CONSULTA COM INTELIGÊNCIA ARTIFICIAL. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, J. C. W. A.; SERUFFO, M. C. R.; LOBATO, F. R. L. . Participação em banca de LUCAS NEGRÃO NEIVA.DESENVOLVIMENTO DE PROTÓTIPO DE GERENCIAMENTO E PAGAMENTO PARA RESTAURANTES UNIVERSITÁRIOS.. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "items": [
+        {
+          "texto": "DIAS, A. V.; ; LINO, A. P.. Concurso Publico para Porfessor Assistente da Carreira do Magisterio Superior da UFOPA. 2010. Universidade Federal do Oeste do Pará.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

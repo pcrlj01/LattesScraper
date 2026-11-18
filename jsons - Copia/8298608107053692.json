@@ -1,0 +1,938 @@
+{
+  "name": "Lucas Molina",
+  "lattes_id": "8298608107053692",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "SANTOS, DAVID O. ; DE ASSIS, FRANCISCO M. ; CARVALHO, ELYSON A. N. ; MOLINA, LUCAS . A Grover-Operator-Based Quantum Variant of Particle Swarm Optimization for Robot Manipulators' Inverse Kinematics: Theory and Simulation. IEEE Access , v. 13, p. 188420-188431, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3628560"
+        },
+        {
+          "texto": "SANTOS, DAVID O. ; MOLINA, L. ; CARVALHO, JOSÉ G. N. ; CARVALHO, Elyson Ádan Nunes ; FREIRE, EDUARDO O. . Modifications of Fully Resampled PSO in the Inverse Kinematics of Robot Manipulators. IEEE ROBOTICS AND AUTOMATION LETTERS , v. 9, p. 1923-1928, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/lra.2024.3349927"
+        },
+        {
+          "texto": "FARIAS, WESLLEY ALVES ; FREIRE, R. C. S. ; CARVALHO, Elyson Ádan Nunes ; FILHO, JOSÉ GILMAR NUNES DE CARVALHO ; MOLINA, L. ; FREIRE, EDUARDO OLIVEIRA . Search and Integration of Nodes in Hybrid Wireless Sensor Networks by Exploring the Connectivity Frontier. IEEE SENSORS JOURNAL , v. 24, p. 8615-8627, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/jsen.2023.3348069"
+        },
+        {
+          "texto": "SANTOS, PHILLIPE C. ; FREIRE, RAIMUNDO C. S. ; CARVALHO, ELYSON A. N. ; MOLINA, L. ; ; SANTOS, MATHEUS C. ; WEIR, ANTHONY ; TRSLIC, PETAR ; OMERDIC, EDIN ; DOOLY, GERARD ; TOAL, DANIEL . Fully Automatic Visual Servoing Control for Underwater Vehicle Manipulator Systems Based on a Heuristic Inverse Kinematics. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 107, p. 1-16, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s10846-023-01827-0"
+        },
+        {
+          "texto": "CANUTO, CLEBESON ; ; MOLINA, L. ; CARVALHO, ELYSON A. N. ; GIVIGI, SIDNEY N. . Intuitiveness Level: Frustration-Based Methodology for Human-Robot Interaction Gesture Elicitation. IEEE Access , v. 10, p. 1-1, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/access.2022.3146838"
+        },
+        {
+          "texto": "JESUS, RAPHAEL C. O. ; MOLINA, L. ; CARVALHO, ELYSON A. N. ; . Singularity-Free Inverse Kinematics with Joint Prioritization for Manipulators. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-10, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00860-4"
+        },
+        {
+          "texto": "CARVALHO-FILHO, JOSÉ ; MOLINA, L. ; BEDENIK, GRAZIELLA ; ; CARVALHO, ELYSON ÁDAN NUNES ; FEITOSA, LARISSA A. S. ; BITTENCOURT, SHIRLEY O. S. ; LIMA, TAMIRES C. . Modeling of FiO2 delivered by self-inflating ventilation device. Brazilian Journal of Development , v. 8, p. 70825-70845, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.34117/bjdv8n11-003r"
+        },
+        {
+          "texto": "DE SOUSA, STEPHANIE KAMARRY ALVES ; FREIRE, R. C. S. ; CARVALHO, ELYSON ADAN NUNES ; MOLINA, L. ; SANTOS, PHILLIPE CARDOSO ; FREIRE, EDUARDO OLIVEIRA . Two-Layers Workspace: A New Approach to Cooperative Object Transportation With Obstacle Avoidance for Multi-Robot System. IEEE Access , v. 10, p. 6929-6939, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/access.2022.3140857"
+        },
+        {
+          "texto": "SANTOS, MATHEUS C. ; MOLINA, LUCAS ; CARVALHO, ELYSON A. N. ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C. . FABRIK-R: An Extension Developed Based on FABRIK for Robotics Manipulators. IEEE Access , v. 9, p. 53423-53435, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/access.2021.3070693"
+        },
+        {
+          "texto": "SANTOS, MATHEUS C. ; MOLINA, LUCAS ; CARVALHO, ELYSON A. N. ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C. . MB-RRT: An Inverse Kinematics Solver of Reduced Dimension. IEEE Access , v. 9, p. 148558-148573, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/access.2021.3123645"
+        },
+        {
+          "texto": "CARDOSO, PHILLIPE ; FREIRE, RAIMUNDO C. S. ; CARVALHO, ELYSON A. N. ; MOLINA, L. ; . M-FABRIK: A New Inverse Kinematics Approach to Mobile Manipulator Robots Based on FABRIK. IEEE Access , v. 1, p. 1-1, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/access.2020.3038424"
+        },
+        {
+          "texto": "KAMARRY, S. ; CARVALHO, Elyson Ádan Nunes ; FREIRE, R. C. S. ; MOLINA, L. ; . Principal Component Analysis (PCA) and Hough Transform as Tool for Simultaneous Localization and Mapping (SLAM) with Sparse and Noisy Sensors. JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS) , v. 15, p. 1-5, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.29292/jics.v15i3.162"
+        },
+        {
+          "texto": "CARVALHO, ELYSON ; ; MOLINA, L. ; FILHO, JOSE . µ-Planner: A Robot Path Planning Approach Based on Language Measure of Unsupervised Automata. International Journal of Robotics and Automation Technology , v. 7, p. 40-49, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.31875/2409-9694.2020.07.5"
+        },
+        {
+          "texto": "FILHO, JOSE G. N. DE CARVALHO ; CARVALHO, ELYSON A. N. ; MOLINA, L. ; . The Impact of Parametric Uncertainties on Mobile Robots Velocities and Pose Estimation. IEEE Access , v. 1, p. 1-1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/access.2019.2919335"
+        },
+        {
+          "texto": "BRITO, I. V. ; ; CARVALHO, Elyson Ádan Nunes ; MOLINA, L. . Analysis of Cross-Cultural Effect on Gesture-Based Human-Robot Interaction. International Journal of Mechanical Engineering and Robotics Research , v. 8, p. 852-859, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.18178/ijmerr.8.6.852-859"
+        },
+        {
+          "texto": "GREGORIN, LIVIA ; GIVIGI, SIDNEY N. ; ; CARVALHO, ELYSON ; MOLINA, L. . Heuristics for the Multi-Robot Worst-Case Pursuit-Evasion Problem. IEEE Access , v. PP, p. 1-1, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/access.2017.2739641"
+        },
+        {
+          "texto": "MOLINA, LUCAS ; CARVALHO, ELYSON ÁDAN NUNES ; FREIRE, EDUARDO OLIVEIRA ; FREIRE, RAIMUNDO CARLOS SILVÉRIO . Fault-Tolerant Weld Line Detection Using Image Processing and Fusion of Execution Monitoring Systems. Journal of Control, Automation and Electrical Systems , v. 24, p. 70-80, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1007/s40313-013-0016-3"
+        },
+        {
+          "texto": "CARVALHO, ELYSON A. N ; CARVALHO FILHO, JOSÉ G. N. DE ; MOLINA, LUCAS ; FREIRE, EDUARDO O ; FREIRE, RAIMUNDO C. S ; LUCIANO, BENEDITO A . Medição de velocidade angular com alta resolução usando enconders de baixa resolução e PLL. Controle & Automação (Impresso) , v. 21, p. 616-625, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1590/s0103-17592010000600007"
+        },
+        {
+          "texto": "; MOLINA, LUCAS ; CANUTO, JÂNIO . Robust hand image processing for biometric application. Pattern Analysis and Applications (Print) , v. 13, p. 397-407, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1007/s10044-010-0185-7"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "; MOLINA, L. ; ; ; ; . Propagação de incertezas estruturais no modelo cinemático de robôs móveis. In: Flávio Vasconcelos; Raimundo Freire; Sebastian Catunda. (Org.). Metrologia e Instrumentação (tópicos selecionados). 1ed.Campina Grande: EDUFCG, 2010, v. 1, p. 55-68.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "FRANCO, DANIEL AUGUSTO SANTOS ; CARVALHO, ELYSON ÁDAN NUNES ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES ; MOLINA, LUCAS ; FREIRE, EDUARDO OLIVEIRA . Worst-Case Pursuit-Evasion using random walk for multiply connected environment. In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 194.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10332994"
+        },
+        {
+          "texto": "VALENÇA, THAUANNE SANTANA FONSECA ; CARVALHO, ELYSON ÁDAN NUNES ; FREIRE, EDUARDO OLIVEIRA ; MOLINA, LUCAS ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES . Specification of Robots for the Treatment of Autistic Children. In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 672.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333018"
+        },
+        {
+          "texto": "SOUSA, RODRIGO PASSOS ; FRANCO, DANIEL AUGUSTO SANTOS ; FARIAS, WESLLEY ALVES ; SANTOS, DAVID OLIVEIRA ; MENEZES, LÁZARO ALBERTO DE ARAÚJO ; MOLINA, LUCAS . Design of Cost-Aware Open-Loop Controller For Non-Linearity Compensation Without Embedded Sensors Using Computer Vision. In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 200.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333053"
+        },
+        {
+          "texto": "BEDENIK, GRAZIELLA ; NOGUEIRA, PAULO GABRIEL BARRETO ; MOLINA, LUCAS ; FILHO, JOSÉ CARVALHO ; CARVALHO, ELYSON . Design of a Multiturn RVDT with Flat-Helix Coils. In: 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023, Rio de Janeiro. 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/inscit59673.2023.10258507"
+        },
+        {
+          "texto": "CARVALHO, STÉPHANE ; BEDENIK, GRAZIELLA ; MOLINA, LUCAS ; CARVALHO, ELYSON ÁDAN NUNES ; LEBRE, ULISSES D. E. S. ; DE ARAUJO, CHARLES A. C. . Current Transformer-Based System for Measuring Leakage Current. In: 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023, Rio de Janeiro. 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/inscit59673.2023.10258500"
+        },
+        {
+          "texto": "BEDENIK, GRAZIELLA ; CARVALHO, STÉPHANE ; MOLINA, LUCAS ; CARVALHO, ELYSON ÁDAN NUNES ; LEBRE, ULISSES D. E. S. ; DE ARAUJO, CHARLES A. C. . Antoniou Gyrator as a Tuner for Current Transformers. In: 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023, Rio de Janeiro. 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/inscit59673.2023.10258495"
+        },
+        {
+          "texto": "BEDENIK, GRAZIELLA ; SOUZA, MATHEUS ; CARVALHO, ELYSON A. N. ; MOLINA, LUCAS ; MONTALVAO, JUGURTA ; FREIRE, RAIMUNDO . Analysis of Parameters Influence in a MOX Gas Sensor Model. In: 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022, Ottawa. 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/i2mtc48687.2022.9806695"
+        },
+        {
+          "texto": "LINS, E. T. ; ; MOLINA, L. ; ; SILVA, W. F. . Aplicação da Técnica BoVW para Identificar Falhas em Máquinas Rotativas a Partir de Imagens Termográficas de Baixa Resolução. In: Simpósio Brasileiro de Automação Inteligente (SBAI) 2021, 2021. Anais do SBAI 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, JEFFERSON ; GIVIGI, SIDNEY N. ; FREIRE, EDUARDO OLIVEIRA ; MOLINA, LUCAS ; CARVALHO, ELYSON . Aggressive Motion Planning for a Quadrotor System with Slung Load Based on RRT. In: 2020 IEEE International Systems Conference (SysCon), 2020, Montreal. 2020 IEEE International Systems Conference (SysCon), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/syscon47679.2020.9275664"
+        },
+        {
+          "texto": "FARIAS, WESLLEY ALVES ; FREIRE, EDUARDO OLIVEIRA ; GIVIGI, SIDNEY NASCIMENTO ; CARVALHO, ELYSON ADAN NUNES ; MOLINA, LUCAS . Comparison between fuzzy and neural controllers to cross the reality gap in evolutionary robotics. In: 2018 Annual IEEE International Systems Conference (SysCon), 2018, Vancouver. 2018 Annual IEEE International Systems Conference (SysCon), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/syscon.2018.8369535"
+        },
+        {
+          "texto": "CARDOSO DE OLIVEIRA JESUS, RAPHAEL ; MOLINA, LUCAS ; OLIVEIRA FREIRE, EDUARDO ; ADAN NUNES CARVALHO, ELYSON . Solving Inverse Kinematics of Planar Manipulators with Robustness to Singularities by Reverse Operating Neural Networks. In: 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, Joao Pessoa. 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018. p. 153.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/LARS/SBR/WRE.2018.00036"
+        },
+        {
+          "texto": "DE LIMA SILVEIRA JUNIOR, JEFFERSON ; CARDOSO DE OLIVEIRA JESUS, RAPHAEL ; MOLINA, LUCAS ; ADAN NUNES CARVALHO, ELYSON ; OLIVEIRA FREIRE, EDUARDO . FRPSO: Inverse Kinematics Using Fully Resampled Particle Swarm Optimization. In: 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, Joao Pessoa. 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018. p. 402.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/LARS/SBR/WRE.2018.00078"
+        },
+        {
+          "texto": "CARDOSO DE OLIVEIRA JESUS, RAPHAEL ; OLIVEIRA FREIRE, EDUARDO ; MOLINA, LUCAS ; ADAN NUNES CARVALHO, ELYSON . Neural Networks with Physical Meaning: Representation of Kinematic Equations from Robot Arms Using a Neural Network Topology. In: 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, Joao Pessoa. 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018. p. 408.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/LARS/SBR/WRE.2018.00079"
+        },
+        {
+          "texto": "SANTANA, ALANA ; OLIVEIRA FREIRE, EDUARDO ; KAMARRY, STEPHANIE ; ADAN NUNES CARVALHO, ELYSON ; MOLINA, LUCAS . The Polarized RRT-Edge Approach. In: 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018, Joao Pessoa. 2018 Latin American Robotic Symposium, 2018 Brazilian Symposium on Robotics (SBR) and 2018 Workshop on Robotics in Education (WRE), 2018. p. 271.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/LARS/SBR/WRE.2018.00057"
+        },
+        {
+          "texto": "CORREIA, A. S. ; ; ; MOLINA, L. . Aplicação de mapas de saliência como limitadores de região para detectores clássicos na tarefa de odometria visual. In: Congresso Brasileiro de Automática, 2018, João Pessoa - PB. Anais do CBA 2018, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA JUNIOR, J. L. ; ; ; MOLINA, L. . Projeto e Desenvolvimento de um Sistema de Eletromiografia de Superfície. In: Congresso Brasileiro de Automática, 2018, João Pessoa - PB. Anais do CBA 2018, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, M. C. ; SANTOS, P. C. ; SANTOS, S. O. C. ; ; ; MOLINA, L. ; CARVALHO-FILHO, J. G. N. . Caboclinhos: Projeto Aberto do Time de Futebol de Robôs da Universidade Federal de Sergipe. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "JESUS, R. C. O. ; SOUZA, S. K. A. ; SANTANA, V. C. ; ; ; MOLINA, L. ; CARVALHO-FILHO, J. G. N. . The Importance of Selection Processes in Robotics Research Groups: A Case Study of the Group of Research in Robotics at UFS (GPR-UFS). In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FARIAS, W. A. ; CORREIA, A. S. ; SILVEIRA JUNIOR, J. L. ; MELO, G. M. B. ; CARVALHO-FILHO, J. G. N. ; ; ; MOLINA, L. . CABOCLINHOS: An Open Robotic Educational Platform for Engineering Students. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; CARVALHO-FILHO, J. G. N. . Atraindo Jovens para a Ciência Através do Futebol de Robôs. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DE SANTANA CORREIA, ALANA ; KAMARRY, STEPHANIE ; MOLINA, LUCAS ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA . RRT-Edge: A compact approach for path planning of mobile robots. In: 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017, Curitiba. 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/sbr-lars-r.2017.8215282"
+        },
+        {
+          "texto": "GREGORIN, LIVIA ; FREIRE, EDUARDO ; CARVALHO, ELYSON ; MOLINA, LUCAS ; GIVIGI, SIDNEY . Evolutionary robotics applied to the multi-robot worst-case pursuit-evasion problem. In: 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016, New York City. 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/uemcon.2016.7777836"
+        },
+        {
+          "texto": "SANTOS, P. C. ; ; MOLINA, L. ; . A Methodology to Implement Subsumption Architecture Based on Discrete Event Systems Formalism. In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, S. K. A. ; SANTOS, P. C. ; MOLINA, L. ; ; . Uma nova abordagem híbrida para navegação em ambientes dinâmicos baseado na DRRT. In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, P. C. ; ; MOLINA, L. ; . Developing intelligent wheelchairs for serious disabled people based on eye-blinking. In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2015, Natal-RN. Anais do Simpósio Brasileiro de Automação Inteligente, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, S. K. A. ; MOLINA, L. ; ; . DRRT: Uma nova abordagem para aumentar a dispersão dos nós na RRT aplicada à representação do ambiente e planejamento de caminho.. In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2015, Natal - RN. Anais do Simpósio Brasileiro de Automação Inteligente, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "GONCALVES, A. R. C. ; ; MOLINA, L. ; . Problema de perseguição-evasão baseado em random walk. In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2015, Natal - RN. Anais do Simpósio Brasileiro de Automação Inteligente, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BISPO, F. S. C. ; ; MOLINA, L. ; . Navegação de robôs móveis em formação líder-seguidor para escolta. In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2015, Natal - RN. Anais do Simpósio Brasileiro de Automação Inteligente, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SILVEIRA, JEFFERSON DE L. ; FREIRE, EDUARDO O. ; MOLINA, LUCAS ; CARVALHO, ELYSON A.N. . A Simple Visual Odometry Approach Based on Point Clouds. In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (LARSSBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR), 2015. p. 204.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/lars-sbr.2015.39"
+        },
+        {
+          "texto": "KAMARRY, STEPHANIE ; MOLINA, LUCAS ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA . Compact RRT: A New Approach for Guided Sampling Applied to Environment Representation and Path Planning in Mobile Robotics. In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (SBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR), 2015. p. 259.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/lars-sbr.2015.40"
+        },
+        {
+          "texto": "SOUZA, S. K. A. ; MOLINA, L. ; ; ; . Mapeamento utilizando análise de componentes principais. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande - PB. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. W. O. ; ; MOLINA, L. ; ; CARVALHO-FILHO, J. G. N. . Desenvolvimento de um Encoder Absoluto Analógico para a Medição de Posição e Velocidade Angular de Motores. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande - PB. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, P. C. ; ; MOLINA, L. ; . Sistema de Auxílio à Comunicação de Usuários Descapacitados Baseado em Movimento Ocular. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande - PB. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CORREIA, A. S. ; SANTOS, A. L. O. ; ; ; SOARES, F. S. ; SILVA, I. A. R. ; SILVEIRA JUNIOR, J. L. ; MOLINA, L. ; GONCALVES, M. S. B. ; OLIVEIRA, M. C. ; SANTOS, P. C. ; SANTANA, R. A. ; SOUZA, S. K. A. ; ALVAIA, T. M. ; VIEIRA, T. M. . CABOCLINHOS: Artigo de Descrição do Time de Futebol de Robôs da Universidade Federal de Sergipe na Categoria F180. In: Latin-american Robot Competition - LARC 2012, 2012, Fortaleza - CE. Proceedings of the Latin-american Robot Competition, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, P. C. ; MOLINA, L. ; ; . A Methodology to Designing Strategies for Robot Soccer Based on Discrete Event Systems Formalism. In: IEEE Latin American Robotics Symposium (IEEE LARS), 2012, Fortaleza - CE. Proccedings of IEEE Latin American Robotics Symposium 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; MOLINA, L. . Human Based Benchmark for Robot Navigation Assessment.. In: ISSNIP Biosignals and Biorobotics Conference, 2010, Vitoria. Proceedings of the ISSNIP Biosignals and Biorobotics Conference 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Fault-Tolerant Weld Line Detection Based On Distance and Visual Information Fusion. In: ROBOCONTROL 2010, 2010, Bauru-SP. Proceedings of ROBOCONTROL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; BASILO, J. C. S. ; ; . Desenvolvimento de uma Arquitetura de Navegação Deliberativa Para Robôs Móveis Utilizando a Teoria de Controle Supervisório. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito-RS. Anais do XVIII Congresso Brasileiro de Automática, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ; . A Model-Based Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Using Visual Information and Alpha-Beta Filter. In: IEEE Latin American Robotics Symposium 2010 (IEEE-LARS 2010), 2010, Sao Bernardo do Campo - SP. Proccedings of IEEE Latin American Robotics Symposium 2010 (IEEE-LARS 2010), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; MOLINA, L. . Applications of Stochastic Approaches in Mobile Robotics: An Overview of Recent Brazilian Works. In: IEEE Latin American Robotics Symposium 2010 (IEEE-LARS 2010), 2010, São Bernardo do Campo - SP. Proccedings of IEEE Latin American Robotics Symposium 2010 (IEEE-LARS 2010), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Distance and Visual Information Fusion. In: IEEE International Instrumentation and Measurement Technology Conference - IEEE I2MTC 2009, 2009, Singapore. Proceedings of IEEE I2MTC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. ; ; . Medição de Velocidade Angular Usando PLL: Medidas de Alta Resolução Usando Enconders de Baixa Resolução. In: 8th International Seminar on Electrical Metrology - VIII SEMETRO, 2009, João Pessoa. Anais do 8th International Seminar on Electrical Metrology, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, E. A. N. ; ; ; ; MOLINA, L. . ROBO-SE: Artigo de Descrição do Time de Futebol de Robôs da Universidade Federal de Sergipe. In: Competição Brasileira de Robótica - CBR 2009, 2009, Brasília. Anais da Competição Brasileira de Robótica, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; MOURA, M. A. ; ; . Estimação de posição e velocidade de robôs móveis com restrições holonômicas utilizando sensores de fluxo óptico e filtro alfa-beta. In: Simpósio Brasileiro de Automação Inteligente - IX SBAI 2009, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ; . Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Visual Information and Alfa-Beta Filter. In: Simpósio Brasileiro de Automação Inteligente - IX SBAI 2009, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; MOLINA, L. . Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos. In: Simpósio Brasileiro de Automação Inteligente - IX SBAI 2009, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Estimação de Posição e Orientação para Robôs Móveis. In: Simpósio Brasileiro de Automação Inteligente - IX SBAI 2009, 2009, Brasília. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; MOURA, M. A. ; ; . Um Método de Visão Robótica para Identificação de Cordões de Solda em Tanques de Armazenamento Visando Inspeção Automatizada. In: XVII Congresso Brasileiro de Automática, 2008, Juiz de Fora. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Sistema para identificação, localização e estimação de cordões de solda presentes em tanques de armazenamento de combustíveis derivados do petróleo. In: XVII Congresso Brasileiro de Automática, 2008, Juiz de Fora. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ; ; . A Robotic Vision System Using a Modified Hough Transform to Perform Weld Line Detection on Storage Tanks. In: IEEE Latin American Robotics Symposium 2008 (IEEE-LARS 2008), 2008, Salvador - BA. Proccedings of IEEE Latin American Robotics Symposium 2008 (IEEE-LARS 2008), 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. ; ; . High resolution analogical measurement of the angular velocity of a motor using a low resolution optical encoder. In: Robocontrol'08, 2008, Bauru - SP. Proccedings of Robocontrol'08, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; . Processamento Robusto de Imagens de Mãos para Aplicação Biométrica. In: VII ERBASE - Escola regional de Computação Bahia-Alagoas-Sergipe, 2007, Vitória da Conquista - BA. Anais do VII ERBASE, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; ; . Desenvolvimento de um Sistema de Baixo Custo para Identificação de Cordões de Solda para Inspeção Automatizada de Tanques Esféricos.. In: VIII Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis-SC. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Fillet Weld Identification for Automatic Inspection of Spherical Tanks. In: IEEE Instrumentation and Measurement Technology Conference (IMTC), 2007, Varsóvia. Proccedings of IEEE Instrumentation and Measurement Technology Conference Proceedings, 2007, 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "FARIAS, WESLLEY ALVES ; FREIRE, RAIMUNDO CARLOS SILVÉRIO ; CARVALHO, ELYSON ÁDAN NUNES ; FILHO, JOSÉ GILMAR NUNES CARVALHO ; MOLINA, LUCAS ; FREIRE, EDUARDO OLIVEIRA . Voronoi-Based Approach to Increase Connectivity and Coverage in Randomly Deployed Wireless Sensor Networks. In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/inscit62583.2024.10693374"
+        },
+        {
+          "texto": "MOLINA, L. ; ; . O Uso de Processamento de Imagem Para Identificação de Cordões de Solda para Inspeção Automatizada de Esferas de Armazenamento. In: IX SEMPESq, 2007, Aracaju - SE. Anais do IX SEMPESq, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Criação de uma base de dados de perfis de cordões de solda para o desenvolvimento e teste de controladores de trajetória para inspeção automatizada de esferas de armazenamento.. In: IX SEMPESq, 2007, Aracaju - SE. Anais do IX SEMPESq, 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Estimação de posição e velocidade de robôs móveis com restrições holonômicas utilizando sensores de fluxo óptico e filtro alfa-beta. 2009. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Fault-Tolerant Weld line Detection for Automatic inspection of Storage Tanks Based on Visual information and Alfa-Beta Filter. 2009. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . O Uso de Processamento de Imagem Para Identificação de Cordões de Solda para Inspeção Automatizada de Esferas de Armazenamento. 2007. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Criação de uma base de dados de perfis de cordões de solda para o desenvolvimento e teste de controladores de trajetória para inspeção automatizada de esferas de armazenamento.. 2007. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Criação de uma base de dados de perfis de cordões de solda para o desenvolvimento e teste de controladores de trajetória para inspeção automatizada de esferas de armazenamento. 2007. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . O uso de processamento de imagem para identificação de cordões de solda para inspeção automatizada de esferas de armazenamento. 2007. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Controle de Trajetória Através de Segmento de Cordões de Solda para Inspeção Automatizada de Esferas. 2006. (Apresentação de Trabalho/Seminário).",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Desenvolvimento de uma arquitetura de navegação deliberativa para robôs móveis utilizando a teoria de controle supervisório 2010 (Dissertação de Mestrado).",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Problemas, considerações e técnicas a serem utilizadas no sistema de monitoramento por câmeras térmicas do PETROBRAS/CENPES/NUEX. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Proposta de modelagem dinâmica de perfis térmicos e software para reconhecimento automático, e sem contato físico, de falhas em plantas do PETROBRAS/CENPES/NUEX.. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Avaliação de instrumentos e viabilidade de implementação de um sistema de inspeção térmica sem contato no PETROBRAS/CENPES/NUEX. 2010.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Software para simulação, controle e desenvolvimento de estratégias de movimentação para o robô manipulador Pioneer 7DOF. 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Software para simulação, controle e desenvolvimento de estratégias de navegação para o robô móvel Pioneer 3DX. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Software de simulação e controle por simulação 2D de um robô tração diferencial com perspectiva em primeira e em terceira pessoa. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Sistema de simulação, navegação em controle do robô PIONEER 3 DX. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Simulador de um sistema Beam and Ball. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Simulador de robô móvel tipo tração diferencial. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Controle de Acesso aos Sistemas Supervisores do PETROBRAS/CENPES/NUEX. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Manipulação de Base de Dados de instrumentos do PETROBRAS/CENPES/NUEX, via SQL, em Labview. 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "MOLINA, L. ; ; . Protótipo para aquisição de dados de cheiro 6D. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, J. C. ; MOLINA, L. . Plataforma didática para ensino de modelagem e controle: Sistema 1 DOF de posição angular com propulsão dupla. 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CORREIA, A. S. ; SILVA, L. L. V. ; MOLINA, L. . Plataforma didática para ensino de modelagem e controle: Sistema 1 DOF de posição angular. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; ; . Mesa para reposicionamento automático de sensores de inspeção de solda. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. V. ; RIBEIRO, M. G. M. ; MOLINA, L. . Equipamento para Coloração Automatizada de Lâminas. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; . Keyromant - Um Sistema de Identificação Baseado em Geometria da Mão. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; . Computador Analógico. 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Site do Grupo de Pesquisa em Robótica da UFS (GPR-UFS). 2017. (Site).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Site do Campeonato Sergipano de Futebol de Robôs por Simulação. 2017. (Site).",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "MOLINA, L. . Robótica Móvel: introdução à navegação autônoma. 2017. (Curso de curta duração ministrado/Outra).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. . Robótica Móvel: introdução à navegação autônoma. 2015. (Curso de curta duração ministrado/Outra).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Mini-curso de Futebol de Robôs para alunos do ensino médio. 2013. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Mini-curso de Futebol de Robôs para alunos de escolas públicas. 2010. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; CARVALHO, E. A. N. . Mini-curso de Futebol de Robôs. 2008. (Curso de curta duração ministrado/Outra).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; Araújo, G. M. ; CARVALHO, E. A. N. . Mini-curso de Futebol de Robôs. 2007. (Curso de curta duração ministrado/Outra).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; CARVALHO, E. A. N. . Mini-curso de Confecção de Placas. 2007. (Curso de curta duração ministrado/Outra).",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "MOLINA, L. ; ; ; MACHADO, J. B.. Participação em banca de Jefferson de Lima Silveira Junior. PLANEJAMENTO DE MOVIMENTO AGRESSIVO PARA UM SISTEMA DE QUADRICÓPTERO COM CARGA SUSPENSA BASEADO EM RRT. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; SALLES, E. O. T.. Participação em banca de Thiago Santos Silva. Inversão do Sistema SIR-SI para Estimação da Taxa de Contato Humano-vetor e Simulação de Cenários de Surtos da Dengue. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; Sotomayor, O. A. Z.. Participação em banca de Bruno Feldens dos Santos. Técnicas de Sintonia de Controlador Difuso Aplicado ao Controle de Processos. 2019. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Fillipe Levi Guedes Madureira. Estudo Dimensional de Características Aplicadas à Leitura Labial. 2018. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; BASTOS, G. S.. Participação em banca de Weslley Alves Farias. Comparação entre controladores fuzzy e neural desenvolvidos via simulação e transferidos para ambientes reais no âmbito da robótica evolutiva. 2018. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; BRANDAO, A. S.. Participação em banca de Antônio Renato Cruz Gonçalves. Problema de Perseguição-Evasão baseado em RandomWalk. 2016. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. ; VASSALO, R. F.. Participação em banca de Clebeson Canuto dos Santos. Proposta de uma metodologia para obtenção de vocabulários de gestos intuitivos para a interação homem-robô. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Sotomayor, O. A. Z.; MOLINA, L. ; SALAZAR, A. O.. Participação em banca de Miguel Angel Ahumedo Grimaldos. Implementação de um sistema de controle fuzzy multivariável em uma planta didática. 2016. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; RIFFEL, D. B.; . Participação em banca de Wellington Alves Santana Junior. Diagnosticador autômato temporizado para um sistema modular de manufatura. 2016. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; GIVIGI, SIDNEY N.; NASCIMENTO JUNIOR, C. L.. Participação em banca de Lívia do Vale Gregorin. Robótica Evolutiva Aplicada ao Problema de Perseguição-Evasão de Pior Caso com Múltiplos Robôs. 2016. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "MOLINA, L. ; GIBARA, A.. Participação em banca de Camila Ferreira Gomes Correa. Diagnóstico da Doença Periodontal Através da Análise de Compostos Voláteis da Saliva Utilizando Nariz Eletrônico de Baixo Custo. 2021. Exame de qualificação (Mestrando em Ciências Aplicadas à Saúde) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; SOUZA, M. V.; MOLINA, L. . Participação em banca de Daniel Obdoral Lopes de Siqueira.Desenvolvimento da BLUE: Ferramenta de gerenciamento de projetos e clientes voltada para microempresas do ramo de energia solar fotovoltaica (TCC2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; MIRANDA JUNIOR, G. F.. Participação em banca de Israel Jesus Santos Filho.Identificação de sistemas no domínio discreto: Polarização no estimador de mínimos quadrados. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. . Participação em banca de Petersson Matos Cardoso Santana.Tarefa de Foraging com múltiplos agentes. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; BARROS, L. M.. Participação em banca de Jonilson José Demetino Júnior.Proposta e avaliação de guias experimentais por simulação para motivação e preparação de ingressantes nos cursos de engenharia elétrica e eletrônica (TCC2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; CARDOSO, C. A. V.. Participação em banca de Renato Silva Fagundes.Construção, modelagem e controle de uma plataforma de Stewart para fins didáticos. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; CARDOSO, C. A. V.. Participação em banca de Shyenne Pinheiro e Souza.Modelagem e controle embarcado de uma plataforma do tipo pêndulo invertido rotacional. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; . Participação em banca de Ruan Robert Bispo dos Santos.Instrumentação de um veículo aéreo autônomo (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. . Participação em banca de Daniel Obdoral Lopes de Siqueira.Criação de ferramenta de gerenciamento de projetos aplicada em micro empresas de energia solar fotovoltaica (TCC1). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Ruan Robert Bispo dos Santos.Instrumentação de um veículo aéreo autônomo (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; . Participação em banca de João Lucas de Castro Lisboa.Desenvolvimento de um Sistema de Monitoramento do Consumo de Energia Elétrica (TCC2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. . Participação em banca de Jonilson José Demetino Júnior.Desenvolvimento de um kit didático para ensino de instrumentação (TCC1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; COLNAGO, G. P.. Participação em banca de Felipe Aquino de Santana.Filtro Passivo para Redução de Distorção Harmônica em Redes de Baixa Tensão (TCC2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; COLNAGO, G. P.. Participação em banca de Felipe Aquino de Santana.Filtro Passivo para Redução de Distorção Harmônica em Redes de Baixa Tensão (TCC1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, R. B.; MOLINA, L. ; COLNAGO, G. P.. Participação em banca de Danilo Silveira Viana.Caracterização de metais baseada em análise modal. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. . Participação em banca de Albert Firmino Costa Rosa.Reconhecimento automático de placas veiculares para controle de acesso físico. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. . Participação em banca de Victor Emannoel Santos Luz.Implementação de um sistema de geração de bases artificiais distorcidas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MOLINA, L. . Participação em banca de Jefferson de Lima Silveira Junior.Desenvolvimento de um sistema de eletromiografia de superfície com aplicação em prótese robótica (TCC 1). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, LUCAS ; Sotomayor, O. A. Z.; . Participação em banca de Julio Cesar dos Santos.Planta didática: controle de posição angular para haste com propulsão por hélices (TCC 1). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; BARROS, L. M.. Participação em banca de João Lucas de Castro Lisboa.Desenvolvimento de um sistema de monitoramento de consumo de energia elétrica (TCC 1). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; Sotomayor, O. A. Z.. Participação em banca de Julio Cesar dos Santos.Planta didática: controle de posição angular para haste com propulsão por hélices (TCC 2). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Matheus Gouveia Galvão.Desenvolvimento e construção de um quadrimotor autônomo utilizando técnicas de navegação (TCC 2). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO, C. A. V.; MOLINA, L. ; CARVALHO-FILHO, J. G. N.. Participação em banca de Danillo Vieira dos Santos Lins.Detecção de falha usando Redes de Petri em uma planta de manufatura (TCC 2). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; . Participação em banca de Jefferson de Lima Silveira Junior.Desenvolvimento de um sistema de eletromiografia de superfície com aplicação em prótese robótica (TCC 2). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Sotomayor, O. A. Z.; MOLINA, L. ; ARCIERI, M.. Participação em banca de Thiago Santos Silva.Controle por linearização entrada-saída para funções genéricas de uma plataforma bola e placa (TCC 2). 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO, C. A. V.; ; MOLINA, L. . Participação em banca de Flavio Couvo Teixeira Maia.Modelagem e controle de um robô manipulador utilizando Redes de Petri (TCC 2). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; CARDOSO, C. A. V.. Participação em banca de Laianna Lana Virginio da Silva.MODELAGEM, SIMULAÇÃO E CONTROLE DE TEMPERATURA DE UMA PLANTA DIDÁTICA (TCC 2). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; MATOS, L. N.; . Participação em banca de Alana de Santana Correia.SELEÇÃO AUTOMÁTICA DE MAPAS DE CARACTERÍSTICAS EM SISTEMAS DE ATENÇÃO VISUAL BIOLOGICAMENTE INSPIRADOS (TCC 2). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Matheus Gouveia Galvão.Desenvolvimento e construção de um quadrimotor autônomo utilizando técnicas de navegação (TCC 1). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; . Participação em banca de Thiago Santos Silva.Análise e Construção de uma plataforma Ball and Plate para ensino de controle (TCC 1). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO, C. A. V.; MOLINA, L. ; CARVALHO-FILHO, J. G. N.. Participação em banca de Danillo Vieira dos Santos Lins.Detecção de falha usando Redes de Petri em uma planta de manufatura (TCC 1). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ALMEIDA, A. M. F.. Participação em banca de Mikaelle Lucindo do Nascimento.Desenvolvimento de um sistema de monitoramento de consumo de energia elétrica residencial (TCC 2). 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Stephanie KAmarry Alves de Souza.Planejamento de Movimento para robôs móveis utilizando Rapdly-Exploring Random Tree (TCC 2). 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; ; . Participação em banca de Phillipe Cardoso Santos.Desenvolvimento de um sistema supervisório para navegação de robôs móveis baseado em objetivo de controle principal (TCC 2). 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ; . Participação em banca de Marcelo dos Santos Botelho Gonçalves.Navegação de múltiplos robôs em formação com desvio de obstáculos (TCC 2). 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ALMEIDA, A. M. F.. Participação em banca de Mikaelle Lucindo do Nascimento.Desenvolvimento de um sistema de monitoramento de consumo de energia elétrica residencial (TCC 1). 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; . Participação em banca de Luiz Miranda Cavalcante Neto.NAVEGAÇÃO DE MÚLTIPLOS ROBÔS EM FORMAÇÃO (TCC 2). 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Daniel Carlos Floresta Felix.Sistema de Navegação de um Robô Móvel: Modelagem e Navegação Utilizando RRT (TCC 2). 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Matheus Garcia Fonseca.SISTEMA DE MEDIÇÃO DE FORÇA PARA DETERMINAÇÃO DE LIMIAR DE DOR EM ANIMAIS DE LABORATÓRIO (TCC 2). 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Marcelo dos Santos Botelho Gonçalves.Navegação de múltiplos robôs em formação com desvio de obstáculos (TCC 1). 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. . Participação em banca de Davi Alves da Silva.Implementação de um sistema integrado de eletroestimulação (TCC 1). 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; MOLINA, L. ; . Participação em banca de Matheus Ventura Souza.Sistema de irrigação automatizado baseado na medida de evapotranspiração (TCC 2). 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; . Participação em banca de Stephanie Kamarry Alves de Souza.Planejamento de movimento para robôs móveis utilizando Rapdly-Exploring Random Tree (TCC 1). 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MOLINA, L. ; ; ; . Participação em banca de Luiz Miranda Cavalcante Neto.NAVEGAÇÃO DE MÚLTIPLOS ROBÔS EM FORMAÇÃO (TCC 1). 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Emisson Santana de Oliveira.Desenvolvimento e estudo de um robô móvel esférico (TCC 2). 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; LEITE, J. A. F.; ; . Participação em banca de Marcos Vinícius Silva Alves.Fusão em hardware de sinais de controle chaveados aplicados à robótica móvel. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Sotomayor, O. A. Z.; ; GOMES, C. F.. Participação em banca de Cleverton Rogério dos Santos.Detecção de Oscilações em Malhas de Controle. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "BASILO, J. C. S.; ; Oliveira, T. R.; Lizarralde, F. C.. Participação em banca de Daniel Vaz Campos.Desvio de obstáculos em trajetórias de robôs móveis com arquitetura de navegação reativa utilizando autômatos. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "Sotomayor, O. A. Z.; ; . Professor Temporário: Engenharia Eletrônica - Controle. 2012. Universidade Federal de Sergipe.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

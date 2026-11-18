@@ -1,0 +1,130 @@
+{
+  "name": "Raul Torres Bernardo",
+  "lattes_id": "7204415885849096",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Evaluating the Application of a Perturbation-Based Inertia Estimation Methodology With Synchrophasor Data of the Brazilian Interconnected Power System",
+          "autores": "PEREIRA, JULIANA LUIZA ; MORAES, GUIDO ROSSETTO ; BERNARDO, RAUL TORRES ; DOTTA, DANIEL ; TIETZ, AUGUSTO ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; ISSICABA, DIEGO",
+          "periodico": "IEEE Access , v. 13, p. 120369-120377, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3586839",
+          "citacao_completa": "PEREIRA, JULIANA LUIZA ; MORAES, GUIDO ROSSETTO ; BERNARDO, RAUL TORRES ; DOTTA, DANIEL ; TIETZ, AUGUSTO ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; ISSICABA, DIEGO . Evaluating the Application of a Perturbation-Based Inertia Estimation Methodology With Synchrophasor Data of the Brazilian Interconnected Power System. IEEE Access , v. 13, p. 120369-120377, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A Data-driven Approach for the Design of Wide-Area Damping Controllers",
+          "autores": "BERNARDO, RAUL T. ; CAMPESTRINI, LUCÍOLA ; OLIVEIRA, RICARDO C. L. F. ; AQUINO, ANTONIO F. C. ; DOTTA, DANIEL",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1, 2023.",
+          "doi": "http://dx.doi.org/10.1007/s40313-023-01026-0",
+          "citacao_completa": "BERNARDO, RAUL T. ; CAMPESTRINI, LUCÍOLA ; OLIVEIRA, RICARDO C. L. F. ; AQUINO, ANTONIO F. C. ; DOTTA, DANIEL . A Data-driven Approach for the Design of Wide-Area Damping Controllers. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1, 2023."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Simplified Robust Control Design Method for Wide Area Damping Controllers",
+          "autores": "TORRES BERNARDO, RAUL ; DOTTA, DANIEL",
+          "periodico": "IEEE Latin America Transactions , v. 16, p. 453-459, 2018.",
+          "doi": "http://dx.doi.org/10.1109/tla.2018.8327399",
+          "citacao_completa": "TORRES BERNARDO, RAUL ; DOTTA, DANIEL . A Simplified Robust Control Design Method for Wide Area Damping Controllers. IEEE Latin America Transactions , v. 16, p. 453-459, 2018."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "ESTIMAÇÃO DA INÉRCIA DE GRUPOS DE GERADORES A PARTIR DE DADOS PÓS-PERTURBAÇÃO DE PMUS EXISTENTES NO SIN",
+          "autores": "PEREIRA, J. L. ; MORAES, G. R. ; BERNARDO, R. T. ; AQUINO, A. F. C. ; ISSICABA, D. ; PENNA, L. D. ; DOTTA, D. ; DEKER, I. C.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023, Brasília. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, J. L. ; MORAES, G. R. ; BERNARDO, R. T. ; AQUINO, A. F. C. ; ISSICABA, D. ; PENNA, L. D. ; DOTTA, D. ; DEKER, I. C. . ESTIMAÇÃO DA INÉRCIA DE GRUPOS DE GERADORES A PARTIR DE DADOS PÓS-PERTURBAÇÃO DE PMUS EXISTENTES NO SIN. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023, Brasília. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "An Online Data-Driven Tuning of Control Parameters for a Grid-Forming Inverter",
+          "autores": "DOS SANTOS, LUCAS E. ; BERNARDO, RAUL T. ; ALCAHUAMAN, HEVER ; OTA, JOAO I.Y. ; POMILIO, J. A. ; DOTTA, DANIEL",
+          "periodico": "In: 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022, Denver. 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/pesgm48719.2022.9917112",
+          "citacao_completa": "DOS SANTOS, LUCAS E. ; BERNARDO, RAUL T. ; ALCAHUAMAN, HEVER ; OTA, JOAO I.Y. ; POMILIO, J. A. ; DOTTA, DANIEL . An Online Data-Driven Tuning of Control Parameters for a Grid-Forming Inverter. In: 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022, Denver. 2022 IEEE Power & Energy Society General Meeting (PESGM), 2022. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Modified VRFT Approach for Retuning Power System Damping Controllers",
+          "autores": "BERNADO, RAUL TORRES ; NASCIMENTO, MOISES MARTINS DO ; DOTTA, DANIEL",
+          "periodico": "In: 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, Montreal. 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/pesgm41954.2020.9281381",
+          "citacao_completa": "BERNADO, RAUL TORRES ; NASCIMENTO, MOISES MARTINS DO ; DOTTA, DANIEL . A Modified VRFT Approach for Retuning Power System Damping Controllers. In: 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020, Montreal. 2020 IEEE Power & Energy Society General Meeting (PESGM), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Data-Driven Secondary Voltage Control Design using PMU Measurements",
+          "autores": "NASCIMENTO, MOISES M. ; BERNARDO, RAUL T. ; DOTTA, DANIEL",
+          "periodico": "In: 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020, Washington. 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020. p. 1-5.",
+          "doi": "http://dx.doi.org/10.1109/ISGT45199.2020.9087785",
+          "citacao_completa": "NASCIMENTO, MOISES M. ; BERNARDO, RAUL T. ; DOTTA, DANIEL . Data-Driven Secondary Voltage Control Design using PMU Measurements. In: 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020, Washington. 2020 IEEE Power & Energy Society Innovative Smart Grid Technologies Conference (ISGT), 2020. p. 1-5."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Development of Wide-Area Control Scheme in Power System Toolbox",
+          "autores": "NANNI, MARCELO ; TORRES BERNARDO, RAUL ; DOTTA, DANIEL",
+          "periodico": "In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895406",
+          "citacao_completa": "NANNI, MARCELO ; TORRES BERNARDO, RAUL ; DOTTA, DANIEL . Development of Wide-Area Control Scheme in Power System Toolbox. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An improved LMI-based approach for the design of power system damping controllers.",
+          "autores": "BERNARDO, R. T. ; OLIVEIRA, R. C. L. F. ; DOTTA, D.",
+          "periodico": "In: ROCOND'18, 2018, Florianópolis, SC. Proceedings of the Joint 9th IFAC Symposium on Robust Control Design and 2nd IFAC Workshop on Linear Parameter Varying Systems, 2018. p. 435-440.",
+          "doi": "",
+          "citacao_completa": "BERNARDO, R. T. ; OLIVEIRA, R. C. L. F. ; DOTTA, D. . An improved LMI-based approach for the design of power system damping controllers.. In: ROCOND'18, 2018, Florianópolis, SC. Proceedings of the Joint 9th IFAC Symposium on Robust Control Design and 2nd IFAC Workshop on Linear Parameter Varying Systems, 2018. p. 435-440."
+        },
+        {
+          "ano": 2017,
+          "titulo": "PROJETO DE ESTABILIZADORES DE SISTEMAS DE POTENCIA COM SINCROFASORES UTILIZANDO OTIMIZACAO NAO-CONVEXA",
+          "autores": "BERNARDO, R. T. ; LUGNANI, L. ; DOTTA, D.",
+          "periodico": "In: SBAI, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente, 2017. p. 101-106.",
+          "doi": "",
+          "citacao_completa": "BERNARDO, R. T. ; LUGNANI, L. ; DOTTA, D. . PROJETO DE ESTABILIZADORES DE SISTEMAS DE POTENCIA COM SINCROFASORES UTILIZANDO OTIMIZACAO NAO-CONVEXA. In: SBAI, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente, 2017. p. 101-106."
+        },
+        {
+          "ano": 2093,
+          "titulo": "ESTIMACAO DA RESPOSTA INERCIAL DE SISTEMAS DE ENERGIA ELÉTRICA UTILIZANDO SINCROFASORES",
+          "autores": "LUGNANI, L. ; BERNARDO, R. T. ; DOTTA, D.",
+          "periodico": "In: SBAI, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente, 2017. p. 2088-2093.",
+          "doi": "",
+          "citacao_completa": "LUGNANI, L. ; BERNARDO, R. T. ; DOTTA, D. . ESTIMACAO DA RESPOSTA INERCIAL DE SISTEMAS DE ENERGIA ELÉTRICA UTILIZANDO SINCROFASORES. In: SBAI, 2017, Porto Alegre. Anais do XIII Simpósio Brasileiro de Automação Inteligente, 2017. p. 2088-2093."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Potencial socioambiental do conversor de torque (caixa demarchas) na eficiência energética de veículos elétricos",
+          "membros": "SILVA, D. J. P.; TEIXEIRA, F. C.; BERNARDO, R. T.",
+          "candidato": "Ícaro Hissao Rocha Mandai",
+          "citacao_completa": "SILVA, D. J. P.; TEIXEIRA, F. C.; BERNARDO, R. T. . Participação em banca de Ícaro Hissao Rocha Mandai. Potencial socioambiental do conversor de torque (caixa demarchas) na eficiência energética de veículos elétricos. 2024. Dissertação (Mestrado em CIÊNCIA E ENGENHARIA AMBIENTAL) - Universidade Federal de Alfenas."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": ".Recondicionamento e Caracterização de um Pluviômetro De Báscula",
+          "membros": "LIBANIO, C. R.; SARDINHA, D. S.; BERNARDO, R. T. ; HIRANO, L. A.",
+          "candidato": "João Guilherme Carvalho Roberto; Sérgio Rodrigo Maggion Meli",
+          "citacao_completa": "LIBANIO, C. R.; SARDINHA, D. S.; BERNARDO, R. T. ; HIRANO, L. A.. Participação em banca de João Guilherme Carvalho Roberto; Sérgio Rodrigo Maggion Meli.Recondicionamento e Caracterização de um Pluviômetro De Báscula. 2023. Trabalho de Conclusão de Curso (Graduação em Interdisciplinar em Ciência e Tecnologia) - Universidade Federal de Alfenas."
+        }
+      ]
+    }
+  ]
+}

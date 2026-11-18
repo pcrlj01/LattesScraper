@@ -1,0 +1,613 @@
+{
+  "name": "Leonardo Lira Ramalho",
+  "lattes_id": "7565458988876048",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Distributed MIMO with 5G NR Signals: a Standard-Compliant Evaluation",
+          "autores": "RENDEIRO, PEDRO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; ; RAMALHO, LEONARDO",
+          "periodico": "IEEE Access , v. 13, p. 153773-153787, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3602729",
+          "citacao_completa": "RENDEIRO, PEDRO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; ; RAMALHO, LEONARDO . Distributed MIMO with 5G NR Signals: a Standard-Compliant Evaluation. IEEE Access , v. 13, p. 153773-153787, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications",
+          "autores": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ; ISSICABA, DIEGO",
+          "periodico": "ROBOTICA , v. 1, p. 1-18, 2025.",
+          "doi": "http://dx.doi.org/10.1017/s0263574725102907",
+          "citacao_completa": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ; ISSICABA, DIEGO . Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications. ROBOTICA , v. 1, p. 1-18, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "CSI Compression for Distributed-MIMO with Centralized Precoding and Power Allocation",
+          "autores": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ;",
+          "periodico": "Ieee Communications Letters , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/LCOMM.2023.3264944",
+          "citacao_completa": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; . CSI Compression for Distributed-MIMO with Centralized Precoding and Power Allocation. Ieee Communications Letters , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A SBC-Based Data Acquisition System: a Case Study on Smart Reclosers and Multiagent Systems",
+          "autores": "RAMALHO, LEONARDO L. ; CORREA, ILAN ; MONTEIRO, MARCOS ; ISSICABA, DIEGO ; FERREIRA, TARSO V. ; DE FARIA, RICARDO A. O.",
+          "periodico": "IEEE Access , v. 11, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/access.2023.3276720",
+          "citacao_completa": "RAMALHO, LEONARDO L. ; CORREA, ILAN ; MONTEIRO, MARCOS ; ISSICABA, DIEGO ; FERREIRA, TARSO V. ; DE FARIA, RICARDO A. O. . A SBC-Based Data Acquisition System: a Case Study on Smart Reclosers and Multiagent Systems. IEEE Access , v. 11, p. 1-1, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Rate Control for Entropy-Coded LPC: Application to Packet-Based Fronthauling",
+          "autores": "RAMALHO, LEONARDO ; FORTUNA, JOARY ; LU, CHENGUANG ; BERG, MIGUEL ; ALMEIDA, IGOR ;",
+          "periodico": "Ieee Transactions On Communications , v. 70, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tcomm.2022.3188827",
+          "citacao_completa": "RAMALHO, LEONARDO ; FORTUNA, JOARY ; LU, CHENGUANG ; BERG, MIGUEL ; ALMEIDA, IGOR ; . Rate Control for Entropy-Coded LPC: Application to Packet-Based Fronthauling. Ieee Transactions On Communications , v. 70, p. 1-1, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A New O-RAN Compression Approach for Improved Performance on Uplink Signals",
+          "autores": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; BERG, MIGUEL ;",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 37, p. 30-41, 2022.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2022.3",
+          "citacao_completa": "SILVA, MARCOS ; RAMALHO, LEONARDO ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO ; BERG, MIGUEL ; . A New O-RAN Compression Approach for Improved Performance on Uplink Signals. Journal of Communication and Information Systems (JCIS), , v. 37, p. 30-41, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Functional Split and Frequency-Domain Processing for Fronthaul Traffic Reduction",
+          "autores": "NAHUM, CLEVERSON ; RAMALHO, LEONARDO ; ; MEDEIROS, EDUARDO ; ALMEIDA, IGOR ; TROJER, ELMAR",
+          "periodico": "Ieee Communications Letters , v. 25, p. 2758-2762, 2021.",
+          "doi": "http://dx.doi.org/10.1109/lcomm.2021.3083102",
+          "citacao_completa": "NAHUM, CLEVERSON ; RAMALHO, LEONARDO ; ; MEDEIROS, EDUARDO ; ALMEIDA, IGOR ; TROJER, ELMAR . Functional Split and Frequency-Domain Processing for Fronthaul Traffic Reduction. Ieee Communications Letters , v. 25, p. 2758-2762, 2021."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Improved LPC-Based Fronthaul Compression with High Rate Adaptation Resolution",
+          "autores": "RAMALHO, LEONARDO ; FREIRE, IGOR ; LU, CHENGUANG ; BERG, MIGUEL ;",
+          "periodico": "IEEE COMMUNICATIONS LETTERS , v. 22, p. 1-1, 2018.",
+          "doi": "http://dx.doi.org/10.1109/lcomm.2018.2791407",
+          "citacao_completa": "RAMALHO, LEONARDO ; FREIRE, IGOR ; LU, CHENGUANG ; BERG, MIGUEL ; . Improved LPC-Based Fronthaul Compression with High Rate Adaptation Resolution. IEEE COMMUNICATIONS LETTERS , v. 22, p. 1-1, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An LPC-Based Fronthaul Compression Scheme",
+          "autores": "RAMALHO, LEONARDO ; FONSECA, MARIA NILMA ; ; LU, CHENGUANG ; BERG, MIGUEL ; TROJER, ELMAR ; HOST, STEFAN",
+          "periodico": "IEEE Communications Letters (Print) , v. 20, p. 1-1, 2016.",
+          "doi": "http://dx.doi.org/10.1109/LCOMM.2016.2624296",
+          "citacao_completa": "RAMALHO, LEONARDO ; FONSECA, MARIA NILMA ; ; LU, CHENGUANG ; BERG, MIGUEL ; TROJER, ELMAR ; HOST, STEFAN . An LPC-Based Fronthaul Compression Scheme. IEEE Communications Letters (Print) , v. 20, p. 1-1, 2016."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Machine Learning-Based Holdover for IEEE 1588 PTP Packet Fronthauling",
+          "autores": "SANTOS, DOUGLAS ; SOUZA, GUSTAVO ; DUTRA, RODRIGO ; MOHAJERZADEH, AMIR H. ; RAMALHO, LEONARDO ; ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO",
+          "periodico": "In: 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024, Rio de Janeiro. 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISWCS61526.2024.10639118",
+          "citacao_completa": "SANTOS, DOUGLAS ; SOUZA, GUSTAVO ; DUTRA, RODRIGO ; MOHAJERZADEH, AMIR H. ; RAMALHO, LEONARDO ; ; ALMEIDA, IGOR ; MEDEIROS, EDUARDO . Machine Learning-Based Holdover for IEEE 1588 PTP Packet Fronthauling. In: 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024, Rio de Janeiro. 2024 19th International Symposium on Wireless Communication Systems (ISWCS), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Spectral Variation-Based Compression: A Case Study with Leakage Current Monitoring",
+          "autores": "DINIZ, MERCEDES ; ANJOS, PAULO ; RENDEIRO, PEDRO ; ARAUJO, CHARLES ; LEBRE, ULISSES ; RAMALHO, LEONARDO",
+          "periodico": "In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps65035.2024.10814138",
+          "citacao_completa": "DINIZ, MERCEDES ; ANJOS, PAULO ; RENDEIRO, PEDRO ; ARAUJO, CHARLES ; LEBRE, ULISSES ; RAMALHO, LEONARDO . Spectral Variation-Based Compression: A Case Study with Leakage Current Monitoring. In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Connectivity Evaluation of ESP32 in Outdoor Scenarios",
+          "autores": "RENDEIRO, PEDRO ; LEITE, JAMILE LEITE ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO",
+          "periodico": "In: Computer on the Beach, 2023, Florianópolis - Santa Catarina. Anais do XIV Computer on the Beach - COTB'23. Itajaí: Universidade do Vale do Itajaí, 2023. p. 333.",
+          "doi": "http://dx.doi.org/10.14210/cotb.v14.p333-338",
+          "citacao_completa": "RENDEIRO, PEDRO ; LEITE, JAMILE LEITE ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Connectivity Evaluation of ESP32 in Outdoor Scenarios. In: Computer on the Beach, 2023, Florianópolis - Santa Catarina. Anais do XIV Computer on the Beach - COTB'23. Itajaí: Universidade do Vale do Itajaí, 2023. p. 333."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Implementação de FFT de 1600 pontos em microcontrolador ARM Cortex-M7 para cálculo de harmônicas em sistema elétrico trifásico",
+          "autores": "SOUZA, GUSTAVO ; FERREIRA, ABRAHÃO ; NUNES, FLÁVIO ; ; RAMALHO, LEONARDO ;",
+          "periodico": "In: Computer on the Beach, 2023, Florianópolis - Santa Catarina. Anais do XIV Computer on the Beach - COTB'23. Itajaí: Universidade do Vale do Itajaí, 2023. p. 187.",
+          "doi": "http://dx.doi.org/10.14210/cotb.v14.p187-193",
+          "citacao_completa": "SOUZA, GUSTAVO ; FERREIRA, ABRAHÃO ; NUNES, FLÁVIO ; ; RAMALHO, LEONARDO ; . Implementação de FFT de 1600 pontos em microcontrolador ARM Cortex-M7 para cálculo de harmônicas em sistema elétrico trifásico. In: Computer on the Beach, 2023, Florianópolis - Santa Catarina. Anais do XIV Computer on the Beach - COTB'23. Itajaí: Universidade do Vale do Itajaí, 2023. p. 187."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Management of Remote Operation in IoT Systems",
+          "autores": "DINIZ, M. ; RENDEIRO, PEDRO ; SILVA, M. ; SILVA, L. ; RAMALHO, L. L.",
+          "periodico": "In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação (ENCOM), 2023, Belém. Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023.",
+          "doi": "",
+          "citacao_completa": "DINIZ, M. ; RENDEIRO, PEDRO ; SILVA, M. ; SILVA, L. ; RAMALHO, L. L. . Management of Remote Operation in IoT Systems. In: XIII Conferência Nacional em Comunicações, Redes e Segurança da Informação (ENCOM), 2023, Belém. Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Performance Evaluation of ESP32 in Outdoor Links",
+          "autores": "RENDEIRO, PEDRO ; LEITE, JAMILE L ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO",
+          "periodico": "In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí-MG. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2022.1570825034",
+          "citacao_completa": "RENDEIRO, PEDRO ; LEITE, JAMILE L ; SILVA, LUCAS ; SILVA, MARCOS ; SALES, GEORGE ; RAMALHO, LEONARDO . Performance Evaluation of ESP32 in Outdoor Links. In: XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022, Santa Rita do Sapucaí-MG. Anais do XL Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Compression of Activation Signals from Split Deep Neural Network",
+          "autores": "BRITO, FLAVIO ; SILVA, LUCAS ; RAMALHO, LEONARDO ; LINS, SILVIA ; LINDER, NEIVA ;",
+          "periodico": "In: 2022 IEEE LatinAmerican Conference on Communications (LATINCOM), 2022, Rio de Janeiro. 2022 IEEE Latin-American Conference on Communications (LATINCOM), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/latincom56090.2022.10000526",
+          "citacao_completa": "BRITO, FLAVIO ; SILVA, LUCAS ; RAMALHO, LEONARDO ; LINS, SILVIA ; LINDER, NEIVA ; . Compression of Activation Signals from Split Deep Neural Network. In: 2022 IEEE LatinAmerican Conference on Communications (LATINCOM), 2022, Rio de Janeiro. 2022 IEEE Latin-American Conference on Communications (LATINCOM), 2022. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "PA5Ge - Implementação de uma Rede Celular Privada com Funcionalidades 5G no Campus da UFPA",
+          "autores": "CASTRO, L. ; NAHUM, C. ; CORREA, I. S. ; RAMALHO, L. L. ;",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020.",
+          "doi": "",
+          "citacao_completa": "CASTRO, L. ; NAHUM, C. ; CORREA, I. S. ; RAMALHO, L. L. ; . PA5Ge - Implementação de uma Rede Celular Privada com Funcionalidades 5G no Campus da UFPA. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Downlink Fronthaul Compression in Frequency Domain using OpenAirInterface",
+          "autores": "NAHUM, C. ; RAMALHO, LEONARDO ; FORTUNA, J. P. W. ; LU, CHENGUANG ; BERG, MIGUEL ; ALMEIDA, I. M ;",
+          "periodico": "In: XXXVII Simpósio Brasileiro de Telecomunicações (SBrT), 2019, Petrópolis-RJ. Simpósio Brasileiro de Telecomunicações (SBrT), 2019.",
+          "doi": "",
+          "citacao_completa": "NAHUM, C. ; RAMALHO, LEONARDO ; FORTUNA, J. P. W. ; LU, CHENGUANG ; BERG, MIGUEL ; ALMEIDA, I. M ; . Downlink Fronthaul Compression in Frequency Domain using OpenAirInterface. In: XXXVII Simpósio Brasileiro de Telecomunicações (SBrT), 2019, Petrópolis-RJ. Simpósio Brasileiro de Telecomunicações (SBrT), 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "A Fronthaul Signal Compression Method Based on Trellis Coded Quantization",
+          "autores": "BRITO, FLAVIO ; BERG, MIGUEL ; LU, CHENGUANG ; RAMALHO, LEONARDO ; SOUSA, ILAN ;",
+          "periodico": "In: 2019 IEEE LatinAmerican Conference on Communications (LATINCOM), 2019, Salvador. 2019 IEEE Latin-American Conference on Communications (LATINCOM), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LATINCOM48065.2019.8937963",
+          "citacao_completa": "BRITO, FLAVIO ; BERG, MIGUEL ; LU, CHENGUANG ; RAMALHO, LEONARDO ; SOUSA, ILAN ; . A Fronthaul Signal Compression Method Based on Trellis Coded Quantization. In: 2019 IEEE LatinAmerican Conference on Communications (LATINCOM), 2019, Salvador. 2019 IEEE Latin-American Conference on Communications (LATINCOM), 2019. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Compression of MIMO FDD Channel State Information Using Trellis-Coded Quantization",
+          "autores": "BRITO, FLAVIO ; SILVA, A. ; RAMALHO, L. L. ;",
+          "periodico": "In: IX Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2019, Petrolina-PE. Conferência Nacional em Comunicações, Redes e Segurança da Informação-ENCOM, 2019.",
+          "doi": "",
+          "citacao_completa": "BRITO, FLAVIO ; SILVA, A. ; RAMALHO, L. L. ; . Compression of MIMO FDD Channel State Information Using Trellis-Coded Quantization. In: IX Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2019, Petrolina-PE. Conferência Nacional em Comunicações, Redes e Segurança da Informação-ENCOM, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "DCT-based compression scheme for OFDM baseband signals",
+          "autores": "FONSECA, MARIA NILMA ; RAMALHO, LEONARDO ; ; LU, CHENGUANG ; BERG, MIGUEL ; HOST, STEFAN",
+          "periodico": "In: 2018 Wireless Days (WD), 2018, Dubai. 2018 Wireless Days (WD), 2018. p. 92.",
+          "doi": "http://dx.doi.org/10.1109/WD.2018.8361700",
+          "citacao_completa": "FONSECA, MARIA NILMA ; RAMALHO, LEONARDO ; ; LU, CHENGUANG ; BERG, MIGUEL ; HOST, STEFAN . DCT-based compression scheme for OFDM baseband signals. In: 2018 Wireless Days (WD), 2018, Dubai. 2018 Wireless Days (WD), 2018. p. 92."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Fronthaul Signal Compression in C-RAN with Carrier Aggregation",
+          "autores": "TAKEDA, M. ; RAMALHO, LEONARDO ; LU, CHENGUANG ; BERG, MIGUEL ;",
+          "periodico": "In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande-PB. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2018.",
+          "doi": "",
+          "citacao_completa": "TAKEDA, M. ; RAMALHO, LEONARDO ; LU, CHENGUANG ; BERG, MIGUEL ; . Fronthaul Signal Compression in C-RAN with Carrier Aggregation. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018, Campina Grande-PB. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A noise-cancelling technique for data acquisition systems: A case study on embedded ADCs",
+          "autores": "FERREIRA, JAMELLY ; TRINDADE, ISABELA ; RAMALHO, LEONARDO ; SOUSA, ILAN ;",
+          "periodico": "In: 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017, Fortaleza. 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INSCIT.2017.8103529",
+          "citacao_completa": "FERREIRA, JAMELLY ; TRINDADE, ISABELA ; RAMALHO, LEONARDO ; SOUSA, ILAN ; . A noise-cancelling technique for data acquisition systems: A case study on embedded ADCs. In: 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017, Fortaleza. 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Design and implementation of low-cost multitone signal generation systems",
+          "autores": "CORDEIRO, PATRICIO ; RAMALHO, LEONARDO ; SOUZA, VITORIA ; ;",
+          "periodico": "In: 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017, Fortaleza. 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INSCIT.2017.8103508",
+          "citacao_completa": "CORDEIRO, PATRICIO ; RAMALHO, LEONARDO ; SOUZA, VITORIA ; ; . Design and implementation of low-cost multitone signal generation systems. In: 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017, Fortaleza. 2017 2nd International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2017. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "FPGA-BASED ARCHITECTURE FOR BASEBAND SIGNALS GENERATION APPLIED TO MOBILE PHONE JAMMING",
+          "autores": "TRINDADE, I. ; CORDEIRO, P. ; RAMALHO, LEONARDO ; ;",
+          "periodico": "In: 17th Microelectronics Students Forum, 2017, Fortaleza. Microelectronics Students Forum - SFORUM, 2017.",
+          "doi": "",
+          "citacao_completa": "TRINDADE, I. ; CORDEIRO, P. ; RAMALHO, LEONARDO ; ; . FPGA-BASED ARCHITECTURE FOR BASEBAND SIGNALS GENERATION APPLIED TO MOBILE PHONE JAMMING. In: 17th Microelectronics Students Forum, 2017, Fortaleza. Microelectronics Students Forum - SFORUM, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Bit-Rate Bound Derivation for Compressed Time-Domain Fronthaul",
+          "autores": "LU, CHENGUANG ; BERG, MIGUEL ; RAMALHO, L. L. ;",
+          "periodico": "In: EuCNC 2016 workshop Towards Converged X-Haul for 5G Networks, 2016, Atenas. European Conference on Networks and Communications, 2016.",
+          "doi": "",
+          "citacao_completa": "LU, CHENGUANG ; BERG, MIGUEL ; RAMALHO, L. L. ; . Bit-Rate Bound Derivation for Compressed Time-Domain Fronthaul. In: EuCNC 2016 workshop Towards Converged X-Haul for 5G Networks, 2016, Atenas. European Conference on Networks and Communications, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Data acquisition system for continuous monitoring of grounding grids in energized substations",
+          "autores": "RAMALHO, LEONARDO ; ROCHA, WILLIAN ; NAKAMURA, ANDREY ; ARAJO, BRUNO ; ; ; LIMA, RIBAMAR ;",
+          "periodico": "In: 2016 1st International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2016, Belo Horizonte. 2016 1st International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2016. p. 113.",
+          "doi": "http://dx.doi.org/10.1109/inscit.2016.7598200",
+          "citacao_completa": "RAMALHO, LEONARDO ; ROCHA, WILLIAN ; NAKAMURA, ANDREY ; ARAJO, BRUNO ; ; ; LIMA, RIBAMAR ; . Data acquisition system for continuous monitoring of grounding grids in energized substations. In: 2016 1st International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2016, Belo Horizonte. 2016 1st International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2016. p. 113."
+        },
+        {
+          "ano": 2013,
+          "titulo": "GNU Radio and USRP for Problem-Based Learning in Communications: Case Studies in Cellular Phone Jamming and Modulation Classification",
+          "autores": "RAMALHO, L. L. ; FORTUNA, J. P. W. ; SANTOS, L. F. ; Oliveira J. P. ;",
+          "periodico": "In: Integrating Research, Education, and Problem Solving, 2013, Florida. World Multi-Conference on Systemics, Cybernetics and Informatics, 2013. v. 17.",
+          "doi": "",
+          "citacao_completa": "RAMALHO, L. L. ; FORTUNA, J. P. W. ; SANTOS, L. F. ; Oliveira J. P. ; . GNU Radio and USRP for Problem-Based Learning in Communications: Case Studies in Cellular Phone Jamming and Modulation Classification. In: Integrating Research, Education, and Problem Solving, 2013, Florida. World Multi-Conference on Systemics, Cybernetics and Informatics, 2013. v. 17."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Project of DMT modulator in Multicore DSP with FFT Coprocessor",
+          "autores": "RIBEIRO, M. T. N. ; RAMALHO, L. L. ; SILVA, F. G. ;",
+          "periodico": "In: SForum2012, 2012, Brasília. Microelectronics Students Forum, 2012.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, M. T. N. ; RAMALHO, L. L. ; SILVA, F. G. ; . Project of DMT modulator in Multicore DSP with FFT Coprocessor. In: SForum2012, 2012, Brasília. Microelectronics Students Forum, 2012."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Digital Inclusion in Amazon with Starlink Backhauling and Mobile Telephony",
+          "autores": "OLIVEIRA, R. R. ; RAMALHO, L. L. ; ;",
+          "periodico": "In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2024), 2024, Belém-PA. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, R. R. ; RAMALHO, L. L. ; ; . Digital Inclusion in Amazon with Starlink Backhauling and Mobile Telephony. In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2024), 2024, Belém-PA. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Development of a MIMO System for Education in Digital Communications: A CDIO Approach",
+          "autores": "MAUES, M. A. E. S. ; FERREIRA, J. B. ; TAVARES, K. M. ; RENDEIRO, PEDRO ; GONCALVES, G. E. ; ; RAMALHO, L. L.",
+          "periodico": "In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2024), 2024, Belém-PA. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024.",
+          "doi": "",
+          "citacao_completa": "MAUES, M. A. E. S. ; FERREIRA, J. B. ; TAVARES, K. M. ; RENDEIRO, PEDRO ; GONCALVES, G. E. ; ; RAMALHO, L. L. . Development of a MIMO System for Education in Digital Communications: A CDIO Approach. In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2024), 2024, Belém-PA. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Implementation of an Open Network Infrastructure for Internet of Things based on LoRaWAN",
+          "autores": "LEITE, J. L. ; RAMALHO, LEONARDO",
+          "periodico": "In: XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2021), 2021, Fortaleza. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2021.",
+          "doi": "",
+          "citacao_completa": "LEITE, J. L. ; RAMALHO, LEONARDO . Implementation of an Open Network Infrastructure for Internet of Things based on LoRaWAN. In: XXXIX Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2021), 2021, Fortaleza. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT), 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "RF Front End for an SDR-based Community Network in the 700 MHz Band",
+          "autores": "CARNEIRO, D. ; BRITO, M. ; NUNES, F. ; RAMALHO, L. L. ;",
+          "periodico": "In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020.",
+          "doi": "",
+          "citacao_completa": "CARNEIRO, D. ; BRITO, M. ; NUNES, F. ; RAMALHO, L. L. ; . RF Front End for an SDR-based Community Network in the 700 MHz Band. In: XXXVIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais - SBrT 2020, 2020, Florianópolis. Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Compressão dos Sinais de Ativação de Redes Neurais Profundas Particionadas",
+          "autores": "SILVA, L. ; BRITO, FLAVIO ; RAMALHO, L. L. ;",
+          "periodico": "In: X Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM2020, 2020, Natal-RN. Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2020.",
+          "doi": "",
+          "citacao_completa": "SILVA, L. ; BRITO, FLAVIO ; RAMALHO, L. L. ; . Compressão dos Sinais de Ativação de Redes Neurais Profundas Particionadas. In: X Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM2020, 2020, Natal-RN. Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2020."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Fronthaul Requirements Analysis for Cell-Free MIMO",
+          "autores": "NAKAMURA, ANDREY ; RAMALHO, L. L. ;",
+          "periodico": "In: SCHOOL ON SYSTEMS AND NETWORKS, 2020, Vitória-ES. SCHOOL ON SYSTEMS AND NETWORKS (SSN), 2020.",
+          "doi": "",
+          "citacao_completa": "NAKAMURA, ANDREY ; RAMALHO, L. L. ; . Fronthaul Requirements Analysis for Cell-Free MIMO. In: SCHOOL ON SYSTEMS AND NETWORKS, 2020, Vitória-ES. SCHOOL ON SYSTEMS AND NETWORKS (SSN), 2020."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Design and Implementation of Low-Cost Multitone Signal Generation Systems",
+          "autores": "CORDEIRO, P. ; RAMALHO, LEONARDO ; SOUZA, V. ; ;",
+          "periodico": "2017. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "CORDEIRO, P. ; RAMALHO, LEONARDO ; SOUZA, V. ; ; . Design and Implementation of Low-Cost Multitone Signal Generation Systems. 2017. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Data Acquisition System for Continuous Monitoring of Grounding Grids in Energized Substations",
+          "autores": "RAMALHO, L. L. ; ROCHA, WILLIAN ; NAKAMURA, ANDREY ; ARAJO, BRUNO ; ; ; LIMA, RIBAMAR ;",
+          "periodico": "2016. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "RAMALHO, L. L. ; ROCHA, WILLIAN ; NAKAMURA, ANDREY ; ARAJO, BRUNO ; ; ; LIMA, RIBAMAR ; . Data Acquisition System for Continuous Monitoring of Grounding Grids in Energized Substations. 2016. (Apresentação de Trabalho/Simpósio)."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Revisor do XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017)",
+          "autores": "RAMALHO, LEONARDO",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "RAMALHO, LEONARDO . Revisor do XXXV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2017). 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Revisor do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2016)",
+          "autores": "RAMALHO, L. L.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "RAMALHO, L. L. . Revisor do XXXIV Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2016). 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Revisor do XXXIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2015)",
+          "autores": "RAMALHO, L. L.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "RAMALHO, L. L. . Revisor do XXXIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais (SBrT 2015). 2015."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Introdução ao Long Term Evolution (LTE)",
+          "autores": "RAMALHO, L. L.",
+          "periodico": "2015. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "RAMALHO, L. L. . Introdução ao Long Term Evolution (LTE). 2015. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "COEXISTÊNCIA ADAPTATIVA ENTRE WI-FI E 5G NR-U UTILIZANDO MÚLTIPLAS NUMEROLOGIAS PARA ATENDER A EQUIDADE DO 3GPP",
+          "membros": "CHANG, B. S.; MONEGO, H. I.; MUNARETTO, A.; RAMALHO, L. L.",
+          "candidato": "LUCAS BUZETTO TSUCHIYA",
+          "citacao_completa": "CHANG, B. S.; MONEGO, H. I.; MUNARETTO, A.; RAMALHO, L. L. . Participação em banca de LUCAS BUZETTO TSUCHIYA. COEXISTÊNCIA ADAPTATIVA ENTRE WI-FI E 5G NR-U UTILIZANDO MÚLTIPLAS NUMEROLOGIAS PARA ATENDER A EQUIDADE DO 3GPP. 2025. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Beam Tracking Using Deep Learning Applied to 6G MIMO Vehicle-to-Infrastructure",
+          "membros": "; RAMALHO, L. L. ; GOMES, D.",
+          "candidato": "Ailton Pinto de Oliveira",
+          "citacao_completa": "; RAMALHO, L. L. ; GOMES, D.. Participação em banca de Ailton Pinto de Oliveira. Beam Tracking Using Deep Learning Applied to 6G MIMO Vehicle-to-Infrastructure. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2024,
+          "titulo": "COMPRESSION OF ACTIVATION SIGNALS FROM PARTITIONED DEEP NEURAL NETWORKS EXPLORING TEMPORAL CORRELATION",
+          "membros": "; RAMALHO, L. L. ; GOMES, D.",
+          "candidato": "Lucas Damasceno Silva",
+          "citacao_completa": "; RAMALHO, L. L. ; GOMES, D.. Participação em banca de Lucas Damasceno Silva. COMPRESSION OF ACTIVATION SIGNALS FROM PARTITIONED DEEP NEURAL NETWORKS EXPLORING TEMPORAL CORRELATION. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliação de Técnicas de Compressão de Sinais Para o Fronthaul",
+          "membros": "; RAMALHO, LEONARDO ; Costa J. C. W. A.",
+          "candidato": "Flávio Mendes de Brito",
+          "citacao_completa": "; RAMALHO, LEONARDO ; Costa J. C. W. A.. Participação em banca de Flávio Mendes de Brito. Avaliação de Técnicas de Compressão de Sinais Para o Fronthaul. 2019 - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2017,
+          "titulo": "FPGA-Based Testbed for Fronthaul Signal Compression: Implementation and Validation",
+          "membros": "; Costa J. C. W. A.; SOUZA, D. C.; RODRIGUES, R. M.; RAMALHO, L. L.",
+          "candidato": "Joary Paulo Wanzeler Fortuna",
+          "citacao_completa": "; Costa J. C. W. A.; SOUZA, D. C.; RODRIGUES, R. M.; RAMALHO, L. L. . Participação em banca de Joary Paulo Wanzeler Fortuna. FPGA-Based Testbed for Fronthaul Signal Compression: Implementation and Validation. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Pará."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "REDUÇÃO DE RUÍDO EM IMAGEM USANDO LIMIARIZAÇÃO WAVELET ADAPTATIVA BASEADA NO FATOR DE PREDIÇÃO LINEAR",
+          "membros": "BARROS, F. J. B.; RAMALHO, L. L. ; ZAMPOLO, R. F.; COSTA, A. D. B.; BEZERRA, J. C.",
+          "candidato": "ANANIAS PEREIRA NETO",
+          "citacao_completa": "BARROS, F. J. B.; RAMALHO, L. L. ; ZAMPOLO, R. F.; COSTA, A. D. B.; BEZERRA, J. C.. Participação em banca de ANANIAS PEREIRA NETO. REDUÇÃO DE RUÍDO EM IMAGEM USANDO LIMIARIZAÇÃO WAVELET ADAPTATIVA BASEADA NO FATOR DE PREDIÇÃO LINEAR. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Enabling Intelligent RAN Management in 5G/6G via Intent-Based Networking and Standardized Network Digital Twin Deployment",
+          "membros": "; GOMES, D.; RAMALHO, LEONARDO L. ; CARDOSO, K. V.; CARDOSO, D. L.",
+          "candidato": "Andrey Jose Torres da Silva",
+          "citacao_completa": "; GOMES, D.; RAMALHO, LEONARDO L. ; CARDOSO, K. V.; CARDOSO, D. L.. Participação em banca de Andrey Jose Torres da Silva. Enabling Intelligent RAN Management in 5G/6G via Intent-Based Networking and Standardized Network Digital Twin Deployment. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2024,
+          "titulo": "INTENT-BASED RADIO RESOURCE SCHEDULING IN RAN SLICING SCENARIOS USING REINFORCEMENT LEARNING",
+          "membros": "; RAMALHO, L. L. ; CARDOSO, K. V.; MACIEL, T. F.; BATISTA, P. S.",
+          "candidato": "Cleverson Veloso Nahum",
+          "citacao_completa": "; RAMALHO, L. L. ; CARDOSO, K. V.; MACIEL, T. F.; BATISTA, P. S.. Participação em banca de Cleverson Veloso Nahum. INTENT-BASED RADIO RESOURCE SCHEDULING IN RAN SLICING SCENARIOS USING REINFORCEMENT LEARNING. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Redes Neurais com Aprendizagem Profunda Aplicadas à Estimação de Canais Sem Fio MIMO",
+          "membros": "; MÜLLER, F. C. B. F.; ARAUJO, J. P. L.; RAMALHO, L. L. ; BATISTA, P. S.",
+          "candidato": "Wesin Ribeiro Alves",
+          "citacao_completa": "; MÜLLER, F. C. B. F.; ARAUJO, J. P. L.; RAMALHO, L. L. ; BATISTA, P. S.. Participação em banca de Wesin Ribeiro Alves. Redes Neurais com Aprendizagem Profunda Aplicadas à Estimação de Canais Sem Fio MIMO. 2021. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2020,
+          "titulo": "5G Fronthaul Synchronization via IEEE 1588 Precision Time Protocol: Algorithms and Use Cases",
+          "membros": "; João Crisóstomo Weyl Albuquerque Costa; FROHLICH, A. A.; CAVALCANTE, A. M.; RAMALHO, L. L.",
+          "candidato": "Igor Antonio Auad Freire",
+          "citacao_completa": "; João Crisóstomo Weyl Albuquerque Costa; FROHLICH, A. A.; CAVALCANTE, A. M.; RAMALHO, L. L. . Participação em banca de Igor Antonio Auad Freire. 5G Fronthaul Synchronization via IEEE 1588 Precision Time Protocol: Algorithms and Use Cases. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Compressão de Sinais em Sistemas de Rádio sobre Fibra Digital para Redes Fronthaul",
+          "membros": "Costa J. C. W. A.; TEIXEIRA, A. L. J.; OLIVEIRA, R. S.; ; SODRE, A. C.; RAMALHO, LEONARDO",
+          "candidato": "DÉRCIO MANUEL MATE",
+          "citacao_completa": "Costa J. C. W. A.; TEIXEIRA, A. L. J.; OLIVEIRA, R. S.; ; SODRE, A. C.; RAMALHO, LEONARDO . Participação em banca de DÉRCIO MANUEL MATE. Compressão de Sinais em Sistemas de Rádio sobre Fibra Digital para Redes Fronthaul. 2019 - Universidade Federal do Pará."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "5G Fronthaul Synchronization via IEEE 1588 Precision Time Protocol: Algorithms and Use Cases",
+          "membros": "; MEDEIROS, E.; RAMALHO, LEONARDO ; Costa J. C. W. A.; FROHLICH, A. A.",
+          "candidato": "Igor Antonio Auad Freire",
+          "citacao_completa": "; MEDEIROS, E.; RAMALHO, LEONARDO ; Costa J. C. W. A.; FROHLICH, A. A.. Participação em banca de Igor Antonio Auad Freire. 5G Fronthaul Synchronization via IEEE 1588 Precision Time Protocol: Algorithms and Use Cases. 2019 - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2018,
+          "titulo": "COMPRESSÃO DE SINAIS EM SISTEMAS DE RÁDIO SOBRE FIBRA DIGITALIZADO PARA REDES FRONTHAUL",
+          "membros": "Costa J. C. W. A.; TEIXEIRA, A. L. J.; Cerqueira S., A.; OLIVEIRA, R. S.; RAMALHO, LEONARDO ;",
+          "candidato": "DÉRCIO MANUEL MATE",
+          "citacao_completa": "Costa J. C. W. A.; TEIXEIRA, A. L. J.; Cerqueira S., A.; OLIVEIRA, R. S.; RAMALHO, LEONARDO ; . Participação em banca de DÉRCIO MANUEL MATE. COMPRESSÃO DE SINAIS EM SISTEMAS DE RÁDIO SOBRE FIBRA DIGITALIZADO PARA REDES FRONTHAUL. 2018. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Pará."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": ".Evaluation of techniques allowing C-RAN implementation with Ethernet fronthaul",
+          "membros": "; ; FREIRE, I.; RAMALHO, LEONARDO ; CARDOSO, D. L.",
+          "candidato": "Pedro Bemerguy",
+          "citacao_completa": "; ; FREIRE, I.; RAMALHO, LEONARDO ; CARDOSO, D. L.. Participação em banca de Pedro Bemerguy.Evaluation of techniques allowing C-RAN implementation with Ethernet fronthaul. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Aplicação de Sistema de Automação Residencial via Servidor WEB",
+          "membros": "NASCIMENTO, A. C.; ARAUJO, R. B.; RAMALHO, LEONARDO",
+          "candidato": "RENAN PARAENSE GODINHO",
+          "citacao_completa": "NASCIMENTO, A. C.; ARAUJO, R. B.; RAMALHO, LEONARDO . Participação em banca de RENAN PARAENSE GODINHO.Aplicação de Sistema de Automação Residencial via Servidor WEB. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Instituto Federal de Educação, Ciência e Tecnologia do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".FRONTHAUL SIGNAL COMPRESSION IN FREQUENCY DOMAIN USING OPENAIRINTERFACE",
+          "membros": "; RAMALHO, LEONARDO ; MÜLLER, F. C. B. F.;",
+          "candidato": "CLEVERSON VELOSO NAHUM",
+          "citacao_completa": "; RAMALHO, LEONARDO ; MÜLLER, F. C. B. F.; . Participação em banca de CLEVERSON VELOSO NAHUM.FRONTHAUL SIGNAL COMPRESSION IN FREQUENCY DOMAIN USING OPENAIRINTERFACE. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".PROJETO DE HARDWARE DE UM EMULADOR DE ANTENA DE 3 EIXOS PARA RASTREIO DE SATÉLITES",
+          "membros": "; LEAL, A. F. R.; SARMENTO, T. L.; RAMALHO, L. L.",
+          "candidato": "LUCAS DOS SANTOS CONDE",
+          "citacao_completa": "; LEAL, A. F. R.; SARMENTO, T. L.; RAMALHO, L. L. . Participação em banca de LUCAS DOS SANTOS CONDE.PROJETO DE HARDWARE DE UM EMULADOR DE ANTENA DE 3 EIXOS PARA RASTREIO DE SATÉLITES. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".IMPLEMENTAÇÃO DE COMUNICAÇÃO ETHERNET 10 Gb/S EM PROCESSADOR EMBARCADO EM LÓGICA PROGRAMÁVEL",
+          "membros": "; CORREA, I. S.; FREIRE, I.; RAMALHO, L. L.",
+          "candidato": "JAMELLY FREITAS FERREIRA",
+          "citacao_completa": "; CORREA, I. S.; FREIRE, I.; RAMALHO, L. L. . Participação em banca de JAMELLY FREITAS FERREIRA.IMPLEMENTAÇÃO DE COMUNICAÇÃO ETHERNET 10 Gb/S EM PROCESSADOR EMBARCADO EM LÓGICA PROGRAMÁVEL. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".IMPLANTAÇÃO E GERENCIAMENTO DE REDES CELULARES COMUNITÁRIAS",
+          "membros": "MÜLLER, F. C. B. F.; ; RAMALHO, L. L.",
+          "candidato": "EMERSON SANTOS DE OLIVEIRA JUNIOR",
+          "citacao_completa": "MÜLLER, F. C. B. F.; ; RAMALHO, L. L. . Participação em banca de EMERSON SANTOS DE OLIVEIRA JUNIOR.IMPLANTAÇÃO E GERENCIAMENTO DE REDES CELULARES COMUNITÁRIAS. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estação Meteorológica de Baixo Custo",
+          "membros": "; CASTRO, A. L. S.; RAMALHO, L. L.",
+          "candidato": "Luiz Felipe da Silva Fonseca",
+          "citacao_completa": "; CASTRO, A. L. S.; RAMALHO, L. L. . Participação em banca de Luiz Felipe da Silva Fonseca.Estação Meteorológica de Baixo Custo. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".DIMENSIONAMENTO E IMPLEMENTAÇÃO DE ENLACE DE RÁDIO PARA INCLUSÃO DIGITAL E SOCIAL EM COMUNIDADES ISOLADAS NA AMAZÔNIA",
+          "membros": "; BATISTA, P. S.; ARAUJO, J. P. L.; RAMALHO, LEONARDO",
+          "candidato": "Lauro Brito de Castro",
+          "citacao_completa": "; BATISTA, P. S.; ARAUJO, J. P. L.; RAMALHO, LEONARDO . Participação em banca de Lauro Brito de Castro.DIMENSIONAMENTO E IMPLEMENTAÇÃO DE ENLACE DE RÁDIO PARA INCLUSÃO DIGITAL E SOCIAL EM COMUNIDADES ISOLADAS NA AMAZÔNIA. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Telecomunicações) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Projeto de Firmware Dedicado a um Sistema de Apontamento para Antenas de Montagem Polar",
+          "membros": "; CORDEIRO, P. E. S.; ; RAMALHO, L. L.",
+          "candidato": "Lucas Queiroz Corrêa",
+          "citacao_completa": "; CORDEIRO, P. E. S.; ; RAMALHO, L. L. . Participação em banca de Lucas Queiroz Corrêa.Projeto de Firmware Dedicado a um Sistema de Apontamento para Antenas de Montagem Polar. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Rastreamento Solar Usando o Algoritmo SPA para Aplicações em energia Fotovoltaica",
+          "membros": "; ; RAMALHO, L. L. ; CORDEIRO, P. E. S.",
+          "candidato": "Tiago Lima Negrão",
+          "citacao_completa": "; ; RAMALHO, L. L. ; CORDEIRO, P. E. S.. Participação em banca de Tiago Lima Negrão.Rastreamento Solar Usando o Algoritmo SPA para Aplicações em energia Fotovoltaica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Técnicas de Rastreio de Satélites para Antenas de 3 Eixos",
+          "membros": "; TAKEDA, M. Y.; ; RAMALHO, L. L.",
+          "candidato": "Thiago Lima Sarmento",
+          "citacao_completa": "; TAKEDA, M. Y.; ; RAMALHO, L. L. . Participação em banca de Thiago Lima Sarmento.Técnicas de Rastreio de Satélites para Antenas de 3 Eixos. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".NamedChat: Android com suporte a transmissão sobre redes orientadas a conteúdos",
+          "membros": "; BATISTA, P. S.; ARAUJO, I. L. C.; ; MÜLLER, F. C. B. F.",
+          "candidato": "Andrey Lopes Maia",
+          "citacao_completa": "; BATISTA, P. S.; ARAUJO, I. L. C.; ; MÜLLER, F. C. B. F.. Participação em banca de Andrey Lopes Maia.NamedChat: Android com suporte a transmissão sobre redes orientadas a conteúdos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".SISTEMA DE CONTROLE DE ACESSO BIOMÉTRICO AUTENTICADO POR IMPRESSÃO DIGITAL: UMA SOLUÇÃO DE GERENCIAMENTO ONLINE BASEADA EM RECURSOS DE HARDWARE E SOFTWARE LIVRE",
+          "membros": "; COSTA, H. B.; SOUSA, M. J.;",
+          "candidato": "Jefferson Ferreira Palheta",
+          "citacao_completa": "; COSTA, H. B.; SOUSA, M. J.; . Participação em banca de Jefferson Ferreira Palheta.SISTEMA DE CONTROLE DE ACESSO BIOMÉTRICO AUTENTICADO POR IMPRESSÃO DIGITAL: UMA SOLUÇÃO DE GERENCIAMENTO ONLINE BASEADA EM RECURSOS DE HARDWARE E SOFTWARE LIVRE. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Implementação de rede 4G LTE open source usando Open Air Interface",
+          "membros": "; BATISTA, P. S.; ; ; MÜLLER, F. C. B. F.",
+          "candidato": "Marcus Vinicius de Oliveira Dias",
+          "citacao_completa": "; BATISTA, P. S.; ; ; MÜLLER, F. C. B. F.. Participação em banca de Marcus Vinicius de Oliveira Dias.Implementação de rede 4G LTE open source usando Open Air Interface. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Transceptor Definido por Software para Pesquisas em Transmissão via Cabos de Cobre",
+          "membros": "; ALMEIDA, I. M; MÜLLER, F. C. B. F.; CORREA, I. S.;",
+          "candidato": "Joary Paulo Wanzeler Fortuna",
+          "citacao_completa": "; ALMEIDA, I. M; MÜLLER, F. C. B. F.; CORREA, I. S.; . Participação em banca de Joary Paulo Wanzeler Fortuna.Transceptor Definido por Software para Pesquisas em Transmissão via Cabos de Cobre. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Análise de QoS e Consumo de Energia em Casos de RAN Sharing",
+          "membros": "; MACEDO, V. G.; ;",
+          "candidato": "Ivanes Lian Costa Araújo",
+          "citacao_completa": "; MACEDO, V. G.; ; . Participação em banca de Ivanes Lian Costa Araújo.Análise de QoS e Consumo de Energia em Casos de RAN Sharing. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudo de Metodologia para Testes de Segurança em Redes de Computadores: Estudo de Caso Seguindo a Norma da ABNT NBR 27002:2005, Utilizando Ferramentas de Software Livre",
+          "membros": "HAICK, B. G.; MÜLLER, F. C. B. F.; ;",
+          "candidato": "Bruno Ribeiro Guedes",
+          "citacao_completa": "HAICK, B. G.; MÜLLER, F. C. B. F.; ; . Participação em banca de Bruno Ribeiro Guedes.Estudo de Metodologia para Testes de Segurança em Redes de Computadores: Estudo de Caso Seguindo a Norma da ABNT NBR 27002:2005, Utilizando Ferramentas de Software Livre. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Pará."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "MELO, G. S. V.; ARAUJO, R. B.; RAMALHO, L. L. . Concurso Público para Professor da Carreira de Magistério do Ensino Bási",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "MELO, G. S. V.; ARAUJO, R. B.; RAMALHO, L. L. . Concurso Público para Professor da Carreira de Magistério do Ensino Básico, Técnico E Tecnológico do IFPA, edital No 08/2018/REI/IFPA. 2018. Instituto Federal de Educação, Ciência e Tecnologia do Estado do Pará."
+        }
+      ]
+    }
+  ]
+}

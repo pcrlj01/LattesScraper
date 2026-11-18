@@ -1,0 +1,970 @@
+{
+  "name": "Ulisses Chemin Netto",
+  "lattes_id": "5250206412631124",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Novel IEC 61850-based off-site engineering and validation methodology for protection, automation, and control systems",
+          "autores": "MELO, ANDRÉ FELIPE SILVA ; ROLDAN-FERNANDEZ, JUAN MANUEL ; GONZALEZ-LONGATT, FRANCISCO ; BURGOS-PAYAN, MANUEL ; Netto, Ulisses Chemin",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 232, p. 110409, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110409",
+          "citacao_completa": "MELO, ANDRÉ FELIPE SILVA ; ROLDAN-FERNANDEZ, JUAN MANUEL ; GONZALEZ-LONGATT, FRANCISCO ; BURGOS-PAYAN, MANUEL ; Netto, Ulisses Chemin . Novel IEC 61850-based off-site engineering and validation methodology for protection, automation, and control systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 232, p. 110409, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Performance Analysis of Overcurrent Protection under Corrupted Sampled Value Frames: A Hardware-in-the-Loop Approach",
+          "autores": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; LIMA, D. A. C. ; BERNARDON, D. P. ; HOKAMA, W. S.",
+          "periodico": "Energies , v. 16, p. 3386, 2023.",
+          "doi": "http://dx.doi.org/10.3390/ en16083386",
+          "citacao_completa": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; LIMA, D. A. C. ; BERNARDON, D. P. ; HOKAMA, W. S. . Performance Analysis of Overcurrent Protection under Corrupted Sampled Value Frames: A Hardware-in-the-Loop Approach. Energies , v. 16, p. 3386, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Influence of process bus on performance of power system protection",
+          "autores": "SILVA MELO, ANDRÉ FELIPE ; Netto, Ulisses Chemin ; DA SILVA, JEAN CARLOS CARDOZO ; DREYER, UILIAN JOSÉ",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 200, p. 107491, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107491",
+          "citacao_completa": "SILVA MELO, ANDRÉ FELIPE ; Netto, Ulisses Chemin ; DA SILVA, JEAN CARLOS CARDOZO ; DREYER, UILIAN JOSÉ . Influence of process bus on performance of power system protection. ELECTRIC POWER SYSTEMS RESEARCH , v. 200, p. 107491, 2021."
+        },
+        {
+          "ano": 2018,
+          "titulo": "UTILIZAÇÃO DO SOFTWARE HOMER PARA ANÁLISE DA VIABI-LIDADE ECONÔMICA DE UM SISTEMA HÍBRIDO DE GERAÇÃO NA ILHA DO MEL.",
+          "autores": "MONTEIRO, A. L. ; CHEMIN NETTO, Ulisses ; SOUZA, M. A.",
+          "periodico": "REVISTA BRASILEIRA DE ENERGIA , v. 24, p. 58-67, 2018.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, A. L. ; CHEMIN NETTO, Ulisses ; SOUZA, M. A. . UTILIZAÇÃO DO SOFTWARE HOMER PARA ANÁLISE DA VIABI-LIDADE ECONÔMICA DE UM SISTEMA HÍBRIDO DE GERAÇÃO NA ILHA DO MEL.. REVISTA BRASILEIRA DE ENERGIA , v. 24, p. 58-67, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An ANN based forecast for IED network management using the IEC61850 standard",
+          "autores": "Netto, Ulisses Chemin ; DE CASTRO GRILLO, DIEGO ; LONEL, IVAN DONISETE ; PELLINI, EDUARDO LORENZETTI ; COURY, DENIS VINICIUS",
+          "periodico": "Electric Power Systems Research (Print) , v. 130, p. 148-155, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2015.08.026",
+          "citacao_completa": "Netto, Ulisses Chemin ; DE CASTRO GRILLO, DIEGO ; LONEL, IVAN DONISETE ; PELLINI, EDUARDO LORENZETTI ; COURY, DENIS VINICIUS . An ANN based forecast for IED network management using the IEC61850 standard. Electric Power Systems Research (Print) , v. 130, p. 148-155, 2016."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Behaviour Evaluation of GOOSE Message Traffic between Power Substations: A POTT Scheme Case Study",
+          "autores": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "Journal of Control, Automation and Electrical Systems , v. 25, p. 262-271, 2014.",
+          "doi": "http://dx.doi.org/10.1007/s40313-013-0087-1",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Behaviour Evaluation of GOOSE Message Traffic between Power Substations: A POTT Scheme Case Study. Journal of Control, Automation and Electrical Systems , v. 25, p. 262-271, 2014."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Power Transformer Differential Protection Based on Clarke's Transform and Fuzzy Systems",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "IEEE Transactions on Power Systems , v. 26, p. 1212-1221, 2011.",
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2010.2097281",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Power Transformer Differential Protection Based on Clarke's Transform and Fuzzy Systems. IEEE Transactions on Power Systems , v. 26, p. 1212-1221, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Lógica Nebulosa aplicada à Proteção Diferencial de Transformadores de Potência",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "Controle & Automação (Online) , v. 22, p. 467-478, 2011.",
+          "doi": "http://dx.doi.org/10.1590/S0103-17592011000500003",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Lógica Nebulosa aplicada à Proteção Diferencial de Transformadores de Potência. Controle & Automação (Online) , v. 22, p. 467-478, 2011."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "High Impedance Fault Detection Distributed Scheme using Modern Auto-reclosers and IEC 61850",
+          "autores": "SILVA MELO, ANDRÉ FELIPE ; ROLDAN-FERNANDEZ, J. M. ; GONZALEZ-LONGATT, F. ; BURGOS-PAYAN, M. ; CHEMIN NETTO, Ulisses",
+          "periodico": "PACWorld, Houston, Texas, p. 28 - 33, 04 set. 2023.",
+          "doi": "",
+          "citacao_completa": "SILVA MELO, ANDRÉ FELIPE ; ROLDAN-FERNANDEZ, J. M. ; GONZALEZ-LONGATT, F. ; BURGOS-PAYAN, M. ; CHEMIN NETTO, Ulisses . High Impedance Fault Detection Distributed Scheme using Modern Auto-reclosers and IEC 61850. PACWorld, Houston, Texas, p. 28 - 33, 04 set. 2023."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Compact Transmission",
+          "autores": "SOUZA, M. A. ; HOFFMANN, J. ; CASAGRANDE, F. ; CHEMIN NETTO, Ulisses",
+          "periodico": "T&DWorld, Kansas, p. 28 - 32, 01 mar. 2019.",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; HOFFMANN, J. ; CASAGRANDE, F. ; CHEMIN NETTO, Ulisses . Compact Transmission. T&DWorld, Kansas, p. 28 - 32, 01 mar. 2019."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Impacto do paralelismo na proteção diferencial de transformador de potência",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ;",
+          "periodico": "O Setor Elétrico, São Paulo, p. 68 - 73, 01 fev. 2010.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; . Impacto do paralelismo na proteção diferencial de transformador de potência. O Setor Elétrico, São Paulo, p. 68 - 73, 01 fev. 2010."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "ANÁLISE DO BARRAMENTO DE PROCESSO QUANDO SUBMETIDO A FALHAS NO SINCRONISMO DE TEMPO",
+          "autores": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; LIMA, D. A. C. ; ROSANELLI, A. A.",
+          "periodico": "In: Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais do XX Eriac, 2025.",
+          "doi": "",
+          "citacao_completa": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; LIMA, D. A. C. ; ROSANELLI, A. A. . ANÁLISE DO BARRAMENTO DE PROCESSO QUANDO SUBMETIDO A FALHAS NO SINCRONISMO DE TEMPO. In: Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais do XX Eriac, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoramento online de Indicadores de Qualidade da Energia Elétrica de parques eólicos e solares fotovoltaicos, baseado no Sistema de Medição Sincronizada de Fasores do SIN",
+          "autores": "OLIVEIRA, F. A. ; PEREIRA, J. G. ; CARDOSO, M. C. ; LOS, J. L. ; DECKER, I. C. ; AQUINO, A. F. C. ; ISSICABA, D. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de energia Elétrica, 2025, Recife. Anais do XXVIII SNPTEE, 2025.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, F. A. ; PEREIRA, J. G. ; CARDOSO, M. C. ; LOS, J. L. ; DECKER, I. C. ; AQUINO, A. F. C. ; ISSICABA, D. ; CHEMIN NETTO, Ulisses . Monitoramento online de Indicadores de Qualidade da Energia Elétrica de parques eólicos e solares fotovoltaicos, baseado no Sistema de Medição Sincronizada de Fasores do SIN. In: Seminário Nacional de Produção e Transmissão de energia Elétrica, 2025, Recife. Anais do XXVIII SNPTEE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Complementary UML diagrams for the IEC 61850-6 Standard",
+          "autores": "BUDZINSKI, F. A. ; SARTORI, A. F. ; MORAIS, A. P. ; BERNARDON, D. P. ; HOKAMA, W. S. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: 16th IEEE/IAS International Conference on Industry Applications - INDUSCON 2025, 2025, São Sebastião. Anais do 16th INDUSCON, 2025.",
+          "doi": "",
+          "citacao_completa": "BUDZINSKI, F. A. ; SARTORI, A. F. ; MORAIS, A. P. ; BERNARDON, D. P. ; HOKAMA, W. S. ; CHEMIN NETTO, Ulisses . Complementary UML diagrams for the IEC 61850-6 Standard. In: 16th IEEE/IAS International Conference on Industry Applications - INDUSCON 2025, 2025, São Sebastião. Anais do 16th INDUSCON, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "AnáLise Da AplicaçãO Da FunçãO De ProteçãO De Sobrecorrente Baseado No Elemento De SequêNcia Negativa: ComparaçãO Do Desempenho Com Os Tradicionais Elementos De Fase E De SequêNcia Zero",
+          "autores": "CUNHA JR., N. ; CHEMIN NETTO, Ulisses ; MAGRIN, F. G. S.",
+          "periodico": "In: 16th IEEE/IAS International Conference on Industry Applications - INDUSCON 2025, 2025, São Sebastião. Anais do 16th INDUSCON, 2025.",
+          "doi": "",
+          "citacao_completa": "CUNHA JR., N. ; CHEMIN NETTO, Ulisses ; MAGRIN, F. G. S. . AnáLise Da AplicaçãO Da FunçãO De ProteçãO De Sobrecorrente Baseado No Elemento De SequêNcia Negativa: ComparaçãO Do Desempenho Com Os Tradicionais Elementos De Fase E De SequêNcia Zero. In: 16th IEEE/IAS International Conference on Industry Applications - INDUSCON 2025, 2025, São Sebastião. Anais do 16th INDUSCON, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise comparativa de metodologias para mitigação de faltas entre espiras em geradores síncronos de fase dividida",
+          "autores": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; ROSANELLI, A. A. ; DIANA, B. R. S. ; LIMA, D. A. C.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024.",
+          "doi": "",
+          "citacao_completa": "SARTORI, A. F. ; MORAIS, A. P. ; CHEMIN NETTO, Ulisses ; ROSANELLI, A. A. ; DIANA, B. R. S. ; LIMA, D. A. C. . Análise comparativa de metodologias para mitigação de faltas entre espiras em geradores síncronos de fase dividida. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "EXPERIÊNCIA DA CPFL ENERGIA COM O USO DE SIMULAÇÃO DIGITAL EM TEMPO REAL EM TESTES COM SUBESTAÇÕES DIGITAIS FUNDAMENTADAS NA NORMA IEC 61850",
+          "autores": "SARTORI, A. F. ; MORAIS, A. P. ; HOKAMA, W. S. ; TRINDADE, M. ; BLASI, T. M. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. Anais do XVII Seminário Técnico de Proteção e Controle, 2024.",
+          "doi": "",
+          "citacao_completa": "SARTORI, A. F. ; MORAIS, A. P. ; HOKAMA, W. S. ; TRINDADE, M. ; BLASI, T. M. ; CHEMIN NETTO, Ulisses . EXPERIÊNCIA DA CPFL ENERGIA COM O USO DE SIMULAÇÃO DIGITAL EM TEMPO REAL EM TESTES COM SUBESTAÇÕES DIGITAIS FUNDAMENTADAS NA NORMA IEC 61850. In: Seminário Técnico de Proteção e Controle, 2024, São Paulo. Anais do XVII Seminário Técnico de Proteção e Controle, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "REAL-TIME DIGITAL SIMULATION AND IEC 61850 STANDARD: INTEROPERABILITY TEST BETWEEN OPAL-RT AND TYPHOON HIL SIMULATORS",
+          "autores": "MORAIS, A. P. ; SARTORI, A. F. ; CASSOL1, J. ; BERNARDON, D. P. ; CHEMIN NETTO, Ulisses ; HOKAMA, W. S. ; CONCEICAO, J. B. R. ; LIMA, D. A. C.",
+          "periodico": "In: 27th International Conference on Electricity Distribution, 2023, Roma. The CIRED 2023 proceedings, 2023. p. 11506.",
+          "doi": "",
+          "citacao_completa": "MORAIS, A. P. ; SARTORI, A. F. ; CASSOL1, J. ; BERNARDON, D. P. ; CHEMIN NETTO, Ulisses ; HOKAMA, W. S. ; CONCEICAO, J. B. R. ; LIMA, D. A. C. . REAL-TIME DIGITAL SIMULATION AND IEC 61850 STANDARD: INTEROPERABILITY TEST BETWEEN OPAL-RT AND TYPHOON HIL SIMULATORS. In: 27th International Conference on Electricity Distribution, 2023, Roma. The CIRED 2023 proceedings, 2023. p. 11506."
+        },
+        {
+          "ano": 2023,
+          "titulo": "PROTEÇÃO DE LINHAS DE TRANSMISSÃO UTILIZANDO ONDAS VIAJANTES E SUA INFLUÊNCIA SOBRE A ESTABILIDADE TRANSITÓRIA DO SISTEMA ELÉTRICO DE POTÊNCIA",
+          "autores": "NOGUEIRA, R. C. J. F. ; FERNANDES, R. O. ; KREFTA, G. F. ; PIMENTEL, C. E. F. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023, Brasília. Anais do XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "NOGUEIRA, R. C. J. F. ; FERNANDES, R. O. ; KREFTA, G. F. ; PIMENTEL, C. E. F. ; CHEMIN NETTO, Ulisses . PROTEÇÃO DE LINHAS DE TRANSMISSÃO UTILIZANDO ONDAS VIAJANTES E SUA INFLUÊNCIA SOBRE A ESTABILIDADE TRANSITÓRIA DO SISTEMA ELÉTRICO DE POTÊNCIA. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2023, Brasília. Anais do XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Proteção Diferencial de Barras de Subestações de Distribuição: Análise do funcionamento de metodologias fundamentadas na Norma IEC 61850",
+          "autores": "SARTORI, A. F. ; MORAIS, A. P. ; LIMA, D. A. C. ; CHEMIN NETTO, Ulisses ; BERNARDON, D. P. ; HOKAMA, W. S. ; CONCEICAO, J. B. R.",
+          "periodico": "In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022. v. 3.",
+          "doi": "http://dx.doi.org/10.20906/cba2022/3329",
+          "citacao_completa": "SARTORI, A. F. ; MORAIS, A. P. ; LIMA, D. A. C. ; CHEMIN NETTO, Ulisses ; BERNARDON, D. P. ; HOKAMA, W. S. ; CONCEICAO, J. B. R. . Proteção Diferencial de Barras de Subestações de Distribuição: Análise do funcionamento de metodologias fundamentadas na Norma IEC 61850. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022. v. 3."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Diretrizes de Projeto para Digitalização de uma Subestação de Energia Elétrica",
+          "autores": "RECK, F. G. ; BUDZINSKI, F. A. ; FERREIRA, D. S. ; LIMA, U. O. A. ; CARLOTO, F. G. ; CONCEICAO, J. B. R. ; HOKAMA, W. S. ; OLIVEIRA, A. L. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos (SBSE 2022), 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "RECK, F. G. ; BUDZINSKI, F. A. ; FERREIRA, D. S. ; LIMA, U. O. A. ; CARLOTO, F. G. ; CONCEICAO, J. B. R. ; HOKAMA, W. S. ; OLIVEIRA, A. L. ; CHEMIN NETTO, Ulisses . Diretrizes de Projeto para Digitalização de uma Subestação de Energia Elétrica. In: IX Simpósio Brasileiro de Sistemas Elétricos (SBSE 2022), 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Use of photovoltaic systems for improving community resilience in Honey Island",
+          "autores": "MONTEIRO, A. L. ; SOARES, P. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: Virtual 2020 IEEE Photovoltaics Specialists Conference, 2020. Proceedings of Virtual IEEE PVSC 47, 2020.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, A. L. ; SOARES, P. ; CHEMIN NETTO, Ulisses . Use of photovoltaic systems for improving community resilience in Honey Island. In: Virtual 2020 IEEE Photovoltaics Specialists Conference, 2020. Proceedings of Virtual IEEE PVSC 47, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Methodology of technical-economical feasibility analysis: Application in distributed generation systems from biogas generated in Anaerobic Wastewater Treatment Plant",
+          "autores": "SESTREM JUNIOR, J. A. ; CHEMIN NETTO, Ulisses ; POSSETTI, G. R. C. ; ISSICABA, D.",
+          "periodico": "In: 13th Latin-American Congress on Electricity Generation and Transmission, 2019, Santiago de Chile. Book of Abstracts and Proceedings of 13th Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "SESTREM JUNIOR, J. A. ; CHEMIN NETTO, Ulisses ; POSSETTI, G. R. C. ; ISSICABA, D. . Methodology of technical-economical feasibility analysis: Application in distributed generation systems from biogas generated in Anaerobic Wastewater Treatment Plant. In: 13th Latin-American Congress on Electricity Generation and Transmission, 2019, Santiago de Chile. Book of Abstracts and Proceedings of 13th Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Lightning Overvoltages in Copel?s Compact Urban Transmission Lines",
+          "autores": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: International Symposium on Lightning Protection, 2019, São Paulo. XV International Symposium on Lightning Protection, 2019.",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses . Lightning Overvoltages in Copel?s Compact Urban Transmission Lines. In: International Symposium on Lightning Protection, 2019, São Paulo. XV International Symposium on Lightning Protection, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Modelo e análise do impacto da supercompactação de linhas de transmissão urbanas 138 kV da Copel nas sobretensões transitórias com uso do software ATP.",
+          "autores": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2019, Belo Horizonte. Anais do XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2019.",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses . Modelo e análise do impacto da supercompactação de linhas de transmissão urbanas 138 kV da Copel nas sobretensões transitórias com uso do software ATP.. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2019, Belo Horizonte. Anais do XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "TRÁFEGO DE MENSAGENS GOOSE EM REDUNDÂNCIA DE COMUNICAÇÃO EM SUBESTAÇÕES DE ENERGIA ELÉTRICA",
+          "autores": "FAUSTINO JUNIOR, W. A. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018.",
+          "doi": "",
+          "citacao_completa": "FAUSTINO JUNIOR, W. A. ; CHEMIN NETTO, Ulisses . TRÁFEGO DE MENSAGENS GOOSE EM REDUNDÂNCIA DE COMUNICAÇÃO EM SUBESTAÇÕES DE ENERGIA ELÉTRICA. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do XXII Congresso Brasileiro de Automática, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Utilização do software Homer para análise da viabilidade econômica de um sistema híbrido de geração na Ilha do Mel",
+          "autores": "MONTEIRO, A. L. ; SOUZA, M. A. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: XI Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. Anais do XI Congresso Brasileiro de Planejamento, 2018.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, A. L. ; SOUZA, M. A. ; CHEMIN NETTO, Ulisses . Utilização do software Homer para análise da viabilidade econômica de um sistema híbrido de geração na Ilha do Mel. In: XI Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. Anais do XI Congresso Brasileiro de Planejamento, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Copel?s experience on uprating a 69 kV Compact Overhead Urban Transmission Line into 138 kV (Supercompact urban transmission line)",
+          "autores": "SOUZA, M. A. ; HOFFMANN, J. ; CASAGRANDE, F. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: 47 Cigre Session, 2018, Paris. CIGRE SESSION 2018 - DOCUMENTS, 2018.",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; HOFFMANN, J. ; CASAGRANDE, F. ; CHEMIN NETTO, Ulisses . Copel?s experience on uprating a 69 kV Compact Overhead Urban Transmission Line into 138 kV (Supercompact urban transmission line). In: 47 Cigre Session, 2018, Paris. CIGRE SESSION 2018 - DOCUMENTS, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo de sobretensão de energização em linhas de transmissão compactas urbanas 138 kV com uso do programa ATPDraw",
+          "autores": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: XXIII Seminário Nacional de Distribuição de Energia Elétrica, 2018, Fortaleza. Anais do XXIII Seminário Nacional de Distribuição de Energia Elétrica, 2018.",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses . Estudo de sobretensão de energização em linhas de transmissão compactas urbanas 138 kV com uso do programa ATPDraw. In: XXIII Seminário Nacional de Distribuição de Energia Elétrica, 2018, Fortaleza. Anais do XXIII Seminário Nacional de Distribuição de Energia Elétrica, 2018."
+        },
+        {
+          "ano": 2014,
+          "titulo": "VALIDAÇÃO DA INTERFACE SITL PARA COMPOR UMA PLATAFORMA DE CO-SIMULAÇÃO PARA REDES INTELIGENTES",
+          "autores": "CHEMIN NETTO, Ulisses ; COURY, D. V.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2014, Belo Horizonte. Anais do XX Congresso Brasileiro de Automática, 2014. p. 2724-2731.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; COURY, D. V. . VALIDAÇÃO DA INTERFACE SITL PARA COMPOR UMA PLATAFORMA DE CO-SIMULAÇÃO PARA REDES INTELIGENTES. In: Congresso Brasileiro de Automática, 2014, Belo Horizonte. Anais do XX Congresso Brasileiro de Automática, 2014. p. 2724-2731."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Validação de Modelos de Sub/Sobrefrequencia para Proteção Anti-ilhamento de Geração Distribuída usando o RTDS",
+          "autores": "MOTTER, D. ; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V.",
+          "periodico": "In: V Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçú. Anais do V Simpósio Brasileiro de Sistemas Elétricos, 2014.",
+          "doi": "",
+          "citacao_completa": "MOTTER, D. ; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V. . Validação de Modelos de Sub/Sobrefrequencia para Proteção Anti-ilhamento de Geração Distribuída usando o RTDS. In: V Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçú. Anais do V Simpósio Brasileiro de Sistemas Elétricos, 2014."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A Modified Clarke?s Transform and Fuzzy Systems Applied to Differential Protection of Power Transformers",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "In: The 2012 IEEE Power & Energy Society General Meeting, 2012, San Diego. Proceedings of the 2012 IEEE Power & Energy Society General Meeting, 2012.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . A Modified Clarke?s Transform and Fuzzy Systems Applied to Differential Protection of Power Transformers. In: The 2012 IEEE Power & Energy Society General Meeting, 2012, San Diego. Proceedings of the 2012 IEEE Power & Energy Society General Meeting, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A Behaviour Evaluation of Network Traffic in a Power Substation Concerning GOOSE Messages",
+          "autores": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V.",
+          "periodico": "In: The 2012 IEEE Power & Energy Society General Meeting, 2012, San Diego. Proceedings of the 2012 IEEE Power & Energy Society General Meeting, 2012.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V. . A Behaviour Evaluation of Network Traffic in a Power Substation Concerning GOOSE Messages. In: The 2012 IEEE Power & Energy Society General Meeting, 2012, San Diego. Proceedings of the 2012 IEEE Power & Energy Society General Meeting, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Sistema Web para Supervisão e Predição de Frequência no contexto de Smart Grids",
+          "autores": "; ; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia. Anais do IV Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "doi": "",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Sistema Web para Supervisão e Predição de Frequência no contexto de Smart Grids. In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia. Anais do IV Simpósio Brasileiro de Sistemas Elétricos, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Metodologia para Automação de Lógica Discreta Mediante o Emprego do Padrão IEC 61850",
+          "autores": "; ; CHEMIN NETTO, Ulisses ; COURY, D. V.",
+          "periodico": "In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia. Anais do IV Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "doi": "",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses ; COURY, D. V. . Metodologia para Automação de Lógica Discreta Mediante o Emprego do Padrão IEC 61850. In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia. Anais do IV Simpósio Brasileiro de Sistemas Elétricos, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "SISTEMA PREDITIVO PARA MONITORAMENTO DE BANDA APLICADO À REDES DE IEDS",
+          "autores": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V.",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V. . SISTEMA PREDITIVO PARA MONITORAMENTO DE BANDA APLICADO À REDES DE IEDS. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "FERRAMENTA MULTI ARQUIVOS PARA VISUALIZAÇÃO E MANIPULAÇÃO OSCILOGRÁFICA DE SINAIS ELÉTRICOS",
+          "autores": "SANTOS, A. Q. ; GRILLO, D. C ; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; COURY, D. V. ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "SANTOS, A. Q. ; GRILLO, D. C ; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; COURY, D. V. ; . FERRAMENTA MULTI ARQUIVOS PARA VISUALIZAÇÃO E MANIPULAÇÃO OSCILOGRÁFICA DE SINAIS ELÉTRICOS. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Modelo de Orientação a Objetos Aplicado ao Projeto e Desenvolvimento da Ferramenta Computacional WAPS para Manipulação e Visualização de Arquivos Oscilográficos",
+          "autores": "SANTOS, A. Q. ; GRILLO, D. C ; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; COURY, D. V. ;",
+          "periodico": "In: Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012, Montevideo. PROCEEDINGS OF THE 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012.",
+          "doi": "",
+          "citacao_completa": "SANTOS, A. Q. ; GRILLO, D. C ; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; COURY, D. V. ; . Modelo de Orientação a Objetos Aplicado ao Projeto e Desenvolvimento da Ferramenta Computacional WAPS para Manipulação e Visualização de Arquivos Oscilográficos. In: Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012, Montevideo. PROCEEDINGS OF THE 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Correlação entre Registros Oscilográficos de Proteção e Qualidade da Energia Elétrica dispondo da Dynamic Time Warping",
+          "autores": "; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012, Montevideo. PROCEEDINGS OF THE 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . Correlação entre Registros Oscilográficos de Proteção e Qualidade da Energia Elétrica dispondo da Dynamic Time Warping. In: Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012, Montevideo. PROCEEDINGS OF THE 2012 Sixth IEEE/PES Transmission and Distribution: Latin America Conference and Exposition (T&D-LA), 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Um Novo Algoritmo para a Proteção Diferencial de Transformadores através da Lógica Nebulosa",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "In: XVIII Congresso Brasileiro de Automática, 2010, Bonito/MS. Anais do XVIII Congresso Brasileiro de Automática, 2010.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Um Novo Algoritmo para a Proteção Diferencial de Transformadores através da Lógica Nebulosa. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito/MS. Anais do XVIII Congresso Brasileiro de Automática, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Processo Unificado Aplicado ao Projeto e Desenvolvimento de um Software Compatível às Análises de Proteção e Qualidade da Energia Elétrica em um Sistema de Distribuição Real",
+          "autores": "; ; BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; Tokuno, S. E. ; Parreira, O. R. M.",
+          "periodico": "In: XVIII Congresso Brasileiro de Automática, 2010, Bonito/MS. Anais do XVIII Congresso Brasileiro de Automática, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; Tokuno, S. E. ; Parreira, O. R. M. . Processo Unificado Aplicado ao Projeto e Desenvolvimento de um Software Compatível às Análises de Proteção e Qualidade da Energia Elétrica em um Sistema de Distribuição Real. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito/MS. Anais do XVIII Congresso Brasileiro de Automática, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Bay control using commercial digital relays via IEC 61850",
+          "autores": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ; ; GURJAO, E. C. ; BRITO, Núbia Silva Dantas ; SOUZA, B. A.",
+          "periodico": "In: IEEE/PES Latin American Transmission and Distribution 2010, 2010, São Paulo. Anais do IEEE/PES Latin American Transmission and Distribution 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ; ; GURJAO, E. C. ; BRITO, Núbia Silva Dantas ; SOUZA, B. A. . Bay control using commercial digital relays via IEC 61850. In: IEEE/PES Latin American Transmission and Distribution 2010, 2010, São Paulo. Anais do IEEE/PES Latin American Transmission and Distribution 2010, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A Suportabilidade e o Desempenho da Operação dos Motores de Indução Trifásicos frente aos Afundamentos de Tensão",
+          "autores": "; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; ; COURY, D. V.",
+          "periodico": "In: VIII Conferência brasileira sobre qualidade da energia elétrica, 2009, Blumenau. VIII Conferência brasileira sobre qualidade da energia elétrica, 2009.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; BARBOSA, D. ; ; COURY, D. V. . A Suportabilidade e o Desempenho da Operação dos Motores de Indução Trifásicos frente aos Afundamentos de Tensão. In: VIII Conferência brasileira sobre qualidade da energia elétrica, 2009, Blumenau. VIII Conferência brasileira sobre qualidade da energia elétrica, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estudo Comparativo da Resposta Dinâmica dos Motores de Indução Trifásicos quando Submetidos a Afundamentos de Tensão no Sistema Elétrico de Potência",
+          "autores": "; BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: 8th Latin-American Congress on Electricity Generation and Transmission, 2009, Ubatuba. 8th Latin-American Congress on Electricity Generation and Transmission, 2009.",
+          "doi": "",
+          "citacao_completa": "; BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . Estudo Comparativo da Resposta Dinâmica dos Motores de Indução Trifásicos quando Submetidos a Afundamentos de Tensão no Sistema Elétrico de Potência. In: 8th Latin-American Congress on Electricity Generation and Transmission, 2009, Ubatuba. 8th Latin-American Congress on Electricity Generation and Transmission, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Aplicação de um Sistema Fuzzy ao Instrumento de Keirsey-Bates",
+          "autores": "CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: 37º Congresso Brasileiro de Educação em Engenharia - COBENGE 2009, 2009, Recife. 37º Congresso Brasileiro de Educação em Engenharia - COBENGE 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; ; COURY, D. V. . Aplicação de um Sistema Fuzzy ao Instrumento de Keirsey-Bates. In: 37º Congresso Brasileiro de Educação em Engenharia - COBENGE 2009, 2009, Recife. 37º Congresso Brasileiro de Educação em Engenharia - COBENGE 2009, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Tecnologias Web Aplicadas no Esquema Regional de Alívio de Carga - ERAC",
+          "autores": "; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: 8th Latin-American Congress on Electricity Generation and Transmission, 2009, Ubatuba. 8th Latin-American Congress on Electricity Generation and Transmission, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . Tecnologias Web Aplicadas no Esquema Regional de Alívio de Carga - ERAC. In: 8th Latin-American Congress on Electricity Generation and Transmission, 2009, Ubatuba. 8th Latin-American Congress on Electricity Generation and Transmission, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Impacto do Paralelismo na Proteção Diferencial de Transformadores de Potência",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ;",
+          "periodico": "In: XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife. XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; . Impacto do Paralelismo na Proteção Diferencial de Transformadores de Potência. In: XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife. XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Impacto do Paralelismo na Proteção Diferencial de Transformadores de Potência",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V.",
+          "periodico": "In: 8th LATIN AMERICAN CONGRESS: ELECTRICITY GENERATION AND TRANSMISSION, 2009, Ubatuba. BOOK OF ABSTRACTS AND PROCEEDING OF THE 8th LATIN-AMERICAN CONGRESS: ELECTRICITY GENERATION AND TRANSMISSION, 2009.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V. . Impacto do Paralelismo na Proteção Diferencial de Transformadores de Potência. In: 8th LATIN AMERICAN CONGRESS: ELECTRICITY GENERATION AND TRANSMISSION, 2009, Ubatuba. BOOK OF ABSTRACTS AND PROCEEDING OF THE 8th LATIN-AMERICAN CONGRESS: ELECTRICITY GENERATION AND TRANSMISSION, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "",
+          "autores": "BARBOSA, D. ; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "Estudo Comparativo da Resposta Dinâmica dos Motores de Indução Trifásicos quando Submetidos a Afundamentos de Tensão no Sistema Elétrico de Potência.. In: XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife. Anais do XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . . Estudo Comparativo da Resposta Dinâmica dos Motores de Indução Trifásicos quando Submetidos a Afundamentos de Tensão no Sistema Elétrico de Potência.. In: XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife. Anais do XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A UTILIZAÇÃO DE FERRAMENTAS WEB PARA A SUPERVISÃO E CONTROLE DE EQUIPAMENTOS DO SISTEMA ELÉTRICO DE POTÊNCIA",
+          "autores": "; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2008, Juiz de Fora. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . A UTILIZAÇÃO DE FERRAMENTAS WEB PARA A SUPERVISÃO E CONTROLE DE EQUIPAMENTOS DO SISTEMA ELÉTRICO DE POTÊNCIA. In: Congresso Brasileiro de Automática, 2008, Juiz de Fora. Anais do XVII Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "O DESENVOLVIMENTO DE UM SISTEMA WEB APLICADO AO CONTROLE E SUPERVISÃO DE UM BAY DE SAÍDA DE LINHA COMO ELEMENTO MOTIVADOR PARA A GRADUAÇÃO EM ENGENHARIA ELÉTRICA",
+          "autores": "; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V.",
+          "periodico": "In: Congresso Brasileiro de Educação em Engenharia, 2008, São Paulo. Anais do XXXVI COBENGE, 2008.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; ; ; COURY, D. V. . O DESENVOLVIMENTO DE UM SISTEMA WEB APLICADO AO CONTROLE E SUPERVISÃO DE UM BAY DE SAÍDA DE LINHA COMO ELEMENTO MOTIVADOR PARA A GRADUAÇÃO EM ENGENHARIA ELÉTRICA. In: Congresso Brasileiro de Educação em Engenharia, 2008, São Paulo. Anais do XXXVI COBENGE, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Uma lógica para controle de bay dispondo de relés digitais comerciais e meios de comunicação adequados (TRABALHO ACEITO)",
+          "autores": "; CHEMIN NETTO, Ulisses ; ; COURY, D. V.",
+          "periodico": "In: VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, Viña del Mar. VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, 2007.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; ; COURY, D. V. . Uma lógica para controle de bay dispondo de relés digitais comerciais e meios de comunicação adequados (TRABALHO ACEITO). In: VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, Viña del Mar. VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Uma lógica de comutação entre fontes de alta tensão em uma subestação industrial pelo uso de relés digitais comerciais (TRABALHO ACEITO)",
+          "autores": "CHEMIN NETTO, Ulisses ; ; COURY, D. V. ;",
+          "periodico": "In: VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, Viña del Mar. VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE,2007, 2007.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; . Uma lógica de comutação entre fontes de alta tensão em uma subestação industrial pelo uso de relés digitais comerciais (TRABALHO ACEITO). In: VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE, 2007, Viña del Mar. VII Latin-American Congress on Electricity Generation and Transmission VII CLAGTEE,2007, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistemas digitais e comunicação de dados aplicados a um procedimento laboratorial para o ensino de proteção de sistemas elétricos de potência (TRABALHO ACEITO)",
+          "autores": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ;",
+          "periodico": "In: XXXV Congresso Brasileiro de Educação em Engenharia - XXXV COBENGE, 2007, Curitiba. XXXV Congresso Brasileiro de Educação em Engenharia - XXXV COBENGE, 2007, 2007.",
+          "doi": "",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses ; COURY, D. V. ; . Sistemas digitais e comunicação de dados aplicados a um procedimento laboratorial para o ensino de proteção de sistemas elétricos de potência (TRABALHO ACEITO). In: XXXV Congresso Brasileiro de Educação em Engenharia - XXXV COBENGE, 2007, Curitiba. XXXV Congresso Brasileiro de Educação em Engenharia - XXXV COBENGE, 2007, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento e implementação de uma lógica para comutação entre fontes de alta tensão baseada em relés digitais comerciais aplicada em uma subestação industrial",
+          "autores": "CHEMIN NETTO, Ulisses ; ; COURY, D. V. ;",
+          "periodico": "In: VII Conferência Brasileira sobre Qualidade da Energia Elétrica - VII CBQEE, 2007, Santos. VII Conferência Brasileira sobre Qualidade da Energia Elétrica - VII CBQEE, 2007., 2007.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; ; COURY, D. V. ; . Desenvolvimento e implementação de uma lógica para comutação entre fontes de alta tensão baseada em relés digitais comerciais aplicada em uma subestação industrial. In: VII Conferência Brasileira sobre Qualidade da Energia Elétrica - VII CBQEE, 2007, Santos. VII Conferência Brasileira sobre Qualidade da Energia Elétrica - VII CBQEE, 2007., 2007."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "Integração de IEDs de Proteção ao ambiente de Simulação Opnet Modeler através da Interface SITL",
+          "autores": "FUZETTI, V. R. ; CHEMIN NETTO, Ulisses ; COURY, D. V.",
+          "periodico": "In: 21 Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2013, São Carlos. Anais do 21 Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2013.",
+          "doi": "",
+          "citacao_completa": "FUZETTI, V. R. ; CHEMIN NETTO, Ulisses ; COURY, D. V. . Integração de IEDs de Proteção ao ambiente de Simulação Opnet Modeler através da Interface SITL. In: 21 Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2013, São Carlos. Anais do 21 Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Desenvolvimento de um Sistema Preditivo de Tráfego para Redes de Relés Digitais de Proteção sob o uso do Padrão IEC 61850",
+          "autores": "LONEL, I. D. ; COURY, D. V. ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: 21 Simpósio Internacional de Iniciação Científica - SIICUSP, 2013, São Carlos. Anais do 21 Simpósio Internacional de Iniciação Científica - SIICUSP, 2013.",
+          "doi": "",
+          "citacao_completa": "LONEL, I. D. ; COURY, D. V. ; CHEMIN NETTO, Ulisses . Desenvolvimento de um Sistema Preditivo de Tráfego para Redes de Relés Digitais de Proteção sob o uso do Padrão IEC 61850. In: 21 Simpósio Internacional de Iniciação Científica - SIICUSP, 2013, São Carlos. Anais do 21 Simpósio Internacional de Iniciação Científica - SIICUSP, 2013."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Análise de Desempenho de Relés de Freqüência Aplicados na Proteção de Geradores Síncronos Distribuídos",
+          "autores": "HERNANDES, L. ; ; CHEMIN NETTO, Ulisses",
+          "periodico": "In: XVII Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2009, São Carlos. XVII Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2009.",
+          "doi": "",
+          "citacao_completa": "HERNANDES, L. ; ; CHEMIN NETTO, Ulisses . Análise de Desempenho de Relés de Freqüência Aplicados na Proteção de Geradores Síncronos Distribuídos. In: XVII Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2009, São Carlos. XVII Simpósio Internacional de Iniciação Científica da Universidade de São Paulo, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "Fundamentos do Cálculo de Curto-Circuito",
+          "autores": "CHEMIN NETTO, Ulisses",
+          "periodico": "2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses . Fundamentos do Cálculo de Curto-Circuito. 2012. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "I Coloquio sobre os rumos da proteção digital de sistemas elétricos",
+          "autores": "BARBOSA, D. ; ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; SILVA, M. ;",
+          "periodico": "2006. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; ; CHEMIN NETTO, Ulisses ; COURY, D. V. ; SILVA, M. ; . I Coloquio sobre os rumos da proteção digital de sistemas elétricos. 2006. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Modelo Laboratorial para Estudos da Proteção Diferencial de Transformadores de Potência Considerando um Relé Digital",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; BERNARDES, A. P. ; SILVA, M. ; COURY, D. V.",
+          "periodico": "2006. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; BERNARDES, A. P. ; SILVA, M. ; COURY, D. V. . Modelo Laboratorial para Estudos da Proteção Diferencial de Transformadores de Potência Considerando um Relé Digital. 2006. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2008,
+          "titulo": "Aplicações de controle e supervisão distribuídas em subestações de energia elétrica através do uso de relés digitais de proteção",
+          "autores": "CHEMIN NETTO, Ulisses",
+          "periodico": "São Carlos: Universidade de São Paulo, 2008 (Dissertação de Mestrado).",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses . Aplicações de controle e supervisão distribuídas em subestações de energia elétrica através do uso de relés digitais de proteção. São Carlos: Universidade de São Paulo, 2008 (Dissertação de Mestrado)."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Iluminação Sólida Como Inovação E Diferencial Positivo Para Conservação De Energia E Modernização Da Luminotécnica Brasileira",
+          "autores": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses ;",
+          "periodico": "Curitiba: Universidade Tecnológica Federal do Paraná, 2004 (Trabalho de Conclusão de Curso de Graduação).",
+          "doi": "",
+          "citacao_completa": "SOUZA, M. A. ; CHEMIN NETTO, Ulisses ; . Iluminação Sólida Como Inovação E Diferencial Positivo Para Conservação De Energia E Modernização Da Luminotécnica Brasileira. Curitiba: Universidade Tecnológica Federal do Paraná, 2004 (Trabalho de Conclusão de Curso de Graduação)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "UTE São Simão",
+          "autores": "Netto, Ulisses Chemin",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "Netto, Ulisses Chemin . UTE São Simão. 2010."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "Wave Analyser for Power System - WAPS",
+          "autores": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; SANTOS, A. Q. ; GRILLO, D. C ; ; COURY, D. V.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "BARBOSA, D. ; CHEMIN NETTO, Ulisses ; SANTOS, A. Q. ; GRILLO, D. C ; ; COURY, D. V. . Wave Analyser for Power System - WAPS. 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "SNMP PROPHET",
+          "autores": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; GRILLO, D. C ; LONEL, I. D. ; COURY, D. V. . SNMP PROPHET. 2012."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "ANÁLISE DOS IMPACTOS DOS MODOS DE CONTROLE DAS FONTES RENOVÁVEISINTERFACEADAS POR INVERSORES DE POTÊNCIA NA FUNÇÃO DE PROTEÇÃO DE DISTÂNCIA",
+          "membros": "CORTEZ, D. F.; TAVARES, M. C. D.; CHEMIN NETTO, Ulisses",
+          "candidato": "Rodolfo Benedito Siqueira",
+          "citacao_completa": "CORTEZ, D. F.; TAVARES, M. C. D.; CHEMIN NETTO, Ulisses . Participação em banca de Rodolfo Benedito Siqueira. ANÁLISE DOS IMPACTOS DOS MODOS DE CONTROLE DAS FONTES RENOVÁVEISINTERFACEADAS POR INVERSORES DE POTÊNCIA NA FUNÇÃO DE PROTEÇÃO DE DISTÂNCIA. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2025,
+          "titulo": "?Monitoramento e detecção de potenciais não conformidades em distorções de tensão harmônica totais com base em dados provenientes de sistemas de medição de sincrofasores",
+          "membros": "ISSICABA, D.; VIEIRA, P. C. C.; CHEMIN NETTO, Ulisses",
+          "candidato": "Mario Eduardo Santos Borba",
+          "citacao_completa": "ISSICABA, D.; VIEIRA, P. C. C.; CHEMIN NETTO, Ulisses . Participação em banca de Mario Eduardo Santos Borba. ?Monitoramento e detecção de potenciais não conformidades em distorções de tensão harmônica totais com base em dados provenientes de sistemas de medição de sincrofasores. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica (41001010005P1)) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANÁLISE E SIMULAÇÃO DA REAMOSTRAGEM DE SINAIS: UMA ABORDAGEM BASEADA NA IEC 61850-9-2,",
+          "membros": "BARRIQUELO, C. H.; RUTZIG, M. B.; CHEMIN NETTO, Ulisses",
+          "candidato": "ADRION ANDREI ROSANELLI",
+          "citacao_completa": "BARRIQUELO, C. H.; RUTZIG, M. B.; CHEMIN NETTO, Ulisses . Participação em banca de ADRION ANDREI ROSANELLI. ANÁLISE E SIMULAÇÃO DA REAMOSTRAGEM DE SINAIS: UMA ABORDAGEM BASEADA NA IEC 61850-9-2,. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise de Faltas Elétricas em Aerogeradores com Gerador Síncrono e Conversor de Escala Completa para Diferentes Métodos de Controle",
+          "membros": "MOTTER, D.; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Webert Esteves da Silva",
+          "citacao_completa": "MOTTER, D.; ; CHEMIN NETTO, Ulisses . Participação em banca de Webert Esteves da Silva. Análise de Faltas Elétricas em Aerogeradores com Gerador Síncrono e Conversor de Escala Completa para Diferentes Métodos de Controle. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Teleproteção de subestações com Sampled Values da IEC 61850 - Um estudo de caso com canal Ethernet multiplexado",
+          "membros": "PELLINI, EDUARDO LORENZETTI; BASTOS, M. R.; CHEMIN NETTO, Ulisses",
+          "candidato": "Carlos Augusto Rodrigues",
+          "citacao_completa": "PELLINI, EDUARDO LORENZETTI; BASTOS, M. R.; CHEMIN NETTO, Ulisses . Participação em banca de Carlos Augusto Rodrigues. Teleproteção de subestações com Sampled Values da IEC 61850 - Um estudo de caso com canal Ethernet multiplexado. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Relé de Proteção Virtual: Simulador web para relés de proteção",
+          "membros": "MAGRIN, F. G. S.; KUSTER, K. K.; CHEMIN NETTO, Ulisses",
+          "candidato": "Bruna Ventura Hoffmann",
+          "citacao_completa": "MAGRIN, F. G. S.; KUSTER, K. K.; CHEMIN NETTO, Ulisses . Participação em banca de Bruna Ventura Hoffmann. Relé de Proteção Virtual: Simulador web para relés de proteção. 2023. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Metodologia para Avaliação das consequencias da expansão dos sistemas elétricos nos sistemas de aterramento das subestações",
+          "membros": "FRITZEN, P. C.; CARDOSO JUNIOR, G.; CHEMIN NETTO, Ulisses",
+          "candidato": "Wagner Rosa",
+          "citacao_completa": "FRITZEN, P. C.; CARDOSO JUNIOR, G.; CHEMIN NETTO, Ulisses . Participação em banca de Wagner Rosa. Metodologia para Avaliação das consequencias da expansão dos sistemas elétricos nos sistemas de aterramento das subestações. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise de Desempenho de Relés de Proteção com Hardware Process Bus",
+          "membros": "DREYER, UILIAN JOSÉ; RAMBO, M. V. H.; CHEMIN NETTO, Ulisses",
+          "candidato": "Andre Felipe Silva Melo",
+          "citacao_completa": "DREYER, UILIAN JOSÉ; RAMBO, M. V. H.; CHEMIN NETTO, Ulisses . Participação em banca de Andre Felipe Silva Melo. Análise de Desempenho de Relés de Proteção com Hardware Process Bus. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estudo do Desempenho de Microrredes Ilhadas baseado em Análises de Segurança Estática e Dinâmica em Sistemas Elétricos de Potência",
+          "membros": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses",
+          "candidato": "Erico Gurski",
+          "citacao_completa": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses . Participação em banca de Erico Gurski. Estudo do Desempenho de Microrredes Ilhadas baseado em Análises de Segurança Estática e Dinâmica em Sistemas Elétricos de Potência. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ESTABILIDADE DE FREQUÊNCIA E CONTROLE AUTOMÁTICO DE GERAÇÃO: PROJETO DE CONTROLADOR ÓTIMO LQR APLICADO À GERAÇÃO TERMOELÉTRICA CONSIDERANDO SISTEMAS ELÉTRICOS INTERLIGADOS",
+          "membros": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses",
+          "candidato": "Conrado Gabriel Sodré Alves de Moraes",
+          "citacao_completa": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses . Participação em banca de Conrado Gabriel Sodré Alves de Moraes. ESTABILIDADE DE FREQUÊNCIA E CONTROLE AUTOMÁTICO DE GERAÇÃO: PROJETO DE CONTROLADOR ÓTIMO LQR APLICADO À GERAÇÃO TERMOELÉTRICA CONSIDERANDO SISTEMAS ELÉTRICOS INTERLIGADOS. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação do Comportamento da Rede de Distribuição de Energia, Considerando a Geração Fotovoltaica Distribuída, Respeitando os Limites de Inserção de Potência Apresentadas pela Resolução 482 de 2012 e suas Atualizações.",
+          "membros": "FRITZEN, P. C.; SANTOS, E. M.; CHEMIN NETTO, Ulisses",
+          "candidato": "Fillipe Alexandre Moraes",
+          "citacao_completa": "FRITZEN, P. C.; SANTOS, E. M.; CHEMIN NETTO, Ulisses . Participação em banca de Fillipe Alexandre Moraes. Avaliação do Comportamento da Rede de Distribuição de Energia, Considerando a Geração Fotovoltaica Distribuída, Respeitando os Limites de Inserção de Potência Apresentadas pela Resolução 482 de 2012 e suas Atualizações.. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estabilidade de Frequencia e Controle Automático de Geração: Projeto de Controlador ötimo LQR Aplicado à Geração Termoelétrica Considerando Sistemas Elétricos Interligados",
+          "membros": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses",
+          "candidato": "CONRADO GABRIEL SODRÉ ALVES DE MORAES",
+          "citacao_completa": "BENEDITO, R. A. S.; KUIAVA, R.; CHEMIN NETTO, Ulisses . Participação em banca de CONRADO GABRIEL SODRÉ ALVES DE MORAES. Estabilidade de Frequencia e Controle Automático de Geração: Projeto de Controlador ötimo LQR Aplicado à Geração Termoelétrica Considerando Sistemas Elétricos Interligados. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (40006018038P2)) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Análises e Ajustes Adaptativos da Proteção Aplicada a um Sistema de Distribuição na presença de geração distribuída",
+          "membros": "; KOPCAK, I.; CHEMIN NETTO, Ulisses",
+          "candidato": "Renan Hermogenes Furlan",
+          "citacao_completa": "; KOPCAK, I.; CHEMIN NETTO, Ulisses . Participação em banca de Renan Hermogenes Furlan. Análises e Ajustes Adaptativos da Proteção Aplicada a um Sistema de Distribuição na presença de geração distribuída. 2019. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Lógica Fuzzy aplicada ao registro de alarmes e eventos em subestações no padrão IEC 61850",
+          "membros": "PELLINI, EDUARDO LORENZETTI; SANTOS, M. L.; CHEMIN NETTO, Ulisses",
+          "candidato": "Luiz Gustavo RIbeiro",
+          "citacao_completa": "PELLINI, EDUARDO LORENZETTI; SANTOS, M. L.; CHEMIN NETTO, Ulisses . Participação em banca de Luiz Gustavo RIbeiro. Lógica Fuzzy aplicada ao registro de alarmes e eventos em subestações no padrão IEC 61850. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Proposta, Aplicação em Subestação Real e Treinamento em Metodologia para Testes Rotineiros em Sistemas de Automação Baseados na Norma IEC 61850",
+          "membros": "MOREIRA, F. A.; BARBOSA, D.; ASSIS, K. D. R.; CHEMIN NETTO, Ulisses",
+          "candidato": "Edmilson Assis Segundo",
+          "citacao_completa": "MOREIRA, F. A.; BARBOSA, D.; ASSIS, K. D. R.; CHEMIN NETTO, Ulisses . Participação em banca de Edmilson Assis Segundo. Proposta, Aplicação em Subestação Real e Treinamento em Metodologia para Testes Rotineiros em Sistemas de Automação Baseados na Norma IEC 61850. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "APRIMORAMENTO DA RESILIÊNCIA DE UNIDADES DE PROTEÇÃO POR MEIO DA MITIGAÇÃO DOS IMPACTOS DA PERDA DE MENSAGENS SAMPLED VALUES NO CONTEXTO DA NORMA IEC 61850",
+          "membros": "MORAIS, A. P.; CARDOSO JUNIOR, G.; GUTIERRES, L. F. F.; CHEMIN NETTO, Ulisses ; LOPES, Y.",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "MORAIS, A. P.; CARDOSO JUNIOR, G.; GUTIERRES, L. F. F.; CHEMIN NETTO, Ulisses ; LOPES, Y.. Participação em banca de Ângelo Felipe Sartori. APRIMORAMENTO DA RESILIÊNCIA DE UNIDADES DE PROTEÇÃO POR MEIO DA MITIGAÇÃO DOS IMPACTOS DA PERDA DE MENSAGENS SAMPLED VALUES NO CONTEXTO DA NORMA IEC 61850. 2025. Tese (Doutorado em Programa de Pós-Graduação ENGENHARIA ELÉTRICA (42002010003P8) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "TRATAMENTO DO PROBLEMA DA DESSINCRONIZAÇÃO DE DADOS PARA PROTEÇÃO DIFERENCIAL",
+          "membros": "MORAIS, A. P.; BERNARDON, D. P.; LEBORGNE, R. C.; CABRAL, R. J.; OLIVEIRA, M. O.; CHEMIN NETTO, Ulisses",
+          "candidato": "Diomar Adonis Copetti Lima",
+          "citacao_completa": "MORAIS, A. P.; BERNARDON, D. P.; LEBORGNE, R. C.; CABRAL, R. J.; OLIVEIRA, M. O.; CHEMIN NETTO, Ulisses . Participação em banca de Diomar Adonis Copetti Lima. TRATAMENTO DO PROBLEMA DA DESSINCRONIZAÇÃO DE DADOS PARA PROTEÇÃO DIFERENCIAL. 2025. Tese (Doutorado em Programa de Pós-Graduação ENGENHARIA ELÉTRICA (42002010003P8) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Métodos Seguros para Transferência rápida de barras de motores",
+          "membros": "MANASSERO JUNIOR, G.; PELLINI, EDUARDO LORENZETTI; XAVIER, C. C.; TIFERES, R. R.; CHEMIN NETTO, Ulisses",
+          "candidato": "Jésus Anício de Oliveira Neto",
+          "citacao_completa": "MANASSERO JUNIOR, G.; PELLINI, EDUARDO LORENZETTI; XAVIER, C. C.; TIFERES, R. R.; CHEMIN NETTO, Ulisses . Participação em banca de Jésus Anício de Oliveira Neto. Métodos Seguros para Transferência rápida de barras de motores. 2023. Tese (Doutorado em Doutorado) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Algoritmo de proteção piloto de linhas de transmissão baseado em biweight midcorrelation",
+          "membros": "MANASSERO JUNIOR, G.; PROF., C. E. M. P.; ALMEIDA, M. L. S.; VIANNA, P. L.; CHEMIN NETTO, Ulisses",
+          "candidato": "Rodrigo Rozenblit Tiferes",
+          "citacao_completa": "MANASSERO JUNIOR, G.; PROF., C. E. M. P.; ALMEIDA, M. L. S.; VIANNA, P. L.; CHEMIN NETTO, Ulisses . Participação em banca de Rodrigo Rozenblit Tiferes. Algoritmo de proteção piloto de linhas de transmissão baseado em biweight midcorrelation. 2022. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "METODOLOGIA PARA DESENVOLVIMENTO DE SISTEMA DE PROTEÇÃO ADAPTATIVA DE SUBESTAÇÕES EM UMA PLATAFORMA COMPUTACIONAL OPEN SOURCE DE FORMA CENTRALIZADA E VIRTUALIZADA COM USO EFICIENTE DO BARRAMENTO DE PROCESSO CONFORME PREVISTO NA NORMA IEC 61850",
+          "membros": "BERNARDON, D. P.; OLIVEIRA, A. L.; DOTTA, D.; SPERANDIO, M.; CHEMIN NETTO, Ulisses",
+          "candidato": "Wagner Seizo Hokama",
+          "citacao_completa": "BERNARDON, D. P.; OLIVEIRA, A. L.; DOTTA, D.; SPERANDIO, M.; CHEMIN NETTO, Ulisses . Participação em banca de Wagner Seizo Hokama. METODOLOGIA PARA DESENVOLVIMENTO DE SISTEMA DE PROTEÇÃO ADAPTATIVA DE SUBESTAÇÕES EM UMA PLATAFORMA COMPUTACIONAL OPEN SOURCE DE FORMA CENTRALIZADA E VIRTUALIZADA COM USO EFICIENTE DO BARRAMENTO DE PROCESSO CONFORME PREVISTO NA NORMA IEC 61850. 2024. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "PROTEÇÃO DIFERENCIAL DE BARRA CENTRALIZADA IMUNE A PACOTES SAMPLED VALUES CORROMPIDOS: UMA ABORDAGEM FUNDAMENTADA NA NORMA IEC 61850",
+          "membros": "MORAIS, A. P.; OLIVEIRA, A. L.; GUTIERRES, L. F. F.; CHEMIN NETTO, Ulisses ; LOPES, Y.",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "MORAIS, A. P.; OLIVEIRA, A. L.; GUTIERRES, L. F. F.; CHEMIN NETTO, Ulisses ; LOPES, Y.. Participação em banca de Ângelo Felipe Sartori. PROTEÇÃO DIFERENCIAL DE BARRA CENTRALIZADA IMUNE A PACOTES SAMPLED VALUES CORROMPIDOS: UMA ABORDAGEM FUNDAMENTADA NA NORMA IEC 61850. 2023. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "TRATAMENTO DO PROBLEMA DA DESSINCRONIZAÇÃO DE DADOS PARA PROTEÇÃO DIFERENCIAL",
+          "membros": "BERNARDON, D. P.; MORAIS, A. P.; PRADE, L. R.; LEBORGNE, R. C.; CHEMIN NETTO, Ulisses",
+          "candidato": "Diomar Adonis Copetti Lima",
+          "citacao_completa": "BERNARDON, D. P.; MORAIS, A. P.; PRADE, L. R.; LEBORGNE, R. C.; CHEMIN NETTO, Ulisses . Participação em banca de Diomar Adonis Copetti Lima. TRATAMENTO DO PROBLEMA DA DESSINCRONIZAÇÃO DE DADOS PARA PROTEÇÃO DIFERENCIAL. 2023. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Impacto dos atrasos e da perda pacotes Sampled Values sobre o desempenho dos sistemas de proteção baseados em barramento de processo IEC 61850-9-2LE e IEC 61869-9",
+          "membros": "MOTTER, D.; FRANCO, E. M. C.; CHEMIN NETTO, Ulisses",
+          "candidato": "Leonardo de Assis Nizer",
+          "citacao_completa": "MOTTER, D.; FRANCO, E. M. C.; CHEMIN NETTO, Ulisses . Participação em banca de Leonardo de Assis Nizer. Impacto dos atrasos e da perda pacotes Sampled Values sobre o desempenho dos sistemas de proteção baseados em barramento de processo IEC 61850-9-2LE e IEC 61869-9. 2025. Exame de qualificação (Mestrando em Programa de Pós-Graduação Engenharia Elétrica e Computação (40015) - Universidade Estadual do Oeste do Paraná."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Modelagem Computacional de Funções de Proteção Baseadas em Medidas de Frequencia para Detecção de Ilhamento de Geração Distribuída",
+          "membros": "COURY, D. V.; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Daniel Motter",
+          "citacao_completa": "COURY, D. V.; ; CHEMIN NETTO, Ulisses . Participação em banca de Daniel Motter. Modelagem Computacional de Funções de Proteção Baseadas em Medidas de Frequencia para Detecção de Ilhamento de Geração Distribuída. 2013. Exame de qualificação (Mestrando em Pós-Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Detecção e Localização de Faltas de Alta Impedância utilizando Técnicas Inteligentes",
+          "membros": "; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Rodrigo Zempulski Fanucchi",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses . Participação em banca de Rodrigo Zempulski Fanucchi. Detecção e Localização de Faltas de Alta Impedância utilizando Técnicas Inteligentes. 2013. Exame de qualificação (Mestrando em Pós-Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Análise da Influência de Diferentes Tipos de Cargas no Desempenho da Proteção Anti-ilhamento de Geradores Distribuídos",
+          "membros": "; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Marcelo Moreira de Carvalho",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses . Participação em banca de Marcelo Moreira de Carvalho. Análise da Influência de Diferentes Tipos de Cargas no Desempenho da Proteção Anti-ilhamento de Geradores Distribuídos. 2012. Exame de qualificação (Mestrando em Pós-Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Treglia, Gabriel Seleme.ANÁLISE DE SIMULAÇÃO DE CURTO-CIRCUITO EM UMA MICRORREDE PROPOSTA",
+          "membros": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Ariel R Luz, Fernanda F",
+          "citacao_completa": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses . Participação em banca de Ariel R Luz, Fernanda F. Treglia, Gabriel Seleme.ANÁLISE DE SIMULAÇÃO DE CURTO-CIRCUITO EM UMA MICRORREDE PROPOSTA. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise do cenário de geração eólica no Brasil: um estudo da implementação e previsão futura dos parques eólicos brasileiros",
+          "membros": "TIEPOLO, G. M.; BARCIK, M.; CHEMIN NETTO, Ulisses",
+          "candidato": "Arthur Soligo Gomes, Gabriel Ribeiro Benedito",
+          "citacao_completa": "TIEPOLO, G. M.; BARCIK, M.; CHEMIN NETTO, Ulisses . Participação em banca de Arthur Soligo Gomes, Gabriel Ribeiro Benedito.Análise do cenário de geração eólica no Brasil: um estudo da implementação e previsão futura dos parques eólicos brasileiros. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "C.; Silva, G",
+          "membros": "SILVA, N. S.; FRITZEN, P. C.; CHEMIN NETTO, Ulisses",
+          "candidato": "Gondro, G",
+          "citacao_completa": "SILVA, N. S.; FRITZEN, P. C.; CHEMIN NETTO, Ulisses . Participação em banca de Gondro, G. C.; Silva, G. C. T.; Zem, J. C..Estudo da Inuência da Geração Distribuída na Recomposição do Sistema Elétrico de Potência. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "R.; Frankiewicz, I",
+          "membros": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Moura, F",
+          "citacao_completa": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses . Participação em banca de Moura, F. R.; Frankiewicz, I. M.; Oliveira, L. F.Estudo dos impactos da geração distribuída no fluxo de potência nas redes de distribuição. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "H",
+          "membros": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Andrade, I",
+          "citacao_completa": "COSTA, A. L.; SILVA, N. S.; CHEMIN NETTO, Ulisses . Participação em banca de Andrade, I. H. S; Ribeiro, L. F. F.; Neves, M. M..Estudo do impacto da geração distribuída nas perdas técnicas do sistema de distribuição. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mendes, Felipe M",
+          "membros": "MAGRIN, F. G. S.; ROCHA, J. E.; CHEMIN NETTO, Ulisses",
+          "candidato": "Darley F",
+          "citacao_completa": "MAGRIN, F. G. S.; ROCHA, J. E.; CHEMIN NETTO, Ulisses . Participação em banca de Darley F. Mendes, Felipe M. Germandos, VIctor L. Cardoso.Estudo e análise de falta interna espira-terra em um transformador de potência monofásico. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "S",
+          "membros": "MAGRIN, F. G. S.; SILVA, N. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Felipe A",
+          "citacao_completa": "MAGRIN, F. G. S.; SILVA, N. S.; CHEMIN NETTO, Ulisses . Participação em banca de Felipe A. S. Oliveira, Hiram L. Lima, Luis G. Santos.Aprimoramento de aplicativo para auxílio à configuração em relés de proteção: Adição de linhas paralelas e reatores shung. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Efeitos da conexão de microrredes sobre os fusíveis de proteção de redes de distribuição",
+          "membros": "SILVA, N. S.; MAGRIN, F. G. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Ivan Meurer Xavier, Rennan Zanon BALDUINO",
+          "citacao_completa": "SILVA, N. S.; MAGRIN, F. G. S.; CHEMIN NETTO, Ulisses . Participação em banca de Ivan Meurer Xavier, Rennan Zanon BALDUINO.Efeitos da conexão de microrredes sobre os fusíveis de proteção de redes de distribuição. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Desenvolvimento de Programa aplicativo de apoio à configuração da função direcional de sobrecorrente em relés de proteção digital",
+          "membros": "MAGRIN, F. G. S.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Elvio da Silva, Paulo Cesar Mendes",
+          "citacao_completa": "MAGRIN, F. G. S.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses . Participação em banca de Elvio da Silva, Paulo Cesar Mendes.Desenvolvimento de Programa aplicativo de apoio à configuração da função direcional de sobrecorrente em relés de proteção digital. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estudo de impactos da geração solar fotovoltaica em um sistema de distribuição de energia elétrica",
+          "membros": "GURSKI, E.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Pablo Ubiratan Pereira Macedo",
+          "citacao_completa": "GURSKI, E.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses . Participação em banca de Pablo Ubiratan Pereira Macedo.Estudo de impactos da geração solar fotovoltaica em um sistema de distribuição de energia elétrica. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estudo e ajustes do relé digital para a proteção em subestações de alta tensão",
+          "membros": "FRITZEN, P. C.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses",
+          "candidato": "Felipe Hornung; Marcos Kussek",
+          "citacao_completa": "FRITZEN, P. C.; BENEDITO, R. A. S.; CHEMIN NETTO, Ulisses . Participação em banca de Felipe Hornung; Marcos Kussek.Estudo e ajustes do relé digital para a proteção em subestações de alta tensão. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "M",
+          "membros": "SILVA, N. S.; FRITZEN, P. C.; CHEMIN NETTO, Ulisses",
+          "candidato": "ANDREY D",
+          "citacao_completa": "SILVA, N. S.; FRITZEN, P. C.; CHEMIN NETTO, Ulisses . Participação em banca de ANDREY D. M. PIEROZAN LUCAS R. L. PINTO; VITOR H. A. SALLUM.Impacto das inovações tecnológicas para detecção e localização de faltas a partir das subestações. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Inserção de Veículos Elétricos - Análise dos Impactos no Sistema Elétrico de Potência na Cidade de Curitiba",
+          "membros": "ALMEIDA, A. A.; RUFATO JUNIOR, E.; CHEMIN NETTO, Ulisses",
+          "candidato": "Alexandre Lenerneier de Araújo e Alyne Carolina Eichenberger",
+          "citacao_completa": "ALMEIDA, A. A.; RUFATO JUNIOR, E.; CHEMIN NETTO, Ulisses . Participação em banca de Alexandre Lenerneier de Araújo e Alyne Carolina Eichenberger.Inserção de Veículos Elétricos - Análise dos Impactos no Sistema Elétrico de Potência na Cidade de Curitiba. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Rosa, Jonatha G",
+          "membros": "COSTA, A. L.; CASTAGNA, A. G.; ALMEIDA, A. A.; CHEMIN NETTO, Ulisses",
+          "candidato": "Danillo G",
+          "citacao_completa": "COSTA, A. L.; CASTAGNA, A. G.; ALMEIDA, A. A.; CHEMIN NETTO, Ulisses . Participação em banca de Danillo G. Rosa, Jonatha G. F. S. Silva e Lorena F. Alfaro.Custo Ótimo de pré-despacho: Otimização do custo de sistemas hidrotérmicos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um algoritmo para cálculo de curto-circuito simétrico em sistemas elétricos de potência",
+          "membros": "ALMEIDA, A. A.; COSTA, A. L.; CHEMIN NETTO, Ulisses",
+          "candidato": "Bruno Cesar kikuchi - Natália Roberta Jaeger de Carvalho",
+          "citacao_completa": "ALMEIDA, A. A.; COSTA, A. L.; CHEMIN NETTO, Ulisses . Participação em banca de Bruno Cesar kikuchi - Natália Roberta Jaeger de Carvalho.Desenvolvimento de um algoritmo para cálculo de curto-circuito simétrico em sistemas elétricos de potência. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Modelagem Computacional das Características dos Elementos Utilizados em Estudos de Coordenação da Proteção e Seletividade de Sistemas Elétricos",
+          "membros": "; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Bruno Toyoshima",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses . Participação em banca de Bruno Toyoshima.Modelagem Computacional das Características dos Elementos Utilizados em Estudos de Coordenação da Proteção e Seletividade de Sistemas Elétricos. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Uma estimação alternativa, remota e continuada das variações de tensão em um sistema de distribuição utilizando redes neurais artificiais",
+          "membros": "; ; CHEMIN NETTO, Ulisses",
+          "candidato": "Fabrício Silva Pires de Camargo",
+          "citacao_completa": "; ; CHEMIN NETTO, Ulisses . Participação em banca de Fabrício Silva Pires de Camargo.Uma estimação alternativa, remota e continuada das variações de tensão em um sistema de distribuição utilizando redes neurais artificiais. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Desenvolvimento e estudo de usabilidade de uma interface gráfica para visualização e manipulação de dados oscilográficos no padrão IEEE COMTRADE",
+          "membros": "; BRUSCHI, S. M.; CHEMIN NETTO, Ulisses",
+          "candidato": "Diego de Castro Grillo",
+          "citacao_completa": "; BRUSCHI, S. M.; CHEMIN NETTO, Ulisses . Participação em banca de Diego de Castro Grillo.Desenvolvimento e estudo de usabilidade de uma interface gráfica para visualização e manipulação de dados oscilográficos no padrão IEEE COMTRADE. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Aplicação de um Sistema de Proteção Adaptativa na Coordenação de Proteção e Seletividade em um Sistema Elétrico Industrial com Cogeração",
+          "membros": "; CHEMIN NETTO, Ulisses",
+          "candidato": "Paulo Roberto Leite Paludo",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses . Participação em banca de Paulo Roberto Leite Paludo.Aplicação de um Sistema de Proteção Adaptativa na Coordenação de Proteção e Seletividade em um Sistema Elétrico Industrial com Cogeração. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Localizador de Faltas para Linhas de Transmissão - Estudo, Simulação e Implementação Embarcada",
+          "membros": "; CHEMIN NETTO, Ulisses",
+          "candidato": "Raphael Philipe Mendes da Silva",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses . Participação em banca de Raphael Philipe Mendes da Silva.Localizador de Faltas para Linhas de Transmissão - Estudo, Simulação e Implementação Embarcada. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Um Modelo Computacional para o Relé Digital de Sobrecorrente Empregado na Proteção de Sistemas Elétricos de Potência",
+          "membros": "; CHEMIN NETTO, Ulisses",
+          "candidato": "Jáder Fernando Dias Breda",
+          "citacao_completa": "; CHEMIN NETTO, Ulisses . Participação em banca de Jáder Fernando Dias Breda.Um Modelo Computacional para o Relé Digital de Sobrecorrente Empregado na Proteção de Sistemas Elétricos de Potência. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Aplicação da Metodologia das Curvas de Desempenho na Avaliação de Relés de Freqüência Comerciais",
+          "membros": "COURY, D. V.; CHEMIN NETTO, Ulisses",
+          "candidato": "Leonardo Hernandes",
+          "citacao_completa": "COURY, D. V.; CHEMIN NETTO, Ulisses . Participação em banca de Leonardo Hernandes.Aplicação da Metodologia das Curvas de Desempenho na Avaliação de Relés de Freqüência Comerciais. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Comportamento da Função de Proteção de Sobrecorrente Instantânea Frente a Distorções Harmônicas nos Relés de Proteção Numéricos",
+          "membros": "CHEMIN NETTO, Ulisses ;",
+          "candidato": "Rogério Antônio da Silva",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; . Participação em banca de Rogério Antônio da Silva.Comportamento da Função de Proteção de Sobrecorrente Instantânea Frente a Distorções Harmônicas nos Relés de Proteção Numéricos. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Projeto de Automação de uma Subestação de Média Tensão",
+          "membros": "CHEMIN NETTO, Ulisses ; MACHADO, R. Q.",
+          "candidato": "Fernando Henrique Moraes de Oliveira",
+          "citacao_completa": "CHEMIN NETTO, Ulisses ; MACHADO, R. Q.. Participação em banca de Fernando Henrique Moraes de Oliveira.Projeto de Automação de uma Subestação de Média Tensão. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Escola de Engenharia de São Carlos."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "COSTA, A. L.; CHEMIN NETTO, Ulisses ; SILVA, N. S.; LIMA, E. P.; MAGRIN, F. G. S.; BAZZO, T. P. M.. Concurso Público Edi",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "COSTA, A. L.; CHEMIN NETTO, Ulisses ; SILVA, N. S.; LIMA, E. P.; MAGRIN, F. G. S.; BAZZO, T. P. M.. Concurso Público Edital 335/2022 PROGEPE. 2023. Universidade Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": "OLIVEIRA, G. H. C.; CHEMIN NETTO, Ulisses ; IAMAMURA, J. L. M.; MAGRIN, F. G. S.; BAZZO, T. P. M.; LAZZARETTI, A. E.; SI",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "OLIVEIRA, G. H. C.; CHEMIN NETTO, Ulisses ; IAMAMURA, J. L. M.; MAGRIN, F. G. S.; BAZZO, T. P. M.; LAZZARETTI, A. E.; SILVA, V. R. G. R.; SCHUMACHER, R.; URBANETZ JUNIOR, J.; COSTA, A. L.. Concurso Público para professor do magistério superior, Edital N82/22-PROGEPE. 2022. Universidade Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

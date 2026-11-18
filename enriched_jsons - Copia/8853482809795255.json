@@ -1,0 +1,1636 @@
+{
+  "name": "Diego Issicaba",
+  "lattes_id": "8853482809795255",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2027,
+          "titulo": "An approach to mapping operation conditions to levels of generation rejection for the SIPS of the Brazilian North-Southeast HVDC bipoles",
+          "autores": "BUSS, BEATRIZ S. ; ANTUNES, VITOR ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 262, p. 113651, 2027.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113651",
+          "citacao_completa": "BUSS, BEATRIZ S. ; ANTUNES, VITOR ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego . An approach to mapping operation conditions to levels of generation rejection for the SIPS of the Brazilian North-Southeast HVDC bipoles. ELECTRIC POWER SYSTEMS RESEARCH , v. 262, p. 113651, 2027."
+        },
+        {
+          "ano": 2027,
+          "titulo": "Synchrophasor-based backup protection scheme to prevent transient instability in bulk power systems with embedded HVDC links",
+          "autores": "ALMEIDA SILVA AMBRÓSIO, BRYAN ; TORRES BERNARDO, RAUL ; DA COSTA ZANELLA, LUCAS ; SOUSA DA SILVA, DANIEL ; MANTELLI, FÁBIO MATHEUS ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; SLAGHENAUF JUNIOR, JOSÉ CARLOS ; PARO FILHO, OSVALTER ; DA CUNHA DE AQUINO, ANTONIO FELIPE ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 263, p. 113656, 2027.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113656",
+          "citacao_completa": "ALMEIDA SILVA AMBRÓSIO, BRYAN ; TORRES BERNARDO, RAUL ; DA COSTA ZANELLA, LUCAS ; SOUSA DA SILVA, DANIEL ; MANTELLI, FÁBIO MATHEUS ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; SLAGHENAUF JUNIOR, JOSÉ CARLOS ; PARO FILHO, OSVALTER ; DA CUNHA DE AQUINO, ANTONIO FELIPE ; Issicaba, Diego . Synchrophasor-based backup protection scheme to prevent transient instability in bulk power systems with embedded HVDC links. ELECTRIC POWER SYSTEMS RESEARCH , v. 263, p. 113656, 2027."
+        },
+        {
+          "ano": 2027,
+          "titulo": "Determining lower and upper bounds for active power calculated from synchronized measurements in system integrity protection applications",
+          "autores": "AMBRÓSIO, BRYAN A.S. ; MORAES, GUIDO R. ; BERNARDO, RAUL T. ; NETTO, ULISSES C. ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ C.S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 264, p. 113759, 2027.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113759",
+          "citacao_completa": "AMBRÓSIO, BRYAN A.S. ; MORAES, GUIDO R. ; BERNARDO, RAUL T. ; NETTO, ULISSES C. ; TIETZ, AUGUSTO ; ZERBATI, PAULO ; JUNIOR, JOSÉ C.S. ; FILHO, OSVALTER P. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego . Determining lower and upper bounds for active power calculated from synchronized measurements in system integrity protection applications. ELECTRIC POWER SYSTEMS RESEARCH , v. 264, p. 113759, 2027."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Model Validation and Calibration of Large Power Systems Using Hierarchical Topological Cuts",
+          "autores": "ANTUNES, VITOR ; SILVA, AGUINALDO SILVEIRA E ; Issicaba, Diego ; AQUINO, ANTONIO FELIPE DA CUNHA DE ; MORAES, GUIDO ROSSETTO ; DECKER, ILDEMAR CASSANA ; MOURINHO, FABRICIO ANDRADE",
+          "periodico": "IEEE Access , v. 14, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3662498",
+          "citacao_completa": "ANTUNES, VITOR ; SILVA, AGUINALDO SILVEIRA E ; Issicaba, Diego ; AQUINO, ANTONIO FELIPE DA CUNHA DE ; MORAES, GUIDO ROSSETTO ; DECKER, ILDEMAR CASSANA ; MOURINHO, FABRICIO ANDRADE . Model Validation and Calibration of Large Power Systems Using Hierarchical Topological Cuts. IEEE Access , v. 14, p. 1-1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Composite reliability evaluation using sequential Monte Carlo simulation with maximum and minimum loadability analysis",
+          "autores": "PEQUENO DOS SANTOS, ERIKA ; BUSS, BEATRIZ SILVEIRA ; ; Issicaba, Diego",
+          "periodico": "COMPUTERS & ELECTRICAL ENGINEERING , v. 123, p. 110023, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.compeleceng.2024.110023",
+          "citacao_completa": "PEQUENO DOS SANTOS, ERIKA ; BUSS, BEATRIZ SILVEIRA ; ; Issicaba, Diego . Composite reliability evaluation using sequential Monte Carlo simulation with maximum and minimum loadability analysis. COMPUTERS & ELECTRICAL ENGINEERING , v. 123, p. 110023, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A multi-objective cross-entropy approach applied to recloser allocation in distribution systems",
+          "autores": "BUSS, BEATRIZ S. ; CARVALHO, LEONEL M. ; MONTEIRO, MARCOS E.P. ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 247, p. 111708, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2025.111708",
+          "citacao_completa": "BUSS, BEATRIZ S. ; CARVALHO, LEONEL M. ; MONTEIRO, MARCOS E.P. ; Issicaba, Diego . A multi-objective cross-entropy approach applied to recloser allocation in distribution systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 247, p. 111708, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Evaluating the Application of a Perturbation-Based Inertia Estimation Methodology With Synchrophasor Data of the Brazilian Interconnected Power System",
+          "autores": "PEREIRA, JULIANA LUIZA ; MORAES, GUIDO ROSSETTO ; BERNARDO, RAUL TORRES ; DOTTA, DANIEL ; TIETZ, AUGUSTO ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; Issicaba, Diego",
+          "periodico": "IEEE Access , v. 13, p. 120369-120377, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3586839",
+          "citacao_completa": "PEREIRA, JULIANA LUIZA ; MORAES, GUIDO ROSSETTO ; BERNARDO, RAUL TORRES ; DOTTA, DANIEL ; TIETZ, AUGUSTO ; DE AQUINO, ANTONIO FELIPE DA CUNHA ; Issicaba, Diego . Evaluating the Application of a Perturbation-Based Inertia Estimation Methodology With Synchrophasor Data of the Brazilian Interconnected Power System. IEEE Access , v. 13, p. 120369-120377, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Evaluation of the Impact of IBR on the Frequency Dynamics in the Brazilian Power System",
+          "autores": "PINHEIRO, BRUNO ; LLERENA VELASQUEZ, M.C. ; FARIA, GIOVANE ; AQUINO, A.F.C. ; Issicaba, Diego ; DOTTA, DANIEL",
+          "periodico": "Sustainable Energy Grids & Networks , v. 1, p. 101827, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.segan.2025.101827",
+          "citacao_completa": "PINHEIRO, BRUNO ; LLERENA VELASQUEZ, M.C. ; FARIA, GIOVANE ; AQUINO, A.F.C. ; Issicaba, Diego ; DOTTA, DANIEL . Evaluation of the Impact of IBR on the Frequency Dynamics in the Brazilian Power System. Sustainable Energy Grids & Networks , v. 1, p. 101827, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Real-time multi-label event categorization in the Brazilian interconnected power system",
+          "autores": "LOPES, GABRIEL V. DE S. ; DE AQUINO, ANTONIO F. DA C. ; DOTTA, DANIEL ; Issicaba, Diego ; PATERNINA, MARIO R. ARRIETA",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111036, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2025.111036",
+          "citacao_completa": "LOPES, GABRIEL V. DE S. ; DE AQUINO, ANTONIO F. DA C. ; DOTTA, DANIEL ; Issicaba, Diego ; PATERNINA, MARIO R. ARRIETA . Real-time multi-label event categorization in the Brazilian interconnected power system. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111036, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications",
+          "autores": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ; Issicaba, Diego",
+          "periodico": "ROBOTICA , v. 1, p. 1-18, 2025.",
+          "doi": "http://dx.doi.org/10.1017/S0263574725102907",
+          "citacao_completa": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ; Issicaba, Diego . Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications. ROBOTICA , v. 1, p. 1-18, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Multi-Objective Cross-Entropy Approach for Distribution System Reliability Evaluation",
+          "autores": "VENTURINI, LUCAS FRITZEN ; BUSS, BEATRIZ SILVEIRA ; PEQUENO DOS SANTOS, ERIKA ; CARVALHO, LEONEL MAGALHÃES ; Issicaba, Diego",
+          "periodico": "Energies , v. 18, p. 6421, 2025.",
+          "doi": "http://dx.doi.org/10.3390/en18246421",
+          "citacao_completa": "VENTURINI, LUCAS FRITZEN ; BUSS, BEATRIZ SILVEIRA ; PEQUENO DOS SANTOS, ERIKA ; CARVALHO, LEONEL MAGALHÃES ; Issicaba, Diego . Multi-Objective Cross-Entropy Approach for Distribution System Reliability Evaluation. Energies , v. 18, p. 6421, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure",
+          "autores": "DA SILVA, DANIEL S. ; MORAES, GUIDO R. ; PENNA, LEANDRO D. ; DECKER, ILDEMAR C. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110821, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110821",
+          "citacao_completa": "DA SILVA, DANIEL S. ; MORAES, GUIDO R. ; PENNA, LEANDRO D. ; DECKER, ILDEMAR C. ; AQUINO, ANTONIO F.C. ; Issicaba, Diego . Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110821, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Design of a machine learning model to enhance the arming of the system integrity protection scheme of the Brazilian North-Southeast HVDC Bipoles",
+          "autores": "ZANELLA, L. ; AMBRÓSIO, B.A.S. ; MORAES, G.R. ; DECKER, I.C. ; AQUINO, A.F.C. ; Issicaba, D.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110647, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110647",
+          "citacao_completa": "ZANELLA, L. ; AMBRÓSIO, B.A.S. ; MORAES, G.R. ; DECKER, I.C. ; AQUINO, A.F.C. ; Issicaba, D. . Design of a machine learning model to enhance the arming of the system integrity protection scheme of the Brazilian North-Southeast HVDC Bipoles. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110647, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Tensor-Based Predictor-Corrector Algorithm for Power Generation and Transmission Reliability Assessment with Sequential Monte Carlo Simulation",
+          "autores": "PEQUENO DOS SANTOS, ERIKA ; BUSS, BEATRIZ SILVEIRA ; ROSA, MAURO AUGUSTO DA ; Issicaba, Diego",
+          "periodico": "Energies , v. 17, p. 5967, 2024.",
+          "doi": "http://dx.doi.org/10.3390/en17235967",
+          "citacao_completa": "PEQUENO DOS SANTOS, ERIKA ; BUSS, BEATRIZ SILVEIRA ; ROSA, MAURO AUGUSTO DA ; Issicaba, Diego . Tensor-Based Predictor-Corrector Algorithm for Power Generation and Transmission Reliability Assessment with Sequential Monte Carlo Simulation. Energies , v. 17, p. 5967, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Inspection and Preventive Maintenance Optimization of Electrographite Brushes for a Hydrogenerator Unit in the Brazilian Interconnected Power System",
+          "autores": "MARIA DE OLIVEIRA SALLES, GISELE ; BARACY, YAGO LAFOURCADE ; VENTURINI, LUCAS FRITZEN ; WEIGERT-DALAGNOL, GABRIELA ROSALEE ; DE SOUZA BENEDITO, RAPHAEL AUGUSTO ; Issicaba, Diego",
+          "periodico": "Results In Engineering , v. 25, p. 103770, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.rineng.2024.103770",
+          "citacao_completa": "MARIA DE OLIVEIRA SALLES, GISELE ; BARACY, YAGO LAFOURCADE ; VENTURINI, LUCAS FRITZEN ; WEIGERT-DALAGNOL, GABRIELA ROSALEE ; DE SOUZA BENEDITO, RAPHAEL AUGUSTO ; Issicaba, Diego . Inspection and Preventive Maintenance Optimization of Electrographite Brushes for a Hydrogenerator Unit in the Brazilian Interconnected Power System. Results In Engineering , v. 25, p. 103770, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A SBC-Based Data Acquisition System: A Case Study on Smart Reclosers and Multiagent Systems",
+          "autores": "RAMALHO, LEONARDO L. ; CORREA, ILAN S. ; MONTEIRO, MARCOS E. P. ; Issicaba, Diego ; FERREIRA, TARSO V. ; DE FARIA, RICARDO A. O.",
+          "periodico": "IEEE Access , v. 11, p. 48988-49001, 2023.",
+          "doi": "http://dx.doi.org/10.1109/access.2023.3276720",
+          "citacao_completa": "RAMALHO, LEONARDO L. ; CORREA, ILAN S. ; MONTEIRO, MARCOS E. P. ; Issicaba, Diego ; FERREIRA, TARSO V. ; DE FARIA, RICARDO A. O. . A SBC-Based Data Acquisition System: A Case Study on Smart Reclosers and Multiagent Systems. IEEE Access , v. 11, p. 48988-49001, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Co-simulation platform for the assessment of transactive energy systems",
+          "autores": "MELO, LUCAS SILVEIRA ; TOFOLI, FERNANDO LESSA ; Issicaba, Diego ; MONTEIRO, MARCOS EDUARDO PIVARO ; BARROSO, GIOVANNI CORDEIRO ; SAMPAIO, RAIMUNDO FURTADO ; LEÃO, RUTH PASTORA SARAIVA",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 223, p. 109693, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109693",
+          "citacao_completa": "MELO, LUCAS SILVEIRA ; TOFOLI, FERNANDO LESSA ; Issicaba, Diego ; MONTEIRO, MARCOS EDUARDO PIVARO ; BARROSO, GIOVANNI CORDEIRO ; SAMPAIO, RAIMUNDO FURTADO ; LEÃO, RUTH PASTORA SARAIVA . Co-simulation platform for the assessment of transactive energy systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 223, p. 109693, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Impact analysis of COVID-19 pandemic on the electricity demand, frequency control and electromechanical oscillation modes of the Brazilian Interconnected Power System using low voltage WAMS data",
+          "autores": "MORAES, GUIDO R. ; AMBRÓSIO, BRYAN A.S. ; PEREIRA, JULIANA L. ; Issicaba, Diego ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 142, p. 108266, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2022.108266",
+          "citacao_completa": "MORAES, GUIDO R. ; AMBRÓSIO, BRYAN A.S. ; PEREIRA, JULIANA L. ; Issicaba, Diego ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C. . Impact analysis of COVID-19 pandemic on the electricity demand, frequency control and electromechanical oscillation modes of the Brazilian Interconnected Power System using low voltage WAMS data. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 142, p. 108266, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Fault indicator placement optimization using the cross-entropy method and traffic simulation data",
+          "autores": "CARDOSO, M.L. ; VENTURINI, L.F. ; BARACY, Y.L. ; ULISSES, I.M.B. ; BREMERMANN, L.E. ; GRILO-PAVANI, A.P. ; CARVALHO, L.M. ; Issicaba, D.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 212, p. 108391, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108391",
+          "citacao_completa": "CARDOSO, M.L. ; VENTURINI, L.F. ; BARACY, Y.L. ; ULISSES, I.M.B. ; BREMERMANN, L.E. ; GRILO-PAVANI, A.P. ; CARVALHO, L.M. ; Issicaba, D. . Fault indicator placement optimization using the cross-entropy method and traffic simulation data. ELECTRIC POWER SYSTEMS RESEARCH , v. 212, p. 108391, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Balancing Decentralization for Restoration in Power Distribution Systems With Agents",
+          "autores": "VENTURINI, LUCAS F. ; BARACY, YAGO L. ; SILVA, RODRIGO V. P. C. ; DE FREITAS, BRUNA K. ; DOS SANTOS, ERIKA P. ; BRANCO, NILTON O. ; MONTEIRO, MARCOS E. P. ; HUBNER, JOMI F. ; Issicaba, Diego",
+          "periodico": "IEEE Access , v. 10, p. 77993-78001, 2022.",
+          "doi": "http://dx.doi.org/10.1109/access.2022.3192847",
+          "citacao_completa": "VENTURINI, LUCAS F. ; BARACY, YAGO L. ; SILVA, RODRIGO V. P. C. ; DE FREITAS, BRUNA K. ; DOS SANTOS, ERIKA P. ; BRANCO, NILTON O. ; MONTEIRO, MARCOS E. P. ; HUBNER, JOMI F. ; Issicaba, Diego . Balancing Decentralization for Restoration in Power Distribution Systems With Agents. IEEE Access , v. 10, p. 77993-78001, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "WAMS-based two-level robust detection methodology of power system events",
+          "autores": "LOPES, GABRIEL V. DE S. ; MORAES, GUIDO R. ; Issicaba, Diego ; DOTTA, DANIEL",
+          "periodico": "Sustainable Energy Grids & Networks , v. 31, p. 100689, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.segan.2022.100689",
+          "citacao_completa": "LOPES, GABRIEL V. DE S. ; MORAES, GUIDO R. ; Issicaba, Diego ; DOTTA, DANIEL . WAMS-based two-level robust detection methodology of power system events. Sustainable Energy Grids & Networks , v. 31, p. 100689, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Event detection and classification through wavelet-based method in low voltage wide-area monitoring systems",
+          "autores": "VAZ, RODRIGO ; MORAES, GUIDO R. ; ARRUDA, EDUARDO H.Z. ; TERCEIRO, JYVAGO C.B.S. ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C. ; Issicaba, Diego",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 130, p. 106919, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.106919",
+          "citacao_completa": "VAZ, RODRIGO ; MORAES, GUIDO R. ; ARRUDA, EDUARDO H.Z. ; TERCEIRO, JYVAGO C.B.S. ; AQUINO, ANTONIO F.C. ; DECKER, ILDEMAR C. ; Issicaba, Diego . Event detection and classification through wavelet-based method in low voltage wide-area monitoring systems. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 130, p. 106919, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Multi-agent dual strategy based adaptive protection for microgrids",
+          "autores": "DOS REIS, FERNANDO B. ; PINTO, JOSÉ OCTÁVIO C.P. ; DOS REIS, FERNANDO S. ; Issicaba, Diego ; ROLIM, JACQUELINE G.",
+          "periodico": "Sustainable Energy Grids & Networks , v. in, p. 100501, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.segan.2021.100501",
+          "citacao_completa": "DOS REIS, FERNANDO B. ; PINTO, JOSÉ OCTÁVIO C.P. ; DOS REIS, FERNANDO S. ; Issicaba, Diego ; ROLIM, JACQUELINE G. . Multi-agent dual strategy based adaptive protection for microgrids. Sustainable Energy Grids & Networks , v. in, p. 100501, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Implementing Smart City Technologies to Inspire Change in Consumer Energy Behaviour",
+          "autores": "MUTULE, ANNA ; DOMINGUES, MARCOS ; ULLOA-VÁSQUEZ, FERNANDO ; CARRIZO, DANTE ; GARCÍA-SANTANDER, LUIS ; DUMITRESCU, ANA-MARIA ; Issicaba, Diego ; MELO, LUCAS",
+          "periodico": "Energies , v. 14, p. 4310, 2021.",
+          "doi": "http://dx.doi.org/10.3390/en14144310",
+          "citacao_completa": "MUTULE, ANNA ; DOMINGUES, MARCOS ; ULLOA-VÁSQUEZ, FERNANDO ; CARRIZO, DANTE ; GARCÍA-SANTANDER, LUIS ; DUMITRESCU, ANA-MARIA ; Issicaba, Diego ; MELO, LUCAS . Implementing Smart City Technologies to Inspire Change in Consumer Energy Behaviour. Energies , v. 14, p. 4310, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Distribution systems protection considering aspects of coordination and time-dependent response for reliability evaluation",
+          "autores": "VENTURINI, LUCAS F. ; COSTA, IVO C. ; Issicaba, Diego ; DA ROSA, MAURO A.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106560, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106560",
+          "citacao_completa": "VENTURINI, LUCAS F. ; COSTA, IVO C. ; Issicaba, Diego ; DA ROSA, MAURO A. . Distribution systems protection considering aspects of coordination and time-dependent response for reliability evaluation. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106560, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Recloser placement optimization using the cross-entropy method and reassessment of Monte Carlo sampled states",
+          "autores": "BARACY, YAGO L. ; VENTURINI, LUCAS F. ; BRANCO, NILTON O. ; Issicaba, Diego ; GRILO, AHDA P.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106653, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106653",
+          "citacao_completa": "BARACY, YAGO L. ; VENTURINI, LUCAS F. ; BRANCO, NILTON O. ; Issicaba, Diego ; GRILO, AHDA P. . Recloser placement optimization using the cross-entropy method and reassessment of Monte Carlo sampled states. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106653, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A robust dynamic line rating monitoring system through state estimation and bad data analysis",
+          "autores": "FERNANDES, SAMIR WALKER ; ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106648, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106648",
+          "citacao_completa": "FERNANDES, SAMIR WALKER ; ; Issicaba, Diego . A robust dynamic line rating monitoring system through state estimation and bad data analysis. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106648, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Evaluating short circuit indices in an integrated assessment of distribution system adequacy and power quality",
+          "autores": "BOLACELL, GABRIEL SANTOS ; VENTURINI, LUCAS FRITZEN ; ROSA, MAURO AUGUSTO DA ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106657, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106657",
+          "citacao_completa": "BOLACELL, GABRIEL SANTOS ; VENTURINI, LUCAS FRITZEN ; ROSA, MAURO AUGUSTO DA ; Issicaba, Diego . Evaluating short circuit indices in an integrated assessment of distribution system adequacy and power quality. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106657, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Modified Tensor Method to Power Flow Analysis",
+          "autores": "PEQUENO DOS SANTOS, ERIKA ; KOBAY DE FREITAS, BRUNA ; AUGUSTO DA ROSA, MAURO ; SALGADO, ROBERTO ; Issicaba, Diego",
+          "periodico": "IET Generation Transmission & Distribution , v. 1, p. 1, 2019.",
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2018.6187",
+          "citacao_completa": "PEQUENO DOS SANTOS, ERIKA ; KOBAY DE FREITAS, BRUNA ; AUGUSTO DA ROSA, MAURO ; SALGADO, ROBERTO ; Issicaba, Diego . Modified Tensor Method to Power Flow Analysis. IET Generation Transmission & Distribution , v. 1, p. 1, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Determination of the bifurcation points of the power flow equations through optimisation-based methods",
+          "autores": "SALGADO, ROBERTO S. ; MORAES, GUIDO R. ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 158, p. 147-157, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.12.015",
+          "citacao_completa": "SALGADO, ROBERTO S. ; MORAES, GUIDO R. ; Issicaba, Diego . Determination of the bifurcation points of the power flow equations through optimisation-based methods. ELECTRIC POWER SYSTEMS RESEARCH , v. 158, p. 147-157, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Impact Evaluation of Wind Power Geographic Dispersion on Future Operating Reserve Needs",
+          "autores": "MANUEL CARVALHO DA SILVA SANTOS, FERNANDO ; ELIZEIRE BREMERMANN, LEONARDO ; DA MATA MEDEIROS BRANCO, TADEU ; Issicaba, Diego ; AUGUSTO DA ROSA, MAURO",
+          "periodico": "Energies , v. 11, p. 2863, 2018.",
+          "doi": "http://dx.doi.org/10.3390/en11112863",
+          "citacao_completa": "MANUEL CARVALHO DA SILVA SANTOS, FERNANDO ; ELIZEIRE BREMERMANN, LEONARDO ; DA MATA MEDEIROS BRANCO, TADEU ; Issicaba, Diego ; AUGUSTO DA ROSA, MAURO . Impact Evaluation of Wind Power Geographic Dispersion on Future Operating Reserve Needs. Energies , v. 11, p. 2863, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Long-Term Impact Evaluation of Advanced Under Frequency Load Shedding Schemes on Distribution Systems with DG Islanded Operation",
+          "autores": "Issicaba, Diego ; ; RESENDE, FERNANDA OLIVEIRA ; SANTOS, BRUNO ; LOPES, JOAO ABEL PECAS",
+          "periodico": "IEEE Transactions on Smart Grid , v. PP, p. 1-1, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tsg.2017.2737532",
+          "citacao_completa": "Issicaba, Diego ; ; RESENDE, FERNANDA OLIVEIRA ; SANTOS, BRUNO ; LOPES, JOAO ABEL PECAS . Long-Term Impact Evaluation of Advanced Under Frequency Load Shedding Schemes on Distribution Systems with DG Islanded Operation. IEEE Transactions on Smart Grid , v. PP, p. 1-1, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Real-Time Monitoring of Points of Common Coupling in Distribution Systems Through State Estimation and Geometric Tests",
+          "autores": "Issicaba, Diego ; SIMOES COSTA, ANTONIO ; COLOMBO, JEAN LUCA",
+          "periodico": "IEEE Transactions on Smart Grid , v. 7, p. 9-18, 2016.",
+          "doi": "http://dx.doi.org/10.1109/TSG.2015.2474736",
+          "citacao_completa": "Issicaba, Diego ; SIMOES COSTA, ANTONIO ; COLOMBO, JEAN LUCA . Real-Time Monitoring of Points of Common Coupling in Distribution Systems Through State Estimation and Geometric Tests. IEEE Transactions on Smart Grid , v. 7, p. 9-18, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Convergence Evaluation of a Load Flow Method based on Cespedes' Approach to Distribution System Analysis",
+          "autores": "Issicaba, Diego ; COELHO, JORGE",
+          "periodico": "International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 3276, 2016.",
+          "doi": "http://dx.doi.org/10.11591/ijece.v6i6.pp3276-3282",
+          "citacao_completa": "Issicaba, Diego ; COELHO, JORGE . Convergence Evaluation of a Load Flow Method based on Cespedes' Approach to Distribution System Analysis. International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 3276, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Evaluation of the Forward-Backward Sweep Load Flow Method using the Contraction Mapping Principle",
+          "autores": "Issicaba, Diego ; COELHO, JORGE",
+          "periodico": "International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 3229, 2016.",
+          "doi": "http://dx.doi.org/10.11591/ijece.v6i6.pp3229-3237",
+          "citacao_completa": "Issicaba, Diego ; COELHO, JORGE . Evaluation of the Forward-Backward Sweep Load Flow Method using the Contraction Mapping Principle. International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 3229, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Rotational Load Flow Method for Radial Distribution Systems",
+          "autores": "Issicaba, Diego ; COELHO, JORGE",
+          "periodico": "International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 1344, 2016.",
+          "doi": "http://dx.doi.org/10.11591/ijece.v6i3.pp1344-1352",
+          "citacao_completa": "Issicaba, Diego ; COELHO, JORGE . Rotational Load Flow Method for Radial Distribution Systems. International Journal of Electrical and Computer Engineering (IJECE) , v. 6, p. 1344, 2016."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Distributed Energy Resources Impact on Distribution System Reliability Under Load Transfer Restrictions",
+          "autores": "; L. C. Nascimento ; ; Issicaba, D. ; Peças Lopes, J. A.",
+          "periodico": "IEEE Transactions on Smart Grid , v. 3, p. 2048-2055, 2012.",
+          "doi": "http://dx.doi.org/10.1109/tsg.2012.2190997",
+          "citacao_completa": "; L. C. Nascimento ; ; Issicaba, D. ; Peças Lopes, J. A. . Distributed Energy Resources Impact on Distribution System Reliability Under Load Transfer Restrictions. IEEE Transactions on Smart Grid , v. 3, p. 2048-2055, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Adequacy and Security Evaluation of Distribution Systems With Distributed Generation",
+          "autores": "Issicaba, D. ; LOPES, J. A. P. ;",
+          "periodico": "IEEE Transactions on Power Systems , v. 27, p. 1681-1689, 2012.",
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2012.2184563",
+          "citacao_completa": "Issicaba, D. ; LOPES, J. A. P. ; . Adequacy and Security Evaluation of Distribution Systems With Distributed Generation. IEEE Transactions on Power Systems , v. 27, p. 1681-1689, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Wind power forecasting uncertainty and unit commitment",
+          "autores": "Wang, J. ; Botterud, A. ; Bessa, R. ; Keko, H. ; Carvalho, L. ; ISSICABA, D. ; Sumaili, J. ; Miranda, V.",
+          "periodico": "Applied Energy , v. 88, p. 4014-4023, 2011.",
+          "doi": "http://dx.doi.org/10.1016/j.apenergy.2011.04.011",
+          "citacao_completa": "Wang, J. ; Botterud, A. ; Bessa, R. ; Keko, H. ; Carvalho, L. ; ISSICABA, D. ; Sumaili, J. ; Miranda, V. . Wind power forecasting uncertainty and unit commitment. Applied Energy , v. 88, p. 4014-4023, 2011."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Optimal Capacitor Placement in Radial Distribution Systems by Reinforcement Learning Approach",
+          "autores": "ISSICABA, D. ; ; ;",
+          "periodico": "WSEAS Transactions on Power Systems , v. 1, p. 1389-1395, 2006.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; ; . Optimal Capacitor Placement in Radial Distribution Systems by Reinforcement Learning Approach. WSEAS Transactions on Power Systems , v. 1, p. 1389-1395, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Power Flow Analysis for Radial and Weakly Meshed Distribution Systems",
+          "autores": "Issicaba, Diego",
+          "periodico": "1. ed. Novas Edições Académicas, 2016. 156p .",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego . Power Flow Analysis for Radial and Weakly Meshed Distribution Systems. 1. ed. Novas Edições Académicas, 2016. 156p ."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Fluxo de Potência para Redes de Distribuição de Energia Elétrica",
+          "autores": "Issicaba, Diego",
+          "periodico": "1. ed. Novas Edições Académicas, 2016. 196p .",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego . Fluxo de Potência para Redes de Distribuição de Energia Elétrica. 1. ed. Novas Edições Académicas, 2016. 196p ."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A Survey of Agent Technology Applications to Power Distribution Engineering",
+          "autores": "Issicaba, Diego",
+          "periodico": "1. ed. Grin Verlag, 2013. 30p .",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego . A Survey of Agent Technology Applications to Power Distribution Engineering. 1. ed. Grin Verlag, 2013. 30p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Reliability Analysis of Active Distribution Systems",
+          "autores": "FRITZEN VENTURINI, LUCAS ; BOLACELL, G. ; CARVALHO, L. ; ; ISSICABA, D.",
+          "periodico": "In: Part of the Lecture Notes in Electrical Engineering book series (LNEE, volume 826). (Org.). Planning and Operation of Active Distribution Networks. 1ed.: Springer, 2022, v. , p. 93-121.",
+          "doi": "http://dx.doi.org/10.1007/978-3-030-90812-6_4",
+          "citacao_completa": "FRITZEN VENTURINI, LUCAS ; BOLACELL, G. ; CARVALHO, L. ; ; ISSICABA, D. . Reliability Analysis of Active Distribution Systems. In: Part of the Lecture Notes in Electrical Engineering book series (LNEE, volume 826). (Org.). Planning and Operation of Active Distribution Networks. 1ed.: Springer, 2022, v. , p. 93-121."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A Guideline to Develop a Game Platform to Collect Energy Consumption Data From Residences in Developing Countries",
+          "autores": "DOMINGUES, M. A. ; ALVES, L. A. ; SALVINI, R. ; CARRIZO, D. ; ISSICABA, D. ; ROSA, M.",
+          "periodico": "In: Oscar Bernardes; Vanessa Amorim; Antonio Carrizo Moreira. (Org.). Handbook of Research on Gamification Dynamics and User Experience Design. 1ed.Beijing, China: IGI Global, 2022, v. , p. 273-297.",
+          "doi": "http://dx.doi.org/10.4018/978-1-6684-4291-3.ch013",
+          "citacao_completa": "DOMINGUES, M. A. ; ALVES, L. A. ; SALVINI, R. ; CARRIZO, D. ; ISSICABA, D. ; ROSA, M. . A Guideline to Develop a Game Platform to Collect Energy Consumption Data From Residences in Developing Countries. In: Oscar Bernardes; Vanessa Amorim; Antonio Carrizo Moreira. (Org.). Handbook of Research on Gamification Dynamics and User Experience Design. 1ed.Beijing, China: IGI Global, 2022, v. , p. 273-297."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Black start and islanding operations of microgrid",
+          "autores": "Gouveia, Clara ; Moreira, Carlos ; Madureira, Andre G. ; Gouveia, Jose ; Issicaba, Diego ; Pecas Lopes, Joao Abel",
+          "periodico": "Variability, Scalability and Stability of Microgrids. 1ed.: Institution of Engineering and Technology, 2019, v. , p. 463-495.",
+          "doi": "http://dx.doi.org/10.1049/pbpo139e_ch13",
+          "citacao_completa": "Gouveia, Clara ; Moreira, Carlos ; Madureira, Andre G. ; Gouveia, Jose ; Issicaba, Diego ; Pecas Lopes, Joao Abel . Black start and islanding operations of microgrid. Variability, Scalability and Stability of Microgrids. 1ed.: Institution of Engineering and Technology, 2019, v. , p. 463-495."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Agent-Based System Applied to Smart Distribution Grid Operation",
+          "autores": "Issicaba, D. ; A., M. ; Franchin, W. ; Peas Lopes, J. A.",
+          "periodico": "Practical Applications of Agent-Based Technology. 1ed.: InTech, 2012, v. 1, p. 1-20.",
+          "doi": "http://dx.doi.org/10.5772/38442",
+          "citacao_completa": "Issicaba, D. ; A., M. ; Franchin, W. ; Peas Lopes, J. A. . Agent-Based System Applied to Smart Distribution Grid Operation. Practical Applications of Agent-Based Technology. 1ed.: InTech, 2012, v. 1, p. 1-20."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Recent Developments and Achievements of the Project Medfasee - Independent LV WAMS for Academic and Research Studies",
+          "autores": "MORAES, GUIDO R. ; Issicaba, Diego ; DECKER, ILDEMAR C. ; CHÁVEZ, HÉCTOR ; BERIZZI, ALBERTO ; MIRANDA, VLADIMIRO",
+          "periodico": "In: 2026 5th International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2026, Santiago de Chile. 2026 5th International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2026. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SGSMA65955.2026.11618771",
+          "citacao_completa": "MORAES, GUIDO R. ; Issicaba, Diego ; DECKER, ILDEMAR C. ; CHÁVEZ, HÉCTOR ; BERIZZI, ALBERTO ; MIRANDA, VLADIMIRO . Recent Developments and Achievements of the Project Medfasee - Independent LV WAMS for Academic and Research Studies. In: 2026 5th International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2026, Santiago de Chile. 2026 5th International Conference on Smart Grid Synchronized Measurements and Analytics (SGSMA), 2026. p. 1."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Determining Lower and Upper Bounds for Active Power Calculated from Synchronized Measurements in System Integrity Protection Applications",
+          "autores": "AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; BERNARDO, R. T. ; ; TIETZ, A. ; ZERBATI, P. ; SLAGNHENAUF, J. C. ; P. FILHO, O. ; AQUINO, A. F. ; Issicaba, Diego",
+          "periodico": "In: Antonio F.C. AquinoAntonio F.C. Aquino, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026.",
+          "doi": "",
+          "citacao_completa": "AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; BERNARDO, R. T. ; ; TIETZ, A. ; ZERBATI, P. ; SLAGNHENAUF, J. C. ; P. FILHO, O. ; AQUINO, A. F. ; Issicaba, Diego . Determining Lower and Upper Bounds for Active Power Calculated from Synchronized Measurements in System Integrity Protection Applications. In: Antonio F.C. AquinoAntonio F.C. Aquino, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Synchrophasor-based backup protection scheme to prevent transient instability in bulk power systems with embedded HVDC links",
+          "autores": "AMBROSI, B. A. S. ; BERNARDO, R. T. ; ZANELLA, L. ; SILVA, D. S. ; MANTELLI, F. ; TIETZ, A. ; ZERBATI, P. ; SLAGHENAUF JUNIOR, J. C. ; PARO FILHO, O. ; AQUINO, A. F. C. ; Issicaba, Diego",
+          "periodico": "In: Power Systems Computation Conference, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026.",
+          "doi": "",
+          "citacao_completa": "AMBROSI, B. A. S. ; BERNARDO, R. T. ; ZANELLA, L. ; SILVA, D. S. ; MANTELLI, F. ; TIETZ, A. ; ZERBATI, P. ; SLAGHENAUF JUNIOR, J. C. ; PARO FILHO, O. ; AQUINO, A. F. C. ; Issicaba, Diego . Synchrophasor-based backup protection scheme to prevent transient instability in bulk power systems with embedded HVDC links. In: Power Systems Computation Conference, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "An approach to mapping operation conditions to levels of generation rejection for the SIPS of the Brazilian North-Southeast HVDC bipoles",
+          "autores": "BUSS, B. S. ; ANTUNES, VITOR ; TIETZ, A. ; ZERBATI, P. ; SLAGHENAUF JUNIOR, J. C. ; P. FILHO, O. ; AQUINO, A. F. C. ; Issicaba, Diego",
+          "periodico": "In: Power Systems Computation Conference, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026.",
+          "doi": "",
+          "citacao_completa": "BUSS, B. S. ; ANTUNES, VITOR ; TIETZ, A. ; ZERBATI, P. ; SLAGHENAUF JUNIOR, J. C. ; P. FILHO, O. ; AQUINO, A. F. C. ; Issicaba, Diego . An approach to mapping operation conditions to levels of generation rejection for the SIPS of the Brazilian North-Southeast HVDC bipoles. In: Power Systems Computation Conference, 2026, Limassol. Proceedings of the Power System Computation Conference, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Online Monitoring of Power Quality Indicators in Renewable Power Plants Using the Synchronized Phasor Measurement System of the Brazilian National Grid",
+          "autores": "OLIVEIRA, F. A. ; PEREIRA, J. G. ; CARDOSO, M. C. ; LOS, J. L. ; DECKER, ILDEMAR C. ; AQUINO, A. F. ; Issicaba, Diego ;",
+          "periodico": "In: CIGRE Session 2026, 2026, Paris. Anais do CIGRE Session 2026, 2026.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, F. A. ; PEREIRA, J. G. ; CARDOSO, M. C. ; LOS, J. L. ; DECKER, ILDEMAR C. ; AQUINO, A. F. ; Issicaba, Diego ; . Online Monitoring of Power Quality Indicators in Renewable Power Plants Using the Synchronized Phasor Measurement System of the Brazilian National Grid. In: CIGRE Session 2026, 2026, Paris. Anais do CIGRE Session 2026, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Metodologia Alternativa para a Definição de Limites de Indicadores de Continuidade de Conjuntos de Unidades Consumidoras de Empresas de Distribuição de Energia Elétrica",
+          "autores": "TERCEIRO, JYVAGO C.B.S. ; ISSICABA, D. ; BARACY, Y.",
+          "periodico": "In: XVI Conferência Brasileira Sobre Qualidade da Energia Elétrica ? CBQEE 2025, 2025, Uberlândia. Anais da XVI Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "TERCEIRO, JYVAGO C.B.S. ; ISSICABA, D. ; BARACY, Y. . Metodologia Alternativa para a Definição de Limites de Indicadores de Continuidade de Conjuntos de Unidades Consumidoras de Empresas de Distribuição de Energia Elétrica. In: XVI Conferência Brasileira Sobre Qualidade da Energia Elétrica ? CBQEE 2025, 2025, Uberlândia. Anais da XVI Conferência Brasileira Sobre Qualidade da Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Validação de modelos baseada em partições topológicas hierarquizadas do sin, dados de pmu e simulação dinâmica híbrida",
+          "autores": "; MOURINHO, F. A. ; SILVA, A. S. E. ; AQUINO, A. F. C. ; ANTUNES, V. ; CASAMALI, D. F. ; MORAES, G. R. ; ISSICABA, D. ; NETTO, A. C. ; SABOIA, M. C. ; MACAGNAN, A.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais do Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "; MOURINHO, F. A. ; SILVA, A. S. E. ; AQUINO, A. F. C. ; ANTUNES, V. ; CASAMALI, D. F. ; MORAES, G. R. ; ISSICABA, D. ; NETTO, A. C. ; SABOIA, M. C. ; MACAGNAN, A. . Validação de modelos baseada em partições topológicas hierarquizadas do sin, dados de pmu e simulação dinâmica híbrida. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais do Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure",
+          "autores": "SILVA, D. S. ; MORAES, G. R. ; PENNA, L. D. ; ; AQUINO, A. F. C. ; Issicaba, D.",
+          "periodico": "In: Power Systems Computation Conference, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "SILVA, D. S. ; MORAES, G. R. ; PENNA, L. D. ; ; AQUINO, A. F. C. ; Issicaba, D. . Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure. In: Power Systems Computation Conference, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Design of a Machine Learning Model to Enhance the Arming of the System Integrity Protection Scheme of the Brazilian North-Southeast HVDC Bipoles",
+          "autores": "ZANELLA, L. ; AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; ; AQUINO, A. F. C. ; ISSICABA, D.",
+          "periodico": "In: Power Systems Computation Conference, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "ZANELLA, L. ; AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; ; AQUINO, A. F. C. ; ISSICABA, D. . Design of a Machine Learning Model to Enhance the Arming of the System Integrity Protection Scheme of the Brazilian North-Southeast HVDC Bipoles. In: Power Systems Computation Conference, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Identificação de oscilações eletromecânicas: Estudo do comportamento dos principais modos do SIN a partir de medidas de PMUs",
+          "autores": "CASAMALI, D. F. ; PEREIRA, JULIANA L. ; MORAES, G. R. ; AQUINO, A. F. C. ; ISSICABA, D. ; DECKER, ILDEMAR C.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do Congresso Brasileiro de Automática, 2024.",
+          "doi": "",
+          "citacao_completa": "CASAMALI, D. F. ; PEREIRA, JULIANA L. ; MORAES, G. R. ; AQUINO, A. F. C. ; ISSICABA, D. ; DECKER, ILDEMAR C. . Identificação de oscilações eletromecânicas: Estudo do comportamento dos principais modos do SIN a partir de medidas de PMUs. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do Congresso Brasileiro de Automática, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Plataforma de análise de perturbações em sistemas de potência baseada na convergência de dados de sincrofasores e oscilografias",
+          "autores": "MORAES, G. R. ; LORENSI, L. ; PIRES, R. D. ; LOPES, G. ; ISSICABA, D. ; AQUINO, A. F. C. ; DOTTA, DANIEL ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do Congresso Brasileiro de Automática, 2024.",
+          "doi": "",
+          "citacao_completa": "MORAES, G. R. ; LORENSI, L. ; PIRES, R. D. ; LOPES, G. ; ISSICABA, D. ; AQUINO, A. F. C. ; DOTTA, DANIEL ; . Plataforma de análise de perturbações em sistemas de potência baseada na convergência de dados de sincrofasores e oscilografias. In: Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do Congresso Brasileiro de Automática, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Monitoramento dos Efeitos de Perturbações na Transmissão de Potência dos Elos HVDC do SIN a partir de Indicadores de Severidade Sistêmicos e Dados de Sincrofasores",
+          "autores": "SILVA, D. S. ; MORAES, G. R. ; ; PENNA, L. D. ; AQUINO, A. F. C. ; ISSICABA, D.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVA, D. S. ; MORAES, G. R. ; ; PENNA, L. D. ; AQUINO, A. F. C. ; ISSICABA, D. . Monitoramento dos Efeitos de Perturbações na Transmissão de Potência dos Elos HVDC do SIN a partir de Indicadores de Severidade Sistêmicos e Dados de Sincrofasores. In: Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Modelo para Análise de Maturidade do Sistema de Gestão de Manutenção de Usinas Hidrelétricas alinhado ao Sistema Formulário DARDO",
+          "autores": "WALENIA, P. S. ; RODRIGUES, M. ; MARIANO, C. H. ; RIGONI, E. ; BELLINELLO, M. M. ; Issicaba, D. ; VENTURINI, LUCAS FRITZEN",
+          "periodico": "In: 36o Congresso Brasileiro de Manutenção e Gestão de Ativos, 2022. 36o Congresso Brasileiro de Manutenção e Gestão de Ativos, 2022.",
+          "doi": "",
+          "citacao_completa": "WALENIA, P. S. ; RODRIGUES, M. ; MARIANO, C. H. ; RIGONI, E. ; BELLINELLO, M. M. ; Issicaba, D. ; VENTURINI, LUCAS FRITZEN . Modelo para Análise de Maturidade do Sistema de Gestão de Manutenção de Usinas Hidrelétricas alinhado ao Sistema Formulário DARDO. In: 36o Congresso Brasileiro de Manutenção e Gestão de Ativos, 2022. 36o Congresso Brasileiro de Manutenção e Gestão de Ativos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aplicação de Dados de Sincrofasores do SIN para a Obtenção de Indicadores de Afundamento Momentâneo de Tensão",
+          "autores": "ULIANA, A. N. ; WILK, I. W. ; ; Issicaba, D. ; AQUINO, A. F. C.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de janeiro. Anais do XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022.",
+          "doi": "",
+          "citacao_completa": "ULIANA, A. N. ; WILK, I. W. ; ; Issicaba, D. ; AQUINO, A. F. C. . Aplicação de Dados de Sincrofasores do SIN para a Obtenção de Indicadores de Afundamento Momentâneo de Tensão. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de janeiro. Anais do XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Fault indicator placement optimization using the cross-entropy method and traffic simulation data",
+          "autores": "CARDOSO, M. ; VENTURINI, L. F. ; BARACY, Y. ; ULISSES, I. ; BREMERMANN, L. ; GRILO-PAVANI, A. ; CARVALHO, L. ; Issicaba, Diego",
+          "periodico": "In: Power Systems Computation Conference, 2022, Porto. Proceedings of the Power Systems Computation Conference, 2022.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, M. ; VENTURINI, L. F. ; BARACY, Y. ; ULISSES, I. ; BREMERMANN, L. ; GRILO-PAVANI, A. ; CARVALHO, L. ; Issicaba, Diego . Fault indicator placement optimization using the cross-entropy method and traffic simulation data. In: Power Systems Computation Conference, 2022, Porto. Proceedings of the Power Systems Computation Conference, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Distribution Systems Protection Considering Aspects of Coordination and Time-dependent Response for Reliability Evaluation",
+          "autores": "FRITZEN VENTURINI, LUCAS ; COSTA, IVO CRISTIANO ; ISSICABA, D. ;",
+          "periodico": "In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020.",
+          "doi": "",
+          "citacao_completa": "FRITZEN VENTURINI, LUCAS ; COSTA, IVO CRISTIANO ; ISSICABA, D. ; . Distribution Systems Protection Considering Aspects of Coordination and Time-dependent Response for Reliability Evaluation. In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Recloser placement optimization using the cross-entropy method and reassessment of Monte Carlo sampled states",
+          "autores": "BARACY, Y. L. ; FRITZEN VENTURINI, LUCAS ; BRANCO, N. O. ; ISSICABA, D. ; GRILO, A. P.",
+          "periodico": "In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020.",
+          "doi": "",
+          "citacao_completa": "BARACY, Y. L. ; FRITZEN VENTURINI, LUCAS ; BRANCO, N. O. ; ISSICABA, D. ; GRILO, A. P. . Recloser placement optimization using the cross-entropy method and reassessment of Monte Carlo sampled states. In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Robust Dynamic Line Rating Monitoring System through State Estimation and Bad Data Analysis",
+          "autores": "FERNANDES, S. W. ; ; ISSICABA, D.",
+          "periodico": "In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020.",
+          "doi": "",
+          "citacao_completa": "FERNANDES, S. W. ; ; ISSICABA, D. . A Robust Dynamic Line Rating Monitoring System through State Estimation and Bad Data Analysis. In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Evaluating Short Circuit Indices in an Integrated Assessment of Distribution System Adequacy and Power Quality",
+          "autores": "BOLACELL, G. ; FRITZEN VENTURINI, LUCAS ; ; ISSICABA, D.",
+          "periodico": "In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020.",
+          "doi": "",
+          "citacao_completa": "BOLACELL, G. ; FRITZEN VENTURINI, LUCAS ; ; ISSICABA, D. . Evaluating Short Circuit Indices in an Integrated Assessment of Distribution System Adequacy and Power Quality. In: Power Systems Computation Conference, 2020, Porto, Portugal. Proceedings of the Power Systems Computation Conference, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Distribution System Planning Considering Power Quality, Loadability and Economic Aspects",
+          "autores": "BOLACELL, GABRIEL S. ; CALADO, DIANNE E. D. ; VENTURINI, LUCAS F. ; Issicaba, Diego ; DA ROSA, MAURO A.",
+          "periodico": "In: 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020, Liege. 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/pmaps47429.2020.9183582",
+          "citacao_completa": "BOLACELL, GABRIEL S. ; CALADO, DIANNE E. D. ; VENTURINI, LUCAS F. ; Issicaba, Diego ; DA ROSA, MAURO A. . Distribution System Planning Considering Power Quality, Loadability and Economic Aspects. In: 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020, Liege. 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Collecting Energy Consumption Habits Data in Developing Countries: A Game Platform Proposal",
+          "autores": "DOMINGUES, MARCOS ; ALVES, LEONARDO ; SALVINI, ROGERIO ; CARRIZO, DANTE ; Issicaba, Diego ; VENTURINI, LUCAS ; ROSA, MAURO",
+          "periodico": "In: 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019, Bucharest. 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/atee.2019.8724981",
+          "citacao_completa": "DOMINGUES, MARCOS ; ALVES, LEONARDO ; SALVINI, ROGERIO ; CARRIZO, DANTE ; Issicaba, Diego ; VENTURINI, LUCAS ; ROSA, MAURO . Collecting Energy Consumption Habits Data in Developing Countries: A Game Platform Proposal. In: 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019, Bucharest. 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploiting PADE to the Simulation of Multiagent Restoration Actions",
+          "autores": "DE FREITAS, BRUNA KOBAY ; FRITZEN VENTURINI, LUCAS ; DOMINGUES, MARCOS AURELIO ; AUGUSTO DA ROSA, MAURO ; Issicaba, Diego",
+          "periodico": "In: 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019, Bucharest. 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/atee.2019.8724852",
+          "citacao_completa": "DE FREITAS, BRUNA KOBAY ; FRITZEN VENTURINI, LUCAS ; DOMINGUES, MARCOS AURELIO ; AUGUSTO DA ROSA, MAURO ; Issicaba, Diego . Exploiting PADE to the Simulation of Multiagent Restoration Actions. In: 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019, Bucharest. 2019 11th International Symposium on Advanced Topics in Electrical Engineering (ATEE), 2019. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Methodology of technical-economical feasibility analysis: Application in distributed generation systems from biogas generated in anaerobic wastewater treatment plant",
+          "autores": "SESTREM JUNIOR, J. A. ; ; POSSETTI, G. R. C. ; Issicaba, D.",
+          "periodico": "In: XIII CLAGTEE - Latin-American Congress on Electricity generation and transmission, 2019, Santiago de Chile. XIII CLAGTEE - Latin-American Congress on Electricity generation and transmission, 2019.",
+          "doi": "",
+          "citacao_completa": "SESTREM JUNIOR, J. A. ; ; POSSETTI, G. R. C. ; Issicaba, D. . Methodology of technical-economical feasibility analysis: Application in distributed generation systems from biogas generated in anaerobic wastewater treatment plant. In: XIII CLAGTEE - Latin-American Congress on Electricity generation and transmission, 2019, Santiago de Chile. XIII CLAGTEE - Latin-American Congress on Electricity generation and transmission, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estimação de Estados e Análise de Erros Grosseiros Aplicados a Sistemas de Monitoramento da Ampacidade em Tempo Real",
+          "autores": "FERNANDES, S. W. ; Issicaba, D. ; ; SALES JUNIOR, C. S. ; SANTOS FILHO, R. C.",
+          "periodico": "In: XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. Anais do XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019.",
+          "doi": "",
+          "citacao_completa": "FERNANDES, S. W. ; Issicaba, D. ; ; SALES JUNIOR, C. S. ; SANTOS FILHO, R. C. . Estimação de Estados e Análise de Erros Grosseiros Aplicados a Sistemas de Monitoramento da Ampacidade em Tempo Real. In: XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. Anais do XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Identification of Non-Technical Losses in Distribution Systems via State Estimation and Geometric Tests",
+          "autores": "RODRIGUES, A. C. ; ; ISSICABA, D.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2018, Niterói. 2018 Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2018.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, A. C. ; ; ISSICABA, D. . Identification of Non-Technical Losses in Distribution Systems via State Estimation and Geometric Tests. In: Simpósio Brasileiro de Sistemas Elétricos, 2018, Niterói. 2018 Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Avaliação de Confiabilidade de Rede de Distribuição de uma Concessionária Brasileira via Método Analítico de Monte Carlo Sequencial",
+          "autores": "CENTENARO, B. ; CATAPANI, G. F. R. ; ISSICABA, D.",
+          "periodico": "In: Congreso Internacional de Distribución Elétrica (CIDEL), 2018, Buenos Aires. 2018 Congreso Internacional de Distribución Elétrica (CIDEL), 2018.",
+          "doi": "",
+          "citacao_completa": "CENTENARO, B. ; CATAPANI, G. F. R. ; ISSICABA, D. . Avaliação de Confiabilidade de Rede de Distribuição de uma Concessionária Brasileira via Método Analítico de Monte Carlo Sequencial. In: Congreso Internacional de Distribución Elétrica (CIDEL), 2018, Buenos Aires. 2018 Congreso Internacional de Distribución Elétrica (CIDEL), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Experimental validation of BDI agents for distributed control of electric power grids",
+          "autores": "Issicaba, Diego ; ROSA, MAURO A. ; PROSTEJOVSKY, ALEXANDER M. ; BINDNER, HENRIK W.",
+          "periodico": "In: 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGTEurope), 2017, Torino. 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISGTEurope.2017.8260273",
+          "citacao_completa": "Issicaba, Diego ; ROSA, MAURO A. ; PROSTEJOVSKY, ALEXANDER M. ; BINDNER, HENRIK W. . Experimental validation of BDI agents for distributed control of electric power grids. In: 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGTEurope), 2017, Torino. 2017 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT-Europe), 2017. p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Impact evaluation of the network geometric model on power quality indices using probabilistic techniques",
+          "autores": "; BOLACELL, G. ; ; CALADO, D. ; Issicaba, D.",
+          "periodico": "In: 2016 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2016, Beijing. 2016 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2016. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/pmaps.2016.7764215",
+          "citacao_completa": "; BOLACELL, G. ; ; CALADO, D. ; Issicaba, D. . Impact evaluation of the network geometric model on power quality indices using probabilistic techniques. In: 2016 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2016, Beijing. 2016 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2016. p. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Multi-agent scheme to handle flexible loads on low voltage distribution grids",
+          "autores": "BLAAUWBROEK, NIELS ; Issicaba, Diego ; LOPES, JOAO ABEL PECAS",
+          "periodico": "In: 2014 Power Systems Computation Conference (PSCC), 2014, Wroc¿aw. 2014 Power Systems Computation Conference. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/PSCC.2014.7038308",
+          "citacao_completa": "BLAAUWBROEK, NIELS ; Issicaba, Diego ; LOPES, JOAO ABEL PECAS . Multi-agent scheme to handle flexible loads on low voltage distribution grids. In: 2014 Power Systems Computation Conference (PSCC), 2014, Wroc¿aw. 2014 Power Systems Computation Conference. p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Agent-based Simulation of Active Distribution Grids following a Jason-based Approach",
+          "autores": "ISSICABA, D. ; Peças Lopes, J. A. ;",
+          "periodico": "In: International Conference on Intelligent System Applications to Power Systems (ISAP), 2013, Tokyo. Proceedings of the International Conference on Intelligent System Applications to Power Systems (ISAP), 2013.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; Peças Lopes, J. A. ; . Agent-based Simulation of Active Distribution Grids following a Jason-based Approach. In: International Conference on Intelligent System Applications to Power Systems (ISAP), 2013, Tokyo. Proceedings of the International Conference on Intelligent System Applications to Power Systems (ISAP), 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Composite reliability evaluation combining adequacy and security aspects",
+          "autores": "COSTA, IVO CRISTIANO ; ; SUMAILI, JEAN ; DE MAGALHAES CARVALHO, LEONEL ; Issicaba, Diego",
+          "periodico": "In: 2013 IEEE Grenoble PowerTech, 2013, Grenoble. 2013 IEEE Grenoble Conference, 2013. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/PTC.2013.6652332",
+          "citacao_completa": "COSTA, IVO CRISTIANO ; ; SUMAILI, JEAN ; DE MAGALHAES CARVALHO, LEONEL ; Issicaba, Diego . Composite reliability evaluation combining adequacy and security aspects. In: 2013 IEEE Grenoble PowerTech, 2013, Grenoble. 2013 IEEE Grenoble Conference, 2013. p. 1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Impacto na Confiabilidade de Sistemas de Distribuição de Energia Elétrica Sujeitos à Restrição de Carga e Integrados a Recursos Energéticos Distribuídos",
+          "autores": "L. C. Nascimento ; ; ; ISSICABA, D. ; Peças Lopes, J. A.",
+          "periodico": "In: Congresso Brasileiro de Automática (CBA), 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "L. C. Nascimento ; ; ; ISSICABA, D. ; Peças Lopes, J. A. . Impacto na Confiabilidade de Sistemas de Distribuição de Energia Elétrica Sujeitos à Restrição de Carga e Integrados a Recursos Energéticos Distribuídos. In: Congresso Brasileiro de Automática (CBA), 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A Hybrid Approach to Investigating the Distributional Aspects Associated with Reliability System Indices",
+          "autores": "; HELENO, M. ; ISSICABA, D. ; MATOS, M.",
+          "periodico": "In: International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012, Istanbul. Proceedings of the International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012.",
+          "doi": "",
+          "citacao_completa": "; HELENO, M. ; ISSICABA, D. ; MATOS, M. . A Hybrid Approach to Investigating the Distributional Aspects Associated with Reliability System Indices. In: International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012, Istanbul. Proceedings of the International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Reliability Evaluation of Generation Systems via Sequential Population-Based Monte Carlo Simulation",
+          "autores": "CARVALHO, L. ; Issicaba, Diego ; RAMOS, J. P. V. ; ; MIRANDA, V.",
+          "periodico": "In: IEEE 12th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012, Istambul. Proceedings of the IEEE 12th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, L. ; Issicaba, Diego ; RAMOS, J. P. V. ; ; MIRANDA, V. . Reliability Evaluation of Generation Systems via Sequential Population-Based Monte Carlo Simulation. In: IEEE 12th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012, Istambul. Proceedings of the IEEE 12th International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Distribution Systems Performance Evaluation considering Islanded Operation",
+          "autores": "ISSICABA, D. ; Peças Lopes, J. A. ;",
+          "periodico": "In: Power Systems Computation Conference (PSCC), 2011, Stockholm. Power Systems Computation Conference (PSCC), 2011.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; Peças Lopes, J. A. ; . Distribution Systems Performance Evaluation considering Islanded Operation. In: Power Systems Computation Conference (PSCC), 2011, Stockholm. Power Systems Computation Conference (PSCC), 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Hierarchical Frequency Control in Multi-Microgrids: The participation of Electric Vehicles",
+          "autores": "N. Gil ; ISSICABA, D. ; Almeida, P. M. Rocha ; Peças Lopes, J. A.",
+          "periodico": "In: Cigré International Symposium: The Electric Power System of the Future, 2011, Bologna. Cigré International Symposium: The Electric Power System of the Future, 2011.",
+          "doi": "",
+          "citacao_completa": "N. Gil ; ISSICABA, D. ; Almeida, P. M. Rocha ; Peças Lopes, J. A. . Hierarchical Frequency Control in Multi-Microgrids: The participation of Electric Vehicles. In: Cigré International Symposium: The Electric Power System of the Future, 2011, Bologna. Cigré International Symposium: The Electric Power System of the Future, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Advanced Metering Infrastructure functionalities for electric mobility",
+          "autores": "RUA, D. ; Issicaba, D. ; Soares, F. J. ; Almeida, P. M. Rocha ; REI, R. J. ; LOPES, J. A. PECAS",
+          "periodico": "In: 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2010, Gothenburg. 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe). p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISGTEUROPE.2010.5638854",
+          "citacao_completa": "RUA, D. ; Issicaba, D. ; Soares, F. J. ; Almeida, P. M. Rocha ; REI, R. J. ; LOPES, J. A. PECAS . Advanced Metering Infrastructure functionalities for electric mobility. In: 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2010, Gothenburg. 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe). p. 1."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Islanding operation of active distribution grids using an agent-based architecture",
+          "autores": "Issicaba, D. ; GIL, N. J. ; LOPES, J. A. PECAS",
+          "periodico": "In: 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2010, Gothenburg. 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe). p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISGTEUROPE.2010.5639007",
+          "citacao_completa": "Issicaba, D. ; GIL, N. J. ; LOPES, J. A. PECAS . Islanding operation of active distribution grids using an agent-based architecture. In: 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe), 2010, Gothenburg. 2010 IEEE PES Innovative Smart Grid Technologies Conference Europe (ISGT Europe). p. 1."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Cálculo de Perdas Técnicas e Comerciais em Sistemas de Distribuição: Comparação entre Metodologia e Conjunto de Medições em um Projeto Piloto",
+          "autores": "; ISSICABA, D. ; ; ; ; MARCELINO, R. ; BARCELOS, S. M.",
+          "periodico": "In: XIII ERIAC - Décimo Terceiro Encontro Regional Iberoamericano do Cigré, 2009, Puerto Iguazú. XIII ERIAC - Décimo Terceiro Encontro Regional Iberoamericano do Cigré, 2009.",
+          "doi": "",
+          "citacao_completa": "; ISSICABA, D. ; ; ; ; MARCELINO, R. ; BARCELOS, S. M. . Cálculo de Perdas Técnicas e Comerciais em Sistemas de Distribuição: Comparação entre Metodologia e Conjunto de Medições em um Projeto Piloto. In: XIII ERIAC - Décimo Terceiro Encontro Regional Iberoamericano do Cigré, 2009, Puerto Iguazú. XIII ERIAC - Décimo Terceiro Encontro Regional Iberoamericano do Cigré, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Método de Soma das Potências com Rotações para Redes de Distribuição de Energia Elétrica",
+          "autores": "ISSICABA, D. ; ;",
+          "periodico": "In: XVII Congresso Brasileiro de Automática (CBA), 2008, Juiz de Fora, MG. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; . Método de Soma das Potências com Rotações para Redes de Distribuição de Energia Elétrica. In: XVII Congresso Brasileiro de Automática (CBA), 2008, Juiz de Fora, MG. Anais do XVII Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "A Power Flow Method for Radial and Meshed Distribution Systems including Distributed Generation and Step Voltage Regulator Modeling",
+          "autores": "ISSICABA, D. ;",
+          "periodico": "In: Proceedings of the VI IASTED International Conference on Power and Energy Systems, 2007, Palma de Mallorca. VI IASTED International Conference on Power and Energy Systems, 2007.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; . A Power Flow Method for Radial and Meshed Distribution Systems including Distributed Generation and Step Voltage Regulator Modeling. In: Proceedings of the VI IASTED International Conference on Power and Energy Systems, 2007, Palma de Mallorca. VI IASTED International Conference on Power and Energy Systems, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Alocação de Compensação Reativa em Sistemas de Distribuição de Energia Elétrica Radiais (a Survey)",
+          "autores": "; ; ISSICABA, D. ; ;",
+          "periodico": "In: III Congresso Cier de Energia, 2007, Medellin. III Congresso Cier de Energia, 2007.",
+          "doi": "",
+          "citacao_completa": "; ; ISSICABA, D. ; ; . Alocação de Compensação Reativa em Sistemas de Distribuição de Energia Elétrica Radiais (a Survey). In: III Congresso Cier de Energia, 2007, Medellin. III Congresso Cier de Energia, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensitivity Matrix for the Capacitor Placement Problem in Radial Distribution Systems",
+          "autores": "; ISSICABA, D. ; ; ; ;",
+          "periodico": "In: II International Conference on Electrical Engineering, 2007, Coimbra. II International Conference on Electrical Engineering, 2007.",
+          "doi": "",
+          "citacao_completa": "; ISSICABA, D. ; ; ; ; . Sensitivity Matrix for the Capacitor Placement Problem in Radial Distribution Systems. In: II International Conference on Electrical Engineering, 2007, Coimbra. II International Conference on Electrical Engineering, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica das Subestações de uma Concessionária de Energia Elétrica",
+          "autores": "ISSICABA, D. ; De OLIVEIRA, A. ;",
+          "periodico": "In: X Symposium of Specialists in Electric Operational and Expansion Planning (SEPOPE), 2006, Florianópolis. X Symposium of Specialists in Electric Operational and Expansion Planning, 2006.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; De OLIVEIRA, A. ; . Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica das Subestações de uma Concessionária de Energia Elétrica. In: X Symposium of Specialists in Electric Operational and Expansion Planning (SEPOPE), 2006, Florianópolis. X Symposium of Specialists in Electric Operational and Expansion Planning, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "A New Approach for Optimal Capacitor Placement in Distribution Systems",
+          "autores": "ISSICABA, D. ; ; ;",
+          "periodico": "In: World Scientific and Engineering Academy and Society International Conference on Power Systems, 2006, Lisboa. Proceedings of the 6th World Scientific and Engineering Academy and Society International Conference on Power Systems, 2006.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; ; . A New Approach for Optimal Capacitor Placement in Distribution Systems. In: World Scientific and Engineering Academy and Society International Conference on Power Systems, 2006, Lisboa. Proceedings of the 6th World Scientific and Engineering Academy and Society International Conference on Power Systems, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Dimensionamento de Equipes de Manutenção das Redes de Energia Elétrica",
+          "autores": "ISSICABA, D. ; ; ; GAUCHE, E. ;",
+          "periodico": "In: XV Congresso Brasileiro de Automática, 2004, Gramado. Anais do XV Congresso Brasileiro de Automática, 2004.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; ; GAUCHE, E. ; . Dimensionamento de Equipes de Manutenção das Redes de Energia Elétrica. In: XV Congresso Brasileiro de Automática, 2004, Gramado. Anais do XV Congresso Brasileiro de Automática, 2004."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2005,
+          "titulo": "Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica das Subestações de uma Concessionária de Energia Elétrica",
+          "autores": "ISSICABA, D. ; ; De OLIVEIRA, A.",
+          "periodico": "In: XV Seminário de Iniciação Científica - SIC, 2005, Florianópolis. Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica de Subestações de uma Concessionária de Energia Elétrica. Florianópolis, 2005.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; De OLIVEIRA, A. . Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica das Subestações de uma Concessionária de Energia Elétrica. In: XV Seminário de Iniciação Científica - SIC, 2005, Florianópolis. Sistema Cognitivo para a Avaliação da Importância Técnica e Estratégica de Subestações de uma Concessionária de Energia Elétrica. Florianópolis, 2005."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Support Decision System to maintenance teams of Distribution System",
+          "autores": "ISSICABA, D.",
+          "periodico": "In: 11º SIICUSP - Simpósio Internacional de Iniciação Científica da USP, 2003, São Carlos. Sistema de Apoio à Decisão aos Times de Manutenção de Redes de Energia Elétrica, 2003.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. . Support Decision System to maintenance teams of Distribution System. In: 11º SIICUSP - Simpósio Internacional de Iniciação Científica da USP, 2003, São Carlos. Sistema de Apoio à Decisão aos Times de Manutenção de Redes de Energia Elétrica, 2003."
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Design of a Machine Learning Model to Enhance the Arming of the System Integrity Protection Scheme of the Brazilian North-Southeast HVDC Bipoles",
+          "autores": "ZANELLA, L. ; AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; ; ISSICABA, D.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , 2024.",
+          "doi": "",
+          "citacao_completa": "ZANELLA, L. ; AMBRÓSIO, BRYAN A.S. ; MORAES, G. R. ; ; ISSICABA, D. . Design of a Machine Learning Model to Enhance the Arming of the System Integrity Protection Scheme of the Brazilian North-Southeast HVDC Bipoles. ELECTRIC POWER SYSTEMS RESEARCH , 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Monitoring Systemic Dynamic Effects following Disturbances affecting HVDC Power Transmission in the BIPS using WAMS Infrastructure",
+          "autores": "SILVA, D. S. ; MORAES, G. R. ; AQUINO, A. F. C. ; ; Issicaba, Diego",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , 2024.",
+          "doi": "",
+          "citacao_completa": "SILVA, D. S. ; MORAES, G. R. ; AQUINO, A. F. C. ; ; Issicaba, Diego . Monitoring Systemic Dynamic Effects following Disturbances affecting HVDC Power Transmission in the BIPS using WAMS Infrastructure. ELECTRIC POWER SYSTEMS RESEARCH , 2024."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "CSDECAE - Confiabilidade de Sistemas de Distribuição de Energia Considerando Aspectos Dinâmicos",
+          "autores": "Issicaba, Diego ; ; Peças Lopes, J. A.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego ; ; Peças Lopes, J. A. . CSDECAE - Confiabilidade de Sistemas de Distribuição de Energia Considerando Aspectos Dinâmicos. 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "MAACSPCC - Método Analítico para Avaliação da Confiabilidade de Sistemas Produtores Considerando Cronologia",
+          "autores": "; HELENO, M. ; Issicaba, Diego",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "; HELENO, M. ; Issicaba, Diego . MAACSPCC - Método Analítico para Avaliação da Confiabilidade de Sistemas Produtores Considerando Cronologia. 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SMAACSD - Sistemas Multi-Agentes Aplicado a Confiabilidade de Sistemas de Distribuição",
+          "autores": "Issicaba, Diego ; ; Pecas Lopes, João Abel",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego ; ; Pecas Lopes, João Abel . SMAACSD - Sistemas Multi-Agentes Aplicado a Confiabilidade de Sistemas de Distribuição. 2010."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Capacitor Placement System by Reinforcement Learning",
+          "autores": "ISSICABA, D.",
+          "periodico": "2006.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. . Capacitor Placement System by Reinforcement Learning. 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Cognitive System for Substation Operation and Planning Assessment",
+          "autores": "ISSICABA, D. ; ; De OLIVEIRA, A.",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; De OLIVEIRA, A. . Cognitive System for Substation Operation and Planning Assessment. 2005."
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "citations": [
+        {
+          "ano": 2003,
+          "titulo": "Sistema Especialista para o Dimensionamento de Equipes de Manutenção de uma Concessionária de Energia Elétrica",
+          "autores": "ISSICABA, D. ; ; ; GAUCHE, E. ;",
+          "periodico": "2003.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. ; ; ; GAUCHE, E. ; . Sistema Especialista para o Dimensionamento de Equipes de Manutenção de uma Concessionária de Energia Elétrica. 2003."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Inércia de sistemas de potência com elevada inserção de geração renovável ? Estimação, avaliação e suprimento",
+          "autores": "FERREIRA, F. M. C. ; ALVES, F. A. L. ; ARCOS, R. B. ; ZYMLER, R. ; FERNANDES, R. O. ; GOMES, P. ; SILVA, V. R. N. ; SODRE, E. A. ; TARANTO, G. N. ; ISSICABA, D.",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "FERREIRA, F. M. C. ; ALVES, F. A. L. ; ARCOS, R. B. ; ZYMLER, R. ; FERNANDES, R. O. ; GOMES, P. ; SILVA, V. R. N. ; SODRE, E. A. ; TARANTO, G. N. ; ISSICABA, D. . Inércia de sistemas de potência com elevada inserção de geração renovável ? Estimação, avaliação e suprimento. 2026."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Parecer Técnico de Projeto para a Chamada CIPI/UDESC Pró-equipamentos 01/2014 para Atendimento do Edital CAPES 11/2014 - Pró-Equipamentos Institucional",
+          "autores": "ISSICABA, D.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. . Parecer Técnico de Projeto para a Chamada CIPI/UDESC Pró-equipamentos 01/2014 para Atendimento do Edital CAPES 11/2014 - Pró-Equipamentos Institucional. 2014."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "Fundamentals, Advanced Concepts and Applications of Agent-based Technology to Micro grids",
+          "autores": "Issicaba, Diego",
+          "periodico": "2012. .",
+          "doi": "",
+          "citacao_completa": "Issicaba, Diego . Fundamentals, Advanced Concepts and Applications of Agent-based Technology to Micro grids. 2012. ."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Convergence Analysis of the Current Accumulation Load Flow Method for Radial Distribution Systems",
+          "autores": "ISSICABA, D.",
+          "periodico": "2008. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. . Convergence Analysis of the Current Accumulation Load Flow Method for Radial Distribution Systems. 2008. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Rotational Load Flow Method for Radial Distribution Systems",
+          "autores": "ISSICABA, D.",
+          "periodico": "2008. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "ISSICABA, D. . Rotational Load Flow Method for Radial Distribution Systems. 2008. (Relatório de pesquisa)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Proposta de Dispositivo Ótico-Sensor para o Monitoramento de Vibrações em Condutores de Linhas de Transmissão de Energia Elétrica",
+          "membros": "LIMA, P. C. R.; BOLACELL, G.; ISSICABA, D.",
+          "candidato": "Vanessa Maria Carolina Serrano Ardila",
+          "citacao_completa": "LIMA, P. C. R.; BOLACELL, G.; ISSICABA, D. . Participação em banca de Vanessa Maria Carolina Serrano Ardila. Proposta de Dispositivo Ótico-Sensor para o Monitoramento de Vibrações em Condutores de Linhas de Transmissão de Energia Elétrica. 2025. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Performance assessment of R-GOOSE over 5g networks for mission critical power system applications",
+          "membros": "LOPES, Y.; CASTELLANOS, P. V. G.; ISSICABA, D. ; FRAIDENRAICH, G.",
+          "candidato": "Joyce Meireles Siqueira",
+          "citacao_completa": "LOPES, Y.; CASTELLANOS, P. V. G.; ISSICABA, D. ; FRAIDENRAICH, G.. Participação em banca de Joyce Meireles Siqueira. Performance assessment of R-GOOSE over 5g networks for mission critical power system applications. 2025 - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise do Controle Volt/VAr em Redes de Distribuição de Energia na Presençade Geração Distribuída Conectada Via Conversores Estáticos",
+          "membros": "PRIOSTE, F. B.; ;",
+          "candidato": "Leonildo Dias Laurence",
+          "citacao_completa": "PRIOSTE, F. B.; ; . Participação em banca de Leonildo Dias Laurence. Análise do Controle Volt/VAr em Redes de Distribuição de Energia na Presençade Geração Distribuída Conectada Via Conversores Estáticos. 2024. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Modelo de Aprendizado de Máquina para Aprimoramento do Sistema Especial de Proteção dos Elos HVDC associados à UHE Belo Monte",
+          "membros": "COLOME, D. G.; PESENTE, J.; AQUINO, A. F. C.;",
+          "candidato": "Lucas Da Costa Zanella",
+          "citacao_completa": "COLOME, D. G.; PESENTE, J.; AQUINO, A. F. C.; . Participação em banca de Lucas Da Costa Zanella. Modelo de Aprendizado de Máquina para Aprimoramento do Sistema Especial de Proteção dos Elos HVDC associados à UHE Belo Monte. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detecção de Falhas de Comutação em Sistemas HVDC Multi-Infeed utilizando Sincrofasores",
+          "membros": "DIAS, R. F. S.; ;",
+          "candidato": "Daniel Sousa da Silva",
+          "citacao_completa": "DIAS, R. F. S.; ; . Participação em banca de Daniel Sousa da Silva. Detecção de Falhas de Comutação em Sistemas HVDC Multi-Infeed utilizando Sincrofasores. 2023. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Processamento de Erros Grosseiros para Estimadores de Estados Híbridos Baseados na Arquitetura de Fusão de Estimativas",
+          "membros": "BREMERMANN, L.; ;",
+          "candidato": "Laís de Oliveira Dalle Mulle",
+          "citacao_completa": "BREMERMANN, L.; ; . Participação em banca de Laís de Oliveira Dalle Mulle. Processamento de Erros Grosseiros para Estimadores de Estados Híbridos Baseados na Arquitetura de Fusão de Estimativas. 2023. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Avaliação da Estabilidade de Tensão em Regime Permanente de Sistemas Elétricos com Elevada Utilização de Fontes Renováveis",
+          "membros": "; LEMOS, F. A. B.; GONZALES, J. C.",
+          "candidato": "Eduardo Cardoso Toniazzo",
+          "citacao_completa": "; LEMOS, F. A. B.; GONZALES, J. C.. Participação em banca de Eduardo Cardoso Toniazzo. Avaliação da Estabilidade de Tensão em Regime Permanente de Sistemas Elétricos com Elevada Utilização de Fontes Renováveis. 2022. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Desenvolvimento de um Protótipo para Medição Sincrofasorial Utilizando o Conceito de Fasores Dinâmicos",
+          "membros": ";",
+          "candidato": "Paulo Ricardo Dutra Ribeiro da Silva",
+          "citacao_completa": "; . Participação em banca de Paulo Ricardo Dutra Ribeiro da Silva. Desenvolvimento de um Protótipo para Medição Sincrofasorial Utilizando o Conceito de Fasores Dinâmicos. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Desenvolvimento de Sistema para Detecção de Eventos em Tempo Real Utilizando Sincrofasores",
+          "membros": "MORAES, G. R.;",
+          "candidato": "Gabriel Victor de Sousa Lopes",
+          "citacao_completa": "MORAES, G. R.; . Participação em banca de Gabriel Victor de Sousa Lopes. Desenvolvimento de Sistema para Detecção de Eventos em Tempo Real Utilizando Sincrofasores. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Sistemas de Armazenamento em Parques Eólicos considerando PLD Horário e Situações de Constrained Off",
+          "membros": "; BENEDITO, R. A. S.;",
+          "candidato": "Mayara Miqueletti de Lima",
+          "citacao_completa": "; BENEDITO, R. A. S.; . Participação em banca de Mayara Miqueletti de Lima. Sistemas de Armazenamento em Parques Eólicos considerando PLD Horário e Situações de Constrained Off. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise modal como ferramenta de análise de segurança estática de tensão em sistemas de potência",
+          "membros": "BENEDITO, R. A. S.; ; KUIAVA, R.; FERNANDES, T. S. P.",
+          "candidato": "Gabriela Rosalee Weiger",
+          "citacao_completa": "BENEDITO, R. A. S.; ; KUIAVA, R.; FERNANDES, T. S. P.. Participação em banca de Gabriela Rosalee Weiger. Análise modal como ferramenta de análise de segurança estática de tensão em sistemas de potência. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Uma nova metodologia para localização de faltas em sistemas de distribuição usando sincrofasores de tensão",
+          "membros": "CARDOSO JUNIOR, G.;",
+          "candidato": "Diego Leonel Cordova Crespo",
+          "citacao_completa": "CARDOSO JUNIOR, G.; . Participação em banca de Diego Leonel Cordova Crespo. Uma nova metodologia para localização de faltas em sistemas de distribuição usando sincrofasores de tensão. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologia para a Análise da Maturidade de Sistemas de Manutenção em Usinas Hidrelétricas",
+          "membros": "; BENEDITO, R. A. S.; SILVA, J. C. C.; RIGONI, E.",
+          "candidato": "Paulo Sergio Walenia",
+          "citacao_completa": "; BENEDITO, R. A. S.; SILVA, J. C. C.; RIGONI, E.. Participação em banca de Paulo Sergio Walenia. Metodologia para a Análise da Maturidade de Sistemas de Manutenção em Usinas Hidrelétricas. 2021. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Impacto de Ações Independentes dos Consumidores com Autogeração Fotovoltaica: Análise via Fluxo de Potência Ótimo Binível",
+          "membros": "LIMA, D. A.;",
+          "candidato": "Cristiana da Silva Alexandre",
+          "citacao_completa": "LIMA, D. A.; . Participação em banca de Cristiana da Silva Alexandre. Impacto de Ações Independentes dos Consumidores com Autogeração Fotovoltaica: Análise via Fluxo de Potência Ótimo Binível. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Identificação de Distúrbios em Sistemas de Distribuição exclusivamente baseada nos Sinais de Corrente",
+          "membros": "BRITO, N. S. D.; BARROS, L. M.; ; CARDOSO, C. A. V.",
+          "candidato": "Talita Santos Alves",
+          "citacao_completa": "BRITO, N. S. D.; BARROS, L. M.; ; CARDOSO, C. A. V.. Participação em banca de Talita Santos Alves. Identificação de Distúrbios em Sistemas de Distribuição exclusivamente baseada nos Sinais de Corrente. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação do Impacto de Modelos de Erros de Previsão Eólica na Reserva Operacional",
+          "membros": "; BREMERMANN, L. E.;",
+          "candidato": "Sara Medeiros Boueres",
+          "citacao_completa": "; BREMERMANN, L. E.; . Participação em banca de Sara Medeiros Boueres. Avaliação do Impacto de Modelos de Erros de Previsão Eólica na Reserva Operacional. 2020. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação da performance de Sistemas elétricos considerando Aspectos da Logística para Viabilização da Geração à biomassa de cana-de-açúcar",
+          "membros": "; BREMERMANN, L. E.",
+          "candidato": "Angélica Benetti Cezimbra",
+          "citacao_completa": "; BREMERMANN, L. E.. Participação em banca de Angélica Benetti Cezimbra. Avaliação da performance de Sistemas elétricos considerando Aspectos da Logística para Viabilização da Geração à biomassa de cana-de-açúcar. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Controle de Unidades Eólicas em Microrredes com Predominância de Geração Hidráulica",
+          "membros": "; ZURN, H. H.;",
+          "candidato": "Dalton Fellipe Casamali",
+          "citacao_completa": "; ZURN, H. H.; . Participação em banca de Dalton Fellipe Casamali. Controle de Unidades Eólicas em Microrredes com Predominância de Geração Hidráulica. 2019. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Detecção e Identificação de Perdas Não-Técnicas em Sistemas de Distribuição via Estimação de Estados e Testes Geométricos",
+          "membros": ";",
+          "candidato": "Amanda Cristine Rodrigues",
+          "citacao_completa": "; . Participação em banca de Amanda Cristine Rodrigues. Detecção e Identificação de Perdas Não-Técnicas em Sistemas de Distribuição via Estimação de Estados e Testes Geométricos. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise Probabilística de Sistemas de Distribuição a partir da Resposta de Sistemas de Proteção a Curtos-Circuitos",
+          "membros": "MEFFE, A.; ; ; BRANCO, N. O.",
+          "candidato": "Lucas Fritzen Venturini",
+          "citacao_completa": "MEFFE, A.; ; ; BRANCO, N. O.. Participação em banca de Lucas Fritzen Venturini. Análise Probabilística de Sistemas de Distribuição a partir da Resposta de Sistemas de Proteção a Curtos-Circuitos. 2018. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Análise de eventos em sistemas elétricos de potência em tempo real utilizando sincrofasores e a transformada wavelet discreta",
+          "membros": "; ; ZURN, H. H.",
+          "candidato": "Eduardo Henrique Zanella de Arruda",
+          "citacao_completa": "; ; ZURN, H. H.. Participação em banca de Eduardo Henrique Zanella de Arruda. Análise de eventos em sistemas elétricos de potência em tempo real utilizando sincrofasores e a transformada wavelet discreta. 2017. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Algoritmo para autorrecuperação de redes de distribuição de energia elétrica utilizando redes neurais artificiais",
+          "membros": "FRITZEN, P. C.; BENEDITO, R. A. S.;",
+          "candidato": "Fabio da Silva Avelar",
+          "citacao_completa": "FRITZEN, P. C.; BENEDITO, R. A. S.; . Participação em banca de Fabio da Silva Avelar. Algoritmo para autorrecuperação de redes de distribuição de energia elétrica utilizando redes neurais artificiais. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Microrredes em Mercados de Energia Elétrica",
+          "membros": "; TENFEN, D.; FERNANDES, R. C.",
+          "candidato": "Gabriel Aurélio de Oliveira",
+          "citacao_completa": "; TENFEN, D.; FERNANDES, R. C.. Participação em banca de Gabriel Aurélio de Oliveira. Microrredes em Mercados de Energia Elétrica. 2017. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Sistema Multiagente para Proteção Adaptativa de Retaguarda de Linha de Distribuição aplicado em Ambiente de Microrrede",
+          "membros": "; ;",
+          "candidato": "Fernando Bereta dos Reis",
+          "citacao_completa": "; ; . Participação em banca de Fernando Bereta dos Reis. Sistema Multiagente para Proteção Adaptativa de Retaguarda de Linha de Distribuição aplicado em Ambiente de Microrrede. 2016. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Avaliação Multiárea de Sistemas de Geração com Elevada Produção Eólica: Reserva Estática e Operacional",
+          "membros": "; ;",
+          "candidato": "Andrés Mauricio Martínez",
+          "citacao_completa": "; ; . Participação em banca de Andrés Mauricio Martínez. Avaliação Multiárea de Sistemas de Geração com Elevada Produção Eólica: Reserva Estática e Operacional. 2016. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Avaliação da Adequação de Sistemas Elétricos considerando a Participação de Geração a Biomassa",
+          "membros": "; ; BREMERMANN, L. E.; FRANCISCO, RD",
+          "candidato": "Rafael Costa",
+          "citacao_completa": "; ; BREMERMANN, L. E.; FRANCISCO, RD. Participação em banca de Rafael Costa. Avaliação da Adequação de Sistemas Elétricos considerando a Participação de Geração a Biomassa. 2016. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Análise de Estratégias de Divisão de Carga baseadas em Droop para Microrredes",
+          "membros": "; ZURN, H. H.; SALGADO, R. S.;",
+          "candidato": "Victor Maryama",
+          "citacao_completa": "; ZURN, H. H.; SALGADO, R. S.; . Participação em banca de Victor Maryama. Análise de Estratégias de Divisão de Carga baseadas em Droop para Microrredes. 2016. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".",
+          "membros": "RUTHER, R.; ZURN, H. H.; ;",
+          "candidato": "Edemilson Luiz Rangel Jr",
+          "citacao_completa": "RUTHER, R.; ZURN, H. H.; ; . Participação em banca de Edemilson Luiz Rangel Jr.. Modelagem de Centrais Fotovoltaicas no Problema de Fluxo de Potência Ótimo com aplicação em Sistemas de Distribuição. 2015. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Metodologia para o Cálculo das Perdas Técnicas e Não Técnicas em Cooperativas de Eletrificação Rural utilizando Sistemas de Medição em Dois Níveis",
+          "membros": "; COELHO, V. L.; ;",
+          "candidato": "Deysy Deysy Murillo Diaz",
+          "citacao_completa": "; COELHO, V. L.; ; . Participação em banca de Deysy Deysy Murillo Diaz. Metodologia para o Cálculo das Perdas Técnicas e Não Técnicas em Cooperativas de Eletrificação Rural utilizando Sistemas de Medição em Dois Níveis. 2015. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de uma Plataforma para Implementação de Sistemas Multiagentes: uma aplicação para Recomposição Automática de Sistemas de Distribuição de Energia Elétrica",
+          "membros": "LEAO, R. P. S.; BARROSO, G. C.; ; SOARES, J. M.",
+          "candidato": "Lucas Silveira Melo",
+          "citacao_completa": "LEAO, R. P. S.; BARROSO, G. C.; ; SOARES, J. M.. Participação em banca de Lucas Silveira Melo. Desenvolvimento de uma Plataforma para Implementação de Sistemas Multiagentes: uma aplicação para Recomposição Automática de Sistemas de Distribuição de Energia Elétrica. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Inclusão de Agentes de Proteção de Geradores Síncronos em um Sistema Multiagente para Proteção de Microrredes",
+          "membros": "; ZURN, H. H.; FERNANDES, R. C.;",
+          "candidato": "José Octávio Cesário Pereira Pinto",
+          "citacao_completa": "; ZURN, H. H.; FERNANDES, R. C.; . Participação em banca de José Octávio Cesário Pereira Pinto. Inclusão de Agentes de Proteção de Geradores Síncronos em um Sistema Multiagente para Proteção de Microrredes. 2015. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Soluções Alternativas das Equações Estáticas da Rede Elétrica considerando Controle QV",
+          "membros": "; ALMEIDA, K. C.; ZURN, H. H.;",
+          "candidato": "Guido Rosseto Moraes",
+          "citacao_completa": "; ALMEIDA, K. C.; ZURN, H. H.; . Participação em banca de Guido Rosseto Moraes. Soluções Alternativas das Equações Estáticas da Rede Elétrica considerando Controle QV. 2015. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Definição das Necessidades de Reserva Operacional utilizando os Conceitos de VAR e CVAR em Sistemas Hidro-Térmico-Eólicos",
+          "membros": "; ;",
+          "candidato": "Pablo Andrés Galvis Uran",
+          "citacao_completa": "; ; . Participação em banca de Pablo Andrés Galvis Uran. Definição das Necessidades de Reserva Operacional utilizando os Conceitos de VAR e CVAR em Sistemas Hidro-Térmico-Eólicos. 2015. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Arquitetura Multiagente para a Coordenação de Relés de Sobrecorrente na Proteção de Sistemas Radiais na Presença de Geração Distribuída",
+          "membros": "ROLIM, J. G.; BRETAS, A. S.; HUBNER, J. F.;",
+          "candidato": "Patricia Cristina Maiola",
+          "citacao_completa": "ROLIM, J. G.; BRETAS, A. S.; HUBNER, J. F.; . Participação em banca de Patricia Cristina Maiola. Arquitetura Multiagente para a Coordenação de Relés de Sobrecorrente na Proteção de Sistemas Radiais na Presença de Geração Distribuída. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Metodologia de Análise de Confiabilidade em Redes Ativas de Distribuição de Energia Elétrica",
+          "membros": "REIS, M. M.; ; ; ZURN, H. H.;",
+          "candidato": "Fernanda Zardo",
+          "citacao_completa": "REIS, M. M.; ; ; ZURN, H. H.; . Participação em banca de Fernanda Zardo. Metodologia de Análise de Confiabilidade em Redes Ativas de Distribuição de Energia Elétrica. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Sistema Multiagentes para Proteção Adaptativa de Microrredes",
+          "membros": "ROLIM, J. G.; LEAO, R. P. S.; ; ;",
+          "candidato": "Leonardo Lameira do Nascimento",
+          "citacao_completa": "ROLIM, J. G.; LEAO, R. P. S.; ; ; . Participação em banca de Leonardo Lameira do Nascimento. Sistema Multiagentes para Proteção Adaptativa de Microrredes. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "MODELAMIENTO DE CARGA AUTOMÁTICO Y EN LÍNEA UTILIZANDO TECNOLOGÍA DE MEDICIÓN SINCROFASORIAL",
+          "membros": "GALARZA, C.; Issicaba, Diego",
+          "candidato": "Joffre Remigio Constante Segura",
+          "citacao_completa": "GALARZA, C.; Issicaba, Diego . Participação em banca de Joffre Remigio Constante Segura. MODELAMIENTO DE CARGA AUTOMÁTICO Y EN LÍNEA UTILIZANDO TECNOLOGÍA DE MEDICIÓN SINCROFASORIAL. 2026. Tese (Doutorado em Departamento de Estudios de Posgrado) - Universidad Nacional de San Juan."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Otimização da Manutenção Centrada na Confiabilidade em Redes de Distribuição de Energia Elétrica: uma Abordagem Orientada a Regulação Baseada em Desempenho",
+          "membros": "ISSICABA, D. ; AFFONSO, C. M.; CASTRO, J. F. C.; PESSANHA, J. E. O.; RODRIGUES, A. B.; SILVA, M. G.",
+          "candidato": "Bruno Adrian Silva Costa",
+          "citacao_completa": "ISSICABA, D. ; AFFONSO, C. M.; CASTRO, J. F. C.; PESSANHA, J. E. O.; RODRIGUES, A. B.; SILVA, M. G.. Participação em banca de Bruno Adrian Silva Costa. Otimização da Manutenção Centrada na Confiabilidade em Redes de Distribuição de Energia Elétrica: uma Abordagem Orientada a Regulação Baseada em Desempenho. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Maranhão."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Contributions on High Impedance Fault Classification in Microgrids Using Harmonic Synchrophasors",
+          "membros": "MORAIS, A. P.; MACEDO JUNIOR, J. R.; ;",
+          "candidato": "Dionatan Augusto Guimarães Cieslak",
+          "citacao_completa": "MORAIS, A. P.; MACEDO JUNIOR, J. R.; ; . Participação em banca de Dionatan Augusto Guimarães Cieslak. Contributions on High Impedance Fault Classification in Microgrids Using Harmonic Synchrophasors. 2024. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Estabilidad de Tensión de Largo y Corto Alcance usando Herramientas de Inteligencia Artificial",
+          "membros": "FERNANDEZ, M. C.; ; MARTINEZ, M.; SERRANO, B.",
+          "candidato": "Walter Mauricio Villa Acevedo",
+          "citacao_completa": "FERNANDEZ, M. C.; ; MARTINEZ, M.; SERRANO, B.. Participação em banca de Walter Mauricio Villa Acevedo. Estabilidad de Tensión de Largo y Corto Alcance usando Herramientas de Inteligencia Artificial. 2023. Tese (Doutorado em Departamento de Estudios de Posgrado) - Universidad Nacional de San Juan."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detecção de Faltas de Alta Impedância em Microrredes Considerando a Influência de Geração Conectada via Conversores de Frequência",
+          "membros": "LAZZARETTI, A. E.; COELHO, R. F.;",
+          "candidato": "Vitor Fernando Couto",
+          "citacao_completa": "LAZZARETTI, A. E.; COELHO, R. F.; . Participação em banca de Vitor Fernando Couto. Detecção de Faltas de Alta Impedância em Microrredes Considerando a Influência de Geração Conectada via Conversores de Frequência. 2023. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Evaluación y Mejora de la Estabilidad Transitoria de Sistemas Eléctricos en Tiempo Real utilizando PMUs",
+          "membros": "FERNANDEZ, M. C.; ; CELANI, N. L.; MERCADO, P.; MARTINEZ, M.",
+          "candidato": "Diego Ernesto Echeverría Jurado",
+          "citacao_completa": "FERNANDEZ, M. C.; ; CELANI, N. L.; MERCADO, P.; MARTINEZ, M.. Participação em banca de Diego Ernesto Echeverría Jurado. Evaluación y Mejora de la Estabilidad Transitoria de Sistemas Eléctricos en Tiempo Real utilizando PMUs. 2021. Tese (Doutorado em Departamento de Estudios de Posgrado) - Universidad Nacional de San Juan."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Avaliação do Impacto da Produção Eólica na Reserva Operativa de Curto e Longo Prazo utilizando Séries Temporais",
+          "membros": "DA MATA MEDEIROS BRANCO, TADEU; ; BEZERRA, U. H.; TOSTES, M. E. L.; GALHARDO, M. A. B.; BREMERMANN, L. E.; ; MACHADO, R. N. M.",
+          "candidato": "Fernando Manoel Carvalho da Silva Santos",
+          "citacao_completa": "DA MATA MEDEIROS BRANCO, TADEU; ; BEZERRA, U. H.; TOSTES, M. E. L.; GALHARDO, M. A. B.; BREMERMANN, L. E.; ; MACHADO, R. N. M.. Participação em banca de Fernando Manoel Carvalho da Silva Santos. Avaliação do Impacto da Produção Eólica na Reserva Operativa de Curto e Longo Prazo utilizando Séries Temporais. 2019. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Arquitetura de Agentes para Suporte à Análise de Perturbações em Geradores Síncronos",
+          "membros": "CARDOSO JUNIOR, G.; RAMOS, R. A.; HUBNER, J. F.;",
+          "candidato": "Jonas Roberto Pesente",
+          "citacao_completa": "CARDOSO JUNIOR, G.; RAMOS, R. A.; HUBNER, J. F.; . Participação em banca de Jonas Roberto Pesente. Arquitetura de Agentes para Suporte à Análise de Perturbações em Geradores Síncronos. 2018. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Sistema de Automação Distribuído: Uma abordagem Baseada em Multiagente aplicada a Sistemas de Distribuição de Energia em Média Tensão",
+          "membros": "; SARAIVA, F. O.; NOGUEIRA, F. G.; SOUZA, J. R. B.; BARROSO, G. C.; LEAO, R. P. S.",
+          "candidato": "Raimundo Furtado Sampaio",
+          "citacao_completa": "; SARAIVA, F. O.; NOGUEIRA, F. G.; SOUZA, J. R. B.; BARROSO, G. C.; LEAO, R. P. S.. Participação em banca de Raimundo Furtado Sampaio. Sistema de Automação Distribuído: Uma abordagem Baseada em Multiagente aplicada a Sistemas de Distribuição de Energia em Média Tensão. 2017. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de um Modelo de Otimização para o Problema do Gerenciamento Energético de Microrredes",
+          "membros": "MARCATO, A. L. M.; RODRIGUES, R. N.; ; ; TAKIGAWA, F. Y. K.;",
+          "candidato": "Daniel Tenfen",
+          "citacao_completa": "MARCATO, A. L. M.; RODRIGUES, R. N.; ; ; TAKIGAWA, F. Y. K.; . Participação em banca de Daniel Tenfen. Desenvolvimento de um Modelo de Otimização para o Problema do Gerenciamento Energético de Microrredes. 2015. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Detecção e Localização de Faltas de Alta Impedância Utilizando Métodos de Análise de Sinais no Domínio do Tempo e Redes Neurais Artificiais",
+          "membros": "ISSICABA, D. ; MANASSERO JUNIOR, G.; SIMAS FILHO, E. F.; FERREIRA, T. V.; MOREIRA, F. A.",
+          "candidato": "Reginaldo Barnabé Gonzalez Grimaldi",
+          "citacao_completa": "ISSICABA, D. ; MANASSERO JUNIOR, G.; SIMAS FILHO, E. F.; FERREIRA, T. V.; MOREIRA, F. A.. Participação em banca de Reginaldo Barnabé Gonzalez Grimaldi. Detecção e Localização de Faltas de Alta Impedância Utilizando Métodos de Análise de Sinais no Domínio do Tempo e Redes Neurais Artificiais. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Otimização da manutenção centrada na confiabilidade em redes de distribuição de energia elétrica: uma abordagem orientada a regulação baseada em desempenho",
+          "membros": "ISSICABA, D. ; AFFONSO, C. M.; CASTRO, J. F. C.; PESSANHA, J. E. O.; SILVA, M. G.; RODRIGUES, A. B.",
+          "candidato": "Bruno Adrian Silva Costa",
+          "citacao_completa": "ISSICABA, D. ; AFFONSO, C. M.; CASTRO, J. F. C.; PESSANHA, J. E. O.; SILVA, M. G.; RODRIGUES, A. B.. Participação em banca de Bruno Adrian Silva Costa. Otimização da manutenção centrada na confiabilidade em redes de distribuição de energia elétrica: uma abordagem orientada a regulação baseada em desempenho. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Maranhão."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Feature Engineering using Harmonics Synchrophasors for Event Classification in Microgrids",
+          "membros": "MORAIS, A.; MACEDO JUNIOR, J. R.;",
+          "candidato": "Dionatan Augusto Guimarães Cieslak",
+          "citacao_completa": "MORAIS, A.; MACEDO JUNIOR, J. R.; . Participação em banca de Dionatan Augusto Guimarães Cieslak. Feature Engineering using Harmonics Synchrophasors for Event Classification in Microgrids. 2022. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Detecção de Faltas de Alta Impedância Considerando a Influência de Geração Conectada via Inversores de Frequência",
+          "membros": "LAZZARETTI, A. E.; COELHO, R. F.;",
+          "candidato": "Vitor Fernando Couto",
+          "citacao_completa": "LAZZARETTI, A. E.; COELHO, R. F.; . Participação em banca de Vitor Fernando Couto. Detecção de Faltas de Alta Impedância Considerando a Influência de Geração Conectada via Inversores de Frequência. 2021. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Um modelo de Bass modificado, baseado nas preferências individuais dos consumidores, para difusão de geração distribuída FV e análise estocástica em redes de BT",
+          "membros": "MACIEL, R. S.; LIMA, D. A.;",
+          "candidato": "Tiago Pires Abud",
+          "citacao_completa": "MACIEL, R. S.; LIMA, D. A.; . Participação em banca de Tiago Pires Abud. Um modelo de Bass modificado, baseado nas preferências individuais dos consumidores, para difusão de geração distribuída FV e análise estocástica em redes de BT. 2021. Exame de qualificação (Doutorando em Doutorado) - Universidade Federal Fluminense."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Avaliação de confiabilidade de sistemas elétricos multiáreas considerando a reserva operacional via entropia cruzada",
+          "membros": "; ; CARVALHO, L.;",
+          "candidato": "Pedro César Cordeiro Vieira",
+          "citacao_completa": "; ; CARVALHO, L.; . Participação em banca de Pedro César Cordeiro Vieira. Avaliação de confiabilidade de sistemas elétricos multiáreas considerando a reserva operacional via entropia cruzada. 2018. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An Optimization Framework to Estimate the Active and Reactive Power Flexibility in the TSO-DSO Interface",
+          "membros": "; MATOS, M.",
+          "candidato": "João Pedro Vasques Vieira da Silva",
+          "citacao_completa": "; MATOS, M.. Participação em banca de João Pedro Vasques Vieira da Silva. An Optimization Framework to Estimate the Active and Reactive Power Flexibility in the TSO-DSO Interface. 2018. Exame de qualificação (Doutorando em Programa Doutoral em Engenharia Electrotécnica e de Computadores) - Faculdade de Engenharia da Universidade do Porto."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Metodologia para Desenvolvimento de um Sistema Multiagente Autônomo e Distribuído para Automação de Redes de Distribuição de Energia",
+          "membros": "; NOGUEIRA, F.; LEAO, R. P. S.; BARROSO, G. C.",
+          "candidato": "Raimundo Furtado Sampaio",
+          "citacao_completa": "; NOGUEIRA, F.; LEAO, R. P. S.; BARROSO, G. C.. Participação em banca de Raimundo Furtado Sampaio. Metodologia para Desenvolvimento de um Sistema Multiagente Autônomo e Distribuído para Automação de Redes de Distribuição de Energia. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Desenvolvimento de um Modelo de Otimização para o Problema do Gerenciamento Energético de Microrredes",
+          "membros": "; LEITE, L. S. B. S.; RODRIGUES, R. N.; ; ;",
+          "candidato": "Daniel Tenfen",
+          "citacao_completa": "; LEITE, L. S. B. S.; RODRIGUES, R. N.; ; ; . Participação em banca de Daniel Tenfen. Desenvolvimento de um Modelo de Otimização para o Problema do Gerenciamento Energético de Microrredes. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Classificação e Predição da Estabilidade de Frequência via GNN e Interpretabilidade",
+          "membros": "AQUINO, A. F. C.; ; DOTTA, DANIEL",
+          "candidato": "Guilherme Pereira Albino da Silva",
+          "citacao_completa": "AQUINO, A. F. C.; ; DOTTA, DANIEL. Participação em banca de Guilherme Pereira Albino da Silva. Classificação e Predição da Estabilidade de Frequência via GNN e Interpretabilidade. 2024. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Desenvolvimento de Sistema para Detecção de Eventos em Tempo-Real utilizando Sincrofasores",
+          "membros": "; MORAES, G. R.; DOTTA, D.",
+          "candidato": "Gabriel Victor de Sousa Lopes",
+          "citacao_completa": "; MORAES, G. R.; DOTTA, D.. Participação em banca de Gabriel Victor de Sousa Lopes. Desenvolvimento de Sistema para Detecção de Eventos em Tempo-Real utilizando Sincrofasores. 2021. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".DESENVOLVIMENTO DE RELÉ DE PROTEÇÃO INTELIGENTE PARA SISTEMAS DE POTÊNCIA",
+          "membros": "SOUSA, F. R.; ISSICABA, D. ;",
+          "candidato": "Thiago Oliveira Rodrigues Almeida",
+          "citacao_completa": "SOUSA, F. R.; ISSICABA, D. ; . Participação em banca de Thiago Oliveira Rodrigues Almeida.DESENVOLVIMENTO DE RELÉ DE PROTEÇÃO INTELIGENTE PARA SISTEMAS DE POTÊNCIA. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Efeitos da Inércia Sintética no Desempenho da Regulação de Frequência do SIN",
+          "membros": "ISSICABA, D. ; MORAES, G. R.; AQUINO, A. F. C.",
+          "candidato": "Hugo Nobrega Raffi",
+          "citacao_completa": "ISSICABA, D. ; MORAES, G. R.; AQUINO, A. F. C.. Participação em banca de Hugo Nobrega Raffi.Efeitos da Inércia Sintética no Desempenho da Regulação de Frequência do SIN. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Análise comparativa de alternativas para avaliação da rede de distribuição de energia elétrica com utilização de religadores",
+          "membros": "ISSICABA, D. ; FERNANDES, F.; ; TONIAZZO, E.; SKORUPA, T.",
+          "candidato": "Bernardo Saraiva,",
+          "citacao_completa": "ISSICABA, D. ; FERNANDES, F.; ; TONIAZZO, E.; SKORUPA, T.. Participação em banca de Bernardo Saraiva,.Análise comparativa de alternativas para avaliação da rede de distribuição de energia elétrica com utilização de religadores. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Estimativa Online do Estatismo de Regime Permanente da Regulação de Velocidade a partir de dados de PMUs",
+          "membros": "; ANTUNES, V.",
+          "candidato": "João Pedro Schmitz de Souza",
+          "citacao_completa": "; ANTUNES, V.. Participação em banca de João Pedro Schmitz de Souza.Estimativa Online do Estatismo de Regime Permanente da Regulação de Velocidade a partir de dados de PMUs. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Análise de efeitos da expansão da geração renovável não convencional no desempenho do controle de frequência do Sistema Interligado Nacional",
+          "membros": "; MORAES, G. R.",
+          "candidato": "Giovane Faria de Souza",
+          "citacao_completa": "; MORAES, G. R.. Participação em banca de Giovane Faria de Souza.Análise de efeitos da expansão da geração renovável não convencional no desempenho do controle de frequência do Sistema Interligado Nacional. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise da evolução nos níveis de curto-circuito e superação de disjuntores nos barramentos do Sistema Interligado Nacional decorrentes à entrada em operação de um novo empreendimento de transmissão",
+          "membros": "; ; ; BOLACELL, G.; NUNES, J.",
+          "candidato": "Vitor Saldanha Salengue",
+          "citacao_completa": "; ; ; BOLACELL, G.; NUNES, J.. Participação em banca de Vitor Saldanha Salengue.Análise da evolução nos níveis de curto-circuito e superação de disjuntores nos barramentos do Sistema Interligado Nacional decorrentes à entrada em operação de um novo empreendimento de transmissão. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Sistemas CCAR em Configuração Multi-Infeed: Operação em Regime Normal e Durante Falhas de Comutação",
+          "membros": "; MOURINHO, F. A.; ; AQUINO, A. F. C.",
+          "candidato": "Henrique Pederneiras dos Guaranys",
+          "citacao_completa": "; MOURINHO, F. A.; ; AQUINO, A. F. C.. Participação em banca de Henrique Pederneiras dos Guaranys.Sistemas CCAR em Configuração Multi-Infeed: Operação em Regime Normal e Durante Falhas de Comutação. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Efeitos da Expansão da Microgeração Solar no Desempenho do Controle da Frequência Elétrica durante Perturbações",
+          "membros": "; MEDEIROS, A. D. R.",
+          "candidato": "Rafael Soares Gomes",
+          "citacao_completa": "; MEDEIROS, A. D. R.. Participação em banca de Rafael Soares Gomes.Efeitos da Expansão da Microgeração Solar no Desempenho do Controle da Frequência Elétrica durante Perturbações. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Sensoriamento Ótico da Tração Mecânica em Linhas de Transmissão",
+          "membros": "; AQUINO, A. F. C.",
+          "candidato": "Bernardo Boing Robl",
+          "citacao_completa": "; AQUINO, A. F. C.. Participação em banca de Bernardo Boing Robl.Sensoriamento Ótico da Tração Mecânica em Linhas de Transmissão. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Integração de uma Estação Meteorológica a um Sistema de Potência para o Suporte ao Monitoramento da Ampacidade de Uma Linha de Transmissão",
+          "membros": "; BOLACELL, G.; AQUINO, A. F. C.;",
+          "candidato": "Rafael Eduardo Graefling",
+          "citacao_completa": "; BOLACELL, G.; AQUINO, A. F. C.; . Participação em banca de Rafael Eduardo Graefling.Integração de uma Estação Meteorológica a um Sistema de Potência para o Suporte ao Monitoramento da Ampacidade de Uma Linha de Transmissão. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise do Desempenho do Controle da Frequência em Sistemas de Energia Elétrica da América do Sul",
+          "membros": "; AQUINO, A. F. C.; ; ZIMMER, V.",
+          "candidato": "Yasmin Dutra Lopes",
+          "citacao_completa": "; AQUINO, A. F. C.; ; ZIMMER, V.. Participação em banca de Yasmin Dutra Lopes.Análise do Desempenho do Controle da Frequência em Sistemas de Energia Elétrica da América do Sul. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Estudo do Impacto de Geração Distribuída Fotovoltaica em Pequenos Sistemas de Distribuição",
+          "membros": "; BOLACELL, G.; BREMERMANN, L. E.",
+          "candidato": "Luiza Aguiar Adam",
+          "citacao_completa": "; BOLACELL, G.; BREMERMANN, L. E.. Participação em banca de Luiza Aguiar Adam.Estudo do Impacto de Geração Distribuída Fotovoltaica em Pequenos Sistemas de Distribuição. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Dimensionamento de um Sistema Fotovoltaico Autônomo para Alimentação de um Dispositivo de Monitoramento de Parâmetros Elétricos em Linhas de Transmissão",
+          "membros": ";",
+          "candidato": "Hugo Guilherme Maestri",
+          "citacao_completa": "; . Participação em banca de Hugo Guilherme Maestri.Dimensionamento de um Sistema Fotovoltaico Autônomo para Alimentação de um Dispositivo de Monitoramento de Parâmetros Elétricos em Linhas de Transmissão. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Fluxo de Potência Estendido considerando Restrições de Intercâmbio",
+          "membros": "; MEDEIROS, A. D. R.; SALGADO, ROBERTO S.",
+          "candidato": "Fernanda Rippel Tonial",
+          "citacao_completa": "; MEDEIROS, A. D. R.; SALGADO, ROBERTO S.. Participação em banca de Fernanda Rippel Tonial.Fluxo de Potência Estendido considerando Restrições de Intercâmbio. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Transitórios Eletromagnéticos em Linhas de Transmissão: Sobretensões Induzidas por Descargas Atmosféricas",
+          "membros": "; CARES, C. M. B.; CARPES JUNIOR, W. P.; SALGADO, ROBERTO S.",
+          "candidato": "Rodrigo de Araujo de Miranda",
+          "citacao_completa": "; CARES, C. M. B.; CARPES JUNIOR, W. P.; SALGADO, ROBERTO S.. Participação em banca de Rodrigo de Araujo de Miranda.Transitórios Eletromagnéticos em Linhas de Transmissão: Sobretensões Induzidas por Descargas Atmosféricas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise das Políticas Públicas para Eletrificação Rural no Brasil: Resultados e Diretrizes",
+          "membros": "; BREMERMANN, L. E.; MADRUGA, K. C. R.",
+          "candidato": "Yuri Vandresen Pinto",
+          "citacao_completa": "; BREMERMANN, L. E.; MADRUGA, K. C. R.. Participação em banca de Yuri Vandresen Pinto.Análise das Políticas Públicas para Eletrificação Rural no Brasil: Resultados e Diretrizes. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estudo de Rotinas e de Técnicas de Programação Desenvolvidas para as Atividades da Pré-Operação de Sistemas de Energia Elétrica e seus Efeitos na Operação em Tempo Real",
+          "membros": "; ; ; FRANCISCO, R. P.",
+          "candidato": "Marcos Aurélio Paes Soares",
+          "citacao_completa": "; ; ; FRANCISCO, R. P.. Participação em banca de Marcos Aurélio Paes Soares.Estudo de Rotinas e de Técnicas de Programação Desenvolvidas para as Atividades da Pré-Operação de Sistemas de Energia Elétrica e seus Efeitos na Operação em Tempo Real. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise da Inserção da Medição Fasorial Sincronizada na Pós-Operação dos Sistemas de Energia Elétrica",
+          "membros": "; ; FRANCISCO, R. P.;",
+          "candidato": "Vitor Cassol",
+          "citacao_completa": "; ; FRANCISCO, R. P.; . Participação em banca de Vitor Cassol.Análise da Inserção da Medição Fasorial Sincronizada na Pós-Operação dos Sistemas de Energia Elétrica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Análise de alternativas para determinação do montante de reserva operacional em sistemas com geração variável",
+          "membros": "; ; ; BREMERMANN, L. E.",
+          "candidato": "Ricardo Miranda Cidral",
+          "citacao_completa": "; ; ; BREMERMANN, L. E.. Participação em banca de Ricardo Miranda Cidral.Análise de alternativas para determinação do montante de reserva operacional em sistemas com geração variável. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação da Reserva de Geração do Sistema Elétrico Brasileiro",
+          "membros": "; BREMERMANN, L. E.;",
+          "candidato": "Luiza Oliveira Coutinho de Azevedo",
+          "citacao_completa": "; BREMERMANN, L. E.; . Participação em banca de Luiza Oliveira Coutinho de Azevedo.Avaliação da Reserva de Geração do Sistema Elétrico Brasileiro. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação das reservas operacionais a subir e a descer frente ao aumento da geração eólica",
+          "membros": "; ;",
+          "candidato": "Bruno Geremias Cardoso",
+          "citacao_completa": "; ; . Participação em banca de Bruno Geremias Cardoso.Avaliação das reservas operacionais a subir e a descer frente ao aumento da geração eólica. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação do desperdício de energia renovável no subsistema sul brasileiro",
+          "membros": "; BREMERMANN, L. E.;",
+          "candidato": "Felipe Luiz do Nascimento",
+          "citacao_completa": "; BREMERMANN, L. E.; . Participação em banca de Felipe Luiz do Nascimento.Avaliação do desperdício de energia renovável no subsistema sul brasileiro. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação de perdas elétricas em redes rurais através da ferramenta de análise SAMPE",
+          "membros": "; BREMERMANN, L. E.;",
+          "candidato": "Guilherme Moreira de Figueiredo Silva",
+          "citacao_completa": "; BREMERMANN, L. E.; . Participação em banca de Guilherme Moreira de Figueiredo Silva.Avaliação de perdas elétricas em redes rurais através da ferramenta de análise SAMPE. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Monitoramento de Geração Distribuída em Sistemas de Distribuição mediante Testes Geométricos de Colinearidade",
+          "membros": "; ;",
+          "candidato": "Diogo Feltrin Pereira",
+          "citacao_completa": "; ; . Participação em banca de Diogo Feltrin Pereira.Monitoramento de Geração Distribuída em Sistemas de Distribuição mediante Testes Geométricos de Colinearidade. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": "S",
+          "membros": "; ; BENEDITO, R. A. S.",
+          "candidato": "Demétrios A",
+          "citacao_completa": "; ; BENEDITO, R. A. S.. Participação em banca de Demétrios A. S. Mazurok e Luis P. de Souza Ferreira.Análise de Estabilidade Rotórica e de Frequência em Sistemas Elétricos de Potência utilizando o Programa ANATEM: Simulações e Estudos de Casos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Metodologia para atribuir custos aos erros de previsão de geração e carga no contexto da reserva de potência operativa de longo prazo",
+          "membros": "; ;",
+          "candidato": "Franco Tumelero",
+          "citacao_completa": "; ; . Participação em banca de Franco Tumelero.Metodologia para atribuir custos aos erros de previsão de geração e carga no contexto da reserva de potência operativa de longo prazo. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Avaliação dos Ganhos Previstos em Confiabilidade em Subsistemas de Enegia Elétrica da Cidade de Curitiba Provenientes de Obras destinadas a Copa do Mundo FIFA 2014",
+          "membros": "; ; CASTAGNA, A. G.; FRITZEN, P. C.",
+          "candidato": "André Gustavo Weber",
+          "citacao_completa": "; ; CASTAGNA, A. G.; FRITZEN, P. C.. Participação em banca de André Gustavo Weber.Avaliação dos Ganhos Previstos em Confiabilidade em Subsistemas de Enegia Elétrica da Cidade de Curitiba Provenientes de Obras destinadas a Copa do Mundo FIFA 2014. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Caracterização de Pontos de Equilíbrio e Análise de Estabilidade de Ângulo de Rotor para Pequenas e Grandes Perturbações em Sistema Elétricos de Potência",
+          "membros": "; ; BENEDITO, R. A. S.",
+          "candidato": "Guilherme Brolin Gato",
+          "citacao_completa": "; ; BENEDITO, R. A. S.. Participação em banca de Guilherme Brolin Gato.Caracterização de Pontos de Equilíbrio e Análise de Estabilidade de Ângulo de Rotor para Pequenas e Grandes Perturbações em Sistema Elétricos de Potência. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desempenho Dinâmico e Projeto de Controladores para uma Microrrede Realística",
+          "membros": "; ;",
+          "candidato": "Tania Nalborczyk Leites",
+          "citacao_completa": "; ; . Participação em banca de Tania Nalborczyk Leites.Desempenho Dinâmico e Projeto de Controladores para uma Microrrede Realística. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Simulação e Análise de Cenários de Racionalização de Energia Elétrica em 2014: Impacto no Caixa das Distribuidoras",
+          "membros": "; ; ; HIRSCH, S.",
+          "candidato": "Diego Antonio Bosa, Renato Augusto Di Loreto",
+          "citacao_completa": "; ; ; HIRSCH, S.. Participação em banca de Diego Antonio Bosa, Renato Augusto Di Loreto.Simulação e Análise de Cenários de Racionalização de Energia Elétrica em 2014: Impacto no Caixa das Distribuidoras. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Integração de Dispositivos Eletrônicos Inteligentes ao Ambiente de Simulação Opnet Modeler",
+          "membros": "; BRANTE, G. G. O.;",
+          "candidato": "Claudir Ghelere Junior, Harrison Jorge Candido, Victor Gati",
+          "citacao_completa": "; BRANTE, G. G. O.; . Participação em banca de Claudir Ghelere Junior, Harrison Jorge Candido, Victor Gati.Integração de Dispositivos Eletrônicos Inteligentes ao Ambiente de Simulação Opnet Modeler. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Avaliação da Adequação do Sistema de Geração de Energia de Pequeno Porte de Santa Catarina",
+          "membros": "; BREMERMANN, L. E.;",
+          "candidato": "Jeovan Ricardo Kern",
+          "citacao_completa": "; BREMERMANN, L. E.; . Participação em banca de Jeovan Ricardo Kern.Avaliação da Adequação do Sistema de Geração de Energia de Pequeno Porte de Santa Catarina. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Análise Comparativa das Normas IEC 60909 e IEEE Std 551 para Cálculos de Curto-Circuito em Instalações Industriais",
+          "membros": "; SALGADO, R. S.; ; BREMERMANN, L. E.",
+          "candidato": "Rafael Gousen Cunha",
+          "citacao_completa": "; SALGADO, R. S.; ; BREMERMANN, L. E.. Participação em banca de Rafael Gousen Cunha.Análise Comparativa das Normas IEC 60909 e IEEE Std 551 para Cálculos de Curto-Circuito em Instalações Industriais. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Avaliação da Confiabilidade do Sistema Elétrico de uma Plataforma Petrolífera Offshore Usando Simulação de Monte Carlo",
+          "membros": "; HELDWEIN, M. L.; ;",
+          "candidato": "Vítor Scarpari Citadin",
+          "citacao_completa": "; HELDWEIN, M. L.; ; . Participação em banca de Vítor Scarpari Citadin.Avaliação da Confiabilidade do Sistema Elétrico de uma Plataforma Petrolífera Offshore Usando Simulação de Monte Carlo. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Evaluatión Del Impacto a Largo Prazo de la Utilización de Sistemas de Corte de Carga en Redes de Distribuición con Operación en Isla de Geración Distribuida",
+          "membros": "; ; CAMARGO, C. B.;",
+          "candidato": "Jorge Lema Vidal",
+          "citacao_completa": "; ; CAMARGO, C. B.; . Participação em banca de Jorge Lema Vidal.Evaluatión Del Impacto a Largo Prazo de la Utilización de Sistemas de Corte de Carga en Redes de Distribuición con Operación en Isla de Geración Distribuida. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Monitoração dos Status de Fontes Ativas de Geração Distribuída através de Testes de Hipóteses",
+          "membros": "; SOUZA, A. T.;",
+          "candidato": "Jean Luca Colombo",
+          "citacao_completa": "; SOUZA, A. T.; . Participação em banca de Jean Luca Colombo.Monitoração dos Status de Fontes Ativas de Geração Distribuída através de Testes de Hipóteses. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "; GUIMARAES, J. G.; FRAIDENRAICH, G.; YOUSSEF, E. S. E.; ; COUTINHO, B. R.. Edital 044/DDP/2015 - Área/subárea de conhec",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; GUIMARAES, J. G.; FRAIDENRAICH, G.; YOUSSEF, E. S. E.; ; COUTINHO, B. R.. Edital 044/DDP/2015 - Área/subárea de conhecimento: Engenharia Elétrica/Máquinas Elétricas e Dispositivos de Potência (Membro Suplente Externo). 2015. Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "TORTELLI, O. L.; ROMANELI, E. F. R.; VILELA JUNIOR, J. A.; MATIOLI, L. C.; BENEDITO, R. A. S.; FRITZEN, P. C.; FERNANDES",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "TORTELLI, O. L.; ROMANELI, E. F. R.; VILELA JUNIOR, J. A.; MATIOLI, L. C.; BENEDITO, R. A. S.; FRITZEN, P. C.; FERNANDES, T. S. P.; KUIAVA, R.; SANTOS, S. R.; . Edital 24/2015-TC/Dir - Área: Eletrotécnica/Máquinas elétricas (Membro Suplente Externo). 2015. Universidade Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "GARCIA, L. M.; ; COSTA, E. J. C. G.; WOEHL, O. M.; FONSECA, M. S. P.; BANIN, E. S.; CALDO, C. O.; FURUCHO, M. A. A.. Por",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "GARCIA, L. M.; ; COSTA, E. J. C. G.; WOEHL, O. M.; FONSECA, M. S. P.; BANIN, E. S.; CALDO, C. O.; FURUCHO, M. A. A.. Portaria 381/2015 - Comissão permanente para análise de documentação comprobatória de renda de candidatos cotistas do SISU. 2015. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2015,
+          "titulo": "BARAO, D. L. D.; ; FURUCHO, M. A. A.; ; CAVALIN, G.; WOLFF, G.; BORN, I.; FRITZEN, P. C.. Portaria 206/2015 - Comissão e",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BARAO, D. L. D.; ; FURUCHO, M. A. A.; ; CAVALIN, G.; WOLFF, G.; BORN, I.; FRITZEN, P. C.. Portaria 206/2015 - Comissão encarregada da organização e realização das eleições para os colegiados de cursos e para conselho departamental do DAELT. 2015. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

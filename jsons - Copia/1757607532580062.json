@@ -1,0 +1,192 @@
+{
+  "name": "Laercio Pioli Junior",
+  "lattes_id": "1757607532580062",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "PIOLI, LAERCIO ; DE MACEDO, DOUGLAS D. J. ; COSTA, DANIEL G. ; DANTAS, MARIO A. R. . Intelligent Data Reduction for IoT: A Context-Driven Framework. IEEE Access , v. 13, p. 117500-117520, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3586539"
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO ; DE MACEDO, DOUGLAS D. J. ; COSTA, DANIEL G. ; DANTAS, MARIO A. R. . Intelligent Edge-powered Data Reduction: A Systematic Literature Review. ACM COMPUTING SURVEYS , v. 56, p. 1-39, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1145/3656338"
+        },
+        {
+          "texto": "PIOLI, LAERCIO ; DE MACEDO, DOUGLAS D. J. ; COSTA, DANIEL G. ; DANTAS, MARIO A. R. . Towards an AI-Driven Data Reduction Framework for Smart City Applications. SENSORS , v. 24, p. 358, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.3390/s24020358"
+        },
+        {
+          "texto": "DE MORAES, ANDRÉ LUIZ S. ; DE MACEDO, DOUGLAS D.J. ; PIOLI, LAÉRCIO . Video streaming on fog and edge computing layers: A systematic mapping study. Internet Of Things , v. 28, p. 101359, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.iot.2024.101359"
+        },
+        {
+          "texto": "SEMBAY, MÁRCIO JOSÉ ; DE MACEDO, DOUGLAS DYLLON JERONIMO ; JÚNIOR, LAÉRCIO PIOLI ; BRAGA, REGINA MARIA MACIEL ; SARASA-CABEZUELO, ANTONIO . Provenance Data Management in Health Information Systems: A Systematic Literature Review. Journal Of Personalized Medicine , v. 13, p. 991, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/jpm13060991"
+        },
+        {
+          "texto": "PIOLI, LAERCIO ; STRÖELE, VICTOR ; DANTAS, MARIO A.R. . An effort to characterise enhancements I/O of storage environments. International Journal Of Grid And Utility Computing , v. 14, p. 51, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1504/ijguc.2023.129704"
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO ; DORNELES, CARINA F. ; DE MACEDO, DOUGLAS D. J. ; DANTAS, MARIO A. R. . An overview of data reduction solutions at the edge of IoT systems: a systematic mapping of the literature. COMPUTING , v. 1, p. 1, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s00607-022-01073-6"
+        },
+        {
+          "texto": "OLINGER, MARCELO SALLES ; DE ARAÚJO, GUSTAVO MEDEIROS ; DUTRA, MOISÉS LIMA ; SILVA, HUGO A. M. DA ; JÚNIOR, LAÉRCIO PIOLI ; DE MACEDO, DOUGLAS D. J. . Metamodel Development to Predict Thermal Loads for Single-family Residential Buildings. MOBILE NETWORKS AND APPLICATIONS , v. 1, p. 1-10, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/s11036-022-01968-w"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "Martins, Victoria B. ; DE MACEDO, DOUGLAS D. J. ; PIOLI, LAÉRCIO ; Immich, Roger . A Cluster Formation Algorithm for Fog Architectures Based on Mobility Parameters at a Geographically LAN Perspective. A Cluster Formation Algorithm for Fog Architectures Based on Mobility Parameters at a Geographically LAN Perspective. 571ed.: Lecture Notes in Networks and Systems, Springer, 2023, v. 571, p. 25-36.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-19945-5_3"
+        },
+        {
+          "texto": "Lautert, Henrique Fell ; Macedo, Douglas D. J. de ; PIOLI, LAÉRCIO . Micro IDS: On-Line Recognition of Denial-of-Service Attacks on IoT Networks. Lecture Notes in Networks and Systems. 37ed.: Springer International Publishing, 2023, v. 661, p. 446-459.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-29056-5_39"
+        },
+        {
+          "texto": "Decamps, Marceau ; Meháut, Jean-Francois ; Vidal, Vinicius ; Honorio, Leonardo ; PIOLI, LAÉRCIO ; DANTAS, MARIO A. R. . An Implementation Science Effort in a Heterogenous Edge Computing Platform to Support a Case Study of a Virtual Scenario Application. Lecture Notes in Networks and Systems. 158ed.: Springer International Publishing, 2021, v. , p. 136-147.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-61105-7_14"
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO ; de Andrade Menezes, Victor Ströele ; Dantas, Mario Antonio Ribeiro . Research Characterization on I/O Improvements of Storage Environments. Lecture Notes in Networks and Systems. 96ed.: Springer International Publishing, 2020, v. , p. 287-298.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-33509-0_26"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "PIOLI, L. ; Douglas D. J. de Macedo ; COSTA, DANIEL G. ; DANTAS, MARIO A. R. . Optimizing Data Quality and Decision-Making in IoT with AI-Driven Data Reduction in DICOM. In: 17th IEEE/ACM International Conference on Utility and Cloud Computing (UCC 2024), 2025, Sharjah. Proceedings of 17th IEEE/ACM International Conference on Utility and Cloud Computing, 2024. v. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/UCC63386.2024.00016"
+        },
+        {
+          "texto": "BOTELHO MARTINS, VICTORIA ; MACEDO, DOUGLAS ; PIOLI JUNIOR, LAERCIO . Exploring Architectural Strategies for Mobility Experimentation: A Simulation-Based Study. In: SAC '24: 39th ACM/SIGAPP Symposium on Applied Computing, 2024, Avila Spain. Proceedings of the 39th ACM/SIGAPP Symposium on Applied Computing. p. 1749.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1145/3605098.3635933"
+        },
+        {
+          "texto": "FELL LAUTERT, HENRIQUE ; PIOLI, LAÉRCIO ; Macedo, Douglas D. J. de . Recognition of Denial-of-Service Attacks in IoT Networks with Linear Complexity Model. In: UCC '23: IEEE/ACM 16th International Conference on Utility and Cloud Computing, 2023, Taormina (Messina) Italy. Proceedings of the IEEE/ACM 16th International Conference on Utility and Cloud Computing. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1145/3603166.3632145"
+        },
+        {
+          "texto": "PIOLI, L. ; THOME, T. G. ; NUNES, J. X. M. ; MACEDO, D. D. J. ; LIMA JUNIOR, P. C. R. ; . A Scientific Model to Support Industrial Data Management Process Using Virtualized Environments. In: In: The 16th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), 2021, Fukuoka. Proceedings of The 16th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC), 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SCHARDONG, F. ; CUSTODIO, R. ; PIOLI, LAÉRCIO ; MEYER, J. . Matching Metadata on Blockchain for Self-Sovereign Identity. In: International Conference on Business Process Management, 2021. BPM 2021: Business Process Management Workshops.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MAGALHAES, N. M. ; ARAUJO, M. A. P. ; DAVID, J. M. N. ; PIOLI, L. ; . Suporte às atividades de manutenção de software em bases de dados abertas e distribuídas. In: (WSCAD), 2020. XXI Simpósio em Sistemas Computacionais de Alto Desempenho, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, L. ; ; MACEDO, D. D. J. ; STROELE, V. ; DAVID, J. M. N. ; MEHAUT, J. ; . Characterization Research on I/O Improvements Targeting DISC and HPC Applications. In: (IECON), 2020, Singapure. 46th Annual Conference of the IEEE Industrial Electronics Society (IECON), 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BRESSAN, L. P. ; PIOLI, L. ; ; CAMPOS, F. C. A. ; OLIVEIRA, A. L. . An Approach to Support the Design and the Dependability Analysis of High Performance I/O Intensive Distributed Systems. In: (3PGCIC), 2020, Japan. The 15th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BADAT, L. ; VIDAL, V. ; PIOLI, L. ; MEHAUT, J. ; HONORIO, L. ; . An IIoT Edge Environment as a Main Support to a 3D Reconstruction Virtualization Application. In: (WCGA 2020), 2020. XVIII WORKSHOP ON CLOUDS AND APPLICATIONS (WCGA 2020).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "PIOLI, LAÉRCIO . INESCTEC Meet UP at VCMI lab. 2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, L. ; ; ; . The 1st R-CCS International Symposium. An analysis of Energy-Aware in HPC Environments Including Grid'5000 in France. 2019. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . International Conference on P2P, Parallel, Grid, Cloud and Internet Computing. 2019. (Apresentação de Trabalho/Outra).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . The 3rd RIKEN-RCCS HPC Youth Workshop. 2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à Simpósio em Sistemas Computacionais de Alto Desempenho (SSCAD 2025). 2025. (Avaliação de artigo científico).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à IEEE Symposium on Computers and Communications (ISCC 2024). 2024. (Avaliação de artigo científico).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à IEEE Symposium on Computers and Communications (ISCC 2022).. 2022. (Avaliação de artigo científico).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à International Symposium on Intelligent and Distributed Computing (IDC 2022). 2022. (Avaliação de artigo científico).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à EAI International Conference on Data and Information in Online Environments (DIONE 2021). 2021. (Avaliação de artigo científico).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à Congresso Brasileiro de Inteligência Computacional (CBIC). 2021. (Avaliação de artigo científico).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PIOLI, LAÉRCIO . Revisão de artigo submetido à IEEE Industrial Electronics Society (IECON 2020). 2020. (Avaliação de artigo científico).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

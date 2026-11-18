@@ -1,0 +1,1580 @@
+{
+  "name": "Gustavo Marchesan",
+  "lattes_id": "4254867243649147",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2027,
+          "titulo": "Analytical formulation for the nondetection zones of inverter-based distributed generators with grid support functions",
+          "autores": "ISCUISSATI, RODRIGO DE B. ; SIQUEIRA, VITOR F.B. DE F. ; MOTTER, DANIEL ; VIEIRA, JOSÉ CARLOS M. ; MARCHESAN, GUSTAVO",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 264, p. 113843, 2027.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113843",
+          "citacao_completa": "ISCUISSATI, RODRIGO DE B. ; SIQUEIRA, VITOR F.B. DE F. ; MOTTER, DANIEL ; VIEIRA, JOSÉ CARLOS M. ; MARCHESAN, GUSTAVO . Analytical formulation for the nondetection zones of inverter-based distributed generators with grid support functions. ELECTRIC POWER SYSTEMS RESEARCH , v. 264, p. 113843, 2027."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Optimization of Isolated Microgrid Sizing Considering the Trade-Off Between Costs and Power Supply Reliability",
+          "autores": "RAMOS, CAISON ; MARCHESAN, GUSTAVO ; CARDOSO, GHENDY ; DAL FORNO, IGOR ; MROGINSKI, TIAGO PITOL ; ARAÚJO, OLINTO ; COSTA, WELISSON ; GADELHA, RODRIGO ; BATISTA, VITOR ; LEÃO, ANDRÉ P. ; VIEIRA, JOÃO PAULO ; DE CAMPOS, EDUARDO ; BARROSO, CAIO ; RESENER, MARIANA",
+          "periodico": "Energies , v. 19, p. 195, 2026.",
+          "doi": "http://dx.doi.org/10.3390/en19010195",
+          "citacao_completa": "RAMOS, CAISON ; MARCHESAN, GUSTAVO ; CARDOSO, GHENDY ; DAL FORNO, IGOR ; MROGINSKI, TIAGO PITOL ; ARAÚJO, OLINTO ; COSTA, WELISSON ; GADELHA, RODRIGO ; BATISTA, VITOR ; LEÃO, ANDRÉ P. ; VIEIRA, JOÃO PAULO ; DE CAMPOS, EDUARDO ; BARROSO, CAIO ; RESENER, MARIANA . Optimization of Isolated Microgrid Sizing Considering the Trade-Off Between Costs and Power Supply Reliability. Energies , v. 19, p. 195, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Three-Phase-Two-Wire Rural Distribution System Planning: Load Phase Distribution for Minimum Voltage Unbalance",
+          "autores": "; ; MARCHESAN, G.",
+          "periodico": "IEEE TRANSACTIONS ON POWER DELIVERY , p. 1-11, 2025.",
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2025.3568700",
+          "citacao_completa": "; ; MARCHESAN, G. . Three-Phase-Two-Wire Rural Distribution System Planning: Load Phase Distribution for Minimum Voltage Unbalance. IEEE TRANSACTIONS ON POWER DELIVERY , p. 1-11, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Impacts of output voltage control on PV generation islanding detection function",
+          "autores": "RAMOS, CAISON R. ; ZORZELA, GABRIELA C. ; MARCHESAN, GUSTAVO ; FREITAS-GUTIERRES, LUIZ F. ; CARDOSO, GHENDY",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110897, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110897",
+          "citacao_completa": "RAMOS, CAISON R. ; ZORZELA, GABRIELA C. ; MARCHESAN, GUSTAVO ; FREITAS-GUTIERRES, LUIZ F. ; CARDOSO, GHENDY . Impacts of output voltage control on PV generation islanding detection function. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110897, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Reactive compensation in distribution systems and volt/var control analysis: Mutual performance of inverters and curve slope effects",
+          "autores": "; ; MARCHESAN, G. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110848, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110848",
+          "citacao_completa": "; ; MARCHESAN, G. ; . Reactive compensation in distribution systems and volt/var control analysis: Mutual performance of inverters and curve slope effects. ELECTRIC POWER SYSTEMS RESEARCH , v. 236, p. 110848, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A new approach for mitigating voltage unbalance in a three-phase two-wire rural distribution network",
+          "autores": "SILVEIRA, L.F. ; MARTINS, M.S. ; KRÄULICH, L. ; DOS SANTOS, L.F.S ; CARDOSO, G. ; OLIVEIRA, A.L. ; MARCHESAN, G.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 237, p. 111042, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.111042",
+          "citacao_completa": "SILVEIRA, L.F. ; MARTINS, M.S. ; KRÄULICH, L. ; DOS SANTOS, L.F.S ; CARDOSO, G. ; OLIVEIRA, A.L. ; MARCHESAN, G. . A new approach for mitigating voltage unbalance in a three-phase two-wire rural distribution network. ELECTRIC POWER SYSTEMS RESEARCH , v. 237, p. 111042, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Metaheuristic for the Allocation and Sizing of PV-STATCOMs for Ancillary Service Provision",
+          "autores": "ALVES, ZEDEQUIAS MACHADO ; ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY",
+          "periodico": "Energies , v. 16, p. 424, 2023.",
+          "doi": "http://dx.doi.org/10.3390/en16010424",
+          "citacao_completa": "ALVES, ZEDEQUIAS MACHADO ; ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY . Metaheuristic for the Allocation and Sizing of PV-STATCOMs for Ancillary Service Provision. Energies , v. 16, p. 424, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Ground and phase fault classification for half-wavelength transmission lines relaying purposes",
+          "autores": "ZANIN BERTOLETTI, AUGUSTO ; CARDOSO, GHENDY ; ; MARCHESAN, GUSTAVO ; CAMPOS DO PRADO, JOSUE",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 148, p. 108966, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2023.108966",
+          "citacao_completa": "ZANIN BERTOLETTI, AUGUSTO ; CARDOSO, GHENDY ; ; MARCHESAN, GUSTAVO ; CAMPOS DO PRADO, JOSUE . Ground and phase fault classification for half-wavelength transmission lines relaying purposes. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 148, p. 108966, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A logistic regression approach for improved safety of the under-frequency load shedding scheme owing to feeder machine inertia",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 218, p. 1, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109189",
+          "citacao_completa": "; MARCHESAN, G. ; . A logistic regression approach for improved safety of the under-frequency load shedding scheme owing to feeder machine inertia. ELECTRIC POWER SYSTEMS RESEARCH , v. 218, p. 1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "SOLUÇÕES PARA MELHORAR A QUALIDADE DE ENERGIA DE SISTEMAS HÍBRIDOS FOTOVOLTAICO-DIESEL",
+          "autores": "FERREIRA, FABIANO SANTOS ; MARCHESAN, GUSTAVO ;",
+          "periodico": "CONTEMPORÂNEA - REVISTA DE ÉTICA E FILOSOFIA POLÍTICA , v. 3, p. 249-269, 2023.",
+          "doi": "http://dx.doi.org/10.56083/rcv3n1-016",
+          "citacao_completa": "FERREIRA, FABIANO SANTOS ; MARCHESAN, GUSTAVO ; . SOLUÇÕES PARA MELHORAR A QUALIDADE DE ENERGIA DE SISTEMAS HÍBRIDOS FOTOVOLTAICO-DIESEL. CONTEMPORÂNEA - REVISTA DE ÉTICA E FILOSOFIA POLÍTICA , v. 3, p. 249-269, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Cost analysis for transforming rural electrical distribution networks into three-phase: Three-phase two-wire versus conventional three-phase",
+          "autores": "KRÄULICH, L. ; MARCHESAN, G. ; CARDOSO, G. ; OLIVEIRA, A.L. ; MARTINS, M.S. ; SILVEIRA, L.F.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 225, p. 109854, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109854",
+          "citacao_completa": "KRÄULICH, L. ; MARCHESAN, G. ; CARDOSO, G. ; OLIVEIRA, A.L. ; MARTINS, M.S. ; SILVEIRA, L.F. . Cost analysis for transforming rural electrical distribution networks into three-phase: Three-phase two-wire versus conventional three-phase. ELECTRIC POWER SYSTEMS RESEARCH , v. 225, p. 109854, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Rate of Change of Active Power as a Power Swing Blocking Function of Distance Relays",
+          "autores": "MARCHESAN, GUSTAVO ; LAZARO, CARLOS ; CARDOSO JUNIOR, GHENDY ; FREITAS-GUTIERRES, LUIZ FERNANDO ; PERES DE MORAIS, ADRIANO",
+          "periodico": "IEEE Latin America Transactions , v. 20, p. 259-268, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tla.2022.9661465",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; LAZARO, CARLOS ; CARDOSO JUNIOR, GHENDY ; FREITAS-GUTIERRES, LUIZ FERNANDO ; PERES DE MORAIS, ADRIANO . Rate of Change of Active Power as a Power Swing Blocking Function of Distance Relays. IEEE Latin America Transactions , v. 20, p. 259-268, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Three-phase-two-wire rural distribution network: influence of design characteristics on voltage unbalance",
+          "autores": "MARCHESAN, G. ; OLIVEIRA, A.L. ; ; RAMOS, D. B. ; KRAULICH, L. ; MAZORRANI, L. ; SILVEIRA, LEONARDO DE FREITAS",
+          "periodico": "IEEE TRANSACTIONS ON POWER DELIVERY , p. 1-11, 2022.",
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2022.3196602",
+          "citacao_completa": "MARCHESAN, G. ; OLIVEIRA, A.L. ; ; RAMOS, D. B. ; KRAULICH, L. ; MAZORRANI, L. ; SILVEIRA, LEONARDO DE FREITAS . Three-phase-two-wire rural distribution network: influence of design characteristics on voltage unbalance. IEEE TRANSACTIONS ON POWER DELIVERY , p. 1-11, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Passive Islanding Detection Based on Angular Velocity Harmonic Patterns with Perceptron Neural Network",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "IEEE Latin America Transactions , v. 19, p. 1665-1673, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2021.9477269",
+          "citacao_completa": "; MARCHESAN, G. ; . Passive Islanding Detection Based on Angular Velocity Harmonic Patterns with Perceptron Neural Network. IEEE Latin America Transactions , v. 19, p. 1665-1673, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "An underfrequency load shedding scheme for high dependability and security tolerant to induction motors dynamics-",
+          "autores": "; MARCHESAN, G. ; ; BORGES, ADRIANO",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 196, p. 107217, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107217",
+          "citacao_completa": "; MARCHESAN, G. ; ; BORGES, ADRIANO . An underfrequency load shedding scheme for high dependability and security tolerant to induction motors dynamics-. ELECTRIC POWER SYSTEMS RESEARCH , v. 196, p. 107217, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Distributed Synchronous generation ride-through enhancement by anti-islanding protection blocking",
+          "autores": "MARCHESAN, G. ; ; ; de Morais, Adriano P. ; MURARO, MATIAS R.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 196, p. 107232, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107232",
+          "citacao_completa": "MARCHESAN, G. ; ; ; de Morais, Adriano P. ; MURARO, MATIAS R. . Distributed Synchronous generation ride-through enhancement by anti-islanding protection blocking. ELECTRIC POWER SYSTEMS RESEARCH , v. 196, p. 107232, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A morphological approach for turn-to-turn fault detection in synchronous split-phase generators",
+          "autores": "SARTORI, A. F. ; ; ; ; MARCHESAN, G.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107555",
+          "citacao_completa": "SARTORI, A. F. ; ; ; ; MARCHESAN, G. . A morphological approach for turn-to-turn fault detection in synchronous split-phase generators. ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A multi-agent approach to distribution system fault section estimation in smart grid environment",
+          "autores": "COSTA, GUILHERME B. ; DAMIANI, JULIANO S. ; MARCHESAN, GUSTAVO ; MORAIS, ADRIANO P. ; BRETAS, ARTURO S. ; CARDOSO JR., GHENDY",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. -, p. 107658, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107658",
+          "citacao_completa": "COSTA, GUILHERME B. ; DAMIANI, JULIANO S. ; MARCHESAN, GUSTAVO ; MORAIS, ADRIANO P. ; BRETAS, ARTURO S. ; CARDOSO JR., GHENDY . A multi-agent approach to distribution system fault section estimation in smart grid environment. ELECTRIC POWER SYSTEMS RESEARCH , v. -, p. 107658, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Power Factor in Distributed Generation Installations: A Case Study and Critical Analysis",
+          "autores": "ALVES, ZEDEQUIAS MACHADO ; CUNICO, LUCAS MONDARDO ; KROTH, GEÓVIO ; ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. -, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00801-1",
+          "citacao_completa": "ALVES, ZEDEQUIAS MACHADO ; CUNICO, LUCAS MONDARDO ; KROTH, GEÓVIO ; ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO . Power Factor in Distributed Generation Installations: A Case Study and Critical Analysis. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. -, 2021."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Waveform asymmetry of instantaneous current signal based symmetrical fault detection during power swing",
+          "autores": "LAZARO, C. ; MARQUES, J.P. ; MARCHESAN, G. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 155, p. 340-349, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.11.005",
+          "citacao_completa": "LAZARO, C. ; MARQUES, J.P. ; MARCHESAN, G. ; . Waveform asymmetry of instantaneous current signal based symmetrical fault detection during power swing. ELECTRIC POWER SYSTEMS RESEARCH , v. 155, p. 340-349, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A continually online trained impedance estimation algorithm for transmission line distance protection tolerant to system frequency deviation",
+          "autores": "LANA DA SILVA, CHRYSTIAN DALLA ; CARDOSO, GHENDY ; ; MARCHESAN, GUSTAVO ; KAEHLER GUARDA, FERNANDO GUILHERME",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 147, p. 73-80, 2017.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.02.023",
+          "citacao_completa": "LANA DA SILVA, CHRYSTIAN DALLA ; CARDOSO, GHENDY ; ; MARCHESAN, GUSTAVO ; KAEHLER GUARDA, FERNANDO GUILHERME . A continually online trained impedance estimation algorithm for transmission line distance protection tolerant to system frequency deviation. ELECTRIC POWER SYSTEMS RESEARCH , v. 147, p. 73-80, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Method for distributed generation anti-islanding protection based on singular value decomposition and linear discrimination analysis",
+          "autores": "MARCHESAN, G. ; MURARO, M.R. ; CARDOSO, G. ; MARIOTTO, L. ; DA SILVA, C.D.L.",
+          "periodico": "Electric Power Systems Research (Print) , v. 130, p. 124-131, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2015.08.025",
+          "citacao_completa": "MARCHESAN, G. ; MURARO, M.R. ; CARDOSO, G. ; MARIOTTO, L. ; DA SILVA, C.D.L. . Method for distributed generation anti-islanding protection based on singular value decomposition and linear discrimination analysis. Electric Power Systems Research (Print) , v. 130, p. 124-131, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Passive Method for Distributed Generation Island Detection Based on Oscillation Frequency",
+          "autores": "MARCHESAN, GUSTAVO ; MURARO, MATIAS ; CARDOSO JUNIOR, GHENDY ; MARIOTTO, LENOIS ;",
+          "periodico": "IEEE TRANSACTIONS ON POWER DELIVERY , v. pp, p. 1-1, 2015.",
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2015.2438251",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; MURARO, MATIAS ; CARDOSO JUNIOR, GHENDY ; MARIOTTO, LENOIS ; . Passive Method for Distributed Generation Island Detection Based on Oscillation Frequency. IEEE TRANSACTIONS ON POWER DELIVERY , v. pp, p. 1-1, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Phasor estimation in power systems using a neural network with online training for numerical relays purposes",
+          "autores": "DA SILVA, CHRYSTIAN DALLA LANA ; MARIOTTO, LENOIS ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY",
+          "periodico": "IET Science, Measurement & Technology (Print) , v. pp, p. 1-6, 2015.",
+          "doi": "http://dx.doi.org/10.1049/iet-smt.2014.0312",
+          "citacao_completa": "DA SILVA, CHRYSTIAN DALLA LANA ; MARIOTTO, LENOIS ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY . Phasor estimation in power systems using a neural network with online training for numerical relays purposes. IET Science, Measurement & Technology (Print) , v. pp, p. 1-6, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Power system frequency estimation using morphological prediction of Clarke components",
+          "autores": "DOS SANTOS, E.M. ; NETO, J.P. JUCHEM ; MARCHESAN, G. ; CARDOSO, G.",
+          "periodico": "Electric Power Systems Research (Print) , v. 122, p. 208-217, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2015.01.012",
+          "citacao_completa": "DOS SANTOS, E.M. ; NETO, J.P. JUCHEM ; MARCHESAN, G. ; CARDOSO, G. . Power system frequency estimation using morphological prediction of Clarke components. Electric Power Systems Research (Print) , v. 122, p. 208-217, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A morphological filtering algorithm for fault detection in transmission lines during power swings",
+          "autores": "MORAIS, A.P. ; CARDOSO, G. ; MARIOTTO, L. ; MARCHESAN, G.",
+          "periodico": "Electric Power Systems Research (Print) , v. 122, p. 10-18, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.12.009",
+          "citacao_completa": "MORAIS, A.P. ; CARDOSO, G. ; MARIOTTO, L. ; MARCHESAN, G. . A morphological filtering algorithm for fault detection in transmission lines during power swings. Electric Power Systems Research (Print) , v. 122, p. 10-18, 2015."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Frequency Tracking Algorithms: A Contribution Considering Phase Unbalance, Step Variations, Noise, Harmonics, and Different Sampling Rates",
+          "autores": "MARCHESAN, GUSTAVO ; SANTOS, EDUARDO M. ; CARDOSO, GHENDY ; GOMES, NATANAEL R. ; MARIOTTO, LENOIS",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. -, 2013.",
+          "doi": "http://dx.doi.org/10.1007/s40313-013-0037-y",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; SANTOS, EDUARDO M. ; CARDOSO, GHENDY ; GOMES, NATANAEL R. ; MARIOTTO, LENOIS . Frequency Tracking Algorithms: A Contribution Considering Phase Unbalance, Step Variations, Noise, Harmonics, and Different Sampling Rates. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. -, 2013."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "UMA REVISÃO SOBRE AS TÉCNICAS DE PROCESSAMENTO DE SINAL E CLASSIFICADORES INTELIGENTES UTILIZADOS PARA A DETECÇÃO DE ILHAMENTO NA GERAÇÃO DISTRIBUÍDA EM REDES DE DISTRIBUIÇÃO",
+          "autores": "; Júnior, Ghendy Cardoso ; MARCHESAN, GUSTAVO ; Ribeiro, Júlio Cesar ; Militão, Júlio Sancho Linhares Teixeira ; Militão, Hebert Sancho Linhares Garcez ; Oliveira, Paulo de Tarso Carvalho de ; Silva, Inarê Roberto Rodrigues Poeta e",
+          "periodico": "Engenharias: Metodologias e Práticas de Caráter Multidisciplinar 3. : Atena Editora, 2021, v. , p. 136-189.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.93921160312",
+          "citacao_completa": "; Júnior, Ghendy Cardoso ; MARCHESAN, GUSTAVO ; Ribeiro, Júlio Cesar ; Militão, Júlio Sancho Linhares Teixeira ; Militão, Hebert Sancho Linhares Garcez ; Oliveira, Paulo de Tarso Carvalho de ; Silva, Inarê Roberto Rodrigues Poeta e . UMA REVISÃO SOBRE AS TÉCNICAS DE PROCESSAMENTO DE SINAL E CLASSIFICADORES INTELIGENTES UTILIZADOS PARA A DETECÇÃO DE ILHAMENTO NA GERAÇÃO DISTRIBUÍDA EM REDES DE DISTRIBUIÇÃO. Engenharias: Metodologias e Práticas de Caráter Multidisciplinar 3. : Atena Editora, 2021, v. , p. 136-189."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Desenvolvimento de um algoritmo para uma estação meteorológica online para suporte ao gerenciamento uma microrrede fotovoltaica isolada 100% renovável com armazenamento de energia exclusivo em hidrogênio verde para atendimento contínuo de uma carga",
+          "autores": "GADELHA, R. B. ; VIEIRA, J. P. A. ; LEAO, A. P. ; COSTA, W. L. A. ; BATISTA, V. S. ; ; G. Marchesan ; ; FORNO, I. L. D.",
+          "periodico": "In: XIV Simpósio de Automação de Sistemas Elétricos ? SIMPASE, 2025. Anais do XIV Simpósio de Automação de Sistemas Elétricos ? SIMPASE, 2025.",
+          "doi": "",
+          "citacao_completa": "GADELHA, R. B. ; VIEIRA, J. P. A. ; LEAO, A. P. ; COSTA, W. L. A. ; BATISTA, V. S. ; ; G. Marchesan ; ; FORNO, I. L. D. . Desenvolvimento de um algoritmo para uma estação meteorológica online para suporte ao gerenciamento uma microrrede fotovoltaica isolada 100% renovável com armazenamento de energia exclusivo em hidrogênio verde para atendimento contínuo de uma carga. In: XIV Simpósio de Automação de Sistemas Elétricos ? SIMPASE, 2025. Anais do XIV Simpósio de Automação de Sistemas Elétricos ? SIMPASE, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Previsão de carga e despacho econômico de uma microrrede isolada por meio de Redes Neurais e Programação Linear.",
+          "autores": "MROGINSKI, T. P. ; ; FORNO, I. L. D. ; ; G. Marchesan ; ROSSINI, J. P.",
+          "periodico": "In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais do XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025.",
+          "doi": "",
+          "citacao_completa": "MROGINSKI, T. P. ; ; FORNO, I. L. D. ; ; G. Marchesan ; ROSSINI, J. P. . Previsão de carga e despacho econômico de uma microrrede isolada por meio de Redes Neurais e Programação Linear.. In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais do XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise de Estabilidade Transitória Angular: Determinando Tempos Críticos utilizando Otimização por Enxame de Partículas",
+          "autores": "PIRES, EDUARDO ; MARCHESAN, GUSTAVO ; RAMOS, CAISON RODRIGUES ; MROGINSKI, TIAGO PITOL ; OLIVEIRA, AÉCIO DE LIMA",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2025.010",
+          "citacao_completa": "PIRES, EDUARDO ; MARCHESAN, GUSTAVO ; RAMOS, CAISON RODRIGUES ; MROGINSKI, TIAGO PITOL ; OLIVEIRA, AÉCIO DE LIMA . Análise de Estabilidade Transitória Angular: Determinando Tempos Críticos utilizando Otimização por Enxame de Partículas. In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Comparação da Qualidade de Energia entre os Sistemas de Distribuição Trifásico a Dois Fios e Convencional sob Máxima Carga com Tensão Adequada",
+          "autores": "MARTINS, RENATA ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2025.007",
+          "citacao_completa": "MARTINS, RENATA ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO . Comparação da Qualidade de Energia entre os Sistemas de Distribuição Trifásico a Dois Fios e Convencional sob Máxima Carga com Tensão Adequada. In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Computer Vision for Hybrid Systems: Cloud and Sun Segmentation with YOLOv8",
+          "autores": "OLIVEIRA, MURILO N. ; DA SILVA, NÍCOLAS J. O. ; MARCHESAN, GUSTAVO",
+          "periodico": "In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SEPOC67005.2025.11297663",
+          "citacao_completa": "OLIVEIRA, MURILO N. ; DA SILVA, NÍCOLAS J. O. ; MARCHESAN, GUSTAVO . Computer Vision for Hybrid Systems: Cloud and Sun Segmentation with YOLOv8. In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Impact of Renewable Energy Sources on Electricity System Stability and Frequency Regulation",
+          "autores": "ZORZELA, GABRIELA CURIN ; OLIVEIRA, MURILO NEUMANN ; MARCHESAN, GUSTAVO",
+          "periodico": "In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/sepoc67005.2025.11297649",
+          "citacao_completa": "ZORZELA, GABRIELA CURIN ; OLIVEIRA, MURILO NEUMANN ; MARCHESAN, GUSTAVO . Impact of Renewable Energy Sources on Electricity System Stability and Frequency Regulation. In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Short-Term Electricity Demand Forecasting in Low-Voltage Consumers Using LSTM Networks",
+          "autores": "KRINDGES, ALAN JAQUES ; MARCHESAN, GUSTAVO ; KAMINSKI, ANTÔNIO MÁRIO ; DE LIMA, BRENDHA IARA GRUBER ; JACQUES, MATHEUS MELLO",
+          "periodico": "In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SEPOC67005.2025.11297647",
+          "citacao_completa": "KRINDGES, ALAN JAQUES ; MARCHESAN, GUSTAVO ; KAMINSKI, ANTÔNIO MÁRIO ; DE LIMA, BRENDHA IARA GRUBER ; JACQUES, MATHEUS MELLO . Short-Term Electricity Demand Forecasting in Low-Voltage Consumers Using LSTM Networks. In: 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise de Métodos Passivos de Proteção Anti-Ilhamento em Sistema IEEE 34 Barras com Geração Distribuída",
+          "autores": "JÚNIOR, HURBEN DELABARY SEVERO ; ZORZELA, GABRIELA CURIN ; MARCHESAN, GUSTAVO",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2025.047",
+          "citacao_completa": "JÚNIOR, HURBEN DELABARY SEVERO ; ZORZELA, GABRIELA CURIN ; MARCHESAN, GUSTAVO . Análise de Métodos Passivos de Proteção Anti-Ilhamento em Sistema IEEE 34 Barras com Geração Distribuída. In: Seminar on Power Electronics and Control (SEPOC 2025), 2025. Proceedings of the 17th Seminar on Power Electronics and Control (SEPOC 2025). p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Modos de Operação da Função Volt/var em Múltiplos Inversores para Regulação de Tensão em Redes de Distribuição Secundárias",
+          "autores": "; G. Marchesan ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2024. Anais XXV Congresso Brasileiro de Automática, 2024.",
+          "doi": "",
+          "citacao_completa": "; G. Marchesan ; . Modos de Operação da Função Volt/var em Múltiplos Inversores para Regulação de Tensão em Redes de Distribuição Secundárias. In: Congresso Brasileiro de Automática, 2024. Anais XXV Congresso Brasileiro de Automática, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise de Perdas Técnicas em Sistemas de Distribuição Rurais Não Convencionais Trifásicos a Dois Fios.",
+          "autores": "OLIVEIRA, E. B. ; ; G. Marchesan ;",
+          "periodico": "In: 16th Seminar on Power Electronics and Control, 2024. 16th Seminar on Power Electronics and Control, 2024.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, E. B. ; ; G. Marchesan ; . Análise de Perdas Técnicas em Sistemas de Distribuição Rurais Não Convencionais Trifásicos a Dois Fios.. In: 16th Seminar on Power Electronics and Control, 2024. 16th Seminar on Power Electronics and Control, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Influência das Características da Rede na Qualidade de Energia em Sistemas de Distribuição Rurais não Convencionais Trifásicos a Dois Fios",
+          "autores": "; G. Marchesan ;",
+          "periodico": "In: XV LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2024, 2024, Mar del Plata. Book of Abstracts and Proceedings of 15th Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 202, 2024.",
+          "doi": "",
+          "citacao_completa": "; G. Marchesan ; . Influência das Características da Rede na Qualidade de Energia em Sistemas de Distribuição Rurais não Convencionais Trifásicos a Dois Fios. In: XV LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2024, 2024, Mar del Plata. Book of Abstracts and Proceedings of 15th Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 202, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "O uso do hidrogênio verde como vetor de energia elétrica e seus principais desafios no Brasil",
+          "autores": "RAMOS, CAISON R. ; FORNO, I. L. D. ; G. Marchesan ; ; COSTA, W. L. A. ; GADELHA, R. B. ; BATISTA, V. S. ; LEAO, A. P. ; VIEIRA, J. P. A.",
+          "periodico": "In: XXV Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024.",
+          "doi": "",
+          "citacao_completa": "RAMOS, CAISON R. ; FORNO, I. L. D. ; G. Marchesan ; ; COSTA, W. L. A. ; GADELHA, R. B. ; BATISTA, V. S. ; LEAO, A. P. ; VIEIRA, J. P. A. . O uso do hidrogênio verde como vetor de energia elétrica e seus principais desafios no Brasil. In: XXV Congresso Brasileiro de Automática, 2024, Rio de Janeiro. Anais do XXV Congresso Brasileiro de Automática, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Despacho econômico de uma microrrede isolada a partir de Programação Linear",
+          "autores": "MROGINSKI, T. P. ; ; FORNO, I. L. D. ; G. Marchesan ;",
+          "periodico": "In: 16th Seminar on Power Electronics and Control, 2024, Santa Maria. Anais do 16th Seminar on Power Electronics and Control, 2024.",
+          "doi": "",
+          "citacao_completa": "MROGINSKI, T. P. ; ; FORNO, I. L. D. ; G. Marchesan ; . Despacho econômico de uma microrrede isolada a partir de Programação Linear. In: 16th Seminar on Power Electronics and Control, 2024, Santa Maria. Anais do 16th Seminar on Power Electronics and Control, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Ajustes do ERAC para assegurar a estabilidade do sistema elétrico em cenários de desequilíbrio de frequência",
+          "autores": "SANTOS, G. Q. ; ; G. Marchesan",
+          "periodico": "In: 16th Seminar on Power Electronics and Control (SEPOC 2024), 2024. Proceedings of the 16th Seminar on Power Electronics and Control (SEPOC 2024), 2024.",
+          "doi": "",
+          "citacao_completa": "SANTOS, G. Q. ; ; G. Marchesan . Ajustes do ERAC para assegurar a estabilidade do sistema elétrico em cenários de desequilíbrio de frequência. In: 16th Seminar on Power Electronics and Control (SEPOC 2024), 2024. Proceedings of the 16th Seminar on Power Electronics and Control (SEPOC 2024), 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "PROPOSTA DE UM SISTEMA TRIFÁSICO NÃO CONVENCIONAL A DOIS FIOS PARA REAPROVEITAMENTO DE CAPITAL INVESTIDO E REPOTENCIALIZAÇÃO DE REDES MONOFILARES COM RETORNO POR TERRA",
+          "autores": "KRAULICH, L. ; MARCHESAN, G. ; ; SANTOS, L. F. S. ; ; RAMOS, D. B. ; MARTINS, M. S. ; SILVEIRA, L. F. ; REGO, R. M.",
+          "periodico": "In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais do XIX Encontro Regional Ibero-Americano do CIGRE, 2023.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; MARCHESAN, G. ; ; SANTOS, L. F. S. ; ; RAMOS, D. B. ; MARTINS, M. S. ; SILVEIRA, L. F. ; REGO, R. M. . PROPOSTA DE UM SISTEMA TRIFÁSICO NÃO CONVENCIONAL A DOIS FIOS PARA REAPROVEITAMENTO DE CAPITAL INVESTIDO E REPOTENCIALIZAÇÃO DE REDES MONOFILARES COM RETORNO POR TERRA. In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais do XIX Encontro Regional Ibero-Americano do CIGRE, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANALYSIS OF THE VOLTAGE UNBALANCE PHENOMENON IN A TREE-PHASE TWOWIRE DISTRIBUTION SYSTEM",
+          "autores": "SILVEIRA, L. F. ; ; ; MARCHESAN, G. ; KRAULICH, L. ; SANTOS, L. F. S. ; MARTINS, M. S. ; REGO, R. M.",
+          "periodico": "In: 27th International Conference on Electricity Distribution, 2023, Rome. 27th International Conference on Electricity Distribution, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, L. F. ; ; ; MARCHESAN, G. ; KRAULICH, L. ; SANTOS, L. F. S. ; MARTINS, M. S. ; REGO, R. M. . ANALYSIS OF THE VOLTAGE UNBALANCE PHENOMENON IN A TREE-PHASE TWOWIRE DISTRIBUTION SYSTEM. In: 27th International Conference on Electricity Distribution, 2023, Rome. 27th International Conference on Electricity Distribution, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Revisão regulatória e bibliográfica da Operação Ilhada de Microrredes no Sistema Elétrico de Potência",
+          "autores": "SANTOS, ELTON RODRIGO DOS ; MARCHESAN, GUSTAVO",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.030",
+          "citacao_completa": "SANTOS, ELTON RODRIGO DOS ; MARCHESAN, GUSTAVO . Revisão regulatória e bibliográfica da Operação Ilhada de Microrredes no Sistema Elétrico de Potência. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "IMPACTO DO CONTROLE VOLT/VAR POR INVERSORES NOS REGULADORES DE TENSÃO",
+          "autores": "; ROSA, GABRIEL DE MORAES VOLPATO DA ; MARCHESAN, GUSTAVO ; PARIZZI, JOCEMAR BIASI ; MENCO, CARLOS ANDRES LAZARO ; RAMOS, CAISON RODRIGUES",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.044",
+          "citacao_completa": "; ROSA, GABRIEL DE MORAES VOLPATO DA ; MARCHESAN, GUSTAVO ; PARIZZI, JOCEMAR BIASI ; MENCO, CARLOS ANDRES LAZARO ; RAMOS, CAISON RODRIGUES . IMPACTO DO CONTROLE VOLT/VAR POR INVERSORES NOS REGULADORES DE TENSÃO. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise comparativa de aplicações de sistema de armazenamento de baterias em redes de alta/média tensão e baixa tensão",
+          "autores": "ZORZELA, GABRIELA ; MARCHESAN, GUSTAVO",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.015",
+          "citacao_completa": "ZORZELA, GABRIELA ; MARCHESAN, GUSTAVO . Análise comparativa de aplicações de sistema de armazenamento de baterias em redes de alta/média tensão e baixa tensão. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise de utilização de controle Volt-Var em sistemas com grande penetração de geração fotovoltaica",
+          "autores": "; OLIVEIRA, EDUARDO BAO DE ; MARCHESAN, GUSTAVO ; PARIZZI, JOCEMAR ; LAZARO, CARLOS",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.035",
+          "citacao_completa": "; OLIVEIRA, EDUARDO BAO DE ; MARCHESAN, GUSTAVO ; PARIZZI, JOCEMAR ; LAZARO, CARLOS . Análise de utilização de controle Volt-Var em sistemas com grande penetração de geração fotovoltaica. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DE MÉTODOS DE DETECÇÃO DE ILHAMENTO DE GERAÇÃO DISTRIBUÍDA EM SISTEMA COM CONTROLE VOLT-VAR",
+          "autores": "SANTOS, GABRIEL QUEVEDO DOS ; ZORZELA, GABRIEL CURIN ; MARCHESAN, GUSTAVO ; GARCIA, ENOQUE DUTRA",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.036",
+          "citacao_completa": "SANTOS, GABRIEL QUEVEDO DOS ; ZORZELA, GABRIEL CURIN ; MARCHESAN, GUSTAVO ; GARCIA, ENOQUE DUTRA . ANÁLISE DE MÉTODOS DE DETECÇÃO DE ILHAMENTO DE GERAÇÃO DISTRIBUÍDA EM SISTEMA COM CONTROLE VOLT-VAR. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detecção do perímetro solar e das nuvens: previsão de geração de curtíssimo prazo a partir da segmentação de imagens",
+          "autores": "RAMOS, CAISON RODRIGUES ; MORAES, DIENIFER ELIZABETH ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO",
+          "periodico": "In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.024",
+          "citacao_completa": "RAMOS, CAISON RODRIGUES ; MORAES, DIENIFER ELIZABETH ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO . Detecção do perímetro solar e das nuvens: previsão de geração de curtíssimo prazo a partir da segmentação de imagens. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023. p. --."
+        },
+        {
+          "ano": 2023,
+          "titulo": "QUALIDADE DA ENERGIA ELÉTRICA EM SISTEMA DE DISTRIBUIÇÃO TRIFÁSICO À DOIS FIOS",
+          "autores": "SILVEIRA, L. F. ; ; ; SANTOS, L. F. S. ; KRAULICH, L. ; DAMIANI, JULIANO S. ; MARCHESAN, G. ; MARTINS, M. S.",
+          "periodico": "In: VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, L. F. ; ; ; SANTOS, L. F. S. ; KRAULICH, L. ; DAMIANI, JULIANO S. ; MARCHESAN, G. ; MARTINS, M. S. . QUALIDADE DA ENERGIA ELÉTRICA EM SISTEMA DE DISTRIBUIÇÃO TRIFÁSICO À DOIS FIOS. In: VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "COMPARATIVO TÉCNICO-ECONÔMICO ENTRE SISTEMAS DE DISTRIBUIÇÃO RURAL: MRT VS",
+          "autores": "KRAULICH, L. ; ; SILVEIRA, L.F. ; SANTOS, L. F. S. ; MARCHESAN, G. ; DAMIANI, JULIANO S. ; SILVA, T.",
+          "periodico": "TRIFÁSICO CONVENCIONAL VS. T2F. In: VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; ; SILVEIRA, L.F. ; SANTOS, L. F. S. ; MARCHESAN, G. ; DAMIANI, JULIANO S. ; SILVA, T. . COMPARATIVO TÉCNICO-ECONÔMICO ENTRE SISTEMAS DE DISTRIBUIÇÃO RURAL: MRT VS. TRIFÁSICO CONVENCIONAL VS. T2F. In: VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais do VVVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A NEW APPROACH TO PROTECTION IN AN UNCONVENTIONAL DISTRIBUTION",
+          "autores": "SANTOS, L. F. S. ; MARTINS, M. S. ; KRAULICH, L. ; SILVEIRA, L. F. ; MARCHESAN, G. ; ; ; REGO, R. M.",
+          "periodico": "In: 27th International Conference on Electricity Distribution, 2023. 27th International Conference on Electricity Distribution, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS, L. F. S. ; MARTINS, M. S. ; KRAULICH, L. ; SILVEIRA, L. F. ; MARCHESAN, G. ; ; ; REGO, R. M. . A NEW APPROACH TO PROTECTION IN AN UNCONVENTIONAL DISTRIBUTION. In: 27th International Conference on Electricity Distribution, 2023. 27th International Conference on Electricity Distribution, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Detecção de Ilhamento em Geração Distribuída Fotovoltaica em Tempo Real",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; . Detecção de Ilhamento em Geração Distribuída Fotovoltaica em Tempo Real. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SISTEMA DE DISTRIBUIÇÃO T2F: VERIFICAÇÃO DA EFETIVIDADE DAS METODOLOGIAS DE COMPENSAÇÃO DE DESEQUILÍBRIOS DE TENSÃO",
+          "autores": "SILVEIRA, L. F. ; ; ; MARCHESAN, G.",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, L. F. ; ; ; MARCHESAN, G. . SISTEMA DE DISTRIBUIÇÃO T2F: VERIFICAÇÃO DA EFETIVIDADE DAS METODOLOGIAS DE COMPENSAÇÃO DE DESEQUILÍBRIOS DE TENSÃO. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Estimativa do custo de implantação de um sistema trifásico a dois fios para repotencialização de redes rurais monofásicas",
+          "autores": "KRAULICH, L. ; ; MARCHESAN, G. ; MARCHESAN, A. C. ; ROSSINI, J. P. ; CENTENARO, L. K.",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; ; MARCHESAN, G. ; MARCHESAN, A. C. ; ROSSINI, J. P. ; CENTENARO, L. K. . Estimativa do custo de implantação de um sistema trifásico a dois fios para repotencialização de redes rurais monofásicas. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Análise de Ocorrências de Ilhamento não intencional em Parque Eólico conectado ao Sistema Elétrico de Potência",
+          "autores": "LEDEBUHR, R. A. B. ; MARCHESAN, G. ; ; GARCIA, ENOQUE DUTRA",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "LEDEBUHR, R. A. B. ; MARCHESAN, G. ; ; GARCIA, ENOQUE DUTRA . Análise de Ocorrências de Ilhamento não intencional em Parque Eólico conectado ao Sistema Elétrico de Potência. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Microgrid Operational in a remote village of Abricots in Haiti",
+          "autores": "; MARCHESAN, G. ; SPERANDIO, M. ; PARIZZI, JOCEMAR",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; SPERANDIO, M. ; PARIZZI, JOCEMAR . Microgrid Operational in a remote village of Abricots in Haiti. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. Anais do IX Simpósio Brasileiro de Sistemas Elétricos, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Análise da Operação Ilhada de Microrredes no Sistema Elétrico de Potência",
+          "autores": "SANTOS, E. R. ; MARCHESAN, G.",
+          "periodico": "In: Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022, Foz do Iguaçu. Anais do XV Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022.",
+          "doi": "",
+          "citacao_completa": "SANTOS, E. R. ; MARCHESAN, G. . Análise da Operação Ilhada de Microrredes no Sistema Elétrico de Potência. In: Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022, Foz do Iguaçu. Anais do XV Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise comparativa de métodos passivos de detecção de ilhamento em geradores síncronos presentes no sistema de distribuição",
+          "autores": "; ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130628",
+          "citacao_completa": "; ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY . Análise comparativa de métodos passivos de detecção de ilhamento em geradores síncronos presentes no sistema de distribuição. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Controle Volt/VAr em sistemas de geração distribuída: perspectiva global e suas normatizações.",
+          "autores": "MIELKE LEITZKE, LARISSA ; MARCHESAN, GUSTAVO ; FREITAS-GUTIERRES, LUIZ FERNANDO ; GARCIA, ENOQUE DUTRA",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130657",
+          "citacao_completa": "MIELKE LEITZKE, LARISSA ; MARCHESAN, GUSTAVO ; FREITAS-GUTIERRES, LUIZ FERNANDO ; GARCIA, ENOQUE DUTRA . Controle Volt/VAr em sistemas de geração distribuída: perspectiva global e suas normatizações.. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologia para Análise da Qualidade de Energia Elétrica no Processo de Migração para o Mercado Livre de Energia",
+          "autores": "FLESCH, CINTIA HELENA ; GARCIA, ENOQUE DUTRA ; PARIZZI, JOCEMAR ; BAIERLE, ELUNIZE EMILIA ; MARCHESAN, GUSTAVO",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130583",
+          "citacao_completa": "FLESCH, CINTIA HELENA ; GARCIA, ENOQUE DUTRA ; PARIZZI, JOCEMAR ; BAIERLE, ELUNIZE EMILIA ; MARCHESAN, GUSTAVO . Metodologia para Análise da Qualidade de Energia Elétrica no Processo de Migração para o Mercado Livre de Energia. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Soluções para melhorar a qualidade de energia de sistemas híbridos fotovoltaico-diesel",
+          "autores": "SANTOS FERREIRA, FABIANO ; MARCHESAN, GUSTAVO ; PERES DE MORAIS, ADRIANO",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130640",
+          "citacao_completa": "SANTOS FERREIRA, FABIANO ; MARCHESAN, GUSTAVO ; PERES DE MORAIS, ADRIANO . Soluções para melhorar a qualidade de energia de sistemas híbridos fotovoltaico-diesel. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologias Utilizadas em Simulações do Sistema Elétrico de Potência com Inserção de Geração Distribuída Fotovoltaica",
+          "autores": "ALVES, ZEDEQUIAS MACHADO ; CUNICO, LUCAS MONDARDO ; SILVA, GUILHERME MANOEL DA ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.043",
+          "citacao_completa": "ALVES, ZEDEQUIAS MACHADO ; CUNICO, LUCAS MONDARDO ; SILVA, GUILHERME MANOEL DA ; MARCHESAN, GUSTAVO ; JUNIOR, GHENDY CARDOSO . Metodologias Utilizadas em Simulações do Sistema Elétrico de Potência com Inserção de Geração Distribuída Fotovoltaica. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise de Desequilíbrio de Tensão para Sistema de Distribuição de Energia Elétrica não Convencional",
+          "autores": "GIULIANI, EDUARDO ; OLIVEIRA, AÉCIO DE LIMA ; JUNIOR, GHENDY CARDOSO ; MARCHESAN, GUSTAVO ; SILVEIRA, LEONARDO DE FREITAS ; FILHO, GILBERTO DAVI NUNES",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.040",
+          "citacao_completa": "GIULIANI, EDUARDO ; OLIVEIRA, AÉCIO DE LIMA ; JUNIOR, GHENDY CARDOSO ; MARCHESAN, GUSTAVO ; SILVEIRA, LEONARDO DE FREITAS ; FILHO, GILBERTO DAVI NUNES . Análise de Desequilíbrio de Tensão para Sistema de Distribuição de Energia Elétrica não Convencional. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Bloqueio de atuação ERAC na desenergização de sistemas de distribuição através da taxa de variação de potência",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2020, Santo André. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; . Bloqueio de atuação ERAC na desenergização de sistemas de distribuição através da taxa de variação de potência. In: Simpósio Brasileiro de Sistemas Elétricos, 2020, Santo André. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Análise de atuação indevida do ERAC em desenergização de subestação, influenciada pela desaceleração de motores e proposta de lógica utilizando a função ANSI 81U com dois estágios de tensão de bloqueio e temporização",
+          "autores": "BORGES, A. ; ; MARCHESAN, G. ;",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2020, Santo André. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "",
+          "citacao_completa": "BORGES, A. ; ; MARCHESAN, G. ; . Análise de atuação indevida do ERAC em desenergização de subestação, influenciada pela desaceleração de motores e proposta de lógica utilizando a função ANSI 81U com dois estágios de tensão de bloqueio e temporização. In: Simpósio Brasileiro de Sistemas Elétricos, 2020, Santo André. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ANÁLISE DOS MÉTODOS DE BLOQUEIO DO RELÉ DE DISTÂNCIA DURANTE OSCILAÇÕES DE POTÊNCIA EM LINHAS DE TRÊS TERMINAIS",
+          "autores": "VEIGA, M. F. ; BENCKE, F. T. ; ; ; MARCHESAN, G.",
+          "periodico": "In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1326",
+          "citacao_completa": "VEIGA, M. F. ; BENCKE, F. T. ; ; ; MARCHESAN, G. . ANÁLISE DOS MÉTODOS DE BLOQUEIO DO RELÉ DE DISTÂNCIA DURANTE OSCILAÇÕES DE POTÊNCIA EM LINHAS DE TRÊS TERMINAIS. In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Implementação e análise de métodos de estimação de frequência no DSP F2877s",
+          "autores": "; MARCHESAN, G. ; SANTOS, L. L. C. ;",
+          "periodico": "In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1634",
+          "citacao_completa": "; MARCHESAN, G. ; SANTOS, L. L. C. ; . Implementação e análise de métodos de estimação de frequência no DSP F2877s. In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Terceira geração de células solares: uma abordagem sobre as frentes de pesquisa",
+          "autores": "SILVA, F. ; MARCHESAN, G.",
+          "periodico": "In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1548",
+          "citacao_completa": "SILVA, F. ; MARCHESAN, G. . Terceira geração de células solares: uma abordagem sobre as frentes de pesquisa. In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Fator de potência em instalações com geração distribuída: Estudo de caso em geração fotovoltaica de 73,28 kWp",
+          "autores": "; CUNICO, L. M. ; KROTH, G. ; ; ; MARCHESAN, G.",
+          "periodico": "In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1280",
+          "citacao_completa": "; CUNICO, L. M. ; KROTH, G. ; ; ; MARCHESAN, G. . Fator de potência em instalações com geração distribuída: Estudo de caso em geração fotovoltaica de 73,28 kWp. In: XXIII Congresso Brasileiro de Automática, 2020, Santa Maria. Anais do Simpósio Brasileiro de Sistemas Elétricos, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Detecção de ilhamento em geração distribuída através da estimação da frequência de oscilação",
+          "autores": "MARCHESAN, G. ; ; ; MURARO, M. R.",
+          "periodico": "In: Encontro Regional Ibero-americano do Cigré, 2019, Foz do iguaçu. Anais do Encontro Regional Ibero-americano do Cigré, 2019.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; MURARO, M. R. . Detecção de ilhamento em geração distribuída através da estimação da frequência de oscilação. In: Encontro Regional Ibero-americano do Cigré, 2019, Foz do iguaçu. Anais do Encontro Regional Ibero-americano do Cigré, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "DETECÇÃO DE ILHAMENTO EM GERAÇÃO DISTRIBUÍDA ATRAVÉS DA CLASSIFICAÇÃO DE PADRÕES DE FREQUÊNCIA",
+          "autores": "; MARCHESAN, G. ; ;",
+          "periodico": "In: Seminar on Power Electronics and Control, 2018, Santa Maria. 11th Seminar on Power Electronics and Control, 2018.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; ; . DETECÇÃO DE ILHAMENTO EM GERAÇÃO DISTRIBUÍDA ATRAVÉS DA CLASSIFICAÇÃO DE PADRÕES DE FREQUÊNCIA. In: Seminar on Power Electronics and Control, 2018, Santa Maria. 11th Seminar on Power Electronics and Control, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Detecção de oscilação de potência para bloqueio do relé de distancia baseado no erro médio quadrático de funções características",
+          "autores": "MENCO, C. L. ; MARCHESAN, G. ; STEFANELLO, F. ; DIAS, C. V. ;",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. Anais do Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "doi": "",
+          "citacao_completa": "MENCO, C. L. ; MARCHESAN, G. ; STEFANELLO, F. ; DIAS, C. V. ; . Detecção de oscilação de potência para bloqueio do relé de distancia baseado no erro médio quadrático de funções características. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. Anais do Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Islanding detection improvement in Distributed Generation by using of mathematical morphology for frequency oscillation characterization",
+          "autores": "MARCHESAN, G. ; MURARO, M. R. ; ; CORTES, A. V. E.",
+          "periodico": "In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; MURARO, M. R. ; ; CORTES, A. V. E. . Islanding detection improvement in Distributed Generation by using of mathematical morphology for frequency oscillation characterization. In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Modeling Methodology for Inductive and Capacitive Voltage Transformers for High-Frequency Electrical Transients Analysis",
+          "autores": "CAMARGO, M. C. ; MARCHESAN, G. ; MARIOTTO, L. ; ;",
+          "periodico": "In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015.",
+          "doi": "",
+          "citacao_completa": "CAMARGO, M. C. ; MARCHESAN, G. ; MARIOTTO, L. ; ; . A Modeling Methodology for Inductive and Capacitive Voltage Transformers for High-Frequency Electrical Transients Analysis. In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "High-frequency Transformer Modeling for Transient Overvoltage Studies",
+          "autores": "MARCHESAN, GUSTAVO ; ; MARIOTTO, L. ; CAMARGO, M. C. ; MARCHESAN, A. C.",
+          "periodico": "In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; ; MARIOTTO, L. ; CAMARGO, M. C. ; MARCHESAN, A. C. . High-frequency Transformer Modeling for Transient Overvoltage Studies. In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Stochastic Analysis of Transient Overvoltages at Substations by Applying the Monte Carlo Method Integrated with ATP",
+          "autores": "KRAULICH, L. ; MARCHESAN, A. C. ; MARIOTTO, LENOIS ; LOOSE, F. ; CAMARGO, M. C. ; MARCHESAN, G. ;",
+          "periodico": "In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; MARCHESAN, A. C. ; MARIOTTO, LENOIS ; LOOSE, F. ; CAMARGO, M. C. ; MARCHESAN, G. ; . Stochastic Analysis of Transient Overvoltages at Substations by Applying the Monte Carlo Method Integrated with ATP. In: International Conference on Power Systems Transients, 2015, Cavtat. Proceedings of the IPST, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma Metodologia para Modelagem de Transformadores de Potencial Indutivos e Capacitivos Para Análise de Transitórios de Altas Frequências",
+          "autores": "CAMARGO, M. C. ; MARCHESAN, GUSTAVO ; MARIOTTO, L. ; ;",
+          "periodico": "In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2015, Foz do Iguaçu. Anais do XXIII SNPTEE, 2015.",
+          "doi": "",
+          "citacao_completa": "CAMARGO, M. C. ; MARCHESAN, GUSTAVO ; MARIOTTO, L. ; ; . Uma Metodologia para Modelagem de Transformadores de Potencial Indutivos e Capacitivos Para Análise de Transitórios de Altas Frequências. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2015, Foz do Iguaçu. Anais do XXIII SNPTEE, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Análise Comparativa de Técnicas de Detecção de Ilhamento Locais Passivas",
+          "autores": "MARCHESAN, GUSTAVO ; ; MARIOTTO, L. ; MARCHESAN, A. C. ; CORTES, A. V. E. ; MURARO, M. R.",
+          "periodico": "In: XI LATIN-AMERICAN CONGRESS ELECTRICITY GENERATION AND TRANSMISSION, 2015, São José dos Campos. Proceedings of the CLAGTEE, 2015.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; ; MARIOTTO, L. ; MARCHESAN, A. C. ; CORTES, A. V. E. ; MURARO, M. R. . Análise Comparativa de Técnicas de Detecção de Ilhamento Locais Passivas. In: XI LATIN-AMERICAN CONGRESS ELECTRICITY GENERATION AND TRANSMISSION, 2015, São José dos Campos. Proceedings of the CLAGTEE, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "An Adaptive Step-Size Least Mean Square Algorithm for Electric Power Systems Frequency Estimation in protective relays",
+          "autores": "MARCHESAN, G. ; OLIVEIRA, A.L. ; CARDOSO, G. ; MORAIS, A.P. ; MARIOTTO, L.",
+          "periodico": "In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.39.",
+          "doi": "http://dx.doi.org/10.1049/cp.2014.0118",
+          "citacao_completa": "MARCHESAN, G. ; OLIVEIRA, A.L. ; CARDOSO, G. ; MORAIS, A.P. ; MARIOTTO, L. . An Adaptive Step-Size Least Mean Square Algorithm for Electric Power Systems Frequency Estimation in protective relays. In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.39."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Recloser-fuse coordination protection for distributed generation systems: methodology and priorities for optimal disconnections",
+          "autores": "GUTIERRES, L.F.F. ; CARDOSO, G. ; MARCHESAN, G.",
+          "periodico": "In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.68.",
+          "doi": "http://dx.doi.org/10.1049/cp.2014.0141",
+          "citacao_completa": "GUTIERRES, L.F.F. ; CARDOSO, G. ; MARCHESAN, G. . Recloser-fuse coordination protection for distributed generation systems: methodology and priorities for optimal disconnections. In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.68."
+        },
+        {
+          "ano": 2014,
+          "titulo": "An automatic fault diagnosis solution for electrical power systems",
+          "autores": "OLIVEIRA, A.L. ; DE ARAUJO, O.C.B. ; ; BRUM, A.F. ; CARDOSO, G. ; MARCHESAN, G.",
+          "periodico": "In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.33.",
+          "doi": "http://dx.doi.org/10.1049/cp.2014.0112",
+          "citacao_completa": "OLIVEIRA, A.L. ; DE ARAUJO, O.C.B. ; ; BRUM, A.F. ; CARDOSO, G. ; MARCHESAN, G. . An automatic fault diagnosis solution for electrical power systems. In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014). p. 12.33."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Análise Comparativa do Desempenho de Algoritmos Rastreadores de Frequência Aplicados em Sistemas Elétricos de Potência",
+          "autores": "KRAULICH, L. ; MARCHESAN, G. ; MARCHESAN, A. C. ; ; MARIOTTO, L.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçu. Anais do SBSE 2014, 2014.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; MARCHESAN, G. ; MARCHESAN, A. C. ; ; MARIOTTO, L. . Análise Comparativa do Desempenho de Algoritmos Rastreadores de Frequência Aplicados em Sistemas Elétricos de Potência. In: Simpósio Brasileiro de Sistemas Elétricos, 2014, Foz do Iguaçu. Anais do SBSE 2014, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estimação da Amplitude de Sinais de Corrente em Sistemas de Potência por Meio de Redes Neurais Artificiais com Análise em Frequências Fora da Nominal para Aplicação em Relés de Sobrecorrente Numéricos",
+          "autores": "; ; KUSE, P. D. ; MARCHESAN, G. ;",
+          "periodico": "In: XV Encontro Regional Ibero-americano do CIGRÉ, 2013, Foz do Iguaçu - PR. Anais do XV ERIAC, 2013.",
+          "doi": "",
+          "citacao_completa": "; ; KUSE, P. D. ; MARCHESAN, G. ; . Estimação da Amplitude de Sinais de Corrente em Sistemas de Potência por Meio de Redes Neurais Artificiais com Análise em Frequências Fora da Nominal para Aplicação em Relés de Sobrecorrente Numéricos. In: XV Encontro Regional Ibero-americano do CIGRÉ, 2013, Foz do Iguaçu - PR. Anais do XV ERIAC, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Avaliação dos Efeitos da Componente DC e Desvios de Frequência em Algoritmos de Estimação Fasorial Baseados na Transformada Discreta de Fourier",
+          "autores": "; ; MARCHESAN, GUSTAVO",
+          "periodico": "In: X Conferência Brasileira sobre Qualidade da Energia Elétrica, 2013, Araxá, MG. Anais do X CBQEE, 2013.",
+          "doi": "",
+          "citacao_completa": "; ; MARCHESAN, GUSTAVO . Avaliação dos Efeitos da Componente DC e Desvios de Frequência em Algoritmos de Estimação Fasorial Baseados na Transformada Discreta de Fourier. In: X Conferência Brasileira sobre Qualidade da Energia Elétrica, 2013, Araxá, MG. Anais do X CBQEE, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Análise Crítica do Desempenho de Algoritmos de Estimação De Frequência Fundamentados na Transformada Discreta de Fourier quando Aplicados em Sistemas Elétricos de Potência Elétrica",
+          "autores": "MARCHESAN, G. ; ; KRAULICH, L. ; ;",
+          "periodico": "In: X Conferência Brasileira sobre Qualidade da Energia Elétrica, 2013, Araxá, MG. Anais do X CBQEE, 2013.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; KRAULICH, L. ; ; . Análise Crítica do Desempenho de Algoritmos de Estimação De Frequência Fundamentados na Transformada Discreta de Fourier quando Aplicados em Sistemas Elétricos de Potência Elétrica. In: X Conferência Brasileira sobre Qualidade da Energia Elétrica, 2013, Araxá, MG. Anais do X CBQEE, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "ANÁLISE CRÍTICA DO DESEMPENHO DE DIVERSOS ALGORITMOS DE ESTIMAÇÃO DE FREQUÊNCIA FUNDAMENTADOS NA TRANSFORMADA DISCRETA DE FOURIER",
+          "autores": "MARCHESAN, G. ; KRAULICH, L. ; ; GOMES, N. R. ; ;",
+          "periodico": "In: XV Encontro Regional Ibero-americano do CIGRÉ, 2013, Foz do Iguaçu - PR. Anais do XV ERIAC, 2013.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; KRAULICH, L. ; ; GOMES, N. R. ; ; . ANÁLISE CRÍTICA DO DESEMPENHO DE DIVERSOS ALGORITMOS DE ESTIMAÇÃO DE FREQUÊNCIA FUNDAMENTADOS NA TRANSFORMADA DISCRETA DE FOURIER. In: XV Encontro Regional Ibero-americano do CIGRÉ, 2013, Foz do Iguaçu - PR. Anais do XV ERIAC, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Algoritmos rastreadores de frequência fundamentados na TDF: Uma análise do desempenho em Sistemas Elétricos de Potência.",
+          "autores": "MARCHESAN, G. ; ; GOMES, N. R. ; ; KRAULICH, L. ;",
+          "periodico": "In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012. IV Simpósio Brasileiro de Sistemas Elétricos, 2012.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; GOMES, N. R. ; ; KRAULICH, L. ; . Algoritmos rastreadores de frequência fundamentados na TDF: Uma análise do desempenho em Sistemas Elétricos de Potência.. In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012. IV Simpósio Brasileiro de Sistemas Elétricos, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Algoritmos Rastreadores de Frequência: Uma análise crítica considerando a resposta transitória e em regime permanente",
+          "autores": "MARCHESAN, G. ; ; ; ; ; MINUSSI, J. P.",
+          "periodico": "In: IV Congresso Brasileiro de Eficiência Energética ? IV CBEE, 2011, Juiz de Fora. Anais do IV CBEE, 2011.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; ; ; MINUSSI, J. P. . Algoritmos Rastreadores de Frequência: Uma análise crítica considerando a resposta transitória e em regime permanente. In: IV Congresso Brasileiro de Eficiência Energética ? IV CBEE, 2011, Juiz de Fora. Anais do IV CBEE, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "ANÁLISE DO DESEMPENHO DE ALGORITMOS PARA FILTRAGEM DIGITAL OPERANDO EM FREQUÊNCIA OFF- NOMINAL",
+          "autores": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ; MINUSSI, J. P.",
+          "periodico": "In: IV Congresso Brasileiro de Eficiência Energética ? IV CBEE, 2011, Juiz de Fora. Anais do IV CBEE, 2011.",
+          "doi": "",
+          "citacao_completa": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ; MINUSSI, J. P. . ANÁLISE DO DESEMPENHO DE ALGORITMOS PARA FILTRAGEM DIGITAL OPERANDO EM FREQUÊNCIA OFF- NOMINAL. In: IV Congresso Brasileiro de Eficiência Energética ? IV CBEE, 2011, Juiz de Fora. Anais do IV CBEE, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Influência de Ruídos e Distorções Harmônicas sobre os Rastreadores de Frequência",
+          "autores": "MARCHESAN, G. ; ; ; ; ;",
+          "periodico": "In: IX Edição da Conferência Brasileira sobre Qualidade da Energia Elétrica ? IX CBQEE, 2011, Cuiabá. Anais do CBQEE, 2011. v. 9. p. 929-933.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; ; ; . A Influência de Ruídos e Distorções Harmônicas sobre os Rastreadores de Frequência. In: IX Edição da Conferência Brasileira sobre Qualidade da Energia Elétrica ? IX CBQEE, 2011, Cuiabá. Anais do CBQEE, 2011. v. 9. p. 929-933."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Análise da Capacidade dos Algoritmos de Filtragem Digital Fundamentados na TDF em Estimar a Constante de Tempo do Sistema para Freqüência off-nominal",
+          "autores": "; ; MARCHESAN, G. ; ; STEFANELLO, F. ;",
+          "periodico": "In: IX Edição da Conferência Brasileira sobre Qualidade da Energia Elétrica ? IX CBQEE, 2011, Cuiabá. Anais do CBQEE, 2011. v. 9. p. 551-556.",
+          "doi": "",
+          "citacao_completa": "; ; MARCHESAN, G. ; ; STEFANELLO, F. ; . Análise da Capacidade dos Algoritmos de Filtragem Digital Fundamentados na TDF em Estimar a Constante de Tempo do Sistema para Freqüência off-nominal. In: IX Edição da Conferência Brasileira sobre Qualidade da Energia Elétrica ? IX CBQEE, 2011, Cuiabá. Anais do CBQEE, 2011. v. 9. p. 551-556."
+        },
+        {
+          "ano": 2011,
+          "titulo": "REDUÇÃO DO TEMPO DE DISPARO DE RELÉS NUMÉRICOS DE SOBRECORRENTE UTILIZANDO CURVAS DE TEMPO INVERSO NÃO-PADRONIZADAS EM SISTEMAS DE POTÊNCIA RADIAIS.",
+          "autores": "; OBREGON, L.C. ; ; ; ; MARCHESAN, G.",
+          "periodico": "In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2011, Florianópolis. Anais do XXI SNPTEE, 2011.",
+          "doi": "",
+          "citacao_completa": "; OBREGON, L.C. ; ; ; ; MARCHESAN, G. . REDUÇÃO DO TEMPO DE DISPARO DE RELÉS NUMÉRICOS DE SOBRECORRENTE UTILIZANDO CURVAS DE TEMPO INVERSO NÃO-PADRONIZADAS EM SISTEMAS DE POTÊNCIA RADIAIS.. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2011, Florianópolis. Anais do XXI SNPTEE, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Uma Revisão Crítica sobre os Algoritmos Rastreadores de Frequência Considerando a Resposta Transitória e em Regime Permanente.",
+          "autores": "MARCHESAN, G. ; ; ; ; MINUSSI, J. P. ;",
+          "periodico": "In: 9th Latin-American Congress on Electricity Generation and Transmission, 2011, Mar del Plata - Argentina. Anais do IX CLAGTEE, 2011.",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; ; MINUSSI, J. P. ; . Uma Revisão Crítica sobre os Algoritmos Rastreadores de Frequência Considerando a Resposta Transitória e em Regime Permanente.. In: 9th Latin-American Congress on Electricity Generation and Transmission, 2011, Mar del Plata - Argentina. Anais do IX CLAGTEE, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Melhoria do Desempenho dos Filtros Fundamentados na Transformada Discreta de Fourier através da Redução do Tamanho da Janela de Dados.",
+          "autores": "; ; ; MARCHESAN, G. ; STEFANELLO, F. ;",
+          "periodico": "In: IEEE/PES 2010 Transmition & Distribution Conference and Exposition Latin America, 2010, São Paulo. Anais do T&D, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; ; MARCHESAN, G. ; STEFANELLO, F. ; . Melhoria do Desempenho dos Filtros Fundamentados na Transformada Discreta de Fourier através da Redução do Tamanho da Janela de Dados.. In: IEEE/PES 2010 Transmition & Distribution Conference and Exposition Latin America, 2010, São Paulo. Anais do T&D, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "DETECÇÃO DO PERÍMETRO SOLAR E DAS NUVENS: PREVISÃO DE GERAÇÃO DE CURTÍSSIMO PRAZO A PARTIR DA SEGMENTAÇÃO DE IMAGENS",
+          "autores": "MORAES, D. E. ; MARCHESAN, G. ;",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "MORAES, D. E. ; MARCHESAN, G. ; . DETECÇÃO DO PERÍMETRO SOLAR E DAS NUVENS: PREVISÃO DE GERAÇÃO DE CURTÍSSIMO PRAZO A PARTIR DA SEGMENTAÇÃO DE IMAGENS. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DO IMPACTO DO CONTROLE VOLT-VAR NAS PERDAS DE ENERGIA EM SISTEMAS DE DISTRIBUIÇÃO COM ALTA PENETRAÇÃO FOTOVOLTAICA",
+          "autores": "OLIVEIRA, E. B. ; MARCHESAN, G. ; ; SANTOS, G. Q. ; ROSA, G. M. V.",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, E. B. ; MARCHESAN, G. ; ; SANTOS, G. Q. ; ROSA, G. M. V. . ANÁLISE DO IMPACTO DO CONTROLE VOLT-VAR NAS PERDAS DE ENERGIA EM SISTEMAS DE DISTRIBUIÇÃO COM ALTA PENETRAÇÃO FOTOVOLTAICA. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "IMPACTO DO CONTROLE VOLT/VAR POR INVERSORES NOS REGULADORES DE TENSÃO",
+          "autores": "ROSA, G. M. V. ; MARCHESAN, G. ; ; ; KOBS, K. H.",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "ROSA, G. M. V. ; MARCHESAN, G. ; ; ; KOBS, K. H. . IMPACTO DO CONTROLE VOLT/VAR POR INVERSORES NOS REGULADORES DE TENSÃO. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DE MÉTODOS DE DETECÇÃO DE ILHAMENTO DE GERAÇÃO DISTRIBUÍDA EM SISTEMA COM CONTROLE VOLT-VAR E CONTROLE PQ",
+          "autores": "SANTOS, G. Q. ; MARCHESAN, G. ; ; OLIVEIRA, E. B. ; ROSA, G. M. V.",
+          "periodico": "In: Anais 38ª Jornada Acadêmica Integrada, 2023, Santa Maria. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS, G. Q. ; MARCHESAN, G. ; ; OLIVEIRA, E. B. ; ROSA, G. M. V. . ANÁLISE DE MÉTODOS DE DETECÇÃO DE ILHAMENTO DE GERAÇÃO DISTRIBUÍDA EM SISTEMA COM CONTROLE VOLT-VAR E CONTROLE PQ. In: Anais 38ª Jornada Acadêmica Integrada, 2023, Santa Maria. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE ECONÔMICA DA INTEGRAÇÃO DE SISTEMAS FOTOVOLTAICOS E GRUPOS MOTORES GERADORES A DIESEL EM MICRORREDES ISOLADAS",
+          "autores": "FORNO, I. L. D. ; MARCHESAN, G. ; MORAES, D. E.",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "FORNO, I. L. D. ; MARCHESAN, G. ; MORAES, D. E. . ANÁLISE ECONÔMICA DA INTEGRAÇÃO DE SISTEMAS FOTOVOLTAICOS E GRUPOS MOTORES GERADORES A DIESEL EM MICRORREDES ISOLADAS. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Estimador de estados de sistemas elétricos de potencia",
+          "autores": "KOBS, K. H. ; MARCHESAN, G. ; SANTOS, G. Q.",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "KOBS, K. H. ; MARCHESAN, G. ; SANTOS, G. Q. . Estimador de estados de sistemas elétricos de potencia. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ESTUDO E VERIFICAÇÃO DE SOBRETENSÃO DURANTE OPERAÇÃO DE UM PARA-RAIO NO T2F",
+          "autores": "OLIVEIRA, M. N. ; MARCHESAN, G. ;",
+          "periodico": "In: Anais 38ª Jornada Acadêmica Integrada, 2023, Santa Maria. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, M. N. ; MARCHESAN, G. ; . ESTUDO E VERIFICAÇÃO DE SOBRETENSÃO DURANTE OPERAÇÃO DE UM PARA-RAIO NO T2F. In: Anais 38ª Jornada Acadêmica Integrada, 2023, Santa Maria. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "HIDROGÊNIO COMO VETOR DE ENRGIA: UMA ALTERNATIVA PARA O DESAFIO DA TRANSIÇÃO ENERGÉTICA.",
+          "autores": "MROGINSKI, T. P. ; MARCHESAN, G.",
+          "periodico": "In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023.",
+          "doi": "",
+          "citacao_completa": "MROGINSKI, T. P. ; MARCHESAN, G. . HIDROGÊNIO COMO VETOR DE ENRGIA: UMA ALTERNATIVA PARA O DESAFIO DA TRANSIÇÃO ENERGÉTICA.. In: 38ª Jornada Acadêmica Integrada, 2023. Anais 38ª Jornada Acadêmica Integrada, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "ANÁLISE COMPARATIVA DE MÉTODOS PASSIVOS DE DETECÇÃO DE ILHAMENTO EM GERADORES DISTRIBUÍDOS FOTOVOLTAICOS",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2021, Santa Maria. Anais 36ª Jornada Acadêmica Integrada, 2021.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; . ANÁLISE COMPARATIVA DE MÉTODOS PASSIVOS DE DETECÇÃO DE ILHAMENTO EM GERADORES DISTRIBUÍDOS FOTOVOLTAICOS. In: Jornada Acadêmica Integrada, 2021, Santa Maria. Anais 36ª Jornada Acadêmica Integrada, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação de desempenho de algoritmos passivos de detecção de ilhamento em um sistema de distribuição",
+          "autores": "; MARCHESAN, G. ;",
+          "periodico": "In: 35ª Jornada Acadêmica Integrada, 2020, Santa Maria. Anais da 35ª Jornada Acadêmica Integrada, 2020.",
+          "doi": "",
+          "citacao_completa": "; MARCHESAN, G. ; . Avaliação de desempenho de algoritmos passivos de detecção de ilhamento em um sistema de distribuição. In: 35ª Jornada Acadêmica Integrada, 2020, Santa Maria. Anais da 35ª Jornada Acadêmica Integrada, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "ANÁLISE DE RISCO E DEFINIÇÃO DE PARÂMETROS DE PROJETOS DE SPDA ATRAVÉS DE SOFTWARE VISANDO OTIMIZAÇÃO TEMPORAL",
+          "autores": "LIMA, J. P. C. ; MARCHESAN, G.",
+          "periodico": "In: 34ª Jornada Acadêmica Integrada, 2019. Anais da 34ª Jornada Acadêmica Integrada, 2019.",
+          "doi": "",
+          "citacao_completa": "LIMA, J. P. C. ; MARCHESAN, G. . ANÁLISE DE RISCO E DEFINIÇÃO DE PARÂMETROS DE PROJETOS DE SPDA ATRAVÉS DE SOFTWARE VISANDO OTIMIZAÇÃO TEMPORAL. In: 34ª Jornada Acadêmica Integrada, 2019. Anais da 34ª Jornada Acadêmica Integrada, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Eficiência energética em residências",
+          "autores": "GEHRKE, P. ; MARCHESAN, G. ; SANTOS, L. L. C. ; UNFER, N. A. ; CAMPELO, I. C. H. ; FUNGHETO, F. D.",
+          "periodico": "In: 34ª Jornada Acadêmica Integrada, 2019, Santa Maria. Anais da 34ª Jornada Acadêmica Integrada, 2019.",
+          "doi": "",
+          "citacao_completa": "GEHRKE, P. ; MARCHESAN, G. ; SANTOS, L. L. C. ; UNFER, N. A. ; CAMPELO, I. C. H. ; FUNGHETO, F. D. . Eficiência energética em residências. In: 34ª Jornada Acadêmica Integrada, 2019, Santa Maria. Anais da 34ª Jornada Acadêmica Integrada, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "ANÁLISE DE VIABILIDADE FINANCEIRA DE EFICIENTIZAÇÃO ENERGÉTICA DO PRÉDIO ADMINISTRATIVO DA UNIVERSIDADE FEDERAL DE SANTA MARIA CAMPUS CACHOEIRA DO SUL",
+          "autores": "CAMPELO, I. C. H. ; SANTOS, L. L. C. ; MARCHESAN, G. ; FUNGHETO, F. D. ; GEHRKE, P. ; UNFER, N. A.",
+          "periodico": "In: 34ª Jornada Acadêmica Integrada, 2019, Santa Maria. Anais da 34ª Jornada Acadêmica Integrada, 2019.",
+          "doi": "",
+          "citacao_completa": "CAMPELO, I. C. H. ; SANTOS, L. L. C. ; MARCHESAN, G. ; FUNGHETO, F. D. ; GEHRKE, P. ; UNFER, N. A. . ANÁLISE DE VIABILIDADE FINANCEIRA DE EFICIENTIZAÇÃO ENERGÉTICA DO PRÉDIO ADMINISTRATIVO DA UNIVERSIDADE FEDERAL DE SANTA MARIA CAMPUS CACHOEIRA DO SUL. In: 34ª Jornada Acadêmica Integrada, 2019, Santa Maria. Anais da 34ª Jornada Acadêmica Integrada, 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "DETECÇÃO DE ILHAMENTO POR TAXA DE VARIAÇÃO DE FREQUÊNCIA: UMA ANÁLISE CRÍTICA",
+          "autores": "SANTOS, M. F. P. ; ; MARCHESAN, G.",
+          "periodico": "In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, Santana do Livramento. Anais do 9° SIEPE, 2017.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. F. P. ; ; MARCHESAN, G. . DETECÇÃO DE ILHAMENTO POR TAXA DE VARIAÇÃO DE FREQUÊNCIA: UMA ANÁLISE CRÍTICA. In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, Santana do Livramento. Anais do 9° SIEPE, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "ESTUDO DO COMPORTAMENTO DE GERADORES SÍNCRONOS DURANTE TRANSITÓRIOS",
+          "autores": "; SANTOS, M. F. P. ; MARCHESAN, G.",
+          "periodico": "In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, antana do Livramento. Anais do 9° SIEPE, 2017.",
+          "doi": "",
+          "citacao_completa": "; SANTOS, M. F. P. ; MARCHESAN, G. . ESTUDO DO COMPORTAMENTO DE GERADORES SÍNCRONOS DURANTE TRANSITÓRIOS. In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, antana do Livramento. Anais do 9° SIEPE, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "IMPACTOS NO SISTEMA DE PROTEÇÃO CAUSADOS PELA INSERÇÃO DE GERAÇÃO DISTRIBUÍDA",
+          "autores": "DEVECCHI, A. ; MARCHESAN, G.",
+          "periodico": "In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, Santana do Livramento. Anais do 9° SIEPE, 2017.",
+          "doi": "",
+          "citacao_completa": "DEVECCHI, A. ; MARCHESAN, G. . IMPACTOS NO SISTEMA DE PROTEÇÃO CAUSADOS PELA INSERÇÃO DE GERAÇÃO DISTRIBUÍDA. In: Salão Internacional de Ensino, Pesquisa e Extensão da Unipampa, 2017, Santana do Livramento. Anais do 9° SIEPE, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de um programa com interface gráfica para a modelagem de transformadores",
+          "autores": "SILVA, D. M. ; MARCHESAN, G. ; MARIOTTO, L.",
+          "periodico": "In: Jornada Acadêmica Integrada - UFSM, 2015. Anais da XXX Jai.",
+          "doi": "",
+          "citacao_completa": "SILVA, D. M. ; MARCHESAN, G. ; MARIOTTO, L. . Desenvolvimento de um programa com interface gráfica para a modelagem de transformadores. In: Jornada Acadêmica Integrada - UFSM, 2015. Anais da XXX Jai."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estimação de frequência em sistemas elétricos de potência",
+          "autores": "KRAULICH, L. ; MARCHESAN, G. ;",
+          "periodico": "In: 28ª Jornada Acadêmica Integrada - UFSM, 2012, Santa Maria. 28ª Jornada Acadêmica Integrada, 2012.",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; MARCHESAN, G. ; . Estimação de frequência em sistemas elétricos de potência. In: 28ª Jornada Acadêmica Integrada - UFSM, 2012, Santa Maria. 28ª Jornada Acadêmica Integrada, 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "MÉTODOS NUMÉRICOS APLICADOS À PRÁTICA DE COORDENAÇÃO DE RELÉS DE SOBRECORRENTE",
+          "autores": "OBREGON, L.C. ; ; ; MARCHESAN, G. ;",
+          "periodico": "In: Jornada Acadêemica Integrada - UFSM, 2010, Santa Maria. Anais 25ª JAI. Santa Maria: UFSM, 2010.",
+          "doi": "",
+          "citacao_completa": "OBREGON, L.C. ; ; ; MARCHESAN, G. ; . MÉTODOS NUMÉRICOS APLICADOS À PRÁTICA DE COORDENAÇÃO DE RELÉS DE SOBRECORRENTE. In: Jornada Acadêemica Integrada - UFSM, 2010, Santa Maria. Anais 25ª JAI. Santa Maria: UFSM, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "UMA CONTRIBUIÇÃO PARA A MELHORIA DO DESEMPENHO DE ALGORITMOS DE FILTRAGEM DIGITAL BASEADOS NA TDF E MODIFICADOS DE FORMA A ELIMINAR A COMPONENTE DC UNIDIRECIONAL DO SINAL",
+          "autores": "; ; OBREGON, L.C. ; STEFANELLO, F. ; MARCHESAN, G. ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2010, Santa Maria. Anais 25ª JAI. Santa Maria: UFSM, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; OBREGON, L.C. ; STEFANELLO, F. ; MARCHESAN, G. ; . UMA CONTRIBUIÇÃO PARA A MELHORIA DO DESEMPENHO DE ALGORITMOS DE FILTRAGEM DIGITAL BASEADOS NA TDF E MODIFICADOS DE FORMA A ELIMINAR A COMPONENTE DC UNIDIRECIONAL DO SINAL. In: Jornada Acadêmica Integrada, 2010, Santa Maria. Anais 25ª JAI. Santa Maria: UFSM, 2010."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Dimensionamento otimizado de microrrede",
+          "autores": "ROSA, E. P. ; G. Marchesan",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada, 2025. Anais 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "ROSA, E. P. ; G. Marchesan . Dimensionamento otimizado de microrrede. In: 40ª Jornada Acadêmica Integrada, 2025. Anais 40ª Jornada Acadêmica Integrada, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise de Métodos Passivos de Proteção Anti-Ilhamento em Sistemas com Geração Distribuída",
+          "autores": "SEVERO JUNIOR, H. D. ; G. Marchesan ;",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada, 2025. Anais 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "SEVERO JUNIOR, H. D. ; G. Marchesan ; . Análise de Métodos Passivos de Proteção Anti-Ilhamento em Sistemas com Geração Distribuída. In: 40ª Jornada Acadêmica Integrada, 2025. Anais 40ª Jornada Acadêmica Integrada, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Impacto da rotulação manual no desempenho do yolov8-seg para segmentação de sol e nuvens",
+          "autores": "SILVA, N. J. O. ; G. Marchesan",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada, 2025, Santa Maria. Anais 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "SILVA, N. J. O. ; G. Marchesan . Impacto da rotulação manual no desempenho do yolov8-seg para segmentação de sol e nuvens. In: 40ª Jornada Acadêmica Integrada, 2025, Santa Maria. Anais 40ª Jornada Acadêmica Integrada, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "ANÁLISE DO CONSUMO DE ENERGIA ELÉTRICA NO PRÉDIO 9C DO CT DA UNIVERSIDADE FEDERAL DE SANTA MARIA",
+          "autores": "FERRAZ, V. F. ; G. Marchesan",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada, 2025, Santa Maria. Anais 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "FERRAZ, V. F. ; G. Marchesan . ANÁLISE DO CONSUMO DE ENERGIA ELÉTRICA NO PRÉDIO 9C DO CT DA UNIVERSIDADE FEDERAL DE SANTA MARIA. In: 40ª Jornada Acadêmica Integrada, 2025, Santa Maria. Anais 40ª Jornada Acadêmica Integrada, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise da influência de sistemas de armazenamento de energia para a estabilidade de redes elétricas",
+          "autores": "SANTOS, G. Q. ; G. Marchesan ;",
+          "periodico": "In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024.",
+          "doi": "",
+          "citacao_completa": "SANTOS, G. Q. ; G. Marchesan ; . Análise da influência de sistemas de armazenamento de energia para a estabilidade de redes elétricas. In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Rastreamento solar e previsão de sombreamento em sistema fotovoltaico",
+          "autores": "OLIVEIRA, M. N. ; G. Marchesan ; EMMENDORFER, L. R.",
+          "periodico": "In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024.",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, M. N. ; G. Marchesan ; EMMENDORFER, L. R. . Rastreamento solar e previsão de sombreamento em sistema fotovoltaico. In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Despacho econômico de potência em microrredes isoladas utilizando programação linear",
+          "autores": "MROGINSKI, T. P. ; G. Marchesan ;",
+          "periodico": "In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024.",
+          "doi": "",
+          "citacao_completa": "MROGINSKI, T. P. ; G. Marchesan ; . Despacho econômico de potência em microrredes isoladas utilizando programação linear. In: 39ª Jornada Acadêmica Integrada, 2024. Anais 39ª Jornada Acadêmica Integrada, 2024."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Estudo para implementação de um estimador de estado em uma instalação elétrica predial",
+          "autores": "SANTOS, D. F. ; G. Marchesan",
+          "periodico": "In: 40ª Jornada Acadêmica Integrada, 2024. Anais 40ª Jornada Acadêmica Integrada, 2025.",
+          "doi": "",
+          "citacao_completa": "SANTOS, D. F. ; G. Marchesan . Estudo para implementação de um estimador de estado em uma instalação elétrica predial. In: 40ª Jornada Acadêmica Integrada, 2024. Anais 40ª Jornada Acadêmica Integrada, 2025."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "UALIDADE DA ENERGIA ELÉTRICA EM SISTEMA DE DISTRIBUIÇÃO TRIFÁSICO À DOIS FIOS",
+          "autores": "SILVEIRA, LEONARDO DE FREITAS ; ; ; DOS SANTOS, L.F.S ; KRAULICH, L. ; DAMIANI, JULIANO S. ; MARCHESAN, G. ; MARTINS, M. S.",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, LEONARDO DE FREITAS ; ; ; DOS SANTOS, L.F.S ; KRAULICH, L. ; DAMIANI, JULIANO S. ; MARCHESAN, G. ; MARTINS, M. S. . UALIDADE DA ENERGIA ELÉTRICA EM SISTEMA DE DISTRIBUIÇÃO TRIFÁSICO À DOIS FIOS. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "COMPARATIVO TÉCNICO-ECONÔMICO ENTRE SISTEMAS DE DISTRIBUIÇÃO RURAL: MRT VS",
+          "autores": "KRAULICH, L. ; ; SILVEIRA, L. F. ; SANTOS, L. F. S. ; MARCHESAN, G. ; DAMIANI, JULIANO S. ; MARTINS, M. S. ; SILVA, T.",
+          "periodico": "TRIFÁSICO CONVENCIONAL VS. T2F. 2023. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "KRAULICH, L. ; ; SILVEIRA, L. F. ; SANTOS, L. F. S. ; MARCHESAN, G. ; DAMIANI, JULIANO S. ; MARTINS, M. S. ; SILVA, T. . COMPARATIVO TÉCNICO-ECONÔMICO ENTRE SISTEMAS DE DISTRIBUIÇÃO RURAL: MRT VS. TRIFÁSICO CONVENCIONAL VS. T2F. 2023. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "?Generación distribuida: un desafío para el sistema de distribución de energía eléctrica",
+          "autores": "MARCHESAN, G.",
+          "periodico": "2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. . ?Generación distribuida: un desafío para el sistema de distribución de energía eléctrica. 2023. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Algoritmos Rastreadores de Frequência: Uma análise crítica para estado permanente e frequência variante no tempo",
+          "autores": "MARCHESAN, G. ; ; ; ; ; MINUSSI, J. P.",
+          "periodico": "2011. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; ; ; MINUSSI, J. P. . Algoritmos Rastreadores de Frequência: Uma análise crítica para estado permanente e frequência variante no tempo. 2011. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "ANÁLISE DO DESEMPENHO DE ALGORITMOS PARA FILTRAGEM DIGITAL OPERANDO EM FREQUÊNCIA OFF- NOMINAL",
+          "autores": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ; MINUSSI, J. P.",
+          "periodico": "2011. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ; MINUSSI, J. P. . ANÁLISE DO DESEMPENHO DE ALGORITMOS PARA FILTRAGEM DIGITAL OPERANDO EM FREQUÊNCIA OFF- NOMINAL. 2011. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Influência de Ruídos e Distorções Harmônicas sobre os Rastreadores de Frequência",
+          "autores": "MARCHESAN, G. ; ; ; ; ;",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "MARCHESAN, G. ; ; ; ; ; . A Influência de Ruídos e Distorções Harmônicas sobre os Rastreadores de Frequência. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Análise da Capacidade dos Algoritmos de Filtragem Digital Fundamentados na TDF em Estimar a Constante de Tempo do Sistema para Freqüência off-nominal",
+          "autores": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ;",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "; ; MARCHESAN, G. ; STEFANELLO, F. ; ; . Análise da Capacidade dos Algoritmos de Filtragem Digital Fundamentados na TDF em Estimar a Constante de Tempo do Sistema para Freqüência off-nominal. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Artes Visuais",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "Festival Internacional de Inverno da UFSM",
+          "autores": "FERRARI, A. M. ; GUERRA, E. ; BAGGIO, D. ; SEVERO, A. ; SOUSA, A. E. ; MARCHESAN, G.",
+          "periodico": "2010. Vídeo.",
+          "doi": "",
+          "citacao_completa": "FERRARI, A. M. ; GUERRA, E. ; BAGGIO, D. ; SEVERO, A. ; SOUSA, A. E. ; MARCHESAN, G. . Festival Internacional de Inverno da UFSM. 2010. Vídeo."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Otimização dos ajustes do esquema regional de alívio de carga e análise dos impactos da proteção anti-ilhamento",
+          "membros": "MARCHESAN, G. ; RESENER, M.; MOTTER, D.;",
+          "candidato": "Gabriela Curin Zorzela",
+          "citacao_completa": "MARCHESAN, G. ; RESENER, M.; MOTTER, D.; . Participação em banca de Gabriela Curin Zorzela. Otimização dos ajustes do esquema regional de alívio de carga e análise dos impactos da proteção anti-ilhamento. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Avaliação do desempenho de sistemas de proteção de redes de distribuição com recursos energéticos distribuídos",
+          "membros": "RESENER, M.; MARCHESAN, G. ; PEREIRA, P. R. S.; LEMOS, F. A. B.",
+          "candidato": "Álvaro Bampi",
+          "citacao_completa": "RESENER, M.; MARCHESAN, G. ; PEREIRA, P. R. S.; LEMOS, F. A. B.. Participação em banca de Álvaro Bampi. Avaliação do desempenho de sistemas de proteção de redes de distribuição com recursos energéticos distribuídos. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "ESPECIFICAÇÃO DE HARDWARE PARA GERENCIAMENTO DE ENERGIA DE UMA MICRORREDE FOTOVOLTAICA ISOLADA COM ARMAZENAMENTO DE ENERGIA EM HIDROGÊNIO VERDE",
+          "membros": "ABREU, J. P. V.; G. Marchesan ; AFFONSO, C. M.; SARAIVA, F. O.",
+          "candidato": "Rodrigo Barroso Gadelha",
+          "citacao_completa": "ABREU, J. P. V.; G. Marchesan ; AFFONSO, C. M.; SARAIVA, F. O.. Participação em banca de Rodrigo Barroso Gadelha. ESPECIFICAÇÃO DE HARDWARE PARA GERENCIAMENTO DE ENERGIA DE UMA MICRORREDE FOTOVOLTAICA ISOLADA COM ARMAZENAMENTO DE ENERGIA EM HIDROGÊNIO VERDE. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2025,
+          "titulo": "ESTIMAÇÃO DE FREQUÊNCIA EM SISTEMAS ELÉTRICOS DE POTÊNCIA PARA SISTEMAS DESBALANCEADOS: UMA ABORDAGEM USANDO MORFOLOGIA MATEMÁTICA",
+          "membros": "SANTOS, E. M.; ; MARCHESAN, G.",
+          "candidato": "Fábio Kaspary Schons",
+          "citacao_completa": "SANTOS, E. M.; ; MARCHESAN, G. . Participação em banca de Fábio Kaspary Schons. ESTIMAÇÃO DE FREQUÊNCIA EM SISTEMAS ELÉTRICOS DE POTÊNCIA PARA SISTEMAS DESBALANCEADOS: UMA ABORDAGEM USANDO MORFOLOGIA MATEMÁTICA. 2025. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Estimação de frequência em sistemas elétricos de potência para sistemas desbalanceados: uma abordagem usando morfologia matemática",
+          "membros": "; MARCHESAN, G. ;",
+          "candidato": "Fábio Kaspary Schons",
+          "citacao_completa": "; MARCHESAN, G. ; . Participação em banca de Fábio Kaspary Schons. Estimação de frequência em sistemas elétricos de potência para sistemas desbalanceados: uma abordagem usando morfologia matemática. 2025. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Avaliação da confiabilidade do sistema de proteção anti-ilhamento de geradores síncronos distribuídos",
+          "membros": "MOTTER, D.; MARUJO, D.; MARCHESAN, G.",
+          "candidato": "Ryan Floriani Serafim de Sousa",
+          "citacao_completa": "MOTTER, D.; MARUJO, D.; MARCHESAN, G. . Participação em banca de Ryan Floriani Serafim de Sousa. Avaliação da confiabilidade do sistema de proteção anti-ilhamento de geradores síncronos distribuídos. 2024. Dissertação (Mestrado em Engenharia Elétrica e Computação) - Universidade Estadual do Oeste do Paraná."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Modelagem de funções de inversores inteligentes executadas por sistemas fotovoltaicos em fluxo de potência",
+          "membros": "LONDON JUNIOR, J. B. A.; MARCHESAN, G. ; PASSOS FILHO, J. A.",
+          "candidato": "Miguel Ferraz Modesto Sampaio Pinto",
+          "citacao_completa": "LONDON JUNIOR, J. B. A.; MARCHESAN, G. ; PASSOS FILHO, J. A.. Participação em banca de Miguel Ferraz Modesto Sampaio Pinto. Modelagem de funções de inversores inteligentes executadas por sistemas fotovoltaicos em fluxo de potência. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2023,
+          "titulo": "MPÁCTOS DA INSERÇÃO DE GERAÇÃO DISTRIBUÍDA FOTOVOLTAICA NA QUALIDADE DE ENERGIA EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA",
+          "membros": "MARCHESAN, G. ; GARCIA, ENOQUE DUTRA; SANTOS, L. L. C.",
+          "candidato": "ELEANDRO LUIS MARQUES DA SILVA",
+          "citacao_completa": "MARCHESAN, G. ; GARCIA, ENOQUE DUTRA; SANTOS, L. L. C.. Participação em banca de ELEANDRO LUIS MARQUES DA SILVA. MPÁCTOS DA INSERÇÃO DE GERAÇÃO DISTRIBUÍDA FOTOVOLTAICA NA QUALIDADE DE ENERGIA EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE DA OPERAÇÃO ILHADA DE MICRORREDES NO SISTEMA ELÉTRICO DE POTÊNCIA",
+          "membros": "MARCHESAN, G. ; OLIVEIRA, AÉCIO DE LIMA;",
+          "candidato": "ELTON RODRIGO DOS SANTOS",
+          "citacao_completa": "MARCHESAN, G. ; OLIVEIRA, AÉCIO DE LIMA; . Participação em banca de ELTON RODRIGO DOS SANTOS. ANÁLISE DA OPERAÇÃO ILHADA DE MICRORREDES NO SISTEMA ELÉTRICO DE POTÊNCIA. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ANÁLISE E DESENVOLVIMENTO DE CONTROLES PARA GERAÇÃO HÍBRIDA FOTOVOLTAICO-DIESEL",
+          "membros": "MARCHESAN, G. ; VIEIRA, J. P. A.;",
+          "candidato": "FABIANO SANTOS FERREIRA",
+          "citacao_completa": "MARCHESAN, G. ; VIEIRA, J. P. A.; . Participação em banca de FABIANO SANTOS FERREIRA. ANÁLISE E DESENVOLVIMENTO DE CONTROLES PARA GERAÇÃO HÍBRIDA FOTOVOLTAICO-DIESEL. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".",
+          "membros": "MARCHESAN, G. ; MORAIS, A. P.; GARCIA, ENOQUE DUTRA",
+          "candidato": "Roberson Adriel Bergmann Ledebuhr",
+          "citacao_completa": "MARCHESAN, G. ; MORAIS, A. P.; GARCIA, ENOQUE DUTRA. Participação em banca de Roberson Adriel Bergmann Ledebuhr.. Detecção de ilhamento em sistemas de transmissão com geração eólica conectado ao Sistema Interligado Nacional. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": "IMPACTO DO CONTROLE DE POTÊNCIA REATIVA E TENSÃO NA DETECÇÃO DE ILHAMENTO EM GERAÇÕES DISTRIBUÍDAS",
+          "membros": "MARCHESAN, G. ; ; VIEIRA JUNIOR, J. C. M.; MICHELS, L.",
+          "candidato": "Caison Rodrigues Ramos",
+          "citacao_completa": "MARCHESAN, G. ; ; VIEIRA JUNIOR, J. C. M.; MICHELS, L.. Participação em banca de Caison Rodrigues Ramos. IMPACTO DO CONTROLE DE POTÊNCIA REATIVA E TENSÃO NA DETECÇÃO DE ILHAMENTO EM GERAÇÕES DISTRIBUÍDAS. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2022,
+          "titulo": "HAITI POWER BALANCE AND ENERGY TRANSITION: EXPANDING ACCESS TO ELECTRICITY THROUGH MICROGRIDS.",
+          "membros": "MARCHESAN, G. ; GUARDA, F. G. K.; PARIZZI, JOCEMAR",
+          "candidato": "Sylvain Rene",
+          "citacao_completa": "MARCHESAN, G. ; GUARDA, F. G. K.; PARIZZI, JOCEMAR. Participação em banca de Sylvain Rene. HAITI POWER BALANCE AND ENERGY TRANSITION: EXPANDING ACCESS TO ELECTRICITY THROUGH MICROGRIDS.. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "AVALIAÇÃO DA PROTEÇÃO E ESTABILIDADE TRANSITÓRIA DE SISTEMA DE DISTRIBUIÇÃO COM RECURSOS ENERGÉTICOS DISTRIBUÍDOS",
+          "membros": "LEMOS, F. A. B.; LEBORGNE, R. C.; MARCHESAN, G. ; RESENER, M.; RAMOS, M. J. S.",
+          "candidato": "Guilherme Silveira de Morais",
+          "citacao_completa": "LEMOS, F. A. B.; LEBORGNE, R. C.; MARCHESAN, G. ; RESENER, M.; RAMOS, M. J. S.. Participação em banca de Guilherme Silveira de Morais. AVALIAÇÃO DA PROTEÇÃO E ESTABILIDADE TRANSITÓRIA DE SISTEMA DE DISTRIBUIÇÃO COM RECURSOS ENERGÉTICOS DISTRIBUÍDOS. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Avaliação de Desempenho de Estratégias Convencionais e Emergentes para Controle de Tensão em Redes de Distribuição de Baixa Tensão com Presença de Microgeração Fotovoltaica",
+          "membros": "VIEIRA, J. P. A.; ; MARCHESAN, G. ; AFFONSO, C. M.",
+          "candidato": "Camila Souza Alves",
+          "citacao_completa": "VIEIRA, J. P. A.; ; MARCHESAN, G. ; AFFONSO, C. M.. Participação em banca de Camila Souza Alves. Avaliação de Desempenho de Estratégias Convencionais e Emergentes para Controle de Tensão em Redes de Distribuição de Baixa Tensão com Presença de Microgeração Fotovoltaica. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2021,
+          "titulo": "ANÁLISE DO DESEQUILÍBRIO DE TENSÃO DE UMA LINHA DE DISTRIBUIÇÃO RURAL TRIFÁSICA NÃO CONVENCIONAL COM DOIS CONDUTORES AÉREOS",
+          "membros": "; MARCHESAN, G. ; BORGES, P. R. O.",
+          "candidato": "EDUARDO GIULIANI",
+          "citacao_completa": "; MARCHESAN, G. ; BORGES, P. R. O.. Participação em banca de EDUARDO GIULIANI. ANÁLISE DO DESEQUILÍBRIO DE TENSÃO DE UMA LINHA DE DISTRIBUIÇÃO RURAL TRIFÁSICA NÃO CONVENCIONAL COM DOIS CONDUTORES AÉREOS. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "ESTUDO DE CASO COM UMA REDE REDUZIDA EM BAIXA TENSÃO, A DOIS CONDUTORES, ALIMENTANDO CARGAS TRIFÁSICAS INDUTIVAS E RESISTIVAS",
+          "membros": "; MARCHESAN, G. ; CANAL, I. P.",
+          "candidato": "SELSO RABELO",
+          "citacao_completa": "; MARCHESAN, G. ; CANAL, I. P.. Participação em banca de SELSO RABELO. ESTUDO DE CASO COM UMA REDE REDUZIDA EM BAIXA TENSÃO, A DOIS CONDUTORES, ALIMENTANDO CARGAS TRIFÁSICAS INDUTIVAS E RESISTIVAS. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PROPOSTA DE UM MÉTODO PARA BLOQUEIO DO ESQUEMA REGIONAL DE ALÍVIO DE CARGA FRENTE A INÉRCIA ROTATIVA DE DESLIGAMENTO DOS MOTORES DE INDUÇÃO",
+          "membros": "; MARCHESAN, G. ; ; SANTOS, E. M.",
+          "candidato": "KAYNAN MARESCH DE ANDRADE",
+          "citacao_completa": "; MARCHESAN, G. ; ; SANTOS, E. M.. Participação em banca de KAYNAN MARESCH DE ANDRADE. PROPOSTA DE UM MÉTODO PARA BLOQUEIO DO ESQUEMA REGIONAL DE ALÍVIO DE CARGA FRENTE A INÉRCIA ROTATIVA DE DESLIGAMENTO DOS MOTORES DE INDUÇÃO. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ANÁLISE DE ATUAÇÃO INDEVIDA DO ERAC EM DESENERGI-ZAÇÃO DE SUBESTAÇÃO, INFLUENCIADA PELA DESACELE-RAÇÃO DE MOTORES E PROPOSTA DE LÓGICA UTILIZANDO A FUNÇÃO ANSI 81U COM DOIS ESTÁGIOS DE TENSÃO DE BLO-QUEIO E TEMPORIZAÇÃO",
+          "membros": "; ; MARCHESAN, G.",
+          "candidato": "Adriano Borges",
+          "citacao_completa": "; ; MARCHESAN, G. . Participação em banca de Adriano Borges. ANÁLISE DE ATUAÇÃO INDEVIDA DO ERAC EM DESENERGI-ZAÇÃO DE SUBESTAÇÃO, INFLUENCIADA PELA DESACELE-RAÇÃO DE MOTORES E PROPOSTA DE LÓGICA UTILIZANDO A FUNÇÃO ANSI 81U COM DOIS ESTÁGIOS DE TENSÃO DE BLO-QUEIO E TEMPORIZAÇÃO. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Modelagem das curvas tempo-corrente de elos-fusíveis do tipo expulsão por meio de redes neurais artificiais",
+          "membros": "; ; GUARDA, F. G. K.; MARCHESAN, GUSTAVO",
+          "candidato": "Guilherme Braga Costa",
+          "citacao_completa": "; ; GUARDA, F. G. K.; MARCHESAN, GUSTAVO . Participação em banca de Guilherme Braga Costa. Modelagem das curvas tempo-corrente de elos-fusíveis do tipo expulsão por meio de redes neurais artificiais. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Método de ondas viajantes a um terminal para proteção de linhas com pouco mais de meio comprimento de onda",
+          "membros": "; MORAIS, A. P.; G. Marchesan ; ; BRETAS, ARTURO S.; SILVA, K. M. E.",
+          "candidato": "Marcel Souza Mattos",
+          "citacao_completa": "; MORAIS, A. P.; G. Marchesan ; ; BRETAS, ARTURO S.; SILVA, K. M. E.. Participação em banca de Marcel Souza Mattos. Método de ondas viajantes a um terminal para proteção de linhas com pouco mais de meio comprimento de onda. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Dimensionamento otimizado de microrredes isoladas com sistemas de armazenamento de hidrogênio verde",
+          "membros": "G. Marchesan ; ; ; VIEIRA, J. P. A.; ARAUJO, O. C. B.",
+          "candidato": "Caison Rodrigues Ramos",
+          "citacao_completa": "G. Marchesan ; ; ; VIEIRA, J. P. A.; ARAUJO, O. C. B.. Participação em banca de Caison Rodrigues Ramos. Dimensionamento otimizado de microrredes isoladas com sistemas de armazenamento de hidrogênio verde. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Metodologia de Ajuste para a Proteção de Taxa de Variação de Frequência Aplicada à Detecção de Ilhamento de Geração Distribuída",
+          "membros": "VIEIRA JUNIOR, J. C. M.; OLESKOVICZ, M.; RESENER, M.; ARAUJO, D. R. R. P.; G. Marchesan",
+          "candidato": "Gabriella Pinheiro dos Santos",
+          "citacao_completa": "VIEIRA JUNIOR, J. C. M.; OLESKOVICZ, M.; RESENER, M.; ARAUJO, D. R. R. P.; G. Marchesan . Participação em banca de Gabriella Pinheiro dos Santos. Metodologia de Ajuste para a Proteção de Taxa de Variação de Frequência Aplicada à Detecção de Ilhamento de Geração Distribuída. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANÁLISE DE CUSTO BENEFÍCIO DO SISTEMA NÃO CONVENCIONAL TRIFÁSICO A DOIS FIOS PARA DISTRIBUIÇÃO DE ENERGIA ELÉTRICA EM MÉDIA TENSÃO NO MEIO RURAL",
+          "membros": "; MARCHESAN, G. ; PERES DE MORAIS, ADRIANO; PIANTINI, A.; ; RAMOS, J. E.",
+          "candidato": "LEYLA KRÄULICH",
+          "citacao_completa": "; MARCHESAN, G. ; PERES DE MORAIS, ADRIANO; PIANTINI, A.; ; RAMOS, J. E.. Participação em banca de LEYLA KRÄULICH. ANÁLISE DE CUSTO BENEFÍCIO DO SISTEMA NÃO CONVENCIONAL TRIFÁSICO A DOIS FIOS PARA DISTRIBUIÇÃO DE ENERGIA ELÉTRICA EM MÉDIA TENSÃO NO MEIO RURAL. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "AVALIAÇÃO PROBABILÍSTICA DO IMPACTO DA RECARGA RÁPIDA DE VEÍCULOS ELÉTRICOS NOS SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+          "membros": "ABREU, J. P. V.; PAVANI, A. P. G.; G. Marchesan ; AFFONSO, C. M.",
+          "candidato": "OSCAR MAURICIO HERNÁNDEZ GÓMEZ",
+          "citacao_completa": "ABREU, J. P. V.; PAVANI, A. P. G.; G. Marchesan ; AFFONSO, C. M.. Participação em banca de OSCAR MAURICIO HERNÁNDEZ GÓMEZ. AVALIAÇÃO PROBABILÍSTICA DO IMPACTO DA RECARGA RÁPIDA DE VEÍCULOS ELÉTRICOS NOS SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DETECÇÃO DE ILHAMENTO EM UM SISTEMA DE DISTRIBUIÇÃO COM MÚLTIPLOS GERADORES DISTRIBUÍDOS UTILIZANDO REDE NEURAL PARACONSISTENTE.",
+          "membros": "; MARCHESAN, G. ; MORAIS, A. P.; MATEUS, A. C.; RAMOS, O. E.; SILVA, R. M.",
+          "candidato": "VIVIANE BARROZO DA SILVA",
+          "citacao_completa": "; MARCHESAN, G. ; MORAIS, A. P.; MATEUS, A. C.; RAMOS, O. E.; SILVA, R. M.. Participação em banca de VIVIANE BARROZO DA SILVA. DETECÇÃO DE ILHAMENTO EM UM SISTEMA DE DISTRIBUIÇÃO COM MÚLTIPLOS GERADORES DISTRIBUÍDOS UTILIZANDO REDE NEURAL PARACONSISTENTE.. 2023."
+        },
+        {
+          "ano": 2020,
+          "titulo": "REDE NEURAL NARX APLICADA AO AMORTECIMENTO DE OSCILAÇÕES DE POTÊNCIA",
+          "membros": "MARCHESAN, G. ; ; GASTALDINI, C. C.; RESENER, M.; LEBORGNE, R. C.",
+          "candidato": "LUIS FELIPE BIANCHI CARBONERA",
+          "citacao_completa": "MARCHESAN, G. ; ; GASTALDINI, C. C.; RESENER, M.; LEBORGNE, R. C.. Participação em banca de LUIS FELIPE BIANCHI CARBONERA. REDE NEURAL NARX APLICADA AO AMORTECIMENTO DE OSCILAÇÕES DE POTÊNCIA. 2020. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Método Ativo virtual para detecção de ilhamento do tipo local e passivo para geradores síncronos distribuídos",
+          "membros": "; ; ; MARCHESAN, G. ; VIEIRA JUNIOR, J. C. M.",
+          "candidato": "Matias Rossato Muraro",
+          "citacao_completa": "; ; ; MARCHESAN, G. ; VIEIRA JUNIOR, J. C. M.. Participação em banca de Matias Rossato Muraro. Método Ativo virtual para detecção de ilhamento do tipo local e passivo para geradores síncronos distribuídos. 2019. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "ESTIMAÇÃO FASORIAL PARA RELÉS DE PROTEÇÃO NUMÉRICOS USANDO REDES NEURAIS ARTIFICIAIS E O ALGORITMO DE LEVENBERG-MARQUARDT",
+          "membros": "; ; COURY, D. V.; MARCHESAN, G. ; OLESKOVICZ, M.",
+          "candidato": "CHRYSTIAN DALLA LANA DA SILVA",
+          "citacao_completa": "; ; COURY, D. V.; MARCHESAN, G. ; OLESKOVICZ, M.. Participação em banca de CHRYSTIAN DALLA LANA DA SILVA. ESTIMAÇÃO FASORIAL PARA RELÉS DE PROTEÇÃO NUMÉRICOS USANDO REDES NEURAIS ARTIFICIAIS E O ALGORITMO DE LEVENBERG-MARQUARDT. 2018. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "TRATAMENTO DA FORMA DE ONDA E ASSIMETRIA DO SINAL INSTANTANEO DA TENSÃO E CORRENTE PARA DETECÇÃO DE OSCILAÇÃO DE POTÊNCIA E BLOQUEIO DE RELÉS DE DISTÂNCIA",
+          "membros": "; ; FERREIRA, G. D.; MARCHESAN, G. ; MORETO, M.",
+          "candidato": "Carlos Andres Lázaro Menco",
+          "citacao_completa": "; ; FERREIRA, G. D.; MARCHESAN, G. ; MORETO, M.. Participação em banca de Carlos Andres Lázaro Menco. TRATAMENTO DA FORMA DE ONDA E ASSIMETRIA DO SINAL INSTANTANEO DA TENSÃO E CORRENTE PARA DETECÇÃO DE OSCILAÇÃO DE POTÊNCIA E BLOQUEIO DE RELÉS DE DISTÂNCIA. 2018. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Metodologia para identificação e discriminação de transitórios elétricos em transformadores de potência por meio da transformada wavelet discreta.",
+          "membros": "; ; MOREIRA, F. A.; MARCHESAN, G. ;",
+          "candidato": "Jeferson Prates Marques",
+          "citacao_completa": "; ; MOREIRA, F. A.; MARCHESAN, G. ; . Participação em banca de Jeferson Prates Marques. Metodologia para identificação e discriminação de transitórios elétricos em transformadores de potência por meio da transformada wavelet discreta.. 2018. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "MÉTODO ANALÍTICO PARA A DETERMINAÇÃO DE CAPACITÂNCIAS PARASITAS EM SISTEMAS ELETROMAGNÉTICOS",
+          "membros": "; ; MARCHESAN, GUSTAVO ; BASTOS, J. P. A.; MARCHESAN, T. B.",
+          "candidato": "Luiz Fernando de Freitas Gutierres",
+          "citacao_completa": "; ; MARCHESAN, GUSTAVO ; BASTOS, J. P. A.; MARCHESAN, T. B.. Participação em banca de Luiz Fernando de Freitas Gutierres. MÉTODO ANALÍTICO PARA A DETERMINAÇÃO DE CAPACITÂNCIAS PARASITAS EM SISTEMAS ELETROMAGNÉTICOS. 2017. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "REDE NEURAL CONTINUAMENTE TREINADA PARA LOCALIZAÇÃO DE FALTAS DE ALTA IMPEDÂNCIA EM REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+          "membros": "; BRETAS, A. S.; MORETO, M.; MARCHESAN, G. ;",
+          "candidato": "Patrick Escalante Farias",
+          "citacao_completa": "; BRETAS, A. S.; MORETO, M.; MARCHESAN, G. ; . Participação em banca de Patrick Escalante Farias. REDE NEURAL CONTINUAMENTE TREINADA PARA LOCALIZAÇÃO DE FALTAS DE ALTA IMPEDÂNCIA EM REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2017. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Dimensionamento ótimo de microrredes isoladas com sistemas de armazenamento de hidrogênio verde",
+          "membros": "MARCHESAN, G. ; SANTOS, E. M.; VIEIRA, J. P. A.; SPERANDIO, M.; ARAUJO, O. C. B.",
+          "candidato": "Caison Rodrigues Ramos",
+          "citacao_completa": "MARCHESAN, G. ; SANTOS, E. M.; VIEIRA, J. P. A.; SPERANDIO, M.; ARAUJO, O. C. B.. Participação em banca de Caison Rodrigues Ramos. Dimensionamento ótimo de microrredes isoladas com sistemas de armazenamento de hidrogênio verde. 2025. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "REDE NEURAL APLICADA A PROTEÇÃO DE DISTÂNCIA COM ALTO DESEMPENHO EM LINHAS DE TRANSMISSÃO DE TRÊS TERMINAIS.",
+          "membros": "MORAIS, A. P.; SANTOS, E. M.; ; G. Marchesan ; ABREU, J. P. V.",
+          "candidato": "u MATHEUS FANFA DA VEIGA",
+          "citacao_completa": "MORAIS, A. P.; SANTOS, E. M.; ; G. Marchesan ; ABREU, J. P. V.. Participação em banca de u MATHEUS FANFA DA VEIGA. REDE NEURAL APLICADA A PROTEÇÃO DE DISTÂNCIA COM ALTO DESEMPENHO EM LINHAS DE TRANSMISSÃO DE TRÊS TERMINAIS.. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise e otimização de sistemas de aterramento em redes tipo T2F",
+          "membros": "; RAMOS, D. B.; SANTOS, E. M.; MARCHESAN, G. ; FREITAS-GUTIERRES, LUIZ F.",
+          "candidato": "MIGUEL SPAGNOLO MARTINS",
+          "citacao_completa": "; RAMOS, D. B.; SANTOS, E. M.; MARCHESAN, G. ; FREITAS-GUTIERRES, LUIZ F.. Participação em banca de MIGUEL SPAGNOLO MARTINS. Análise e otimização de sistemas de aterramento em redes tipo T2F. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Metodologia de Ajuste para Funções de Proteção Anti-ilhamento Considerando Requisitos de Suportabilidade a Variações de Frequência e Tensão",
+          "membros": "VIEIRA JUNIOR, J. C. M.; MARCHESAN, G. ; OLESKOVICZ, M.",
+          "candidato": "Gabriella Pinheiro dos Santos",
+          "citacao_completa": "VIEIRA JUNIOR, J. C. M.; MARCHESAN, G. ; OLESKOVICZ, M.. Participação em banca de Gabriella Pinheiro dos Santos. Metodologia de Ajuste para Funções de Proteção Anti-ilhamento Considerando Requisitos de Suportabilidade a Variações de Frequência e Tensão. 2023. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2023,
+          "titulo": "MÉTODO DE ONDAS VIAJANTES A UM TERMINAL PARA PROTEÇÃO DE DISTÂNCIA DE LINHAS DE UM POUCO MAIS DE MEIO COMPRIMENTO DE ONDA",
+          "membros": "; MORAIS, A. P.; OLIVEIRA, AÉCIO DE LIMA; MARCHESAN, G. ; SILVA, K. M. E.",
+          "candidato": "MARCEL SOUZA MATTOS",
+          "citacao_completa": "; MORAIS, A. P.; OLIVEIRA, AÉCIO DE LIMA; MARCHESAN, G. ; SILVA, K. M. E.. Participação em banca de MARCEL SOUZA MATTOS. MÉTODO DE ONDAS VIAJANTES A UM TERMINAL PARA PROTEÇÃO DE DISTÂNCIA DE LINHAS DE UM POUCO MAIS DE MEIO COMPRIMENTO DE ONDA. 2023. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "AVALIAÇÃO PROBABILÍSTICA DO IMPACTO DA RECARGA RÁPIDA DE VEÍCULOS ELÉTRICOS NOS SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA",
+          "membros": "MARCHESAN, G. ; ABREU, J. P. V.",
+          "candidato": "OSCAR MAURICIO HERNÁNDEZ GÓMEZ",
+          "citacao_completa": "MARCHESAN, G. ; ABREU, J. P. V.. Participação em banca de OSCAR MAURICIO HERNÁNDEZ GÓMEZ. AVALIAÇÃO PROBABILÍSTICA DO IMPACTO DA RECARGA RÁPIDA DE VEÍCULOS ELÉTRICOS NOS SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2021. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Pará."
+        },
+        {
+          "ano": 2021,
+          "titulo": "METODOLOGIA HEURÍSTICA PARA ALOCAÇÕES E DIMENSIONAMENTO DE PVSTATCOM PARA O AJUSTE DE TENSÃO NO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA TENSÃO.",
+          "membros": "; MARCHESAN, G. ; GUARDA, F. G. K.; PINHEIRO, H.; VIEIRA JUNIOR, J. C. M.; ARAUJO, O. C. B.",
+          "candidato": "ZEDEQUIAS MACHADO ALVES",
+          "citacao_completa": "; MARCHESAN, G. ; GUARDA, F. G. K.; PINHEIRO, H.; VIEIRA JUNIOR, J. C. M.; ARAUJO, O. C. B.. Participação em banca de ZEDEQUIAS MACHADO ALVES. METODOLOGIA HEURÍSTICA PARA ALOCAÇÕES E DIMENSIONAMENTO DE PVSTATCOM PARA O AJUSTE DE TENSÃO NO SISTEMA DE DISTRIBUIÇÃO DE MÉDIA TENSÃO.. 2021. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "UMA NOVA PROPOSTA PARA ESTIMAÇÃO DE FREQUÊNCIA EM SISTEMAS ELÉTRICOS DE POTÊNCIA USANDO MÍNIMOS QUADRADOS E PSO",
+          "membros": "SANTOS, E. M.; MARCHESAN, G. ;",
+          "candidato": "Fábio Kaspary Schons",
+          "citacao_completa": "SANTOS, E. M.; MARCHESAN, G. ; . Participação em banca de Fábio Kaspary Schons. UMA NOVA PROPOSTA PARA ESTIMAÇÃO DE FREQUÊNCIA EM SISTEMAS ELÉTRICOS DE POTÊNCIA USANDO MÍNIMOS QUADRADOS E PSO. 2024. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": ".Relatório das Atividades Desenvolvidas Durante o Estágio Supervisionado",
+          "membros": "MARCHESAN, GUSTAVO ; GUARDA, F. G. K.; MARCHESAN, A. C.",
+          "candidato": "Paulo Henrique de Oliveira",
+          "citacao_completa": "MARCHESAN, GUSTAVO ; GUARDA, F. G. K.; MARCHESAN, A. C.. Participação em banca de Paulo Henrique de Oliveira.Relatório das Atividades Desenvolvidas Durante o Estágio Supervisionado. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Supervisão de Instalações Elétricas Industriais",
+          "membros": "GOMES, N. R.; MARCHESAN, GUSTAVO ; NAIDON, T. C.",
+          "candidato": "Roger Hatwig de Lima",
+          "citacao_completa": "GOMES, N. R.; MARCHESAN, GUSTAVO ; NAIDON, T. C.. Participação em banca de Roger Hatwig de Lima.Supervisão de Instalações Elétricas Industriais. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Engenharia de Aplicação em Transformadores de Distribuição de Energia Elétrica",
+          "membros": "GOMES, N. R.; MARCHESAN, GUSTAVO ; NAIDON, T. C.",
+          "candidato": "Henrique Possebon Sauer",
+          "citacao_completa": "GOMES, N. R.; MARCHESAN, GUSTAVO ; NAIDON, T. C.. Participação em banca de Henrique Possebon Sauer.Engenharia de Aplicação em Transformadores de Distribuição de Energia Elétrica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Relatório das Atividades Desenvolvidas Durante o Estágio Supervisionado",
+          "membros": "GOMES, N. R.; MARCHESAN, G. ; NAIDON, T. C.",
+          "candidato": "Mateus Grassi Duarte",
+          "citacao_completa": "GOMES, N. R.; MARCHESAN, G. ; NAIDON, T. C.. Participação em banca de Mateus Grassi Duarte.Relatório das Atividades Desenvolvidas Durante o Estágio Supervisionado. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Um Estudo Sobre Estimação De Frequência",
+          "membros": "GOMES, N. R.; MARCHESAN, G. ; MINUSSI, J. P.",
+          "candidato": "Roger Hatwig de Lima",
+          "citacao_completa": "GOMES, N. R.; MARCHESAN, G. ; MINUSSI, J. P.. Participação em banca de Roger Hatwig de Lima.Um Estudo Sobre Estimação De Frequência. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Metodologia de Medição Indireta de Correntes Geomagneticamente Induzidas em Sistemas Elétricos de Potência",
+          "membros": "MARCHESAN, G. ; GUARDA, F. G. K.; MARCHESAN, A. C.",
+          "candidato": "Paulo Henrique de Oliveira",
+          "citacao_completa": "MARCHESAN, G. ; GUARDA, F. G. K.; MARCHESAN, A. C.. Participação em banca de Paulo Henrique de Oliveira.Metodologia de Medição Indireta de Correntes Geomagneticamente Induzidas em Sistemas Elétricos de Potência. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um Software Interativo para Inserção Automática de Equivalentes Elétricos do Sistema Interligado Nacional no ATPDRAW",
+          "membros": "MARIOTTO, L.; MARCHESAN, A. C.; MARCHESAN, G.",
+          "candidato": "Paulo Fernando Alves Filho",
+          "citacao_completa": "MARIOTTO, L.; MARCHESAN, A. C.; MARCHESAN, G. . Participação em banca de Paulo Fernando Alves Filho.Desenvolvimento de um Software Interativo para Inserção Automática de Equivalentes Elétricos do Sistema Interligado Nacional no ATPDRAW. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Fluxo de Potência pelo Método da Matriz Z: Substituição em Bloco e Subsequente",
+          "membros": "; MENCO, C. L.; MARCHESAN, G.",
+          "candidato": "Henrique Possebon Sauer",
+          "citacao_completa": "; MENCO, C. L.; MARCHESAN, G. . Participação em banca de Henrique Possebon Sauer.Fluxo de Potência pelo Método da Matriz Z: Substituição em Bloco e Subsequente. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de um Software Interativo para Estudo de Estabilidade Angular Transitória em Sistemas Elétricos de Potência",
+          "membros": "MARIOTTO, L.; MARCHESAN, G. ; FONTOURA, L. M.",
+          "candidato": "Adriano Cavalheiro Marchesan",
+          "citacao_completa": "MARIOTTO, L.; MARCHESAN, G. ; FONTOURA, L. M.. Participação em banca de Adriano Cavalheiro Marchesan.Desenvolvimento de um Software Interativo para Estudo de Estabilidade Angular Transitória em Sistemas Elétricos de Potência. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Cálculo e Análise Comparativa de Curto-Circuitos em Sistemas Elétricos de Potência Utilizando o Método das Componentes Simétricas e o Software ATP",
+          "membros": "MARIOTTO, L.; ; MARCHESAN, G.",
+          "candidato": "Leyla Kräulich",
+          "citacao_completa": "MARIOTTO, L.; ; MARCHESAN, G. . Participação em banca de Leyla Kräulich.Cálculo e Análise Comparativa de Curto-Circuitos em Sistemas Elétricos de Potência Utilizando o Método das Componentes Simétricas e o Software ATP. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Relatório de Estágio Supervisionado em Engenharia Elétrica",
+          "membros": "MARIOTTO, L.; ; MARCHESAN, G.",
+          "candidato": "Adriano Cavalheiro Marchesan",
+          "citacao_completa": "MARIOTTO, L.; ; MARCHESAN, G. . Participação em banca de Adriano Cavalheiro Marchesan.Relatório de Estágio Supervisionado em Engenharia Elétrica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Relatório de Estágio Supervisionado em Engenharia Elétrica",
+          "membros": "MARIOTTO, L.; MARCHESAN, A. C.; MARCHESAN, G.",
+          "candidato": "Leyla Kräulich",
+          "citacao_completa": "MARIOTTO, L.; MARCHESAN, A. C.; MARCHESAN, G. . Participação em banca de Leyla Kräulich.Relatório de Estágio Supervisionado em Engenharia Elétrica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Redes neurais artificiais aplicadas a sistemas de potência",
+          "membros": "GOMES, N. R.; BARBOSA, V. L.; MARCHESAN, G.",
+          "candidato": "Mateus Grassi Duarte",
+          "citacao_completa": "GOMES, N. R.; BARBOSA, V. L.; MARCHESAN, G. . Participação em banca de Mateus Grassi Duarte.Redes neurais artificiais aplicadas a sistemas de potência. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Determinação e Localização da Trajetória do Centro Elétrico de um Sistema Elétrico de Potência",
+          "membros": "MARIOTTO, L.; ; MARCHESAN, G.",
+          "candidato": "Camilla Leimann Pires",
+          "citacao_completa": "MARIOTTO, L.; ; MARCHESAN, G. . Participação em banca de Camilla Leimann Pires.Determinação e Localização da Trajetória do Centro Elétrico de um Sistema Elétrico de Potência. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Relatório de Estágio Supervisionado em Engenharia Elétrica",
+          "membros": "MARIOTTO, L.; ; MARCHESAN, G.",
+          "candidato": "Camilla Leimann Pires",
+          "citacao_completa": "MARIOTTO, L.; ; MARCHESAN, G. . Participação em banca de Camilla Leimann Pires.Relatório de Estágio Supervisionado em Engenharia Elétrica. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".WEG-Centro de Negócios de Energia - Administração de Contratos",
+          "membros": "MARCHESAN, G. ; ;",
+          "candidato": "Tainara Negrini Zanini",
+          "citacao_completa": "MARCHESAN, G. ; ; . Participação em banca de Tainara Negrini Zanini.WEG-Centro de Negócios de Energia - Administração de Contratos. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Proteção Contra Perda de Excitação: Análise e Comparação de Alguns Métodos Existentes na Literatura",
+          "membros": "MARCHESAN, G. ; ;",
+          "candidato": "Tainara Negrini Zanini",
+          "citacao_completa": "MARCHESAN, G. ; ; . Participação em banca de Tainara Negrini Zanini.Proteção Contra Perda de Excitação: Análise e Comparação de Alguns Métodos Existentes na Literatura. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Rio Grande Energia: Departamento de Engenharia e Gestão de Ativos",
+          "membros": "; MARCHESAN, G. ;",
+          "candidato": "Thiago Crema Doleski",
+          "citacao_completa": "; MARCHESAN, G. ; . Participação em banca de Thiago Crema Doleski.Rio Grande Energia: Departamento de Engenharia e Gestão de Ativos. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Professor titular",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "MARCHESAN, G. . Concurso Público para Professor do Magistério Superior - Edital n° 231/2024). 2024. Universidade Federal",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "MARCHESAN, G. . Concurso Público para Professor do Magistério Superior - Edital n° 231/2024). 2024. Universidade Federal do Pampa."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "MARCHESAN, G. ; ; NASCIMENTO, C. S. C.. Comissão examinadora de concurso público para Professor do Magistério Superior n",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "MARCHESAN, G. ; ; NASCIMENTO, C. S. C.. Comissão examinadora de concurso público para Professor do Magistério Superior na área de engenharia de energia.. 2021. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2021,
+          "titulo": "GUARDA, F. G. K.; MARCHESAN, G. ; PINTO, M. S. S.. Comissão Examinadora do concurso do Edital de abertura de Concurso Pú",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "GUARDA, F. G. K.; MARCHESAN, G. ; PINTO, M. S. S.. Comissão Examinadora do concurso do Edital de abertura de Concurso Público N. 197 de 04 de novembro de 2019. 2021."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "MARCHESAN, G. . Membro da banca examinadora do trabalho científico \"Assessing the incorrect undervoltage blocking of fre",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "MARCHESAN, G. . Membro da banca examinadora do trabalho científico \"Assessing the incorrect undervoltage blocking of frequency-dependent relays for anti-islanding protection of a synchronous generator\" para promoção de docente à classe de Professor Associado da UNIOESTE. 2025. Universidade Estadual do Oeste do Paraná."
+        }
+      ]
+    }
+  ]
+}

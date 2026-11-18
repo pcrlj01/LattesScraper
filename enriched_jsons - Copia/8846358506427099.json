@@ -1,0 +1,2296 @@
+{
+  "name": "Luiz Fernando de Freitas Gutierres",
+  "lattes_id": "8846358506427099",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Development of a Hardware-in-the-Loop Framework for Power System Protective Relay Testing: An Approach Using Real-Time Co-Simulation",
+          "autores": "; ; ; Kostić ; Wolter, M. ; ; Simić ; Freitas-Gutierres, L. F. ;",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , p. 1-13, 2026.",
+          "doi": "http://dx.doi.org/10.1109/TIA.2026.3689858",
+          "citacao_completa": "; ; ; Kostić ; Wolter, M. ; ; Simić ; Freitas-Gutierres, L. F. ; . Development of a Hardware-in-the-Loop Framework for Power System Protective Relay Testing: An Approach Using Real-Time Co-Simulation. IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , p. 1-13, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "High-Frequency Current Transformers in Rotating Machines: A Critical Review",
+          "autores": "; ANDRES, CHRISTOPH ; FRITSCH, MARTIN ; WOLTER, MARTIN ; ; ; FREITAS-GUTIERRES, LUIZ F. ;",
+          "periodico": "IEEE Access , v. EA, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3696216",
+          "citacao_completa": "; ANDRES, CHRISTOPH ; FRITSCH, MARTIN ; WOLTER, MARTIN ; ; ; FREITAS-GUTIERRES, LUIZ F. ; . High-Frequency Current Transformers in Rotating Machines: A Critical Review. IEEE Access , v. EA, p. 1-1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Advancing substation inspection: The Hilbert-Huang transform approach for partial discharge recognition and assessment",
+          "autores": "FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ; ; ; ; ;",
+          "periodico": "MEASUREMENT , v. 247, p. 116846, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2025.116846",
+          "citacao_completa": "FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ; ; ; ; ; . Advancing substation inspection: The Hilbert-Huang transform approach for partial discharge recognition and assessment. MEASUREMENT , v. 247, p. 116846, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Innovative Approach for Detecting Early-Stage Partial Discharges in Instrument Transformers via Ultrasound and Random Forest Analysis",
+          "autores": "; FREITAS-GUTIERRES, L.F. ; ; ; ; ; ; ; ; ;",
+          "periodico": "MEASUREMENT , v. 232, p. 114710, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2024.114710",
+          "citacao_completa": "; FREITAS-GUTIERRES, L.F. ; ; ; ; ; ; ; ; ; . Innovative Approach for Detecting Early-Stage Partial Discharges in Instrument Transformers via Ultrasound and Random Forest Analysis. MEASUREMENT , v. 232, p. 114710, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Framework for decision-making in preventive maintenance: Electric field analysis and partial discharge diagnosis of high-voltage insulators",
+          "autores": "FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ; ; ; ; ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 233, p. 110447, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110447",
+          "citacao_completa": "FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ; ; ; ; ; . Framework for decision-making in preventive maintenance: Electric field analysis and partial discharge diagnosis of high-voltage insulators. ELECTRIC POWER SYSTEMS RESEARCH , v. 233, p. 110447, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Novel Method for Online Diagnostic Analysis of Partial Discharge in Instrument Transformers and Surge Arresters from the Correlation of HFCT and IEC Methods",
+          "autores": "; ; ; ; Freitas-Gutierres, Luiz Fernando ; ; ; ; ;",
+          "periodico": "Energies , v. 17, p. 4921, 2024.",
+          "doi": "http://dx.doi.org/10.3390/en17194921",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, Luiz Fernando ; ; ; ; ; . A Novel Method for Online Diagnostic Analysis of Partial Discharge in Instrument Transformers and Surge Arresters from the Correlation of HFCT and IEC Methods. Energies , v. 17, p. 4921, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Impacts of output voltage control on PV generation islanding detection function",
+          "autores": "; ; ; FREITAS-GUTIERRES, LUIZ F. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110897, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110897",
+          "citacao_completa": "; ; ; FREITAS-GUTIERRES, LUIZ F. ; . Impacts of output voltage control on PV generation islanding detection function. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110897, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Advanced Diagnostic Approach for High-Voltage Insulators: Analyzing Partial Discharges through Zero-Crossing Rate and Fundamental Frequency Estimation of Acoustic Raw Data",
+          "autores": "; FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ;",
+          "periodico": "Energies , v. 16, p. 6033-21, 2023.",
+          "doi": "http://dx.doi.org/10.3390/en16166033",
+          "citacao_completa": "; FREITAS-GUTIERRES, LUIZ F. ; ; ; ; ; ; ; . Advanced Diagnostic Approach for High-Voltage Insulators: Analyzing Partial Discharges through Zero-Crossing Rate and Fundamental Frequency Estimation of Acoustic Raw Data. Energies , v. 16, p. 6033-21, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Rate of Change of Active Power as a Power Swing Blocking Function of Distance Relays",
+          "autores": "; ; ; Freitas-Gutierres, L. F. ;",
+          "periodico": "IEEE Latin America Transactions , v. 20, p. 259-268, 2022.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2022.9661465",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. ; . Rate of Change of Active Power as a Power Swing Blocking Function of Distance Relays. IEEE Latin America Transactions , v. 20, p. 259-268, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aprendizagem ativa por meio da prototipagem rÃ¡pida em um Curso de GraduaÃ§Ã£o em Engenharia de Energia",
+          "autores": "; Freitas-Gutierres, Luiz Fernando",
+          "periodico": "Thema (Pelotas) , v. 21, p. 776-795, 2022.",
+          "doi": "http://dx.doi.org/10.15536/thema.v21.2022.776-795.2197",
+          "citacao_completa": "; Freitas-Gutierres, Luiz Fernando . Aprendizagem ativa por meio da prototipagem rÃ¡pida em um Curso de GraduaÃ§Ã£o em Engenharia de Energia. Thema (Pelotas) , v. 21, p. 776-795, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Passive Islanding Detection Based on Angular Velocity Harmonic Patterns with Perceptron Neural Network",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "IEEE Latin America Transactions , v. 19, p. 1665-1673, 2021.",
+          "doi": "http://dx.doi.org/10.1109/tla.2021.9477269",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Passive Islanding Detection Based on Angular Velocity Harmonic Patterns with Perceptron Neural Network. IEEE Latin America Transactions , v. 19, p. 1665-1673, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Promovendo o consumo consciente e sustentável de energia elétrica por meio de um projeto de extensão universitária para a educação fundamental",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "REVISTA BRASILEIRA DE EXTENSÃO UNIVERSITÁRIA , v. 12, p. 297-310, 2021.",
+          "doi": "http://dx.doi.org/10.36661/2358-0399.2021v12i3.12346",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . Promovendo o consumo consciente e sustentável de energia elétrica por meio de um projeto de extensão universitária para a educação fundamental. REVISTA BRASILEIRA DE EXTENSÃO UNIVERSITÁRIA , v. 12, p. 297-310, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A morphological approach for turn-to-turn fault detection in synchronous split-phase generators",
+          "autores": "; ; ; Freitas-Gutierres, L. F. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107555",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. ; . A morphological approach for turn-to-turn fault detection in synchronous split-phase generators. ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2021."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Prototipagem 3D na componente curricular de tópicos especiais como apoio às ações extensionistas em escolas de Bagé",
+          "autores": "; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "Revista de Ensino de Engenharia. , v. 38, p. 34-42, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; . Prototipagem 3D na componente curricular de tópicos especiais como apoio às ações extensionistas em escolas de Bagé. Revista de Ensino de Engenharia. , v. 38, p. 34-42, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "EMTP-ATP Modelling of Single-Layer Air-Core Inductors for Very High-Frequency Transients",
+          "autores": "de Freitas Gutierres, L. F. ; Martinez-Velasco, J. A. ;",
+          "periodico": "IEEE Latin America Transactions , v. 16, p. 2591-2599, 2018.",
+          "doi": "http://dx.doi.org/10.1109/tla.2018.8795139",
+          "citacao_completa": "de Freitas Gutierres, L. F. ; Martinez-Velasco, J. A. ; . EMTP-ATP Modelling of Single-Layer Air-Core Inductors for Very High-Frequency Transients. IEEE Latin America Transactions , v. 16, p. 2591-2599, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Analytical Technique for Evaluating Stray Capacitances in Multiconductor Systems: Single-Layer Air-Core Inductors",
+          "autores": "de Freitas Gutierres, Luiz Fernando ;",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 33, p. 1-1, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2017.2745213",
+          "citacao_completa": "de Freitas Gutierres, Luiz Fernando ; . Analytical Technique for Evaluating Stray Capacitances in Multiconductor Systems: Single-Layer Air-Core Inductors. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 33, p. 1-1, 2017."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Ind.Cyber.Sec Letters: volume 1 - estudos e reflexões sobre cibersegurança industrial",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "1. ed. Santa Maria: Editora PRE da Universidade Federal de Santa Maria, 2026. v. 1. 62p .",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Ind.Cyber.Sec Letters: volume 1 - estudos e reflexões sobre cibersegurança industrial. 1. ed. Santa Maria: Editora PRE da Universidade Federal de Santa Maria, 2026. v. 1. 62p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "[Reprint] Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "In: Jamile Sabatini Marques; Joice Adinete Ramos. (Org.). Tecnologia e inovação: governança, estratégia e desenvolvimento digital do Brasil. 1ed.São Paulo: Associação Brasileira das Empresas de Software, 2026, v. , p. 72-74.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Reprint] Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações. In: Jamile Sabatini Marques; Joice Adinete Ramos. (Org.). Tecnologia e inovação: governança, estratégia e desenvolvimento digital do Brasil. 1ed.São Paulo: Associação Brasileira das Empresas de Software, 2026, v. , p. 72-74."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Inteligência de fontes abertas no setor elétrico",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "In: Emerson Wendt; Alesandro Golçalves Barreto. (Org.). Tratado de OSINT - volume I: técnicas de inteligência e investigação. 1ed.Porto Alegre: WB Editora, 2026, v. 1, p. 1-367.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Inteligência de fontes abertas no setor elétrico. In: Emerson Wendt; Alesandro Golçalves Barreto. (Org.). Tratado de OSINT - volume I: técnicas de inteligência e investigação. 1ed.Porto Alegre: WB Editora, 2026, v. 1, p. 1-367."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Reprint] Advanced Diagnostic Approach for High-Voltage Insulators: Analyzing Partial Discharges through Zero-Crossing Rate and Fundamental Frequency Estimation of Acoustic Raw Data",
+          "autores": "; Freitas-Gutierres, L. F. ; ; ; ; ; ; ;",
+          "periodico": "In: Tomasz Norbert Kołtunowicz. (Org.). Dielectric Insulation in Medium- and High-Voltage Power Equipment: Degradation and Failure Mechanism, Diagnostics, and Electrical Parameters Improvement. 1ed.Basel: MDPI AG, 2024, v. , p. 56-76.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; ; ; ; ; ; . [Reprint] Advanced Diagnostic Approach for High-Voltage Insulators: Analyzing Partial Discharges through Zero-Crossing Rate and Fundamental Frequency Estimation of Acoustic Raw Data. In: Tomasz Norbert Kołtunowicz. (Org.). Dielectric Insulation in Medium- and High-Voltage Power Equipment: Degradation and Failure Mechanism, Diagnostics, and Electrical Parameters Improvement. 1ed.Basel: MDPI AG, 2024, v. , p. 56-76."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Malware, vírus, trojan..",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "afinal, do que estamos falando?. Jornal Certajano, 31 jul. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Malware, vírus, trojan... afinal, do que estamos falando?. Jornal Certajano, 31 jul. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Talvez você esteja focado no termômetro e não na doença",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Guia do PC, 26 jun. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Talvez você esteja focado no termômetro e não na doença. Guia do PC, 26 jun. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Não seja fisgado nesta pescaria digital!",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Jornal Certajano, 31 maio 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Não seja fisgado nesta pescaria digital!. Jornal Certajano, 31 maio 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Disputas geopolíticas e a nova onda de ataques cibernéticos contra sistemas de controle industrial",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "IT Forum, 30 abr. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Disputas geopolíticas e a nova onda de ataques cibernéticos contra sistemas de controle industrial. IT Forum, 30 abr. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Projetos de extensão da UFSM colaboram com a segurança cibernética de prefeituras gaúchas",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Isso é Extensão UFSM, 17 abr. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Projetos de extensão da UFSM colaboram com a segurança cibernética de prefeituras gaúchas. Isso é Extensão UFSM, 17 abr. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Você usa senhas realmente seguras?",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Jornal Certajano, 31 mar. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Você usa senhas realmente seguras?. Jornal Certajano, 31 mar. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "[Reprint] As operações do grupo de ransomware Warlock e os riscos potenciais ao domínio cibernético brasileiro",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Think Tank da ABES, 20 fev. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Reprint] As operações do grupo de ransomware Warlock e os riscos potenciais ao domínio cibernético brasileiro. Think Tank da ABES, 20 fev. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "As operações do grupo de ransomware Warlock e os riscos potenciais ao domínio cibernético brasileiro",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "IT Forum, 13 fev. 2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . As operações do grupo de ransomware Warlock e os riscos potenciais ao domínio cibernético brasileiro. IT Forum, 13 fev. 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Reprint] Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Think Tank da ABES, 22 dez. 2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Reprint] Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações. Think Tank da ABES, 22 dez. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "IT Forum, 15 dez. 2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Ameaças internas seguem como um risco crescente para a segurança cibernética das organizações. IT Forum, 15 dez. 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Professor da UFSM promove treinamento sobre cibersegurança no município de Mata",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "Isso é Extensão UFSM, 28 nov. 2024.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Professor da UFSM promove treinamento sobre cibersegurança no município de Mata. Isso é Extensão UFSM, 28 nov. 2024."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "PRPD Construction and Analysis Using HFCT in Oil-Immersed High-Voltage Current Transformers",
+          "autores": "; Andres, C. ; Wolter, M. ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: 2026 IEEE Power & Energy Society General Meeting (PESGM), 2026, San Francisco. 2026 IEEE Power & Energy Society General Meeting (PESGM), 2026.",
+          "doi": "",
+          "citacao_completa": "; Andres, C. ; Wolter, M. ; ; ; Freitas-Gutierres, L. F. ; ; . PRPD Construction and Analysis Using HFCT in Oil-Immersed High-Voltage Current Transformers. In: 2026 IEEE Power & Energy Society General Meeting (PESGM), 2026, San Francisco. 2026 IEEE Power & Energy Society General Meeting (PESGM), 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Um cyber range baseado em contêineres para ensino de cibersegurança em tecnologias operacionais e sistemas de controle industrial",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; Pinto, J. J. B. S. ; Rodrigues, M. G. ; Farias, R. R. ; ; Gomes, R. J. P.",
+          "periodico": "In: LIII Seminário Integrado de Software e Hardware (SEMISH), Congresso da Sociedade Brasileira de Computação (CSBC), 2026, Gramado. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2026. p. 734-745.",
+          "doi": "http://dx.doi.org/10.5753/semish.2026.23661",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; Pinto, J. J. B. S. ; Rodrigues, M. G. ; Farias, R. R. ; ; Gomes, R. J. P. . Um cyber range baseado em contêineres para ensino de cibersegurança em tecnologias operacionais e sistemas de controle industrial. In: LIII Seminário Integrado de Software e Hardware (SEMISH), Congresso da Sociedade Brasileira de Computação (CSBC), 2026, Gramado. Anais [...]. Porto Alegre: Sociedade Brasileira de Computação, 2026. p. 734-745."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Detecção e diagnóstico de descargas parciais através do PRPD em medições ultrassônicas",
+          "autores": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais [...], 2025.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. . Detecção e diagnóstico de descargas parciais através do PRPD em medições ultrassônicas. In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais [...], 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Impacto da nidificação do João-de-Barro (Furnarius Rufus) na degradação de isoladores em redes de distribuição: um estudo de caso com inspeções ultrassônicas e visuais",
+          "autores": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais [...], 2025.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. ; ; . Impacto da nidificação do João-de-Barro (Furnarius Rufus) na degradação de isoladores em redes de distribuição: um estudo de caso com inspeções ultrassônicas e visuais. In: XX Encontro Regional Ibero-Americano do CIGRE, 2025, Ciudad del Este. Anais [...], 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Repositório de incidentes de segurança cibernética para investigação de ameaças no setor elétrico",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; Correa, J. H. B. ; Thomas, W.",
+          "periodico": "In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais [...]. Rio de Janeiro: CIGRE-Brasil, 2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; Correa, J. H. B. ; Thomas, W. . Repositório de incidentes de segurança cibernética para investigação de ameaças no setor elétrico. In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais [...]. Rio de Janeiro: CIGRE-Brasil, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modelagem e análise de descargas parciais internas em TPC e TC classe 525 kV no software Ansys",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais [...]. Rio de Janeiro: CIGRE-Brasil, 2025.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ; . Modelagem e análise de descargas parciais internas em TPC e TC classe 525 kV no software Ansys. In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. Anais [...]. Rio de Janeiro: CIGRE-Brasil, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Relato de experiências e diretrizes para inspeções ultrassônicas em subestações com o uso de detectores portáteis de descargas parciais e sensores parabólicos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ;",
+          "periodico": "In: 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú. Anais [...]. Santa Maria, 2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ; . Relato de experiências e diretrizes para inspeções ultrassônicas em subestações com o uso de detectores portáteis de descargas parciais e sensores parabólicos. In: 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú. Anais [...]. Santa Maria, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Ultrasonic Monitoring of Partial Discharges: A Comparative Methodology Applied to Transmission Line Insulators",
+          "autores": "; ; ; ; ; Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "In: 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú. Anais [...], 2025.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; . Ultrasonic Monitoring of Partial Discharges: A Comparative Methodology Applied to Transmission Line Insulators. In: 17th Seminar on Power Electronics and Control, 2025, Balneário Camboriú. Anais [...], 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Avaliação da influência de ambientes salinos na ocorrência de descargas parciais em equipamentos de média tensão por meio de medições ultrassônicas",
+          "autores": "; ; Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "In: IV Colóquio sobre Materiais Dielétricos e Técnicas Emergentes de Ensaio e Diagnóstico (CIGRE-Brasil CE-D1), 2024, Curitiba. Anais [...], 2024.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; ; ; ; . Avaliação da influência de ambientes salinos na ocorrência de descargas parciais em equipamentos de média tensão por meio de medições ultrassônicas. In: IV Colóquio sobre Materiais Dielétricos e Técnicas Emergentes de Ensaio e Diagnóstico (CIGRE-Brasil CE-D1), 2024, Curitiba. Anais [...], 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Simulação computacional de descargas parciais internas em transformadores de instrumentos através do método dos elementos finitos",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "In: 16th Seminar on Power Electronics and Control, 2024, Santa Maria. Anais [...]. Santa Maria, 2024.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; . Simulação computacional de descargas parciais internas em transformadores de instrumentos através do método dos elementos finitos. In: 16th Seminar on Power Electronics and Control, 2024, Santa Maria. Anais [...]. Santa Maria, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Estudo sobre descargas parciais em cadeias de isoladores com base em dados experimentais e em simulações executando o método dos elementos finitos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ;",
+          "periodico": "In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; . Estudo sobre descargas parciais em cadeias de isoladores com base em dados experimentais e em simulações executando o método dos elementos finitos. In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Classificação de descargas parciais em equipamentos elétricos por meio da interpretação de medidas de cargas aparentes",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ;",
+          "periodico": "In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; . Classificação de descargas parciais em equipamentos elétricos por meio da interpretação de medidas de cargas aparentes. In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Transformada Hilbert-Huang: aplicação e análise em sinais acústicos para detecção de descargas corona em arranjo ponta-plano",
+          "autores": "; ; ; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; Freitas-Gutierres, L. F. ; ; . Transformada Hilbert-Huang: aplicação e análise em sinais acústicos para detecção de descargas corona em arranjo ponta-plano. In: XIX Encontro Regional Ibero-Americano do CIGRE, 2023, Foz do Iguaçu. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Detecção de descargas parciais do tipo corona em subestação de 69/138/230 kV por meio de medições ultrassônicas com dispositivo portátil de alta precisão",
+          "autores": "; Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "In: X Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; ; ; ; . Detecção de descargas parciais do tipo corona em subestação de 69/138/230 kV por meio de medições ultrassônicas com dispositivo portátil de alta precisão. In: X Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Inspeção ultrassônica para detecção de descargas parciais em equipamentos elétricos de redes de distribuição",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: X Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; . Inspeção ultrassônica para detecção de descargas parciais em equipamentos elétricos de redes de distribuição. In: X Simpósio Brasileiro de Sistemas Elétricos, 2023, Manaus. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Validação da modelagem de descargas parciais internas em equipamentos elétricos por meio do método dos elementos finitos",
+          "autores": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. . Validação da modelagem de descargas parciais internas em equipamentos elétricos por meio do método dos elementos finitos. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais [...], 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise de perdas de intensidade sonora com a aplicação da equação de coeficiente de atenuação na detecção ultrassônica de descargas parciais em equipamentos de subestações de energia elétrica",
+          "autores": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais [...], 2023.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. . Análise de perdas de intensidade sonora com a aplicação da equação de coeficiente de atenuação na detecção ultrassônica de descargas parciais em equipamentos de subestações de energia elétrica. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília. Anais [...], 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Medição de Emissões Acústicas Provenientes de Descargas Parciais em Sistema Ponta-Plano e Correlação com o Método Elétrico",
+          "autores": "; ; ; ; ; Luiz Fernando Freitas-Gutierres ; ; ;",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria, 2022. v. 2.",
+          "doi": "http://dx.doi.org/10.20906/sbse.v2i1.3033",
+          "citacao_completa": "; ; ; ; ; Luiz Fernando Freitas-Gutierres ; ; ; . Medição de Emissões Acústicas Provenientes de Descargas Parciais em Sistema Ponta-Plano e Correlação com o Método Elétrico. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria, 2022. v. 2."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Apontamentos sobre Segurança Cibernética no Setor Elétrico",
+          "autores": "; Freitas-Gutierres, Luiz Fernando",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2022), 2022, Online. Proceedings of the 14th Seminar on Power Electronics and Control (SEPOC 2022). Santa Maria: sepoc, 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2022.026",
+          "citacao_completa": "; Freitas-Gutierres, Luiz Fernando . Apontamentos sobre Segurança Cibernética no Setor Elétrico. In: Seminar on Power Electronics and Control (SEPOC 2022), 2022, Online. Proceedings of the 14th Seminar on Power Electronics and Control (SEPOC 2022). Santa Maria: sepoc, 2022. p. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise da Tensão de Restabelecimento Transitória em Disjuntor de Alta Tensão: Estudo de Caso em uma Instalação Elétrica Industrial",
+          "autores": "; ; ; ; ; Freitas-Gutierres, Luiz Fernando",
+          "periodico": "In: Seminar on Power Electronics and Control (SEPOC 2021), 2021, Santa Maria. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). Santa Maria: Manancial - Repositório Digital da UFSM, 2021. p. --.",
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.015",
+          "citacao_completa": "; ; ; ; ; Freitas-Gutierres, Luiz Fernando . Análise da Tensão de Restabelecimento Transitória em Disjuntor de Alta Tensão: Estudo de Caso em uma Instalação Elétrica Industrial. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021, Santa Maria. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). Santa Maria: Manancial - Repositório Digital da UFSM, 2021. p. --."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Controle Volt/VAr em sistemas de geração distribuída: perspectiva global e suas normatizações.",
+          "autores": "; ; Freitas-Gutierres, Luiz Fernando ;",
+          "periodico": "In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021, Campinas. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica. Campinas: Galoa, 2021. v. 1.",
+          "doi": "http://dx.doi.org/10.17648/cbqee-2021-130657",
+          "citacao_completa": "; ; Freitas-Gutierres, Luiz Fernando ; . Controle Volt/VAr em sistemas de geração distribuída: perspectiva global e suas normatizações.. In: ANAIS DA XIV CONFERêNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELéTRICA, 2021, Campinas. Anais da XIV Conferência Brasileira sobre Qualidade da Energia Elétrica. Campinas: Galoa, 2021. v. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Estratégias adotadas no projeto de extensão universitária 'Eficiência Energética na Escola' durante a pandemia de COVID-19",
+          "autores": "; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: Seminário de Extensão Universitária da Região Sul, 2021, Online. Anais [...], 2021.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; . Estratégias adotadas no projeto de extensão universitária 'Eficiência Energética na Escola' durante a pandemia de COVID-19. In: Seminário de Extensão Universitária da Região Sul, 2021, Online. Anais [...], 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Detecção de Faltas entre Espiras em Geradores Síncronos de Fase Dividida: Uma Análise Comparativa entre configurações de proteção",
+          "autores": "; ; ; de Freitas Gutierres, Luiz Fernando ; ;",
+          "periodico": "In: Congresso Brasileiro de Automática 2020, 2020, Online. Anais do Congresso Brasileiro de Automática 2020, 2020. v. 2.",
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1703",
+          "citacao_completa": "; ; ; de Freitas Gutierres, Luiz Fernando ; ; . Detecção de Faltas entre Espiras em Geradores Síncronos de Fase Dividida: Uma Análise Comparativa entre configurações de proteção. In: Congresso Brasileiro de Automática 2020, 2020, Online. Anais do Congresso Brasileiro de Automática 2020, 2020. v. 2."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Detecção de ilhamento em geração distribuída através da estimação da frequência de oscilação",
+          "autores": "; ; Freitas-Gutierres, L. F. ;",
+          "periodico": "In: XVIII Encontro Regional Ibero-Americano do CIGRE, 2019, Foz do Iguaçu. Anais [...], 2019.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; . Detecção de ilhamento em geração distribuída através da estimação da frequência de oscilação. In: XVIII Encontro Regional Ibero-Americano do CIGRE, 2019, Foz do Iguaçu. Anais [...], 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Modelling of Single-Layer Air-Core Inductors for Very-High Frequency Transients",
+          "autores": "Freitas-Gutierres, L. F. ; Corea-Araujo, J. A. ; Martinez-Velasco, J. A. ;",
+          "periodico": "In: 2017 European EMTP-ATP Conference and Meeting, 2017, Kiel. Proceedings [...], 2017.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; Corea-Araujo, J. A. ; Martinez-Velasco, J. A. ; . Modelling of Single-Layer Air-Core Inductors for Very-High Frequency Transients. In: 2017 European EMTP-ATP Conference and Meeting, 2017, Kiel. Proceedings [...], 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Análise comparativa de métodos analíticos e dos elementos finitos para o cálculo de capacitâncias parasitas em dispositivos eletromagnéticos",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: MOMAG 2016. Congresso Brasileiro de Eletromagnetismo, Simpósio Brasileiro de Microondas e Optoeletrônica e Latin American Workshop on Optical Fiber Sensors, 2016, Porto Alegre. Anais [...], 2016.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . Análise comparativa de métodos analíticos e dos elementos finitos para o cálculo de capacitâncias parasitas em dispositivos eletromagnéticos. In: MOMAG 2016. Congresso Brasileiro de Eletromagnetismo, Simpósio Brasileiro de Microondas e Optoeletrônica e Latin American Workshop on Optical Fiber Sensors, 2016, Porto Alegre. Anais [...], 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Modelling Methodology for Inductive and Capacitive Voltage Transformers for High-Frequency Electrical Transients Analysis",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: Internacional Conference on Power Systems Transients, 2015, Cavtat. Proceedings [...], 2015.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . A Modelling Methodology for Inductive and Capacitive Voltage Transformers for High-Frequency Electrical Transients Analysis. In: Internacional Conference on Power Systems Transients, 2015, Cavtat. Proceedings [...], 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Uma metodologia para modelagem de transformadores de potencial indutivos e capacitivos para análise de transitórios de altas frequências",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XXIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. Anais [...], 2015.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . Uma metodologia para modelagem de transformadores de potencial indutivos e capacitivos para análise de transitórios de altas frequências. In: XXIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. Anais [...], 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Recloser-fuse coordination protection for inverter-based distributed generation systems",
+          "autores": "Gutierres, L. F. de F. ; ; ;",
+          "periodico": "In: 2015 50th International Universities Power Engineering Conference (UPEC), 2015, Stoke On Trent. 2015 50th International Universities Power Engineering Conference (UPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/upec.2015.7339778",
+          "citacao_completa": "Gutierres, L. F. de F. ; ; ; . Recloser-fuse coordination protection for inverter-based distributed generation systems. In: 2015 50th International Universities Power Engineering Conference (UPEC), 2015, Stoke On Trent. 2015 50th International Universities Power Engineering Conference (UPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Recloser-fuse coordination protection for distributed generation systems: methodology and priorities for optimal disconnections",
+          "autores": "Gutierres, L.F.F. ; ;",
+          "periodico": "In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014. p. 12.68.",
+          "doi": "http://dx.doi.org/10.1049/cp.2014.0141",
+          "citacao_completa": "Gutierres, L.F.F. ; ; . Recloser-fuse coordination protection for distributed generation systems: methodology and priorities for optimal disconnections. In: 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014, Copenhagen. 12th IET International Conference on Developments in Power System Protection (DPSP 2014), 2014. p. 12.68."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Proposta de uma metodologia de proteção para preservar a coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição na presença de geração distribuída",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "In: XV Encontro Regional Ibero-Americano do CIGRE, 2013, Foz do Iguaçu. Anais [...], 2013.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . Proposta de uma metodologia de proteção para preservar a coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição na presença de geração distribuída. In: XV Encontro Regional Ibero-Americano do CIGRE, 2013, Foz do Iguaçu. Anais [...], 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estimação da amplitude de sinais de corrente em sistemas de potência por meio de redes neurais artificiais com análise em frequências fora da nominal para aplicação em relés de sobrecorrente numéricos",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XV Encontro Regional Ibero-Americano do CIGRE, 2013, Foz do Iguaçu. Anais [...], 2013.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . Estimação da amplitude de sinais de corrente em sistemas de potência por meio de redes neurais artificiais com análise em frequências fora da nominal para aplicação em relés de sobrecorrente numéricos. In: XV Encontro Regional Ibero-Americano do CIGRE, 2013, Foz do Iguaçu. Anais [...], 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Revisão de técnicas elaboradas de modo a evitar a perda da coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição quando da inserção de geração distribuída",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais [...], 2012.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . Revisão de técnicas elaboradas de modo a evitar a perda da coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição quando da inserção de geração distribuída. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais [...], 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Otimização da coordenação de relés de sobrecorrente em sistemas elétricos de potência utilizando a programação inteira binária",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais [...], 2012.",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Otimização da coordenação de relés de sobrecorrente em sistemas elétricos de potência utilizando a programação inteira binária. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais [...], 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mudanças de paradigma no ensino básico: o enfoque das energias renováveis na inclusão da sustentabilidade socioambiental como disciplina curricular",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "In: I Congresso Latino-Americano de Sustentabilidade Socioambiental: Espaços Rurais e Contemporaneidade, 2012, Santa Maria. Anais [...], 2012.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Mudanças de paradigma no ensino básico: o enfoque das energias renováveis na inclusão da sustentabilidade socioambiental como disciplina curricular. In: I Congresso Latino-Americano de Sustentabilidade Socioambiental: Espaços Rurais e Contemporaneidade, 2012, Santa Maria. Anais [...], 2012."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Estudo de um fator de correção para considerar a iluminação natural em cálculos luminotécnicos",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: V Semana Integrada de Inovação, Ensino, Pesquisa e Extensão da Universidade Federal de Pelotas, 2019, Capão do Leão. Anais [...]. Pelotas: Universidade Federal de Pelotas, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Estudo de um fator de correção para considerar a iluminação natural em cálculos luminotécnicos. In: V Semana Integrada de Inovação, Ensino, Pesquisa e Extensão da Universidade Federal de Pelotas, 2019, Capão do Leão. Anais [...]. Pelotas: Universidade Federal de Pelotas, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Regressão linear polinomial aplicada à modelagem de materiais ferromagnéticos",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: V Semana Integrada de Inovação, Ensino, Pesquisa e Extensão da Universidade Federal de Pelotas, 2019, Capão do Leão. Anais [...]. Pelotas: Universidade Federal de Pelotas, 2019.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Regressão linear polinomial aplicada à modelagem de materiais ferromagnéticos. In: V Semana Integrada de Inovação, Ensino, Pesquisa e Extensão da Universidade Federal de Pelotas, 2019, Capão do Leão. Anais [...]. Pelotas: Universidade Federal de Pelotas, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Investigação sobre a detecção de saturação em transformadores de corrente através da Transformada Wavelet Discreta",
+          "autores": "; Freitas-Gutierres, L. F. ;",
+          "periodico": "In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . Investigação sobre a detecção de saturação em transformadores de corrente através da Transformada Wavelet Discreta. In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Método de diagnóstico energético de motores de indução através de curvas características de desempenho",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Método de diagnóstico energético de motores de indução através de curvas características de desempenho. In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Maquete didática sobre fontes de energia renováveis para uso em escolas de Ensino Fundamental",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Maquete didática sobre fontes de energia renováveis para uso em escolas de Ensino Fundamental. In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento de recursos educacionais abertos sobre eletromagnetismo para a Rede Básica de Educação",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Desenvolvimento de recursos educacionais abertos sobre eletromagnetismo para a Rede Básica de Educação. In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Tutoriais e atividades de monitoria como apoio ao ensino de eletromagnetismo na Engenharia de Energia",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Tutoriais e atividades de monitoria como apoio ao ensino de eletromagnetismo na Engenharia de Energia. In: XI Salão Internacional de Ensino, Pesquisa e Extensão, 2019, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estudo de caso sobre o diagnóstico energético de motores elétricos trifásicos através do índice de carregamento",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: V Encontro de Ciência e Tecnologia do IFSul-Campus Bagé, 2019, Bagé. Anais [...]. Bagé: Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Estudo de caso sobre o diagnóstico energético de motores elétricos trifásicos através do índice de carregamento. In: V Encontro de Ciência e Tecnologia do IFSul-Campus Bagé, 2019, Bagé. Anais [...]. Bagé: Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Recondicionamento de um transformador de um sistema de alimentação ininterrupta de potência como recurso educacional em sala de aula",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: V Encontro de Ciência e Tecnologia do IFSul-Campus Bagé, 2019, Bagé. Anais [...]. Bagé: Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense, 2019.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Recondicionamento de um transformador de um sistema de alimentação ininterrupta de potência como recurso educacional em sala de aula. In: V Encontro de Ciência e Tecnologia do IFSul-Campus Bagé, 2019, Bagé. Anais [...]. Bagé: Instituto Federal de Educação, Ciência e Tecnologia Sul-Rio-Grandense, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estratégias de ensino-aprendizagem sobre eficiência energética desenvolvidas para estudantes de quatro a oito anos",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10.",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Estratégias de ensino-aprendizagem sobre eficiência energética desenvolvidas para estudantes de quatro a oito anos. In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Abordagens extensionistas sobre eficiência energética em escolas de Ensino Fundamental: reflexões e relatos das práticas",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Abordagens extensionistas sobre eficiência energética em escolas de Ensino Fundamental: reflexões e relatos das práticas. In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Atividades de apoio ao Ensino Médio com foco em conservação e eficiência energética",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10.",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Atividades de apoio ao Ensino Médio com foco em conservação e eficiência energética. In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Eficiência energética na escola: contribuições para o ingresso de novos discentes na Engenharia de Energia",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Eficiência energética na escola: contribuições para o ingresso de novos discentes na Engenharia de Energia. In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise dos custos energéticos e otimização da demanda contratada de um hotel em São Gabriel",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Análise dos custos energéticos e otimização da demanda contratada de um hotel em São Gabriel. In: X Salão Internacional de Ensino, Pesquisa e Extensão, 2018, Sant'Ana do Livramento. Anais [...]. Bagé: Universidade Federal do Pampa, 2018. v. 10."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Estratégia automatizada de defesa contra ataques distribuídos de negação de serviço baseada em redes de Petri",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Estratégia automatizada de defesa contra ataques distribuídos de negação de serviço baseada em redes de Petri. In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Elaboração de uma cartilha de boas práticas em cibersegurança para prefeituras e instituições governamentais do Estado do Rio Grande do Sul",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Elaboração de uma cartilha de boas práticas em cibersegurança para prefeituras e instituições governamentais do Estado do Rio Grande do Sul. In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Interface de linha de comando para análise e diagnóstico de vulnerabilidades em sistemas de tecnologias operacionais",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Interface de linha de comando para análise e diagnóstico de vulnerabilidades em sistemas de tecnologias operacionais. In: Jornada Acadêmica Integrada, 2025, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Rotinas computacionais para análise eletrostática de enrolamentos por meio da execução do método dos elementos finitos",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Rotinas computacionais para análise eletrostática de enrolamentos por meio da execução do método dos elementos finitos. In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Desenvolvimento de recursos educacionais para promover a conscientização sobre cibersegurança de servidores municipais de prefeituras do estado do Rio Grande do Sul",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Desenvolvimento de recursos educacionais para promover a conscientização sobre cibersegurança de servidores municipais de prefeituras do estado do Rio Grande do Sul. In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Identificação de padrões para comprovação do método ultrassônico na detecção de descargas parciais",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024.",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Identificação de padrões para comprovação do método ultrassônico na detecção de descargas parciais. In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Desenvolvimento e teste de aplicação web para deteccção e classificação de descargas parciais em equipamentos elétricos de subestações de altas tensões a partir de assinaturas ultrassônicas",
+          "autores": "; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; . Desenvolvimento e teste de aplicação web para deteccção e classificação de descargas parciais em equipamentos elétricos de subestações de altas tensões a partir de assinaturas ultrassônicas. In: Jornada Acadêmica Integrada, 2024, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Desenvolvimento e análise de arquiteturas de redes de tecnologias operacionais com controladores lógico programáveis configurados via EtherNet/IP",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2023, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2023.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Desenvolvimento e análise de arquiteturas de redes de tecnologias operacionais com controladores lógico programáveis configurados via EtherNet/IP. In: Jornada Acadêmica Integrada, 2023, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Desenvolvimento de scripts para automatizar análises de arranjos de enrolamentos de máquinas elétricas por meio do método dos elementos finitos",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Desenvolvimento de scripts para automatizar análises de arranjos de enrolamentos de máquinas elétricas por meio do método dos elementos finitos. In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Desenvolvimento de um banco de assinaturas acústicas ultrassônicas",
+          "autores": "; Freitas-Gutierres, L. F. ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . Desenvolvimento de um banco de assinaturas acústicas ultrassônicas. In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Investigação sobre os ataques cibernéticos ao setor elétrico ucraniano em 2015: métodos e vulnerabilidades exploradas",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Investigação sobre os ataques cibernéticos ao setor elétrico ucraniano em 2015: métodos e vulnerabilidades exploradas. In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Método para o diagnóstico energético de motores de indução trifásicos considerando ciclos de operação",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022.",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Método para o diagnóstico energético de motores de indução trifásicos considerando ciclos de operação. In: Jornada Acadêmica Integrada, 2022, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2022."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Metodologia para o projeto modular de uma instalação fotovoltaica com recursos financeiros provenientes de práticas de eficiência energética",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "In: X Simpósio de Energia e Meio Ambiente, 2018, Bagé. Anais [...]. Bagé: Universidade Federal do Pampa, 2018.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Metodologia para o projeto modular de uma instalação fotovoltaica com recursos financeiros provenientes de práticas de eficiência energética. In: X Simpósio de Energia e Meio Ambiente, 2018, Bagé. Anais [...]. Bagé: Universidade Federal do Pampa, 2018."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Metodologias eficientes no projeto de circuitos assíncronos",
+          "autores": "Freitas-Gutierres, L. F. ; ; Schuhmann, N.",
+          "periodico": "In: XVII Jornadas de Jóvenes Investigadores Asociación de Universidades Grupo Montevideo, 2009, Concórdia. Resúmenes/Resumos. Concórdia: EDUNER, 2009.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; Schuhmann, N. . Metodologias eficientes no projeto de circuitos assíncronos. In: XVII Jornadas de Jóvenes Investigadores Asociación de Universidades Grupo Montevideo, 2009, Concórdia. Resúmenes/Resumos. Concórdia: EDUNER, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Tutor júnior",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2009, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2009.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . Tutor júnior. In: Jornada Acadêmica Integrada, 2009, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Programa de Apoio à Disciplina (PDA): integração e atividades práticas para a graduação",
+          "autores": "; ; ; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "In: XII SulPET: O Desafio da Integração, 2009, Curitiba. Anais [...]. Curitiba, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ; . Programa de Apoio à Disciplina (PDA): integração e atividades práticas para a graduação. In: XII SulPET: O Desafio da Integração, 2009, Curitiba. Anais [...]. Curitiba, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Aquecedor solar com materiais recicláveis: transformando a realidade social",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: XVIII Mostra de Iniciação Científica da Universidade de Passo Fundo, 2008, Passo Fundo. Anais [...]. Passo Fundo: Universidade de Passo Fundo, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; . Aquecedor solar com materiais recicláveis: transformando a realidade social. In: XVIII Mostra de Iniciação Científica da Universidade de Passo Fundo, 2008, Passo Fundo. Anais [...]. Passo Fundo: Universidade de Passo Fundo, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Aquecedor solar feito com materiais recicláveis",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "periodico": "In: Jornada Acadêmica Integrada, 2008, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; . Aquecedor solar feito com materiais recicláveis. In: Jornada Acadêmica Integrada, 2008, Santa Maria. Anais [...]. Santa Maria: Universidade Federal de Santa Maria, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Cursos e Minicursos: O PET-EE mudando a realidade acadêmica",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; et.al",
+          "periodico": "In: XI SulPET: Transformando a realidade nacional, 2008, Blumenau. Anais [...]. Florianópolis: Universidade do Estado de Santa Catarina, Universidade Regional de Blumenau, 2008.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; et.al . Cursos e Minicursos: O PET-EE mudando a realidade acadêmica. In: XI SulPET: Transformando a realidade nacional, 2008, Blumenau. Anais [...]. Florianópolis: Universidade do Estado de Santa Catarina, Universidade Regional de Blumenau, 2008."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Um cyber range baseado em contêineres para ensino de cibersegurança em tecnologias operacionais e sistemas de controle industrial",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; Pinto, J. J. B. S. ; Rodrigues, M. G. ; Farias, R. R. ; ; Gomes, R. J. P.",
+          "periodico": "2026. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; Pinto, J. J. B. S. ; Rodrigues, M. G. ; Farias, R. R. ; ; Gomes, R. J. P. . Um cyber range baseado em contêineres para ensino de cibersegurança em tecnologias operacionais e sistemas de controle industrial. 2026. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Repositório de incidentes de segurança cibernética para investigação de ameaças no setor elétrico",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; Correa, J. H. B. ; Thomas, W.",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; Correa, J. H. B. ; Thomas, W. . Repositório de incidentes de segurança cibernética para investigação de ameaças no setor elétrico. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modelagem e análise de descargas parciais internas em TPC e TC classe 525 kV no software Ansys",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; ; ; ; . Modelagem e análise de descargas parciais internas em TPC e TC classe 525 kV no software Ansys. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Estudo sobre descargas parciais em cadeias de isoladores com base em dados experimentais e em simulações executando o método dos elementos finitos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ;",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; . Estudo sobre descargas parciais em cadeias de isoladores com base em dados experimentais e em simulações executando o método dos elementos finitos. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Classificação de descargas parciais em equipamentos elétricos por meio da interpretação de medidas de cargas aparentes",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ;",
+          "periodico": "2023. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; . Classificação de descargas parciais em equipamentos elétricos por meio da interpretação de medidas de cargas aparentes. 2023. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Medição de emissões acústicas provenientes de descargas parciais em sistema ponta-plano e correlação com o método elétrico",
+          "autores": "; ; ; ; ; ; ; Freitas-Gutierres, L. F. ;",
+          "periodico": "2022. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "; ; ; ; ; ; ; Freitas-Gutierres, L. F. ; . Medição de emissões acústicas provenientes de descargas parciais em sistema ponta-plano e correlação com o método elétrico. 2022. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Oficina de eficiência energética",
+          "autores": "Freitas-Gutierres, L. F. ;",
+          "periodico": "2019. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; . Oficina de eficiência energética. 2019. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Eletromagnetismo e máquinas elétricas na Engenharia de Energia",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Eletromagnetismo e máquinas elétricas na Engenharia de Energia. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Grupo de Estudos Avançados em Engenharia de Energia (GrEEn)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Grupo de Estudos Avançados em Engenharia de Energia (GrEEn). 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Projeto de ensino: programa de apoio ao ensino de eletromagnetismo",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Projeto de ensino: programa de apoio ao ensino de eletromagnetismo. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Projeto de extensão: programa de apoio ao ensino de eletromagnetismo na Educação Básica",
+          "autores": "; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. . Projeto de extensão: programa de apoio ao ensino de eletromagnetismo na Educação Básica. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Projeto de extensão: eficiência energética na escola",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Projeto de extensão: eficiência energética na escola. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Práticas de eficientização energética em motores elétricos",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Práticas de eficientização energética em motores elétricos. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estudos sobre transformadores de corrente e detecção de saturação",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Estudos sobre transformadores de corrente e detecção de saturação. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Proposição de uma metodologia para consideração da iluminação natural em cálculos luminotécnicos",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Proposição de uma metodologia para consideração da iluminação natural em cálculos luminotécnicos. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Metodologia para o projeto modular de uma instalação fotovoltaica com recursos financeiros provenientes de práticas de eficiência energética",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Metodologia para o projeto modular de uma instalação fotovoltaica com recursos financeiros provenientes de práticas de eficiência energética. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Análise comparativa de métodos analíticos e dos elementos finitos para o cálculo de capacitâncias parasitas em dispositivos eletromagnéticos",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "2016. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . Análise comparativa de métodos analíticos e dos elementos finitos para o cálculo de capacitâncias parasitas em dispositivos eletromagnéticos. 2016. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Visão geral do setor de energias renováveis no Brasil",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2015. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Visão geral do setor de energias renováveis no Brasil. 2015. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Errando para acertar",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2015. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Errando para acertar. 2015. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Proposta de uma metodologia de proteção para preservar a coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição na presença de geração distribuída",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2013. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . Proposta de uma metodologia de proteção para preservar a coordenação e seletividade entre religadores e elos fusíveis de sistemas de distribuição na presença de geração distribuída. 2013. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estimação da amplitude de sinais de corrente em sistemas de potência por meio de redes neurais artificiais com análise em frequências fora da nominal para aplicação em relés de sobrecorrente numéricos",
+          "autores": "; ; ; ; Freitas-Gutierres, L. F.",
+          "periodico": "2013. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . Estimação da amplitude de sinais de corrente em sistemas de potência por meio de redes neurais artificiais com análise em frequências fora da nominal para aplicação em relés de sobrecorrente numéricos. 2013. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mudanças de paradigma no ensino básico: o enfoque das energias renováveis na inclusão da sustentabilidade socioambiental como disciplina curricular",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2012. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Mudanças de paradigma no ensino básico: o enfoque das energias renováveis na inclusão da sustentabilidade socioambiental como disciplina curricular. 2012. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Tutor júnior",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2009. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . Tutor júnior. 2009. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Metodologias eficientes no projeto de circuitos assíncronos",
+          "autores": "Freitas-Gutierres, L. F. ; ; Schuhmann, N.",
+          "periodico": "2009. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; Schuhmann, N. . Metodologias eficientes no projeto de circuitos assíncronos. 2009. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Aquecedor solar feito com materiais recicláveis (I Fórum Extensão Conta)",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; . Aquecedor solar feito com materiais recicláveis (I Fórum Extensão Conta). 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Aquecedor solar feito com materiais recicláveis",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; . Aquecedor solar feito com materiais recicláveis. 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Cursos e minicursos: o PET-EE mudando a realidade acadêmica",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; et.al",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; ; et.al . Cursos e minicursos: o PET-EE mudando a realidade acadêmica. 2008. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "[PHISHING001] Teste de intrusão física",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING001] Teste de intrusão física. 2024."
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Framework para tomada de decisão em manutenção preventiva de subestações baseado na análise e no diagnóstico de descargas parciais por meio de medições ultrassônicas",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; et al.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; et al. . Framework para tomada de decisão em manutenção preventiva de subestações baseado na análise e no diagnóstico de descargas parciais por meio de medições ultrassônicas. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Metodologia para implementação de cyber range baseado em contêineres aplicado a tecnologias operacionais e sistemas de controle industrial",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Metodologia para implementação de cyber range baseado em contêineres aplicado a tecnologias operacionais e sistemas de controle industrial. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Diretrizes para aquisição de dados com sensores RGB, termográficos, ultravioleta e acústicos embarcados em drones para inspeção de linhas de transmissão",
+          "autores": "; ; Freitas-Gutierres, L. F. ; ; et al.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; et al. . Diretrizes para aquisição de dados com sensores RGB, termográficos, ultravioleta e acústicos embarcados em drones para inspeção de linhas de transmissão. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Diretrizes para inspeção de transformadores de instrumentos e para-raios por meio da detecção de descargas parciais utilizando sensores de corrente de alta frequência (HFCT)",
+          "autores": "; ; Freitas-Gutierres, L. F. ; ; et al.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; et al. . Diretrizes para inspeção de transformadores de instrumentos e para-raios por meio da detecção de descargas parciais utilizando sensores de corrente de alta frequência (HFCT). 2025."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "[UFSM, DESP] Avaliador de desempenho de estágio probatório docente (presidente da comissão)",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [UFSM, DESP] Avaliador de desempenho de estágio probatório docente (presidente da comissão). 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[JAI 2025] Jornada Acadêmica Integrada (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [JAI 2025] Jornada Acadêmica Integrada (revisor de manuscritos). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[SEPOC 2025] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2025] Seminar on Power Electronics and Control (revisor de manuscritos). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação. 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[JAI 2024] Jornada Acadêmica Integrada (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [JAI 2024] Jornada Acadêmica Integrada (revisor de manuscritos). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[SEPOC 2024] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2024] Seminar on Power Electronics and Control (revisor de manuscritos). 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação",
+          "autores": "; Freitas-Gutierres, L. F. ;",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . [UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação. 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[SEPOC 2023] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2023] Seminar on Power Electronics and Control (revisor de manuscritos). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[JAI 2023] Jornada Acadêmica Integrada (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [JAI 2023] Jornada Acadêmica Integrada (revisor de manuscritos). 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . [UFSM, DESP] Avaliador de pedido de autodidatismo em disciplina de graduação. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "[UFSM, Curso de Graduação em Eng",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2022.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "[UFSM, Curso de Graduação em Eng",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2022.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "[JAI 2022] Jornada Acadêmica Integrada (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [JAI 2022] Jornada Acadêmica Integrada (revisor de manuscritos). 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "[UFSM, Curso de Graduação em Eng",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2021.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "[UFSM, PRE] Parecerista ad hoc da chamada pública 063/2020, publicação série extensão, produtos editoriais (exceto livros)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM, PRE] Parecerista ad hoc da chamada pública 063/2020, publicação série extensão, produtos editoriais (exceto livros). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "[JAI 2021] Jornada Acadêmica Integrada (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [JAI 2021] Jornada Acadêmica Integrada (revisor de manuscritos). 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "[SEPOC 2021] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2021] Seminar on Power Electronics and Control (revisor de manuscritos). 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "[UFSM, Curso de Graduação em Eng",
+          "autores": "; ; Freitas-Gutierres, L. F.",
+          "periodico": "Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2020.",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . [UFSM, Curso de Graduação em Eng. Elétrica] Avaliador de pedido de revalidação de diploma estrangeiro. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "[CBA 2020] Congresso Brasileiro de Automática (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [CBA 2020] Congresso Brasileiro de Automática (revisor de manuscritos). 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "[ERMAC-RS 2020] Encontro Regional de Matemática Aplicada e Computacional do Rio Grande do Sul (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [ERMAC-RS 2020] Encontro Regional de Matemática Aplicada e Computacional do Rio Grande do Sul (revisor de manuscritos). 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "[ISGT 2019] IEEE PES Innovative Smart Grid Technologies - Latin America (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [ISGT 2019] IEEE PES Innovative Smart Grid Technologies - Latin America (revisor de manuscritos). 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "[SEPOC 2019] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2019] Seminar on Power Electronics and Control (revisor de manuscritos). 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "[SIEPE 2018] Salão Internacional de Ensino, Pesquisa e Extensão e Fórum Internacional de Instituições de Ensino do Pampa (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SIEPE 2018] Salão Internacional de Ensino, Pesquisa e Extensão e Fórum Internacional de Instituições de Ensino do Pampa (revisor de manuscritos). 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "[SEMA 2018] Simpósio de Energia e Meio Ambiente (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEMA 2018] Simpósio de Energia e Meio Ambiente (revisor de manuscritos). 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "[SEPOC 2018] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2018] Seminar on Power Electronics and Control (revisor de manuscritos). 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "[SEPOC 2017] Seminar on Power Electronics and Control (revisor de manuscritos)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [SEPOC 2017] Seminar on Power Electronics and Control (revisor de manuscritos). 2017."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Parceria entre UFSM e CERTAJA busca criar plataforma para avaliar vulnerabilidades a ataques cibernéticos",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024. (Programa de rádio ou TV/Outra).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Parceria entre UFSM e CERTAJA busca criar plataforma para avaliar vulnerabilidades a ataques cibernéticos. 2024. (Programa de rádio ou TV/Outra)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Divulgação do Grupo de Estudos Avançados em Engenharia de Energia (GrEEn) da Universidade Federal do Pampa, Campus Bagé (UNIPAMPA-CB)",
+          "autores": "Freitas-Gutierres, L. F. ;",
+          "periodico": "2019. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; . Divulgação do Grupo de Estudos Avançados em Engenharia de Energia (GrEEn) da Universidade Federal do Pampa, Campus Bagé (UNIPAMPA-CB). 2019. (Programa de rádio ou TV/Entrevista)."
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 01] Data Breach at Spanish Water Utility Compromises Sensitive Information",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 01] Data Breach at Spanish Water Utility Compromises Sensitive Information. 2025; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Cyber Incident Tracker for Electric Power Systems",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Cibersegurança industrial. (Site).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . Cyber Incident Tracker for Electric Power Systems. 2025; Tema: Cibersegurança industrial. (Site)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 02] Insights from Waterfall-ICS STRIVE Threat Reports and the Cyber Sabotage at Iranian Steel Plants in 2022",
+          "autores": "Luiz F. Freitas-Gutierres",
+          "periodico": "2025; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Luiz F. Freitas-Gutierres . [Ind.Cyber.Sec Letters, Issue 02] Insights from Waterfall-ICS STRIVE Threat Reports and the Cyber Sabotage at Iranian Steel Plants in 2022. 2025; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, CTI-Brief 01] Your Personal Data and Official Documents Might Be for Sale on the Dark Web - And You Don't Even Know It",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Inteligência de ameaças cibernéticas. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, CTI-Brief 01] Your Personal Data and Official Documents Might Be for Sale on the Dark Web - And You Don't Even Know It. 2025; Tema: Inteligência de ameaças cibernéticas. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, CTI-Brief 02] Number of Leaked Accounts on the Dark and Deep Web Using the Top 5 Most Common Passwords in Brazil",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Inteligência de ameaças cibernéticas. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, CTI-Brief 02] Number of Leaked Accounts on the Dark and Deep Web Using the Top 5 Most Common Passwords in Brazil. 2025; Tema: Inteligência de ameaças cibernéticas. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, CTI-Brief 03] CyberAv3ngers: Profiling Operational Technology Threat Actors Using StealthMole's Platform",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Inteligência de ameaças cibernéticas. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, CTI-Brief 03] CyberAv3ngers: Profiling Operational Technology Threat Actors Using StealthMole's Platform. 2025; Tema: Inteligência de ameaças cibernéticas. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, CTI-Brief 04] Notes on FunkSec and an Affiliated Threat Actor",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Inteligência de ameaças cibernéticas. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, CTI-Brief 04] Notes on FunkSec and an Affiliated Threat Actor. 2025; Tema: Inteligência de ameaças cibernéticas. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, CTI-Brief 05] Profiling a Threat Actor Linked to Recent Cyber Incidents in Nepal",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Inteligência de ameaças cibernéticas. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, CTI-Brief 05] Profiling a Threat Actor Linked to Recent Cyber Incidents in Nepal. 2025; Tema: Inteligência de ameaças cibernéticas. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "OTLab",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Tecnologias operacionais e sistemas de controle industrial (TO-ICS). (Site).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . OTLab. 2025; Tema: Tecnologias operacionais e sistemas de controle industrial (TO-ICS). (Site)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 03] Understanding Insider Threats",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 03] Understanding Insider Threats. 2025; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 04] Profiling Warlock Ransomware Group",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 04] Profiling Warlock Ransomware Group. 2025; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 01] Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 01] Threat Actors Continue to Exploit OT/ICS through Unsophisticated Means. 2024; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 02] OpenAI Identifies Threat Actors Using Its AI Models Against Operational Technologies",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 02] OpenAI Identifies Threat Actors Using Its AI Models Against Operational Technologies. 2024; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 03] Financial Impacts of Ransomware Can Reach Up to US$1 Million in Critical Infrastructure",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 03] Financial Impacts of Ransomware Can Reach Up to US$1 Million in Critical Infrastructure. 2024; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 04] Weak Passwords and Poor Security Practices Persist After Six Years of NordPass Research",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 04] Weak Passwords and Poor Security Practices Persist After Six Years of NordPass Research. 2024; Tema: Cibersegurança industrial. (Blog)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[Ind.Cyber.Sec Letters, Issue 05] The State of ICS/OT Cybersecurity in 2024 According to the SANS Institute",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024; Tema: Cibersegurança industrial. (Blog).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [Ind.Cyber.Sec Letters, Issue 05] The State of ICS/OT Cybersecurity in 2024 According to the SANS Institute. 2024; Tema: Cibersegurança industrial. (Blog)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "[PHISHING002] Workshop (CERTAJA-CTI03, CERTAJA-CTI04 e CERTAJA-CTI05)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2026. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002] Workshop (CERTAJA-CTI03, CERTAJA-CTI04 e CERTAJA-CTI05). 2026. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2026,
+          "titulo": "[PHISHING002, CERTAJA-CTI03] Avaliação de exposição e identificação de vulnerabilidades",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2026. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002, CERTAJA-CTI03] Avaliação de exposição e identificação de vulnerabilidades. 2026. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2026,
+          "titulo": "[PHISHING002, CERTAJA-CTI04] Avaliação de exposição e identificação de vulnerabilidades",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2026. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002, CERTAJA-CTI04] Avaliação de exposição e identificação de vulnerabilidades. 2026. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2026,
+          "titulo": "[PHISHING002, CERTAJA-CTI05] Avaliação de exposição e identificação de vulnerabilidades",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2026. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002, CERTAJA-CTI05] Avaliação de exposição e identificação de vulnerabilidades. 2026. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2026,
+          "titulo": "[CPFL Transmissão, Relatório 14] Subestação Santa Maria 3: Avaliação de descargas parciais utilizando sensores HFCT",
+          "autores": "; Andres, C. ; Freitas-Gutierres, L. F. ;",
+          "periodico": "2026. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "; Andres, C. ; Freitas-Gutierres, L. F. ; . [CPFL Transmissão, Relatório 14] Subestação Santa Maria 3: Avaliação de descargas parciais utilizando sensores HFCT. 2026. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PD-05785-2107/2021-DE2107] Treinamento em inspeção de TIs e para-raios utilizando sensores HFCT",
+          "autores": "; ; Freitas-Gutierres, L. F. ; et al.",
+          "periodico": "2025. .",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; et al. . [PD-05785-2107/2021-DE2107] Treinamento em inspeção de TIs e para-raios utilizando sensores HFCT. 2025. ."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PD-05785-2107/2021-DE2107] Treinamento em sensores embarcados em drones para inspeção de isoladores de linhas de transmissão",
+          "autores": "; ; Freitas-Gutierres, L. F. ; et al.",
+          "periodico": "2025. .",
+          "doi": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; et al. . [PD-05785-2107/2021-DE2107] Treinamento em sensores embarcados em drones para inspeção de isoladores de linhas de transmissão. 2025. ."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING004] Workshop (PMSPS-CTI01 e PMSPS-CTI02)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING004] Workshop (PMSPS-CTI01 e PMSPS-CTI02). 2025. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING002] Workshop (CERTAJA-CTI01 e CERTAJA-CTI02)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002] Workshop (CERTAJA-CTI01 e CERTAJA-CTI02). 2025. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PD-05785-2107/2021-DE2107] Treinamento em inspeção ultrassônica de subestações",
+          "autores": "Freitas-Gutierres, L. F. ; ; et al.",
+          "periodico": "2025. .",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; et al. . [PD-05785-2107/2021-DE2107] Treinamento em inspeção ultrassônica de subestações. 2025. ."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM00741] Capture the Flag 01: Wireshark (Semt",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "I). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM00741] Capture the Flag 01: Wireshark (Semt. I). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM00741] Capture the Flag 02: Ladder Logic (Semt",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "I). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM00741] Capture the Flag 02: Ladder Logic (Semt. I). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM00741] Capture the Flag 01: Wireshark (Semt",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM00741] Capture the Flag 01: Wireshark (Semt. II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM00741] Capture the Flag 02: Ladder Logic (Semt",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM00741] Capture the Flag 02: Ladder Logic (Semt. II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[UFSM00741] Capture the Flag 03: Operational Technology (Semt",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM00741] Capture the Flag 03: Operational Technology (Semt. II). 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab01: Basics of OT-ICS Device Discovery (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab01: Basics of OT-ICS Device Discovery (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab02: Siemens S7 PLC Emulation (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab02: Siemens S7 PLC Emulation (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab03: Emulation of a Gas Station Control System (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab03: Emulation of a Gas Station Control System (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab04: Modbus/TCP Emulation and Register Access (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab04: Modbus/TCP Emulation and Register Access (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab05: Modbus/TCP Routing Between Subnets (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab05: Modbus/TCP Routing Between Subnets (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab06: Industrial Protocols and Web Interface Exposure (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab06: Industrial Protocols and Web Interface Exposure (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab07: Default Password Exposure (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab07: Default Password Exposure (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab08: Subnet Masks and Segmentation (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab08: Subnet Masks and Segmentation (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab09: Scanning Techniques with 'nmap' (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab09: Scanning Techniques with 'nmap' (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab10: TCP/IP and Three-Way Handshake (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab10: TCP/IP and Three-Way Handshake (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab11: AiTM MFA Bypass (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab11: AiTM MFA Bypass (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab12: Fundamental Network Topologies (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab12: Fundamental Network Topologies (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[OTLab] OTLab13: Jump Host (Tasks)",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [OTLab] OTLab13: Jump Host (Tasks). 2025. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PD-05785-2107/2021-DE2107] Treinamento em inspeção ultrassônica de subestações",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PD-05785-2107/2021-DE2107] Treinamento em inspeção ultrassônica de subestações. 2025. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING004, PMSPS-CTI01] Avaliação de vazamentos e comprometimentos de credenciais",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING004, PMSPS-CTI01] Avaliação de vazamentos e comprometimentos de credenciais. 2025. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING004, PMSPS-CTI02] Avaliação de serviços e ativos de tecnologia da informação comprometidos",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING004, PMSPS-CTI02] Avaliação de serviços e ativos de tecnologia da informação comprometidos. 2025. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING002, CERTAJA-CTI01] Avaliação de vazamentos e comprometimentos de credenciais",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002, CERTAJA-CTI01] Avaliação de vazamentos e comprometimentos de credenciais. 2025. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "[PHISHING002, CERTAJA-CTI02] Avaliação de serviços e ativos de tecnologia da informação comprometidos",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2025. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING002, CERTAJA-CTI02] Avaliação de serviços e ativos de tecnologia da informação comprometidos. 2025. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[PHISHING001] Phishing: Ameaças cibernéticas e estratégias para reduzir a área de sua superfície de ataque",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING001] Phishing: Ameaças cibernéticas e estratégias para reduzir a área de sua superfície de ataque. 2024. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[PHISHING001] Phishing: Ameaças cibernéticas e estratégias para reduzir a área de sua superfície de ataque",
+          "autores": "Freitas-Gutierres, L. F.",
+          "periodico": "2024. (Desenvolvimento de material didático ou instrucional - Treinamento).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [PHISHING001] Phishing: Ameaças cibernéticas e estratégias para reduzir a área de sua superfície de ataque. 2024. (Desenvolvimento de material didático ou instrucional - Treinamento)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[CPFL Transmissão, Relatório 11] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2024. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 11] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos. 2024. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[CPFL Transmissão, Relatório 12] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2024. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 12] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos. 2024. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "[CPFL Transmissão, Relatório 13] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2024. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 13] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos. 2024. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 01] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 01] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 03] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 03] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 04] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . [CPFL Transmissão, Relatório 04] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 05] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . [CPFL Transmissão, Relatório 05] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 06] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . [CPFL Transmissão, Relatório 06] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 07] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; ; . [CPFL Transmissão, Relatório 07] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 08] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . [CPFL Transmissão, Relatório 08] Subestação Santa Maria 1: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 09] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; ; . [CPFL Transmissão, Relatório 09] Subestação Santa Maria 4: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 10] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [CPFL Transmissão, Relatório 10] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "[CPFL Transmissão, Relatório 02] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; ;",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; ; . [CPFL Transmissão, Relatório 02] Subestação Santa Maria 3: Inspeção ultrassônica de equipamentos elétricos. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "[PD-05785-2107/2021-DE2107] Treinamento sobre detecção de descargas parciais e inspeção ultrassônica de equipamentos elétricos",
+          "autores": "Freitas-Gutierres, L. F. ; ; et al.",
+          "periodico": "2022. .",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; et al. . [PD-05785-2107/2021-DE2107] Treinamento sobre detecção de descargas parciais e inspeção ultrassônica de equipamentos elétricos. 2022. ."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Eletromagnetismo para a Engenharia de Energia: As equações de Maxwell",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "2019. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . Eletromagnetismo para a Engenharia de Energia: As equações de Maxwell. 2019. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "[UNIPAMPA-CB, XI Semana Acadêmica do Curso de Eng",
+          "autores": "; Freitas-Gutierres, L. F.",
+          "periodico": "de Energia] Curso de simulação no EMTP-ATP. 2018. .",
+          "doi": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. . [UNIPAMPA-CB, XI Semana Acadêmica do Curso de Eng. de Energia] Curso de simulação no EMTP-ATP. 2018. ."
+        },
+        {
+          "ano": 2012,
+          "titulo": "[UFSM, CEESP] Curso de EMTP-ATP em níveis básico e intermediário",
+          "autores": "Freitas-Gutierres, L. F. ;",
+          "periodico": "2012. .",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; . [UFSM, CEESP] Curso de EMTP-ATP em níveis básico e intermediário. 2012. ."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Curso de EMTP-ATP em níveis básico e intermediário",
+          "autores": "Freitas-Gutierres, L. F. ;",
+          "periodico": "2012. (Desenvolvimento de material didático ou instrucional - Apostila).",
+          "doi": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; . Curso de EMTP-ATP em níveis básico e intermediário. 2012. (Desenvolvimento de material didático ou instrucional - Apostila)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Framework para comissionamento virtual de sistemas de proteção em ambiente hardware-in-the-loop",
+          "membros": "; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Jhonatan Antônio Cassol",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; . Participação em banca de Jhonatan Antônio Cassol. Framework para comissionamento virtual de sistemas de proteção em ambiente hardware-in-the-loop. 2026. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise simulacional do comportamento de descargas parciais internas em transformadores para instrumentos via método dos elementos finitos",
+          "membros": "; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Juliano Silva Damiani",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; ; . Participação em banca de Juliano Silva Damiani. Análise simulacional do comportamento de descargas parciais internas em transformadores para instrumentos via método dos elementos finitos. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Algoritmo para detecção e localização de faltas em linhas de transmissão de 230 kV mediante leitura de oscilografia com base na transformada Wavelet",
+          "membros": "; ; Freitas-Gutierres, L. F.",
+          "candidato": "Rodrigo Niederauer da Silva",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Participação em banca de Rodrigo Niederauer da Silva. Algoritmo para detecção e localização de faltas em linhas de transmissão de 230 kV mediante leitura de oscilografia com base na transformada Wavelet. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise e desenvolvimento de controles para geração híbrida fotovoltaico-diesel",
+          "membros": "; ; Freitas-Gutierres, L. F.",
+          "candidato": "Fabiano Santos Ferreira",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Participação em banca de Fabiano Santos Ferreira. Análise e desenvolvimento de controles para geração híbrida fotovoltaico-diesel. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Superação de disjuntores de alta tensão por tensão de restabelecimento transitória no domínio da frequência",
+          "membros": "; ;",
+          "candidato": "Aquiles Saccol Borin",
+          "citacao_completa": "; ; . Participação em banca de Aquiles Saccol Borin. Superação de disjuntores de alta tensão por tensão de restabelecimento transitória no domínio da frequência. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Método para mitigação de perdas de mensagens Sampled Values visando a confiabilidade de unidades de proteção no contexto da IEC 61850-9-2 LE",
+          "membros": "; ; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; . Participação em banca de Ângelo Felipe Sartori. Método para mitigação de perdas de mensagens Sampled Values visando a confiabilidade de unidades de proteção no contexto da IEC 61850-9-2 LE. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Metodologia para determinação de disjuntores a serem avaliados frente a solicitações de TRT",
+          "membros": "; ; ; ; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Eleonora Fripp Lazzari",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; ; . Participação em banca de Eleonora Fripp Lazzari. Metodologia para determinação de disjuntores a serem avaliados frente a solicitações de TRT. 2025. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Metodologia heurística de alocação e dimensionamento de PV-STATCOM em sistemas de distribuição de média tensão: redução do investimento inicial e regulação de tensão",
+          "membros": "; ; ; Freitas-Gutierres, L. F. ;",
+          "candidato": "Zedequias Machado Alves",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. ; . Participação em banca de Zedequias Machado Alves. Metodologia heurística de alocação e dimensionamento de PV-STATCOM em sistemas de distribuição de média tensão: redução do investimento inicial e regulação de tensão. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Metodologia para identificação e discriminação de transitórios elétricos em transformadores de potência por meio da Transformada Wavelet Discreta.",
+          "membros": "; ; ; ;",
+          "candidato": "Jeferson Prates Marques",
+          "citacao_completa": "; ; ; ; . Participação em banca de Jeferson Prates Marques. Metodologia para identificação e discriminação de transitórios elétricos em transformadores de potência por meio da Transformada Wavelet Discreta.. 2018. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Detecção e classificação de descargas parciais em transformadores de instrumento com HFCT desacoplado de referência de fase",
+          "membros": "; ; ; ; Freitas-Gutierres, L. F.",
+          "candidato": "Aquiles Saccol Borin",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . Participação em banca de Aquiles Saccol Borin. Detecção e classificação de descargas parciais em transformadores de instrumento com HFCT desacoplado de referência de fase. 2025. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Detecção e classificação de descargas parciais externas em transformadores de instrumento através de medições ultrassônicas e random forest",
+          "membros": "; ; ; ; Freitas-Gutierres, L. F. ;",
+          "candidato": "Kaynan Maresch de Andrade",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. ; . Participação em banca de Kaynan Maresch de Andrade. Detecção e classificação de descargas parciais externas em transformadores de instrumento através de medições ultrassônicas e random forest. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise e otimização de sistemas de aterramento de rede tipo T2F",
+          "membros": "; ; ; ; Freitas-Gutierres, L. F.",
+          "candidato": "Miguel Spagnolo Martins",
+          "citacao_completa": "; ; ; ; Freitas-Gutierres, L. F. . Participação em banca de Miguel Spagnolo Martins. Análise e otimização de sistemas de aterramento de rede tipo T2F. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Metodologia para determinação de disjuntores a serem avaliados frente a solicitações de TRT",
+          "membros": "; ; ; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Eleonora Fripp Lazzari",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. ; ; . Participação em banca de Eleonora Fripp Lazzari. Metodologia para determinação de disjuntores a serem avaliados frente a solicitações de TRT. 2024. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Proteção diferencial de barra centralizada imune a pacotes sampled values corrompidos: uma abordagem fundamentada na norma IEC 61850",
+          "membros": "; ; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Ângelo Felipe Sartori",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; ; . Participação em banca de Ângelo Felipe Sartori. Proteção diferencial de barra centralizada imune a pacotes sampled values corrompidos: uma abordagem fundamentada na norma IEC 61850. 2023. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Metodologia para avaliação da suportabilidade de disjuntores frente às solicitações de TRT",
+          "membros": "; ; ; Freitas-Gutierres, L. F. ; ;",
+          "candidato": "Eleonora Fripp Lazzari",
+          "citacao_completa": "; ; ; Freitas-Gutierres, L. F. ; ; . Participação em banca de Eleonora Fripp Lazzari. Metodologia para avaliação da suportabilidade de disjuntores frente às solicitações de TRT. 2023. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento de ferramentas de otimização de placas de circuito impresso para conversores estáticos comutados em altas frequências",
+          "membros": "; ; ; ;",
+          "candidato": "Tális Piovesan",
+          "citacao_completa": "; ; ; ; . Participação em banca de Tális Piovesan. Desenvolvimento de ferramentas de otimização de placas de circuito impresso para conversores estáticos comutados em altas frequências. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".Cyber OTLab: Open-Source Colab",
+          "membros": "Antunes, C. M. G.; Santos, L. F. S.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F.",
+          "candidato": "José João Barros de Sá Pinto",
+          "citacao_completa": "Antunes, C. M. G.; Santos, L. F. S.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F. . Participação em banca de José João Barros de Sá Pinto.Cyber OTLab: Open-Source Colab. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Informática) - Instituto Politécnico de Leiria."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".Cyber OTLab: Open-Source Colab",
+          "membros": "Antunes, C. M. G.; Santos, L. F. S.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F.",
+          "candidato": "Miguel Godinho Rodrigues",
+          "citacao_completa": "Antunes, C. M. G.; Santos, L. F. S.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F. . Participação em banca de Miguel Godinho Rodrigues.Cyber OTLab: Open-Source Colab. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Informática) - Instituto Politécnico de Leiria."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".Cyber OTLab: Open-Source Colab",
+          "membros": "Santos, L. F. S.; Antunes, C. M. G.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F.",
+          "candidato": "Rafael Rodrigues de Farias",
+          "citacao_completa": "Santos, L. F. S.; Antunes, C. M. G.; Gomes, R. J. P.; ; Freitas-Gutierres, L. F. . Participação em banca de Rafael Rodrigues de Farias.Cyber OTLab: Open-Source Colab. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Informática) - Instituto Politécnico de Leiria."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".Ferramenta computacional para parametrização e validação de funções de proteção de linhas de transmissão",
+          "membros": "; ; Freitas-Gutierres, L. F. ;",
+          "candidato": "Julio Affonso Dall Agnol Rohr",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. ; . Participação em banca de Julio Affonso Dall Agnol Rohr.Ferramenta computacional para parametrização e validação de funções de proteção de linhas de transmissão. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Análise de perdas em blindagens eletrostáticas de transformadores de potência sob condições harmônicas e otimização construtiva via MEF",
+          "membros": "; Freitas-Gutierres, L. F. ;",
+          "candidato": "Ana Paula da Silva Bastianello",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . Participação em banca de Ana Paula da Silva Bastianello.Análise de perdas em blindagens eletrostáticas de transformadores de potência sob condições harmônicas e otimização construtiva via MEF. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Avaliação de vetores de ataques cibernéticos contra sistemas elétricos de potência e infraestruturas críticas",
+          "membros": "Freitas-Gutierres, L. F. ; ; Correa, J. H. B.",
+          "candidato": "Arthur Johann Rohrig",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; Correa, J. H. B.. Participação em banca de Arthur Johann Rohrig.Avaliação de vetores de ataques cibernéticos contra sistemas elétricos de potência e infraestruturas críticas. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Método analítico para determinação das perdas em transformadores de potência considerando distribuição não uniforme do campo magnético",
+          "membros": "; ; Freitas-Gutierres, L. F.",
+          "candidato": "Mateus Paiva Stochero",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . Participação em banca de Mateus Paiva Stochero.Método analítico para determinação das perdas em transformadores de potência considerando distribuição não uniforme do campo magnético. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Alternativas para gestão energética em unidades consumidoras conectadas em média tensão",
+          "membros": "; ;",
+          "candidato": "Álvaro da Silva Colpo",
+          "citacao_completa": "; ; . Participação em banca de Álvaro da Silva Colpo.Alternativas para gestão energética em unidades consumidoras conectadas em média tensão. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Análise de medidas acústicas de descargas parciais em sistemas ponta-plano por meio da Transformada Hilbert-Huang e de redes neurais de regressão generalizada",
+          "membros": "; ;",
+          "candidato": "Artur Dala Nora Quatrin",
+          "citacao_completa": "; ; . Participação em banca de Artur Dala Nora Quatrin.Análise de medidas acústicas de descargas parciais em sistemas ponta-plano por meio da Transformada Hilbert-Huang e de redes neurais de regressão generalizada. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Análise de defeitos em equipamentos elétricos utilizando termografia infravermelha e técnicas de aprendizagem profunda",
+          "membros": "; Freitas-Gutierres, L. F. ;",
+          "candidato": "Erick Whindson de Souza Cacique",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . Participação em banca de Erick Whindson de Souza Cacique.Análise de defeitos em equipamentos elétricos utilizando termografia infravermelha e técnicas de aprendizagem profunda. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Fator indicativo de eficiência energética baseado no método dos lumens e na iluminação natural",
+          "membros": "; ;",
+          "candidato": "Wander Terra de Souza",
+          "citacao_completa": "; ; . Participação em banca de Wander Terra de Souza.Fator indicativo de eficiência energética baseado no método dos lumens e na iluminação natural. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise de ciclos de operação de motores de indução trifásicos no EMTP-ATP",
+          "membros": "; ;",
+          "candidato": "Yuri Monteiro Collares",
+          "citacao_completa": "; ; . Participação em banca de Yuri Monteiro Collares.Análise de ciclos de operação de motores de indução trifásicos no EMTP-ATP. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudos de caso de eficiência energética em um hotel da região central do Rio Grande do Sul",
+          "membros": "; ;",
+          "candidato": "Pablo Augusto Machado Borges",
+          "citacao_completa": "; ; . Participação em banca de Pablo Augusto Machado Borges.Estudos de caso de eficiência energética em um hotel da região central do Rio Grande do Sul. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Plano de manutenção preditiva de motores elétricos com ênfase em termografia em uma planta termelétrica",
+          "membros": "; ;",
+          "candidato": "Santiago Nunes Soares",
+          "citacao_completa": "; ; . Participação em banca de Santiago Nunes Soares.Plano de manutenção preditiva de motores elétricos com ênfase em termografia em uma planta termelétrica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Projeto de um dispositivo eletromecânico de degrau isolado para pequenos aproveitamentos energéticos",
+          "membros": "; ;",
+          "candidato": "Erick Eidi Miura Sasaki",
+          "citacao_completa": "; ; . Participação em banca de Erick Eidi Miura Sasaki.Projeto de um dispositivo eletromecânico de degrau isolado para pequenos aproveitamentos energéticos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Implantação de um sistema fotovoltaico on-grid na Universidade Federal do Pampa - Campus Bagé",
+          "membros": "; ;",
+          "candidato": "Diego Henrique do Carmo Ferreira",
+          "citacao_completa": "; ; . Participação em banca de Diego Henrique do Carmo Ferreira.Implantação de um sistema fotovoltaico on-grid na Universidade Federal do Pampa - Campus Bagé. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Detecção de ilhamento em geração distribuída usando redes neurais para classificação de padrões de frequência",
+          "membros": "; ;",
+          "candidato": "Kaynan Maresch",
+          "citacao_completa": "; ; . Participação em banca de Kaynan Maresch.Detecção de ilhamento em geração distribuída usando redes neurais para classificação de padrões de frequência. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Gerador síncrono toroidal de fluxo axial com ímãs permanentes",
+          "membros": "; ;",
+          "candidato": "Matheus Costa Rangel",
+          "citacao_completa": "; ; . Participação em banca de Matheus Costa Rangel.Gerador síncrono toroidal de fluxo axial com ímãs permanentes. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Cenário para a análise de viabilidade de migração da UNIPAMPA para o mercado livre de energia elétrica",
+          "membros": "; ;",
+          "candidato": "Dione de Almeida Brião",
+          "citacao_completa": "; ; . Participação em banca de Dione de Almeida Brião.Cenário para a análise de viabilidade de migração da UNIPAMPA para o mercado livre de energia elétrica. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Projeto modular para instalações fotovoltaicas com recursos financeiros provenientes de práticas de eficiência energética",
+          "membros": "; ;",
+          "candidato": "Pedro Aderson Ferreira Cavalcante",
+          "citacao_completa": "; ; . Participação em banca de Pedro Aderson Ferreira Cavalcante.Projeto modular para instalações fotovoltaicas com recursos financeiros provenientes de práticas de eficiência energética. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Proposta de um sistema de proteção adaptativa considerando a presença de geração distribuída fotovoltaica",
+          "membros": "; ;",
+          "candidato": "Amanda Devecchi de Freitas",
+          "citacao_completa": "; ; . Participação em banca de Amanda Devecchi de Freitas.Proposta de um sistema de proteção adaptativa considerando a presença de geração distribuída fotovoltaica. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Energia) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Análise de técnicas de inteligência artificial para processamento de alarmes em sistemas de potência",
+          "membros": "; ;",
+          "candidato": "Alexandre Luciano Schmitt",
+          "citacao_completa": "; ; . Participação em banca de Alexandre Luciano Schmitt.Análise de técnicas de inteligência artificial para processamento de alarmes em sistemas de potência. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Influência das conexões de transformadores de potência nas propagações de tensões e correntes desequilibradas em sistemas elétricos de potência",
+          "membros": "; ;",
+          "candidato": "Marcos Tonial",
+          "citacao_completa": "; ; . Participação em banca de Marcos Tonial.Influência das conexões de transformadores de potência nas propagações de tensões e correntes desequilibradas em sistemas elétricos de potência. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "; ; . [UNIPAMPA-CB] Comissão examinadora de concurso público para Professor do Magistério Superior na área de engenharia",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UNIPAMPA-CB] Comissão examinadora de concurso público para Professor do Magistério Superior na área de engenharia de energia. 2021. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2018,
+          "titulo": "; ; . [UFSM-CS] Comissão examinadora de concurso público para Professor do Magistério Superior na área de engenharia elé",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM-CS] Comissão examinadora de concurso público para Professor do Magistério Superior na área de engenharia elétrica. 2018. Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "; Freitas-Gutierres, L. F. ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Luiz Edua",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; Freitas-Gutierres, L. F. ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Luiz Eduardo Ramos Quoos. 2024. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2024,
+          "titulo": "; ; Freitas-Gutierres, L. F. . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Mateus Pa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Mateus Paiva Stochero. 2024. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Freitas-Gutierres, L. F. . [UFSM, PROGRAD] Seleção de professores tutores do Programa de Educação Tutorial (PET), Grupo ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. . [UFSM, PROGRAD] Seleção de professores tutores do Programa de Educação Tutorial (PET), Grupo PET-EE. 2023. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Freitas-Gutierres, L. F. ; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Arthur Jo",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Freitas-Gutierres, L. F. ; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Arthur Johann Rohrig. 2023. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2023,
+          "titulo": "; ; Freitas-Gutierres, L. F. . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Jhonatan ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; Freitas-Gutierres, L. F. . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Jhonatan Antônio Cassol. 2023. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2021,
+          "titulo": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Yuri Monteiro Collares. 2021. Univ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Yuri Monteiro Collares. 2021. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "; ; ; ; ; ; ; ; . [UNIPAMPA-CB, PET Engenharias] Seleção de bolsistas e voluntários para o Programa de Educação Tutorial",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; ; ; ; ; ; ; . [UNIPAMPA-CB, PET Engenharias] Seleção de bolsistas e voluntários para o Programa de Educação Tutorial (PET) das Engenharias da Universidade Federal do Pampa, Campus Bagé. 2018. Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2013,
+          "titulo": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Karin Rezende Feistel. 2013. Unive",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Karin Rezende Feistel. 2013. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Matheus de Castro Camargo. 2013. U",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Matheus de Castro Camargo. 2013. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Gustavo Andres Finamor. 2013. Univ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Gustavo Andres Finamor. 2013. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2013,
+          "titulo": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Alexandre Luciano Schmitt. 2013. U",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; . [UFSM, Curso de Graduação em Eng. Elétrica] Defesa de estágio supervisionado de Alexandre Luciano Schmitt. 2013. Universidade Federal de Santa Maria."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,252 @@
+{
+  "name": "Pedro Tauã Lopes Pereira",
+  "lattes_id": "0439132952613934",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Cross-Layer Approximate Design of Low-Power Fractional Motion Estimation Accelerators for VVC",
+          "autores": "SILVA, RAFAEL DA ; PEREIRA, PEDRO T. L. ; GRELLERT, MATEUS ; REIS, RICARDO",
+          "periodico": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 33, p. 2415-2423, 2025.",
+          "doi": "http://dx.doi.org/10.1109/TVLSI.2025.3589984",
+          "citacao_completa": "SILVA, RAFAEL DA ; PEREIRA, PEDRO T. L. ; GRELLERT, MATEUS ; REIS, RICARDO . Cross-Layer Approximate Design of Low-Power Fractional Motion Estimation Accelerators for VVC. IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 33, p. 2415-2423, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ReAdapt-II: Energy-Quality Optimizations for VLSI Adaptive Filters Through Automatic Reconfiguration and Built-In Iterative Dividers",
+          "autores": "PEREIRA, PEDRO T. L. ; COSTA, PATRÍCIA UCKER L. ; DA COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 1, p. 1-5, 2024.",
+          "doi": "http://dx.doi.org/10.1109/TVLSI.2024.3446235",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; COSTA, PATRÍCIA UCKER L. ; DA COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO . ReAdapt-II: Energy-Quality Optimizations for VLSI Adaptive Filters Through Automatic Reconfiguration and Built-In Iterative Dividers. IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 1, p. 1-5, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Uso de técnicas de modulação e de estimadores de estados no controle da velocidade de motores elétricos",
+          "autores": "ESPOSITO, MARCELO ; MESQUITA BRUEL, GABRIELA ; DA SILVA DUMMER, KARINE ; FRANKE KNEBEL, EDUARDO ; IEPSEN WESTPHAL, GABRIEL ; TAUÃ LOPES PEREIRA, PEDRO",
+          "periodico": "LATIN AMERICAN JOURNAL OF ENERGY RESEARCH , v. 11, p. 57-71, 2024.",
+          "doi": "http://dx.doi.org/10.21712/lajer.2024.v11.n1.p57-71",
+          "citacao_completa": "ESPOSITO, MARCELO ; MESQUITA BRUEL, GABRIELA ; DA SILVA DUMMER, KARINE ; FRANKE KNEBEL, EDUARDO ; IEPSEN WESTPHAL, GABRIEL ; TAUÃ LOPES PEREIRA, PEDRO . Uso de técnicas de modulação e de estimadores de estados no controle da velocidade de motores elétricos. LATIN AMERICAN JOURNAL OF ENERGY RESEARCH , v. 11, p. 57-71, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Energy-Efficient Interpolation Filter Design for VVC Encoders Using Cross-Layer Approximate Computing",
+          "autores": "DA SILVA, RAFAEL ; T. L. PEREIRA, PEDRO ; GRELLERT, MATEUS ; REIS, RICARDO",
+          "periodico": "JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS) , v. 19, p. 1-11, 2024.",
+          "doi": "http://dx.doi.org/10.29292/jics.v19i3.908",
+          "citacao_completa": "DA SILVA, RAFAEL ; T. L. PEREIRA, PEDRO ; GRELLERT, MATEUS ; REIS, RICARDO . Energy-Efficient Interpolation Filter Design for VVC Encoders Using Cross-Layer Approximate Computing. JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS) , v. 19, p. 1-11, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "ReAdapt: A Reconfigurable Datapath for Runtime Energy-Quality Scalable Adaptive Filters",
+          "autores": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 70, p. 327-339, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tcsi.2022.3204931",
+          "citacao_completa": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO . ReAdapt: A Reconfigurable Datapath for Runtime Energy-Quality Scalable Adaptive Filters. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 70, p. 327-339, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Energy-Quality Scalable Design Space Exploration of Approximate FFT Hardware Architectures",
+          "autores": "PEREIRA, PEDRO TAUA LOPES ; DA COSTA, PATRICIA UCKER LELEU ; FERREIRA, GUILHERME DA COSTA ; DE ABREU, BRUNNO ALVES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-11, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tcsi.2022.3191180",
+          "citacao_completa": "PEREIRA, PEDRO TAUA LOPES ; DA COSTA, PATRICIA UCKER LELEU ; FERREIRA, GUILHERME DA COSTA ; DE ABREU, BRUNNO ALVES ; PAIM, GUILHERME ; DA COSTA, EDUARDO ANTONIO CESAR ; BAMPI, SERGIO . Energy-Quality Scalable Design Space Exploration of Approximate FFT Hardware Architectures. IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS I-REGULAR PAPERS , v. 1, p. 1-11, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Architectural Exploration for Energy-Efficient Fixed-Point Kalman Filter VLSI Design",
+          "autores": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; COSTA, PATRICIA UCKER LELEU DA ; COSTA, EDUARDO ANTONIO CESAR DA ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO",
+          "periodico": "IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 29, p. 1402-1415, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TVLSI.2021.3075379",
+          "citacao_completa": "PEREIRA, PEDRO TAUA LOPES ; PAIM, GUILHERME ; COSTA, PATRICIA UCKER LELEU DA ; COSTA, EDUARDO ANTONIO CESAR DA ; DE ALMEIDA, SERGIO JOSE MELO ; BAMPI, SERGIO . Architectural Exploration for Energy-Efficient Fixed-Point Kalman Filter VLSI Design. IEEE TRANSACTIONS ON VERY LARGE SCALE INTEGRATION (VLSI) SYSTEMS , v. 29, p. 1402-1415, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploring NLMS-Based Adaptive Filter Hardware Architectures for Eliminating Power Line Interference in EEG Signals",
+          "autores": "LA ROSA, ANDREI B. ; PEREIRA, PEDRO T. L. ; ÜCKER, PATRÍCIA ; PAIM, GUILHERME ; DA COSTA, EDUARDO A. C. ; BAMPI, SERGIO ; ALMEIDA, SÉRGIO",
+          "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 40, p. 3305-3337, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s00034-020-01620-6",
+          "citacao_completa": "LA ROSA, ANDREI B. ; PEREIRA, PEDRO T. L. ; ÜCKER, PATRÍCIA ; PAIM, GUILHERME ; DA COSTA, EDUARDO A. C. ; BAMPI, SERGIO ; ALMEIDA, SÉRGIO . Exploring NLMS-Based Adaptive Filter Hardware Architectures for Eliminating Power Line Interference in EEG Signals. CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 40, p. 3305-3337, 2021."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "ASIC Design and Implementation of Low-Latency and High-Throughput FFT and IFFT",
+          "autores": "DO AMARAL, LUCAS PEREIRA ; PEREIRA, PEDRO TAUÃ LOPES ; GRELLERT, MATEUS ; NAZAR, GABRIEL LUCA",
+          "periodico": "In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LASCAS67804.2026.11457177",
+          "citacao_completa": "DO AMARAL, LUCAS PEREIRA ; PEREIRA, PEDRO TAUÃ LOPES ; GRELLERT, MATEUS ; NAZAR, GABRIEL LUCA . ASIC Design and Implementation of Low-Latency and High-Throughput FFT and IFFT. In: 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026, Arequipa. 2026 IEEE 17th Latin America Symposium on Circuits and System (LASCAS), 2026. p. 1."
+        },
+        {
+          "ano": 2026,
+          "titulo": "HDL-DFGen: A Digital Filter Hardware Description Generation Framework",
+          "autores": "PEREIRA, PEDRO T. L. ; COSTA, EDUARDO DA ; BAMPI, SERGIO",
+          "periodico": "In: 2026 27th International Symposium on Quality Electronic Design (ISQED), 2026, San Francisco. 2026 27th International Symposium on Quality Electronic Design (ISQED), 2026. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISQED69900.2026.11534690",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; COSTA, EDUARDO DA ; BAMPI, SERGIO . HDL-DFGen: A Digital Filter Hardware Description Generation Framework. In: 2026 27th International Symposium on Quality Electronic Design (ISQED), 2026, San Francisco. 2026 27th International Symposium on Quality Electronic Design (ISQED), 2026. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Quality-Reconfigurable Approximate Multiplier Utilizing Select Leading One-Bit Blocks",
+          "autores": "BEDIN, JOÃO M. ; PEREIRA, PEDRO T. L. ; WUERDIG, RODRIGO N. ; DA COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS), 2025, Bento Gonçalves. 2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/LASCAS64004.2025.10966276",
+          "citacao_completa": "BEDIN, JOÃO M. ; PEREIRA, PEDRO T. L. ; WUERDIG, RODRIGO N. ; DA COSTA, EDUARDO ; BAMPI, SERGIO . Quality-Reconfigurable Approximate Multiplier Utilizing Select Leading One-Bit Blocks. In: 2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS), 2025, Bento Gonçalves. 2025 IEEE 16th Latin America Symposium on Circuits and Systems (LASCAS), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Dynamically Reconfigurable Approximate Multiplier for Precision Control",
+          "autores": "Bedin, J. M. S. ; PEREIRA, PEDRO T. L. ; COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025, London, United Kingdom. 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025.",
+          "doi": "http://dx.doi.org/10.1109/ISCAS56072.2025.11043430",
+          "citacao_completa": "Bedin, J. M. S. ; PEREIRA, PEDRO T. L. ; COSTA, EDUARDO ; BAMPI, SERGIO . Dynamically Reconfigurable Approximate Multiplier for Precision Control. In: 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025, London, United Kingdom. 2025 IEEE International Symposium on Circuits and Systems (ISCAS), 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Approximate Adders for Efficient Circuits: Advantages and Limitations Compared to RCA",
+          "autores": "MANDOWSKI, VÍTOR DE M. ; PEREIRA, PEDRO T. L. ; BUTZEN, PAULO F. ; BAMPI, SERGIO ; JÚNIOR, LEOMAR S. DA R.",
+          "periodico": "In: 2025 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (SBCCI), 2025, Manaus. 2025 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (SBCCI), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/sbcci66862.2025.11218675",
+          "citacao_completa": "MANDOWSKI, VÍTOR DE M. ; PEREIRA, PEDRO T. L. ; BUTZEN, PAULO F. ; BAMPI, SERGIO ; JÚNIOR, LEOMAR S. DA R. . Approximate Adders for Efficient Circuits: Advantages and Limitations Compared to RCA. In: 2025 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (SBCCI), 2025, Manaus. 2025 38th SBC/SBMicro/IEEE Symposium on Integrated Circuits and Systems Design (SBCCI), 2025. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Architectural Exploration for Energy-Efficient LMS and NLMS Adaptive Filters VLSI Design",
+          "autores": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO",
+          "periodico": "In: 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), 2023, Edinburgh. 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/NEWCAS57931.2023.10198163",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; COSTA, EDUARDO ; FLORES, PAULO ; BAMPI, SERGIO . Architectural Exploration for Energy-Efficient LMS and NLMS Adaptive Filters VLSI Design. In: 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), 2023, Edinburgh. 2023 21st IEEE Interregional NEWCAS Conference (NEWCAS), 2023. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "AxASRE: A Novel Approach to Approximate Adder Synthesis Results Estimation.",
+          "autores": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; FLORES, PAULO ; COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSNW), 2023, Porto. 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2023. p. 183.",
+          "doi": "http://dx.doi.org/10.1109/DSN-W58399.2023.00051",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; FLORES, PAULO ; COSTA, EDUARDO ; BAMPI, SERGIO . AxASRE: A Novel Approach to Approximate Adder Synthesis Results Estimation.. In: 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSNW), 2023, Porto. 2023 53rd Annual IEEE/IFIP International Conference on Dependable Systems and Networks Workshops (DSN-W), 2023. p. 183."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Improved Approximate Multipliers for Single-Precision Floating-Point Hardware Design",
+          "autores": "DA COSTA, PATRICIA ; PEREIRA, PEDRO T. L. ; ABREU, BRUNNO A. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2022 IEEE 13th Latin America Symposium on Circuits and System (LASCAS), 2022, Puerto Varas. 2022 IEEE 13th Latin America Symposium on Circuits and System (LASCAS), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/lascas53948.2022.9789077",
+          "citacao_completa": "DA COSTA, PATRICIA ; PEREIRA, PEDRO T. L. ; ABREU, BRUNNO A. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; BAMPI, SERGIO . Improved Approximate Multipliers for Single-Precision Floating-Point Hardware Design. In: 2022 IEEE 13th Latin America Symposium on Circuits and System (LASCAS), 2022, Puerto Varas. 2022 IEEE 13th Latin America Symposium on Circuits and System (LASCAS), 2022. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Exploring Approximate Arithmetic Units for a Power-Efficient Kalman Gain VLSI Design",
+          "autores": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; ALMEIDA, SERGIO J. M. ; BAMPI, SERGIO",
+          "periodico": "In: 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2022, Glasgow. 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICECS202256217.2022.9970839",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; ALMEIDA, SERGIO J. M. ; BAMPI, SERGIO . Exploring Approximate Arithmetic Units for a Power-Efficient Kalman Gain VLSI Design. In: 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2022, Glasgow. 2022 29th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2022. p. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Power-Efficient FFT Hardware Architecture Exploiting Approximate Adders",
+          "autores": "FERREIRA, GUILHERME ; PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021, Arequipa. 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021. p. 1-4.",
+          "doi": "http://dx.doi.org/10.1109/lascas51355.2021.9667154",
+          "citacao_completa": "FERREIRA, GUILHERME ; PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; COSTA, EDUARDO ; BAMPI, SERGIO . A Power-Efficient FFT Hardware Architecture Exploiting Approximate Adders. In: 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021, Arequipa. 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021. p. 1-4."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Exploring Approximate Adders for Power-Efficient Harmonics Elimination Hardware Architectures",
+          "autores": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; FERREIRA, GUILHERME ; COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO",
+          "periodico": "In: 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021, Arequipa. 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021. p. 1-4.",
+          "doi": "http://dx.doi.org/10.1109/lascas51355.2021.9459128",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; FERREIRA, GUILHERME ; COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO . Exploring Approximate Adders for Power-Efficient Harmonics Elimination Hardware Architectures. In: 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021, Arequipa. 2021 IEEE 12th Latin America Symposium on Circuits and System (LASCAS), 2021. p. 1-4."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Boosting the Efficiency of the Harmonics Elimination VLSI Architecture by Arithmetic Approximations",
+          "autores": "DA COSTA, PATRICIA ; PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; BAMPI, SERGIO",
+          "periodico": "In: 2021 28th IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2021, Dubai. 2021 28th IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2021. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICECS53924.2021.9665538",
+          "citacao_completa": "DA COSTA, PATRICIA ; PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; DA COSTA, EDUARDO ; BAMPI, SERGIO . Boosting the Efficiency of the Harmonics Elimination VLSI Architecture by Arithmetic Approximations. In: 2021 28th IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2021, Dubai. 2021 28th IEEE International Conference on Electronics, Circuits, and Systems (ICECS), 2021. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploring Architectural Solutions for Kalman Filter Design",
+          "autores": "PEREIRA, P. T. L. ; PAIM, G. ; UCKER, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S.",
+          "periodico": "In: XXXIV SIM - South Symposium on Microelectronics, 2019, Pelotas. 34th South Symposium on Microelectronics, 2019. p. 83-86.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, P. T. L. ; PAIM, G. ; UCKER, P. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. ; BAMPI, S. . Exploring Architectural Solutions for Kalman Filter Design. In: XXXIV SIM - South Symposium on Microelectronics, 2019, Pelotas. 34th South Symposium on Microelectronics, 2019. p. 83-86."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploring Adaptive Filter Implementation for Elimination of Power Line Interference in EEG Signals",
+          "autores": "ROSA, A. L. ; PEREIRA, P. T. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M.",
+          "periodico": "In: XXXIV SIM - South Symposium on Microelectronics, 2019, Pelotas. 34 South Symposium on Microelectronics, 2019. p. 159-162.",
+          "doi": "",
+          "citacao_completa": "ROSA, A. L. ; PEREIRA, P. T. L. ; PAIM, G. ; COSTA, E. A. C. ; ALMEIDA, S. J. M. . Exploring Adaptive Filter Implementation for Elimination of Power Line Interference in EEG Signals. In: XXXIV SIM - South Symposium on Microelectronics, 2019, Pelotas. 34 South Symposium on Microelectronics, 2019. p. 159-162."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Exploring Architectural Solutions for an Energy-Efficient Kalman Filter Gain Realization",
+          "autores": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; UCKER, PATRICIA ; COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO",
+          "periodico": "In: 2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2019, Genoa. 2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2019. p. 650.",
+          "doi": "http://dx.doi.org/10.1109/icecs46596.2019.8964734",
+          "citacao_completa": "PEREIRA, PEDRO T. L. ; PAIM, GUILHERME ; UCKER, PATRICIA ; COSTA, EDUARDO ; ALMEIDA, SERGIO ; BAMPI, SERGIO . Exploring Architectural Solutions for an Energy-Efficient Kalman Filter Gain Realization. In: 2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2019, Genoa. 2019 26th IEEE International Conference on Electronics, Circuits and Systems (ICECS), 2019. p. 650."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Projeto de Ensino ?Colocando em Prática o Aprendizado?",
+          "autores": "PEREIRA, P. T. L. ; WESTPHAL, G. I. ; ROSSI, M. L.",
+          "periodico": "In: IV Congresso de Ensino de Graduação, 2015, Pelotas. IV Congresso de Ensino de Graduação, 2015.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, P. T. L. ; WESTPHAL, G. I. ; ROSSI, M. L. . Projeto de Ensino ?Colocando em Prática o Aprendizado?. In: IV Congresso de Ensino de Graduação, 2015, Pelotas. IV Congresso de Ensino de Graduação, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Residência em Microeletrônica - CI Inovador",
+          "autores": "PEREIRA, P. T. L.",
+          "periodico": "2024. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "PEREIRA, P. T. L. . Residência em Microeletrônica - CI Inovador. 2024. (Curso de curta duração ministrado/Especialização)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Intra-Frame Prediction Hardware Accelerator for VVC Exploring Coefficient Approximation and Calculation Reuse",
+          "membros": "BAMPI, SERGIO; CORREA, G. R.; PEREIRA, P. T. L.",
+          "candidato": "Lucas Mariano Leipnitz de Fraga",
+          "citacao_completa": "BAMPI, SERGIO; CORREA, G. R.; PEREIRA, P. T. L. . Participação em banca de Lucas Mariano Leipnitz de Fraga. Intra-Frame Prediction Hardware Accelerator for VVC Exploring Coefficient Approximation and Calculation Reuse. 2025. Dissertação (Mestrado em Microeletrônica) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".Aplicação de Filtros Aproximados de Estimação de Movimento Fracionário para Codificação de Vídeo do Padrão VVC",
+          "membros": "Diniz, C. M.; PEREIRA, P. T. L. ; BAMPI, SERGIO",
+          "candidato": "YUSEF MAHATHMA HENCHENSKI GIDRÃO",
+          "citacao_completa": "Diniz, C. M.; PEREIRA, P. T. L. ; BAMPI, SERGIO. Participação em banca de YUSEF MAHATHMA HENCHENSKI GIDRÃO.Aplicação de Filtros Aproximados de Estimação de Movimento Fracionário para Codificação de Vídeo do Padrão VVC. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    }
+  ]
+}

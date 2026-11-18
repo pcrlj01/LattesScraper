@@ -1,0 +1,1513 @@
+{
+  "name": "Jugurta Rosa Montalvao Filho",
+  "lattes_id": "4582408199121884",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A Probabilistic Approach for Drift Compensation of Gas Sensor Data",
+          "autores": "BASTOS, GABRIEL ; Montalvão, Jugurta ; MIRANDA, L.",
+          "periodico": "IEEE Sensors Journal , p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2026.3655381",
+          "citacao_completa": "BASTOS, GABRIEL ; Montalvão, Jugurta ; MIRANDA, L. . A Probabilistic Approach for Drift Compensation of Gas Sensor Data. IEEE Sensors Journal , p. 1-1, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A Simple U-Diffusion Inpainting Structure",
+          "autores": "MONTALVAO, JUGURTA ; BASTOS, GABRIEL F. A. ; SANTOS, ISRAEL",
+          "periodico": "JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 32, p. 1-12, 2026.",
+          "doi": "http://dx.doi.org/10.5753/jbcs.2026.4907",
+          "citacao_completa": "MONTALVAO, JUGURTA ; BASTOS, GABRIEL F. A. ; SANTOS, ISRAEL . A Simple U-Diffusion Inpainting Structure. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 32, p. 1-12, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modeling time to first COVID-19 infection in Brazilian cities connected to larger cities under exponential infection growth",
+          "autores": "SILVA, THIAGO ; CIARELLI, PATRICK ; Montalvão, Jugurta ; SALLES, EVANDRO",
+          "periodico": "RESEARCH ON BIOMEDICAL ENGINEERING , v. 41, p. 22, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s42600-024-00395-y",
+          "citacao_completa": "SILVA, THIAGO ; CIARELLI, PATRICK ; Montalvão, Jugurta ; SALLES, EVANDRO . Modeling time to first COVID-19 infection in Brazilian cities connected to larger cities under exponential infection growth. RESEARCH ON BIOMEDICAL ENGINEERING , v. 41, p. 22, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "On the representation of sparse stochastic matrices with state embedding",
+          "autores": "Montalvão, Jugurta ; BASTOS, GABRIEL ; SOUSA, RODRIGO ; GUALBERTO, ATAÍDE",
+          "periodico": "PATTERN RECOGNITION LETTERS , v. 193, p. 71-78, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2025.04.011",
+          "citacao_completa": "Montalvão, Jugurta ; BASTOS, GABRIEL ; SOUSA, RODRIGO ; GUALBERTO, ATAÍDE . On the representation of sparse stochastic matrices with state embedding. PATTERN RECOGNITION LETTERS , v. 193, p. 71-78, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A coincidence detection perspective for the maximum mean discrepancy",
+          "autores": "Montalvão, Jugurta ; DUARTE, DAMI ; Boccato, Levy",
+          "periodico": "PATTERN RECOGNITION LETTERS , v. 177, p. 20-25, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2023.11.013",
+          "citacao_completa": "Montalvão, Jugurta ; DUARTE, DAMI ; Boccato, Levy . A coincidence detection perspective for the maximum mean discrepancy. PATTERN RECOGNITION LETTERS , v. 177, p. 20-25, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Automatic detection of indoor air pollution-related activities using metal-oxide gas sensors and the temporal intrinsic dimensionality estimation of data",
+          "autores": "MIRANDA, LUIZ ; DUC, CAROLINE ; REDON, NATHALIE ; PINHEIRO, JOÃO ; DORIZZI, BERNADETTE ; Montalvão, Jugurta ; VERRIELE, MARIE ; BOUDY, JÉRÔME",
+          "periodico": "Indoor Environments , v. 1, p. 100026-7, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.indenv.2024.100026",
+          "citacao_completa": "MIRANDA, LUIZ ; DUC, CAROLINE ; REDON, NATHALIE ; PINHEIRO, JOÃO ; DORIZZI, BERNADETTE ; Montalvão, Jugurta ; VERRIELE, MARIE ; BOUDY, JÉRÔME . Automatic detection of indoor air pollution-related activities using metal-oxide gas sensors and the temporal intrinsic dimensionality estimation of data. Indoor Environments , v. 1, p. 100026-7, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection",
+          "autores": "SANTOS, DAVID O. ; Montalvão, Jugurta ; ARAUJO, CHARLES A. C. ; LEBRE, ULISSES D. E. S. ; FERREIRA, TARSO V. ;",
+          "periodico": "SENSORS , v. 24, p. 4219, 2024.",
+          "doi": "http://dx.doi.org/10.3390/s24134219",
+          "citacao_completa": "SANTOS, DAVID O. ; Montalvão, Jugurta ; ARAUJO, CHARLES A. C. ; LEBRE, ULISSES D. E. S. ; FERREIRA, TARSO V. ; . Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection. SENSORS , v. 24, p. 4219, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Características para detecção de depressão com dados do Twitter",
+          "autores": "GUALBERTO, ATAÍDE ; Montalvão, Jugurta",
+          "periodico": "journal of health informatics , v. 16, p. 1, 2024.",
+          "doi": "http://dx.doi.org/10.59681/2175-4411.v16.iEspecial.2024.1319",
+          "citacao_completa": "GUALBERTO, ATAÍDE ; Montalvão, Jugurta . Características para detecção de depressão com dados do Twitter. journal of health informatics , v. 16, p. 1, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Probabilistic model for urban traffic noise analyses using real sound signals",
+          "autores": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta",
+          "periodico": "AMBIENTE CONSTRUÍDO (ONLINE) , v. 23, p. 131-154, 2023.",
+          "doi": "http://dx.doi.org/10.1590/s1678-86212023000400695",
+          "citacao_completa": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta . Probabilistic model for urban traffic noise analyses using real sound signals. AMBIENTE CONSTRUÍDO (ONLINE) , v. 23, p. 131-154, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Modelagem probabilística do tempo para a primeira infecção da Covid-19 de uma cidade conectada à outra em crescimento exponencial de infectados",
+          "autores": "SILVA, THIAGO SANTOS ; CIARELLI, PATRICK ; Montalvão, Jugurta ; SALLES, EVANDRO",
+          "periodico": "journal of health informatics , v. 15, p. 1-13, 2023.",
+          "doi": "http://dx.doi.org/10.59681/2175-4411.v15.iEspecial.2023.1089",
+          "citacao_completa": "SILVA, THIAGO SANTOS ; CIARELLI, PATRICK ; Montalvão, Jugurta ; SALLES, EVANDRO . Modelagem probabilística do tempo para a primeira infecção da Covid-19 de uma cidade conectada à outra em crescimento exponencial de infectados. journal of health informatics , v. 15, p. 1-13, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "On the Information Content of Predictions in Word Analogy Tests",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 37, p. 175-181, 2022.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2022.18",
+          "citacao_completa": "Montalvão, Jugurta . On the Information Content of Predictions in Word Analogy Tests. Journal of Communication and Information Systems (JCIS), , v. 37, p. 175-181, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "High impedance fault detection based on linear prediction",
+          "autores": "GRIMALDI, REGINALDO B.G. ; CHAGAS, TALITA S.A. ; Montalvão, Jugurta ; BRITO, NÚBIA S.D. ; DOS SANTOS, WELLINSÍLVIO C. ; FERREIRA, TARSO V.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 190, p. 106846, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106846",
+          "citacao_completa": "GRIMALDI, REGINALDO B.G. ; CHAGAS, TALITA S.A. ; Montalvão, Jugurta ; BRITO, NÚBIA S.D. ; DOS SANTOS, WELLINSÍLVIO C. ; FERREIRA, TARSO V. . High impedance fault detection based on linear prediction. ELECTRIC POWER SYSTEMS RESEARCH , v. 190, p. 106846, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Straightforward Working Principles Behind Modern Data Visualization Approaches",
+          "autores": "MONTALVAO, JUGURTA ; MIRANDA, LUIZ ; DORIZZI, BERNADETTE",
+          "periodico": "IEEE Access , v. 9, p. 4242-4252, 2021.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2020.3047910",
+          "citacao_completa": "MONTALVAO, JUGURTA ; MIRANDA, LUIZ ; DORIZZI, BERNADETTE . Straightforward Working Principles Behind Modern Data Visualization Approaches. IEEE Access , v. 9, p. 4242-4252, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Method Based on Linear Prediction for Inrush Current Detection",
+          "autores": "CHAGAS, TALITA SANTOS ALVES ; GRIMALDI, REGINALDO BARNABÉ GONZALEZ ; FERREIRA, TARSO VILELA ; Montalvão, Jugurta ; ROCCO, ALEXANDRE ; BRANCO, NILTON DE OLIVEIRA",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1-10, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00840-8",
+          "citacao_completa": "CHAGAS, TALITA SANTOS ALVES ; GRIMALDI, REGINALDO BARNABÉ GONZALEZ ; FERREIRA, TARSO VILELA ; Montalvão, Jugurta ; ROCCO, ALEXANDRE ; BRANCO, NILTON DE OLIVEIRA . A Method Based on Linear Prediction for Inrush Current Detection. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-10, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Bias-Compensated Estimator for Intrinsic Dimension and Differential Entropy: A Visual Multiscale Approach",
+          "autores": "Montalvão, Jugurta ; ; MIRANDA, LUIZ",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 35, p. 300-310, 2020.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2020.30",
+          "citacao_completa": "Montalvão, Jugurta ; ; MIRANDA, LUIZ . Bias-Compensated Estimator for Intrinsic Dimension and Differential Entropy: A Visual Multiscale Approach. Journal of Communication and Information Systems (JCIS), , v. 35, p. 300-310, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Noise Variance Estimation through Joint Analysis of Intrinsic Dimension and Differential Entropy",
+          "autores": "MONTALVAO, JUGURTA",
+          "periodico": "IEEE Signal Processing Letters , v. 1, p. 1-1, 2019.",
+          "doi": "http://dx.doi.org/10.1109/LSP.2019.2929437",
+          "citacao_completa": "MONTALVAO, JUGURTA . Noise Variance Estimation through Joint Analysis of Intrinsic Dimension and Differential Entropy. IEEE Signal Processing Letters , v. 1, p. 1-1, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Inversion of the SIR-SI System for Estimation ofHuman-Vector Contact Rate and Prediction ofDengue Cases",
+          "autores": "SILVA, T. ; Montalvão, Jugurta",
+          "periodico": "IEEE Latin America Transactions , v. 11, p. 1482-1490, 2019.",
+          "doi": "",
+          "citacao_completa": "SILVA, T. ; Montalvão, Jugurta . Inversion of the SIR-SI System for Estimation ofHuman-Vector Contact Rate and Prediction ofDengue Cases. IEEE Latin America Transactions , v. 11, p. 1482-1490, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Feature selection for optical network design via a new mutual information estimator",
+          "autores": "DEPIZZOL, DANIELA BERTOLINI ; Montalvão, Jugurta ; LIMA, FABIO DE OLIVEIRA ; MOREIRA PAIVA, MARCIA HELENA ; VIEIRA SEGATTO, MARCELO EDUARDO",
+          "periodico": "EXPERT SYSTEMS WITH APPLICATIONS , v. 107, p. 72-88, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.eswa.2018.04.018",
+          "citacao_completa": "DEPIZZOL, DANIELA BERTOLINI ; Montalvão, Jugurta ; LIMA, FABIO DE OLIVEIRA ; MOREIRA PAIVA, MARCIA HELENA ; VIEIRA SEGATTO, MARCELO EDUARDO . Feature selection for optical network design via a new mutual information estimator. EXPERT SYSTEMS WITH APPLICATIONS , v. 107, p. 72-88, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Convolutional structures and marginal statistics--a study based on K-nearest neighbours",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 33, p. 184-190, 2018.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2018.19",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Convolutional structures and marginal statistics--a study based on K-nearest neighbours. Journal of Communication and Information Systems (JCIS), , v. 33, p. 184-190, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A correntropy function based on coincidence detection",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "PATTERN RECOGNITION LETTERS , v. 85, p. 84-88, 2017.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2016.12.003",
+          "citacao_completa": "Montalvão, Jugurta ; ; . A correntropy function based on coincidence detection. PATTERN RECOGNITION LETTERS , v. 85, p. 84-88, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An Introduction to Information Theoretic Learning, Part I: Foundations",
+          "autores": "; Fantinato, Denis ; ; DUARTE, L. T. ; NEVES, ALINE ; SUYAMA, R. ; Montalvão, Jugurta ; ATTUX, R.",
+          "periodico": "Journal of Communication and Information Systems (Online) , p. 69-80, 2016.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2016.6",
+          "citacao_completa": "; Fantinato, Denis ; ; DUARTE, L. T. ; NEVES, ALINE ; SUYAMA, R. ; Montalvão, Jugurta ; ATTUX, R. . An Introduction to Information Theoretic Learning, Part I: Foundations. Journal of Communication and Information Systems (Online) , p. 69-80, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An Introduction to Information Theoretic Learning, Part II: Applications",
+          "autores": "; Fantinato, Denis ; ; DUARTE, L. T. ; NEVES, ALINE ; SUYAMA, R. ; Montalvão, Jugurta ; ATTUX, R.",
+          "periodico": "Journal of Communication and Information Systems (Online) , p. 81-91, 2016.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2016.7",
+          "citacao_completa": "; Fantinato, Denis ; ; DUARTE, L. T. ; NEVES, ALINE ; SUYAMA, R. ; Montalvão, Jugurta ; ATTUX, R. . An Introduction to Information Theoretic Learning, Part II: Applications. Journal of Communication and Information Systems (Online) , p. 81-91, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "On the infinite clipping of handwritten signatures",
+          "autores": "; DORIZZI, BERNADETTE ; Montalvão, Jugurta ; MATOS, LEONARDO",
+          "periodico": "Pattern Recognition Letters , v. 79, p. 38-43, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2016.04.026",
+          "citacao_completa": "; DORIZZI, BERNADETTE ; Montalvão, Jugurta ; MATOS, LEONARDO . On the infinite clipping of handwritten signatures. Pattern Recognition Letters , v. 79, p. 38-43, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "On the minimum probability of classification error through effective cardinality comparison",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 31, p. 304-312, 2016.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2016.26",
+          "citacao_completa": "Montalvão, Jugurta ; ; . On the minimum probability of classification error through effective cardinality comparison. Journal of Communication and Information Systems (JCIS), , v. 31, p. 304-312, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Contributions to empirical analysis of keystroke dynamics in passwords",
+          "autores": "Montalvão, Jugurta ; ; BEZERRA JR., MURILO A. ; GARCIA, RODOLFO",
+          "periodico": "Pattern Recognition Letters , v. 52, p. 80-86, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2014.09.016",
+          "citacao_completa": "Montalvão, Jugurta ; ; BEZERRA JR., MURILO A. ; GARCIA, RODOLFO . Contributions to empirical analysis of keystroke dynamics in passwords. Pattern Recognition Letters , v. 52, p. 80-86, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "An Immune-Inspired, Information-Theoretic Framework for Blind Inversion of Wiener Systems",
+          "autores": "; Montalvão, Jugurta ; ATTUX, ROMIS ;",
+          "periodico": "Signal Processing (Print) , v. 113, p. 18-31, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.sigpro.2015.01.010",
+          "citacao_completa": "; Montalvão, Jugurta ; ATTUX, ROMIS ; . An Immune-Inspired, Information-Theoretic Framework for Blind Inversion of Wiener Systems. Signal Processing (Print) , v. 113, p. 18-31, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A pragmatic entropy and differential entropy estimator for small datasets",
+          "autores": "MONTALVAO, JUGURTA ; ATTUX, ROMIS ;",
+          "periodico": "Journal of Communication and Information Systems (Online) , v. 29, p. 29-36, 2014.",
+          "doi": "",
+          "citacao_completa": "MONTALVAO, JUGURTA ; ATTUX, ROMIS ; . A pragmatic entropy and differential entropy estimator for small datasets. Journal of Communication and Information Systems (Online) , v. 29, p. 29-36, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A Lempel-Ziv like approach for signal classification",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "TEMA. Tendências em Matemática Aplicada e Computacional , v. 15, p. 223-234, 2014.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; . A Lempel-Ziv like approach for signal classification. TEMA. Tendências em Matemática Aplicada e Computacional , v. 15, p. 223-234, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A Michigan-like immune-inspired framework for performing independent component analysis over Galois fields of prime order",
+          "autores": "; ; COELHO, GUILHERME P. ; DUARTE, LEONARDO T. ; ; ATTUX, ROMIS ; ; Montalvão, Jugurta",
+          "periodico": "Signal Processing (Print) , v. 96, p. 153-163, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.sigpro.2013.09.004",
+          "citacao_completa": "; ; COELHO, GUILHERME P. ; DUARTE, LEONARDO T. ; ; ATTUX, ROMIS ; ; Montalvão, Jugurta . A Michigan-like immune-inspired framework for performing independent component analysis over Galois fields of prime order. Signal Processing (Print) , v. 96, p. 153-163, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "The modified MEXICO for ICA over finite fields",
+          "autores": "; ; Montalvão, Jugurta ;",
+          "periodico": "Signal Processing (Print) , v. 93, p. 2525-2528, 2013.",
+          "doi": "http://dx.doi.org/10.1016/j.sigpro.2013.03.021",
+          "citacao_completa": "; ; Montalvão, Jugurta ; . The modified MEXICO for ICA over finite fields. Signal Processing (Print) , v. 93, p. 2525-2528, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Simple entropy estimator for small datasets",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Electronics Letters , v. 48, p. 1059-1061, 2012.",
+          "doi": "http://dx.doi.org/10.1049/el.2012.2002",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Simple entropy estimator for small datasets. Electronics Letters , v. 48, p. 1059-1061, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Is masking a relevant aspect lacking in MFCC? A speaker verification perspective",
+          "autores": "Montalvão, Jugurta ; ARAUJO, M. R. R.",
+          "periodico": "Pattern Recognition Letters , v. 33, p. 2156-2165, 2012.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2012.07.023",
+          "citacao_completa": "Montalvão, Jugurta ; ARAUJO, M. R. R. . Is masking a relevant aspect lacking in MFCC? A speaker verification perspective. Pattern Recognition Letters , v. 33, p. 2156-2165, 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Robust hand image processing for biometric application",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Pattern Analysis and Applications (Print) , p. 368, 2010.",
+          "doi": "http://dx.doi.org/10.1007/s10044-010-0185-7",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Robust hand image processing for biometric application. Pattern Analysis and Applications (Print) , p. 368, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Clustering ensembles and space discretization - A new regard toward diversity and consensus",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "Pattern Recognition Letters , v. 31, p. 2415-2424, 2010.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2010.07.018",
+          "citacao_completa": "Montalvão, Jugurta ; . Clustering ensembles and space discretization - A new regard toward diversity and consensus. Pattern Recognition Letters , v. 31, p. 2415-2424, 2010."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Clustering with multilayer perceptrons and self-organized (Hebbian) learning",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Journal of Intelligent & Fuzzy Systems , v. 18, p. 501-511, 2007.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Clustering with multilayer perceptrons and self-organized (Hebbian) learning. Journal of Intelligent & Fuzzy Systems , v. 18, p. 501-511, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "On the Equalization of Keystroke Timing Histograms",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "Pattern Recognition Letters , v. 27, p. 1440-1446, 2006.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2006.01.010",
+          "citacao_completa": "Montalvão, Jugurta ; . On the Equalization of Keystroke Timing Histograms. Pattern Recognition Letters , v. 27, p. 1440-1446, 2006."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Channel Estimation by Symmetrical Clustering",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "IEEE Transactions on Signal Processing , v. 50, n.6, p. 1459-1469, 2002.",
+          "doi": "http://dx.doi.org/10.1109/TSP.2002.1003069",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Channel Estimation by Symmetrical Clustering. IEEE Transactions on Signal Processing , v. 50, n.6, p. 1459-1469, 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Why use Bayesian Equalization based on Finite Data Blocks",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Signal Processing , v. 81, n.2, p. 137-147, 2001.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Why use Bayesian Equalization based on Finite Data Blocks. Signal Processing , v. 81, n.2, p. 137-147, 2001."
+        },
+        {
+          "ano": 1999,
+          "titulo": "SOME THEORETICAL LIMITS OF EFFICIENCY OF LINEAR AND NONLINEAR EQUALIZERS",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "Revista da Sociedade Brasileira de Telecomunicações , v. 14, p. 85-92, 1999.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . SOME THEORETICAL LIMITS OF EFFICIENCY OF LINEAR AND NONLINEAR EQUALIZERS. Revista da Sociedade Brasileira de Telecomunicações , v. 14, p. 85-92, 1999."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "On the Capacity of Representation of an E-Nose Constructed with Two MOX Sensors",
+          "autores": "Santos, Ítalo ; Montalvão, Jugurta ; MIRANDA, LUIZ",
+          "periodico": "Lecture Notes in Networks and Systems. 1ed.: Springer Nature Singapore, 2025, v. , p. 301-312.",
+          "doi": "http://dx.doi.org/10.1007/978-981-96-6441-2_26",
+          "citacao_completa": "Santos, Ítalo ; Montalvão, Jugurta ; MIRANDA, LUIZ . On the Capacity of Representation of an E-Nose Constructed with Two MOX Sensors. Lecture Notes in Networks and Systems. 1ed.: Springer Nature Singapore, 2025, v. , p. 301-312."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Bio-Inspired and Information-Theoretic Signal Processing",
+          "autores": "de Faissol, Romis ; Boccato, Levy ; Fantinato, Denis ; Filho, Jugurta ; de Oliveira, Aline ; ; Nose-Filho, Kenji ; Silva, Daniel",
+          "periodico": "Signals and Images. 1ed.: CRC Press, 2015, v. , p. 493-532.",
+          "doi": "http://dx.doi.org/10.1201/b19385-23",
+          "citacao_completa": "de Faissol, Romis ; Boccato, Levy ; Fantinato, Denis ; Filho, Jugurta ; de Oliveira, Aline ; ; Nose-Filho, Kenji ; Silva, Daniel . Bio-Inspired and Information-Theoretic Signal Processing. Signals and Images. 1ed.: CRC Press, 2015, v. , p. 493-532."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Two bioinspired methods for dynamic signatures analysis",
+          "autores": "; ; Montalvão, Jugurta",
+          "periodico": "In: G. Pirlo; D. Impedovo; M. Fairhurst. (Org.). Advances in digital handwritten signature processing - A human artefact for e-society. 1ed.: World Scientific Publishing Co. Pte. Ltd., 2014, v. , p. 27-38.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta . Two bioinspired methods for dynamic signatures analysis. In: G. Pirlo; D. Impedovo; M. Fairhurst. (Org.). Advances in digital handwritten signature processing - A human artefact for e-society. 1ed.: World Scientific Publishing Co. Pte. Ltd., 2014, v. , p. 27-38."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Propagação de incertezas estruturais no modelo cinemático de robôs móveis",
+          "autores": "; ; ; Montalvão, Jugurta ; ; Luciano, B. A.",
+          "periodico": "In: Flávio Vasconcelos; Raimundo Freire; Sebastian Catunda. (Org.). Metrologia & Instrumentação - Tópicos Selecionados. Campina Grande - PB: Editora Universitária - EDUFCG, 2010, v. , p. 55-68.",
+          "doi": "",
+          "citacao_completa": "; ; ; Montalvão, Jugurta ; ; Luciano, B. A. . Propagação de incertezas estruturais no modelo cinemático de robôs móveis. In: Flávio Vasconcelos; Raimundo Freire; Sebastian Catunda. (Org.). Metrologia & Instrumentação - Tópicos Selecionados. Campina Grande - PB: Editora Universitária - EDUFCG, 2010, v. , p. 55-68."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 0,
+          "titulo": "Uma proposta de filtro não linear de sinais baseado em espectograma",
+          "autores": "ARAGÃO, H. G. ; Montalvão, Jugurta",
+          "periodico": "Diálogos e Ciência. Feira de Santana, http://www.ftc.br/revistafsa, p. 01/2 - 09.",
+          "doi": "",
+          "citacao_completa": "ARAGÃO, H. G. ; Montalvão, Jugurta . Uma proposta de filtro não linear de sinais baseado em espectograma. Diálogos e Ciência. Feira de Santana, http://www.ftc.br/revistafsa, p. 01/2 - 09."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Revisiting MFCCs: Evidence for Spectral-Prosodic Coupling",
+          "autores": "BEZERRA, VITOR MAGNO DE O. S. ; BASTOS, GABRIEL F. A. ; Montalvão, Jugurta",
+          "periodico": "In: 2025 12th International Conference on Soft Computing &amp; Machine Intelligence (ISCMI), 2025, Rio de Janeiro. 2025 12th International Conference on Soft Computing &amp; Machine Intelligence (ISCMI), 2025. p. 357-361.",
+          "doi": "http://dx.doi.org/10.1109/ISCMI67495.2025.11358613",
+          "citacao_completa": "BEZERRA, VITOR MAGNO DE O. S. ; BASTOS, GABRIEL F. A. ; Montalvão, Jugurta . Revisiting MFCCs: Evidence for Spectral-Prosodic Coupling. In: 2025 12th International Conference on Soft Computing &amp; Machine Intelligence (ISCMI), 2025, Rio de Janeiro. 2025 12th International Conference on Soft Computing &amp; Machine Intelligence (ISCMI), 2025. p. 357-361."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Características para detecção de depressão com dados do Twitter",
+          "autores": "GUALBERTO, A. ; Montalvão, Jugurta",
+          "periodico": "In: Congresso Brasileiro de Informática em Saúde, 2024. Anais do CBIS 2024, 2024.",
+          "doi": "http://dx.doi.org/10.59681/2175-4411.v16.iEspecial.2024.131",
+          "citacao_completa": "GUALBERTO, A. ; Montalvão, Jugurta . Características para detecção de depressão com dados do Twitter. In: Congresso Brasileiro de Informática em Saúde, 2024. Anais do CBIS 2024, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A Simple Model for Dirt Deposition Classification in Insulators Based on Visible Spectrum Images",
+          "autores": "ALMEIDA MOLINA, CHRISTIANE RAULINO ; Montalvão, Jugurta ; SILVÉRIO FREIRE, RAIMUNDO CARLOS ; BEDENIK, GRAZIELLA ; LEBRE, ULISSES D. E. S. ; DE ARAUJO, CHARLES A. C.",
+          "periodico": "In: 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023, Rio de Janeiro. 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/inscit59673.2023.10258489",
+          "citacao_completa": "ALMEIDA MOLINA, CHRISTIANE RAULINO ; Montalvão, Jugurta ; SILVÉRIO FREIRE, RAIMUNDO CARLOS ; BEDENIK, GRAZIELLA ; LEBRE, ULISSES D. E. S. ; DE ARAUJO, CHARLES A. C. . A Simple Model for Dirt Deposition Classification in Insulators Based on Visible Spectrum Images. In: 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023, Rio de Janeiro. 2023 7th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2023. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Analysis of Parameters Influence in a MOX Gas Sensor Model",
+          "autores": "BEDENIK, GRAZIELLA ; SOUZA, MATHEUS ; CARVALHO, ELYSON A. N. ; ; MONTALVAO, JUGURTA ; FREIRE, RAIMUNDO",
+          "periodico": "In: 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022, Ottawa. 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/I2MTC48687.2022.9806695",
+          "citacao_completa": "BEDENIK, GRAZIELLA ; SOUZA, MATHEUS ; CARVALHO, ELYSON A. N. ; ; MONTALVAO, JUGURTA ; FREIRE, RAIMUNDO . Analysis of Parameters Influence in a MOX Gas Sensor Model. In: 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022, Ottawa. 2022 IEEE International Instrumentation and Measurement Technology Conference (I2MTC), 2022. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Improved Model for Vocal Folds with a Polyp with Potential Application",
+          "autores": "SANTOS, JÔNATAS ; Montalvão, Jugurta ; SANTOS, ISRAEL",
+          "periodico": "In: Interspeech 2020, 2020. Interspeech 2020. p. 1386-1390.",
+          "doi": "http://dx.doi.org/10.21437/interspeech.2020-3049",
+          "citacao_completa": "SANTOS, JÔNATAS ; Montalvão, Jugurta ; SANTOS, ISRAEL . Improved Model for Vocal Folds with a Polyp with Potential Application. In: Interspeech 2020, 2020. Interspeech 2020. p. 1386-1390."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Influência do fluxo e composição veicular no ruído urbano a partir de um modelo de predição baseado em sinais sonoros reais: um estudo em Campinas (SP)",
+          "autores": "GUEDES, ITALO ; ROLLA BERTOLI, STELAMARIS ; Montalvão, Jugurta ; MAIORINO, ALEXANDRE",
+          "periodico": "In: XXVIII ENCONTRO DA SOBRAC, 2018, Campinas. XXVIII Encontro da SOBRAC, 2018.",
+          "doi": "http://dx.doi.org/10.17648/sobrac-87021",
+          "citacao_completa": "GUEDES, ITALO ; ROLLA BERTOLI, STELAMARIS ; Montalvão, Jugurta ; MAIORINO, ALEXANDRE . Influência do fluxo e composição veicular no ruído urbano a partir de um modelo de predição baseado em sinais sonoros reais: um estudo em Campinas (SP). In: XXVIII ENCONTRO DA SOBRAC, 2018, Campinas. XXVIII Encontro da SOBRAC, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Sobre a Associação em Série de Filtros Estreitos e Preditores a Dois Polos - Estudos Preliminares",
+          "autores": "J. Santos ; J. Silveira ; Montalvão, Jugurta",
+          "periodico": "In: VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM, 2018, Salvador. Anais do VIII ENCOM, 2018. p. 31-32.",
+          "doi": "",
+          "citacao_completa": "J. Santos ; J. Silveira ; Montalvão, Jugurta . Sobre a Associação em Série de Filtros Estreitos e Preditores a Dois Polos - Estudos Preliminares. In: VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação - ENCOM, 2018, Salvador. Anais do VIII ENCOM, 2018. p. 31-32."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An Immune-Inspired, Dependence-Based Approach to Blind Inversion of Wiener Systems",
+          "autores": "FERNANDEZ, S. A. ; ATTUX, R. ; FANTINATO, DENIS G. ; Montalvão, Jugurta ;",
+          "periodico": "In: European Symposium on Artificial Neural Networks Computational Intelligence and Machine Learning, 2016, Bruges. Proc. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2016. p. 201-206.",
+          "doi": "",
+          "citacao_completa": "FERNANDEZ, S. A. ; ATTUX, R. ; FANTINATO, DENIS G. ; Montalvão, Jugurta ; . An Immune-Inspired, Dependence-Based Approach to Blind Inversion of Wiener Systems. In: European Symposium on Artificial Neural Networks Computational Intelligence and Machine Learning, 2016, Bruges. Proc. European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2016. p. 201-206."
+        },
+        {
+          "ano": 2016,
+          "titulo": "KBOC: Keystroke Biometrics OnGoing Competition",
+          "autores": "MORALES, A. ; FIERREZ, J. ; GOMEZ-BARRERO, M. ; ORTEGA-GARCIA, J. ; DAZA, R. ; MONACO, J. V. ; MONTALVAO, JUGURTA ; CANUTO, J. ; GEORGE, A.",
+          "periodico": "In: The IEEE Eighth International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2016), 2016, Buffalo. Proceedings of the 2016 BTAS, 2016. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "MORALES, A. ; FIERREZ, J. ; GOMEZ-BARRERO, M. ; ORTEGA-GARCIA, J. ; DAZA, R. ; MONACO, J. V. ; MONTALVAO, JUGURTA ; CANUTO, J. ; GEORGE, A. . KBOC: Keystroke Biometrics OnGoing Competition. In: The IEEE Eighth International Conference on Biometrics: Theory, Applications, and Systems (BTAS 2016), 2016, Buffalo. Proceedings of the 2016 BTAS, 2016. p. 1-7."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Monte Carlo simulations to estimate the impact of vehicle traffic noise dynamics in the vicinity of a bus stop based on real sound signals",
+          "autores": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta",
+          "periodico": "In: X Congreso Iberoamericano de Acústica, FIA 2016, 2016, Buenos Aires. Proceedings of the X Congreso Iberoamericano de Acústica, FIA 2016, 2016. p. 1-10.",
+          "doi": "http://dx.doi.org/10.1121/2.0000477",
+          "citacao_completa": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta . Monte Carlo simulations to estimate the impact of vehicle traffic noise dynamics in the vicinity of a bus stop based on real sound signals. In: X Congreso Iberoamericano de Acústica, FIA 2016, 2016, Buenos Aires. Proceedings of the X Congreso Iberoamericano de Acústica, FIA 2016, 2016. p. 1-10."
+        },
+        {
+          "ano": 2016,
+          "titulo": "MONTE CARLO SIMULATIONS TO ESTIMATE THE IMPACT OF VEHICLE TRAFFIC NOISE DYNAMICS IN THE VICINITY OF A BUS STOP BASED ON REAL SOUND SIGNALS",
+          "autores": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta",
+          "periodico": "In: X CONGRESO IBEROAMERICANO DE ACÚSTICA, 2016, Buenos Aires. Anais do X CONGRESO IBEROAMERICANO DE ACÚSTICA, 2016.",
+          "doi": "",
+          "citacao_completa": "GUEDES, I. C. M. ; BERTOLI, S. R. ; Montalvão, Jugurta . MONTE CARLO SIMULATIONS TO ESTIMATE THE IMPACT OF VEHICLE TRAFFIC NOISE DYNAMICS IN THE VICINITY OF A BUS STOP BASED ON REAL SOUND SIGNALS. In: X CONGRESO IBEROAMERICANO DE ACÚSTICA, 2016, Buenos Aires. Anais do X CONGRESO IBEROAMERICANO DE ACÚSTICA, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Speech Recognition in Noisy Environments with Convolutional Neural Networks",
+          "autores": "SANTOS, RAFAEL M. ; MATOS, LEONARDO N. ; MACEDO, HENDRIK T. ; MONTALVAO, JUGURTA",
+          "periodico": "In: 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015, Natal. 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015. p. 175-179.",
+          "doi": "http://dx.doi.org/10.1109/bracis.2015.44",
+          "citacao_completa": "SANTOS, RAFAEL M. ; MATOS, LEONARDO N. ; MACEDO, HENDRIK T. ; MONTALVAO, JUGURTA . Speech Recognition in Noisy Environments with Convolutional Neural Networks. In: 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015, Natal. 2015 Brazilian Conference on Intelligent Systems (BRACIS), 2015. p. 175-179."
+        },
+        {
+          "ano": 2014,
+          "titulo": "ANÁLISE DE ESPECTRO ATRAVÉS DA DETEÇÃO DE EVENTOS ACÚSTICOS ELEMENTARES NO PLANO TEMPO-FREQUÊNCIA",
+          "autores": "RAULINO, C. ; DUARTE, D. ; Montalvão, Jugurta",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente (SBAI), 2014, Fortaleza. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2014. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "RAULINO, C. ; DUARTE, D. ; Montalvão, Jugurta . ANÁLISE DE ESPECTRO ATRAVÉS DA DETEÇÃO DE EVENTOS ACÚSTICOS ELEMENTARES NO PLANO TEMPO-FREQUÊNCIA. In: Simpósio Brasileiro de Automação Inteligente (SBAI), 2014, Fortaleza. Anais do XI Simpósio Brasileiro de Automação Inteligente, 2014. p. 1-6."
+        },
+        {
+          "ano": 2014,
+          "titulo": "cobICA: A Concentration-Based, Immune-Inspired Algorithm for ICA Over Galois Fields",
+          "autores": "; Montalvão, Jugurta ; ATTUX, ROMIS",
+          "periodico": "In: IEEE SSCI 2014, 2014, Orlando. Proceedings of the IEEE SSCI 2014, 2014.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; ATTUX, ROMIS . cobICA: A Concentration-Based, Immune-Inspired Algorithm for ICA Over Galois Fields. In: IEEE SSCI 2014, 2014, Orlando. Proceedings of the IEEE SSCI 2014, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Dynamic Signatures Representation Using the Minimum Jerk Principle",
+          "autores": "; ; Montalvão, Jugurta",
+          "periodico": "In: ISSNIP Biosignals and Biorobotics Conference, 2013, Rio de Janeiro. Proceedings of ISSNIP Biosignals and Biorobotics, 2013.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta . Dynamic Signatures Representation Using the Minimum Jerk Principle. In: ISSNIP Biosignals and Biorobotics Conference, 2013, Rio de Janeiro. Proceedings of ISSNIP Biosignals and Biorobotics, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Two Bioinspired Methods for Dynamic Signatures Analysis",
+          "autores": "; ; Montalvão, Jugurta",
+          "periodico": "In: The International Conference on Image Analysis and Processing (ICIAP), 2013, Nápoles. Proc. of the 17th International Conference on Image Analysis and Processing, 2013.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta . Two Bioinspired Methods for Dynamic Signatures Analysis. In: The International Conference on Image Analysis and Processing (ICIAP), 2013, Nápoles. Proc. of the 17th International Conference on Image Analysis and Processing, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Error Entropy Criterion in Echo State Network Training",
+          "autores": "BOCCATO, L. ; ; ; NOSE-FILHO, K. ; ; ; ; Montalvão, Jugurta ;",
+          "periodico": "In: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2013, Bruges. Proceedings of the 21st European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2013., 2013. p. 35-40.",
+          "doi": "",
+          "citacao_completa": "BOCCATO, L. ; ; ; NOSE-FILHO, K. ; ; ; ; Montalvão, Jugurta ; . Error Entropy Criterion in Echo State Network Training. In: European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2013, Bruges. Proceedings of the 21st European Symposium on Artificial Neural Networks, Computational Intelligence and Machine Learning, 2013., 2013. p. 35-40."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Blind separation of convolutive mixtures over Galois fields",
+          "autores": "FANTINATO, DENIS G. ; SILVA, DANIEL G. ; ; ATTUX, ROMIS ; ROMANO, JOAO M. T. ; NEVES, ALINE ; MONTALVAO, JUGURTA",
+          "periodico": "In: 2013 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2013, Southampton. 2013 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2013. p. 1-6.",
+          "doi": "http://dx.doi.org/10.1109/MLSP.2013.6661908",
+          "citacao_completa": "FANTINATO, DENIS G. ; SILVA, DANIEL G. ; ; ATTUX, ROMIS ; ROMANO, JOAO M. T. ; NEVES, ALINE ; MONTALVAO, JUGURTA . Blind separation of convolutive mixtures over Galois fields. In: 2013 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2013, Southampton. 2013 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2013. p. 1-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Symbolic Dynamic Analysis Through Coincidence Detection - An Oversimplified Method",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: XXI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT2013, 2013, Fortaleza. proceeding of the XXXI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT2013, 2013. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Symbolic Dynamic Analysis Through Coincidence Detection - An Oversimplified Method. In: XXI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT2013, 2013, Fortaleza. proceeding of the XXXI SIMPÓSIO BRASILEIRO DE TELECOMUNICAÇÕES - SBrT2013, 2013. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2012,
+          "titulo": "DETEÇÃO DE ORADOR E PALAVRAS EM TELEVIGILÂNCIA MÉDICA COM TREINAMENTO MÍNIMO: UMA AMOSTRA POR PALAVRA",
+          "autores": "Montalvão, Jugurta ; ; RAULINO, C.",
+          "periodico": "In: XIX Congresso Brasileiro de Automática - CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 2244-2250.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; RAULINO, C. . DETEÇÃO DE ORADOR E PALAVRAS EM TELEVIGILÂNCIA MÉDICA COM TREINAMENTO MÍNIMO: UMA AMOSTRA POR PALAVRA. In: XIX Congresso Brasileiro de Automática - CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 2244-2250."
+        },
+        {
+          "ano": 2012,
+          "titulo": "MAPEAMENTO UTILIZANDO ANÁLISE DE COMPONENTES PRINCIPAIS",
+          "autores": "KAMARRY, S. ; ; Montalvão, Jugurta ; ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3095-3101.",
+          "doi": "",
+          "citacao_completa": "KAMARRY, S. ; ; Montalvão, Jugurta ; ; . MAPEAMENTO UTILIZANDO ANÁLISE DE COMPONENTES PRINCIPAIS. In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3095-3101."
+        },
+        {
+          "ano": 2012,
+          "titulo": "PERCEPÇÃO E REPRESENTAÇÃO VETORIAL DE TIMBRE",
+          "autores": "DUARTE, D. ; Montalvão, Jugurta",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3150-3155.",
+          "doi": "",
+          "citacao_completa": "DUARTE, D. ; Montalvão, Jugurta . PERCEPÇÃO E REPRESENTAÇÃO VETORIAL DE TIMBRE. In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3150-3155."
+        },
+        {
+          "ano": 2012,
+          "titulo": "EQUALIZAÇÃO DE INTERVALOS ADAPTADA À DINÂMICA DA DIGITAÇÃO (KEYSTROKE) DE SENHAS CURTAS",
+          "autores": "; Montalvão, Jugurta ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3164.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; . EQUALIZAÇÃO DE INTERVALOS ADAPTADA À DINÂMICA DA DIGITAÇÃO (KEYSTROKE) DE SENHAS CURTAS. In: XIX Congresso Brasileiro de Automática, CBA 2012, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 3164."
+        },
+        {
+          "ano": 2012,
+          "titulo": "ESTIMATIVA DA DIREÇÃO DE CHEGADA DE MÚLTIPLOS SONS EM AMBIENTES INTERNOS",
+          "autores": "SANTIN, R. R. ; Montalvão, Jugurta",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, CBA 2012., 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 2973-2978.",
+          "doi": "",
+          "citacao_completa": "SANTIN, R. R. ; Montalvão, Jugurta . ESTIMATIVA DA DIREÇÃO DE CHEGADA DE MÚLTIPLOS SONS EM AMBIENTES INTERNOS. In: XIX Congresso Brasileiro de Automática, CBA 2012., 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012. p. 2973-2978."
+        },
+        {
+          "ano": 2011,
+          "titulo": "BioSecure Signature Evaluation Campaign (ESRA?2011): Evaluating Systems on Quality-based categories of Skilled Forgeries",
+          "autores": "HOUMANI, E. ; GARCIA-SALICETTI, S. ; ; Montalvão, Jugurta ; ; ANDRADE, M. V. ; QIAO, Y. ; X.WANG, ; SCHEIDAT, T. ; MAKRUSHIN, A. ; MURAMATSU, D. ; PUTZ-LESZCZYNSKA, J. ; KUDELSKI, M. ; FAUNDEZ-ZANUY, M. ; PASCUAL-GASPAR, J. M. ; CARDENOSO-PAYO, V. ; VIVARACHO-PASCUAL, C. ; RUA, E. A. ; ALBA-CASTRO, J. L. ; KHOLMATOV, A. ; et.al",
+          "periodico": "In: IEEE/IAPR International Joint Conference on Biometrics, 2011, Washington. Proc. IEEE/IAPR International Joint Conference on Biometrics, 2011.",
+          "doi": "",
+          "citacao_completa": "HOUMANI, E. ; GARCIA-SALICETTI, S. ; ; Montalvão, Jugurta ; ; ANDRADE, M. V. ; QIAO, Y. ; X.WANG, ; SCHEIDAT, T. ; MAKRUSHIN, A. ; MURAMATSU, D. ; PUTZ-LESZCZYNSKA, J. ; KUDELSKI, M. ; FAUNDEZ-ZANUY, M. ; PASCUAL-GASPAR, J. M. ; CARDENOSO-PAYO, V. ; VIVARACHO-PASCUAL, C. ; RUA, E. A. ; ALBA-CASTRO, J. L. ; KHOLMATOV, A. ; et.al . BioSecure Signature Evaluation Campaign (ESRA?2011): Evaluating Systems on Quality-based categories of Skilled Forgeries. In: IEEE/IAPR International Joint Conference on Biometrics, 2011, Washington. Proc. IEEE/IAPR International Joint Conference on Biometrics, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "On the use of Lempel-Ziv complexity in signal detection",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "In: X Congresso Brasileiro de Inteligência Computacional (Ex-CBRN), 2011, Fortaleza. Proc. CBIC 2011, 2011.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; . On the use of Lempel-Ziv complexity in signal detection. In: X Congresso Brasileiro de Inteligência Computacional (Ex-CBRN), 2011, Fortaleza. Proc. CBIC 2011, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Computational vocalization recognition - an alternative to transect sampling in Tropical Forests",
+          "autores": "Montalvão, Jugurta ; SOUSA, M. C.",
+          "periodico": "In: X Congresso Brasileiro de Inteligência Computacional (Ex-CBRN), 2011, Fortaleza. Proc. CBIC 2011, 2011.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; SOUSA, M. C. . Computational vocalization recognition - an alternative to transect sampling in Tropical Forests. In: X Congresso Brasileiro de Inteligência Computacional (Ex-CBRN), 2011, Fortaleza. Proc. CBIC 2011, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Novel On-line Signature Forgery Detection System Using Statistical Modelling and Multi- Fractal Information",
+          "autores": "; Montalvão, Jugurta ;",
+          "periodico": "In: ISSNIP Biosignals and Biorobotics Conference, 2011, Vitória. Proc. ISSNIP Biosignals and Biorobotics Conference, 2011. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; . A Novel On-line Signature Forgery Detection System Using Statistical Modelling and Multi- Fractal Information. In: ISSNIP Biosignals and Biorobotics Conference, 2011, Vitória. Proc. ISSNIP Biosignals and Biorobotics Conference, 2011. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Human Based Benchmark for Robot Navigation Assessment",
+          "autores": "; ; M. Alves ; Montalvão, Jugurta ;",
+          "periodico": "In: ISSNIP Biosignals and Biorobotics Conference, 2010, Vitória. Anais do ISSNIP2010, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; M. Alves ; Montalvão, Jugurta ; . Human Based Benchmark for Robot Navigation Assessment. In: ISSNIP Biosignals and Biorobotics Conference, 2010, Vitória. Anais do ISSNIP2010, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sound Event Detection in Remote Health Care - Small Learning Datasets and Over Constrained Gaussian Mixture Models",
+          "autores": "Montalvão, Jugurta ; ISTRATE, D. ; BOUDY, J. ; MOUBA, J.",
+          "periodico": "In: 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2010, Buenos Aires. Anais do 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2010.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ISTRATE, D. ; BOUDY, J. ; MOUBA, J. . Sound Event Detection in Remote Health Care - Small Learning Datasets and Over Constrained Gaussian Mixture Models. In: 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2010, Buenos Aires. Anais do 32nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Improved signal representation for event detection in remote health care through masking",
+          "autores": "Montalvão, Jugurta ; ISTRATE, D. ; BOUDY, J.",
+          "periodico": "In: XVIII Congresso Brasileiro de Automática - CBA2010, 2010, Bonito. Anais do XVIII CBA, 2010.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ISTRATE, D. ; BOUDY, J. . Improved signal representation for event detection in remote health care through masking. In: XVIII Congresso Brasileiro de Automática - CBA2010, 2010, Bonito. Anais do XVIII CBA, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Comparing GMM and Parzen in automatic signature recognition - a step backward or forward?",
+          "autores": "Montalvão, Jugurta ; HOUMANI, E. ;",
+          "periodico": "In: XVIII Congresso Brasileiro de Automática - CBA2010, 2010, Bonito. Anais do XVIII CBA, 2010.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; HOUMANI, E. ; . Comparing GMM and Parzen in automatic signature recognition - a step backward or forward?. In: XVIII Congresso Brasileiro de Automática - CBA2010, 2010, Bonito. Anais do XVIII CBA, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Avaliação da Imprecisão Odométrica em Robôs Móveis Considerando as Incertezas Associadas ao Processo de Fabricação",
+          "autores": "; ; ; Montalvão, Jugurta",
+          "periodico": "In: International Seminar on Electrical Metrology, 2009, Campina Grande. Anais do 8th International Seminar on Electrical Metrology, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; ; Montalvão, Jugurta . Avaliação da Imprecisão Odométrica em Robôs Móveis Considerando as Incertezas Associadas ao Processo de Fabricação. In: International Seminar on Electrical Metrology, 2009, Campina Grande. Anais do 8th International Seminar on Electrical Metrology, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estimação de Freqüências de Sinais Digitais Baseada no Paradigma Conexionista",
+          "autores": "; Montalvão, Jugurta ;",
+          "periodico": "In: International Seminar on Electrical Metrology - VIII SEMETRO, 2009, Campina Grande. Anais do 8° International Seminar on Electrical Metrology - VIII SEMETRO, 2009. p. 5 páginas.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; . Estimação de Freqüências de Sinais Digitais Baseada no Paradigma Conexionista. In: International Seminar on Electrical Metrology - VIII SEMETRO, 2009, Campina Grande. Anais do 8° International Seminar on Electrical Metrology - VIII SEMETRO, 2009. p. 5 páginas."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estudo Empírico da Contribuição Melódica e Rítmica da Fala para a Percepção da Identidade do Orador",
+          "autores": "LEAL JUNIOR, J. R. S. ; ; Montalvão, Jugurta",
+          "periodico": "In: 8th International Seminar on Electrical Metrology - VIII SEMETRO, 2009, Campina Grande. Anais do VIII SEMETRO, 2009. p. 5 pages.",
+          "doi": "",
+          "citacao_completa": "LEAL JUNIOR, J. R. S. ; ; Montalvão, Jugurta . Estudo Empírico da Contribuição Melódica e Rítmica da Fala para a Percepção da Identidade do Orador. In: 8th International Seminar on Electrical Metrology - VIII SEMETRO, 2009, Campina Grande. Anais do VIII SEMETRO, 2009. p. 5 pages."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos",
+          "autores": "; M. Alves ; ; Montalvão, Jugurta ;",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX SBAI, 2009.",
+          "doi": "",
+          "citacao_completa": "; M. Alves ; ; Montalvão, Jugurta ; . Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos. In: Simpósio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX SBAI, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Utilização de Análise Espectral de Imagens Térmicas para Determinação da Mínima Taxa de Amostragem Espacial Necessária",
+          "autores": "; Montalvão, Jugurta ; ; ;",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX SBAI, 2009.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; ; ; . Utilização de Análise Espectral de Imagens Térmicas para Determinação da Mínima Taxa de Amostragem Espacial Necessária. In: Simpósio Brasileiro de Automação Inteligente, 2009, Brasília. Anais do IX SBAI, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Contour Level Estimation from Gaussian Mixture Models Applied to Nonlinear BSS\"",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "In: IAPR Workshop on Cognitive Information Processing, 2008, Santorini. CIP2008 Proceedings, 2008. p. 6 pages.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; . Contour Level Estimation from Gaussian Mixture Models Applied to Nonlinear BSS\". In: IAPR Workshop on Cognitive Information Processing, 2008, Santorini. CIP2008 Proceedings, 2008. p. 6 pages."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Robotic Vision System Using a Modified Hough Transform to Perform Weld Line Detection on Storage Tanks",
+          "autores": "; ; ; Montalvão, Jugurta ;",
+          "periodico": "In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador. Anais do 5º IEEE LARS 2008, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; ; Montalvão, Jugurta ; . A Robotic Vision System Using a Modified Hough Transform to Perform Weld Line Detection on Storage Tanks. In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador. Anais do 5º IEEE LARS 2008, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Processamento Robusto de Imagens de Mãos para Aplicação Biométrica",
+          "autores": "; ; Montalvão, Jugurta",
+          "periodico": "In: Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE2007), 2007, Vitória da Conquista (BA). Anais do ERBASE2007, 2007. p. 5 pag..",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta . Processamento Robusto de Imagens de Mãos para Aplicação Biométrica. In: Escola Regional de Computação Bahia-Alagoas-Sergipe (ERBASE2007), 2007, Vitória da Conquista (BA). Anais do ERBASE2007, 2007. p. 5 pag.."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistema de Visão Artificial Baseado em Detecção de Cores (Para Sistema de Controle de Robôs Celulares com Realimentação Visual)",
+          "autores": "ARAUJO, G. M. ; MENDONCA, M. M. ; ; Montalvão, Jugurta ; MATOS, L. N.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "doi": "",
+          "citacao_completa": "ARAUJO, G. M. ; MENDONCA, M. M. ; ; Montalvão, Jugurta ; MATOS, L. N. . Sistema de Visão Artificial Baseado em Detecção de Cores (Para Sistema de Controle de Robôs Celulares com Realimentação Visual). In: Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Simplified Automatic Detection of Parkinson's Disease Evidences through Pitch Dynamics Analysis",
+          "autores": "; LEAL JUNIOR, J. R. S. ; Montalvão, Jugurta",
+          "periodico": "In: BIOMAT International Symposium on Mathematical and Computational Biology, 2007, Armação de Búzios - RJ. CD-ROM, 2007. p. 9 pag..",
+          "doi": "",
+          "citacao_completa": "; LEAL JUNIOR, J. R. S. ; Montalvão, Jugurta . Simplified Automatic Detection of Parkinson's Disease Evidences through Pitch Dynamics Analysis. In: BIOMAT International Symposium on Mathematical and Computational Biology, 2007, Armação de Búzios - RJ. CD-ROM, 2007. p. 9 pag.."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Multimodal Biometric Fusion ? Joint Typist (Keystroke) and Speaker Verification",
+          "autores": "Montalvão, Jugurta ;",
+          "periodico": "In: International Telecommunicatios Symposium (ITS), 2006, Fortaleza. Anals of the IEEE International Telecommunications Symposium, 2006. p. 7-12.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; . Multimodal Biometric Fusion ? Joint Typist (Keystroke) and Speaker Verification. In: International Telecommunicatios Symposium (ITS), 2006, Fortaleza. Anals of the IEEE International Telecommunications Symposium, 2006. p. 7-12."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Equalization of Keystroke Timing Histograms for Improved Identification Performance",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: International Telecommunications Symposium, 2006, Fortaleza. Anals of the IEEE International Telecommunications Symposium, 2006. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Equalization of Keystroke Timing Histograms for Improved Identification Performance. In: International Telecommunications Symposium, 2006, Fortaleza. Anals of the IEEE International Telecommunications Symposium, 2006. p. 1-6."
+        },
+        {
+          "ano": 2004,
+          "titulo": "CLUSTERING WITH MULTILAYER PERCEPTRONS AND HEBBIAN LEARNING BASED ON KULLBACK-LEIBLER DIVERGENCE",
+          "autores": "Montalvão, Jugurta ; ; OLIVEIRA, Levi Pedro",
+          "periodico": "In: 2004 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2004, São Luís - Brazil. PROCEEDINGS OF THE 2004 IEEE SIGNAL PROCESSING SOCIETY WORKSHOP. New York: Institute of Electrical and Electronics Engineers, Inc.. p. 243-252.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; OLIVEIRA, Levi Pedro . CLUSTERING WITH MULTILAYER PERCEPTRONS AND HEBBIAN LEARNING BASED ON KULLBACK-LEIBLER DIVERGENCE. In: 2004 IEEE International Workshop on Machine Learning for Signal Processing (MLSP), 2004, São Luís - Brazil. PROCEEDINGS OF THE 2004 IEEE SIGNAL PROCESSING SOCIETY WORKSHOP. New York: Institute of Electrical and Electronics Engineers, Inc.. p. 243-252."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A New Clustering Algorithm for Multilayer Perceptrons with Hebbian Learning Based on Kullback-Leibler Divergence",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: Simpósio Brasileiro de Redes Neurais, 2004, São Luís. Anais do VIII Simpósio Brasileiro de Redes Neurais, 2004. p. 5 pag..",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . A New Clustering Algorithm for Multilayer Perceptrons with Hebbian Learning Based on Kullback-Leibler Divergence. In: Simpósio Brasileiro de Redes Neurais, 2004, São Luís. Anais do VIII Simpósio Brasileiro de Redes Neurais, 2004. p. 5 pag.."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Biometric Identification/Verification via Keystroke Dynamics: A Multi-Feature Approach",
+          "autores": "OLIVEIRA, Levi Pedro ; Montalvão, Jugurta ; ; BATISTA, Lurimar S",
+          "periodico": "In: I International Symposium on Mathematical and Computational Biology and IV Brazilian Symposium on Mathematical and Computational Biology - BIOMAT 2004, 2004, lhéus. Anais do I International Symposium on Mathematical and Computational Biology and IV Brazilian Symposium on Mathematical and Computational Biology - BIOMAT 2004, 2004. p. 5 pag..",
+          "doi": "",
+          "citacao_completa": "OLIVEIRA, Levi Pedro ; Montalvão, Jugurta ; ; BATISTA, Lurimar S . Biometric Identification/Verification via Keystroke Dynamics: A Multi-Feature Approach. In: I International Symposium on Mathematical and Computational Biology and IV Brazilian Symposium on Mathematical and Computational Biology - BIOMAT 2004, 2004, lhéus. Anais do I International Symposium on Mathematical and Computational Biology and IV Brazilian Symposium on Mathematical and Computational Biology - BIOMAT 2004, 2004. p. 5 pag.."
+        },
+        {
+          "ano": 2001,
+          "titulo": "An approach to blind channel identification by estimating the probability density function of received data",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações, 2001, Fortaleza-CE. Anais do 19° Simpósio Brasileiro de Telecomunicações, 2001.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . An approach to blind channel identification by estimating the probability density function of received data. In: Simpósio Brasileiro de Telecomunicações, 2001, Fortaleza-CE. Anais do 19° Simpósio Brasileiro de Telecomunicações, 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Égalisation par Prédiction Basée sur des Réseaux de Neurones et des Fonctions Objectives obtenues à partir de la Divergence de Kullback-Leibler et du Constant Modulus",
+          "autores": "; ; Montalvão, Jugurta ;",
+          "periodico": "In: GRETSI, 2001, Toulouse. Actes du 18ème Colloque GRETSI sur le Traitement du Signal et des Images, 2001.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta ; . Égalisation par Prédiction Basée sur des Réseaux de Neurones et des Fonctions Objectives obtenues à partir de la Divergence de Kullback-Leibler et du Constant Modulus. In: GRETSI, 2001, Toulouse. Actes du 18ème Colloque GRETSI sur le Traitement du Signal et des Images, 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Using the Constant Modulus and Kullback-Leibler Cost Functions on a Nonlinear Predictive Structure for Blind Equalization",
+          "autores": "; ; Montalvão, Jugurta ;",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações, 2001, Fortaleza. Anais do 19° Simpósio Brasileiro de Telecomunicações, 2001.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta ; . Using the Constant Modulus and Kullback-Leibler Cost Functions on a Nonlinear Predictive Structure for Blind Equalization. In: Simpósio Brasileiro de Telecomunicações, 2001, Fortaleza. Anais do 19° Simpósio Brasileiro de Telecomunicações, 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "A Simple pdf Fitting Approach for Blind Equalization",
+          "autores": "Montalvão, Jugurta ; ; ;",
+          "periodico": "In: XVIII Simpósio Brasileiro de Telecomunicações - SBT'2000, 2000, Gramado. Anais do XVIII Simpósio Brasileiro de Telecomunicações, 2000.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; ; . A Simple pdf Fitting Approach for Blind Equalization. In: XVIII Simpósio Brasileiro de Telecomunicações - SBT'2000, 2000, Gramado. Anais do XVIII Simpósio Brasileiro de Telecomunicações, 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "On The Nonlinear Prediction of Blind Equalizers: Is That a Good Choice?",
+          "autores": "; ; Montalvão, Jugurta ;",
+          "periodico": "In: XVIII Simpósio Brasileiro de Telecomunicações, 2000, Gramado. Anais do XVIII Simpósio Brasileiro de Telecomunicações, 2000.",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta ; . On The Nonlinear Prediction of Blind Equalizers: Is That a Good Choice?. In: XVIII Simpósio Brasileiro de Telecomunicações, 2000, Gramado. Anais do XVIII Simpósio Brasileiro de Telecomunicações, 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "A Neural Predictor for Blind Equalization in Digital Communication Systems",
+          "autores": "; Montalvão, Jugurta ; ;",
+          "periodico": "In: Adaptive Systems for Signal Processing Communications and Control (AS-SPCC), 2000, Alberta. Proceedings of Adaptive Systems for Signal Processing Communications and Control, 2000.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; ; . A Neural Predictor for Blind Equalization in Digital Communication Systems. In: Adaptive Systems for Signal Processing Communications and Control (AS-SPCC), 2000, Alberta. Proceedings of Adaptive Systems for Signal Processing Communications and Control, 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Neural Predictor for Blind Equalization of Digital Communication Systems: Is it Plausible?",
+          "autores": "; Montalvão, Jugurta ; ;",
+          "periodico": "In: IEEE International Workshop on Neural Networks for Signal Processing (NNSP'2000), 2000, Sydney. Proceedings of the IEEE International Workshop on Neural Networks for Signal Processing, 2000.",
+          "doi": "",
+          "citacao_completa": "; Montalvão, Jugurta ; ; . Neural Predictor for Blind Equalization of Digital Communication Systems: Is it Plausible?. In: IEEE International Workshop on Neural Networks for Signal Processing (NNSP'2000), 2000, Sydney. Proceedings of the IEEE International Workshop on Neural Networks for Signal Processing, 2000."
+        },
+        {
+          "ano": 1999,
+          "titulo": "A Family of Nonlinear Equalizers: Sub-optimal Bayesian Classifiers",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: Nonlinear Signal and Image Processing (NSIP'99/IEEE), 1999, Antalya. Proceedings of the IEEE-EURASIP Workshop on Nonlinear Signal and Image Processing, 1999.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . A Family of Nonlinear Equalizers: Sub-optimal Bayesian Classifiers. In: Nonlinear Signal and Image Processing (NSIP'99/IEEE), 1999, Antalya. Proceedings of the IEEE-EURASIP Workshop on Nonlinear Signal and Image Processing, 1999."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Identification des Coefficients du Model MA du Canal par Sous-estimation de la Densité de Probabilité du Signal Reçu",
+          "autores": "Montalvão, Jugurta ; ;",
+          "periodico": "In: 17ème Colloque GRETSI sur le Traitement du Signal et des Images, 1999, Vannes. Actes du 17ème Colloque GRETSI sur le Traitement du Signal et des Images, 1999.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; . Identification des Coefficients du Model MA du Canal par Sous-estimation de la Densité de Probabilité du Signal Reçu. In: 17ème Colloque GRETSI sur le Traitement du Signal et des Images, 1999, Vannes. Actes du 17ème Colloque GRETSI sur le Traitement du Signal et des Images, 1999."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Reducing Bayes Equalizer Complexity: A New Approach for Clusters Determination",
+          "autores": "Montalvão, Jugurta ; ; ;",
+          "periodico": "In: International Telecommunication Symp. ITS'98/IEEE, 1998, São Paulo-SP. The Proceedings of The International Telecommunication Symp., 1998.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; ; . Reducing Bayes Equalizer Complexity: A New Approach for Clusters Determination. In: International Telecommunication Symp. ITS'98/IEEE, 1998, São Paulo-SP. The Proceedings of The International Telecommunication Symp., 1998."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Bayesian Equalization Strategy: Performance versus Number of Clusters",
+          "autores": "Montalvão, Jugurta ; ; ;",
+          "periodico": "In: The International Conference on Signal Processing Applications and Technology, 1998, Toronto. The Proceedings of The Ninth International Conference on Signal Processing Applications & Technology, 1998.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; ; ; . Bayesian Equalization Strategy: Performance versus Number of Clusters. In: The International Conference on Signal Processing Applications and Technology, 1998, Toronto. The Proceedings of The Ninth International Conference on Signal Processing Applications & Technology, 1998."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Elementos Finitos Aplicados à Acustica de Recintos",
+          "autores": "Montalvão, Jugurta ; CHIQUITO, J. G.",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações, 1995, Aguas de Lindoia-SP. Anais do 13º Simpósio Brasileiro de Telecomunicações, 1995.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; CHIQUITO, J. G. . Elementos Finitos Aplicados à Acustica de Recintos. In: Simpósio Brasileiro de Telecomunicações, 1995, Aguas de Lindoia-SP. Anais do 13º Simpósio Brasileiro de Telecomunicações, 1995."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Uma Proposta Para Inicializacao e Crescimento de Redes Neurais",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações, 1995, Aguas de Lindoia-SP. Anais do 13º Simpósio Brasileiro de Telecomunicações, 1995.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Uma Proposta Para Inicializacao e Crescimento de Redes Neurais. In: Simpósio Brasileiro de Telecomunicações, 1995, Aguas de Lindoia-SP. Anais do 13º Simpósio Brasileiro de Telecomunicações, 1995."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Elementos Finitos Aplicados à Acustica de Recintos",
+          "autores": "Montalvão, Jugurta ; CHIQUITO, J. G.",
+          "periodico": "In: Encontro Nacional de Modelos de Simulação de Ambientes, 1995, São Paulo. Anais do Encontro Nacional de Modelos de Simulação de Ambientes, 1995.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; CHIQUITO, J. G. . Elementos Finitos Aplicados à Acustica de Recintos. In: Encontro Nacional de Modelos de Simulação de Ambientes, 1995, São Paulo. Anais do Encontro Nacional de Modelos de Simulação de Ambientes, 1995."
+        },
+        {
+          "ano": 1994,
+          "titulo": "Dois Filtros Neurais Para Processamento Digital de Sinais",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "In: I Simpósio Brasileiro de Redes Neurais, 1994, Caxambu-MG. Anais do I Simpósio Brasileiro de Redes Neurais, 1994.",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Dois Filtros Neurais Para Processamento Digital de Sinais. In: I Simpósio Brasileiro de Redes Neurais, 1994, Caxambu-MG. Anais do I Simpósio Brasileiro de Redes Neurais, 1994."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Síntese de Imagens de Exames de Eletroforese de Hemoglobina",
+          "autores": "ANDRADE, MARIA C. A. DE ; MONTALVAO, JUGURTA ; ARAGÃO, ANA C. S.",
+          "periodico": "In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024, Belém. Anais do XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2024.1571036272",
+          "citacao_completa": "ANDRADE, MARIA C. A. DE ; MONTALVAO, JUGURTA ; ARAGÃO, ANA C. S. . Síntese de Imagens de Exames de Eletroforese de Hemoglobina. In: XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024, Belém. Anais do XLII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Pollution activity detection based on metal-oxide gas sensors and Intrinsic Dimensionality estimation for Indoor Air Quality applications",
+          "autores": "MIRANDA, L. ; DUC, C. ; REDON, N. ; DUNCIANU, M. V. ; ; Montalvão, Jugurta ; BOUDY, J. ; PINHEIRO, J.",
+          "periodico": "In: Colloque en TéléSANté et dispositifs biomédicaux, 2023. Annales du JETSAN2023, 2023.",
+          "doi": "",
+          "citacao_completa": "MIRANDA, L. ; DUC, C. ; REDON, N. ; DUNCIANU, M. V. ; ; Montalvão, Jugurta ; BOUDY, J. ; PINHEIRO, J. . Pollution activity detection based on metal-oxide gas sensors and Intrinsic Dimensionality estimation for Indoor Air Quality applications. In: Colloque en TéléSANté et dispositifs biomédicaux, 2023. Annales du JETSAN2023, 2023."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Smiling-Faces Based Voice Representation for Better Therapists-Patient Interactions",
+          "autores": "J. Santos ; Filho, Jugurta ; PELLICANI, A. D.",
+          "periodico": "In: 17º Congresso da Fundação Otorrinolaringologia, 2018, Brasília. International Archives of Otorhinolaryngology, 2018.",
+          "doi": "",
+          "citacao_completa": "J. Santos ; Filho, Jugurta ; PELLICANI, A. D. . A Smiling-Faces Based Voice Representation for Better Therapists-Patient Interactions. In: 17º Congresso da Fundação Otorrinolaringologia, 2018, Brasília. International Archives of Otorhinolaryngology, 2018."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Sistema de aquisição de dados desenvolvido com baixo custo para monitoramento de equipamentos solares aplicados para aquecimento de água",
+          "autores": "BRITO, Marcelo Costa ; ARAÚJO, Paulo Mário Machado ; Montalvão, Jugurta",
+          "periodico": "In: 56º Reunião Anual da SBPC, 2004, Cuiabá, 2004.",
+          "doi": "",
+          "citacao_completa": "BRITO, Marcelo Costa ; ARAÚJO, Paulo Mário Machado ; Montalvão, Jugurta . Sistema de aquisição de dados desenvolvido com baixo custo para monitoramento de equipamentos solares aplicados para aquecimento de água. In: 56º Reunião Anual da SBPC, 2004, Cuiabá, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Desenvolvimento de um Sistema de Controle Sevo-Visual para Robôs Móveis",
+          "autores": "; ; Montalvão, Jugurta",
+          "periodico": "In: 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC, 2003, Recife. 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC (Trabalho No 10862), 2003. p. 5 pag..",
+          "doi": "",
+          "citacao_completa": "; ; Montalvão, Jugurta . Desenvolvimento de um Sistema de Controle Sevo-Visual para Robôs Móveis. In: 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC, 2003, Recife. 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC (Trabalho No 10862), 2003. p. 5 pag.."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Représentation des chaînes de Markov sous la forme des espaces sémantiques",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Représentation des chaînes de Markov sous la forme des espaces sémantiques. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Dimensionnalité de la donnée capteurs : enjeux et perspectives",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Dimensionnalité de la donnée capteurs : enjeux et perspectives. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Analogias em espaços semânticos",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Analogias em espaços semânticos. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Représentation des chaînes de Markov sous la forme des espaces sémantiques",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2025. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Représentation des chaînes de Markov sous la forme des espaces sémantiques. 2025. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Inteligência artificial na exploração de petróleo",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2024. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Inteligência artificial na exploração de petróleo. 2024. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "As dimensões do olfato: um ?babado? acadêmico que cheira a confusão",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2024. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . As dimensões do olfato: um ?babado? acadêmico que cheira a confusão. 2024. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2024,
+          "titulo": "My academic profile in a nutshell (or Que sais-je ?)",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2024. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . My academic profile in a nutshell (or Que sais-je ?). 2024. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Sobre cognição e dimensões intrínsecas de sinais",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2023. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Sobre cognição e dimensões intrínsecas de sinais. 2023. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Seminário sobre neurônios pulsados (UFS, 09 de fev",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "de 2023). 2023. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Seminário sobre neurônios pulsados (UFS, 09 de fev. de 2023). 2023. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Introdução às Spiking Neural Networks (Vitória - ES, 2023)",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2023. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Introdução às Spiking Neural Networks (Vitória - ES, 2023). 2023. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Como e para que medir manifolds: Ilustrações com séries temporais multivariadas",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2022. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Como e para que medir manifolds: Ilustrações com séries temporais multivariadas. 2022. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Estruturas escondidas de quase todos os sinais",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2020. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Estruturas escondidas de quase todos os sinais. 2020. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Manifolds, dimension intrinsèque locale et entropie différentielle (partie I)",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Manifolds, dimension intrinsèque locale et entropie différentielle (partie I). 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Manifolds, dimension intrinsèque locale et entropie différentielle (partie II)",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Manifolds, dimension intrinsèque locale et entropie différentielle (partie II). 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Aspectos intuitivos da estimação conjunta de dimensão intrínseca e entropia",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2019. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Aspectos intuitivos da estimação conjunta de dimensão intrínseca e entropia. 2019. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Deep learning ? A Ciência Por Trás do Modismo",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2017. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Deep learning ? A Ciência Por Trás do Modismo. 2017. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2010,
+          "titulo": "L'Information Mutuelle - difficultés d'estimation et Clustering Ensembles",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2010. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . L'Information Mutuelle - difficultés d'estimation et Clustering Ensembles. 2010. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Biometria do Comportamento: Processo de Sinais e Reconhecimento de padrões em ação",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2006. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Biometria do Comportamento: Processo de Sinais e Reconhecimento de padrões em ação. 2006. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Online Prototype Generation",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2005. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Online Prototype Generation. 2005. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Bias-corrected estimator for intrinsic dimension and differential entropy--a visual multiscale approach 2020 (Plataforma digital ArXiv).",
+          "autores": "Montalvão, Jugurta ; CANUTO, J. ; MIRANDA, L.",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta ; CANUTO, J. ; MIRANDA, L. . Bias-corrected estimator for intrinsic dimension and differential entropy--a visual multiscale approach 2020 (Plataforma digital ArXiv)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Offline signature authenticity verification through unambiguously connected skeleton segments 2017 (Plataforma digital ArXiv).",
+          "autores": "MONTALVAO, JUGURTA ; MIRANDA, L. ; CANUTO, J.",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "MONTALVAO, JUGURTA ; MIRANDA, L. ; CANUTO, J. . Offline signature authenticity verification through unambiguously connected skeleton segments 2017 (Plataforma digital ArXiv)."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 1994,
+          "titulo": "Análise de Sinais Utilizando Redes Neurais - Um Estudo de Caso",
+          "autores": "BÁRBARA, Aílton Santa ; Montalvão, Jugurta ; ARRUDA, Adriano Aparecido Bento de",
+          "periodico": "1994.",
+          "doi": "",
+          "citacao_completa": "BÁRBARA, Aílton Santa ; Montalvão, Jugurta ; ARRUDA, Adriano Aparecido Bento de . Análise de Sinais Utilizando Redes Neurais - Um Estudo de Caso. 1994."
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Site do grupo de pesquisa e extensão BioChaves",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2023. (Site).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Site do grupo de pesquisa e extensão BioChaves. 2023. (Site)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Papo com referência",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2023. (Podcast).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Papo com referência. 2023. (Podcast)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Cabine Acústica",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2023. (Podcast).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Cabine Acústica. 2023. (Podcast)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Crônicas meio acadêmicas - Laplace",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2018. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - Laplace. 2018. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Crônicas meio acadêmicas - O número imaginário",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2017. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - O número imaginário. 2017. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Crônicas meio acadêmicas - Convolução",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2015. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - Convolução. 2015. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Crônicas meio acadêmicas - Modelagem probabilística",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2015. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - Modelagem probabilística. 2015. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Crônicas meio acadêmicas - Propagação térmica e otimização de trajetórias",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2015. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - Propagação térmica e otimização de trajetórias. 2015. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Crônicas meio acadêmicas - O Dilema do prisioneiro e a moral GTA",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2015. (Desenvolvimento de material didático ou instrucional - Popularização científica).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Crônicas meio acadêmicas - O Dilema do prisioneiro e a moral GTA. 2015. (Desenvolvimento de material didático ou instrucional - Popularização científica)."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Integração de Sinais Biométricos na Identificação de Indivíduos (relatório parcial)",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2004. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Integração de Sinais Biométricos na Identificação de Indivíduos (relatório parcial). 2004. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Relatório acadêmico do profeto RecVoz",
+          "autores": "Montalvão, Jugurta",
+          "periodico": "2003. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "Montalvão, Jugurta . Relatório acadêmico do profeto RecVoz. 2003. (Relatório de pesquisa)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Estimativa de Andamento Musical Através de Escalogramas Wavelet e Redes Neurais Convolucionais",
+          "membros": "SIMAS FILHO, E. F.; FERNANDES JUNIOR, A. C. L.; ATTUX, R. R. F.; Montalvão, Jugurta ; PRATES, R. M.; VIANA, L. A. G.",
+          "candidato": "Luiz Alberto Guimarães Viana",
+          "citacao_completa": "SIMAS FILHO, E. F.; FERNANDES JUNIOR, A. C. L.; ATTUX, R. R. F.; Montalvão, Jugurta ; PRATES, R. M.; VIANA, L. A. G.. Participação em banca de Luiz Alberto Guimarães Viana. Estimativa de Andamento Musical Através de Escalogramas Wavelet e Redes Neurais Convolucionais. 2023. Dissertação (Mestrado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Modelos para Previsão de Potência Gerada e Identificação de Falha em Painéis Fotovoltaicos",
+          "membros": "PAIVA, M. H. M.; Montalvão, Jugurta ; ROCHA, H. R. O.; MEDINA, A. C. R.",
+          "candidato": "Bruna Rodrigues Vidigal",
+          "citacao_completa": "PAIVA, M. H. M.; Montalvão, Jugurta ; ROCHA, H. R. O.; MEDINA, A. C. R.. Participação em banca de Bruna Rodrigues Vidigal. Modelos para Previsão de Potência Gerada e Identificação de Falha em Painéis Fotovoltaicos. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Information-Theoretic Analysis of Convolutional Autoencoders",
+          "membros": "; FERNANDES, E. P.; Montalvão, Jugurta",
+          "candidato": "Frederico Carvalho Fontes do Amaral",
+          "citacao_completa": "; FERNANDES, E. P.; Montalvão, Jugurta . Participação em banca de Frederico Carvalho Fontes do Amaral. Information-Theoretic Analysis of Convolutional Autoencoders. 2022 - Universidade de Brasília."
+        },
+        {
+          "ano": 2022,
+          "titulo": "CLASSIFICAÇÃO DA HIDROFOBICIDADE EM ISOLADORES ELÉTRICOS UTILIZANDO ANÁLISE DE FREQUÊNCIA E RNA",
+          "membros": "FERREIRA, T. V.; FLORENTINO, M. T. B.; XAVIER, G. V. R.; Montalvão, Jugurta",
+          "candidato": "MATHEUS SANTOS MACEDO",
+          "citacao_completa": "FERREIRA, T. V.; FLORENTINO, M. T. B.; XAVIER, G. V. R.; Montalvão, Jugurta . Participação em banca de MATHEUS SANTOS MACEDO. CLASSIFICAÇÃO DA HIDROFOBICIDADE EM ISOLADORES ELÉTRICOS UTILIZANDO ANÁLISE DE FREQUÊNCIA E RNA. 2022. Dissertação (Mestrado em Mestrado em Automação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Análise de Autoencoders Convolucionais com Base na Teoria da Informação",
+          "membros": "; FERNANDES, E. P.; FARIAS, M. C.; Montalvão, Jugurta",
+          "candidato": "Frederico Carvalho Fontes do Amaral",
+          "citacao_completa": "; FERNANDES, E. P.; FARIAS, M. C.; Montalvão, Jugurta . Participação em banca de Frederico Carvalho Fontes do Amaral. Análise de Autoencoders Convolucionais com Base na Teoria da Informação. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade de Brasília."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Análise e avaliação experimentais de técnicas para incremento da eficácia de recuperação de documentos jurisprudenciais",
+          "membros": "RODRIGUES JR., M. C.; MATOS, L. N.; Montalvão, Jugurta ; NOVAIS, R.",
+          "candidato": "Robert Anderson Nogueira de Oliveira",
+          "citacao_completa": "RODRIGUES JR., M. C.; MATOS, L. N.; Montalvão, Jugurta ; NOVAIS, R.. Participação em banca de Robert Anderson Nogueira de Oliveira. Análise e avaliação experimentais de técnicas para incremento da eficácia de recuperação de documentos jurisprudenciais. 2017. Dissertação (Mestrado em Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Amostragem assíncrona baseada em cruzamentos por zero",
+          "membros": "Montalvão, Jugurta ; ORDONEZ, E. D. M.;",
+          "candidato": "Jefferson França Santos",
+          "citacao_completa": "Montalvão, Jugurta ; ORDONEZ, E. D. M.; . Participação em banca de Jefferson França Santos. Amostragem assíncrona baseada em cruzamentos por zero. 2017. Dissertação (Mestrado em Mestrado em Automação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Detecção de erros planta-modelo em sistemas de controle preditivo (MPC) usando técnicas de informação mútua",
+          "membros": "Montalvão, Jugurta ; CANUTO, J.; MARTINS, M. A. F.",
+          "candidato": "Diego Déda Gonçalves Brito Cruz",
+          "citacao_completa": "Montalvão, Jugurta ; CANUTO, J.; MARTINS, M. A. F.. Participação em banca de Diego Déda Gonçalves Brito Cruz. Detecção de erros planta-modelo em sistemas de controle preditivo (MPC) usando técnicas de informação mútua. 2017. Dissertação (Mestrado em Mestrado em Automação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Proposta de uma metodologia para obtenção de vocabulários de gestos intuitivos para a interação homem robô",
+          "membros": "; Montalvão, Jugurta ; ; VASSALLO, R. F.",
+          "candidato": "Clebson Canuto dos Santos",
+          "citacao_completa": "; Montalvão, Jugurta ; ; VASSALLO, R. F.. Participação em banca de Clebson Canuto dos Santos. Proposta de uma metodologia para obtenção de vocabulários de gestos intuitivos para a interação homem robô. 2016. Dissertação (Mestrado em Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Robótica evolutiva aplicada ao problema de perseguição-evasão de pior caso com múltiplos robôs",
+          "membros": "; Montalvão, Jugurta ; GIVIGI JR., S. N.; NASCIMENTO JR., C. L.",
+          "candidato": "Lívia do Valle Gregorin",
+          "citacao_completa": "; Montalvão, Jugurta ; GIVIGI JR., S. N.; NASCIMENTO JR., C. L.. Participação em banca de Lívia do Valle Gregorin. Robótica evolutiva aplicada ao problema de perseguição-evasão de pior caso com múltiplos robôs. 2016. Dissertação (Mestrado em Mestrado em Automação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estudo de técnicas de previsão de consumo em sistemas de distribuição de gás natural",
+          "membros": "Villacorta C.; ; MONTALVAO FILHO, J. R.",
+          "candidato": "Gustavo Lima Cruz",
+          "citacao_completa": "Villacorta C.; ; MONTALVAO FILHO, J. R. . Participação em banca de Gustavo Lima Cruz. Estudo de técnicas de previsão de consumo em sistemas de distribuição de gás natural. 2012. Dissertação (Mestrado em Mestrado em Automação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Transformada Wavelet na detecção de patologias da laringe",
+          "membros": "CAVALCANTE, C. C.; BARRETO, G. A.; CORTEZ, P. C.; Montalvão, Jugurta",
+          "candidato": "Raphael Torres Santos Carvalho",
+          "citacao_completa": "CAVALCANTE, C. C.; BARRETO, G. A.; CORTEZ, P. C.; Montalvão, Jugurta . Participação em banca de Raphael Torres Santos Carvalho. Transformada Wavelet na detecção de patologias da laringe. 2012. Dissertação (Mestrado em Engenharia de Teleinformática) - Universidade Federal do Ceará."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Eficiência da Análise Multifractal na Verificação de Assinaturas Dinâmicas",
+          "membros": "; ;",
+          "candidato": "Jânio Coutinho Canuto",
+          "citacao_completa": "; ; . Participação em banca de Jânio Coutinho Canuto. Eficiência da Análise Multifractal na Verificação de Assinaturas Dinâmicas. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Avaliação de Modelos de Misturas Aplicados à Classificação de Impressões Digitais Segundo a Arquitetura PCASYS",
+          "membros": "Montalvão, Jugurta ; SALLES, E. O. T.; Salomão, J. M.",
+          "candidato": "Aníbal Cotrina Atencio",
+          "citacao_completa": "Montalvão, Jugurta ; SALLES, E. O. T.; Salomão, J. M.. Participação em banca de Aníbal Cotrina Atencio. Avaliação de Modelos de Misturas Aplicados à Classificação de Impressões Digitais Segundo a Arquitetura PCASYS. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Identificação Automática de Situações de Emergência através de Técnicas de Fusão de Sinais Vitais e de Movimentos",
+          "membros": "BASTOS FILHO, T. F.; ANDREAO, R. V.; SALLES, E. O. T.;",
+          "candidato": "Vinícius Ruiz Martins",
+          "citacao_completa": "BASTOS FILHO, T. F.; ANDREAO, R. V.; SALLES, E. O. T.; . Participação em banca de Vinícius Ruiz Martins. Identificação Automática de Situações de Emergência através de Técnicas de Fusão de Sinais Vitais e de Movimentos. 2008. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Um Sistema de Classificação de Impressões Digitais",
+          "membros": "SALLES, E. O. T.;",
+          "candidato": "Jorge Leonid Aching Samatelo",
+          "citacao_completa": "SALLES, E. O. T.; . Participação em banca de Jorge Leonid Aching Samatelo. Um Sistema de Classificação de Impressões Digitais. 2007. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Análise de Desempenho de um Sistema COFDM para Comunicação Via Rede Elétrica",
+          "membros": "SEGATTO, M. E. V.; SALLES, E. O. T.; ; ANDREAO, R. V.",
+          "candidato": "Jair Adriano Lima Silva",
+          "citacao_completa": "SEGATTO, M. E. V.; SALLES, E. O. T.; ; ANDREAO, R. V.. Participação em banca de Jair Adriano Lima Silva. Análise de Desempenho de um Sistema COFDM para Comunicação Via Rede Elétrica. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Equalização de Canais de Comunicação Digital Baseada em Filtros Fuzzy",
+          "membros": "; ; ZUBEN, Fernando José Von; LOPES, Renato da Rocha; AMARAL, Wagner Caradori Do",
+          "candidato": "Rafael Ferrari",
+          "citacao_completa": "; ; ZUBEN, Fernando José Von; LOPES, Renato da Rocha; AMARAL, Wagner Caradori Do. Participação em banca de Rafael Ferrari. Equalização de Canais de Comunicação Digital Baseada em Filtros Fuzzy. 2005. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Influência dos parâmetros de envelhecimento nas propriedades elétricas de isoladores cerâmicos para sistemas de potência",
+          "membros": "VALERIO, Mário Ernesto Giroldo; SOMBRA, Antônio Sérgio Bezerra; MACEDO, Zélia Soares;",
+          "candidato": "Francisco Janssen",
+          "citacao_completa": "VALERIO, Mário Ernesto Giroldo; SOMBRA, Antônio Sérgio Bezerra; MACEDO, Zélia Soares; . Participação em banca de Francisco Janssen. Influência dos parâmetros de envelhecimento nas propriedades elétricas de isoladores cerâmicos para sistemas de potência. 2005. Dissertação (Mestrado em Física) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Sistemas Especialistas como Ferramenta Auxiliar para o Ensino da Disciplina: Bases da Técnica Cirúrgica",
+          "membros": "; SAMPAIO, M. C.;",
+          "candidato": "João Fernandes Britto Aragão",
+          "citacao_completa": "; SAMPAIO, M. C.; . Participação em banca de João Fernandes Britto Aragão. Sistemas Especialistas como Ferramenta Auxiliar para o Ensino da Disciplina: Bases da Técnica Cirúrgica. 2002 - Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Predicão Neural e Estimação de Densidade de Probabilidade Aplicadas à Equalização Cega",
+          "membros": "; ROMANO, J. M.;",
+          "candidato": "Charles Casimiro Cavalcante",
+          "citacao_completa": "; ROMANO, J. M.; . Participação em banca de Charles Casimiro Cavalcante. Predicão Neural e Estimação de Densidade de Probabilidade Aplicadas à Equalização Cega. 2001 - Universidade Federal do Ceará."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "?A Two-Level Item Response Theory Model to Evaluate Automatic Speech Synthesis and Recognition Systems?",
+          "membros": "CAVALCANTI, G. D. C.; REN, T. I.; Montalvão, Jugurta ; ALVES, R. C. O.; PAPPA, G. L.",
+          "candidato": "Chaina Santos Oliveira",
+          "citacao_completa": "CAVALCANTI, G. D. C.; REN, T. I.; Montalvão, Jugurta ; ALVES, R. C. O.; PAPPA, G. L.. Participação em banca de Chaina Santos Oliveira. ?A Two-Level Item Response Theory Model to Evaluate Automatic Speech Synthesis and Recognition Systems?. 2023. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Modelos de Decodificação do EEG para Detecção de Correlatos Neurais de Transtornos Mentais",
+          "membros": "CIARELLI, P. M.; Montalvão, Jugurta ; KOMATI, K. S.; ANDREAO, R. V.; OLIVEIRA, E. S.",
+          "candidato": "Lorraine Marques Alves",
+          "citacao_completa": "CIARELLI, P. M.; Montalvão, Jugurta ; KOMATI, K. S.; ANDREAO, R. V.; OLIVEIRA, E. S.. Participação em banca de Lorraine Marques Alves. Modelos de Decodificação do EEG para Detecção de Correlatos Neurais de Transtornos Mentais. 2023. Tese (Doutorado em Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Predição de Crise Epiléptica pelo uso de Técnicas de Aprendizado de Máquinas em Sinais de Eletroencefalograma",
+          "membros": "SALLES, E. O. T.; ANDREAO, R. V.; COCO, K. F.; Montalvão, Jugurta",
+          "candidato": "Jade Barbosa Kill",
+          "citacao_completa": "SALLES, E. O. T.; ANDREAO, R. V.; COCO, K. F.; Montalvão, Jugurta . Participação em banca de Jade Barbosa Kill. Predição de Crise Epiléptica pelo uso de Técnicas de Aprendizado de Máquinas em Sinais de Eletroencefalograma. 2022. Tese (Doutorado em Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Biometria em um contexto de fluxo de dados",
+          "membros": "CARVALHO, A. C. P. L. F.; ROCHA, A. R.; CANUTO, A. M. P.; BATISTA, G. H. A. P. A.; Montalvão, Jugurta",
+          "candidato": "Paulo Henrique Pisani",
+          "citacao_completa": "CARVALHO, A. C. P. L. F.; ROCHA, A. R.; CANUTO, A. M. P.; BATISTA, G. H. A. P. A.; Montalvão, Jugurta . Participação em banca de Paulo Henrique Pisani. Biometria em um contexto de fluxo de dados. 2017. Tese (Doutorado em Ciências Matemáticas e Computação) - Instituto de Ciências Matemáticas e de Computação da USP."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Implementação de Métodos Biométricos Bi-Modais Baseados em Fusão de Características para o Reconhecimento de Indivíduos",
+          "membros": "SALLES, E. O. T.;",
+          "candidato": "João Marques Salomão",
+          "citacao_completa": "SALLES, E. O. T.; . Participação em banca de João Marques Salomão. Implementação de Métodos Biométricos Bi-Modais Baseados em Fusão de Características para o Reconhecimento de Indivíduos. 2007. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Detecção de Anomalias em Vídeos de Vias Públicas com Classificador Sequencial de Dados Composto Apenas por Camadas de Rede Neural Profunda",
+          "membros": "MORENO, P.; FERNANDES, M. R.; CIARELLI, P. M.; Montalvão, Jugurta",
+          "candidato": "Fabio Ricardo Oliveira Bento",
+          "citacao_completa": "MORENO, P.; FERNANDES, M. R.; CIARELLI, P. M.; Montalvão, Jugurta . Participação em banca de Fabio Ricardo Oliveira Bento. Detecção de Anomalias em Vídeos de Vias Públicas com Classificador Sequencial de Dados Composto Apenas por Camadas de Rede Neural Profunda. 2022. Exame de qualificação (Doutorando em Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Técnicas de extração de características robustas para reconhecimento de lucutores",
+          "membros": "MELLO, C. A. B.; Montalvão, Jugurta ; ADAMI, A. G.",
+          "candidato": "Hector Natan Batista Pinheiro",
+          "citacao_completa": "MELLO, C. A. B.; Montalvão, Jugurta ; ADAMI, A. G.. Participação em banca de Hector Natan Batista Pinheiro. Técnicas de extração de características robustas para reconhecimento de lucutores. 2017. Exame de qualificação (Doutorando em Doutorado em Ciência da Computação) - Universidade Federal de Pernambuco."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detecção e Predição de Falhas Utilizando Assinaturas em Sistemas Dinâmicos",
+          "membros": "OLIVEIRA, L. A. H. G.; SILVA, D. R. C.; DORIA NETO, A. D.; Montalvão, Jugurta",
+          "candidato": "FABIO SOARES DE LIMA",
+          "citacao_completa": "OLIVEIRA, L. A. H. G.; SILVA, D. R. C.; DORIA NETO, A. D.; Montalvão, Jugurta . Participação em banca de FABIO SOARES DE LIMA. Detecção e Predição de Falhas Utilizando Assinaturas em Sistemas Dinâmicos. 2011. Exame de qualificação (Doutorando em Departamento de Engenharia de Computação e Automaç) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Proposta de Arquiteturas, Algoritmos e Implementações de Métodos Biométricos Múltiplos para Reconhecimento e Autenticação de Indivíduos",
+          "membros": "SALLES, E. O. T.; ALMEIDA, A. R.;",
+          "candidato": "João Marques Salomão",
+          "citacao_completa": "SALLES, E. O. T.; ALMEIDA, A. R.; . Participação em banca de João Marques Salomão. Proposta de Arquiteturas, Algoritmos e Implementações de Métodos Biométricos Múltiplos para Reconhecimento e Autenticação de Indivíduos. 2006. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2006,
+          "titulo": ".Detecção de miRNAs usando SVM",
+          "membros": "MATOS, L. N.; ; BRUNELLI, L.",
+          "candidato": "Jose Henrique de Morais Goulart",
+          "citacao_completa": "MATOS, L. N.; ; BRUNELLI, L.. Participação em banca de Jose Henrique de Morais Goulart.Detecção de miRNAs usando SVM. 2006. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Desenvolvimento de um Sistema de Teleoperação para um Robô Móvel",
+          "membros": "; ;",
+          "candidato": "Max Santana Rolemberg Farias",
+          "citacao_completa": "; ; . Participação em banca de Max Santana Rolemberg Farias.Desenvolvimento de um Sistema de Teleoperação para um Robô Móvel. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Estudo de Métodos de Segmentação de Imagens",
+          "membros": "; ;",
+          "candidato": "Vyvia de Oliveira Ferreira",
+          "citacao_completa": "; ; . Participação em banca de Vyvia de Oliveira Ferreira.Estudo de Métodos de Segmentação de Imagens. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Estudo de Operadores Avançados de Detecção de Bordas",
+          "membros": "; ;",
+          "candidato": "Kleber Henrique de Jesus Prado",
+          "citacao_completa": "; ; . Participação em banca de Kleber Henrique de Jesus Prado.Estudo de Operadores Avançados de Detecção de Bordas. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Reconhecimento e Classificação Visual de Objetos e Referências Geométricas",
+          "membros": "; ;",
+          "candidato": "Alysson Távora Chagas",
+          "citacao_completa": "; ; . Participação em banca de Alysson Távora Chagas.Reconhecimento e Classificação Visual de Objetos e Referências Geométricas. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Modelagem de uma Parcela de Trânsito de Aracaju Uilizando Redes de Petri",
+          "membros": "; BATISTA, O. M. N.; PAILLARD, G.",
+          "candidato": "Adriana Machado",
+          "citacao_completa": "; BATISTA, O. M. N.; PAILLARD, G.. Participação em banca de Adriana Machado.Modelagem de uma Parcela de Trânsito de Aracaju Uilizando Redes de Petri. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "MONTALVAO FILHO, J. R. ; OLIVEIRA, Levi Pedro; . Professor substituto para o curso de engenharia elétrica da UFS, em 03 ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "MONTALVAO FILHO, J. R. ; OLIVEIRA, Levi Pedro; . Professor substituto para o curso de engenharia elétrica da UFS, em 03 de fev. de 2012.. 2012. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2006,
+          "titulo": "; ; OLIVEIRA, Levi Pedro. Professor substituto para o curso de engenharia elétrica da UFS, em 02 de fev. de 2006.. 2006.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; OLIVEIRA, Levi Pedro. Professor substituto para o curso de engenharia elétrica da UFS, em 02 de fev. de 2006.. 2006. Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Montalvão, Jugurta . Prêmio CAPES de Teses, Engenharias IV. 2023. Universidade Federal de Sergipe.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Montalvão, Jugurta . Prêmio CAPES de Teses, Engenharias IV. 2023. Universidade Federal de Sergipe."
+        }
+      ]
+    }
+  ]
+}

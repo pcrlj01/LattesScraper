@@ -1,0 +1,513 @@
+{
+  "name": "Lucas Debatin",
+  "lattes_id": "9807491795422388",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "HAENDCHEN FILHO, A. ; FAGUNDES, R. J. ; PRADO, H. A. ; FERNEDA, E. ; DEBATIN, Lucas . Deep learning approaches for facial expression recognition. INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH , v. 12, p. 53399-53404, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.37118/ijdr.23794.01.2022"
+        },
+        {
+          "texto": "DEBATIN, Lucas ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. ; PRADO, H. A. ; FERNEDA, E. . Offline continuous speech recognition for mobile devices. INTERNATIONAL JOURNAL OF DEVELOPMENT RESEARCH , v. 11, p. 52249-52255, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.37118/ijdr.23437.11.2021"
+        },
+        {
+          "texto": "ZANCHETT, P. S. ; CORREIA, W. ; DEBATIN, L. ; VARELA, I. F. . Estudo e aplicação de recursos de Acessibilidade no aplicativo Alerta Brusque. Maiêutica Digital , v. 1, p. 37-44, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ZANCHETT, P. S. ; VARELA, I. F. ; CORREIA, W. ; DEBATIN, L. ; NAU, J. . Utilização do modelo de redes neurais artificiais para realizar previsões dos níveis do rio Itajaí Mirim na cidade de Brusque. Maiêutica Digital , v. 1, p. 113-118, 2016.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "DEBATIN, Lucas ; Haendchen Filho, Aluizio ; Dazzi, Rudimar Luís Scaranto . UMA ABORDAGEM PARA O DESENVOLVIMENTO E ANÁLISE DE DESEMPENHO DO RECONHECIMENTO OFF-LINE DE VOZ CONTÍNUO. Comunicação, Mídias e Educação. 1ed.: Atena Editora, 2019, v. , p. 280-296.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.22533/at.ed.44619220523"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ESTEVES, ADSON ; FILHO, ALUIZIO ; RAABE, ANDRÉ ; VIECELLI, ANGÉLICA ; THALHEIMER, JEFERSON ; DEBATIN, Lucas . Adaptive Learning Content Recommendation using a Probabilistic Cluster Algorithm. In: 24th International Conference on Enterprise Information Systems, 2022, Online Streaming. Proceedings of the 24th International Conference on Enterprise Information Systems, 2022. p. 724-731.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.5220/0011056200003179"
+        },
+        {
+          "texto": "DE MEDEIROS PEREIRA, MATHEUS ; DEBATIN, Lucas . Acessibilidade em Jogo Digital via Comandos de Voz para Pessoas com Deficiência Motora. In: Computer on the Beach, 2022, Itajaí - Santa Catarina - Bras. Anais do XIII Computer on the Beach - COTB'22. Itajaí: Universidade do Vale do Itajaí, 2022. v. 13. p. 103-110.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.14210/cotb.v13.p103-110"
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. . Offline Speech Recognition Development - A Systematic Review of the Literature. In: International Conference on Enterprise Information Systems, 2018, Funchal, Madeira, Portugal. Offline Speech Recognition Development - A Systematic Review of the Literature. Funchal, Madeira, Portugal: Proceedings of the 20th International Conference on Enterprise Information Systems, 2018. v. 2. p. 551-558.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.5220/0006788005510558"
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; NAU, J. ; ZANCHETT, P. S. ; CORREIA, W. . Implementação de API para Reconhecimento e Sintetização de Voz em um Aplicativo Móvel. In: Simpósio Brasileiro de Sistemas de Informação, 2017, Lavras/MG. Implementação de API para Reconhecimento e Sintetização de Voz em um Aplicativo Móvel. Lavras/MG: SBSI, 2017. v. 1. p. 151-157.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "IMHOF, D. O. ; ZANCHETT, P. S. ; DEBATIN, L. . Sistema alerta vermelho de Brusque. In: Congresso de Inovação, Tecnologia e Sustentabilidade, 2017, Brusque/SC. Sistema alerta vermelho de Brusque, 2017. v. 1.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CORREIA, W. ; ZANCHETT, P. S. ; DEBATIN, L. ; VARELA, I. F. . Data Mining aplicada na extração de Conhecimento a partir de Bases de Dados Hidrológicas da Região de Brusque-SC. In: Encontro de Ensino, Pesquisa e Extensão, 2016, Brusque/SC. Data Mining aplicada na extração de Conhecimento a partir de Bases de Dados Hidrológicas da Região de Brusque-SC, 2016. v. 1. p. 781-793.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; CORREIA, W. ; ZANCHETT, P. S. ; VARELA, I. F. . Levantamento de API´s que realizam o Reconhecimento e Sintetização de Voz. In: Encontro de Ensino, Pesquisa e Extensão, 2016, Brusque/SC. Levantamento de API´s que realizam o Reconhecimento e Sintetização de Voz, 2016. v. 1. p. 842-852.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VARELA, I. F. ; DEBATIN, L. ; ZANCHETT, P. S. ; CORREIA, W. . Principais ferramentas utilizadas para aplicar as Técnicas de Redes Neurais Artificiais (RNA) no estudo da previsão dos Níveis do Rio Itajaí Mirim. In: Encontro de Ensino, Pesquisa e Extensão, 2016, Brusque/SC. Principais ferramentas utilizadas para aplicar as Técnicas de Redes Neurais Artificiais (RNA) no estudo da previsão dos Níveis do Rio Itajaí Mirim, 2016. v. 1. p. 853-864.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; ZANCHETT, P. S. ; CORREIA, W. . A API W3C Web Speech em app para alerta de desastres naturais. In: Conferências Ibero-Americanas WWW/Internet e Computação Aplicada, 2016, LISBOA. A API W3C Web Speech em app para alerta de desastres naturais. LISBOA: IADIS, 2016. v. 1. p. 205-212.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. . Reconhecimento Off-line de Voz Contínuo para Dispositivos Móveis: Uma Análise Comparativa de Métricas de Avaliação. In: Computer on the Beach, 2019, Florianópolis-SC. X Computer on the Beach. Florianópolis-SC: Computer on the Beach, 2019. v. 1. p. 837-838.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CORREIA, W. ; ZANCHETT, P. S. ; DEBATIN, L. . Modelo de arquitetura para envio de notificações em sistemas de alerta baseado em SOA e agentes de software. In: Simpósio Brasileiro de Sistemas de Informação, 2017, Lavras/MG. Modelo de arquitetura para envio de notificações em sistemas de alerta baseado em SOA e agentes de software. Lavras/MG: SBSI, 2017. v. 1. p. 77-80.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. . O Problema do Reconhecimento de Voz Offline em Dispositivos Móveis: em Busca de uma Abordagem Racional. In: Simpósio Brasileiro de Sistemas Multimídia e Web, 2017, Gramado/RS. O Problema do Reconhecimento de Voz Offline em Dispositivos Móveis: em Busca de uma Abordagem Racional. Porto Alegre/RS: Sociedade Brasileira de Computação, 2017. v. 1. p. 229-230.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DEBATIN, L. ; IMME, E. M. ; HAENDCHEN FILHO, A. . Sistema web de comunicação entre eventos, lugares e músicos. In: Encontro de Ensino, Pesquisa e Extensão, 2017, Brusque/SC. Sistema web de comunicação entre eventos, lugares e músicos, 2017. v. 1.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "EBELE NETO, A. ; DEBATIN, L. ; SANTOS, S. P. ; FRANCA, V. F. T. ; IMME, E. M. . Sistema especialista para auxiliar usuários a identificar problemas com hardware ou software. In: Encontro de Ensino, Pesquisa e Extensão, 2016, Brusque/SC. Sistema especialista para auxiliar usuários a identificar problemas com hardware ou software, 2016. v. 1. p. 433-433.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "DEBATIN, L. . Implementação de Voz em um Aplicativo Móvel. 2022. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. . Reconhecimento Off-line de Voz Contínuo para Dispositivos Móveis: Uma Análise Comparativa de Métricas de Avaliação. 2019. (Apresentação de Trabalho/Seminário).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; NAU, J. ; ZANCHETT, P. S. ; CORREIA, W. . Implementação de API para Reconhecimento e Sintetização de Voz em um Aplicativo Móvel.. 2017. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; DAZZI, R. L. S. . O Problema do Reconhecimento de Voz Offline em Dispositivos Móveis: em Busca de uma Abordagem Racional. 2017. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; CORREIA, W. ; ZANCHETT, P. S. ; VARELA, I. F. . Levantamento de API´s que realizam o Reconhecimento e Sintetização de Voz. 2016. (Apresentação de Trabalho/Outra).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; HAENDCHEN FILHO, A. ; ZANCHETT, P. S. ; CORREIA, W. . A API W3C Web Speech em app para alerta de desastres naturais. 2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "SOUZA, A. D. ; DEBATIN, L. . SIGCE. 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MENEZES, I. ; DEBATIN, L. . Virtualis. 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, Y. ; DEBATIN, L. . DeliveryBox. 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CALEGARI, K. B. ; DEBATIN, L. . Alertamed. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GERBER, P. B. ; DEBATIN, L. . LogiKart. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AZEVEDO, A. M. ; DEBATIN, L. . Mappou. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CARELLI, M. P. ; DEBATIN, L. . DomoMap. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "VITORINO, R. C. ; DEBATIN, L. . Poupe Pila. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, F. H. ; DEBATIN, L. . RastreiaPet. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, A. F. ; DEBATIN, L. . Sistema para auxiliar na pesquisa de produtos naturais. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA JUNIOR, F. I. P. ; DEBATIN, L. . Sistema educacional para o ensino da linguagem SQL. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; FERNANDES, A. M. R. ; SOARES, C. C. S. . Sistema de Calendarização de Coletas. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "APOLINARIO, S. M. ; SILVA, L. L. Z. ; DEBATIN, L. . Plataforma Museo um guia digital para museus. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BRASIL, C. A. K. ; DEBATIN, L. . Aplicativo para compartilhamento de dados entre pacientes e consultórios médicos. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MELLO, D. P. ; DEBATIN, L. . Covoice. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "STAUB, K. R. ; DEBATIN, L. . MatchCoder. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MORFELLE, L. F. C. ; DEBATIN, L. . UniVai. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "FUGIMOTO, F. ; DEBATIN, L. . Aplicativo colaborativo de geração de rotas alternativas para caminhoneiros. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SPIGOTI, F. S. ; DEBATIN, L. . Ferramenta de apoio para a obtenção de artigos da revisão sistemática da literatura. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, C. E. B. ; DEBATIN, L. . Aplicativo ecológico de logística com múltiplos métodos de entregas. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, F. R. ; DEBATIN, L. . Software de gerenciamento municipal para auxiliar no combate ao mosquito Aedes Aegypti. 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, M. M. ; DEBATIN, L. . Jogo digital via comandos de voz para pessoas com deficiência motora. 2021.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "DEBATIN, L. . DLWEB. 2023; Tema: Site portfólio. (Site).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Maffezzolli e Consultores. 2022; Tema: Site institucional. (Site).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Potencializa. 2021; Tema: Site institucional. (Site).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . AR BRUSCERT. 2021; Tema: Site institucional. (Site).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . CIT Brusque. 2019; Tema: Site institucional. (Site).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . A Costa Amalfitana. 2019; Tema: Site institucional. (Site).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Smart Technology. 2019; Tema: Site institucional. (Site).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Eisen Iluminarias. 2019; Tema: Site institucional. (Site).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Toalhas D'Mattos. 2019; Tema: Site institucional. (Site).",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "DEBATIN, L. . Allog Enter. 2023. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . Saks Developer. 2022. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. . PHP. 2019. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "ALVES, J.; ALMEIDA, J. L.; DEBATIN, L. . Participação em banca de Nicolas Patrick Souza.FindYourWay: um aplicativo pararecomendação de atividades em viagens. 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "DAZZI, R. L. S.; FERNANDES, A. M. R.; DEBATIN, L. . Participação em banca de Vanessa Bastos da Luz.HORARIUM - SISTEMA DEPLANEJAMENTO ACADÊMICO AUTOMATIZADO. 2026. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "BUGHI, C. H.; DEBATIN, L. ; RESE, A. L. R.. Participação em banca de Cristian Manoel Pinheiro.HUNTIFY - UM SISTEMA WEB DE CAÇAAO TESOURO. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "RESE, A. L. R.; DEBATIN, L. ; CONCATTO, F.. Participação em banca de Bruno Pereira Freitas.APLICATIVO PARA ORGANIZARPARTIDAS DESPORTIVAS: MATCH IT. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, M. P.; DEBATIN, L. ; CONCATTO, F.. Participação em banca de Pablo Augusto de Quadros.SISTEMA INTEGRADO DEMONITORAMENTO DE CONTÊINERES UMA ABORDAGEM PARA OTIMIZAÇÃOLOGÍSTICA. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, J.; DEBATIN, L. ; ZAMBON, C. N. S.. Participação em banca de Leonardo Gonçalves Serafin.USO DE MODELOS DE LINGUAGEMNATURAL NA GERAÇÃO AUTOMÁTICA DE ARTEFATOS DE TESTE BASEADO EMCOMPORTAMENTO. 2025. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "VIEL, F.; DEBATIN, L. ; SILVA, E. A.. Participação em banca de João Heitor Zabel Da Rocha.DESENVOLVIMENTO DE UMABIBLIOTECA DE COMPONENTES PARA CONSTRUÇÃO DE REDES NEURAISCONVOLUCIONAIS EM FPGA. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SCHUMACHER, D. H.; DEBATIN, L. ; OLIVEIRA JUNIOR, M.. Participação em banca de João Roberto Arrebola Neto.Análise Comparativa de Ferramentas Comerciais de Inteligência Artificial em Experimentos Técnicos da Engenharia Civil. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Civil) - Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, A. M. R.; DEBATIN, L. ; DAZZI, R. L. S.. Participação em banca de IAN PINTO DE ALMEIDA.Identificação de solo exposto e cupinzeiros em pastagens. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DAZZI, R. L. S.; DEBATIN, Lucas ; VIEL, F.. Participação em banca de JORGE BANDEO.SISTEMA ANALISADOR DE TRÁFEGO HUMANO E VEICULAR COM VISÃO COMPUTACIONAL. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. A.; DEBATIN, Lucas ; PADILHA, R.. Participação em banca de Alice Habitzreuter.UniMIGRASC - Sistema web para a documentação de migrantes em Santa Catarina. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, R. B.; DEBATIN, Lucas ; RESE, A. L. R.. Participação em banca de MARCO ANTONIO CORAZZA JACINTO.APLICATIVO WEB PARA ACADEMIAS: GAMIFICAÇÃO COMO ESTRATÉGIA PARA O ENGAJAMENTO. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, R. B.; DEBATIN, L. ; DAZZI, R. L. S.. Participação em banca de GABRIEL CARNEIRO RODRIGUES.MINERAÇÃO DE DADOS PARA IDENTIFICAÇÃO DE FATORES QUE INFLUENCIAM NO PROCESSO DE RECEBIMENTO DE TAXAS CONDOMINIAIS. 2024. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. A.; DEBATIN, L. ; DAZZI, M. C. S.. Participação em banca de Gustavo Moura Ferreira Amorim.Amorim Capstone Manager: Sistema Web para Gestão dos Trabalhos de Conclusão de Curso de Computação da Univali. 2023. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RESE, A. L. R.; DEBATIN, L. ; BUGHI, C. H.. Participação em banca de Sarah Regina Costa Borini Vieira.PROCESSO DE SINTONIZAÇÃO NO MYSQL. 2022. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "TEODORO, F.; DEBATIN, Lucas ; REBELO, D. C.. Participação em banca de Jefferson Kuhn Schmitt.APLICATIVO MÓVEL EDUCACIONAL PARA ÁREA DE UX DESIGN PARA ANDROID. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, A. G.; DEBATIN, L. ; BUGHI, C. H.. Participação em banca de Matheus Sabino Souza.IDENTIFICAÇÃO DE TRANSTORNOS POR USO DE DROGAS: UM APLICATIVO PARA O TESTE DUDIT-E. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "RESE, A. L. R.; DEBATIN, Lucas ; LYRA, R.; SANTIAGO, R.. Participação em banca de Dionmax Figueiredo Nobre.MINIMIZAÇÃO DA PROPAGAÇÃO DE EPIDEMIAS POR REMOÇÃO DE NODOS. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LYRA, R.; FERNANDES, A. M. R.; DEBATIN, Lucas . Participação em banca de Josué Gabriel dos Santos.REDE NEURAL CONVOLUCIONAL PARA CLASSIFICAÇÃO MORFOLÓGICA DE GALÁXIAS. 2021. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade do Vale do Itajaí.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Professor titular",
+      "items": [
+        {
+          "texto": "DEBATIN, L. ; RESE, A. L. R.; VIEL, F.; MORESCO, R.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Banco de Dados II do Curso de Ciência da Computação. 2025. Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; RESE, A. L. R.; VIEL, F.; PEREIRA, T.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Algoritmos e Programação II do Curso de Ciência da Computação. 2025. Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; RESE, A. L. R.; VIEL, F.; MOLIN, E. D. D.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Engenharia de Software II do Curso de Ciência da Computação. 2025. Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; RESE, A. L. R.; VIEL, F.; MOLIN, E. D. D.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Programação Orientada a Objetos do Curso de Sistemas para Internet. 2025. Universidade do Vale do Itajaí.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; MELO, D. R.; VALIM, P. R. O.; BOEING, T.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Sistemas Operacionais do Curso de Ciência da Computação. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; BUGHI, C. H.; RESE, A. L. R.; MORESCO, R.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Programação para Dispositivos Móveis do Curso de Ciência da Computação. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; ALVES, A. G.; SILVA, A. C.; MORESCO, R.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Engenharia de Software II do Curso de Ciência da Computação. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, A. M. R.; DEBATIN, L. ; GONCALVES, R. Q.; MEDEIROS, D. G.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Engenharia de Requisitos do Curso de Análise e Desenvolvimento de Sistemas. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, A. M. R.; DEBATIN, L. ; SILVA, D. S. M.; AMARO, S. P.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Teste de Software do Curso de Análise e Desenvolvimento de Sistemas. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, A. M. R.; DEBATIN, L. ; SILVA, D. S. M.; AMARO, S. P.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina User Experience Design do Curso de Análise e Desenvolvimento de Sistemas. 2024. Universidade do Vale do Itajaí.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; VALIM, P. R. O.; VIEL, F.; MORESCO, R.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Circuitos Digitais do Curso de Ciência da Computação. 2023. Universidade do Vale do Itajaí.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DEBATIN, L. ; BUGHI, C. H.; PEREIRA, T. F.; AMARO, S. P.. Banca Examinadora do Processo Seletivo Externo de Docentes da disciplina Programação Orientada a Objetos do Curso de Ciência da Computação. 2023.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

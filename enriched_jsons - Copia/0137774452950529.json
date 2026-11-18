@@ -1,0 +1,186 @@
+{
+  "name": "Thiago Goldoni Thomé",
+  "lattes_id": "0137774452950529",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "EPIDOR: uma abordagem computacional baseada em sistema web e aplicativo móvel para dores crônicas no atual contexto de pandemia do coronavírus",
+          "autores": "MENDONÇA, FABRÍCIO MARTINS ; MOURÃO JR., CARLOS ALBERTO ; OLIVEIRA, JUAN FELIPE SOUZA ; THOMÉ, THIAGO GOLDONI ; FILGUEIRAS, MARCELO QUESADO",
+          "periodico": "ATOZ: NOVAS PRÁTICAS EM INFORMAÇÃO E CONHECIMENTO , v. 9, p. 117-128, 2020.",
+          "doi": "http://dx.doi.org/10.5380/atoz.v9i2.74673",
+          "citacao_completa": "MENDONÇA, FABRÍCIO MARTINS ; MOURÃO JR., CARLOS ALBERTO ; OLIVEIRA, JUAN FELIPE SOUZA ; THOMÉ, THIAGO GOLDONI ; FILGUEIRAS, MARCELO QUESADO . EPIDOR: uma abordagem computacional baseada em sistema web e aplicativo móvel para dores crônicas no atual contexto de pandemia do coronavírus. ATOZ: NOVAS PRÁTICAS EM INFORMAÇÃO E CONHECIMENTO , v. 9, p. 117-128, 2020."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments",
+          "autores": "Thomé, Thiago G. ; STRÖELE, VICTOR ; PINHEIRO, HÉLADY ; Dantas, Mario A. R.",
+          "periodico": "Lecture Notes in Networks and Systems. 35ed.: Springer International Publishing, 2021, v. , p. 298-309.",
+          "doi": "http://dx.doi.org/10.1007/978-3-030-75075-6_24",
+          "citacao_completa": "Thomé, Thiago G. ; STRÖELE, VICTOR ; PINHEIRO, HÉLADY ; Dantas, Mario A. R. . A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments. Lecture Notes in Networks and Systems. 35ed.: Springer International Publishing, 2021, v. , p. 298-309."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Scientific Model to Support Industrial Data Management Process Using Virtualized Environments",
+          "autores": "PIOLI JUNIOR, L. ; THOMÉ, T. G. ; NUNES, J. X. M. ; DE MACEDO, DOUGLAS D. J. ; L. JUNIOR, P. C. R. ; DANTAS, M. A. R.",
+          "periodico": "The 16th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC). 16ed.: Springer, Cham, 2021, v. 343, p. 144-155.",
+          "doi": "http://dx.doi.org/10.1007/978-3-030-89899-1_15",
+          "citacao_completa": "PIOLI JUNIOR, L. ; THOMÉ, T. G. ; NUNES, J. X. M. ; DE MACEDO, DOUGLAS D. J. ; L. JUNIOR, P. C. R. ; DANTAS, M. A. R. . A Scientific Model to Support Industrial Data Management Process Using Virtualized Environments. The 16th International Conference on P2P, Parallel, Grid, Cloud and Internet Computing (3PGCIC). 16ed.: Springer, Cham, 2021, v. 343, p. 144-155."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 0,
+          "titulo": "Utilização de dispositivos IoT vestíveis em um ambiente de fog cloud para identificação de Covid-19",
+          "autores": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R.",
+          "periodico": "Infra News Telecom.",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R. . Utilização de dispositivos IoT vestíveis em um ambiente de fog cloud para identificação de Covid-19. Infra News Telecom."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Covid-19: A Digital Transformation Approach to a Public Primary Healthcare Environment",
+          "autores": "DO NASCIMENTO, MATEUS GONCALO ; IORIO, GABRIEL ; THOME, THIAGO G. ; MEDEIROS, ALVARO A. M. ; MENDONCA, FABRICIO M. ; CAMPOS, FERNANDA A. ; DAVID, JOSE M. ; STROELE, VICTOR ; DANTAS, MARIO A.R.",
+          "periodico": "In: 2020 IEEE Symposium on Computers and Communications (ISCC), 2020, Rennes. 2020 IEEE Symposium on Computers and Communications (ISCC), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/iscc50000.2020.9219643",
+          "citacao_completa": "DO NASCIMENTO, MATEUS GONCALO ; IORIO, GABRIEL ; THOME, THIAGO G. ; MEDEIROS, ALVARO A. M. ; MENDONCA, FABRICIO M. ; CAMPOS, FERNANDA A. ; DAVID, JOSE M. ; STROELE, VICTOR ; DANTAS, MARIO A.R. . Covid-19: A Digital Transformation Approach to a Public Primary Healthcare Environment. In: 2020 IEEE Symposium on Computers and Communications (ISCC), 2020, Rennes. 2020 IEEE Symposium on Computers and Communications (ISCC), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Dispositivos IoT em uma Configuração Cooperativa Fog-Cloud para suporte a Predições em um Ambiente Healthcare",
+          "autores": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R.",
+          "periodico": "In: Workshop de Iniciação Científica em Arquitetura de Computadores e Computação de Alto Desempenho, 2020. WSCAD-WIC.",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R. . Dispositivos IoT em uma Configuração Cooperativa Fog-Cloud para suporte a Predições em um Ambiente Healthcare. In: Workshop de Iniciação Científica em Arquitetura de Computadores e Computação de Alto Desempenho, 2020. WSCAD-WIC."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments",
+          "autores": "THOMÉ, THIAGO GOLDONI ; STRÖELE, VICTOR ; DANTAS, MARIO A. R ; PINHEIRO, HÉLADY",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Sistemas de Informação, 2021, Brasil. Anais Estendidos do XVII Simpósio Brasileiro de Sistemas de Informação (Anais Estendidos do SBSI 2021), 2021. v. 17. p. 178-180.",
+          "doi": "http://dx.doi.org/10.5753/sbsi.2021.15373",
+          "citacao_completa": "THOMÉ, THIAGO GOLDONI ; STRÖELE, VICTOR ; DANTAS, MARIO A. R ; PINHEIRO, HÉLADY . A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments. In: Anais Estendidos do Simpósio Brasileiro de Sistemas de Informação, 2021, Brasil. Anais Estendidos do XVII Simpósio Brasileiro de Sistemas de Informação (Anais Estendidos do SBSI 2021), 2021. v. 17. p. 178-180."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments",
+          "autores": "THOMÉ, T. G. ; ALVES, V. S. ; PINHEIRO, H. S. ; DANTAS, M. A. R.",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. ; ALVES, V. S. ; PINHEIRO, H. S. ; DANTAS, M. A. R. . A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments",
+          "autores": "THOMÉ, T. G. ; STRÖELE, VICTOR ; DANTAS, M. A. R. ; PINHEIRO, H. S.",
+          "periodico": "2021. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. ; STRÖELE, VICTOR ; DANTAS, M. A. R. ; PINHEIRO, H. S. . A Fog Computing Simulation Approach Adopting the Implementation Science and IoT Wearable Devices to Support Predictions in Healthcare Environments. 2021. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Dispositivos IoT em uma Configuração Cooperativa Fog-Cloud para suporte a Predições em um Ambiente Healthcare",
+          "autores": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R.",
+          "periodico": "2020. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. ; ALVES, V. S. ; DANTAS, M. A. R. . Dispositivos IoT em uma Configuração Cooperativa Fog-Cloud para suporte a Predições em um Ambiente Healthcare. 2020. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Epidor: um sistema de informação e dispositivo digital para análise multidimensional da dor crônica",
+          "autores": "MOURAO JUNIOR, C. A. ; HILGEMBERG, A. L. C. ; OLIVEIRA, J. F. S. ; THOMÉ, T. G. ; FILGUEIRAS, M. Q. ; MENDONCA, F. M. ; MEDEIROS, A. A. M.",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "MOURAO JUNIOR, C. A. ; HILGEMBERG, A. L. C. ; OLIVEIRA, J. F. S. ; THOMÉ, T. G. ; FILGUEIRAS, M. Q. ; MENDONCA, F. M. ; MEDEIROS, A. A. M. . Epidor: um sistema de informação e dispositivo digital para análise multidimensional da dor crônica. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Desenvolvimento de software para cálculo de dose de medicação intratecal contínua-intratecalc",
+          "autores": "MOURAO JUNIOR, C. A. ; HILGEMBERG, A. L. C. ; OLIVEIRA, J. F. S. ; THOMÉ, T. G. ; FILGUEIRAS, M. Q. ; MENDONCA, F. M. ; MEDEIROS, A. A. M.",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "MOURAO JUNIOR, C. A. ; HILGEMBERG, A. L. C. ; OLIVEIRA, J. F. S. ; THOMÉ, T. G. ; FILGUEIRAS, M. Q. ; MENDONCA, F. M. ; MEDEIROS, A. A. M. . Desenvolvimento de software para cálculo de dose de medicação intratecal contínua-intratecalc. 2019. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Python module - Data Science and Data Intensive Scalable Computing",
+          "autores": "Thomé, Thiago G. ; NASCIMENTO, M. G. ; SILVEIRA, W. G. S.",
+          "periodico": "2021. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Thomé, Thiago G. ; NASCIMENTO, M. G. ; SILVEIRA, W. G. S. . Python module - Data Science and Data Intensive Scalable Computing. 2021. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Processamento de Linguagem Natural",
+          "autores": "THOMÉ, T. G.",
+          "periodico": "2015. .",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. . Processamento de Linguagem Natural. 2015. ."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Introdução a linguagem Java",
+          "autores": "THOMÉ, T. G.",
+          "periodico": "2014. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. . Introdução a linguagem Java. 2014. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Introdução ao Processamento de Linguagem Natural",
+          "autores": "THOMÉ, T. G.",
+          "periodico": "2014. (Desenvolvimento de material didático ou instrucional - Ensino).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. . Introdução ao Processamento de Linguagem Natural. 2014. (Desenvolvimento de material didático ou instrucional - Ensino)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "PHP e MySQL para iniciantes",
+          "autores": "THOMÉ, T. G.",
+          "periodico": "2013. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. . PHP e MySQL para iniciantes. 2013. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Introdução à programação em Scala",
+          "autores": "THOMÉ, T. G.",
+          "periodico": "2013. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "THOMÉ, T. G. . Introdução à programação em Scala. 2013. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

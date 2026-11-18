@@ -1,0 +1,868 @@
+{
+  "name": "Gierri Waltrich",
+  "lattes_id": "8439959137528373",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "DE PARIS, VALDECIR JUNIOR ; MEZAROBA, MATEUS NAVA ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELI . Technique to Improve the Input Current THD in Single-Phase DCM Boost Rectifiers. Ieee Open Journal Of Industry Applications , v. 1, p. 1-21, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/OJIA.2026.3716715"
+        },
+        {
+          "texto": "E SILVA, DIMITRI OLIVEIRA ; NOSTRANI, MARCOS PAULO ; WALTRICH, GIERRI ; DE NEGRI, VICTOR JULIANO . A method for designing digital hydraulic pumps with variable angular speed. MECCANICA , v. 1, p. 1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/s11012-025-01946-y"
+        },
+        {
+          "texto": "BAMPI, S. ; VACCARI, ANDERSON ; WALTRICH, G. . Electronic Load for Parameter Characterization in Equivalent Circuit Models of Lithium-Ion Batteries. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 30, p. 1-10, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18618/REP.e202521"
+        },
+        {
+          "texto": "DA SILVA, LUCAS P. ; WALTRICH, GIERRI ; REGNER, DANIEL J. ; PINTO, TIAGO L. F. DA C. . Development and Experimental Validation of a Field-Oriented Control Voltage Source Inverter for Formula Student Electric Vehicles. REVISTA ELETRÔNICA DE POTÊNCIA , v. 30, p. e202557, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.18618/rep.e202557"
+        },
+        {
+          "texto": "NETO, JOÃO BATISTA VIANA ; RIES, VICTOR HUGO KITTEL ; WALTRICH, GIERRI . Controle de Velocidade de uma Máquina de Ímãs Permanentes Tolerante a Falhas em Conjunto com Técnica de Máximo Torque por Ampere. REVISTA ELETRÔNICA DE POTÊNCIA , v. 29, p. e202434, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.18618/REP.e202434"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR J. ; BENEDETTO, MARCO DI ; WALTRICH, GIERRI ; LIDOZZI, ALESSANDRO ; SOLERO, LUCA . State-of-The-Art of CSR Design for Novel Applications Trend. Ieee Open Journal Of Industry Applications , v. 1, p. 1-15, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/OJIA.2024.3522564"
+        },
+        {
+          "texto": "RIES, V. H. K. ; VACCARI, ANDERSON ; WALTRICH, G. . Estimativa de Mapa de Eficiência para Máquinas Elétricas Através do Método de Filtro de Kalman Estendido. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 29, p. e202426, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.18618/REP.2005.2.061068"
+        },
+        {
+          "texto": "RODRIGUES, L. A. ; VACCARI, A. S. ; WALTRICH, G. . DEVICE FOR MEASUREMENT OF INTERNAL PARAMETERS, FAULT DIAGNOSIS, AND SERVICE LIFE PREDICTION IN ELECTROLYTIC CAPACITORS OF CONVERTERS USED IN ELECTRIC VEHICLES. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 28, p. 194-206, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.18618/REP.2023.3.0003"
+        },
+        {
+          "texto": "GUEPFRIH, M. F. ; WALTRICH, G. ; LAZZARIN, T. B. . COMPARISON BETWEEN THREE HIGH GAIN NON-ISOLATED DC-DC CONVERTERS DERIVED FROM BOOST CONVERTER. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 28, p. 216-227, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.18618/rep.2023.3.0006"
+        },
+        {
+          "texto": "GUEPFRIH, MARCELO FLAVIO FLAVIO ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELLI . Unidirectional Step-Up DC-DC Converter Based on Interleaved Phases, Coupled Inductors, Built-in Transformer, and Voltage Multiplier Cells. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 70, p. 2385-2395, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/TIE.2022.3170639"
+        },
+        {
+          "texto": "GUEPFRIH, MARCELO FLAVIO ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELLI . High Step-Up Dc-Dc Converter Using Built-in Transformer Voltage Multiplier Cell and Dual Boost Concepts. IEEE Journal of Emerging and Selected Topics in Power Electronics , v. 9, p. 6700-6712, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/JESTPE.2021.3063060"
+        },
+        {
+          "texto": "CARDOSO, V. ; BROCKVELD JUNIOR, S. L. ; LAZZARIN, T. B. ; WALTRICH, G. . Double boost-flyback converter. IET Power Electronics , v. 13, p. 1163-1171, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2019.1073"
+        },
+        {
+          "texto": "MORAES, CAIO ; BROCKVELD JUNIOR, SERGIO ; HELDWEIN, MARCELO ; FRANCA, ANDRE ; VACCARI, ANDERSON ; WALTRICH, GIERRI . Power Conversion Technologies for a Hybrid Energy Storage System in Diesel-Electric Locomotives. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 68, p. 9081-9091, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/TIE.2020.3021643"
+        },
+        {
+          "texto": "MADDALENA, E.T. ; DA S. MORAES, C.G. ; WALTRICH, G. ; JONES, C.N. . A Neural Network Architecture to Learn Explicit MPC Controllers from Data. IFAC-PAPERSONLINE , v. 53, p. 11362-11367, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2020.12.546"
+        },
+        {
+          "texto": "STÉFANO DE SOUZA PELEGRINO, LUCAS ; LOBO HELDWEIN, MARCELO ; WALTRICH, GIERRI . Energy management system for electric vehicle, residence and public electric network control. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 24, p. 1-9, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.18618/REP.2019.3.0011"
+        },
+        {
+          "texto": "GUEPFRIH, M. F. ; WALTRICH, G. ; LAZZARIN, T. B. . Quadratic-Boost-Double-Flyback Converter. IET Power Electronics , v. 12, p. 3166-3177, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2019.0340"
+        },
+        {
+          "texto": "GUEPFRIH, MARCELO FLAVIO ; WALTRICH, G. ; LAZZARIN, T. B. . A HIGH STEP-UP QUADRATIC-BOOST-DOUBLE-FLYBACK DC-DC CONVERTER. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 24, p. 1-12, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.18618/REP.2019.3.0014"
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; HELDWEIN, MARCELO ; STEFANO DE SOUZA PELEGRINO, LUCAS . Integrated system for power flow control between electric vehicle, utility grid and residence. IET Power Electronics , v. 13, p. 953-960, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2019.0456"
+        },
+        {
+          "texto": "BROCKVELD JUNIOR, S. L. ; WALTRICH, G. . Boost-Flyback Converter With Interleaved Input Current and Output Voltage Series Connection. IET Power Electronics , v. 11, p. 1463-1471, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2017.0657"
+        },
+        {
+          "texto": "CARDOSO, V. ; LAZZARIN, T. B. ; WALTRICH, G. . HIGH GAIN DOUBLE BOOST-FLYBACK CONVERTER. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 23, p. 1-10, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.18618/rep.2018.3.2794"
+        },
+        {
+          "texto": "PONT, N. D. ; WALTRICH, G. ; LAZZARIN, T. B. . Transformerless Step-up Inverter Based On Switched-capacitor Converter Technology. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 269-278, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/rep.2017.3.2685"
+        },
+        {
+          "texto": "JUNIOR, SERGIO ; WALTRICH, GIERRI . High Voltage Gain Dc-dc Converter With Input Stage Current Efforts Division. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 22, p. 380-388, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18618/REP.2017.4.2704"
+        },
+        {
+          "texto": "WALTRICH, GIERRI . Inductances Design of High-Frequency Coaxial Transformers. OALib , v. 03, p. 1-6, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.4236/oalib.1102820"
+        },
+        {
+          "texto": "WALTRICH, GIERRI . Ringing and Voltage Overshoot Analysis of a Proposed DC/AC Converter. OALib , v. 03, p. 1-9, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.4236/oalib.1102821"
+        },
+        {
+          "texto": "SOUZA, E. V. ; WALTRICH, G. ; BARBI, I. . Bidirectional Dual Active Clamping Push-pull Dc-dc Converter. Eletrônica de Potência (Impresso) , v. 21, p. 322-331, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.18618/REP.2016.4.2640"
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; BARBI, IVO . Modelling, control and realisation of the single-ended forward converter with resonant reset at the secondary side. IET Power Electronics (Print) , v. 8, p. 2097-2106, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2014.0956"
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; HENDRIX, MARCEL A.M. ; DUARTE, JORGE L. . Three-phase bidirectional dc/ac converter using a six-leg inverter connected to a direct ac/ac converter. IET Power Electronics (Print) , v. 8, p. 2214-2222, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1049/iet-pel.2015.0059"
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; HENDRIX, MARCEL ; DUARTE, JORGE . Three-Phase Bidirectional Dc/dc Converter with Six Inverter Legs in Parallel for EV Applications. IEEE Transactions on Industrial Electronics (1982. Print) , v. 63, p. 1-1, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/tie.2015.2494001"
+        },
+        {
+          "texto": "FLORES CORTEZ, DANIEL ; WALTRICH, G. ; FRAIGNEAUD, JOSEPH ; MIRANDA, HARMONIE ; BARBI, I. . DC?DC Converter for Dual-Voltage Automotive Systems Based on Bidirectional Hybrid Switched-Capacitor Architectures. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 62, p. 3296-3304, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/tie.2014.2350454"
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; DUARTE, JORGE L. ; HENDRIX, MARCEL A. M. . Multiport Converter for Fast Charging of Electrical Vehicle Battery. IEEE Transactions on Industry Applications , v. 48, p. 2129-2139, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/TIA.2012.2226694"
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. ; PAULIDES, J. J. H. . Three-port bidirectional converter for electric vehicles : focus on high-frequency coaxial transformer. Electromotion (Cluj-Napoca) , v. 17, p. 183-190, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Waltrich, G ; . Three-Phase Cascaded Multilevel Inverter Using Power Cells With Two Inverter Legs in Series. IEEE Transactions on Industrial Electronics (1982. Print) , v. 57, p. 2605-2612, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/tie.2010.2043040"
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "WALTRICH, G. . Inversor multinível trifásico em cascata: Uma abordagem com células de comutação em série. ISBN:978-3-330-99979-4. 1. ed. Portugal: Novas Edições Acadêmicas, 2017. v. 1. 164p .",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, GIERRI . Multiport Converters for Electric Vehicle Applications - ISBN 9783639766998. 1. ed. Saarbrücken, Germany: Scholars Press (OmniScriptum GmbH & Co. KG), 2015. v. 1. 248p .",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "BILBAO, A. W. F. ; GALVAO, L. S. ; REGNER, DANIEL J. ; WENDHAUSEN, M. ; WALTRICH, G. ; FERREIRA, C. A. M. ; PINTO, TIAGO L. F. DA C. . Remote Pipe Diameter Measurement from a single Image using Laser Scale Projection with a Depth Compensation Model. In: XXV ISPRS Congress 2026 ?From Imagery to Understanding?, 2026, Toronto. The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences. Göttingen, Alemanha: Copernicus Publications, 2026. v. XLIX-B. p. 1133-1138.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5194/isprs-archives-XLIX-B2-2026-1133-2026"
+        },
+        {
+          "texto": "MUSSA, S. A. ; SOTORIVA, R. ; ORIGE, M. ; BENDER, LEONARDO AUGUSTO ; WALTRICH, GIERRI . Analysis of optimization techniques applied to the DAB converter. In: 26th European Conference on Power Electronics and Applications, 2025, Paris. 26th European Conference on Power Electronics and Applications, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.34746/epe2025-0221"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR J. ; DOS SANTOS, ION LEANDRO ; PIVA MACHADO, LUÍS GUSTAVO ; SANDRIN, EDERSON ; SCHMITZ, LENON ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELI . Gas-to-Wire Applications Offshore in Brazil: A Bibliographic Overview of Potential and Feasibility. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 01.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231541"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR JUNIOR ; BASCHERA, NÍCOLAS ; DI BENEDETTO, MARCO ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELLI ; LIDOZZI, ALESSANDRO . A Novel Single-Phase Buck Rectifier in Discontinuous Conduction Mode. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231723"
+        },
+        {
+          "texto": "MEZAROBA, MATEUS NAVA ; DE ALMEIDA ALBUQUERQUE, ÍCARO ; BENDER, LEONARDO AUGUSTO ; LAZZARIN, TELLES BRUNELLI ; WALTRICH, GIERRI ; MOIA, JOABEL . Design and Analysis of a Reconfigurable Bidirectional Charger Applied to Vehicle-To-Grid Technology. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/COBEP66423.2025.11231669"
+        },
+        {
+          "texto": "FURTADO, NICHOLAS G. D. ; WALTRICH, GIERRI ; VACCARI, ANDERSON . A Modeling Technique for Li-Ion Cells Based on EIS and Equivalent Circuit Model. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/COBEP66423.2025.11231747"
+        },
+        {
+          "texto": "PIVA MACHADO, LUÍS GUSTAVO ; WALTRICH, GIERRI . Design of a 4 kW Dual-LLC Resonant Converter Featuring a Modified Secondary Side for EV Charging. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/COBEP66423.2025.11231735"
+        },
+        {
+          "texto": "FURTADO, NICHOLAS G. D. ; WALTRICH, GIERRI ; VACCARI, ANDERSON . Battery Cell Equalization Using a Resonant LC Circuit. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ECCE58356.2025.11259619"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR JUNIOR ; BELLOMO, LORENZO ; DI BENEDETTO, MARCO ; WALTRICH, GIERRI ; LIDOZZI, ALESSANDRO ; SOLERO, LUCA . HIL Based Hydrogen Generation Converter Parameters Optimization Methodology. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ECCE58356.2025.11260011"
+        },
+        {
+          "texto": "SANDRIN, E. ; BAZZO, E. ; WALTRICH, G. ; SILVA, A. K. . An overview of the effect of fuel composotion on the efficiency of natural gas powered turbines. In: 20th Brazilian Congress of Thermal Sciences and Engineering, 2024, Foz do Iguaçu. ENCIT 2024, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BENDER, LEONARDO AUGUSTO ; WALTRICH, GIERRI ; VACCARI, ANDERSON SILVA . Optimal Design for CLLLC Resonant Converter. In: IECON 2024 50th Annual Conference of the IEEE Industrial Electronics Society, 2024, Chicago. IECON 2024 - 50th Annual Conference of the IEEE Industrial Electronics Society, 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/IECON55916.2024.10905258"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR JUNIOR ; MEZAROBA, MATEUS NAVA ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELI . A Sensorless Technique to Improve the Third Harmonic Content in Single-phase DCM Boost Rectifier. In: 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024, Darmstadt. 2024 Energy Conversion Congress &amp; Expo Europe (ECCE Europe), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ecceeurope62508.2024.10751851"
+        },
+        {
+          "texto": "OLIVEIRA E SILVA, DIMITRI ; NOSTRANI, MARCOS PAULO ; WALTRICH, GIERRI ; DE NEGRI, VICTOR JULIANO . A study of an Electro-Hydrostatic Actuator for aircraft application. In: 27th International Congress of Mechanical Engineering, 2023, Florianópolis. Proceedings of the 27th International Congress of Mechanical Engineering, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.26678/abcm.cobem2023.cob2023-1628"
+        },
+        {
+          "texto": "DA SILVA, LUCAS PAIVA ; WALTRICH, GIERRI . Driving Technological Advancements in Formula Student: Developing a Field-Oriented Control Voltage Source Inverter for Enhanced Motor Control. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10407881"
+        },
+        {
+          "texto": "DE PARIS, VALDECIR JUNIOR ; TANCA-VILLANUEVA, MOISES CARLOS ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELLI . Third Harmonic Content Correction Technique for DCM Boost Rectifier. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/spec56436.2023.10407797"
+        },
+        {
+          "texto": "BENDER, LEONARDO AUGUSTO ; WALTRICH, GIERRI . An Algorithmic Approach to Optimize LLC Resonant Converter Design. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10407954"
+        },
+        {
+          "texto": "BAMPI, SUÉLEN ; WALTRICH, GIERRI ; VACCARI, ANDERSON . Real-Time State-of-Charge Estimation in Lithium-Ion Batteries Using Extended Kalman Filter. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10408586"
+        },
+        {
+          "texto": "PANISSON, WELENTON MAITO ; WALTRICH, GIERRI ; VACCARI, ANDERSON SILVA . Recharging/Discharging System for Testing High Capacity, High-Current Li-ion Battery Cells. In: 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023, Florianopolis. 2023 IEEE 8th Southern Power Electronics Conference and 17th Brazilian Power Electronics Conference (SPEC/COBEP), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SPEC56436.2023.10408415"
+        },
+        {
+          "texto": "RODRIGUES, LEONARDO ACOSTA ; JUNIOR DE PARIS, VALDECIR ; VACCARI, ANDERSON SILVA ; WALTRICH, GIERRI . Real Time Measurements of Aluminum Electrolytic Capacitor Parameters in EVs Inverters. In: 2023 IEEE Energy Conversion Congress and Exposition (ECCE), 2023, Nashville. 2023 IEEE Energy Conversion Congress and Exposition (ECCE), 2023. p. 3495.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/ecce53617.2023.10362689"
+        },
+        {
+          "texto": "LIMA BASQUERA, NICOLAS EUGENIO ; TESSMER HAX, GLAUCIO ROBERTO ; DA SILVA MORAES, CAIO GUILHERME ; WALTRICH, GIERRI ; POMILIO, JOSE ANTENOR . Steady state analysis for an arbitrary number of ZVS PSM FB converters in an Input-Parallel Output-Series configuration. In: 2021 Brazilian Power Electronics Conference (COBEP), 2021, João Pessoa. 2021 Brazilian Power Electronics Conference (COBEP), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/cobep53665.2021.9684079"
+        },
+        {
+          "texto": "LIMA BASQUERA, NICOLAS EUGENIO ; TESSMER HAX, GLAUCIO ROBERTO ; DA SILVA MORAES, CAIO GUILHERME ; WALTRICH, GIERRI ; POMILIO, JOSE ANTENOR . Small signal analysis for an arbitrary number of ZVS PSM FB converters in an Input-Parallel Output-Series configuration. In: 2021 Brazilian Power Electronics Conference (COBEP), 2021, João Pessoa. 2021 Brazilian Power Electronics Conference (COBEP), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/cobep53665.2021.9684062"
+        },
+        {
+          "texto": "OLIVEIRA E SILVA, DIMITRI ; BARROS DE CARVALHO, LUIZ ALEXANDRE ; DE NEGRI, VICTOR JULIANO ; WALTRICH, GIERRI . Digital Hydraulic Pump: an energy efficiency study. In: 26th International Congress of Mechanical Engineering, 2021, Rio de Janeiro. Proceedings of the 26th International Congress of Mechanical Engineering, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.26678/abcm.cobem2021.cob2021-1613"
+        },
+        {
+          "texto": "DE SOUZA, VINICIUS FIAMONCINI ; BEHR, EDUARDO ELLER ; WALTRICH, GIERRI ; MARTINS, DENIZAR CRUZ ; COELHO, ROBERTO FRANCISCO . Photovoltaic Array Emulator Based on the Buck Converter. In: 2019 IEEE 10th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2019, Xi'an. 2019 IEEE 10th International Symposium on Power Electronics for Distributed Generation Systems (PEDG), 2019. p. 843-848.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/pedg.2019.8807464"
+        },
+        {
+          "texto": "BROCKVELD JUNIOR, S. L. ; MORAES, C. G. S. ; CAVILHA, P. P. ; PACHECO, A. L. S. ; HELDWEIN, M. L. ; WALTRICH, G. . Multi-Port System for Braking Energy Recovery in Diesel-Electric Locomotives - Focus on the Multi-Interphase Transformer Design. In: IECON 2019, 2019, Lisboa. IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society, 2019. p. 5933-5938.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/IECON.2019.8926963"
+        },
+        {
+          "texto": "ECKSTEIN, RAFAEL H. ; LAZZARIN, TELLES B. ; WALTRICH, GIERRI . Two-Stage SEPIC-Buck Topology for Neighborhood Electric Vehicle Charger. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1-4.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/cobep/spec44138.2019.9065423"
+        },
+        {
+          "texto": "DACOL, RODRIGO PATRICIO ; ANASTACIO HEERDT, JOSELITO ; WALTRICH, GIERRI . Non-Isolated High Current Battery Charger with PFC Semi-Bridgeless Rectifier. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1-6.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065719"
+        },
+        {
+          "texto": "DA S. MORAES, CAIO G. ; JUNIOR, SERGIO L. B. ; CAVILHA, PEDRO P. ; PACHECO, ANTONIO L. S. ; HELDWEIN, MARCELO L. ; WALTRICH, GIERRI . Multi-Port System for Storage and Management of Regenerative Braking Energy in Diesel-Electric Locomotives. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1-6.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/COBEP/SPEC44138.2019.9065725"
+        },
+        {
+          "texto": "GUEPFRIH, MARCELO FLAVIO ; WALTRICH, GIERRI ; LAZZARIN, TELLES BRUNELLI . Quadratic Boost-Flyback DC-DC Converter With Coupled Inductors. In: 2018 13th IEEE International Conference on Industry Applications (INDUSCON), 2018, São Paulo. 2018 13th IEEE International Conference on Industry Applications (INDUSCON), 2018. p. 544.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2018.8627065"
+        },
+        {
+          "texto": "DE SOUZA PELEGRINO, LUCAS STEFANO ; HELDWEIN, MARCELO LOBO ; WALTRICH, GIERRI . Low-intrusion vehicle-to-home concept. In: 2016 International Conference on Electrical Systems for Aircraft, Railway, Ship Propulsion and Road Vehicles & International Transportation Electrification Conference (ESARSITEC), 2016, Toulouse. 2016 International Conference on Electrical Systems for Aircraft, Railway, Ship Propulsion and Road Vehicles & International Transportation Electrification Conference (ESARS-ITEC), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/esars-itec.2016.7841410"
+        },
+        {
+          "texto": "BROCKVELD JUNIOR, S. L. ; WALTRICH, G. . Modelagem estática e dinâmica do conversor Boost-Flyback. In: 12th IEEE/IAS international Conference on Industry Applications - INDUSCON 2016, 2016, Curitiba. INDUSCON 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PONT, N. D. ; VECCHIA, M. D. ; WALTRICH, G. ; LAZZARIN, T. B. . Step-up inverter conceived by the integration between a full-bridge inverter and a switched capacitor converter. In: 13th Brazilian Power Electronics Conference - COBEP and 1st Southern Power Electronics, 2015, Fortaleza. 13th Brazilian Power Electronics Conference - COBEP and 1st Southern Power Electronics, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. . Power Flow Steering for Electric Vehicle Fast Charging Station. In: IEEE Energy Conversion Congress & Exposition, 2012, Raleigh. ECCE 2012, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/ECCE.2012.6342513"
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. . Multiport converter for fast charging of electrical vehicle battery: Focus on DC/AC converter. In: IECON 2011 - 37th Annual Conference on IEEE Industrial Electronics Society, 2011, Melbourne. Proc. The 37th annual conference of IEEE industrial Electronics society (IECON 2011), 2011. p. 3626-3633.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/IECON.2011.6119898"
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. . Multiport converter for fast charging of electrical vehicle battery. In: Power Electronics and Applications (EPE 2011), 2011, Birmingham. Proceedings European conference on Power Electronics and Applications (EPE11-ECCE Europe), 2011. p. 1-10.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. ; PAULIDES, J. J. H. . Three-port bi-directional converter for electric vehicles: focus on high-frequency coaxial transformer. In: 5th EVER Conference, 2010, Monaco. Proceedings of the 5th EVER Conference, 2010. p. 1-7.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. . Multiport converters for fast chargers of electrical vehicles - Focus on high-frequency coaxial transformers. In: Power Electronics Conference (IPEC), 2010 International, 2010, Sapporo. Proc. Power Electronics Conference (IPEC), 2010 International, Sapporo, Japan. - S.l. : IPEC, 2010., 2010. p. 3151-3157.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/IPEC.2010.5543381"
+        },
+        {
+          "texto": "WALTRICH, G. ; Duarte, J. L. ; HENDRIX, M. A. M. . Design of symmetrical high-frequency coaxial wound transformer for multiport converters. In: 5th IEEE Young Researchers Symposium, YRS2010, Leuven, 2010, Leuven. Proceedings 5th IEEE Young Researchers Symposium, YRS2010, 29-30-03, Leuven. - Piscataway : IEEE, 2010. p. 1-7.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; BARBI, I. . THREE-PHASE CASCADE MULTILEVEL INVERTER USING COMMUTATION SUB-CELLS. In: COBEP - Congresso Brasileiro de Eletrônica de Potência, 2009, Bonito. COBEP 09, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/COBEP.2009.5347732"
+        },
+        {
+          "texto": "WALTRICH, G. ; BARBI, I. . Three-Phase Cascaded Multilevel Inverter Using Power Cells with Two Inverter Legs in Series. In: IEEE Energy Conversion Congress and Expo (ECCE), 2009, San Jose. ECCE 2009, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/ECCE.2009.5316460"
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "WALTRICH, G. ; CAMACHO, M. ; SCHNEIDER, M.C. . Caracterization of a Transconductor for Low Voltagem Applications. In: 20th Symposium on Microelectronics Technology and Devices - SBMicro 2005 - Student Forum on Microelectronics, 2005, Florianopolis. ., 2005.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "WALTRICH, G. ; HELDWEIN, M. L. . Workshop de Dimensionamento de Pack de Baterias ? INEP. 2016. (Apresentação de Trabalho/Outra).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Título:Veículos Elétricos. Nome do Evento: XIV Jornada de Estudos Ambientais e Novas Tecnologias da Área de Cências Exatas e Ambientais. Local: UNOCHAPECO - Chapecó. 2015. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; HELDWEIN, M. L. . Modeling and simulation of electric vehicles (EVs) and design of batteries for EVs. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico brasileiro. 2015. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Modelling and simulation of eletric vehicles (EVs) and design of batteries for EVs. 2015. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Sistemas Integrados de Mobilidade Urbana Regional. 2014. (Apresentação de Trabalho/Seminário).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; LAZZARIN, T. B. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico - 13o SEPEX. 2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; LAZZARIN, T. B. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico. 2014. (Apresentação de Trabalho/Outra).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Sistemas Integrados de Mobilidade Urbana Regional. 2014. (Apresentação de Trabalho/Seminário).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; LAZZARIN, T. B. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico -12o SEPEX. 2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; LAZZARIN, T. B. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico. 2013. (Apresentação de Trabalho/Outra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Fast charging of electrical vehicle batteries. 2012. (Apresentação de Trabalho/Seminário).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. . Fast charging of electrical vehicle batteries - The Royal Institute of Engineers in the Netherlands KIVI-NIRIA. 2012. (Apresentação de Trabalho/Seminário).",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "WALTRICH, G. . Rede de Serviços e Infraestrutura de Energia elétrica II - MBI em Mobilidade Elétrica e Energias. 2021. (Curso de curta duração ministrado/Especialização).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B. ; WALTRICH, G. . Veículos Elétricos: princípios, benefícios e impactos no sistema elétrico. 2013. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artes Visuais",
+      "items": [
+        {
+          "texto": "AKINAGA, C. Y. ; WALTRICH, G. . Transferência de energia wireless via ondas acústicas: uma análise sobre emat's.https://repositorio.ufsc.br/handle/123456789/227585. 2021. Vídeo.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "AKINAGA, C. Y. ; WALTRICH, G. . Transferência de Energia Acústica. https://repositorio.ufsc.br/handle/123456789/210165. 2020. Vídeo.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "PEREIRA, H. A.; CUPERTINO, A. F.; VICENTE, E. M.; WALTRICH, G. . Participação em banca de BRUNO DE ARAUJO COUTINHO. State-of-Charge Balancing and Impedance Estimation in Smart Battery Energy Storage Systems. 2026. Dissertação (Mestrado em Engenharia Elétrica (Ufsj / Cefet-Mg)) - Universidade Federal de São João Del-Rei.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CASTELLAIN, D. G.; WALTRICH, G. ; NOVAES, Y. R.. Participação em banca de LUCAS BONA RUCKL. PROJETO E DESENVOLVIMENTO DE UMA PLATAFORMA DE TESTES PARA CARACTERIZAÇÃO DAS PERDAS EM ELEMENTOS MAGNÉTICOS APLICADOS A CONVERSORES ESTÁTICOS. 2026. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "FONT, C. H. I.; WALTRICH, G. ; VIGLUS, F. J.. Participação em banca de LUCAS RICARDO AMATO GARCIA. SUSTAINABLE ENERGY STORAGE: A 60 V / 2.5 KWH SYSTEM POWERED BY SECOND-LIFE ELECTRIC VEHICLE BATTERIES. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "HEERDT, J. A.; WALTRICH, GIERRI ; OLIVEIRA, S. V. G.. Participação em banca de Antônio Carlos Walt. AVALIAÇÃO COMPARATIVA ENTRE OS MÉTODOS CC E REFLEX APLICADOS A CARGA E DESCARGA DE BATERIAS DE ÍONS DE LÍTIO. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; CUNICO, L. M.; TEIXEIRA, C. A.. Participação em banca de Mateus de Freitas Bueno. Three-Phase DAB Converter With Reconfigurable Transformer Connection Strategy. 2023. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KIRSTEN, A. L.; WALTRICH, G. ; SANTOS, W. M.. Participação em banca de Leonardo Bellincanta de Souza. SINGLE-PHASE MODE OPERATION OF THREE-PHASE DAB CONVERTER WITH TRIANGULAR AND SPS MODULATIONS. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ROSOLEM, M. F. N. C.; WALTRICH, G. . Participação em banca de THAYNA OENING. LITHIUM-ION BATTERY TESTS USING A DESIGNED BMS. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "NEGRI, V. J.; Fernandes, R. B.; WALTRICH, G. . Participação em banca de Lucas Zanatta Manosso. Design and Analysis of a Digital Hydrostatic Transmission for Wind Turbines. 2021. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LUZ, M. V. F.; WALTRICH, G. ; FUERBACK, A. L.. Participação em banca de Igor Carvalho Finelli. Modulação síncrona otimizada para minimização de torque oscilante em máquinas síncronas. 2018. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "HEERDT, J. A.; WALTRICH, G. . Participação em banca de Edson João Lorencetti. Sistema de gerenciamento ativo de equalização de energia em banco de baterias usando conversor CC-CC bidirecional modular. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; SIMAS, H.; OLIVEIRA JUNIOR, A. A. M.; VIEIRA, R. S.. Participação em banca de Thiago de Jesus de Araujo Rios. Development of a fuel saving algorithm for a vehicle´s driver assistant system. 2018. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; NEGRI, V. J.; SILVA, J. C.; PASSOS, J. C.. Participação em banca de Henrique Raduenz. Experimental and theorectical analysis of a hydristatic transmission for wind turbines. 2018. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "HAUSMANN, R.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Júlio Cesar Dias. Família de retificadores boost unidirecionais híbridos monofásicos com célula de capacitor chaveado. 2017. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "STIVABELLO, M. E.; SOUZA, A. R.; WALTRICH, G. ; DALLACOSTA, D. A. B.; CUNHA, R. R. M.. Participação em banca de Adriano Mansur Irigoite. Aprimoramento do sistema de compensação de flexão de lâmina utilizada em uma máquina de corte de enfesto. 2017. Dissertação (Mestrado em Mestrado Profissional em Mecatrônica) - Instituto Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; ALMEIDA, B. R.; LIMA, F. K. A.. Participação em banca de Allan Uchôa Barbosa. Conversor Multiporta aplicado a um sistema de microgeração interligado à rede elétrica. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Ceará.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, A. S. E.; COELHO, J.; WALTRICH, G. . Participação em banca de Mariana Nau. Análise quantitativa dos benefícios de sistemas de armazenamento de energia em baterias para o controle de frequência em microrredes de corrente alternada. 2017. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, R. G.; FONT, C. H. I.; WALTRICH, GIERRI ; MOIA, J.. Participação em banca de Lucas Rocha Búrigo. Estudo de um sistema para conexão de aerogeradores de pequeno porte com a rede elétrica. 2016. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "HAUSMANN, R.; WALTRICH, G. ; OLIVEIRA, S. V. G.. Participação em banca de Fábio Vidal Rawadauski. Filtro ativo trifásico de baixa tensão e alta potência com célula de acoplamento indutivo e compensação seletiva de harmônicas de corrente. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Fundação Universidade Regional de Blumenau.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, M. G.; ARANHA NETO, E. A. C.; WALTRICH, G. . Participação em banca de Gabriel Santos Bolacell. Avaliação do impacto de modelos eletrogeométricos de redes aéreas na qualidade de energia de sistemas de distribuição usando técnicas probabilísticas. 2016. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FONT, C. H. I.; BATISTA, F. A. B.; JAPPE, T. K.; ORTMANN, M. S.; WALTRICH, G. . Participação em banca de Cesar Augusto Arbugeri. Retificador ativo hexafásico com correção de fator de potência. 2016. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Martins, D. C.; OLIVEIRA, S. V. G.; ORTMANN, M. S.; WALTRICH, G. ; LAZZARIN, T. B.. Participação em banca de Marcos josé Jacoboski. Conversor CC-CC isolado duplo NPC com comutação suave. 2015. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F.; WALTRICH, G. ; HAUSMANN, R.. Participação em banca de Rafael gomes Faust. Conversor Flyback Modular Conectado em série na entrada e série na saída operando no modo descontínuo com pulso único de comando.. 2014. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; HELDWEIN, M. L.; OLIVEIRA, S. V. G.; LAZZARIN, T. B.; WALTRICH, G. . Participação em banca de Delvanei Gomes Bandeira Júnior. Conversor CC-CCT-Type ZVS PWM Análise, Projeto e Implementação.. 2014. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; FONT, C. H. I.; LAZZARIN, T. B.; BUTTENDORFF, J. M.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Rodrigo José Piontkewicz. Conversor CC-CC modular isolado para elevadas tensões de entrada e de saída. 2014. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F.; WALTRICH, G. ; FONT, C. H. I.; QUEIROZ, H. L.; MUSSA, S. A.. Participação em banca de Rafael Hnerique Eckstein. Sistema para conexão de pequenos aerogeradores com a rede elétrica: análise, projeto e experimentação.. 2014. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Peng, P. K.; Martins, D. C.; BARBI, I.; BADIN, A. A.; LAZZARIN, T. B.; Waltrich, G . Participação em banca de Alan Dorneles Callegaro. Retificador Trifásico Isolado de Único Estágio com Fator de Potência Unitário Baseado no Conversor Zeta CC-CC Operando no Modo de Condução Descontínuo. 2013. Dissertação (Mestrado em Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "BRADASCHIA, F.; AZEVEDO, G. M. S.; LIMONGI, L. R.; Waltrich, G ; OLIVEIRA, S. V. G.. Participação em banca de ANTONIO DUTRA DANTAS DE ALMEIDA. CONVERSOR NOVE CHAVES MULTIPORTAS APLICADO A BONDE ELÉTRICO ALIMENTADO POR BATERIAS COM REDUÇÃO DE CORRENTE DE FUGA. 2026. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Pernambuco.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "BARRETO, L. H. S. C.; WALTRICH, G. ; LAZZARIN, T. B.. Participação em banca de Cesar Augusto Arbugeri. Conceitos de Modelagem e Controle para um Conversor Hexverter. 2023. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BADIN, A. A.; CORTEZ, D. F.; BANDEIRA JUNIOR, D. G.; WALTRICH, G. ; FONSECA, Z. P.. Participação em banca de Giovano Mayer. CONVERSOR CA-CC MONOFÁSICO COM DUPLA MODULAÇÃO, PFC, DE ESTÁGIO ÚNICO E COM DESACOPLAMENTO DE POTÊNCIA. 2023. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, M. C.; Waltrich, G ; COELHO, R. F.. Participação em banca de Lucas Lapolli Brighenti. Estudo de geometrias de núcleos usadas em barramentos magnéticos de alta frequência. 2020. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "FONT, C. H. I.; HAUSMANN, R.; MUSSA, S. A.; COELHO, R. F.; WALTRICH, G. ; KIRSTEN, A. L.. Participação em banca de Adriano Ruseler. Inversor modular baseado na conexão série de pontes completas para o acionamento de motores com enrolamentos divididos e em aberto. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "CARNIELUTTI, F. M.; LAZZARIN, T. B.; Waltrich, G . Participação em banca de Valdecir Junior De Paris. Novel Methodology for Static and Dynamic Analises of Current Source Rectifiers. 2025. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, S. V. G.; AZEVEDO, G. M. S.; Waltrich, G . Participação em banca de Antonio Dutra Dantas De Almeida. Conversor oito chaves multiportas aplicado a bonde elétrico alimentado por baterias e supercapacitores. 2022. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Pernambuco.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; MARTINS, M. L. S.; WALTRICH, GIERRI . Participação em banca de Jessika Melo de Andrade. Conversores cc-cc Não-Isolados Elevadores de Alto Ganho Baseados na Conexão Diferencial de Conversores com Tensão de Saída de mesma Polaridade. 2020. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "HELDWEIN, M. L.; RECH, C.; BRADASCHIA, F.; SOEIRO, T. B.; WALTRICH, G. . Participação em banca de Lisandra Kittel Ries. Contribuição ao estudo de retificadores fonte de corrente trifásicos multiníveis. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, IVO; BADIN, A. A.; LARICO, H. R. E.; WALTRICH, G. . Participação em banca de Mauro André Pagliosa. Conexão modular de conversores flyback de duas chaves. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; DUARTE, C. M. C.; AGOSTINI JUNIOR, E.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Delvanei Gomes Bandeira Junior. Conversores CC-CC isolados tipo T com comutação suave para altas tensões. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; GULES, R.; HELDWEIN, M. L.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Paulo Junior Silva Costa. Retificadores SEPIC monofásicos e trifásicos com elevação do ganho estático e redução dos esforços de tensão sobre seus semicondutores. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; GULES, R.; FONT, C. H. I.; WALTRICH, G. ; PAGANO, D. J.. Participação em banca de Rodrigo de Souza Santos. Inversores de tensão PWM trifásicos híbridos a capacitor chaveado. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "PERIN, A. J.; OLIVEIRA, S. V. G.; BATISTELA, N. J.; WALTRICH, G. . Participação em banca de Nilton Francisco Oliveira da Silva. Conversor wireless para carga rápida de supercapacitores. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; PINHEIRO, J. R.; MUSSA, S. A.; LAZZARIN, T. B.; WALTRICH, G. ; COELHO, R. F.; PETRY, C. A.. Participação em banca de Adriano Ruseler. Inversor modular baseado na conexão série para o acionamento de motores com enrolamento aberto. 2013. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "GREFF, D. S.; IDEHARA, S. J.; Waltrich, G . Participação em banca de Daniel José Beber.Modelamento matemático de baterias para veículos elétricos do tipo Fórmula SAE?,. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, GIERRI ; DIAS, J. C.; BINDER, C.. Participação em banca de Artur Magnus Piacentini.Desenvolvimento de uma fonte de plasma atmosférico. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, GIERRI ; MUSSA, S. A.; MORAES, C. G. S.. Participação em banca de Pedro Pivatto Cavilha.Bancada Didática Para Acionamento de Motores. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; PERIN, A. J.; Martins, D. C.; BRIGHENTI, L. L.. Participação em banca de Pedro Pereira Almeida.Estudo do Conversor DAB para aplicações em nanoredes de energia. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; HELDWEIN, MARCELO LOBO; SADOWSKI, N.; SOARES, C. E.. Participação em banca de Victor Eberhardt Menegon.Desenvolvimento de diferentes tipos de controle para MSIP. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Martins, D. C.; SADOWSKI, N.; WALTRICH, G. . Participação em banca de Lucas Schons.Teste de rotação de abertura do componente centrífugo em motores monofásicos de indução. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "KIRSTEN, A. L.; WALTRICH, G. . Participação em banca de Bruno Teixeira da Motta.Circuito de balanceamento ativo de carga para um sistema de gerenciamento de bateria de li-ion. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CRESPI, M. H.; WALTRICH, G. . Participação em banca de Carlos Eduardo Pscheidt.Análise da viabilidade econômica e dimensionamento associado à implementação de painéis fotovoltáicos em um edificação vertical de Joinville. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Infraestrutura) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "HEERDT, J. A.; OLIVEIRA, S. V. G.; WALTRICH, GIERRI . Participação em banca de Bruno Veronezi Fuentes.PROJETO DE CONVERSOR NPC TRIFÁSICO E CONTROLE VETORIAL PARA APLICAÇÃO EM GERAÇÃO FOTOVOLTAICA. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, G. ; CUSTODIO, O. J.. Participação em banca de Renan Homem Cunha.Estudo de retificadores ponte completa e dobrador de tensão para o estágio de saída de um conversor cc-cc isolado aplicado em fontes de alta tensão. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, G. ; BUSATTA, T.; MACIEL, I. K.. Participação em banca de Jonatan Luiz Gregório.Projeto, dimensionamento e simulação de um sistema fotovoltaico conectado à rede elétrica. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F.; Martins, D. C.; WALTRICH, G. ; SANTOS, W. M.. Participação em banca de Evandro Gabriel Oss-Emer.Nova técnica de rastreamento do ponto de máxima potência na geração fotovoltaica aplicada à recarga de baterias. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SPENGLER, A. W.; ROQUE, W.; WALTRICH, G. . Participação em banca de William de Pauli.Sistema separador de itens utilizando RFID. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, G. ; OLIVEIRA, R. G.. Participação em banca de Vanderlei Cardoso.Proposta de um sistema de processamento de energia para a conexão de aerogeradores de pequeno porte a rede elétrica: estudo, simulação e experimentação. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F.; Martins, D. C.; WALTRICH, G. ; SANTOS, W. M.. Participação em banca de Leonardo Hugen Panata.Estudo de viabilidade financeira para a instalação de uma unidade de microgeração fotovoltaica no Shopping center Iguatemi Florianópolis. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Neilor Colombo Dal Pont.Inversor monofásico elevador com controle instantâneo de tensão baseado na integração entre um inversor clássico e um conversor a capacitor chaveado. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; CUSTODIO, O. J.; WALTRICH, G. . Participação em banca de Diego Morschbacher.Estudo teórico e experimental de conversores para implementação de uma UPS online, integrada com um gerador a Diesel. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, G. ; JAPPE, T. K.; ARBUGERI, C. A.. Participação em banca de Murilo Koerich Lohn.Estudo de uma estratégia de modulação vetorial para minimização da tensão de modo comum em um inversor trifásico multinível. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; WALTRICH, G. ; PAGLIOSA, M. A.. Participação em banca de Roberto Felício dos Santos.Análise, Projeto e Implementação de um Conversor CC-CC Isolado Tipo Flyback. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "HEERDT, J. A.; BATSCHAUER, A. L.; WALTRICH, G. . Participação em banca de Marcelo Christian Lopes Souto.Conversor boost PFC com controle digital. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade do Estado de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA FILHO, M. E.; LARICO, H. R. E.; WALTRICH, G. . Participação em banca de Sergio Luiz Brockveld.Embasamento teórico para o projeto de um inversor de frequência.. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; OLIVEIRA FILHO, M. E.; CUNHA, T. V.. Participação em banca de Willian Moldenhauer de Jesus.PROJETO DE CONVERSOR FORWARD CONVENCIONAL PARA A COMPARAÇÃO COM UMA PROSPOSTA DE CONVERSOR FORWARD SEM ENROLAMENTO AUXILIAR. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Ferroviária e Metroviária) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "WALTRICH, G. ; OLIVEIRA JUNIOR, A. A. M.; COLLIER, D. A. F.. Participação em banca de Lucas stéfano de Souza Pelegrino.Modelagem e controle energético de um veículo híbrido elétrico paralelo. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Martins, D. C.; COELHO, R. F.; KASSICK, E. V.; WALTRICH, G. . Participação em banca de Artur Pagnoncelli Galbiatti.Sistemas de rastreamento de máxima potência para módulos fotovoltaicos refrigerados a água. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, R. F.; Martins, D. C.; KASSICK, E. V.; WALTRICH, G. . Participação em banca de Frederico Costa dos Santos.Análise de estabilidade de microredes compostas por fontes renováveis. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; COELHO, R. F.; WALTRICH, G. . Participação em banca de Marcel Araújo Cunha.Estudo de um inversor de tensão tipo boost baseado na integração do inversor clássico com células de capacitor chaveado.. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARIN, T. B.; BARBI, I.; WALTRICH, G. . Participação em banca de Sasha Andrey Pedrini Bernhardt.Análise e proposta de métodos para aumentar a eficiência energética em uma indústria, com implementação no setor têxtil.. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MUSSA, S. A.; LAZZARIN, T. B.; JAPPE, T. K.; WALTRICH, G. . Participação em banca de Cesar Augusto Arbugeri.Rede de comunicação digital de dados aplicada no controle de inversores conectados em paralelo. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; LAZZARIN, T. B.; WALTRICH, G. ; COELHO, R. F.. Participação em banca de Marcos Paulo Moccelini.Conversor CA-CA a capacitor chaveado com saída monofásica split-phase. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

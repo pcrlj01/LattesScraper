@@ -1,0 +1,918 @@
+{
+  "name": "Lynceo Falavigna Braghirolli",
+  "lattes_id": "2992623886366532",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A conceptual framework for AI-driven, integrated planning of production and predictive maintenance",
+          "autores": "CABALLERO, RICARDO ; ENGBERS, HENDRIK ; de Souza, Nicollas Luiz Schweitzer ; BREMEN, JULIA CRISTINA ; Frazzon, Enzo Morosini ; BRAGHIROLLI, LYNCEO FALAVIGNA ; UHLMANN, IRACYANNE RETTO ; PEREIRA, CARLOS EDUARDO ; FREITAG, MICHAEL",
+          "periodico": "PROCEDIA COMPUTER SCIENCE , v. 276, p. 215-222, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.procs.2026.02.027",
+          "citacao_completa": "CABALLERO, RICARDO ; ENGBERS, HENDRIK ; de Souza, Nicollas Luiz Schweitzer ; BREMEN, JULIA CRISTINA ; Frazzon, Enzo Morosini ; BRAGHIROLLI, LYNCEO FALAVIGNA ; UHLMANN, IRACYANNE RETTO ; PEREIRA, CARLOS EDUARDO ; FREITAG, MICHAEL . A conceptual framework for AI-driven, integrated planning of production and predictive maintenance. PROCEDIA COMPUTER SCIENCE , v. 276, p. 215-222, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Emerging semantics in manufacturing systems based on a context awareness perspective",
+          "autores": "DA SILVA, MÁRCIO J. ; BRAGHIROLLI, LYNCEO F. ; FRAZZON, ENZO M. ; PEREIRA, CARLOS E.",
+          "periodico": "IFAC-PAPERSONLINE , v. 59, p. 137-142, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2025.11.938",
+          "citacao_completa": "DA SILVA, MÁRCIO J. ; BRAGHIROLLI, LYNCEO F. ; FRAZZON, ENZO M. ; PEREIRA, CARLOS E. . Emerging semantics in manufacturing systems based on a context awareness perspective. IFAC-PAPERSONLINE , v. 59, p. 137-142, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Ship-from-store omnichannel using a 4pl digital platform",
+          "autores": "SCHWEITZER, NICOLLAS LUIZ SCHWEITZER DE SOUZA ; ARANTE, MARCOS TADEU ; AGOSTINO, ÍCARO ROMOLO SOUSA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; MAFIA, MARINA MEIRELES PEREIRA ; Frazzon, Enzo Morosini",
+          "periodico": "BRAZILIAN JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT , v. 21, p. 1856, 2024.",
+          "doi": "http://dx.doi.org/10.14488/BJOPM.1856.2024",
+          "citacao_completa": "SCHWEITZER, NICOLLAS LUIZ SCHWEITZER DE SOUZA ; ARANTE, MARCOS TADEU ; AGOSTINO, ÍCARO ROMOLO SOUSA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; MAFIA, MARINA MEIRELES PEREIRA ; Frazzon, Enzo Morosini . Ship-from-store omnichannel using a 4pl digital platform. BRAZILIAN JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT , v. 21, p. 1856, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Improving production and maintenance planning with meta-learning-based failure prediction",
+          "autores": "BRAGHIROLLI, LYNCEO FALAVIGNA ; Mendes, Lúcio Galvão ; ENGBERS, HENDRIK ; LEOHOLD, SIMON ; TRISKA, YURI ; FLORES, MAURÍCIO RANDOLFO ; DE SOUZA, RAPHAEL ODEBRECHT ; FREITAG, MICHAEL ; Frazzon, Enzo Morosini",
+          "periodico": "JOURNAL OF MANUFACTURING SYSTEMS , v. 75, p. 42-55, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.jmsy.2024.05.014",
+          "citacao_completa": "BRAGHIROLLI, LYNCEO FALAVIGNA ; Mendes, Lúcio Galvão ; ENGBERS, HENDRIK ; LEOHOLD, SIMON ; TRISKA, YURI ; FLORES, MAURÍCIO RANDOLFO ; DE SOUZA, RAPHAEL ODEBRECHT ; FREITAG, MICHAEL ; Frazzon, Enzo Morosini . Improving production and maintenance planning with meta-learning-based failure prediction. JOURNAL OF MANUFACTURING SYSTEMS , v. 75, p. 42-55, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Perspectives for the Application of Reinforcement Learning for the Integrated Order-Dispatching and Maintenance Scheduling",
+          "autores": "QUADRAS, DJONATHAN L.O. ; PEREIRA MAFIA, MARINA M. ; MENDES, LÚCIO G. ; BRAGHIROLLI, LYNCEO F. ; FRAZZON, ENZO M.",
+          "periodico": "IFAC-PAPERSONLINE , v. 58, p. 79-84, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2024.08.054",
+          "citacao_completa": "QUADRAS, DJONATHAN L.O. ; PEREIRA MAFIA, MARINA M. ; MENDES, LÚCIO G. ; BRAGHIROLLI, LYNCEO F. ; FRAZZON, ENZO M. . Perspectives for the Application of Reinforcement Learning for the Integrated Order-Dispatching and Maintenance Scheduling. IFAC-PAPERSONLINE , v. 58, p. 79-84, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Orchestrating a ship-from-store omnichannel operation using 4PL digital platform",
+          "autores": "D, NICOLLAS LUIZ SCHWEITZER ; SOUZA, E ; ARANTE, MARCOS TADEU ; BRAGHIROLLI, LYNCEO FALAVIGNA ; MAFIA, MARINA MEIRELES PEREIRA ; Frazzon, Enzo Morosini",
+          "periodico": "International Journal of Business Forecasting and Marketing Intelligence , v. 8, p. 52-72, 2023.",
+          "doi": "http://dx.doi.org/10.1504/ijbfmi.2023.127704",
+          "citacao_completa": "D, NICOLLAS LUIZ SCHWEITZER ; SOUZA, E ; ARANTE, MARCOS TADEU ; BRAGHIROLLI, LYNCEO FALAVIGNA ; MAFIA, MARINA MEIRELES PEREIRA ; Frazzon, Enzo Morosini . Orchestrating a ship-from-store omnichannel operation using 4PL digital platform. International Journal of Business Forecasting and Marketing Intelligence , v. 8, p. 52-72, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "An ontological approach for modelling evolutionary knowledge of prognostic method selection",
+          "autores": "DA SILVA, MÁRCIO J. ; BRAGHIROLLI, LYNCEO F. ; BRODA, EIKE ; ENGBERS, HENDRIK ; FRAZZON, ENZO M. ; PEREIRA, CARLOS E.",
+          "periodico": "IFAC-PAPERSONLINE , v. 55, p. 181-186, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2022.04.190",
+          "citacao_completa": "DA SILVA, MÁRCIO J. ; BRAGHIROLLI, LYNCEO F. ; BRODA, EIKE ; ENGBERS, HENDRIK ; FRAZZON, ENZO M. ; PEREIRA, CARLOS E. . An ontological approach for modelling evolutionary knowledge of prognostic method selection. IFAC-PAPERSONLINE , v. 55, p. 181-186, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Reflexões sobre estilos de aprendizagem na formação em Engenharia de Produção",
+          "autores": "PIZZOLATO, MORGANA ; FALAVIGNA BRAGHIROLLI, LYNCEO ; WEBER RIGHI, ANGELA ; ALEBRANT MENDES, ANGÉLICA ; TAINA MARCZEWSKI, LETICIA",
+          "periodico": "PRODUTO E PRODUÇÃO , v. 23, p. 80-99, 2022.",
+          "doi": "http://dx.doi.org/10.22456/1983-8026.125733",
+          "citacao_completa": "PIZZOLATO, MORGANA ; FALAVIGNA BRAGHIROLLI, LYNCEO ; WEBER RIGHI, ANGELA ; ALEBRANT MENDES, ANGÉLICA ; TAINA MARCZEWSKI, LETICIA . Reflexões sobre estilos de aprendizagem na formação em Engenharia de Produção. PRODUTO E PRODUÇÃO , v. 23, p. 80-99, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Conceptual Model for Integrated Production and Maintenance Planning with Automated Prognostic Method Selection",
+          "autores": "ENGBERS, HENDRIK ; BRAGHIROLLI, LYNCEO F ; LEOHOLD, SIMON ; TRISKA, YURI ; FRAZZON, ENZO M ; FREITAG, MICHAEL",
+          "periodico": "IFAC-PAPERSONLINE , v. 54, p. 635-640, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2021.08.174",
+          "citacao_completa": "ENGBERS, HENDRIK ; BRAGHIROLLI, LYNCEO F ; LEOHOLD, SIMON ; TRISKA, YURI ; FRAZZON, ENZO M ; FREITAG, MICHAEL . Conceptual Model for Integrated Production and Maintenance Planning with Automated Prognostic Method Selection. IFAC-PAPERSONLINE , v. 54, p. 635-640, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Integrated production and maintenance planning method with simulation-based optimization",
+          "autores": "TRISKA, YURI ; SOUSA AGOSTINO, ÍCARO ROMOLO ; PENNA, PABLO MEDEIROS ; BRAGHIROLLI, LYNCEO FALAVIGNA ; Frazzon, Enzo Morosini",
+          "periodico": "IFAC-PAPERSONLINE , v. 54, p. 349-354, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2021.08.160",
+          "citacao_completa": "TRISKA, YURI ; SOUSA AGOSTINO, ÍCARO ROMOLO ; PENNA, PABLO MEDEIROS ; BRAGHIROLLI, LYNCEO FALAVIGNA ; Frazzon, Enzo Morosini . Integrated production and maintenance planning method with simulation-based optimization. IFAC-PAPERSONLINE , v. 54, p. 349-354, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Contribution evaluation of the maintenance plans based on reliability centered maintenance for measuring instruments in Public Higher Education Institutions",
+          "autores": "ARENHART, RODRIGO SCHONS ; PIZZOLATO, MORGANA ; MENDES, ANGÉLICA ALEBRANT ; BRAGHIROLLI, LYNCEO",
+          "periodico": "BRAZILIAN JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT , v. 17, p. 1-16, 2020.",
+          "doi": "http://dx.doi.org/10.14488/bjopm.2020.020",
+          "citacao_completa": "ARENHART, RODRIGO SCHONS ; PIZZOLATO, MORGANA ; MENDES, ANGÉLICA ALEBRANT ; BRAGHIROLLI, LYNCEO . Contribution evaluation of the maintenance plans based on reliability centered maintenance for measuring instruments in Public Higher Education Institutions. BRAZILIAN JOURNAL OF OPERATIONS & PRODUCTION MANAGEMENT , v. 17, p. 1-16, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Use of the Lean Startup model in incubated companies",
+          "autores": "LOPES, G. F. ; BRAGHIROLLI, L. F. ;",
+          "periodico": "JOURNAL OF LEAN SYSTEMS , v. 5, p. 109-137, 2020.",
+          "doi": "",
+          "citacao_completa": "LOPES, G. F. ; BRAGHIROLLI, L. F. ; . Use of the Lean Startup model in incubated companies. JOURNAL OF LEAN SYSTEMS , v. 5, p. 109-137, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "How to develop IoT products: a technology company case study",
+          "autores": "; KLOPPEL, EDUARDO ALVES ; CAVALCANTE, CAROLINE GOBBO SÁ ; AVALONE, MARIANNE COSTA ; BRAGHIROLLI, LYNCEO FALAVIGNA",
+          "periodico": "PRODUCT: MANAGEMENT & DEVELOPMENT , v. 17, p. 96-101, 2019.",
+          "doi": "http://dx.doi.org/10.4322/pmd.2019.014",
+          "citacao_completa": "; KLOPPEL, EDUARDO ALVES ; CAVALCANTE, CAROLINE GOBBO SÁ ; AVALONE, MARIANNE COSTA ; BRAGHIROLLI, LYNCEO FALAVIGNA . How to develop IoT products: a technology company case study. PRODUCT: MANAGEMENT & DEVELOPMENT , v. 17, p. 96-101, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A computational intelligence approach to improve the efficiency of repair services in the smart grid context",
+          "autores": "; FALAVIGNA BRAGHIROLLI, LYNCEO ; HENRIQUE BARRIQUELLO, CARLOS ; PINHEIRO BERNARDON, DANIEL",
+          "periodico": "COMPUTERS & ELECTRICAL ENGINEERING , v. 70, p. 37-52, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.compeleceng.2018.05.016",
+          "citacao_completa": "; FALAVIGNA BRAGHIROLLI, LYNCEO ; HENRIQUE BARRIQUELLO, CARLOS ; PINHEIRO BERNARDON, DANIEL . A computational intelligence approach to improve the efficiency of repair services in the smart grid context. COMPUTERS & ELECTRICAL ENGINEERING , v. 70, p. 37-52, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "CONTRIBUIÇÕES DO MODELO DE EXCELÊNCIA EM GESTÃO (MEG) PARA LABORATÓRIOS DE INSTITUIÇÕES DE ENSINO SUPERIOR (IES) E A SUA RELAÇÃO COM A NORMA ABNT NBR ISO/IEC 17025",
+          "autores": "SILVA, THAIARA OLIVEIRA DA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; PIZZOLATO, MORGANA",
+          "periodico": "Exacta Revista do Departamento de Ciências Exatas e Tecnológicas do Uni BH , v. 11, p. 65-84, 2018.",
+          "doi": "http://dx.doi.org/10.18674/exacta.v11i1.2204",
+          "citacao_completa": "SILVA, THAIARA OLIVEIRA DA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; PIZZOLATO, MORGANA . CONTRIBUIÇÕES DO MODELO DE EXCELÊNCIA EM GESTÃO (MEG) PARA LABORATÓRIOS DE INSTITUIÇÕES DE ENSINO SUPERIOR (IES) E A SUA RELAÇÃO COM A NORMA ABNT NBR ISO/IEC 17025. Exacta Revista do Departamento de Ciências Exatas e Tecnológicas do Uni BH , v. 11, p. 65-84, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Barreiras na qualificação da manutenção em empresas de pequeno e médio porte do setor metal mecânico",
+          "autores": "OLIVEIRA, G. ; ; BRAGHIROLLI, L. F.",
+          "periodico": "Revista Eletrônica e-xacta , v. 15, p. 203-221, 2017.",
+          "doi": "http://dx.doi.org/10.5585/exactaep.v15n2.6406",
+          "citacao_completa": "OLIVEIRA, G. ; ; BRAGHIROLLI, L. F. . Barreiras na qualificação da manutenção em empresas de pequeno e médio porte do setor metal mecânico. Revista Eletrônica e-xacta , v. 15, p. 203-221, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Benefits of educational games as an introductory activity in industrial engineering education",
+          "autores": "BRAGHIROLLI, LYNCEO FALAVIGNA ; RIBEIRO, JOSÉ LUIS DUARTE ; WEISE, ANDREAS DITTMAR ; PIZZOLATO, MORGANA",
+          "periodico": "COMPUTERS IN HUMAN BEHAVIOR , v. 58, p. 315-324, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.chb.2015.12.063",
+          "citacao_completa": "BRAGHIROLLI, LYNCEO FALAVIGNA ; RIBEIRO, JOSÉ LUIS DUARTE ; WEISE, ANDREAS DITTMAR ; PIZZOLATO, MORGANA . Benefits of educational games as an introductory activity in industrial engineering education. COMPUTERS IN HUMAN BEHAVIOR , v. 58, p. 315-324, 2016."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Perdas dos sistemas produtivos: uma estrutura metodológica para seu ensino",
+          "autores": "BRAGHIROLLI, L. F. ;",
+          "periodico": "Revista de Ensino de Engenharia , v. 28, p. 40-53, 2009.",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; . Perdas dos sistemas produtivos: uma estrutura metodológica para seu ensino. Revista de Ensino de Engenharia , v. 28, p. 40-53, 2009."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Integrated Production and Maintenance Planning: A Systematic Literature Review",
+          "autores": "de Souza, Nicollas Luiz Schweitzer ; Mendes, Lúcio Galvão ; Rovaris, Eugênio Strassburguer ; Frazzon, Enzo Morosini ; BRAGHIROLLI, LYNCEO FALAVIGNA",
+          "periodico": "In: Rossit, D.A.; Tohmé, F.; Mejía Delgadillo, G.. (Org.). Communications in Computer and Information Science. 1ed.: Springer International Publishing, 2021, v. 1407, p. 342-356.",
+          "doi": "http://dx.doi.org/10.1007/978-3-030-76307-7_26",
+          "citacao_completa": "de Souza, Nicollas Luiz Schweitzer ; Mendes, Lúcio Galvão ; Rovaris, Eugênio Strassburguer ; Frazzon, Enzo Morosini ; BRAGHIROLLI, LYNCEO FALAVIGNA . Integrated Production and Maintenance Planning: A Systematic Literature Review. In: Rossit, D.A.; Tohmé, F.; Mejía Delgadillo, G.. (Org.). Communications in Computer and Information Science. 1ed.: Springer International Publishing, 2021, v. 1407, p. 342-356."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Operations Planning",
+          "autores": "BRAGHIROLLI, L. F. ; ; FONINI, J.",
+          "periodico": "In: Bernardon, Daniel Pinheiro; Garcia, Vinícius Jacques. (Org.). Smart Operation for Power Distribution Systems: Concepts and Applications. 1ed.: Springer, 2018, v. , p. 117-132.",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ; FONINI, J. . Operations Planning. In: Bernardon, Daniel Pinheiro; Garcia, Vinícius Jacques. (Org.). Smart Operation for Power Distribution Systems: Concepts and Applications. 1ed.: Springer, 2018, v. , p. 117-132."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Finanças comportamentais: um estudo bibliométrico nas revistas científicas nacionais",
+          "autores": "CEREZER, B. F. ; MACAGNAN, A. M. ; ; BRAGHIROLLI, L. F.",
+          "periodico": "In: Lodonha Maria Portela Coimbra Soares; Maria Carolina da Rosa Gullo; Silvio Luiz Gonçalves Vianna. (Org.). A economia e o turismo compartilhando soluções. 1ed.Caxias do Sul: Educs, 2017, v. , p. 320-336.",
+          "doi": "",
+          "citacao_completa": "CEREZER, B. F. ; MACAGNAN, A. M. ; ; BRAGHIROLLI, L. F. . Finanças comportamentais: um estudo bibliométrico nas revistas científicas nacionais. In: Lodonha Maria Portela Coimbra Soares; Maria Carolina da Rosa Gullo; Silvio Luiz Gonçalves Vianna. (Org.). A economia e o turismo compartilhando soluções. 1ed.Caxias do Sul: Educs, 2017, v. , p. 320-336."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Resource Planning to Service Restoration in Power Distribution Systems",
+          "autores": "SCHMITZ, M. ; SILVA, M. C. F. A. ; ; BERNARDON, D. P. ; BRAGHIROLLI, L. F. ; FONINI, J.",
+          "periodico": "In: Constantin Volosencu. (Org.). System Reliability. 1ed.: InTech, 2017, v. , p. 317-333.",
+          "doi": "",
+          "citacao_completa": "SCHMITZ, M. ; SILVA, M. C. F. A. ; ; BERNARDON, D. P. ; BRAGHIROLLI, L. F. ; FONINI, J. . Resource Planning to Service Restoration in Power Distribution Systems. In: Constantin Volosencu. (Org.). System Reliability. 1ed.: InTech, 2017, v. , p. 317-333."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Práticas pedagógicas integradoras e tecnologias para o ensino de engenharia",
+          "autores": "PAULA, I. C. ; SANTOS, B. S. ; KORMAN, R. F. ; MOREIRA, A. F. ; MAGALHAES, A. L. C. C. ; FERREIRA, A. D. ; DANTAS, A. L. P. ; RITTER, C. E. T. ; CATEN, C. S. T. ; JUNG, C. F. ; SACCHELLI, C. M. ; SENA, C. P. P. ; MORTIMER, E. F. ; SANTOS, E. P. ; GUIMARAES, F. G. ; SPORKET, F. ; PINTO, G. R. P. R. ; BOESING, I. J. ; ROSA, J. A. ; BRAGHIROLLI, L. F. ; et.al",
+          "periodico": "In: Vanderli Fava de Oliveira; Marcos José Tozzi; Liane Ludwig Loder. (Org.). Desafios da educação em engenharia: formação em engenharia, capacitação docente, experiências metodológicas e proposições. 1ed.Brasília: ABENGE, 2014, v. , p. 153-231.",
+          "doi": "",
+          "citacao_completa": "PAULA, I. C. ; SANTOS, B. S. ; KORMAN, R. F. ; MOREIRA, A. F. ; MAGALHAES, A. L. C. C. ; FERREIRA, A. D. ; DANTAS, A. L. P. ; RITTER, C. E. T. ; CATEN, C. S. T. ; JUNG, C. F. ; SACCHELLI, C. M. ; SENA, C. P. P. ; MORTIMER, E. F. ; SANTOS, E. P. ; GUIMARAES, F. G. ; SPORKET, F. ; PINTO, G. R. P. R. ; BOESING, I. J. ; ROSA, J. A. ; BRAGHIROLLI, L. F. ; et.al . Práticas pedagógicas integradoras e tecnologias para o ensino de engenharia. In: Vanderli Fava de Oliveira; Marcos José Tozzi; Liane Ludwig Loder. (Org.). Desafios da educação em engenharia: formação em engenharia, capacitação docente, experiências metodológicas e proposições. 1ed.Brasília: ABENGE, 2014, v. , p. 153-231."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Revisão sistemática da literatura sobre gestão de estoques e backlogging em serviços de campo",
+          "autores": "RODRIGUES, S. D. ; DELGADILLO, M. S. L. ; MOREIRA, G. R. ; KLEIN, A. ; SCHMIDT, J. F. ; BRAGHIROLLI, L. F. ; ; BERNARDON, D. P. ; CASTRO, L. G. F. ; SILVA, K. M. S.",
+          "periodico": "In: LVII Simpósio Brasileiro de Pesquisa Operacional, 2025, Gramado. Desafios para a Inovação Sustentável e Energias Eficientes, 2025.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, S. D. ; DELGADILLO, M. S. L. ; MOREIRA, G. R. ; KLEIN, A. ; SCHMIDT, J. F. ; BRAGHIROLLI, L. F. ; ; BERNARDON, D. P. ; CASTRO, L. G. F. ; SILVA, K. M. S. . Revisão sistemática da literatura sobre gestão de estoques e backlogging em serviços de campo. In: LVII Simpósio Brasileiro de Pesquisa Operacional, 2025, Gramado. Desafios para a Inovação Sustentável e Energias Eficientes, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modelo para balancemanto de capacidade e demanda aplicado na gestão de equipes técnicas de uma concessionária de energia elétrica",
+          "autores": "DELGADILLO, M. S. L. ; RODRIGUES, S. D. ; MOREIRA, G. R. ; KLEIN, A. ; BRAGHIROLLI, L. F. ; ; CASTRO, L. G. F. ; SILVA, K. M. S. ; SCHMIDT, J. F. ; BERNARDON, D. P.",
+          "periodico": "In: LVII Simpósio Brasileiro de Pesquisa Operacional, 2025, Gramado. Desafios para a Inovação Sustentável e Energias Eficientes, 2025.",
+          "doi": "",
+          "citacao_completa": "DELGADILLO, M. S. L. ; RODRIGUES, S. D. ; MOREIRA, G. R. ; KLEIN, A. ; BRAGHIROLLI, L. F. ; ; CASTRO, L. G. F. ; SILVA, K. M. S. ; SCHMIDT, J. F. ; BERNARDON, D. P. . Modelo para balancemanto de capacidade e demanda aplicado na gestão de equipes técnicas de uma concessionária de energia elétrica. In: LVII Simpósio Brasileiro de Pesquisa Operacional, 2025, Gramado. Desafios para a Inovação Sustentável e Energias Eficientes, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Allocation of field service technicians considering backlog management using a Mixed Integer Linear Programming approach in an electric power utility",
+          "autores": "DELGADILLO, M. S. L. ; ; BRAGHIROLLI, L. F. ; RODRIGUES, S. D. ; MOREIRA, G. R. ; CASTRO, L. G. F.",
+          "periodico": "In: IEEE PES Innovative Smart Grid Technologies Latin America, 2025, Cidade do Panamá. Redefining Energy: Smart, Renewable & Connected, 2025.",
+          "doi": "",
+          "citacao_completa": "DELGADILLO, M. S. L. ; ; BRAGHIROLLI, L. F. ; RODRIGUES, S. D. ; MOREIRA, G. R. ; CASTRO, L. G. F. . Allocation of field service technicians considering backlog management using a Mixed Integer Linear Programming approach in an electric power utility. In: IEEE PES Innovative Smart Grid Technologies Latin America, 2025, Cidade do Panamá. Redefining Energy: Smart, Renewable & Connected, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "FORMULAÇÃO DE INDICADORES PARA AVALIAR A EFICIÊNCIA DO BACKLOG NA ALOCAÇÃO DE TÉCNICOS EM CONCESSIONÁRIAS DE ENERGIA ELÉTRICA",
+          "autores": "DELGADILLO, MARIA SOFIA LUNA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; RODRIGUES, STEFANE DIAS ; SCHMIDT, JOÃO FELIPE ; SILVA, KARLEN MAURA DE SOUZA",
+          "periodico": "In: ENEGEP 2025 Encontro Nacional de Engenharia de Produção, 2025, NATAL/RN - BRASIL, 2025.",
+          "doi": "http://dx.doi.org/10.14488/ENEGEP2025_TN_WPG_429_2104_50565",
+          "citacao_completa": "DELGADILLO, MARIA SOFIA LUNA ; BRAGHIROLLI, LYNCEO FALAVIGNA ; RODRIGUES, STEFANE DIAS ; SCHMIDT, JOÃO FELIPE ; SILVA, KARLEN MAURA DE SOUZA . FORMULAÇÃO DE INDICADORES PARA AVALIAR A EFICIÊNCIA DO BACKLOG NA ALOCAÇÃO DE TÉCNICOS EM CONCESSIONÁRIAS DE ENERGIA ELÉTRICA. In: ENEGEP 2025 Encontro Nacional de Engenharia de Produção, 2025, NATAL/RN - BRASIL, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Enfoque matemático para optimizar la atención de órdenes de servicio en concesionarios de distribución de electricidad",
+          "autores": "DELGADILLO, MARIA SOFIA LUNA ; RODRIGUES, STEFANE DIAS ; FONINI, JULIO SCHENATO ; BRAGHIROLLI, LYNCEO FALAVIGNA ; GARCIA, VINICIUS JACQUES",
+          "periodico": "In: ENEGEP 2024 Encontro Nacional de Engenharia de Produção, 2024, PORTO ALEGRE/RS - BRASIL, 2024.",
+          "doi": "http://dx.doi.org/10.14488/enegep2024_tn_wpg_411_2014_47966",
+          "citacao_completa": "DELGADILLO, MARIA SOFIA LUNA ; RODRIGUES, STEFANE DIAS ; FONINI, JULIO SCHENATO ; BRAGHIROLLI, LYNCEO FALAVIGNA ; GARCIA, VINICIUS JACQUES . Enfoque matemático para optimizar la atención de órdenes de servicio en concesionarios de distribución de electricidad. In: ENEGEP 2024 Encontro Nacional de Engenharia de Produção, 2024, PORTO ALEGRE/RS - BRASIL, 2024."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Title: Statistical Evaluation Of Emergency Service Demand In Electric Power Distribution Utilities",
+          "autores": "DE OLIVEIRA DA SILVA, GUILHERME ; ; FALAVIGNA BRAGHIROLLI, LYNCEO",
+          "periodico": "In: 32nd Conference on Modelling and Simulation, 2018, Wilhelmshaven. ECMS 2018 Proceedings edited by Lars Nolle, Alexandra Burger, Christoph Tholen, Jens Werner, Jens Wellhausen, 2018. p. 89.",
+          "doi": "http://dx.doi.org/10.7148/2018-0089",
+          "citacao_completa": "DE OLIVEIRA DA SILVA, GUILHERME ; ; FALAVIGNA BRAGHIROLLI, LYNCEO . Title: Statistical Evaluation Of Emergency Service Demand In Electric Power Distribution Utilities. In: 32nd Conference on Modelling and Simulation, 2018, Wilhelmshaven. ECMS 2018 Proceedings edited by Lars Nolle, Alexandra Burger, Christoph Tholen, Jens Werner, Jens Wellhausen, 2018. p. 89."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Definição de critérios e controle adaptativo AHP para o roteamento de ordens emergenciais, técnicas e comerciais",
+          "autores": "SCHMITZ, M. ; BERNARDON, D. P. ; ; MILBRADT, R. G. ; BARRIQUELLO, C. H. ; BRAGHIROLLI, L. F.",
+          "periodico": "In: XVII Encuentro Regional Iberoamericano del CIGRE - XVII ERIAC, 2017, Ciudad del Este. XVII Encuentro Regional Iberoamericano del CIGRE, 2017.",
+          "doi": "",
+          "citacao_completa": "SCHMITZ, M. ; BERNARDON, D. P. ; ; MILBRADT, R. G. ; BARRIQUELLO, C. H. ; BRAGHIROLLI, L. F. . Definição de critérios e controle adaptativo AHP para o roteamento de ordens emergenciais, técnicas e comerciais. In: XVII Encuentro Regional Iberoamericano del CIGRE - XVII ERIAC, 2017, Ciudad del Este. XVII Encuentro Regional Iberoamericano del CIGRE, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Modelo combinado de suavização exponencial com correção de espaço de estado e metodologia box-Jenkins para previsão de vendas de imóveis residenciais de São Paulo",
+          "autores": "MORO, M. F. ; ; BORTOLOTTI, S. L. V. ; ; BRAGHIROLLI, L.",
+          "periodico": "In: XXXVII Encontro Nacional de Engenharia de Produção, 2017, Joinville. XXXVII Encontro Nacional de Engenharia de Produção, 2017.",
+          "doi": "",
+          "citacao_completa": "MORO, M. F. ; ; BORTOLOTTI, S. L. V. ; ; BRAGHIROLLI, L. . Modelo combinado de suavização exponencial com correção de espaço de estado e metodologia box-Jenkins para previsão de vendas de imóveis residenciais de São Paulo. In: XXXVII Encontro Nacional de Engenharia de Produção, 2017, Joinville. XXXVII Encontro Nacional de Engenharia de Produção, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Uma análise do investidor santa-mariense e o seu conhecimento acerca dos investimentos indicados para o seu perfil",
+          "autores": "CEREZER, B. F. ; MACAGNAN, A. M. ; ; BRAGHIROLLI, L. F. ; MEDEIROS, F. S. B.",
+          "periodico": "In: XVI Encontro Sobre os Aspectos Econômicos e Sociais da Região Nordeste do RS - XVI ESAES, 2017, Caxias do Sul. XVI Encontro Sobre os Aspectos Econômicos e Sociais da Região Nordeste do RS, 2017.",
+          "doi": "",
+          "citacao_completa": "CEREZER, B. F. ; MACAGNAN, A. M. ; ; BRAGHIROLLI, L. F. ; MEDEIROS, F. S. B. . Uma análise do investidor santa-mariense e o seu conhecimento acerca dos investimentos indicados para o seu perfil. In: XVI Encontro Sobre os Aspectos Econômicos e Sociais da Região Nordeste do RS - XVI ESAES, 2017, Caxias do Sul. XVI Encontro Sobre os Aspectos Econômicos e Sociais da Região Nordeste do RS, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Atendimento de ordens emergenciais: uma aplicação baseada em programação linear inteira para o problema multiobjetivo de latência mínima com m-veículos",
+          "autores": "; BERNARDON, D. P. ; SCHMITZ, M. ; BRAGHIROLLI, L. F. ; MULLER, F. M. ; FONINI, J.",
+          "periodico": "In: XLVIII SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2016, Vitória-ES. Anais do XLVIII SBPO, 2016. p. 830-841.",
+          "doi": "",
+          "citacao_completa": "; BERNARDON, D. P. ; SCHMITZ, M. ; BRAGHIROLLI, L. F. ; MULLER, F. M. ; FONINI, J. . Atendimento de ordens emergenciais: uma aplicação baseada em programação linear inteira para o problema multiobjetivo de latência mínima com m-veículos. In: XLVIII SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2016, Vitória-ES. Anais do XLVIII SBPO, 2016. p. 830-841."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Análise do desempenho dos fundos de investimentos imobiliários de renda AGCX11, BBPO11e BBRC11",
+          "autores": "STERTZ, E. S. ; ; PIVETTA, F. R. ; ; BRAGHIROLLI, L.",
+          "periodico": "In: V CONGRESSO BRASILEIRO DE ENGENHARIA DE PRODUÇÃO, 2015, Ponta Grossa. V CONGRESSO BRASILEIRO DE ENGENHARIA DE PRODUÇÃO, 2015.",
+          "doi": "",
+          "citacao_completa": "STERTZ, E. S. ; ; PIVETTA, F. R. ; ; BRAGHIROLLI, L. . Análise do desempenho dos fundos de investimentos imobiliários de renda AGCX11, BBPO11e BBRC11. In: V CONGRESSO BRASILEIRO DE ENGENHARIA DE PRODUÇÃO, 2015, Ponta Grossa. V CONGRESSO BRASILEIRO DE ENGENHARIA DE PRODUÇÃO, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Jogos educacionais e teorias de aprendizagem",
+          "autores": "BRAGHIROLLI, L. F. ; ;",
+          "periodico": "In: I Simpósio Internacional de Games, Mundos Virtuais e Tecnologias na Educação, 2014, Santa Maria. I Simpósio internacional de Games, Mundos Virtuais e Tecnologias na Educação. Santa Maria: Universidade Federal de Santa Maria, 2014. p. 87-91.",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ; . Jogos educacionais e teorias de aprendizagem. In: I Simpósio Internacional de Games, Mundos Virtuais e Tecnologias na Educação, 2014, Santa Maria. I Simpósio internacional de Games, Mundos Virtuais e Tecnologias na Educação. Santa Maria: Universidade Federal de Santa Maria, 2014. p. 87-91."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Projeto de Terminais Intermodais de Carga: um Método Utilizando Ferramentas de Simulação",
+          "autores": "FERREIRA, F. F. ; BRAGHIROLLI, L. F. ; ALBANO, J. F. ; PASA, G. S.",
+          "periodico": "In: ANPET, 2008. XXII Congresso de Pesquisa e Ensino em Trasnportes, 2008.",
+          "doi": "",
+          "citacao_completa": "FERREIRA, F. F. ; BRAGHIROLLI, L. F. ; ALBANO, J. F. ; PASA, G. S. . Projeto de Terminais Intermodais de Carga: um Método Utilizando Ferramentas de Simulação. In: ANPET, 2008. XXII Congresso de Pesquisa e Ensino em Trasnportes, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "A Manufatura Enxuta Aplicada no Setor de Serviços: um Estudo de Caso",
+          "autores": "; TUBINO, D. F. ; SEIBEL, S. ; BRAGHIROLLI, L. F. ; ; MACHADO, M. G.",
+          "periodico": "In: ENEGEP, 2007, Foz do Iguaçu. XXVII Encontro Nacional de Engenharia de Produção. Rio de Janeiro: ABEPRO, 2007.",
+          "doi": "",
+          "citacao_completa": "; TUBINO, D. F. ; SEIBEL, S. ; BRAGHIROLLI, L. F. ; ; MACHADO, M. G. . A Manufatura Enxuta Aplicada no Setor de Serviços: um Estudo de Caso. In: ENEGEP, 2007, Foz do Iguaçu. XXVII Encontro Nacional de Engenharia de Produção. Rio de Janeiro: ABEPRO, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Simulação Numérica do Processo de Segregação Gravitacional usando o Método de Volumes Finitos baseado em Elementos",
+          "autores": "BRAGHIROLLI, L. F. ; CORDAZZO, J. ; SILVA, A. F. C. ; ; LASLO, P. A. M.",
+          "periodico": "In: Rio Oil & Gas 2006 Expo and Conference, 2006, Rio de Janeiro. CD Anais do Rio Oil & Gas 2006 Expo and Conference, 2006.",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; CORDAZZO, J. ; SILVA, A. F. C. ; ; LASLO, P. A. M. . Simulação Numérica do Processo de Segregação Gravitacional usando o Método de Volumes Finitos baseado em Elementos. In: Rio Oil & Gas 2006 Expo and Conference, 2006, Rio de Janeiro. CD Anais do Rio Oil & Gas 2006 Expo and Conference, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Comparation between Solvers Used in Additive Correction Multigrid Method with Unstructured Grids",
+          "autores": "KELLER, S. C. ; CORDAZZO, J. ; ; BRAGHIROLLI, L. F.",
+          "periodico": "In: 11th Brazilian Congress of Thermal Sciences and Engineering -- ENCIT 2006, 2006, Curitiba - PR. Proceedings of the 11th Brazilian Congress of Thermal Sciences and Engineering -- ENCIT 2006, 2006.",
+          "doi": "",
+          "citacao_completa": "KELLER, S. C. ; CORDAZZO, J. ; ; BRAGHIROLLI, L. F. . Comparation between Solvers Used in Additive Correction Multigrid Method with Unstructured Grids. In: 11th Brazilian Congress of Thermal Sciences and Engineering -- ENCIT 2006, 2006, Curitiba - PR. Proceedings of the 11th Brazilian Congress of Thermal Sciences and Engineering -- ENCIT 2006, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Perfil do investidor: uma análise comparativa entre os investidores em fundos de investimentos imobiliários e os demais investidores",
+          "autores": "CEREZER, B. F. ; ; BRAGHIROLLI, L. F. ; MACAGNAN, A. M.",
+          "periodico": "In: 31º Jornada Acadêmica Integrada, 2016, Santa Maria. 31º Jornada Acadêmica Integrada, 2016.",
+          "doi": "",
+          "citacao_completa": "CEREZER, B. F. ; ; BRAGHIROLLI, L. F. ; MACAGNAN, A. M. . Perfil do investidor: uma análise comparativa entre os investidores em fundos de investimentos imobiliários e os demais investidores. In: 31º Jornada Acadêmica Integrada, 2016, Santa Maria. 31º Jornada Acadêmica Integrada, 2016."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Jogos educacionais e teorias de aprendizagem",
+          "autores": "BRAGHIROLLI, L. F.",
+          "periodico": "2014. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. . Jogos educacionais e teorias de aprendizagem. 2014. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Tecnologias integradoras aplicadas ao ensino de graduação",
+          "autores": "BRAGHIROLLI, L. F.",
+          "periodico": "2013. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. . Tecnologias integradoras aplicadas ao ensino de graduação. 2013. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Simulador de manufatura - Pizzaria",
+          "autores": "; BRAGHIROLLI, L. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "; BRAGHIROLLI, L. F. . Simulador de manufatura - Pizzaria. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Simulador de serviços - Hotel",
+          "autores": "; ; BRAGHIROLLI, L. F.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Simulador de serviços - Hotel. 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Simulador de manufatura - Fábrica de sucos",
+          "autores": "; BRAGHIROLLI, L. F.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "; BRAGHIROLLI, L. F. . Simulador de manufatura - Fábrica de sucos. 2013."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Modelo de previsão de demanda de ordens de manutenção emergenciais baseada em fatores climáticos em um sistema de distribuição de energia elétrica",
+          "membros": "; ROSA, C. B.; BRAGHIROLLI, L. F.",
+          "candidato": "Lucas Machado Basso",
+          "citacao_completa": "; ROSA, C. B.; BRAGHIROLLI, L. F. . Participação em banca de Lucas Machado Basso. Modelo de previsão de demanda de ordens de manutenção emergenciais baseada em fatores climáticos em um sistema de distribuição de energia elétrica. 2020. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Planejamento de capacidade com incerteza na demanda em unidades de distribuição de energia elétrica",
+          "membros": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F.",
+          "candidato": "Guilherme de Oliveira da Silva",
+          "citacao_completa": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F. . Participação em banca de Guilherme de Oliveira da Silva. Planejamento de capacidade com incerteza na demanda em unidades de distribuição de energia elétrica. 2019. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Abordagem para contribuição da tomada de decisão relacionada à operação do sistema de distribuição frente às interrupções e longa duração",
+          "membros": "; BERNARDON, D. P.; BRAGHIROLLI, L. F.",
+          "candidato": "Maria Clara Ferreira Almeida da Silva",
+          "citacao_completa": "; BERNARDON, D. P.; BRAGHIROLLI, L. F. . Participação em banca de Maria Clara Ferreira Almeida da Silva. Abordagem para contribuição da tomada de decisão relacionada à operação do sistema de distribuição frente às interrupções e longa duração. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Descrição do horizonte de tempo no ingresso de serviços comerciais regulatórios de ligação nova sem obra após a execução de corte comercial em unidades consumidoras de concessionárias de energia elétrica",
+          "membros": "; BERNARDON, D. P.; BRAGHIROLLI, L. F.",
+          "candidato": "Marcelo Conte",
+          "citacao_completa": "; BERNARDON, D. P.; BRAGHIROLLI, L. F. . Participação em banca de Marcelo Conte. Descrição do horizonte de tempo no ingresso de serviços comerciais regulatórios de ligação nova sem obra após a execução de corte comercial em unidades consumidoras de concessionárias de energia elétrica. 2018. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Alocação e programação de pessoal de manutenção em uma empresa do setor elétrico: um estudo de caso",
+          "membros": "; ; BRAGHIROLLI, L. F.",
+          "candidato": "Stéphanie Oliveira Ames",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Participação em banca de Stéphanie Oliveira Ames. Alocação e programação de pessoal de manutenção em uma empresa do setor elétrico: um estudo de caso. 2018. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Heurística matemática para resposta emergencial no sistema de distribuição de energia elétrica com ilhamento imprevisto",
+          "membros": "BERNARDON, D. P.; ; MADRUGA, E. P.; BRAGHIROLLI, L. F.",
+          "candidato": "Magdiel Schmitz",
+          "citacao_completa": "BERNARDON, D. P.; ; MADRUGA, E. P.; BRAGHIROLLI, L. F. . Participação em banca de Magdiel Schmitz. Heurística matemática para resposta emergencial no sistema de distribuição de energia elétrica com ilhamento imprevisto. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Estratégias de segmentação e agrupamento de ordens de serviço em concessionárias de energia elétrica",
+          "membros": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F.",
+          "candidato": "Leonardo Marques Caires",
+          "citacao_completa": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F. . Participação em banca de Leonardo Marques Caires. Estratégias de segmentação e agrupamento de ordens de serviço em concessionárias de energia elétrica. 2017. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Modelo híbrido de séries temporais para previsão de demanda do mercado imobiliário de São Paulo",
+          "membros": "; ; BRAGHIROLLI, L. F.",
+          "candidato": "Matheus Fernando Moro",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Participação em banca de Matheus Fernando Moro. Modelo híbrido de séries temporais para previsão de demanda do mercado imobiliário de São Paulo. 2017. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Viabilidade econômica da adaptação de um hospital público para obtenção de uma certificação ambiental",
+          "membros": "; MEDEIROS, D. R.; BRAGHIROLLI, L. F.",
+          "candidato": "Camila Candida Compagnoni dos Reis",
+          "citacao_completa": "; MEDEIROS, D. R.; BRAGHIROLLI, L. F. . Participação em banca de Camila Candida Compagnoni dos Reis. Viabilidade econômica da adaptação de um hospital público para obtenção de uma certificação ambiental. 2017. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Metodologia estocástica para modelar a gestão de serviço",
+          "membros": "; BERNARDON, D. P.; BRAGHIROLLI, L. F.",
+          "candidato": "Iochane Garcia Guimarães",
+          "citacao_completa": "; BERNARDON, D. P.; BRAGHIROLLI, L. F. . Participação em banca de Iochane Garcia Guimarães. Metodologia estocástica para modelar a gestão de serviço. 2016. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Avaliação da orientação empreendedora social: uma nova perspectiva segundo o modelo de maturidade",
+          "membros": "BOBSIN, D.; BRAGHIROLLI, L. F. ; PEREIRA, G. M.; MARCONATTO, D. A. B.",
+          "candidato": "Maurício Nunes Macedo de Carvalho",
+          "citacao_completa": "BOBSIN, D.; BRAGHIROLLI, L. F. ; PEREIRA, G. M.; MARCONATTO, D. A. B.. Participação em banca de Maurício Nunes Macedo de Carvalho. Avaliação da orientação empreendedora social: uma nova perspectiva segundo o modelo de maturidade. 2020. Tese (Doutorado em Engenharia de Produção e Sistemas) - Universidade do Vale do Rio dos Sinos."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Avaliação das capacidades dinâmicas através de técnicas de Business Analytics",
+          "membros": "; FRANK, A. G.; MULLER, C. J.; BRAGHIROLLI, L. F.",
+          "candidato": "Jonatas Ost Scherer",
+          "citacao_completa": "; FRANK, A. G.; MULLER, C. J.; BRAGHIROLLI, L. F. . Participação em banca de Jonatas Ost Scherer. Avaliação das capacidades dinâmicas através de técnicas de Business Analytics. 2017. Tese (Doutorado em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Avaliação de impacto social: uma nova perspectiva segundo o modelo de maturidade de processos em empresas sociais",
+          "membros": "BORCHARDT, M.; MARCONATTO, D. A. B.; PEREIRA, G. M.; BRAGHIROLLI, L. F.",
+          "candidato": "Mauricio Nunes Macedo de Carvalho",
+          "citacao_completa": "BORCHARDT, M.; MARCONATTO, D. A. B.; PEREIRA, G. M.; BRAGHIROLLI, L. F. . Participação em banca de Mauricio Nunes Macedo de Carvalho. Avaliação de impacto social: uma nova perspectiva segundo o modelo de maturidade de processos em empresas sociais. 2018. Exame de qualificação (Doutorando em Engenharia de Produção e Sistemas) - Universidade do Vale do Rio dos Sinos."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Modelo para aplicação de técnicas de Business Analytics (BA) no processo de inovação",
+          "membros": "; FRANK, A. G.; BRAGHIROLLI, L. F.",
+          "candidato": "Jonatas Ost Scherer",
+          "citacao_completa": "; FRANK, A. G.; BRAGHIROLLI, L. F. . Participação em banca de Jonatas Ost Scherer. Modelo para aplicação de técnicas de Business Analytics (BA) no processo de inovação. 2016. Exame de qualificação (Doutorando em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Previsão de demanda de ordens de manutenção emergenciais baseada em fatores climáticos em um sistema de distribuição de energia elétrica",
+          "membros": "; ; BRAGHIROLLI, L. F.",
+          "candidato": "Lucas Machado Basso",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Participação em banca de Lucas Machado Basso. Previsão de demanda de ordens de manutenção emergenciais baseada em fatores climáticos em um sistema de distribuição de energia elétrica. 2019. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Teoria das filas para avaliação de desempenho de um sistema de atendimento de serviços no setor de distribuição de energia elétrica.",
+          "membros": "; BRAGHIROLLI, L. F. ; GONZALEZ, J. F. V.",
+          "candidato": "Guilherme de Oliveira da Silva",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; GONZALEZ, J. F. V.. Participação em banca de Guilherme de Oliveira da Silva. Teoria das filas para avaliação de desempenho de um sistema de atendimento de serviços no setor de distribuição de energia elétrica.. 2018. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Análise e diagnóstico da atipicidade no atendimento de serviços em concessionárias de distribuição de energia elétrica",
+          "membros": "; BRAGHIROLLI, L. F. ; GONZALEZ, J. F. V.",
+          "candidato": "Marcelo Conte",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; GONZALEZ, J. F. V.. Participação em banca de Marcelo Conte. Análise e diagnóstico da atipicidade no atendimento de serviços em concessionárias de distribuição de energia elétrica. 2017. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Análise de influência dos dados econômicos nos custos de aluguel residencial no mercado de São Paulo",
+          "membros": "; BRAGHIROLLI, L. F. ; HORNBURG, R. A.",
+          "candidato": "Juliane de Freitas Battisti",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; HORNBURG, R. A.. Participação em banca de Juliane de Freitas Battisti. Análise de influência dos dados econômicos nos custos de aluguel residencial no mercado de São Paulo. 2017. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Modelo de previsão de demanda para o mercado imobiliário de São Paulo",
+          "membros": "; BORTOLOTTI, S. L. V.; ; BRAGHIROLLI, L. F.",
+          "candidato": "Matheus Fernando Moro",
+          "citacao_completa": "; BORTOLOTTI, S. L. V.; ; BRAGHIROLLI, L. F. . Participação em banca de Matheus Fernando Moro. Modelo de previsão de demanda para o mercado imobiliário de São Paulo. 2016. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Viabilidade econômica da adaptação de um hospital público para obtenção de uma certificação ambiental",
+          "membros": "; BRAGHIROLLI, L. F. ; MEDEIROS, D. R.",
+          "candidato": "Camila Compagnoni dos Reis",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; MEDEIROS, D. R.. Participação em banca de Camila Compagnoni dos Reis. Viabilidade econômica da adaptação de um hospital público para obtenção de uma certificação ambiental. 2016. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Estratégias de segmentação e agrupamento de ordens de serviço em concessionárias de energia elétrica",
+          "membros": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F.",
+          "candidato": "Leonardo Marques Caires",
+          "citacao_completa": "; GONZALEZ, J. F. V.; BRAGHIROLLI, L. F. . Participação em banca de Leonardo Marques Caires. Estratégias de segmentação e agrupamento de ordens de serviço em concessionárias de energia elétrica. 2016. Exame de qualificação (Mestrando em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": ".Difusão da geração de energia por meio de biogás no Brasil: um estudo prospectivo",
+          "membros": "BRAGHIROLLI, L. F.",
+          "candidato": "Tiago Fontão Alexandre",
+          "citacao_completa": "BRAGHIROLLI, L. F. . Participação em banca de Tiago Fontão Alexandre.Difusão da geração de energia por meio de biogás no Brasil: um estudo prospectivo. 2019 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Comparação economia e financeira de duas técnicas de pavimentação ? rígido e flexível ? para a rodovia BR-470/SC",
+          "membros": "; BRAGHIROLLI, L. F.",
+          "candidato": "Arivan Rodrigues Zanluca",
+          "citacao_completa": "; BRAGHIROLLI, L. F. . Participação em banca de Arivan Rodrigues Zanluca.Comparação economia e financeira de duas técnicas de pavimentação ? rígido e flexível ? para a rodovia BR-470/SC. 2019 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Teste de indicadores econômicofinanceiros para gestão ativa de portfólio de ações",
+          "membros": "BRAGHIROLLI, L. F.",
+          "candidato": "Vinicius Correa de Araujo Filho",
+          "citacao_completa": "BRAGHIROLLI, L. F. . Participação em banca de Vinicius Correa de Araujo Filho.Teste de indicadores econômicofinanceiros para gestão ativa de portfólio de ações. 2019 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estruturação do método ABC em uma empresa de microfundição",
+          "membros": "; MIORANDO, R. F.; BRAGHIROLLI, L. F.",
+          "candidato": "Pedro Augusto Diniz Manso",
+          "citacao_completa": "; MIORANDO, R. F.; BRAGHIROLLI, L. F. . Participação em banca de Pedro Augusto Diniz Manso.Estruturação do método ABC em uma empresa de microfundição. 2019 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Análise econômica da estratégia de cupom de desconto online em franquias utilizando simulação de Monte Carlo",
+          "membros": "; BRAGHIROLLI, L. F. ; SCHRIPPE, P.",
+          "candidato": "Bianca Thume",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; SCHRIPPE, P.. Participação em banca de Bianca Thume.Análise econômica da estratégia de cupom de desconto online em franquias utilizando simulação de Monte Carlo. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Reformulação de plano amostral para caracterização de produto de entrada em uma empresa de fruticultura",
+          "membros": "; BRAGHIROLLI, L. F. ; BATTESINI, M.",
+          "candidato": "Marcos Laurindo Dal Piaz",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; BATTESINI, M.. Participação em banca de Marcos Laurindo Dal Piaz.Reformulação de plano amostral para caracterização de produto de entrada em uma empresa de fruticultura. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Análise prospectiva de redes inteligentes no Brasil: uma abordagem de dinâmica de sistemas",
+          "membros": "MALDONADO, M. U.; BRAGHIROLLI, L. F. ; SILVA, E. F.",
+          "candidato": "Elson Vieira de Arruda Junior",
+          "citacao_completa": "MALDONADO, M. U.; BRAGHIROLLI, L. F. ; SILVA, E. F.. Participação em banca de Elson Vieira de Arruda Junior.Análise prospectiva de redes inteligentes no Brasil: uma abordagem de dinâmica de sistemas. 2018 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Análise dos custos de produção de uma microempresa de polpas de frutas",
+          "membros": "MIORANDO, R. F.; BRAGHIROLLI, L. F. ; MATOS, L. S.",
+          "candidato": "Andressa França Campos",
+          "citacao_completa": "MIORANDO, R. F.; BRAGHIROLLI, L. F. ; MATOS, L. S.. Participação em banca de Andressa França Campos.Análise dos custos de produção de uma microempresa de polpas de frutas. 2018 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Um modelo de identificação de sal em imagens sísmicas de camadas subterrâneas com a aplicação de redes neurais convolucionais",
+          "membros": "; BRAGHIROLLI, L. F. ; MAYERLE, S. F.",
+          "candidato": "Felipe Schneider Nunes",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; MAYERLE, S. F.. Participação em banca de Felipe Schneider Nunes.Um modelo de identificação de sal em imagens sísmicas de camadas subterrâneas com a aplicação de redes neurais convolucionais. 2018 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Filtros para a seleção e montagem de carteiras de ações baseado em dois perfis de risco",
+          "membros": "; BRAGHIROLLI, L. F. ; DAVALOS, R. V.",
+          "candidato": "Frederico Werner de Mascarenhas",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; DAVALOS, R. V.. Participação em banca de Frederico Werner de Mascarenhas.Filtros para a seleção e montagem de carteiras de ações baseado em dois perfis de risco. 2018 - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Viabilidade econômica de sistemas fotovoltaicos em residências",
+          "membros": "; BRAGHIROLLI, L. F. ; RIBEIRO, R. P.",
+          "candidato": "Deives Antonio Budel",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; RIBEIRO, R. P.. Participação em banca de Deives Antonio Budel.Viabilidade econômica de sistemas fotovoltaicos em residências. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Melhoria da eficiência da mão de obra em uma panificadora utilizando trabalho padronizado",
+          "membros": "; BRAGHIROLLI, L. F. ; RABENSCHLAG, D. R.",
+          "candidato": "Luiz Felipe Bertagnoli Weber",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; RABENSCHLAG, D. R.. Participação em banca de Luiz Felipe Bertagnoli Weber.Melhoria da eficiência da mão de obra em uma panificadora utilizando trabalho padronizado. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Aplicação de princípios da teoria das restrições: um estudo de simulação em um sistema de produção arranjado por produtos",
+          "membros": "BATTESINI, M.; ; BRAGHIROLLI, L. F.",
+          "candidato": "Talita Mattos Schneider",
+          "citacao_completa": "BATTESINI, M.; ; BRAGHIROLLI, L. F. . Participação em banca de Talita Mattos Schneider.Aplicação de princípios da teoria das restrições: um estudo de simulação em um sistema de produção arranjado por produtos. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".A contribuição de planos de manutenção em um laboratório de instituição de ensino superior pública",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Rodrigo Schons Arenhart",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Rodrigo Schons Arenhart.A contribuição de planos de manutenção em um laboratório de instituição de ensino superior pública. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Colaboração do processo de validação de hipóteses pela metodologia Lean Startup com clientes adotantes iniciais de um MVP",
+          "membros": "; BRAGHIROLLI, L. F. ; RUPPENTHAL, J. E.",
+          "candidato": "Tiago Travi Farias",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; RUPPENTHAL, J. E.. Participação em banca de Tiago Travi Farias.Colaboração do processo de validação de hipóteses pela metodologia Lean Startup com clientes adotantes iniciais de um MVP. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Estratégias de monetização e pivotagem de startups tecnológicas em Santa Maria - Rio Grande do Sul",
+          "membros": "; BRAGHIROLLI, L. F. ; MELLO, M. F.",
+          "candidato": "Nicolas Nunes Corim",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; MELLO, M. F.. Participação em banca de Nicolas Nunes Corim.Estratégias de monetização e pivotagem de startups tecnológicas em Santa Maria - Rio Grande do Sul. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Modelo de viabilidade econômica para franquia de delivery online",
+          "membros": "MELLO, M. F.; RABENSCHLAG, D. R.; BRAGHIROLLI, L.",
+          "candidato": "Paola Martins Seeger",
+          "citacao_completa": "MELLO, M. F.; RABENSCHLAG, D. R.; BRAGHIROLLI, L. . Participação em banca de Paola Martins Seeger.Modelo de viabilidade econômica para franquia de delivery online. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Métodos de previsão de demanda de ordens comerciais em uma distribuidora de energia elétrica",
+          "membros": "; BRAGHIROLLI, L. F. ; RIBEIRO, R. P.",
+          "candidato": "Marcelo Mello do Couto",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; RIBEIRO, R. P.. Participação em banca de Marcelo Mello do Couto.Métodos de previsão de demanda de ordens comerciais em uma distribuidora de energia elétrica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Previsão de demanda de serviços emergenciais em concessionárias de energia elétrica",
+          "membros": "; BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.",
+          "candidato": "Pamella Keriane Horn",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.. Participação em banca de Pamella Keriane Horn.Previsão de demanda de serviços emergenciais em concessionárias de energia elétrica. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Análise de planos de negócios para micro empresas",
+          "membros": "; BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.",
+          "candidato": "Damaris Felzke da Rosa",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.. Participação em banca de Damaris Felzke da Rosa.Análise de planos de negócios para micro empresas. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento do planejamento da necessidade de materiais para uma empresa fornecedora de insumos para máquinas de bebidas preparadas",
+          "membros": "BRAGHIROLLI, L. F. ; ;",
+          "candidato": "Celso Sarzi Alessio Junior",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ; . Participação em banca de Celso Sarzi Alessio Junior.Desenvolvimento do planejamento da necessidade de materiais para uma empresa fornecedora de insumos para máquinas de bebidas preparadas. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Metodologia Startup enxuta aplicada no desenvolvimento de um modelo de negócio de comércio eletrônico de produtos artesanais para bebês: uma pesquisa-ação",
+          "membros": "BRAGHIROLLI, L. F. ; SCHMIDT, A. S.;",
+          "candidato": "João Augusto Dal Pizzol",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; SCHMIDT, A. S.; . Participação em banca de João Augusto Dal Pizzol.Metodologia Startup enxuta aplicada no desenvolvimento de um modelo de negócio de comércio eletrônico de produtos artesanais para bebês: uma pesquisa-ação. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Lean healthcare: proposta de melhorias para um processo de dispensação farmacêutica hospitalar",
+          "membros": "BRAGHIROLLI, L. F. ; BATTESINI, M.;",
+          "candidato": "Rosangela da Rosa da Silva",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; BATTESINI, M.; . Participação em banca de Rosangela da Rosa da Silva.Lean healthcare: proposta de melhorias para um processo de dispensação farmacêutica hospitalar. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Indicadores de desempenho para rede de franquias em expansão: uma pesquisa-ação em uma empresa de delivery online",
+          "membros": "BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.;",
+          "candidato": "Thaiana Ardenghi Biedacha",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; EVANGELISTA, M. L. S.; . Participação em banca de Thaiana Ardenghi Biedacha.Indicadores de desempenho para rede de franquias em expansão: uma pesquisa-ação em uma empresa de delivery online. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Proposição de um modelo de previsão de demanda de cimento em uma indústria de pré-moldados de concreto",
+          "membros": "RABENSCHLAG, D. R.; BRAGHIROLLI, L. F. ;",
+          "candidato": "Wilbert Lindolpho Costa",
+          "citacao_completa": "RABENSCHLAG, D. R.; BRAGHIROLLI, L. F. ; . Participação em banca de Wilbert Lindolpho Costa.Proposição de um modelo de previsão de demanda de cimento em uma indústria de pré-moldados de concreto. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Aplicação da troca rápida de ferramentas em uma empresa metalmecânica: um caso prático",
+          "membros": "; BRAGHIROLLI, L. F. ; GODOY, L. P.",
+          "candidato": "Fernando Gaertner",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; GODOY, L. P.. Participação em banca de Fernando Gaertner.Aplicação da troca rápida de ferramentas em uma empresa metalmecânica: um caso prático. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Produção enxuta: uma pesquisa-ação em uma fábrica de móveis seriados e sob medida",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Douglas Schuster",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Douglas Schuster.Produção enxuta: uma pesquisa-ação em uma fábrica de móveis seriados e sob medida. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Simulação computacional aplicada no estudo das filas do refeitório II do restaurante universitário da UFSM",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Breyner Neves Kramatschek",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Breyner Neves Kramatschek.Simulação computacional aplicada no estudo das filas do refeitório II do restaurante universitário da UFSM. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Barreiras na qualificação da manutenção em empresas de pequeno e médio porte do setor metal mecânico",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Guilherme de Oliveira da Silva",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Guilherme de Oliveira da Silva.Barreiras na qualificação da manutenção em empresas de pequeno e médio porte do setor metal mecânico. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Manutenção Produtiva Total: análise das ações para a implantação do pilar de manutenção autônoma em uma indústria de bebidas",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Derick Araujo Duarte",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Derick Araujo Duarte.Manutenção Produtiva Total: análise das ações para a implantação do pilar de manutenção autônoma em uma indústria de bebidas. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Análise dos sistemas de medição no setor de usinagem de uma empresa metal mecânica",
+          "membros": "; BATTESINI, M.; BRAGHIROLLI, L. F.",
+          "candidato": "Carla Hartmann Sturm",
+          "citacao_completa": "; BATTESINI, M.; BRAGHIROLLI, L. F. . Participação em banca de Carla Hartmann Sturm.Análise dos sistemas de medição no setor de usinagem de uma empresa metal mecânica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Dimensionamento e análise do sistema de atendimento de serviços em concessionária de distribuição de energia elétrica",
+          "membros": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F.",
+          "candidato": "Luiz Fernando Kucera Miorando",
+          "citacao_completa": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F. . Participação em banca de Luiz Fernando Kucera Miorando.Dimensionamento e análise do sistema de atendimento de serviços em concessionária de distribuição de energia elétrica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Aplicação de um problema de coleta e entrega em uma transportadora",
+          "membros": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F.",
+          "candidato": "Flavia Weissheimer Vey",
+          "citacao_completa": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F. . Participação em banca de Flavia Weissheimer Vey.Aplicação de um problema de coleta e entrega em uma transportadora. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Aplicação do nivelamento da carga de trabalho no setor administrativo da franquia colchões Ortobom de Santa Maria, Rio Grande do Sul",
+          "membros": "; BRAGHIROLLI, L. F. ; GARLET, E.",
+          "candidato": "Marcos Augusto Nogueira Ruppelt",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; GARLET, E.. Participação em banca de Marcos Augusto Nogueira Ruppelt.Aplicação do nivelamento da carga de trabalho no setor administrativo da franquia colchões Ortobom de Santa Maria, Rio Grande do Sul. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Identificação do custo de retrabalho no desenvolvimento de software: estudo de caso",
+          "membros": "; ; BRAGHIROLLI, L. F.",
+          "candidato": "Patricia Luana Jung",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Participação em banca de Patricia Luana Jung.Identificação do custo de retrabalho no desenvolvimento de software: estudo de caso. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Aplicação de práticas de produção enxuta em uma fábrica de persianas de pequeno porte",
+          "membros": "; BRAGHIROLLI, L. F. ;",
+          "candidato": "Matheus Eduardo Leusin",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Participação em banca de Matheus Eduardo Leusin.Aplicação de práticas de produção enxuta em uma fábrica de persianas de pequeno porte. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Avaliação dos modelos de produção na prestação de serviços: um estudo de caso no setor hospitalar",
+          "membros": "; GODOY, L. P.; BRAGHIROLLI, L. F.",
+          "candidato": "Henrique Vassali",
+          "citacao_completa": "; GODOY, L. P.; BRAGHIROLLI, L. F. . Participação em banca de Henrique Vassali.Avaliação dos modelos de produção na prestação de serviços: um estudo de caso no setor hospitalar. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Um levantamento das demandas ergonômicas em uma empresa de transporte coletivo urbano",
+          "membros": "BRAGHIROLLI, L. F. ; CARVALHO, M. N. M.",
+          "candidato": "Iochane Garcia Guimarães",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; CARVALHO, M. N. M.. Participação em banca de Iochane Garcia Guimarães.Um levantamento das demandas ergonômicas em uma empresa de transporte coletivo urbano. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Análise dos indicadores comerciais da Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D)",
+          "membros": "BRAGHIROLLI, L. F. ; ECKHARDT, V.",
+          "candidato": "Saulo André Osmari",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ECKHARDT, V.. Participação em banca de Saulo André Osmari.Análise dos indicadores comerciais da Companhia Estadual de Distribuição de Energia Elétrica (CEEE-D). 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Implantação de indicadores de desempenho na manutenção na fase C da usina termelétrica da ELETROBRAS - CGTEE Candiota/RS",
+          "membros": "BRAGHIROLLI, L. F. ; ECKHARDT, V.; SILVEIRA, C. M. R.",
+          "candidato": "Rafael Barreto Tavares",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ECKHARDT, V.; SILVEIRA, C. M. R.. Participação em banca de Rafael Barreto Tavares.Implantação de indicadores de desempenho na manutenção na fase C da usina termelétrica da ELETROBRAS - CGTEE Candiota/RS. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Processo de desenvolvimento de produto: uso de um modelo para projeto de uma máquina filetadora para garrafas PET",
+          "membros": "ALBANO, C. S.; BRAGHIROLLI, L. F. ; PEREIRA, A. S.",
+          "candidato": "Ederson Bitencourt das Neves",
+          "citacao_completa": "ALBANO, C. S.; BRAGHIROLLI, L. F. ; PEREIRA, A. S.. Participação em banca de Ederson Bitencourt das Neves.Processo de desenvolvimento de produto: uso de um modelo para projeto de uma máquina filetadora para garrafas PET. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Pampa."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Desenvolvimento de um padrão técnico de processo para a indústria de painéis de madeira - MDP (medium density particleboard)",
+          "membros": "BRAGHIROLLI, L. F. ; PASA, G. S.",
+          "candidato": "Marcos Vinícius Braun Rodrigues",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; PASA, G. S.. Participação em banca de Marcos Vinícius Braun Rodrigues.Desenvolvimento de um padrão técnico de processo para a indústria de painéis de madeira - MDP (medium density particleboard). 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Modelo de seleção e priorização de etapas do fluxo de valor para implementação de projeto piloto de Produção Enxuta",
+          "membros": "BRAGHIROLLI, L. F. ; MARODIN, G.",
+          "candidato": "Danielle Cristine de Alencar Price",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; MARODIN, G.. Participação em banca de Danielle Cristine de Alencar Price.Modelo de seleção e priorização de etapas do fluxo de valor para implementação de projeto piloto de Produção Enxuta. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Uma nova combinação de ferramentas da produção enxuta e simulação no setor de máquinas agrícolas",
+          "membros": "BRAGHIROLLI, L. F. ; PASA, G. S.",
+          "candidato": "Diego Pasqualetto",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; PASA, G. S.. Participação em banca de Diego Pasqualetto.Uma nova combinação de ferramentas da produção enxuta e simulação no setor de máquinas agrícolas. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Adaptando o Planejamento e Controle de Produção (PCP) ao Sistema Lean: um estudo de caso em uma empresa do segmento metal-mecânico",
+          "membros": "BRAGHIROLLI, L. F. ; PASA, G. S.",
+          "candidato": "Felipe Vargas Ellwanger",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; PASA, G. S.. Participação em banca de Felipe Vargas Ellwanger.Adaptando o Planejamento e Controle de Produção (PCP) ao Sistema Lean: um estudo de caso em uma empresa do segmento metal-mecânico. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Aplicação do Mapeamento de Fluxo de Valor em uma empresa do ramo metalúrgico",
+          "membros": "BRAGHIROLLI, L. F. ; SANT'ANNA, Ângelo M. O.; SAURIN, T. A.",
+          "candidato": "Rafael Tombesi Pires",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; SANT'ANNA, Ângelo M. O.; SAURIN, T. A.. Participação em banca de Rafael Tombesi Pires.Aplicação do Mapeamento de Fluxo de Valor em uma empresa do ramo metalúrgico. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal do Rio Grande do Sul."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "BRAGHIROLLI, L. F. ; ; RIBEIRO, R. P.. Seleção pública para professor substituto, Edital 032/2017. 2017. Universidade Fe",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "BRAGHIROLLI, L. F. ; ; RIBEIRO, R. P.. Seleção pública para professor substituto, Edital 032/2017. 2017. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": "; ; BRAGHIROLLI, L. F. . Seleção pública para professor substituto, Edital 026/2015. 2015. Universidade Federal de Santa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; BRAGHIROLLI, L. F. . Seleção pública para professor substituto, Edital 026/2015. 2015. Universidade Federal de Santa Maria."
+        },
+        {
+          "ano": 2015,
+          "titulo": "; BRAGHIROLLI, L. F. ; . Seleção pública para professor substituto, Edital 102/2015. 2015. Universidade Federal de Santa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; BRAGHIROLLI, L. F. ; . Seleção pública para professor substituto, Edital 102/2015. 2015. Universidade Federal de Santa Maria."
+        }
+      ]
+    }
+  ]
+}

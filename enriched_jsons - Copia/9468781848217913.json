@@ -1,0 +1,918 @@
+{
+  "name": "Huilman Sanca Sanca",
+  "lattes_id": "9468781848217913",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Overvoltage Analysis in Monopile-Based Offshore Wind Turbines Using Real Lightning Field Data",
+          "autores": "E SOUZA, FELLIPE M. S. ; MOREIRA, FERNANDO A. ; SANCA, HUILMAN S. ; ALIPIO, RAFAEL ; DE VASCONCELLOS, FELIPE M.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3681724",
+          "citacao_completa": "E SOUZA, FELLIPE M. S. ; MOREIRA, FERNANDO A. ; SANCA, HUILMAN S. ; ALIPIO, RAFAEL ; DE VASCONCELLOS, FELIPE M. . Overvoltage Analysis in Monopile-Based Offshore Wind Turbines Using Real Lightning Field Data. IEEE Access , v. 1, p. 1-1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Current Transformer Saturation Correction Using Levenberg-Marquardt Algorithm",
+          "autores": "SANTOS, ERICSON N. A. ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1-13, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s40313-025-01214-0",
+          "citacao_completa": "SANTOS, ERICSON N. A. ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C. . A Current Transformer Saturation Correction Using Levenberg-Marquardt Algorithm. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-13, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Análise dos impactos econômicos do marco legal da geração distribuída lei 14.300/22 nos sistemas fotovoltaicosAnalysis of the economic impacts of the legal framework for distributed generation law 14,300/22 on photovoltaic systems",
+          "autores": "SÁ BARRÊTO DO ROSÁRIO PINHEIRO DOS SANTOS, BRENDESON ; SANCA SANCA, HUILMAN ; DOS SANTOS JUNQUEIRA, CAIO MARCO",
+          "periodico": "LATIN AMERICAN JOURNAL OF ENERGY RESEARCH , v. 12, p. 103-117, 2025.",
+          "doi": "http://dx.doi.org/10.21712/lajer.2025.v12.n1.p103-117",
+          "citacao_completa": "SÁ BARRÊTO DO ROSÁRIO PINHEIRO DOS SANTOS, BRENDESON ; SANCA SANCA, HUILMAN ; DOS SANTOS JUNQUEIRA, CAIO MARCO . Análise dos impactos econômicos do marco legal da geração distribuída lei 14.300/22 nos sistemas fotovoltaicosAnalysis of the economic impacts of the legal framework for distributed generation law 14,300/22 on photovoltaic systems. LATIN AMERICAN JOURNAL OF ENERGY RESEARCH , v. 12, p. 103-117, 2025."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Robust three-Phase distribution system frequency measurement using a variable step-size LMS",
+          "autores": "SANCA, HUILMAN S. ; COSTA, FLAVIO B. ; SOUZA JR, FRANCISCO C. ; DE SOUZA, BENEMAR A.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 197, p. 107315, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107315",
+          "citacao_completa": "SANCA, HUILMAN S. ; COSTA, FLAVIO B. ; SOUZA JR, FRANCISCO C. ; DE SOUZA, BENEMAR A. . Robust three-Phase distribution system frequency measurement using a variable step-size LMS. ELECTRIC POWER SYSTEMS RESEARCH , v. 197, p. 107315, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Adaptive Overcurrent Protection Applied to Power Systems with Distributed Generation and Active Network Management",
+          "autores": "SOUZA JUNIOR, F. C. ; SANCA, H. S.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 32, p. 1429-1437, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00771-4",
+          "citacao_completa": "SOUZA JUNIOR, F. C. ; SANCA, H. S. . Adaptive Overcurrent Protection Applied to Power Systems with Distributed Generation and Active Network Management. Journal Of Control Automation And Electrical Systems , v. 32, p. 1429-1437, 2021."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Distance Protection Analysis Applied for Distribution System with Distributed Generation",
+          "autores": "João T. L. S. CAMPOS ; Huilman S. SANCA ; COSTA, F. B. ; Benemar A. de Souza",
+          "periodico": "PRZEGLAD ELEKTROTECHNICZNY , v. 3, p. 13-17, 2018.",
+          "doi": "http://dx.doi.org/10.15199/48.2018.03.03",
+          "citacao_completa": "João T. L. S. CAMPOS ; Huilman S. SANCA ; COSTA, F. B. ; Benemar A. de Souza . Distance Protection Analysis Applied for Distribution System with Distributed Generation. PRZEGLAD ELEKTROTECHNICZNY , v. 3, p. 13-17, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Assessment of Power Frequency Estimation Methods in Distributed Generation in Islanding Condition",
+          "autores": "Huilman S. SANCA ; João T. L. S. CAMPOS ; Francisco C. Souza Jr. ; Flavio B. Costa ; Benemar A. de Souza",
+          "periodico": "PRZEGLAD ELEKTROTECHNICZNY , v. 5, p. 1-6, 2018.",
+          "doi": "http://dx.doi.org/10.15199/48.2018.05.01",
+          "citacao_completa": "Huilman S. SANCA ; João T. L. S. CAMPOS ; Francisco C. Souza Jr. ; Flavio B. Costa ; Benemar A. de Souza . Assessment of Power Frequency Estimation Methods in Distributed Generation in Islanding Condition. PRZEGLAD ELEKTROTECHNICZNY , v. 5, p. 1-6, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Evaluation of Frequency Estimation Algorithms Applied in System with Distributed Generation in Island Operation",
+          "autores": "SANCA, HUILMAN S. ; DE SOUZA, BENEMAR A. ; COSTA, FLAVIO B. ; SOUZA JR, FRANCISCO C.",
+          "periodico": "INTERNATIONAL JOURNAL OF SCIENTIFIC AND ENGINEERING RESEARCH , v. 7, p. 911-916, 2016.",
+          "doi": "http://dx.doi.org/10.14299/ijser.2016.11.001",
+          "citacao_completa": "SANCA, HUILMAN S. ; DE SOUZA, BENEMAR A. ; COSTA, FLAVIO B. ; SOUZA JR, FRANCISCO C. . Evaluation of Frequency Estimation Algorithms Applied in System with Distributed Generation in Island Operation. INTERNATIONAL JOURNAL OF SCIENTIFIC AND ENGINEERING RESEARCH , v. 7, p. 911-916, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Adaptive Instantaneous Overcurrent Relay Settings in Real Brazilian System with Distributed Generation",
+          "autores": "JUNIOR, F. C. SOUZA ; SANCA, H. S. ; COSTA, F. B. ; DE SOUZA, B. A.",
+          "periodico": "INTERNATIONAL JOURNAL OF SCIENTIFIC AND ENGINEERING RESEARCH , v. 7, p. 1708-1714, 2016.",
+          "doi": "http://dx.doi.org/10.14299/ijser.2016.10.002",
+          "citacao_completa": "JUNIOR, F. C. SOUZA ; SANCA, H. S. ; COSTA, F. B. ; DE SOUZA, B. A. . Adaptive Instantaneous Overcurrent Relay Settings in Real Brazilian System with Distributed Generation. INTERNATIONAL JOURNAL OF SCIENTIFIC AND ENGINEERING RESEARCH , v. 7, p. 1708-1714, 2016."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Engenharia Elétrica, Relatos de Pesquisa",
+          "autores": "Acbal, R. A. A. (Org.) ; CARDOSO, G. S. (Org.) ; Huilman S. Sanca (Org.)",
+          "periodico": "1. ed. Cruz das Almas: Editora UFRB - EDUFRB, 2022. v. 1. 252p .",
+          "doi": "",
+          "citacao_completa": "Acbal, R. A. A. (Org.) ; CARDOSO, G. S. (Org.) ; Huilman S. Sanca (Org.) . Engenharia Elétrica, Relatos de Pesquisa. 1. ed. Cruz das Almas: Editora UFRB - EDUFRB, 2022. v. 1. 252p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Localização de faltas em linhas de transmissão",
+          "autores": "SOUZA, F. M. S. E. ; H.S. Sanca",
+          "periodico": "In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 17-38.",
+          "doi": "",
+          "citacao_completa": "SOUZA, F. M. S. E. ; H.S. Sanca . Localização de faltas em linhas de transmissão. In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 17-38."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Detecção e classificação de faltas em linhas de transmissão",
+          "autores": "MARINNHO, M. A. ; H. S., Sanca",
+          "periodico": "In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 39-62.",
+          "doi": "",
+          "citacao_completa": "MARINNHO, M. A. ; H. S., Sanca . Detecção e classificação de faltas em linhas de transmissão. In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 39-62."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Avaliação dos algoritmos de estimação de fasores em SEE",
+          "autores": "ALFREDO PLINIO DE ARAÚJO NETO ; Huilman S. Sanca",
+          "periodico": "In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 62-84.",
+          "doi": "",
+          "citacao_completa": "ALFREDO PLINIO DE ARAÚJO NETO ; Huilman S. Sanca . Avaliação dos algoritmos de estimação de fasores em SEE. In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 62-84."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Sistemas fotovoltaicos flutuantes: Estimativa de potencial",
+          "autores": "GUMES, L. R. ; HUILMAN S. SANCA",
+          "periodico": "In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 111-126.",
+          "doi": "",
+          "citacao_completa": "GUMES, L. R. ; HUILMAN S. SANCA . Sistemas fotovoltaicos flutuantes: Estimativa de potencial. In: Rucas, A. A. A., De Souza, C. G., Sanca, H. S.. (Org.). Engenharia Elétrica, Relatos de Pesquisa. 1ed.Cruz das Almas, BA: Editora UFRB - EDUFRB, 2022, v. 1, p. 111-126."
+        },
+        {
+          "ano": 2022,
+          "titulo": "RECONFIGURAÇÃO DE REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA UTILIZANDO METAHEURÍSTICA COLÔNIA DE FORMIGAS MODIFICADA",
+          "autores": "SANCA, H. S. ; FERREIRA, N. R.",
+          "periodico": "Ciência da computação: princípios fundamentais ? Volume V. 5ªed.Piracanjuba-GO: Editora Conhecimento Livre, 2022, v. 5, p. 6-19.",
+          "doi": "http://dx.doi.org/10.37423/220606146",
+          "citacao_completa": "SANCA, H. S. ; FERREIRA, N. R. . RECONFIGURAÇÃO DE REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA UTILIZANDO METAHEURÍSTICA COLÔNIA DE FORMIGAS MODIFICADA. Ciência da computação: princípios fundamentais ? Volume V. 5ªed.Piracanjuba-GO: Editora Conhecimento Livre, 2022, v. 5, p. 6-19."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Design a PLL Controller Using a Particle Swarm Optimization Algorithm",
+          "autores": "RODRIGUES, L. L. ; ALVARES, A. B. ; VILCANQUI, O. C. ; SANCA, H. S.",
+          "periodico": "Proceedings Book 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON 2020). 1ed.445 Hoes Lane, Piscataway, NJ: IEEE, Inc., 2020, v. 1, p. 1-313.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, L. L. ; ALVARES, A. B. ; VILCANQUI, O. C. ; SANCA, H. S. . Design a PLL Controller Using a Particle Swarm Optimization Algorithm. Proceedings Book 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON 2020). 1ed.445 Hoes Lane, Piscataway, NJ: IEEE, Inc., 2020, v. 1, p. 1-313."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Análise de Descargas Atmosféricas em Aerogeradores Offshore",
+          "autores": "SOUZA, F. M. S. E. ; Fernando A. Moreira ; SANCA, H.S. ; ALIPIO, R. ; VASCONCELLOS, F.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos - SBSE-2025, 2025, Ouro Preto. Anais do SBSE 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "SOUZA, F. M. S. E. ; Fernando A. Moreira ; SANCA, H.S. ; ALIPIO, R. ; VASCONCELLOS, F. . Análise de Descargas Atmosféricas em Aerogeradores Offshore. In: Simpósio Brasileiro de Sistemas Elétricos - SBSE-2025, 2025, Ouro Preto. Anais do SBSE 2025, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Methodology for Specifying Surge Arresters in High-Voltage Substations",
+          "autores": "Lilian Barreto Dos Santos ; SANCA, H.S. ; BARROS, R. C.",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos - SBSE-2025, 2025, Ouro Preto. Anais do SBSE 2025, 2025.",
+          "doi": "",
+          "citacao_completa": "Lilian Barreto Dos Santos ; SANCA, H.S. ; BARROS, R. C. . Methodology for Specifying Surge Arresters in High-Voltage Substations. In: Simpósio Brasileiro de Sistemas Elétricos - SBSE-2025, 2025, Ouro Preto. Anais do SBSE 2025, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANÁLISE DOS IMPACTOS NO FLUXO DE POTÊNCIA EM UMA REDE DE DISTRIBUIÇÃO COM A INTEGRAÇÃO DE VEÍCULOS ELÉTRICOS",
+          "autores": "JESUS, M. B. ; HUILMAN S. SANCA ; ALMEIDA, V. S.",
+          "periodico": "In: X Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (X RECONCITEC), 2024, Cruz das Almas. X RECONCITEC 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "JESUS, M. B. ; HUILMAN S. SANCA ; ALMEIDA, V. S. . ANÁLISE DOS IMPACTOS NO FLUXO DE POTÊNCIA EM UMA REDE DE DISTRIBUIÇÃO COM A INTEGRAÇÃO DE VEÍCULOS ELÉTRICOS. In: X Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (X RECONCITEC), 2024, Cruz das Almas. X RECONCITEC 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Análise Sistemática e Problemáticas em Veículos Elétricos: Uma Revisão Bibliográfica",
+          "autores": "ALMEIDA, V. S. ; HUILMAN S. SANCA ; JESUS, M. B.",
+          "periodico": "In: X Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (X RECONCITEC), 2024, Cruz das Almas. X RECONCITEC 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, V. S. ; HUILMAN S. SANCA ; JESUS, M. B. . Análise Sistemática e Problemáticas em Veículos Elétricos: Uma Revisão Bibliográfica. In: X Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (X RECONCITEC), 2024, Cruz das Almas. X RECONCITEC 2024, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Fault Detection and Classification in a Multiterminal HVDC Transmission System Using Discrete Wavelet Transform",
+          "autores": "ALMEIDA, LUIZ FERNANDO S. ; SANCA, HUILMAN S. ; BARROS, RODRIGO C.",
+          "periodico": "In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/WCNPS65035.2024.10814396",
+          "citacao_completa": "ALMEIDA, LUIZ FERNANDO S. ; SANCA, HUILMAN S. ; BARROS, RODRIGO C. . Fault Detection and Classification in a Multiterminal HVDC Transmission System Using Discrete Wavelet Transform. In: 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024, Brasilia. 2024 Workshop on Communication Networks and Power Systems (WCNPS), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ANN Sensitivity Analysis Applied to Fault Classification in Transmission Lines",
+          "autores": "GUMES, LUIZA R. ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C.",
+          "periodico": "In: 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), 2024, Gazipur. 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), 2024. v. 1. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICAEEE62219.2024.10561851",
+          "citacao_completa": "GUMES, LUIZA R. ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C. . ANN Sensitivity Analysis Applied to Fault Classification in Transmission Lines. In: 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), 2024, Gazipur. 2024 3rd International Conference on Advancement in Electrical and Electronic Engineering (ICAEEE), 2024. v. 1. p. 1."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Aplicação do pragrama ANAREDE para cálculo do fluxo de carga em sistemas de potência",
+          "autores": "JESUS, M. B. ; Huilman S. SANCA",
+          "periodico": "In: Reunião Anual de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (IX RECONCITEC), 2023, Cruz das Almas. IX RECONCITEC 2023, 2023.",
+          "doi": "",
+          "citacao_completa": "JESUS, M. B. ; Huilman S. SANCA . Aplicação do pragrama ANAREDE para cálculo do fluxo de carga em sistemas de potência. In: Reunião Anual de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (IX RECONCITEC), 2023, Cruz das Almas. IX RECONCITEC 2023, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise das situações de Balckout do sistema interligado Brasileiro",
+          "autores": "ALMEIDA, L. F. S. ; REIS, Y. O. ; OLIVEIRA, J. M. ; Huilman S. SANCA",
+          "periodico": "In: Reunião Anual de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (IX RECONCITEC), 2023, Cruz das Almas. IX RECONCITEC 2023.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, L. F. S. ; REIS, Y. O. ; OLIVEIRA, J. M. ; Huilman S. SANCA . Análise das situações de Balckout do sistema interligado Brasileiro. In: Reunião Anual de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (IX RECONCITEC), 2023, Cruz das Almas. IX RECONCITEC 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Análise do impacto da velocidade do vento no fluxo de carga em um sistema elétrico de potência",
+          "autores": "SILVA, M. F. ; SANCA SANCA, HUILMAN ; SOUZA JUNIOR, F. C.",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2022, Santa Maria, RS. Anais do SBSE 2022, 2022. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "SILVA, M. F. ; SANCA SANCA, HUILMAN ; SOUZA JUNIOR, F. C. . Análise do impacto da velocidade do vento no fluxo de carga em um sistema elétrico de potência. In: IX Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2022, Santa Maria, RS. Anais do SBSE 2022, 2022. v. 1. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comparação dos níveis de THD entre turbinas DFIG e PMSG na integração de usinas eólicas em situações de falta",
+          "autores": "SANTANA, P. L. S. ; SANCA SANCA, HUILMAN ; SOUZA JUNIOR, F. C. ; GUMES, L. R.",
+          "periodico": "In: IX Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2022, Santa Maria, RS. Anais do SBSE 2022, 2022. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "SANTANA, P. L. S. ; SANCA SANCA, HUILMAN ; SOUZA JUNIOR, F. C. ; GUMES, L. R. . Comparação dos níveis de THD entre turbinas DFIG e PMSG na integração de usinas eólicas em situações de falta. In: IX Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2022, Santa Maria, RS. Anais do SBSE 2022, 2022. v. 1. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "APLICAÇÃO DO PROGRAMA DE GERENCIAMENTO DE RISCO NAS INSTALAÇÕES ELÉTRICAS DE UMA EMPRESA DE PAPELÃO ONDULADO",
+          "autores": "DIAS, V. C. A. ; HUILMAN S. SANCA",
+          "periodico": "In: Congresso Nacional e Engenharia de Segurança do Trabalho - 24o CONEST, 2022, Recife. Anais do CONEST 2022, 2022. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "DIAS, V. C. A. ; HUILMAN S. SANCA . APLICAÇÃO DO PROGRAMA DE GERENCIAMENTO DE RISCO NAS INSTALAÇÕES ELÉTRICAS DE UMA EMPRESA DE PAPELÃO ONDULADO. In: Congresso Nacional e Engenharia de Segurança do Trabalho - 24o CONEST, 2022, Recife. Anais do CONEST 2022, 2022. v. 1. p. 1."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comparative Study of Phasor Estimation Techniques Applied on Distance Protection",
+          "autores": "DE A. ANDRADE, FILLIPE ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C. ; BARRA, PEDRO HENRIQUE A.",
+          "periodico": "In: 2022 IEEE Electrical Power and Energy Conference (EPEC), 2022, Victoria. 2022 IEEE Electrical Power and Energy Conference (EPEC), 2022. p. 143.",
+          "doi": "http://dx.doi.org/10.1109/epec56903.2022.10000090",
+          "citacao_completa": "DE A. ANDRADE, FILLIPE ; SANCA, HUILMAN S. ; SOUZA, FRANCISCO C. ; BARRA, PEDRO HENRIQUE A. . Comparative Study of Phasor Estimation Techniques Applied on Distance Protection. In: 2022 IEEE Electrical Power and Energy Conference (EPEC), 2022, Victoria. 2022 IEEE Electrical Power and Energy Conference (EPEC), 2022. p. 143."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Robust Three-Phase Distribution System Frequency Measurement Using a Variable Step-Size LMS",
+          "autores": "SANCA, H.S. ; Flavio B. Costa ; SOUZA JUNIOR, F. C. ; SOUZA, B. A.",
+          "periodico": "In: INTERNATIONAL CONFERENCE ON POWER SYSTEMS TRANSIENT - IPST, 2021, Minas Gerais, Brazil. Anais do IPST 2021, 2021. v. 1.",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. ; Flavio B. Costa ; SOUZA JUNIOR, F. C. ; SOUZA, B. A. . Robust Three-Phase Distribution System Frequency Measurement Using a Variable Step-Size LMS. In: INTERNATIONAL CONFERENCE ON POWER SYSTEMS TRANSIENT - IPST, 2021, Minas Gerais, Brazil. Anais do IPST 2021, 2021. v. 1."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA RESIDENCIAL",
+          "autores": "ALMEIDA, L. F. S. ; HUILMAN S. SANCA ; Francisco C. Souza Jr.",
+          "periodico": "In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO - ALTAE 2021, 2021, Costa Rica. Anais do ALTAE 2021, 2021.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, L. F. S. ; HUILMAN S. SANCA ; Francisco C. Souza Jr. . SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA RESIDENCIAL. In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO - ALTAE 2021, 2021, Costa Rica. Anais do ALTAE 2021, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "IMPACTOS DA GERAÇÃO EÓLICA NO SISTEMA ELÉTRICO DE POTÊNCIA: UMA REVISÃO",
+          "autores": "GUMES, L. R. ; HUILMAN S. SANCA ; SANTANA, P. L. S. ; Francisco C. Souza Jr.",
+          "periodico": "In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO - ALTAE 2021, 2021, Costa Rica. Anais do ALTAE 2021, 2021.",
+          "doi": "",
+          "citacao_completa": "GUMES, L. R. ; HUILMAN S. SANCA ; SANTANA, P. L. S. ; Francisco C. Souza Jr. . IMPACTOS DA GERAÇÃO EÓLICA NO SISTEMA ELÉTRICO DE POTÊNCIA: UMA REVISÃO. In: CONGRESO IBEROAMERICANO EN ALTA TENSIÓN Y AISLAMIENTO ELÉCTRICO - ALTAE 2021, 2021, Costa Rica. Anais do ALTAE 2021, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Um Crit´erio para a Coordena¸c\"ao da Prote¸c\"ao de uma Rede de Distribui¸c\"ao: Estudo de Caso da UFRB",
+          "autores": "J. DE QUEIROZ N., AURINO ; S. SANCA, HUILMAN ; P. DE ARA´UJO N, ALFREDO ; C. SOUZA J., FRANCISCO ; A. MOREIRA, FERNANDO",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2417",
+          "citacao_completa": "J. DE QUEIROZ N., AURINO ; S. SANCA, HUILMAN ; P. DE ARA´UJO N, ALFREDO ; C. SOUZA J., FRANCISCO ; A. MOREIRA, FERNANDO . Um Crit´erio para a Coordena¸c\"ao da Prote¸c\"ao de uma Rede de Distribui¸c\"ao: Estudo de Caso da UFRB. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A importância da proteção adaptativa em sistemas elétricos de distribuição com Active Network Menagement (ANM)",
+          "autores": "DAS CHAGAS JÚNIOR, FRANCISCO ; SANCA SANCA, HUILMAN",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2468",
+          "citacao_completa": "DAS CHAGAS JÚNIOR, FRANCISCO ; SANCA SANCA, HUILMAN . A importância da proteção adaptativa em sistemas elétricos de distribuição com Active Network Menagement (ANM). In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Localização de Faltas em Linhas de Transmissão pelo Método das Componentes Fundamentais",
+          "autores": "M. S. E SOUZA, FELLIPE ; S. SANCA, HUILMAN ; A. MARINHO, MAURÍCIO ; P. DE ARAÚJO N., ALFREDO ; C. SOUZA J., FRANCISCO ; A. MOREIRA, FERNANDO",
+          "periodico": "In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1.",
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2418",
+          "citacao_completa": "M. S. E SOUZA, FELLIPE ; S. SANCA, HUILMAN ; A. MARINHO, MAURÍCIO ; P. DE ARAÚJO N., ALFREDO ; C. SOUZA J., FRANCISCO ; A. MOREIRA, FERNANDO . Localização de Faltas em Linhas de Transmissão pelo Método das Componentes Fundamentais. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020. v. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Design a PLL controller using a Particle Swarm Optimization algorithm",
+          "autores": "RODRIGUES, LUCAS LIMA ; BEATRIZ ALVAREZ, ANA ; CHURA VILCANQUI, OMAR A. ; SANCA, HUILMAN SANCA",
+          "periodico": "In: 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2020, Lima. 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2020. v. 1. p. 1-4.",
+          "doi": "http://dx.doi.org/10.1109/INTERCON50315.2020.9220190",
+          "citacao_completa": "RODRIGUES, LUCAS LIMA ; BEATRIZ ALVAREZ, ANA ; CHURA VILCANQUI, OMAR A. ; SANCA, HUILMAN SANCA . Design a PLL controller using a Particle Swarm Optimization algorithm. In: 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2020, Lima. 2020 IEEE XXVII International Conference on Electronics, Electrical Engineering and Computing (INTERCON), 2020. v. 1. p. 1-4."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ANÁLISE DA INTEGRAÇÃO DE UM PARQUE EÓLICO DE 3 MW AO SISTEMA ELÉTRICO DE POTÊNCIA",
+          "autores": "SANTANA, P. L. S. ; SANCA, HUILMAN SANCA",
+          "periodico": "In: VI Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (VI RECONCITEC), 2020, Cruz das Almas. Anais do VI RECONCITEC 2020, 2020.",
+          "doi": "",
+          "citacao_completa": "SANTANA, P. L. S. ; SANCA, HUILMAN SANCA . ANÁLISE DA INTEGRAÇÃO DE UM PARQUE EÓLICO DE 3 MW AO SISTEMA ELÉTRICO DE POTÊNCIA. In: VI Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (VI RECONCITEC), 2020, Cruz das Almas. Anais do VI RECONCITEC 2020, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "RELÉ DE SOBRECORRENTE COM ARDUÍNO",
+          "autores": "MARINNHO, M. A. ; Aurino Jose de Queiroz Neto ; SOUZA, F. M. S. E. ; Vinicius Costa de Almeida ; HUILMAN S. SANCA",
+          "periodico": "In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "MARINNHO, M. A. ; Aurino Jose de Queiroz Neto ; SOUZA, F. M. S. E. ; Vinicius Costa de Almeida ; HUILMAN S. SANCA . RELÉ DE SOBRECORRENTE COM ARDUÍNO. In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "IMPLEMENTAÇÃO DO SISTEMA E DETECÇÃO DE DISTÂNCIAS ATRAVÉS DE ULTRASSOM PARA O SISTEMA RASTREADOR DE OBJETOS DO PROJETO PIPETA USANDO ARDUINO",
+          "autores": "Sodre, S. I. F. ; S. B, W. ; HUILMAN S. SANCA ; CABRAL, V. H. ; SILVA, N. C.",
+          "periodico": "In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "Sodre, S. I. F. ; S. B, W. ; HUILMAN S. SANCA ; CABRAL, V. H. ; SILVA, N. C. . IMPLEMENTAÇÃO DO SISTEMA E DETECÇÃO DE DISTÂNCIAS ATRAVÉS DE ULTRASSOM PARA O SISTEMA RASTREADOR DE OBJETOS DO PROJETO PIPETA USANDO ARDUINO. In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "AVALIAÇÃO DOS ALGORITMOS DE ESTIMAÇÃO DE FASORES EM SISTEMAS DE ENERGIA ELÉTRICA",
+          "autores": "ALFREDO PLINIO DE ARAÚJO NETO ; HUILMAN S. SANCA",
+          "periodico": "In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "ALFREDO PLINIO DE ARAÚJO NETO ; HUILMAN S. SANCA . AVALIAÇÃO DOS ALGORITMOS DE ESTIMAÇÃO DE FASORES EM SISTEMAS DE ENERGIA ELÉTRICA. In: V Reunião de Ciência, Tecnologia, Inovação e Cultura do Recôncavo da Bahia (V RECONCITEC), 2019, Cruz das Almas. V RECONCITEC, 2019. v. 1. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Sistema de Proteção Adaptativa de Sobrecorrente Instantânea para Redes de Distribuição com Geração Distribuída",
+          "autores": "SOUZA JUNIOR, F. C. ; H. S., Sanca ; F. B. Costa ; B. A. Souza",
+          "periodico": "In: XVII ERIAC DECIMOSÉPTIMO ENCUENTRO REGIONAL IBEROAMERICANO DE CIGRÉ, 2017, Ciudad del Este. Anais do XVII ERIAC, COMITÉ B5. Ciudad del Este, 2017. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "SOUZA JUNIOR, F. C. ; H. S., Sanca ; F. B. Costa ; B. A. Souza . Sistema de Proteção Adaptativa de Sobrecorrente Instantânea para Redes de Distribuição com Geração Distribuída. In: XVII ERIAC DECIMOSÉPTIMO ENCUENTRO REGIONAL IBEROAMERICANO DE CIGRÉ, 2017, Ciudad del Este. Anais do XVII ERIAC, COMITÉ B5. Ciudad del Este, 2017. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Adaptive Instantaneous Overcurrent Powered By Frequency Estimation: A case study using a real Brazilian system",
+          "autores": "SOUZA, F. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A.",
+          "periodico": "In: 2016 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 2016, Dallas. 2016 IEEE/PES Transmission and Distribution Conference and Exposition (T&D). p. 1.",
+          "doi": "http://dx.doi.org/10.1109/tdc.2016.7520033",
+          "citacao_completa": "SOUZA, F. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A. . Adaptive Instantaneous Overcurrent Powered By Frequency Estimation: A case study using a real Brazilian system. In: 2016 IEEE/PES Transmission and Distribution Conference and Exposition (T&D), 2016, Dallas. 2016 IEEE/PES Transmission and Distribution Conference and Exposition (T&D). p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Computational modeling of frequency relay for islanding detection of distributed generation by performance of frequency estimation methods",
+          "autores": "SANCA, H.S. ; SOUZA, B.A. ; COSTA, F.B.",
+          "periodico": "In: 13th International Conference on Development in Power System Protection 2016 (DPSP), 2016, Edinburgh. 13th International Conference on Development in Power System Protection 2016 (DPSP). p. 6 ..",
+          "doi": "http://dx.doi.org/10.1049/cp.2016.0040",
+          "citacao_completa": "SANCA, H.S. ; SOUZA, B.A. ; COSTA, F.B. . Computational modeling of frequency relay for islanding detection of distributed generation by performance of frequency estimation methods. In: 13th International Conference on Development in Power System Protection 2016 (DPSP), 2016, Edinburgh. 13th International Conference on Development in Power System Protection 2016 (DPSP). p. 6 .."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Comparison frequency estimation methods on adaptive protection architecture applied on systems with distributed generation",
+          "autores": "SANCA, H.S. ; COSTA, F.B. ; SOUZA, B.A. ; SOUZA, F.C.",
+          "periodico": "In: 13th International Conference on Development in Power System Protection 2016 (DPSP), 2016, Edinburgh. 13th International Conference on Development in Power System Protection 2016 (DPSP). p. 6 ..",
+          "doi": "http://dx.doi.org/10.1049/cp.2016.0055",
+          "citacao_completa": "SANCA, H.S. ; COSTA, F.B. ; SOUZA, B.A. ; SOUZA, F.C. . Comparison frequency estimation methods on adaptive protection architecture applied on systems with distributed generation. In: 13th International Conference on Development in Power System Protection 2016 (DPSP), 2016, Edinburgh. 13th International Conference on Development in Power System Protection 2016 (DPSP). p. 6 .."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Proteção Adaptativa de Sobrecorrente em Sistemas de Distribuição Baseado em Algoritmos Genéticos",
+          "autores": "SOUZA JUNIOR, F. C. ; HUILMAN SANCA SANCA ; SOUZA, B. A. ; COSTA, F. B.",
+          "periodico": "In: VI Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal RN. SWGE - Conference Proceedings System, 2016.",
+          "doi": "",
+          "citacao_completa": "SOUZA JUNIOR, F. C. ; HUILMAN SANCA SANCA ; SOUZA, B. A. ; COSTA, F. B. . Proteção Adaptativa de Sobrecorrente em Sistemas de Distribuição Baseado em Algoritmos Genéticos. In: VI Simpósio Brasileiro de Sistemas Elétricos, 2016, Natal RN. SWGE - Conference Proceedings System, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Avaliação de Método de Estimação de Frequência Fundamental para Qualidade da Energia Aplicados em Sistemas de Distribuição com Geração Distribuída",
+          "autores": "SANCA, H. S. ; SOUZA, B. A. ; NASCIMENTO, J. P. ; BRITO, N. S. D. ; COSTA, F. B.",
+          "periodico": "In: CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA - CBQEE, 2015, Campina Grande, PB.. http://www.sbqee.org.br/cbqee/anais;jsessionid=1vlipvfabk8e3, 2015. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; SOUZA, B. A. ; NASCIMENTO, J. P. ; BRITO, N. S. D. ; COSTA, F. B. . Avaliação de Método de Estimação de Frequência Fundamental para Qualidade da Energia Aplicados em Sistemas de Distribuição com Geração Distribuída. In: CONFERÊNCIA BRASILEIRA SOBRE QUALIDADE DA ENERGIA ELÉTRICA - CBQEE, 2015, Campina Grande, PB.. http://www.sbqee.org.br/cbqee/anais;jsessionid=1vlipvfabk8e3, 2015. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Adaptive Instantaneous Overcurrent: a Case Studied in a Real Brazilian System",
+          "autores": "SOUZA JUNIOR, F. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A.",
+          "periodico": "In: INTERNATIONAL CONFERENCE ON POWER SYSTEMS TRANSIENT - IPST, 2015, Cavtat, Croatia. http://www.ipst2015.com/openconf/modules/request.php?module=oc_proceedings&action=proceedings.php&a=Accept. Cavtat, Croatia: IPST 2015, 2015. v. 1.",
+          "doi": "",
+          "citacao_completa": "SOUZA JUNIOR, F. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A. . Adaptive Instantaneous Overcurrent: a Case Studied in a Real Brazilian System. In: INTERNATIONAL CONFERENCE ON POWER SYSTEMS TRANSIENT - IPST, 2015, Cavtat, Croatia. http://www.ipst2015.com/openconf/modules/request.php?module=oc_proceedings&action=proceedings.php&a=Accept. Cavtat, Croatia: IPST 2015, 2015. v. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Reviewing of anti-islanding protection",
+          "autores": "PAIVA, S. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A.",
+          "periodico": "In: 2014 11th IEEE/IAS International Conference on Industry Applications INDUSCON 2014, 2014, Juiz de Fora. 2014 11th IEEE/IAS International Conference on Industry Applications. v. 1. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2014.7059454",
+          "citacao_completa": "PAIVA, S. C. ; SANCA, H. S. ; COSTA, F. B. ; SOUZA, B. A. . Reviewing of anti-islanding protection. In: 2014 11th IEEE/IAS International Conference on Industry Applications INDUSCON 2014, 2014, Juiz de Fora. 2014 11th IEEE/IAS International Conference on Industry Applications. v. 1. p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Reconfiguração de Redes de Distribuição de Energia Elétrica Utilizando Metaheurística Colônia de Formigas Modificado",
+          "autores": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A.",
+          "periodico": "In: X Encontro Anual de Computação (EnAComp - 2013), 2013, Catalão, Goiás, Brasil.. Anais do X Encontro Anual de Computação. Catalão, 2013. p. 1-410.",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A. . Reconfiguração de Redes de Distribuição de Energia Elétrica Utilizando Metaheurística Colônia de Formigas Modificado. In: X Encontro Anual de Computação (EnAComp - 2013), 2013, Catalão, Goiás, Brasil.. Anais do X Encontro Anual de Computação. Catalão, 2013. p. 1-410."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Algoritmo Colônia de Formigas com Elitismo Aplicado à Reconfiguração Ótima de Sistemas de Distribuição de Energia Elétrica",
+          "autores": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A.",
+          "periodico": "In: X Conferência Brasileira Sobre Qualidade da Energia Elétrica - CBQEE 2013, 2013, Araxá - Minas Gerais - Brasil. Anáis da X Conferência Brasileira Sobre Qualidade da Energia Elétrica - CBQEE, 2013. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A. . Algoritmo Colônia de Formigas com Elitismo Aplicado à Reconfiguração Ótima de Sistemas de Distribuição de Energia Elétrica. In: X Conferência Brasileira Sobre Qualidade da Energia Elétrica - CBQEE 2013, 2013, Araxá - Minas Gerais - Brasil. Anáis da X Conferência Brasileira Sobre Qualidade da Energia Elétrica - CBQEE, 2013. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Redução do Espaço de Busca de Redes de Distribuição Reconfiguráveis Utilizando Grafos",
+          "autores": "RAMOS, L. U. ; FERREIRA, N. R. ; Fernando A. Moreira ; SANCA, H. S. ; SOUZA, B. A.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2013, Fortaleza - Ceará. http://www.sbai2013.ufc.br/pdfs/6318.pdf. Fortaleza, 2013. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "RAMOS, L. U. ; FERREIRA, N. R. ; Fernando A. Moreira ; SANCA, H. S. ; SOUZA, B. A. . Redução do Espaço de Busca de Redes de Distribuição Reconfiguráveis Utilizando Grafos. In: Simpósio Brasileiro de Automação Inteligente - SBAI, 2013, Fortaleza - Ceará. http://www.sbai2013.ufc.br/pdfs/6318.pdf. Fortaleza, 2013. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Redução de Perdas na Reconfiguração de sistemas de Distribuição de Energia Elétrica Aplicando Max-Min Ant System",
+          "autores": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A.",
+          "periodico": "In: XI Simpósio Brasileiro de Automação Inteligente ? SBAI e XI Conferência Brasileira de Dinâmica, Controle e Aplicações - DINCON, 2013, Fortaleza - Ceará. Anais do XI Simpósio Brasileiro de Automação Inteligente - SBAI 2013. Fortaleza: www.sbai2013.ufc.br/Programa_SBAI_DINCON_2013_FINAL.pdf., 2013. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A. . Redução de Perdas na Reconfiguração de sistemas de Distribuição de Energia Elétrica Aplicando Max-Min Ant System. In: XI Simpósio Brasileiro de Automação Inteligente ? SBAI e XI Conferência Brasileira de Dinâmica, Controle e Aplicações - DINCON, 2013, Fortaleza - Ceará. Anais do XI Simpósio Brasileiro de Automação Inteligente - SBAI 2013. Fortaleza: www.sbai2013.ufc.br/Programa_SBAI_DINCON_2013_FINAL.pdf., 2013. v. 1. p. 1-6."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Montagem de Subestação HVDC",
+          "autores": "SANCA, H.S.",
+          "periodico": "2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Montagem de Subestação HVDC. 2023. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Ciclo de Palestras PES DAY 2023",
+          "autores": "SANCA, H.S.",
+          "periodico": "2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Ciclo de Palestras PES DAY 2023. 2023. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "IEEE Week",
+          "autores": "SANCA, H.S.",
+          "periodico": "2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . IEEE Week. 2023. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA",
+          "autores": "ALMEIDA, L. F. S. ; SANCA, H.S. ; SOUZA JUNIOR, F. C.",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, L. F. S. ; SANCA, H.S. ; SOUZA JUNIOR, F. C. . SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Impactos da geração eólica no sistema elétrico de potência: Uma revisão",
+          "autores": "GUMES, L. R. ; SANCA, H.S. ; SOUZA JUNIOR, F. C.",
+          "periodico": "2021. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "GUMES, L. R. ; SANCA, H.S. ; SOUZA JUNIOR, F. C. . Impactos da geração eólica no sistema elétrico de potência: Uma revisão. 2021. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Gestão de Processos e Projetos em Engenharia",
+          "autores": "SANCA, H.S.",
+          "periodico": "2021. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Gestão de Processos e Projetos em Engenharia. 2021. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Relatos de Intercâmbio Estudantil",
+          "autores": "SANCA, H.S.",
+          "periodico": "2021. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Relatos de Intercâmbio Estudantil. 2021. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Sistemas de Distribuição de Energia Elétrica",
+          "autores": "SANCA, H.S.",
+          "periodico": "2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Sistemas de Distribuição de Energia Elétrica. 2020. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mesa Redonda: Profissional 4.0: Desafios dos Recém formados e Atuação Pós Pandemia",
+          "autores": "SANCA, H.S.",
+          "periodico": "2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Mesa Redonda: Profissional 4.0: Desafios dos Recém formados e Atuação Pós Pandemia. 2020. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Ações Motivadoras de Conscientização Ambiental e Sustentabilidade",
+          "autores": "SANCA, H.S.",
+          "periodico": "2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H.S. . Ações Motivadoras de Conscientização Ambiental e Sustentabilidade. 2019. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Avaliação de Método de Estimação de Frequência Fundamental para Qualidade da Energia Aplicados em Sistemas de Distribuição com Geração Distribuída",
+          "autores": "SANCA, H. S. ; SOUZA, B. A. ; NASCIMENTO, J. P. ; BRITO, N. S. D. ; COSTA, F. B.",
+          "periodico": "2015. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; SOUZA, B. A. ; NASCIMENTO, J. P. ; BRITO, N. S. D. ; COSTA, F. B. . Avaliação de Método de Estimação de Frequência Fundamental para Qualidade da Energia Aplicados em Sistemas de Distribuição com Geração Distribuída. 2015. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Efeito do Carregamento Sobre a Estabilidade de Tensão de Redes de Distribuição Reconfiguráveis",
+          "autores": "FERREIRA, N. R. ; SILVA, J. P. ; SOUZA, B. A. ; SANCA, H. S.",
+          "periodico": "2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "FERREIRA, N. R. ; SILVA, J. P. ; SOUZA, B. A. ; SANCA, H. S. . Efeito do Carregamento Sobre a Estabilidade de Tensão de Redes de Distribuição Reconfiguráveis. 2013. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Algoritmo Colônia de Formigas com Elitismo Aplicado à Reconfiguração Ótima de Sistemas de Distribuição de Energia Elétrica",
+          "autores": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A.",
+          "periodico": "2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; FERREIRA, N. R. ; SOUZA, B. A. . Algoritmo Colônia de Formigas com Elitismo Aplicado à Reconfiguração Ótima de Sistemas de Distribuição de Energia Elétrica. 2013. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Profissional 4.0: Desafios dos Recém Formados e Atuação pós Pandemia",
+          "autores": "SANCA, HUILMAN SANCA ; Acbal, R. A. A. ; BARROSO, H. C. ; MORAES, S. R.",
+          "periodico": "2020. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "SANCA, HUILMAN SANCA ; Acbal, R. A. A. ; BARROSO, H. C. ; MORAES, S. R. . Profissional 4.0: Desafios dos Recém Formados e Atuação pós Pandemia. 2020. (Programa de rádio ou TV/Mesa redonda)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Oficina prática de instalações elétricas",
+          "autores": "Huilman S. SANCA ; JESUS, M. B. ; REIS, Y. O. ; MENDES, M. P. ; ALMEIDA, V. S. ; ARAUJO, L. M.",
+          "periodico": "2023. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Huilman S. SANCA ; JESUS, M. B. ; REIS, Y. O. ; MENDES, M. P. ; ALMEIDA, V. S. ; ARAUJO, L. M. . Oficina prática de instalações elétricas. 2023. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Palestra: Montagem de subestação HVDC",
+          "autores": "Huilman S. SANCA ; REIS, Y. O. ; MENDES, M. P. ; JESUS, M. B.",
+          "periodico": "2023. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Huilman S. SANCA ; REIS, Y. O. ; MENDES, M. P. ; JESUS, M. B. . Palestra: Montagem de subestação HVDC. 2023. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "II Oficina Prática de Instalações Elétricas 2023",
+          "autores": "Huilman S. SANCA ; REIS, Y. O. ; MENDES, M. P. ; JESUS, M. B. ; ALMEIDA, V. S.",
+          "periodico": "2023. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Huilman S. SANCA ; REIS, Y. O. ; MENDES, M. P. ; JESUS, M. B. ; ALMEIDA, V. S. . II Oficina Prática de Instalações Elétricas 2023. 2023. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Oficina Prática de Instalações Elétricas (Elas por elas)",
+          "autores": "Huilman S. SANCA ; MENDES, M. P. ; REIS, Y. O. ; ARAUJO, L. M. ; OLIVEIRA, J. M. ; Lilian Barreto Dos Santos ; Heyde Miranda Mascarenhas",
+          "periodico": "2022. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Huilman S. SANCA ; MENDES, M. P. ; REIS, Y. O. ; ARAUJO, L. M. ; OLIVEIRA, J. M. ; Lilian Barreto Dos Santos ; Heyde Miranda Mascarenhas . Oficina Prática de Instalações Elétricas (Elas por elas). 2022. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Palestra: Gestão de Processos e Projetos em Engenharia",
+          "autores": "Huilman S. SANCA ; ALMEIDA, L. F. S.",
+          "periodico": "2021. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "Huilman S. SANCA ; ALMEIDA, L. F. S. . Palestra: Gestão de Processos e Projetos em Engenharia. 2021. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Introdução a Sistemas de Distribuição de Energia Elétrica",
+          "autores": "SANCA, HUILMAN SANCA",
+          "periodico": "2020. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SANCA, HUILMAN SANCA . Introdução a Sistemas de Distribuição de Energia Elétrica. 2020. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Sistemas Elétricos de Potência",
+          "autores": "HUILMAN SANCA SANCA",
+          "periodico": "2019. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "HUILMAN SANCA SANCA . Sistemas Elétricos de Potência. 2019. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "História, Civilizações Pré-Incas",
+          "autores": "SANCA, H. S. ; BORGES, C. C. L.",
+          "periodico": "2017. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SANCA, H. S. ; BORGES, C. C. L. . História, Civilizações Pré-Incas. 2017. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Metodologia para Analise da Complementaridade entre Energia Solar e Eolica em Usinas Hibridas",
+          "membros": "NEVES, W. L. A.; SANCA, H.S. ; FERNANDES JUNIOR, D.; MACHADO, E. P.",
+          "candidato": "MAURILIO QUIRINO DA SILVA FILHO",
+          "citacao_completa": "NEVES, W. L. A.; SANCA, H.S. ; FERNANDES JUNIOR, D.; MACHADO, E. P.. Participação em banca de MAURILIO QUIRINO DA SILVA FILHO. Metodologia para Analise da Complementaridade entre Energia Solar e Eolica em Usinas Hibridas. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Metodologia para Análise da Complementaridade entre Energia Solar e Eólica em Usinas Híbridas",
+          "membros": "FERNANDES JUNIOR, D.; NEVES, W. L. A.; MACHADO, E. P.; HUILMAN S. SANCA",
+          "candidato": "MAURILIO QUIRINO DA SILVA FILHO",
+          "citacao_completa": "FERNANDES JUNIOR, D.; NEVES, W. L. A.; MACHADO, E. P.; HUILMAN S. SANCA . Participação em banca de MAURILIO QUIRINO DA SILVA FILHO. Metodologia para Análise da Complementaridade entre Energia Solar e Eólica em Usinas Híbridas. 2024. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Impactos da Aplicação de Um Limitador de Corrente Supercondutor em Uma Linha de Distribuição",
+          "membros": "DANTAS, K. M. C.; NEVES, W. L. A.; BOAVENTURA, W. C.; ; HUILMAN S. SANCA",
+          "candidato": "Cícero Augusto Amorim Coelho",
+          "citacao_completa": "DANTAS, K. M. C.; NEVES, W. L. A.; BOAVENTURA, W. C.; ; HUILMAN S. SANCA . Participação em banca de Cícero Augusto Amorim Coelho. Impactos da Aplicação de Um Limitador de Corrente Supercondutor em Uma Linha de Distribuição. 2024. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".ANÁLISE DE IMPACTO DO CARREGAMENTO VEICULAR EM REDES DE DISTRIBUIÇÃO UTILIZANDO SIMULAÇÕES NO OPENDSS",
+          "membros": "SOUZA, R. T.; SANCA, H.S.",
+          "candidato": "EMMANUEL MESSIAS RODRIGUES DE LIRA",
+          "citacao_completa": "SOUZA, R. T.; SANCA, H.S. . Participação em banca de EMMANUEL MESSIAS RODRIGUES DE LIRA.ANÁLISE DE IMPACTO DO CARREGAMENTO VEICULAR EM REDES DE DISTRIBUIÇÃO UTILIZANDO SIMULAÇÕES NO OPENDSS. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2026,
+          "titulo": ".Estágio supervisionado em Engenharia Elétrica - WEG Santa Catarina",
+          "membros": "FERNANDES JUNIOR, D.; SANCA, H.S.",
+          "candidato": "Bruno Araújo Marques de Almeida",
+          "citacao_completa": "FERNANDES JUNIOR, D.; SANCA, H.S. . Participação em banca de Bruno Araújo Marques de Almeida.Estágio supervisionado em Engenharia Elétrica - WEG Santa Catarina. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".FUNDAMENTOS TEÓRICOS E IMPACTOS PRÁTICOS DA INTERFERÊNCIA ELETROMAGNÉTICA EM LINHAS DE TRANSMISSÃO",
+          "membros": "SANCA, H.S. ; SILVA, C. A.",
+          "candidato": "JOÃO HENRIQUE NASCIMENTO DE CARVALHO",
+          "citacao_completa": "SANCA, H.S. ; SILVA, C. A.. Participação em banca de JOÃO HENRIQUE NASCIMENTO DE CARVALHO.FUNDAMENTOS TEÓRICOS E IMPACTOS PRÁTICOS DA INTERFERÊNCIA ELETROMAGNÉTICA EM LINHAS DE TRANSMISSÃO. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".AVALIAÇÃO DO DESEMPENHO DE SISTEMAS DE ARMAZENAMENTO DE ENERGIA EM REDES DE DISTRIBUIÇÃO COM ALTA PENETRAÇÃO DE FONTES RENOVÁVEIS",
+          "membros": "FERNANDES JUNIOR, D.; HUILMAN S. SANCA",
+          "candidato": "BRUNO ARAÚJO MARQUES DE ALMEIDA",
+          "citacao_completa": "FERNANDES JUNIOR, D.; HUILMAN S. SANCA . Participação em banca de BRUNO ARAÚJO MARQUES DE ALMEIDA.AVALIAÇÃO DO DESEMPENHO DE SISTEMAS DE ARMAZENAMENTO DE ENERGIA EM REDES DE DISTRIBUIÇÃO COM ALTA PENETRAÇÃO DE FONTES RENOVÁVEIS. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Relatório Final do Estágio INTEGRADO",
+          "membros": "SOUZA, R. T.; HUILMAN S. SANCA",
+          "candidato": "JOSÉ GERALDO DA SILVEIRA NETO",
+          "citacao_completa": "SOUZA, R. T.; HUILMAN S. SANCA . Participação em banca de JOSÉ GERALDO DA SILVEIRA NETO.Relatório Final do Estágio INTEGRADO. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Relatório Final do Estágio INTEGRADO",
+          "membros": "SILVA, C. A.; SANCA, H.S.",
+          "candidato": "ALDERI LEOCÁDIO DA SILVA FILHO",
+          "citacao_completa": "SILVA, C. A.; SANCA, H.S. . Participação em banca de ALDERI LEOCÁDIO DA SILVA FILHO.Relatório Final do Estágio INTEGRADO. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Relatório Final do Estágio INTEGRADO",
+          "membros": "SILVA, C. A.; SANCA, H.S.",
+          "candidato": "JOÃO HENRIQUE NASCIMENTO DE CARVALHO",
+          "citacao_completa": "SILVA, C. A.; SANCA, H.S. . Participação em banca de JOÃO HENRIQUE NASCIMENTO DE CARVALHO.Relatório Final do Estágio INTEGRADO. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".TECNOLOGIAS APLICADAS EM SISTEMAS DE PROPULSÃO DE VEÍCULOS ELETRIFICADOS: UMA REVISÃO DA LITERATURA",
+          "membros": "Paulo Fábio Figueiredo Rocha; SANCA SANCA, HUILMAN ; BARRA, P. H. A.",
+          "candidato": "Mateus Pires Mendes",
+          "citacao_completa": "Paulo Fábio Figueiredo Rocha; SANCA SANCA, HUILMAN ; BARRA, P. H. A.. Participação em banca de Mateus Pires Mendes.TECNOLOGIAS APLICADAS EM SISTEMAS DE PROPULSÃO DE VEÍCULOS ELETRIFICADOS: UMA REVISÃO DA LITERATURA. 2022. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".EFICIÊNCIA ENERGÉTICA EM ILUMINAÇÃO PÚBLICA: ESTUDO DE CASO EM UM MUNICÍPIO DA BAHIA",
+          "membros": "Acbal, R. A. A.; Joaquim, J. M. G.; SANCA SANCA, HUILMAN",
+          "candidato": "VICTOR ALVES BORGES FERREIRA",
+          "citacao_completa": "Acbal, R. A. A.; Joaquim, J. M. G.; SANCA SANCA, HUILMAN . Participação em banca de VICTOR ALVES BORGES FERREIRA.EFICIÊNCIA ENERGÉTICA EM ILUMINAÇÃO PÚBLICA: ESTUDO DE CASO EM UM MUNICÍPIO DA BAHIA. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise comparativa da THD na integração de usinas eólicas PMSG e DFIG a uma rede de transmissão",
+          "membros": "SANCA, H.S. ; Milton E. Z. Alcahuaman; Acbal, R. A. A.",
+          "candidato": "Phillipe Luis Silva Santana",
+          "citacao_completa": "SANCA, H.S. ; Milton E. Z. Alcahuaman; Acbal, R. A. A.. Participação em banca de Phillipe Luis Silva Santana.Análise comparativa da THD na integração de usinas eólicas PMSG e DFIG a uma rede de transmissão. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA USANDO ARDUINO",
+          "membros": "HUILMAN SANCA SANCA ; ; Joaquim, J. M. G.",
+          "candidato": "Luiz Fernando dos Santos Almeida",
+          "citacao_completa": "HUILMAN SANCA SANCA ; ; Joaquim, J. M. G.. Participação em banca de Luiz Fernando dos Santos Almeida.SISTEMA DE AQUISIÇÃO DE DADOS PARA O MONITORAMENTO DO CONSUMO DE ENERGIA USANDO ARDUINO. 2021. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".ESTUDO DE VIABILIDADE TÉCNICA-ECONÔMICA PARA IMPLATAÇÃO DE UM SISTEMA DE MICROGERAÇÃO DE ENERGIA FOTOVOLTAICA NO CAMPUS DE CRUZ DAS ALMAS - UFRB",
+          "membros": "Joaquim, J. M. G.; Maria das Neves Queiroz de Macedo; HUILMAN SANCA SANCA",
+          "candidato": "Heyde Miranda Mascarenhas",
+          "citacao_completa": "Joaquim, J. M. G.; Maria das Neves Queiroz de Macedo; HUILMAN SANCA SANCA . Participação em banca de Heyde Miranda Mascarenhas.ESTUDO DE VIABILIDADE TÉCNICA-ECONÔMICA PARA IMPLATAÇÃO DE UM SISTEMA DE MICROGERAÇÃO DE ENERGIA FOTOVOLTAICA NO CAMPUS DE CRUZ DAS ALMAS - UFRB. 2021. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise do Fluxo de Carga da Rede de Média Tensão do campus Cruz das Almas da Universidade Federal do Recôncavo da Bahia",
+          "membros": "Huilman S. Sanca ; Marcus Tulius Barros Florentino; Joaquim, J. M. G.",
+          "candidato": "Ítala Liz das Conceição Santana silva",
+          "citacao_completa": "Huilman S. Sanca ; Marcus Tulius Barros Florentino; Joaquim, J. M. G.. Participação em banca de Ítala Liz das Conceição Santana silva.Análise do Fluxo de Carga da Rede de Média Tensão do campus Cruz das Almas da Universidade Federal do Recôncavo da Bahia. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".ESTUDO SOBRE LAUDO TÉCNICO DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS",
+          "membros": "Teófilo, P. G.; Huilman S. Sanca ; Marcus Tulius Barros Florentino",
+          "candidato": "RAMON MENEZES DE JESUS ALBINO",
+          "citacao_completa": "Teófilo, P. G.; Huilman S. Sanca ; Marcus Tulius Barros Florentino. Participação em banca de RAMON MENEZES DE JESUS ALBINO.ESTUDO SOBRE LAUDO TÉCNICO DE PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".PROJETO DE UM SISTEMA DE CAPTAÇÃO DE ENERGIA FOTOVOLTAICA UTILIZANDO SOFTWARE PVSYST: CASO DE ESTUDO NO PAVILHÃO DAS ENGENHARIAS DA UFRB",
+          "membros": "Acbal Rucas Andrade Achy; SILVA, N. C.; Huilman S. SANCA",
+          "candidato": "FILLIPE DE ALMEIDA ANDRADE",
+          "citacao_completa": "Acbal Rucas Andrade Achy; SILVA, N. C.; Huilman S. SANCA . Participação em banca de FILLIPE DE ALMEIDA ANDRADE.PROJETO DE UM SISTEMA DE CAPTAÇÃO DE ENERGIA FOTOVOLTAICA UTILIZANDO SOFTWARE PVSYST: CASO DE ESTUDO NO PAVILHÃO DAS ENGENHARIAS DA UFRB. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".APLICAÇÃO DO PROGRAMA BRASILEIRO DE ETIQUETAGEM EM RESIDÊNCIAS TÍPICAS DE GOVERNADOR MANGABEIRA/BA",
+          "membros": "Joaquim, J. M. G.; HUILMAN SANCA SANCA ; Maria das Neves Queiroz de Macedo",
+          "candidato": "RAILANA ARAUJO DA SILVEIRA",
+          "citacao_completa": "Joaquim, J. M. G.; HUILMAN SANCA SANCA ; Maria das Neves Queiroz de Macedo. Participação em banca de RAILANA ARAUJO DA SILVEIRA.APLICAÇÃO DO PROGRAMA BRASILEIRO DE ETIQUETAGEM EM RESIDÊNCIAS TÍPICAS DE GOVERNADOR MANGABEIRA/BA. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".AVALIAÇÃO DOS ALGORITMOS DE ESTIMAÇÃO DE FASORES EM SISTEMA DE ENERGIA ELÉTRICA",
+          "membros": "HUILMAN SANCA SANCA ; Joaquim, J. M. G.; Paulo Fábio Figueiredo Rocha",
+          "candidato": "ALFREDO PLINIO DE ARAÚJO NETO",
+          "citacao_completa": "HUILMAN SANCA SANCA ; Joaquim, J. M. G.; Paulo Fábio Figueiredo Rocha. Participação em banca de ALFREDO PLINIO DE ARAÚJO NETO.AVALIAÇÃO DOS ALGORITMOS DE ESTIMAÇÃO DE FASORES EM SISTEMA DE ENERGIA ELÉTRICA. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".DETECÇÃO E CLASSIFICAÇÃO DE FALTAS EM LINHAS DE TRANSMISSÃO",
+          "membros": "HUILMAN SANCA SANCA ; Joaquim, J. M. G.; SILVA, N. C.",
+          "candidato": "Maurício Andrade Marinho",
+          "citacao_completa": "HUILMAN SANCA SANCA ; Joaquim, J. M. G.; SILVA, N. C.. Participação em banca de Maurício Andrade Marinho.DETECÇÃO E CLASSIFICAÇÃO DE FALTAS EM LINHAS DE TRANSMISSÃO. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".LOCALIZAÇÃO DE FALTAS EM LINHAS DE TRANSMISSÃO PELO MÉTODO DAS COMPONENTES FUNDAMENTAIS",
+          "membros": "HUILMAN SANCA SANCA ; Acbal Rucas Andrade Achy; SILVA, N. C.",
+          "candidato": "Fellipe Meira Souza e Souza",
+          "citacao_completa": "HUILMAN SANCA SANCA ; Acbal Rucas Andrade Achy; SILVA, N. C.. Participação em banca de Fellipe Meira Souza e Souza.LOCALIZAÇÃO DE FALTAS EM LINHAS DE TRANSMISSÃO PELO MÉTODO DAS COMPONENTES FUNDAMENTAIS. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".ANÁLISE DA COORDENAÇÃO ENTRE OS DISPOSITIVOS DE PROTEÇÃO DE MÉDIA TENSÃO DO CAMPUS DA UFRB DE CRUZ DAS ALMAS",
+          "membros": "HUILMAN SANCA SANCA ; Marcus Tulius Barros Florentino; Joaquim, J. M. G.",
+          "candidato": "Aurino José de Queiroz Neto",
+          "citacao_completa": "HUILMAN SANCA SANCA ; Marcus Tulius Barros Florentino; Joaquim, J. M. G.. Participação em banca de Aurino José de Queiroz Neto.ANÁLISE DA COORDENAÇÃO ENTRE OS DISPOSITIVOS DE PROTEÇÃO DE MÉDIA TENSÃO DO CAMPUS DA UFRB DE CRUZ DAS ALMAS. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".ESTIMATIVA DO POTENCIAL DE PRODUÇÃO DE ENERGIA ELÉTRICA ATRAVÉS DE SISTEMAS FOTOVOLTAICOS FLUTUANTES NO RESERVATÓRIO DA HIDRELÉTRICA DE PEDRA DO CAVALO",
+          "membros": "HUILMAN SANCA SANCA ; Acbal Rucas Andrade Achy; Joaquim, J. M. G.",
+          "candidato": "Luiza Rocha Gumez",
+          "citacao_completa": "HUILMAN SANCA SANCA ; Acbal Rucas Andrade Achy; Joaquim, J. M. G.. Participação em banca de Luiza Rocha Gumez.ESTIMATIVA DO POTENCIAL DE PRODUÇÃO DE ENERGIA ELÉTRICA ATRAVÉS DE SISTEMAS FOTOVOLTAICOS FLUTUANTES NO RESERVATÓRIO DA HIDRELÉTRICA DE PEDRA DO CAVALO. 2019. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".PROJETO, INSTALAÇÃO E COMISSIONAMENTO DE UM SISTEMA FOTOVOLTAICO CONECTADO A REDE",
+          "membros": "Joaquim, J. M. G.; HUILMAN SANCA SANCA ; Maria das Neves Queiroz de Macedo",
+          "candidato": "Vitor Oliveira e Silva",
+          "citacao_completa": "Joaquim, J. M. G.; HUILMAN SANCA SANCA ; Maria das Neves Queiroz de Macedo. Participação em banca de Vitor Oliveira e Silva.PROJETO, INSTALAÇÃO E COMISSIONAMENTO DE UM SISTEMA FOTOVOLTAICO CONECTADO A REDE. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".ELABORAÇÃO DE UM GUIA DE EXPERIMENTO PARA A MÁQUINA DE INDUÇÃO TRIFÁSICA",
+          "membros": "Marcus Tulius Barros Florentino; Carolina Moreno Salcedo Nunes; HUILMAN SANCA SANCA",
+          "candidato": "Netaniel Morais Santos",
+          "citacao_completa": "Marcus Tulius Barros Florentino; Carolina Moreno Salcedo Nunes; HUILMAN SANCA SANCA . Participação em banca de Netaniel Morais Santos.ELABORAÇÃO DE UM GUIA DE EXPERIMENTO PARA A MÁQUINA DE INDUÇÃO TRIFÁSICA. 2018. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PREDIÇÃO DA RESISTÊNCIA À COMPRESSÃO NO CONRETO DE ALTO DESEMPENHO UTILIZANDO O MÉTODO DE K-VIZINHOS MAIS PRÓXIMO",
+          "membros": "Marcus Tulius Barros Florentino; Paulo Fábio Figueiredo Rocha; HUILMAN SANCA SANCA",
+          "candidato": "Túlio Santos da Cunha",
+          "citacao_completa": "Marcus Tulius Barros Florentino; Paulo Fábio Figueiredo Rocha; HUILMAN SANCA SANCA . Participação em banca de Túlio Santos da Cunha.PREDIÇÃO DA RESISTÊNCIA À COMPRESSÃO NO CONRETO DE ALTO DESEMPENHO UTILIZANDO O MÉTODO DE K-VIZINHOS MAIS PRÓXIMO. 2018. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PROPOSTA DE UM APARATO EXPERIMENTAL DO TIPO COLD-FINGER PARA ESTUDOS DO FENÔMENO DE PARAFINAÇÃO EM TUBULAÇÕES DE PETRÓLEO",
+          "membros": "Geydison Gonzaga Demetino; Ivanoé João Rodowanski; HUILMAN SANCA SANCA",
+          "candidato": "CARLOS JOSÉ DOS SANTOS JUNIOR",
+          "citacao_completa": "Geydison Gonzaga Demetino; Ivanoé João Rodowanski; HUILMAN SANCA SANCA . Participação em banca de CARLOS JOSÉ DOS SANTOS JUNIOR.PROPOSTA DE UM APARATO EXPERIMENTAL DO TIPO COLD-FINGER PARA ESTUDOS DO FENÔMENO DE PARAFINAÇÃO EM TUBULAÇÕES DE PETRÓLEO. 2018. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".CARACTERIZAÇÃO DE UM MOTOR DE PASSO PARA USO COMO SENSOR DE DISTÂNCIA EM PIG?S",
+          "membros": "Geydison Gonzaga Demetino; Ivanoé João Rodowanski; HUILMAN SANCA SANCA",
+          "candidato": "MAIANA SOUZA GOMES",
+          "citacao_completa": "Geydison Gonzaga Demetino; Ivanoé João Rodowanski; HUILMAN SANCA SANCA . Participação em banca de MAIANA SOUZA GOMES.CARACTERIZAÇÃO DE UM MOTOR DE PASSO PARA USO COMO SENSOR DE DISTÂNCIA EM PIG?S. 2018. Trabalho de Conclusão de Curso (Graduação em Ciências Exatas e Tecnológicas) - Universidade Federal do Recôncavo da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "H.S. Sanca ; JUNQUEIRA, C. M. S.; BARROS, R. C.. Processo seletivo para professor Temporário, Edital Interno 04/2023, da",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "H.S. Sanca ; JUNQUEIRA, C. M. S.; BARROS, R. C.. Processo seletivo para professor Temporário, Edital Interno 04/2023, da área de conhecimento Sistemas Elétricos e Computacionais - SECOMP. 2024. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Huilman S. SANCA ; JUNQUEIRA, C. M. S.; Acbal, R. A. A.. Processo seletivo para professor Temporário, Edital Interno n° ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Huilman S. SANCA ; JUNQUEIRA, C. M. S.; Acbal, R. A. A.. Processo seletivo para professor Temporário, Edital Interno n° 01/2023, daárea de conhecimento Sistemas Elétricos e Computacionais - SECOMP II: Medidas e MateriaisElétricos.. 2023. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SANCA SANCA, HUILMAN ; SILVA, N. C.; Acbal Rucas Andrade Achy. Processo Seletivo para contratação de Docente por Tempo D",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SANCA SANCA, HUILMAN ; SILVA, N. C.; Acbal Rucas Andrade Achy. Processo Seletivo para contratação de Docente por Tempo Determinado - Professor Substituto SECOMP/CETEC/UFRB. 2022. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SANCA SANCA, HUILMAN ; SANTOS, A. K. X.; . Concurso Público para professor Adjunto, Edital 02/2022, UFRB, Engenharia Elé",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SANCA SANCA, HUILMAN ; SANTOS, A. K. X.; . Concurso Público para professor Adjunto, Edital 02/2022, UFRB, Engenharia Elétrica. 2022. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Huilman S. SANCA ; Joaquim, J. M. G.; BARRA, P. H. A.. Processo seletivo para professor Temporário, Edital Interno n° 03",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Huilman S. SANCA ; Joaquim, J. M. G.; BARRA, P. H. A.. Processo seletivo para professor Temporário, Edital Interno n° 03/2022, daárea de conhecimento Sistemas Elétricos e Computacionais - SECOMP. 2022. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2021,
+          "titulo": "SANCA, HUILMAN SANCA ; Joaquim, J. M. G.; Acbal Rucas Andrade Achy. Processo Seletivo para contratação de Docente por Te",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SANCA, HUILMAN SANCA ; Joaquim, J. M. G.; Acbal Rucas Andrade Achy. Processo Seletivo para contratação de Docente por Tempo Determinado - Professor Substituto SECOMP/CETEC/UFRB. 2021. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Acbal, R. A. A.; Huilman S. Sanca ; Joaquim, J. M. G.. Professor substituto SECOMP - CETEC - UFRB. 2019. Universidade Fe",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Acbal, R. A. A.; Huilman S. Sanca ; Joaquim, J. M. G.. Professor substituto SECOMP - CETEC - UFRB. 2019. Universidade Federal do Recôncavo da Bahia."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Jose Valentim dos Santos Filho; João Carlos Nunes Bittencourt; HUILMAN SANCA SANCA . Professor Substituto / Área de Sist",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Jose Valentim dos Santos Filho; João Carlos Nunes Bittencourt; HUILMAN SANCA SANCA . Professor Substituto / Área de Sistemas Elétricos e Computacionais. 2018. Universidade Federal do Recôncavo da Bahia."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "HUILMAN SANCA SANCA . Avaliador de projetos PIBIC/Edital 001/2017- UEFS. 2017. Universidade Estadual de Feira de Santana",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "HUILMAN SANCA SANCA . Avaliador de projetos PIBIC/Edital 001/2017- UEFS. 2017. Universidade Estadual de Feira de Santana."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,403 @@
+{
+  "name": "Hermes Irineu Del Monego",
+  "lattes_id": "8607494162641950",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "Mauro Augusto da Rosa ; HENRIQUE, C. M. ; BOLACELL, G. ; DEL MONEGO, HERMES I. ; LIMA, P. C. . High-Voltage Measurement Infrastructure Based on Optical Technology for Transmission Lines. Energies , v. 18, p. 830-846, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.3390/en18040830"
+        },
+        {
+          "texto": "FERNANDES, ALISON M. ; DEL MONEGO, HERMES I. ; CHANG, BRUNO S. ; MUNARETTO, ANELISE . Reducing Unnecessary Handovers Using Logistic Regression in 5G Networks. IEEE Access , v. 13, p. 78707-78726, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3564532"
+        },
+        {
+          "texto": "GARCIA, GIOVANNA ; VENDRAMIN, ANA CRISTINA K. ; DEL MONEGO, HERMES I. ; MUNARETTO, ANELISE . LoPoFly: Location and Positioning Optimization for Flying Networks. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS (DORDRECHT. ONLINE) , v. 1, p. 1-20, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s10846-020-01194-0"
+        },
+        {
+          "texto": "Basilio, G.G. ; MONEGO, H. I. ; ; ; ; FONSECA, M. S. P. . An iterative heuristic approach for channel and power allocation in wireless networks. Annals of Telecommunications , v. 1, p. 1-11, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Giovanna Garcia ; MONEGO, H. I. ; ; SOUZA, Richard Demo ; FONSECA, Anelise Munaretto ; FONSECA, M. S. P. . An iterative heuristic approach for channel and power allocation in wireless networks. ANNALS OF TELECOMMUNICATIONS , v. 1, p. 1-11, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "WILLE, EMILIO C. G. ; MONEGO, H. I. ; COUTINHO, BRUNO V. ; Basilio, G.G. . Routing Protocols for VANETs: An Approach based on Genetic Algorithms. KSII T INTERNET INF , v. 10, p. 542-558, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Monego, Hermes Del ; Carneiro, Gustavo ; Oliveira, José Manuel ; Ricardo, Manuel . An ns-3 architecture for simulating joint radio resource management strategies in interconnected WLAN and UMTS networks. Transactions on Emerging Telecommunications Technologies , v. 23, p. 537-549, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1002/ett.2508"
+        },
+        {
+          "texto": "MONEGO, H. I. ; ; ; ; . Comparative Analysis Among Different Monitoring Functions in aBandwidth Renegotiation Scheme for Packet Switched CellularNetworks. Lecture Notes in Computer Science , Publica em LNCS, v. 4217, p. 76-87, 2006.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1007/11872153_7"
+        },
+        {
+          "texto": "MONEGO, H. I. ; BODANESE,E. L. ; ; . A Dynamic Resource Allocation Scheme to Providing QoS in Packet-Switched Cellular Networks .. Lecture Notes in Computer Science , ISBN: 3-540-29410-4, v. 3744, p. 117-126, 2005.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.1007/11569510_12"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "Andrade Bresolin, Adriano ; Monego, Hermes Irineu . Consonantal Recognition Using SVM and a Hierarchical Decision Structure Based in the Articulatory Phonetics. In: Huang, Tingwen and Zeng, Zhigang and Li, Chuandong and Leung, ChiSing. (Org.). Lecture Notes in Computer Science. 766ed.: Springer Berlin Heidelberg, 2012, v. , p. 655-663.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1007/978-3-642-34481-7_80"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "FERNANDES, ALISON M. ; DEL MONEGO, HERMES I. ; CHANG, BRUNO S. ; MUNARETTO, ANELISE ; FONTES, HÉLDER ; CAMPOS, RUI . Hybrid Deep Learning Framework for CSI-Based Activity Recognition in Bandwidth-Constrained Wi-Fi Sensing. In: 2026 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit), 2026, Málaga. 2026 Joint European Conference on Networks and Communications & 6G Summit (EuCNC/6G Summit), 2026. p. 171.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/eucnc/6gsummit68295.2026.11577205"
+        },
+        {
+          "texto": "FERNANDES, ALISON M. ; MONEGO, H. I. ; ; CHANG, BRUNO S. . Hybrid Inception-BiLSTM and SVM for Enhanced CSI-based Human Activity Recognition. In: Wireless Days 2025, 2025, Niteroi, Rj. Wireless Days 2025, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "TSUCHIYA, L. B. ; MONEGO, H. I. ; CHANG, BRUNO S. . Adaptive 5G NR-U/Wi-Fi Coexistence with Multiple Numerologies for 3GPP Fairness. In: Wireless Days 2025, 2025, Niteroi, RJ. Wireless Days 2025, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, ALISON M. ; DEL MONEGO, HERMES I. ; CHANG, BRUNO S. ; MUNARETTO, ANELISE . Analysis and Prediction of Multicell Handovers in 5G Networks Applying Logistic Regression. In: 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON), 2024, Porto. 2024 IEEE 22nd Mediterranean Electrotechnical Conference (MELECON), 2024. p. 826.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/MELECON56669.2024.10608626"
+        },
+        {
+          "texto": "HEREK, T. A. ; ; FONSECA, M. S. P. ; MONEGO, H. I. . Análise da Capacidade de Entrega de uma Rede Oportunista no Transporte Público Urbano.. In: II WORKSHOP DE COMPUTAÇÃO URBANA (COURB 2018), 2018, Porto Alegre. Sociedade Brasileira de Computação, 2018. v. 2. p. 1-14.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Chang, B.S. ; MONEGO, H. I. ; ; FONSECA, M. S. P. ; . A Simplified Widely Linear Iterative Equalizer for SC-FDE Systems.. In: Wireless Days, 2017, Porto. Wireless Days, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "COUTINHO, BRUNO V. ; WILLE, EMILIO C. G. ; DEL MONEGO, HERMES I. . Performance of routing protocols for VANETs. In: the 9th International Conference, 2015, Bali. Proceedings of the 9th International Conference on Ubiquitous Information Management and Communication - IMCOM '15. v. v1. p. 1.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1145/2701126.2701141"
+        },
+        {
+          "texto": "Riedi, M. ; Basilio, G.G. ; ; Penna, M. C. ; ; ; MONEGO, H. I. . Channel and Power Allocation Algorithm to Optimize the Performance of Large WLANs. In: Proceedings of The 30th ACM/SIGAPP Symposium On Applied Computing (SAC), 2015, Salamanca. ACM SAC 2014. New York: ACM Press, 2015. v. 1. p. 1-5.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Andrade Bresolin, Adriano ; MONEGO, H. I. . Consonantal Recognition Using SVM and a Hierarchical Decision Structure Based in the Articulatory Phonetics. In: 19th International Conference, ICONIP 2012, 2012, doha. 19th International Conference, ICONIP 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . Analyzing the behavior of a new Joint Radio Resource Management Strategy. In: Simpósio Brasileiro de Redes de Telecomunicações, 2011, Curitiba. SBRT11. Curitiba: Sociedade Brasileira de Redes de Telecomunicações, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . Performance Analysis of Joint Radio Resource Management Strategies for Beyond 3G Networks. In: NGMAST '09. Third IEEE International Conference and Exhibition on Next Generation Mobile Applications, Services, and Technologies, 2009, Cardiff, Wales, UK. Next Generation Mobile Applications, Services and Technologies, 2009. p. 317-322.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/NGMAST.2009.70"
+        },
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . A Resource Management Strategy for Interconnected WLAN and UMTS Networks based on User Mobility, Call Renegotiation, and Call Reallocation. In: ISWCS 2009. 6th IEEE International Symposium on Wireless Communication Systems, 2009, Siena, Italy. Wireless Communication Systems, 2009. p. 358-362.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/ISWCS.2009.5285352"
+        },
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . Analyzing the Impact of Real and Non-Real Time Traffic on Joint Radio Resource Management. In: 9ª Conferência sobre Redes de Computadores, 2009, Oeiras. Redes sem Fios IEEE Portugal Section, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . Gestão de Recursos Multi-Rádio com Renegociação e Re-alocação de Chamadas. In: 3ª Conferencia Ibérica de Sistemas y Tecnologías de la Información (CISTI 2008), 2008, Ourense. Redes de Computadores, Movilidad y Sistemas Ubicuos, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. ; BODANESE,E. L. ; ; . Renegociação Dinâmica de Largura de Banda para Chamadas Pós-Admitidas em Redes Celulares Comutadas a Pacotes. In: XXII Simpósio Brasileiro de Telecomunicações, 2005, Campinas, Sp. XXII Simpósio Brasileiro de Telecomunicações, 2005. p. 611-616.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "DEL MONEGO, HERMES I. ; MONEGO, M. L. C. ; JESUS, M. A. . PROJETO ELETRONICAMENTE: A ELETRÔNICA NA MENTE DOS ESTUDANTES. In: XIV Seminário de Extensão e Inovação & XXIX Seminário de Iniciação Científica e Tecnológica da UTFPR - SEI/SICITE 2024, 2024, Francisco Beltrão. Anais do XIV Seminário de Extensão e Inovação & XXIX Seminário de Iniciação Científica e Tecnológica da UTFPR - SEI/SICITE, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. ; MONEGO, M. L. C. ; JESUS, M. A. . Um caminho lúdico para aprender eletrônica.. In: XIII Seminário de Extensão e Inovação & XXVIII Seminário de Iniciação Científica e Tecnológica da UTFPR (SEI/SICITE), 2023, Ponta Grossa. Anais do XIII Seminário de Extensão e Inovação & XXVIII Seminário de Iniciação Científica e Tecnológica da UTFPR, 2023.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "MONEGO, H. I. ; OLIVEIRA, J. M. ; RICARDO, M. . (JRRM) Joint Radio Resource Management for Interconnected WLAN and UMTS Networks. 2009. (Apresentação de Trabalho/Seminário).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "MONEGO, H. I. . Renegociação Dinâmica de Largura de Banda Utilizando uma Rede Celular GSM/EDGE. Curitiba - Pr: Centro Federal de Educação Tecnologica do Paraná, 2004 (Dissertação de Mestrado).",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "MONEGO, H. I. . Quatro Estações - Software de Automação de Operadora de Turismo. 2001.",
+          "ano": 2001,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. . Avaliação de projetos de extensão de fluxo contínuo.. 2023.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "MONEGO, H. I. . Produção de Documentos Científicos, Utilizando a Plataforma Latex. 2012. .",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. . Análise Estatística no Tratamento de Dados. 2010. .",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MONEGO, H. I. . Análise Estatística no Tratamento de Dados. 2010. .",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "WILLE, EMILIO C. G.; ALBINI, L. C. P.; MONEGO, H. I. . Participação em banca de Danilo Renato de Assis. Técnicas para aumentar a conectividade e o desempenho das VANETs: análise do tempo de duração das rotas e um novo protocolo de roteamento. 2020. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "REBELATTO, J. L.; ; MONEGO, H. I. . Participação em banca de Marcos Eduardo Pivaro Monteiro. Sistema de Verificação de Localização com Antenas Direcionais baseado em Teoria da Informação. 2014. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SEGATTO, M. E. V.; ANDREAO, R. V.; Monego, Hermes Irineu ; SILVA, J. A. L.. Participação em banca de Bruno Neves Amigo. Metodologia de análise de rede ZigBee em subestação de extra-alta tensão para SmartGrid. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MACIEL, M. C.; ; MONEGO, H. I. ; . Participação em banca de Marcos Costa Maciel. Compressão de Dados Ambientais em Redes de Sensores Sem Fio Usando Código de Huffman. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "BRANT, G. G. O.; MONEGO, H. I. ; Chang, B.S.; REBELATTO, J. L.; ; KAKITANI, M. T.; MONEGO, H. I. . Participação em banca de Daniel Hayashida Simao. Energy Efficiency of Multi-Hop Underwater Acoustic Networks Using Fountain Codes. 2021. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Fábio Alexandre de Souza; ; OLIVEIRA, G. B.; ; MONEGO, H. I. ; Chang, B.S.. Participação em banca de Fábio Alexandre de Souza. Otimização dos Parâmetros de um sistema de comunicação acústica subaquática para minimizar o consumo energético. 2016. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DOSCIATTI, E. R.; FORONDA, A.; MONEGO, H. I. ; ; FONSECA, K. V. O.; ALBINI, L. C. P.. Participação em banca de Eden Ricardo Dosciatti. Uma nova arquitetura para provisão de QoS utilizando enxame de partículas em redes WiMAX fixas. 2015. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "items": [
+        {
+          "texto": "MANTOAN, F. G.; ; Schutz, F.. Participação em banca de fernando Gotardo Mantoan. Estudo de Caso de uma Estrutura de Autenticação Única Utilizando o Protocolo Oauth. 2011. Monografia (Aperfeiçoamento/Especialização em especialização em Projeto e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "GOTARDO, A.; . Participação em banca de Alessandro Gotardo. Aplicações Java com Uso de Projetos Hibernate. 2011. Monografia (Aperfeiçoamento/Especialização em especialização em Projeto e Desenv. de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "FONSECA, M. S. P.; ; DEL MONEGO, HERMES I. . Participação em banca de Ítalo Bispo de Almeida Pinto e Ivan Bauer Junior.Aplicativo para diagnóstico de redes domésticas. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. ; Chang, B.S.; FARIAS, R. A.; LIZ, M. V.. Participação em banca de Daiara Dyba e Polianna Beatriz Basso.Sistema de Telemetria para Reator Anaeróbico de Fluxo Ascendente com Manta de Lodo. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; DEL MONEGO, HERMES I. ; KOCHEM, Ana Cristina Barreiras. Participação em banca de Anderson Candido de Jesus da Silva Kulitch e Gedor José da S.Piperchat: desenvolvimento de uma ferramenta de videoconferência peer-to-peer com WEBRTC. 2025. Trabalho de Conclusão de Curso (Graduação em Ciências da Computação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "DEL MONEGO, HERMES I. ; RASERA, C. C.; NABAS, K. K.. Participação em banca de Gerenciamento de Ativos Usando RFID de Longa Distância.Gerenciamento de Ativos Usando RFID de Longa Distância. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; Schutz, F.; PAULA FILHO, P. L.. Participação em banca de Márcio Sandoval Tomé.Integração de Sistemas Desktop com Dispositivos Móveis Utilizando Web Services. 2011. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Schutz, F.; LAMB, J. R.. Participação em banca de Marcos Roberto Bertuol.Produtividade em Aplicações WEB Utilizando o PRADO PHP Framework. 2011. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Schutz, F.; ARAUJO, E. C.. Participação em banca de Lucas Guilherme Diedrich.Grails: Framework de Alta Produtividade para Aplicaçãoes WEB. 2011. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Diego Aguiar Selzlein.Computação em Nuvem Baseada em Redes Magnéticas Virtuais. 2010. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Rafael Batistini.Soluções Mikrotik para Redes Wireless. 2010. Trabalho de Conclusão de Curso (Graduação em Análise e Desenvolvimento de Sistemas) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; BASTOS, Laudelino Cordeiro; LINHARES, Robson Ribeiro; CHARÃO, Aurélio Flávio. Participação em banca de Denis Hattori Matias.Prancha de Comunicação com Predição de Símbolos. 2004. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Informática) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; KOCHEM, Ana Cristina Barreiras; ALMEIDA, Leandro Batista de; FIGUEREDO, Wânia Meira Matos. Participação em banca de Odirley Victório K. Ieger Sérgio Rodrigo de Medeiros.Diário de Classe em Palm. 2004. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Informática) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; BOGADO, Wilson Horstmeyer; ALMEIDA, Leandro Batista de. Participação em banca de Vinícius Godoy de Mendonça.Integração dos Dados vindos do Receptor GPS de Navegação no Computador de Mão Palm. 2004. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Informática) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; CAVALCANTI, Eteocles da Silva; GONÇALVES, Marcelo Mikosz; FIGUEREDO, Wânia Meira Matos. Participação em banca de Tarek Bazzi.Frame Relay - Migrando para uma nova tecnologia. 2004. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Informática) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "MONEGO, H. I. ; ALBINI, L. C. P.; WILLE, EMILIO C. G.. Concurso público para professor do magistério superior. 2023. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALBINI, L. C. P.; RENAUX, D. P. B.; MONEGO, H. I. . Concurso público para professor do magistério superior. 2022. Universidade Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ALBINI, L. C. P.; GOMES, D. M.; RENAUX, D. P. B.; OCHOA FILHO, B. F.; MONEGO, H. I. . Professor do Magistério Superior Classe Adjunto A. 2021. Universidade Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BATISTA, M. A.; MONEGO, H. I. ; SENGER, H.; FRANKLIN, D. R. C.. Professor Adjunto Organização e Arquitetura de Computadores. 2012. Universidade Federal de Goiás.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

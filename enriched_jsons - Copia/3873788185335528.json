@@ -1,0 +1,354 @@
+{
+  "name": "Danilo Brito Teixeira de Almeida",
+  "lattes_id": "3873788185335528",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Measurement-Based Modeling of Large-Scale and Time-Varying Small-Scale Fading for LoRa in Indoor Multi-Floor Environments",
+          "autores": "LIRA, GABRIEL NASCIMENTO ; Almeida, Danilo Brito Teixeira de ; SARMENTO, DANIEL DA SILVA ; CAVALCANTE CIRAULO, JOÃO VICTOR GADELHA ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON TERLLIZZIE ARAÚJO",
+          "periodico": "SENSORS , v. 26, p. 1152, 2026.",
+          "doi": "http://dx.doi.org/10.3390/s26041152",
+          "citacao_completa": "LIRA, GABRIEL NASCIMENTO ; Almeida, Danilo Brito Teixeira de ; SARMENTO, DANIEL DA SILVA ; CAVALCANTE CIRAULO, JOÃO VICTOR GADELHA ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON TERLLIZZIE ARAÚJO . Measurement-Based Modeling of Large-Scale and Time-Varying Small-Scale Fading for LoRa in Indoor Multi-Floor Environments. SENSORS , v. 26, p. 1152, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Matrix Exponential Distribution Method Applied to Multi-RIS Aided Systems Evaluation",
+          "autores": "ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; QUEIROZ, WAMBERTO J. L.",
+          "periodico": "IEEE Wireless Communications Letters , v. 15, p. 1682-1686, 2026.",
+          "doi": "http://dx.doi.org/10.1109/lwc.2026.3659812",
+          "citacao_completa": "ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; QUEIROZ, WAMBERTO J. L. . Matrix Exponential Distribution Method Applied to Multi-RIS Aided Systems Evaluation. IEEE Wireless Communications Letters , v. 15, p. 1682-1686, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "User-Centric Cell-Free Massive Multiple-Input-Multiple-Output System with Noisy Channel Gain Estimation and Line of Sight: A Beckmann Distribution Approach",
+          "autores": "ALMEIDA, DANILO B. T. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; DUARTE, RAFAEL M. ; MADEIRO, FRANCISCO",
+          "periodico": "Entropy , v. 27, p. 223, 2025.",
+          "doi": "http://dx.doi.org/10.3390/e27030223",
+          "citacao_completa": "ALMEIDA, DANILO B. T. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; DUARTE, RAFAEL M. ; MADEIRO, FRANCISCO . User-Centric Cell-Free Massive Multiple-Input-Multiple-Output System with Noisy Channel Gain Estimation and Line of Sight: A Beckmann Distribution Approach. Entropy , v. 27, p. 223, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Downlink Outage Probability and Channel Capacity for Cell-Free Massive MIMO Systems",
+          "autores": "TEIXEIRA DE ALMEIDA, D.B. ; ALENCAR, M. S. ; DUARTE, R. M. ; MADEIRO, FRANCISCO ; LOPES, W. T. A. ; S. SILVA, HUGERLES ; Ugo S. Dias ; DE QUEIROZ, WAMBERTO JOSE LIRA",
+          "periodico": "TSINGHUA SCIENCE AND TECHNOLOGY , v. 30, p. 2557-2571, 2025.",
+          "doi": "http://dx.doi.org/10.26599/tst.2024.9010148",
+          "citacao_completa": "TEIXEIRA DE ALMEIDA, D.B. ; ALENCAR, M. S. ; DUARTE, R. M. ; MADEIRO, FRANCISCO ; LOPES, W. T. A. ; S. SILVA, HUGERLES ; Ugo S. Dias ; DE QUEIROZ, WAMBERTO JOSE LIRA . Downlink Outage Probability and Channel Capacity for Cell-Free Massive MIMO Systems. TSINGHUA SCIENCE AND TECHNOLOGY , v. 30, p. 2557-2571, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "On the Adaptive Modulation for User-Centric Cell-Free Massive MIMO Systems",
+          "autores": "ALMEIDA, DANILO B. T. ; ALENCAR, MARCELO S. ; DUARTE, RAFAEL M. ; SILVA, HUGERLES S. ; MADEIRO, FRANCISCO ; LOPES, WASLON T. A. ; QUEIROZ, WAMBERTO J. L.",
+          "periodico": "IEEE Access , v. 12, p. 35325-35336, 2024.",
+          "doi": "http://dx.doi.org/10.1109/access.2024.3370944",
+          "citacao_completa": "ALMEIDA, DANILO B. T. ; ALENCAR, MARCELO S. ; DUARTE, RAFAEL M. ; SILVA, HUGERLES S. ; MADEIRO, FRANCISCO ; LOPES, WASLON T. A. ; QUEIROZ, WAMBERTO J. L. . On the Adaptive Modulation for User-Centric Cell-Free Massive MIMO Systems. IEEE Access , v. 12, p. 35325-35336, 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Capacity analysis of shadowed Beaulieu-Xie fading channels",
+          "autores": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B.T. ; QUEIROZ, WAMBERTO J.L. ; SILVA, HIGO T.P. ; FONSECA, IGUATEMI E. ; OLIVEIRA, ARNALDO S.R. ; MADEIRO, FRANCISCO",
+          "periodico": "DIGITAL SIGNAL PROCESSING , v. 122, p. 103367, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.dsp.2021.103367",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B.T. ; QUEIROZ, WAMBERTO J.L. ; SILVA, HIGO T.P. ; FONSECA, IGUATEMI E. ; OLIVEIRA, ARNALDO S.R. ; MADEIRO, FRANCISCO . Capacity analysis of shadowed Beaulieu-Xie fading channels. DIGITAL SIGNAL PROCESSING , v. 122, p. 103367, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Performance of Cell-Free Systems with Channel Reciprocity Errors",
+          "autores": "DUARTE, R. ; ALENCAR, M. ; LOPES, W. ; CARVALHO, F. ; QUEIROZ, W. ; ALMEIDA, D.",
+          "periodico": "Radioengineering , v. 30, p. 237-249, 2021.",
+          "doi": "http://dx.doi.org/10.13164/re.2021.0237",
+          "citacao_completa": "DUARTE, R. ; ALENCAR, M. ; LOPES, W. ; CARVALHO, F. ; QUEIROZ, W. ; ALMEIDA, D. . Performance of Cell-Free Systems with Channel Reciprocity Errors. Radioengineering , v. 30, p. 237-249, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Beaulieu-Xie Phase-Envelope Joint and Bivariate Distributions",
+          "autores": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; SILVA, HIGO T. P. ; OLIVEIRA, ARNALDO S. R. ; MADEIRO, FRANCISCO",
+          "periodico": "IEEE COMMUNICATIONS LETTERS , v. 25, p. 1453-1457, 2021.",
+          "doi": "http://dx.doi.org/10.1109/lcomm.2021.3051521",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; SILVA, HIGO T. P. ; OLIVEIRA, ARNALDO S. R. ; MADEIRO, FRANCISCO . Beaulieu-Xie Phase-Envelope Joint and Bivariate Distributions. IEEE COMMUNICATIONS LETTERS , v. 25, p. 1453-1457, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "On the BEP and Outage Probability Under Cascaded Double Correlated - Fading Channels",
+          "autores": "QUEIROZ, WAMBERTO J. L. ; SILVA, HUGERLES ; PEREIRA DA SILVA, HIGO THAIAN ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; OLIVEIRA, ARNALDO ; MADEIRO, FRANCISCO",
+          "periodico": "IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/TVT.2021.3134954",
+          "citacao_completa": "QUEIROZ, WAMBERTO J. L. ; SILVA, HUGERLES ; PEREIRA DA SILVA, HIGO THAIAN ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; OLIVEIRA, ARNALDO ; MADEIRO, FRANCISCO . On the BEP and Outage Probability Under Cascaded Double Correlated - Fading Channels. IEEE TRANSACTIONS ON VEHICULAR TECHNOLOGY , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Bit error probability of M-QAM under η-μ or κ-μ fading and impulsive noise gated by a signal characterized by a Markov process or Poisson process",
+          "autores": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J.L. ; ALMEIDA, DANILO B.T. ; MADEIRO, FRANCISCO",
+          "periodico": "DIGITAL SIGNAL PROCESSING , v. 100, p. 102699, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.dsp.2020.102699",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J.L. ; ALMEIDA, DANILO B.T. ; MADEIRO, FRANCISCO . Bit error probability of M-QAM under η-μ or κ-μ fading and impulsive noise gated by a signal characterized by a Markov process or Poisson process. DIGITAL SIGNAL PROCESSING , v. 100, p. 102699, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "SEP of the M-ary $$ heta $$-QAM signals under $$eta -mu $$ fading and AWGN noise in a communication system using spatial diversity",
+          "autores": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; MADEIRO, FRANCISCO ; FONSECA, IGUATEMI E. ; DE ALENCAR, MARCELO S.",
+          "periodico": "WIRELESS NETWORKS , v. 26, p. 4529-4542, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s11276-020-02346-8",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; MADEIRO, FRANCISCO ; FONSECA, IGUATEMI E. ; DE ALENCAR, MARCELO S. . SEP of the M-ary $$ heta $$-QAM signals under $$eta -mu $$ fading and AWGN noise in a communication system using spatial diversity. WIRELESS NETWORKS , v. 26, p. 4529-4542, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Cascaded Double Beaulieu-Xie Fading Channels",
+          "autores": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; FONSECA, IGUATEMI E. ; OLIVEIRA, ARNALDO S. R. ; MADEIRO, FRANCISCO",
+          "periodico": "IEEE COMMUNICATIONS LETTERS , v. 24, p. 2133-2136, 2020.",
+          "doi": "http://dx.doi.org/10.1109/lcomm.2020.3004540",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. ; QUEIROZ, WAMBERTO J. L. ; FONSECA, IGUATEMI E. ; OLIVEIRA, ARNALDO S. R. ; MADEIRO, FRANCISCO . Cascaded Double Beaulieu-Xie Fading Channels. IEEE COMMUNICATIONS LETTERS , v. 24, p. 2133-2136, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Outage Probability of the Product of Two Beaulieu-Xie, $eta$-$mu$, $kappa$-$mu$, or $alpha$-$mu$ Random Variables",
+          "autores": "S. SILVA, HUGERLES ; T. ALMEIDA, DANILO B. ; L. QUEIROZ, WAMBERTO J. ; E. FONSECA, IGUATEMI ; R. OLIVEIRA, ARNALDO S. ; MADEIRO, FRANCISCO",
+          "periodico": "IEEE Antennas and Wireless Propagation Letters , v. 19, p. 2182-2186, 2020.",
+          "doi": "http://dx.doi.org/10.1109/lawp.2020.3026967",
+          "citacao_completa": "S. SILVA, HUGERLES ; T. ALMEIDA, DANILO B. ; L. QUEIROZ, WAMBERTO J. ; E. FONSECA, IGUATEMI ; R. OLIVEIRA, ARNALDO S. ; MADEIRO, FRANCISCO . Outage Probability of the Product of Two Beaulieu-Xie, $eta$-$mu$, $kappa$-$mu$, or $alpha$-$mu$ Random Variables. IEEE Antennas and Wireless Propagation Letters , v. 19, p. 2182-2186, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bit error probability of the M -QAM scheme under η - μ fading and impulsive noise in a communication system using spatial diversity",
+          "autores": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO",
+          "periodico": "INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS , v. 32, p. e3959, 2019.",
+          "doi": "http://dx.doi.org/10.1002/dac.3959",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO . Bit error probability of the M -QAM scheme under η - μ fading and impulsive noise in a communication system using spatial diversity. INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS , v. 32, p. e3959, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bit error probability of the M -QAM scheme subject to multilevel double gated additive white Gaussian noise and η - μ , κ - μ , or α - &",
+          "autores": "SILVA, HUGERLES S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; ALENCAR, MARCELO S.",
+          "periodico": "Transactions on Emerging Telecommunications Technologies , v. 30, p. 3682, 2019.",
+          "doi": "http://dx.doi.org/10.1002/ett.3682",
+          "citacao_completa": "SILVA, HUGERLES S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; ALENCAR, MARCELO S. . Bit error probability of the M -QAM scheme subject to multilevel double gated additive white Gaussian noise and η - μ , κ - μ , or α - &. Transactions on Emerging Telecommunications Technologies , v. 30, p. 3682, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bit error probability of the M-QAM scheme subject to multilevel (double) gated additive white Gaussian noise and Nakagami-m fading",
+          "autores": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO",
+          "periodico": "WIRELESS NETWORKS , v. 25, p. 4359-4369, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s11276-019-02100-9",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO . Bit error probability of the M-QAM scheme subject to multilevel (double) gated additive white Gaussian noise and Nakagami-m fading. WIRELESS NETWORKS , v. 25, p. 4359-4369, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "New closed-form expressions for SNR estimates of Nakagami fading channels by the method of moments",
+          "autores": "QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; DE M. CARDOSO, JOSÉ V. ; PEREIRA, DAMIÃO F. L. ; ALENCAR, MARCELO S.",
+          "periodico": "TELECOMMUNICATION SYSTEMS , v. 58, p. 1-13, 2018.",
+          "doi": "http://dx.doi.org/10.1007/s11235-018-0440-6",
+          "citacao_completa": "QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO ; DE M. CARDOSO, JOSÉ V. ; PEREIRA, DAMIÃO F. L. ; ALENCAR, MARCELO S. . New closed-form expressions for SNR estimates of Nakagami fading channels by the method of moments. TELECOMMUNICATION SYSTEMS , v. 58, p. 1-13, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Closed-Form Expression for the Bit Error Probability of the M -QAM for a Channel Subjected to Impulsive Noise and Nakagami Fading",
+          "autores": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO",
+          "periodico": "WIRELESS COMMUNICATIONS & MOBILE COMPUTING , v. 2018, p. 1-9, 2018.",
+          "doi": "http://dx.doi.org/10.1155/2018/5934267",
+          "citacao_completa": "SILVA, HUGERLES S. ; ALENCAR, MARCELO S. ; QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO . Closed-Form Expression for the Bit Error Probability of the M -QAM for a Channel Subjected to Impulsive Noise and Nakagami Fading. WIRELESS COMMUNICATIONS & MOBILE COMPUTING , v. 2018, p. 1-9, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Heat and Mass Transfer during Drying of Clay Ceramic Materials: A Three-Dimensional Analytical Study",
+          "autores": "TEIXEIRA DE BRITO, M.K. ; TEIXEIRA DE ALMEIDA, D.B. ; BARBOSA DE LIMA, A.G. ; ALMEIDA ROCHA, L. ; SANTANA DE LIMA, E. ; BARBOSA DE OLIVEIRA, V.A.",
+          "periodico": "DIFFUSION FOUNDATIONS , v. 10, p. 93-106, 2017.",
+          "doi": "http://dx.doi.org/10.4028/www.scientific.net/df.10.93",
+          "citacao_completa": "TEIXEIRA DE BRITO, M.K. ; TEIXEIRA DE ALMEIDA, D.B. ; BARBOSA DE LIMA, A.G. ; ALMEIDA ROCHA, L. ; SANTANA DE LIMA, E. ; BARBOSA DE OLIVEIRA, V.A. . Heat and Mass Transfer during Drying of Clay Ceramic Materials: A Three-Dimensional Analytical Study. DIFFUSION FOUNDATIONS , v. 10, p. 93-106, 2017."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Análise de Propagação de Dispositivos LoRa em Ambiente Indoor",
+          "autores": "LIRA, GABRIEL NASCIMENTO ; CIRAULO, JOÃO ; SARMENTO, DANIEL DA SILVA ; ALMEIDA, DANILO ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON T. A.",
+          "periodico": "In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2025.1571157016",
+          "citacao_completa": "LIRA, GABRIEL NASCIMENTO ; CIRAULO, JOÃO ; SARMENTO, DANIEL DA SILVA ; ALMEIDA, DANILO ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON T. A. . Análise de Propagação de Dispositivos LoRa em Ambiente Indoor. In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Classificação de Eventos Sonoros Baseada em Redes Neurais para Monitoramento de Idosos",
+          "autores": "DIAS, VICTOR G. ; ALMEIDA, DANILO ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON T. A.",
+          "periodico": "In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2025.1571157224",
+          "citacao_completa": "DIAS, VICTOR G. ; ALMEIDA, DANILO ; CARVALHO, FABRICIO BRAGA SOARES DE ; LOPES, WASLON T. A. . Classificação de Eventos Sonoros Baseada em Redes Neurais para Monitoramento de Idosos. In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Lora Gateway Placement Through Genetic Algorithm for Wireless Sensor Networks",
+          "autores": "PRUDÊNCIO, TACIANO ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; DE CARVALHO, FABRÍCIO BRAGA SOARES",
+          "periodico": "In: 2025 Workshop on Communication Networks and Power Systems (WCNPS), 2025, Brasilia. 2025 Workshop on Communication Networks and Power Systems (WCNPS), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/wcnps69127.2025.11295894",
+          "citacao_completa": "PRUDÊNCIO, TACIANO ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; DE CARVALHO, FABRÍCIO BRAGA SOARES . Lora Gateway Placement Through Genetic Algorithm for Wireless Sensor Networks. In: 2025 Workshop on Communication Networks and Power Systems (WCNPS), 2025, Brasilia. 2025 Workshop on Communication Networks and Power Systems (WCNPS), 2025. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Performance of Mixed Channel Cell-Free Systems",
+          "autores": "DUARTE, RAFAEL MOURA ; DE ALENCAR, MARCELO SAMPAIO ; DE QUEIROZ, WAMBERTO JOSE LIRA ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; DE CARVALHO, FABRICIO BRAGA SOARES ; LOPES, WASLON TERLLIZZIE ARAUJO",
+          "periodico": "In: 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020, Montreal. 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/isncc49221.2020.9297173",
+          "citacao_completa": "DUARTE, RAFAEL MOURA ; DE ALENCAR, MARCELO SAMPAIO ; DE QUEIROZ, WAMBERTO JOSE LIRA ; DE ALMEIDA, DANILO BRITO TEIXEIRA ; DE CARVALHO, FABRICIO BRAGA SOARES ; LOPES, WASLON TERLLIZZIE ARAUJO . Performance of Mixed Channel Cell-Free Systems. In: 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020, Montreal. 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Performance of Cell-Free Systems in Generalized Fading Channels",
+          "autores": "BRITO DE ALMEIDA, DANILO ; SAMPAIO DE ALENCAR, MARCELO ; JOSE LIRA DE QUEIROZ, WAMBERTO ; MOURA DUARTE, RAFAEL ; TERLLIZZIE ARAUJO LOPES, WASLON ; SALES SILVA, HUGERLES",
+          "periodico": "In: 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020, Montreal. 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/isncc49221.2020.9297324",
+          "citacao_completa": "BRITO DE ALMEIDA, DANILO ; SAMPAIO DE ALENCAR, MARCELO ; JOSE LIRA DE QUEIROZ, WAMBERTO ; MOURA DUARTE, RAFAEL ; TERLLIZZIE ARAUJO LOPES, WASLON ; SALES SILVA, HUGERLES . Performance of Cell-Free Systems in Generalized Fading Channels. In: 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020, Montreal. 2020 International Symposium on Networks, Computers and Communications (ISNCC), 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Algoritmo ABC Aplicado à Atribuição de Índices para Quantização Vetorial Robusta de Imagens",
+          "autores": "BARROS, ANA PAULA ; SANTANA JR., CLODOMIR ; ALMEIDA, DANILO ; SILVA, HUGERLES ; QUEIROZ, WAMBERTO ; LOPES, WASLON ; MADEIRO, FRANCISCO",
+          "periodico": "In: Congresso Brasileiro de Inteligência Computacional, 2020. Anais do 14. Congresso Brasileiro de Inteligência Computacional. p. 1.",
+          "doi": "http://dx.doi.org/10.21528/cbic2019-74",
+          "citacao_completa": "BARROS, ANA PAULA ; SANTANA JR., CLODOMIR ; ALMEIDA, DANILO ; SILVA, HUGERLES ; QUEIROZ, WAMBERTO ; LOPES, WASLON ; MADEIRO, FRANCISCO . Algoritmo ABC Aplicado à Atribuição de Índices para Quantização Vetorial Robusta de Imagens. In: Congresso Brasileiro de Inteligência Computacional, 2020. Anais do 14. Congresso Brasileiro de Inteligência Computacional. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Performance of a Cell-Free MIMO Under RF Mismatch",
+          "autores": "DUARTE, RAFAEL M. ; ALMEIDA, DANILO B. ; ALENCAR, MARCELO S. ; CARVALHO, FABRÍCIO B. S. ; LOPES, WASLON T. A.",
+          "periodico": "In: the 22nd International ACM Conference, 2019, Miami Beach. Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems - MSWIM '19, 2019. p. 207.",
+          "doi": "http://dx.doi.org/10.1145/3345768.3355943",
+          "citacao_completa": "DUARTE, RAFAEL M. ; ALMEIDA, DANILO B. ; ALENCAR, MARCELO S. ; CARVALHO, FABRÍCIO B. S. ; LOPES, WASLON T. A. . Performance of a Cell-Free MIMO Under RF Mismatch. In: the 22nd International ACM Conference, 2019, Miami Beach. Proceedings of the 22nd International ACM Conference on Modeling, Analysis and Simulation of Wireless and Mobile Systems - MSWIM '19, 2019. p. 207."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Cell-Free System's Performance under RF Mismatch",
+          "autores": "DUARTE, RAFAEL MOURA ; DE ALENCAR, MARCELO SAMPAIO ; LOPES, WASLON TERLLIZZIE ARAUJO ; DE CARVALHO, FABRICIO BRAGA SOARES ; DE ALMEIDA, DANILO BRITO TEIXEIRA",
+          "periodico": "In: 2019 IEEE LatinAmerican Conference on Communications (LATINCOM), 2019, Salvador. 2019 IEEE Latin-American Conference on Communications (LATINCOM), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/latincom48065.2019.8938026",
+          "citacao_completa": "DUARTE, RAFAEL MOURA ; DE ALENCAR, MARCELO SAMPAIO ; LOPES, WASLON TERLLIZZIE ARAUJO ; DE CARVALHO, FABRICIO BRAGA SOARES ; DE ALMEIDA, DANILO BRITO TEIXEIRA . Cell-Free System's Performance under RF Mismatch. In: 2019 IEEE LatinAmerican Conference on Communications (LATINCOM), 2019, Salvador. 2019 IEEE Latin-American Conference on Communications (LATINCOM), 2019. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estimação de Canal em Sistemas Sem Células Sujeitos ao Descasamento RF",
+          "autores": "DUARTE, RAFAEL ; ALENCAR, MARCELO ; LOPES, WASLON ; CARVALHO, FABRICIO ; ALMEIDA, DANILO",
+          "periodico": "In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019. Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2019.1570558724",
+          "citacao_completa": "DUARTE, RAFAEL ; ALENCAR, MARCELO ; LOPES, WASLON ; CARVALHO, FABRICIO ; ALMEIDA, DANILO . Estimação de Canal em Sistemas Sem Células Sujeitos ao Descasamento RF. In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019. Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Performance Analysis of Pilot Sequence Assignment Criteria in Multicellular MU-MIMO Systems",
+          "autores": "DUARTE, R. M. ; ALENCAR, M. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T.",
+          "periodico": "In: Proceedings of ICCMIT 2019, 2019, Viena. 5th International Conference on Communication, Management and Information Technology, 2019.",
+          "doi": "",
+          "citacao_completa": "DUARTE, R. M. ; ALENCAR, M. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T. . Performance Analysis of Pilot Sequence Assignment Criteria in Multicellular MU-MIMO Systems. In: Proceedings of ICCMIT 2019, 2019, Viena. 5th International Conference on Communication, Management and Information Technology, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bit Error Probability of M-QAM Signals Subject to Impulsive Noise and (alpha)-(mu) Fading",
+          "autores": "SILVA, HUGERLES ; ALMEIDA, DANILO ; QUEIROZ, WAMBERTO ; MADEIRO, FRANCISCO ; FONSECA, IGUATEMI ; ALENCAR, MARCELO",
+          "periodico": "In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019. Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2019.1570550589",
+          "citacao_completa": "SILVA, HUGERLES ; ALMEIDA, DANILO ; QUEIROZ, WAMBERTO ; MADEIRO, FRANCISCO ; FONSECA, IGUATEMI ; ALENCAR, MARCELO . Bit Error Probability of M-QAM Signals Subject to Impulsive Noise and (alpha)-(mu) Fading. In: XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2019. Anais de XXXVII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais."
+        },
+        {
+          "ano": 2018,
+          "titulo": "BEP do Esquema M-QAM sob Desvanecimento eta-mu com o Combinador MRC",
+          "autores": "ALMEIDA, D. B. T. ; QUEIROZ, WAMBERTO J. L. ; ALENCAR, MARCELO S. ; SILVA, HUGERLES S.",
+          "periodico": "In: Simpósio Brasileiro de Telecomunicações (SBrT), 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações (SBrT), 2018.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, D. B. T. ; QUEIROZ, WAMBERTO J. L. ; ALENCAR, MARCELO S. ; SILVA, HUGERLES S. . BEP do Esquema M-QAM sob Desvanecimento eta-mu com o Combinador MRC. In: Simpósio Brasileiro de Telecomunicações (SBrT), 2018, Campina Grande. Anais do XXXVI Simpósio Brasileiro de Telecomunicações (SBrT), 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Análise da Estimação de Canal em Sistemas MU-MIMO Multicelulares",
+          "autores": "DUARTE, R. M. ; ALENCAR, MARCELO S. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T.",
+          "periodico": "In: VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, (Encom), 2018, Salvador. Anais da VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2018.",
+          "doi": "",
+          "citacao_completa": "DUARTE, R. M. ; ALENCAR, MARCELO S. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T. . Análise da Estimação de Canal em Sistemas MU-MIMO Multicelulares. In: VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, (Encom), 2018, Salvador. Anais da VIII Conferência Nacional em Comunicações, Redes e Segurança da Informação, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Influence of the Pilot Sequence Assignment on the Performance of Multiuser Massive MIMO Systems",
+          "autores": "DUARTE, R. M. ; ALENCAR, MARCELO S. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T.",
+          "periodico": "In: IEEE Latin-American Conference on Communication, Latincom, 2018, GUADALAJARA. IEEE Latin-American Conference on Communication, 2018.",
+          "doi": "",
+          "citacao_completa": "DUARTE, R. M. ; ALENCAR, MARCELO S. ; LOPES, W. T. A. ; CARVALHO, F. B. S. ; ALMEIDA, D. B. T. . Influence of the Pilot Sequence Assignment on the Performance of Multiuser Massive MIMO Systems. In: IEEE Latin-American Conference on Communication, Latincom, 2018, GUADALAJARA. IEEE Latin-American Conference on Communication, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Bit Error Probability of M -QAM Subject to Impulsive Noise and Rayleigh Fading",
+          "autores": "SILVA, HUGERLES ; ALENCAR, MARCELO ; QUEIROZ, WAMBERTO ; ALMEIDA, DANILO ; MADEIRO, F.",
+          "periodico": "In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018. Anais de XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2018.42",
+          "citacao_completa": "SILVA, HUGERLES ; ALENCAR, MARCELO ; QUEIROZ, WAMBERTO ; ALMEIDA, DANILO ; MADEIRO, F. . Bit Error Probability of M -QAM Subject to Impulsive Noise and Rayleigh Fading. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018. Anais de XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos",
+          "autores": "SILVA, HUGERLES ; QUEIROZ, WAMBERTO ; ALMEIDA, DANILO ; XAVIER, HERBET",
+          "periodico": "In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018. Anais de XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2018.225",
+          "citacao_completa": "SILVA, HUGERLES ; QUEIROZ, WAMBERTO ; ALMEIDA, DANILO ; XAVIER, HERBET . Estimativa dos Parâmetros do Ruído Impulsivo Gerado Laboratorialmente Utilizando o Método dos Momentos. In: XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2018. Anais de XXXVI Simpósio Brasileiro de Telecomunicações e Processamento de Sinais."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estimação dos Parâmetros do Ruído Impulsivo por meio do Método dos Momentos e do Método da Máxima Verossimilhança",
+          "autores": "ALENCAR, M. ; QUEIROZ, W. ; GOMES, R. D. ; VIEIRA, J. C. C. ; SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T.",
+          "periodico": "In: Simpósio Brasileiro de Micro-ondas e Optoeletrônica (SBMO) e o Congresso Brasileiro de Eletromagnetismo (CBMag), 2018, Santa Rita do Sapucaí. Simpósio Brasileiro de Micro-ondas e Optoeletrônica (SBMO) e o Congresso Brasileiro de Eletromagnetismo (CBMag), 2018.",
+          "doi": "",
+          "citacao_completa": "ALENCAR, M. ; QUEIROZ, W. ; GOMES, R. D. ; VIEIRA, J. C. C. ; SILVA, HUGERLES S. ; ALMEIDA, DANILO B. T. . Estimação dos Parâmetros do Ruído Impulsivo por meio do Método dos Momentos e do Método da Máxima Verossimilhança. In: Simpósio Brasileiro de Micro-ondas e Optoeletrônica (SBMO) e o Congresso Brasileiro de Eletromagnetismo (CBMag), 2018, Santa Rita do Sapucaí. Simpósio Brasileiro de Micro-ondas e Optoeletrônica (SBMO) e o Congresso Brasileiro de Eletromagnetismo (CBMag), 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Transporte de Calor e Massa na Secagem de Tijolos Cerâmicos Argilosos: Modelagem e Simulação",
+          "autores": "BRITO, M. K. T. ; ALMEIDA, D. B. T. ; ALMEIDA ROCHA, L. ; LIMA, A. G. B. ; SANTANA DE LIMA, E. ; BARBOSA DE OLIVEIRA, V.A.",
+          "periodico": "In: 61º Congresso Brasileiro de Cerâmica, 2017, Gramado-RS. CBC, 2017.",
+          "doi": "",
+          "citacao_completa": "BRITO, M. K. T. ; ALMEIDA, D. B. T. ; ALMEIDA ROCHA, L. ; LIMA, A. G. B. ; SANTANA DE LIMA, E. ; BARBOSA DE OLIVEIRA, V.A. . Transporte de Calor e Massa na Secagem de Tijolos Cerâmicos Argilosos: Modelagem e Simulação. In: 61º Congresso Brasileiro de Cerâmica, 2017, Gramado-RS. CBC, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "TRANSFERÊNCIA DE CALOR E MASSA DURANTE A SECAGEM DE TIJOLOS CERÂMICOS ARGILOSOS: UM ESTUDO ANALÍTICO",
+          "autores": "BRITO, M. K. T. ; Danilo Brito Teixeira de Almeida ; LIMA, A. G. B.",
+          "periodico": "In: IX Congresso Nacional de Engenharia Mecânica, 2016, Fortaleza, 2016.",
+          "doi": "http://dx.doi.org/10.20906/cps/con-2016-0029",
+          "citacao_completa": "BRITO, M. K. T. ; Danilo Brito Teixeira de Almeida ; LIMA, A. G. B. . TRANSFERÊNCIA DE CALOR E MASSA DURANTE A SECAGEM DE TIJOLOS CERÂMICOS ARGILOSOS: UM ESTUDO ANALÍTICO. In: IX Congresso Nacional de Engenharia Mecânica, 2016, Fortaleza, 2016."
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "RIS Aided Communication under Random User Positioning and Phase Compensation Error: A Conditional Laplace Transform Based Analysis",
+          "autores": "QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO",
+          "periodico": "Ieee Open Journal Of The Communications Society , 2026.",
+          "doi": "http://dx.doi.org/10.1109/OJCOMS.2026.3707954",
+          "citacao_completa": "QUEIROZ, WAMBERTO J. L. ; ALMEIDA, DANILO B. T. ; MADEIRO, FRANCISCO . RIS Aided Communication under Random User Positioning and Phase Compensation Error: A Conditional Laplace Transform Based Analysis. Ieee Open Journal Of The Communications Society , 2026."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": ".Estudo das Características de Propagação da Tecnologia LoRa para Aplicações em Cidades Inteligentes",
+          "membros": "LOPES, W. T. A.; CARVALHO, F. B. S.; TEIXEIRA DE ALMEIDA, D.B.",
+          "candidato": "Emmanuel Sampaio Maia da Nóbrega",
+          "citacao_completa": "LOPES, W. T. A.; CARVALHO, F. B. S.; TEIXEIRA DE ALMEIDA, D.B. . Participação em banca de Emmanuel Sampaio Maia da Nóbrega.Estudo das Características de Propagação da Tecnologia LoRa para Aplicações em Cidades Inteligentes. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Implementação de um Sistema de Comunicações Digitais com Desvanecimento Rayleigh",
+          "membros": "Raissa B Rocha; ALMEIDA, D. B. T. ; Silveira, L. F. Q.",
+          "candidato": "Caian Menezes Santos",
+          "citacao_completa": "Raissa B Rocha; ALMEIDA, D. B. T. ; Silveira, L. F. Q.. Participação em banca de Caian Menezes Santos.Implementação de um Sistema de Comunicações Digitais com Desvanecimento Rayleigh. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        }
+      ]
+    }
+  ]
+}

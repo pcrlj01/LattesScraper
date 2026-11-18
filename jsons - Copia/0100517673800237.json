@@ -1,0 +1,653 @@
+{
+  "name": "Vinicius Kaster Marini",
+  "lattes_id": "0100517673800237",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "MARINI, VINICIUS K. ; SORBAN, Bruno A. ; DA SILVA, MAÍRA M. ; BORTOLUSSI, Roberto ; FLEURY, Agenor T. ; TRIGO, Flávio C. . Numerical hazard analysis of torque vectoring system for electric drivetrain considering handling uncertainty. JOURNAL OF THE BRAZILIAN SOCIETY OF MECHANICAL SCIENCES AND ENGINEERING (ONLINE) , v. 46, p. 1-14, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-023-04604-0"
+        },
+        {
+          "texto": "REIS, ÂNGELO VIEIRA DOS ; MEDEIROS, FABRICIO ARDAIS ; FERREIRA, MAURO FERNANDO ; MACHADO, ROBERTO LILLES TAVARES ; ; MARINI, VINICIUS KASTER ; FRANCETTO, TIAGO RODRIGO ; MACHADO, ANTÔNIO LILLES TAVARES . Technological trends in digital agriculture and their impact on agricultural machinery development practices. Revista Ciencia Agronomica , v. 51, p. e20207740-12, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5935/1806-6690.20200093"
+        },
+        {
+          "texto": "SANTOS, Bruna K. ; ; MARINI, Vinicius Kaster ; BUENOS, A. A. ; SANTOS, César G. ; SANTOS, Diego M. C. . Identificação de requisitos de clientes em pesquisa de patentes Para avaliar tecnologias de equipamentos agrícolas. TECNO-LÓGICA (SANTA CRUZ DO SUL . ONLINE) , v. 24, p. 23-33, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.17058/tecnolog.v24i1.1393"
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; . Influencing factors in agricultural machinery design.. PRODUCT (IGDP) , v. 7, p. 111-130, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; . The function structure as a tool for analysing an existing concept of a centrifugal fertilizer spreader. PRODUCT (IGDP) , v. 05, p. 77-89, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; MARINI, Vinicius Kaster ; MASSOCO, Daniel Biazus ; . Avaliação técnica de uma máquina para a correção de microrrelevo do solo de áreas destinadas ao cultivo de arroz irrigado. CIENCIA RURAL , Santa Maria, v. 36, n.5, p. 1643-1646, 2006.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1590/s0103-84782006000500049"
+        },
+        {
+          "texto": "; BACK, Nelson ; ; MARINI, Vinicius Kaster . An introduction to the reference model for the agricultural machinery development process. PRODUCT (IGDP) , São Carlos/SP, v. 3, n.2, p. 109-132, 2005.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "SANTOS, João Batista S. ; MARINI, VINICIUS K. ; FURTADO, Marconi R. . A Semente como Fator de Influência na Singulação. In: AMARAL, Lucio P.. (Org.). Congresso Sul-Americano de Agricultura de Precisão e Máquinas Precisas: Agricultura 4.0 - Inovação diante dos desafios climáticos, econômicos e sociais. 1ed.Santa Maria/RS: Editora CESPOL/UFSM, 2026, v. Único, p. 898-907.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; REIS, José Carlos C. ; RIBEIRO, Mateus S. ; AMARAL, Lucio P. ; MARINI, VINICIUS K. ; BOTTEGA, Eduardo L. ; MADRUGA, Igor . Análise Espacial da Distribuição Longitudinal de PLantas de Feijão Carioca Utilizando Dosador com Mecanismo de Esteira Condutora de Sementes. In: AMARAL, Lúcio P.. (Org.). 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas: Agricultura 4.0 - Inovação diante dos desafios climáticos, econômicos e sociais. 1ed.Santa Maria/RS: Editora CESPOL/UFSM, 2026, v. , p. 620-633.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MARINI, VINICIUS K. . Semeadura de precisão: Estado da Arte e Tendências para o Futuro. In: AMARAL, Lúcio P.. (Org.). 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas: Agricultura 4.0 - Invação diante dos desafios climáticos, econômicos e sociais. 1ed.Santa Maria/RS: Editora CESPOL/UFSM, 2026, v. , p. 51-63.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MARINI, VINICIUS K. . Estrutura de Funções e Identificação de Requisitos para o projeto de um Sistema de Condução de Sementes em Altas Velocidades. 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas: Agricultura 4.0 - Inovação diante dos desafios climáticos, econômicos e sociais. 1ed.Santa Maria/RS: Editora CESPOL/UFSM, 2026, v. , p. 908-925.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "FRANCESCHI, Alessandro de ; MARINI, Vinicius Kaster ; . FMEA de Projeto para o Diagnóstico de Falhas em Máquinas Agrícolas. In: Voltarelli, Murilo A.; Paixão, Carla S. S.; Da Silva, Rouverson P.. (Org.). Controle de Qualidade em Processos Agrícolas Mecanizados. 1ed.Jaboticabal: SBEA - Sociedade Brasileira de Engenharia Agrícola, 2022, v. 1, p. 134-157.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MARINI, VINICIUS KASTER . Synthesizing Aircraft System Specifications with Document-Managed Large Language Model Outputs from One-Shot System Inquiry Prompt Chain. In: CEAS AIDAA Conference 2025, 2026, Turim. Millersville, EUA: Materials Research Forum LLC, 2025. v. TBD. p. 552-557.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.21741/9781644904251-99"
+        },
+        {
+          "texto": "MARINI, VINICIUS K. ; KRUS, PETTER . A case study of context operations with large language models for the systems architecture design of a heavy SAR UAV. In: 35th Congress of the International Council of the Aeronautical Sciences, ICAS2026, 2026, Sydney. Proceedings of the 35th Congress of the International Council of the Aeronautical Sciences, ICAS2026. Sydney, AU: Royal Aeronautical Society Australian Division, 2026. v. single.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, Matheus João S. ; NIEDERAUER, Gabriel N. ; MARINI, VINICIUS K. ; PASIN, Márcia . Applying Machine Learning Towards the Recognition of Driving Behavior. In: Computer Safety, Reliability, and Security. SAFECOMP 2025 Workshops: 2nd International Workshop on Safety/Reliability/Trustworthiness of Intelligent Transportation Systems (SRToITS 2025), 2025, Stockholm, Sweden. Computer Safety, Reliability, and Security. SAFECOMP 2025 Workshops. Chem, Suíça: Springer Nature Switzerland, 2025. v. 1. p. 399-411.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MALUF FILHO, WILLIAM MANJUD ; REGENTE, VICTOR DE FARIA ; YAZDI, MOHAMMAD HOSSEIN SHATERZADEH ; MARINI, VINICIUS KASTER ; ALVES, MARCELO AUGUSTO LEAL . TRIPLE-BENEFIT ENGINEERING EDUCATION: SOLVING REAL-WORLD DURABILITY ISSUES IN LIFTING MECHANISMS THROUGH MULTIDISCIPLINARY UNIVERSITY-INDUSTRY COLLABORATION. In: 27th International Conference on Engineering and Product Design Education, 2025, Valletta, Malta. Proceedings of the International Conference on Engineering and Product Design Education, EPDE 2025. Glasgow, Escócia: The Design Society, 2025. v. DS 137. p. 541-546.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.35199/EPDE.2025.91"
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MARINI, Vinicius Kaster . Semeadura de precisão: Estado da Arte e Tendências para o Futuro. In: 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025, Não-me-Toque. 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas. Não-me-Toque/RS: UFSM/Cotrijal, 2025. v. 1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MADRUGA, Igor ; RIBEIRO, Mateus S. ; AMARAL, Lucio P. ; MARINI, Vinicius Kaster ; BOTTEGA, Eduardo L. . A Semente como Fator de Influência na Singulação. In: 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025, Não-me-Toque. 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025. v. 1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MARINI, Vinicius Kaster . Estrutura de Funções e Identificação de Requisitos para o projeto de um Sistema de Condução de Sementes em Altas Velocidades. In: 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025, Não-me-Toque. 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025. v. 1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, João Batista S. ; MADRUGA, Igor ; RIBEIRO, Mateus S. ; AMARAL, Lucio P. ; MARINI, Vinicius Kaster ; BOTTEGA, Eduardo L. . Análise Espacial da Distribuição Longitudinal de PLantas de Feijão Carioca Utilizando Dosador com Mecanismo de Esteira Condutora de Sementes. In: 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025, Não-me-Toque. 7º APSul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Agrícolas Precisas, 2025. v. 1.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "K MARINI, VINICIUS ; ALFREDSON, JENS ; KRUS, PETTER . Context of collaborative human-machine systems architecture design for enhanced functionality awareness and balanced command and control authority. In: Swedish Aerospace Conference, FT2025, Stockholm 2025, 2025, Stockholm. Linköping, Sweden: Linköping University Electronic press, 2025. v. Online.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.3384/wcc215.1192"
+        },
+        {
+          "texto": "MARINI, VINICIUS KASTER ; BORTOLUSSI, Roberto ; DE TOLEDO FLEURY, AGENOR ; TRIGO, FLÁVIO CELSO . A development framework using scale platforms for the verification of vehicle technologies. In: SAE Brasil 2023 Congress, 2024, Sao Paolo. São Paulo: Society of Automotive Engineers - SAE Brasil, 2023. v. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.4271/2023-36-0108"
+        },
+        {
+          "texto": "SILVA DE ALMEIDA, MATHEUS ; LADEIRA, JULIA ; VICENTIN, CAIO ; COSTA, ANDRE ; PASIN, MARCIA ; MARINI, VINÍCIUS . Machine Learning Support for Time-Efficient Processing Dangerous Driving Detection Using Vehicle Inertial Data. In: 26th International Conference on Enterprise Information Systems, 2024, Angers. Proceedings of the 26th International Conference on Enterprise Information Systems, 2024. v. 1. p. 997-1004.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5220/0012686200003690"
+        },
+        {
+          "texto": "ALBERTI, Bruno G. ; MARINI, Vinicius Kaster . Modelagem Dinâmica da Queda de Semente de Soja em Semeadoras de Precisão e Implicações para a Equidistãncial Longitudinal em Plantio. In: Congresso Brasileiro de Agricultura de Precisão, 2024, Ribeirão Preto. Congresso Brasileiro de Agricultura de Precisão - ConBAP 2024. Piracicaba/SP: Associação Brasileira de Agricultura de Precisão e Digital, 2024. v. Único. p. 1-10.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SORBAN, Bruno A. ; SILVA, Maíra M. ; MARINI, Vinicius Kaster ; BORTOLUSSI, Roberto ; FLEURY, Agenor T. ; TRIGO, Flávio C. . Numerical hazard analysis of torque vectoring system for electric drivetrain considering handling uncertainty. In: DINAME 2023 - XIX International Simposium on Dynamic Problems of Mechanics, 2023, Pirenópolis, GO. XIX International Simposium on Dynamic Problems of Mechanics. Rio de Janeiro, RJ: ABCM - Brazilian Association of Mechanical Sciences, 2023. v. único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALBERTI, Bruno G. ; MARINI, Vinicius Kaster . Levantamento de tecnologias de deposição e condução ativa de sementes aplicadas em semeadoras de precisão. In: VI AP-Sul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Precisas, 2023, Não-me-Toque, RS. VII AP-Sul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Precisas, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "STEINMETZ, Raul ; KREVER, Henrique L. ; MARINI, Vinicius Kaster ; TROIS, Célio . Aumentando a precisão: segmentação semântica de ervas daninhas em plantações de soja baseada em imagens de tempo real. In: VI AP-Sul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Precisas, 2023, Não-me-Toque, RS. VI AP-Sul América: Congresso Sul-Americano de Agricultura de Precisão e Máquinas Precisas, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MOREIRA, William K. ; MARINI, Vinicius Kaster ; GIACOMINI, Julian C. ; RECH, Cassiano . Analysis and design of a hybrid propulsion system for an agricultural tractor-implement set. In: IEEE Energy Conversion Congress & Expo - ECCE 2023, 2023, Nashville. IEEE Energy Conversion Congress & Expo - ECCE 2023, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, André Vinicius C. ; RAGUZZONI, Gustavo R. ; KAHL JR., Valdemo V. ; LADEIRA, Júlia K. ; VICENTIN, Caio G. ; ABUR, Kays W. ; OLIVEIRA, Luciano S. ; KOLLING, Alisson H. ; PASIN, Márcia ; MARINI, Vinicius Kaster . Methodology for requirements and system design for the detection of dangerous driving. In: 27th Internacrional Congress of Mechanical Engineering, 2023, Florianópolis/SC. COBEM 2023 - 27th Internacrional Congress of Mechanical Engineering. Rio de Janeiro: Associação Brasileira de Ciências Mecânicas, 2023. v. 1. p. 1-8.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "VICENTIN, Caio G. ; LADEIRA, Júlia K. ; ABUR, Kays W. ; KAHL JR., Valdemo V. ; OLIVEIRA, Luciano S. ; COSTA, André Vinicius C. ; PEREIRA, Nathan S. ; KOLLING, Alisson H. ; ALMEIDA, Matheus João S. ; PASIN, Márcia ; MARINI, Vinicius Kaster . Implementaiton of a vehicle dynamics data acquisition system on a scale prototype to detect dangerous driving patterns. In: 27th International Congress of Mechanical Engineering, 2023, Florianópolis/SC. COBEM 2023. Rio de Janeiro: Associação Brasileira de Ciências Mecânicas, 2023. v. 1. p. 1-1.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BRANDAO, Vinicius D. M. ; GANDIN, Wellinton ; MARINI, Vinicius Kaster . Definição de métricas para projeto de piloto automático adaptativo. In: CREEM 2022 - XXVIII Congresso Nacional de Estudantes de Engenharia Mecânica, 2022, Santa Maria, RS. XXVIII Congresso Nacional de Estudantes de Engenharia Mecânica. Rio de Janeiro: Associação Brasileira de Ciências Mecânicas, 2022. v. único.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ALBERTI, Bruno G. ; BERTOLDO, Vinicius P. ; GANDIN, Wellinton ; BUENOS, A. A. ; MARINI, Vinicius Kaster . Motora Empresa Júnior de Consultoria - análise de indicadores-chave de desempenho empresarial e impactos acadêmicos e sociais. In: CREEM 2022 - XXVIII Congresso Nacional de Estudantes de Engenharia Mecânica, 2022, Santa Maria, RS. XXVIII Congresso Nacional de Estudantes de Engenharia Mecânica. Rio de Janeiro: Associação Brasileira de Ciências Mecânicas, 2022. v. 1.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MOREIRA, William K. ; GIACOMINI, Julian C. ; RECH, Cassiano ; MARINI, Vinicius Kaster ; VIEIRA, Leonardo B. . Projeto, dimensionamento e simulação de um conjunto trator-implemento de propulsão híbrida. In: Congresso Brasileiro de Automática 2022, 2022, Fortaleza, CE. CBA 2022 - XXIV Congresso Brasileiro de Automática. Campinas/SP: Sociedade Brasileira de Automática, 2022. v. Único.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; SANTOS, César G. ; SCHEUER, Cristiano J. ; BUENOS, A. A. ; . Engineering design process learning of undergraduate mechanical engineering students: a case study on the UFSM course. In: COBEM 2021 - 26th ABCM International Congress of Mechanical Engineering, 2021, Florianópolis, SC. 26th ABCM International Congress of Mechanical Engineering. Rio de Janeiro: ABCM - Brazilian Association of Mechanical Sciences, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; LEONARDI, Fabrizio ; BORTOLUSSI, Roberto ; FLEURY, Agenor T. ; TRIGO, Flávio C. ; MENDES, André S. ; BARRETO, Marco Antônio Z. . Evaluation of platooning control model towards safety of intended functionality with basis on operacional design domain. In: COBEM 2021 - 26th ABCM International Congress of Mechanical Engineering, 2021, Florianópolis, SC. 26th ABCM International Congress of Mechanical Engineering. Rio de Janeiro: ABCM - Brazilian Association of Mechanical Sciences, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster . Lessons learned from R&D experience as guidance for coaching and developing engineering talent. In: COBEM 2019 - 25th International Congress of Mechanical Engineering, 2019, Uberlândia, MG. 25th International Congress of Mechanical Engineering. Rio de Janeiro/RJ: Brazilian Association of Mechanical Sciences, 2019. v. 1. p. 1-10.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema . Development and validation of design tool for concept choice on robustness, reliability and safety criteria. In: COBEM 2017 - 24th ABCM International Congress of Mechanical Engineering, 2017, Curitiba, PR. 24th ABCM International Congress of Mechanical Engineering, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; PITELLA, Bruno D. A. . Development of local competence on product qualification in support to risk management. In: Congresso ABRISCO 2017, 2017, Rio de Janeiro, RJ. Congresso ABRISCO 2017, 2017. v. único. p. USB-USB.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema . Decision-making and feedback as foci for knowledge-based strategies supporting concept development. In: DESIGN 2012 - 12th International Design Conference, 2012, Dubrovnik. 12th International Design Conference. Zagreb, Croácia: Faculty of Mechanical Engineering and Naval Architecture, University of Zagreb, 2012. v. 1. p. 61-70.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema ; RESTREPO, J. . Influence of design evaluations on decision-making and feedback during concept development. In: ICED11 - 18th International Conference on Engineering Design, 2011, Copenhagen. 18th International Conference on Engineering Design (ICED 11), Impacting Society through Engineering Design. Copenhagen: The Design Society, 2011. v. 2. p. 266-275.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; RESTREPO, J. ; Ahmed-Kristensen, Saeema . Evaluation of information requirements of reliability methods in engineering design. In: DESIGN 2010 - 11th International Design Conference, 2010, Cavtat, Croácia. 11th International Design Conference. Glasgow: The Design Society, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; RESTREPO, J. ; AHMED, S. . Investigacão dos requisitos de informacão para o uso de métodos de projeto para confiabilidade. In: CBGDP 2009 - 9o Congresso Brasileiro de Gestão de Desenvolvimento de Produto, 2009, São José dos Campos, SP. 7o. Congresso Brasileiro de Gestão de Desenvolvimento de Produto. São Carlos/SP: Instituto de Gestão de Desenvolvimento de Produto, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . The function structure as a tool for analysing an existing concept of a fertilizer spreader. In: COBEM 2007 - 19th International Congress of Mechanical Engineering, 2007, Brasilia, DF. 19th International Congress of Mechanical Engineering. Rio de Janeiro, RJ: ABCM - Associação Brasileira de Ciências Mecânicas, 2007. v. Único. p. 1-10.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . O processo de levantamnto dos fatores de influência no projeto de máquinas agrícolas: fundamentos e níveis de modelagem. In: CBGDP 2007 - 6° Congresso Brasileiro de Gestão do Desenvolvimento do Produto, 2007, Belo Horizonte, MG. GDP: Conhecimento, Colaboração e Inovação, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . Conceitos técnicos para a modelagem dos fatores de influência no projeto de máquinas agrícolas. In: XIV Jornada de Jovens Pesquisadores da AUGM, 2006, Campinas/SP. Anais.. Montevideo, UY: Associação das Universidades do Grupo Montevideo, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, Luiz Fernando Segalin de ; MARINI, Vinicius Kaster ; WILBERT, André Driemeyer ; FORCELLINI, Fernando Antônio ; . Aplicação de metodologia de projeto de produtos no desenvolvimento de componentes injetados. In: II Semana de pesquisa e Extensão da UFSC, 2002, Florianópolis. Anais da II Semana da Pesquisa e Extensão da UFSC. Florianópolis:: Edufsc, 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema . Teste de uso em prova-de-conceito de uma ferramenta de projeto em auxílio à tomada de decisão entre alternativas e à reutilizacão de conhecimento sobre modos de falha e de sucesso em fases precoces de projeto. In: Congresso ABRISCO 2013, 2013, Rio de Janeiro, RJ. Anais do Congresso da Abrisco 2013. Rio de Janeiro: ABRISCO, 2013. v. único. p. USB-USB.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; KNOB, Marcelino João ; ; DALLMEYER, Arno Udo ; SCHLOSSER, J. F. . Aplicacão da estrutura de funcões para reconhecer fluxos de potência em um distribuidor centrífugo de fertilizantes. In: CONBEA 2007 - XXXVI Congresso Brasileiro de Engenharia Agrícola, 2007, Bonito, MS. XXXVI Congresso Brasileiro de Engenharia Agrícola. Jaboticabal, SP: Sociedade Brasileira de Engenharia Agrícola, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . Considerações fundamentais para a sistematização dos fatores de influência no projeto da máquina agrícola. In: XXXV Congresso Brasileiro de Engenharia Agrícola, 2006, João Pessoa/PB. Anais. Jaboticabal - SP: Sociedade Brasileira de Engenharia Agrícola, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . A análise da operação agrícola como base para a definição de requisitos funcionais no processo de desenvolvimento de máquinas agrícolas. In: XXXV Congresso Brasileiro de Engenharia Agrícola, 2006, João Pessoa/PB. Anais.. Jaboticabal/SP: Sociedade Brasileira de Enmgenharia Agrícola, 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ALMEIDA, Matheus João S. ; PASIN, Márcia ; VICENTIN, Caio G. ; LADEIRA, Júlia K. ; COSTA, André Vinicius C. ; MARINI, Vinicius Kaster . Prototipação e desenvolvimento de uma rede neural artificial para a classificação binária de direção perigosa a partir de dados inerciais. In: 38a Jornada Acadêmica Integrada, 2023, Santa Maria/RS. XXVIII JAI - 38a Jornada Acadêmica Integrada, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "KAHL JUNIOR, Valdemo V. ; RAGUZZONI, Gustavo R. ; MARINI, Vinicius Kaster . Requisitos de cliente para o desenvolvimento de um diferencial eletrônico voltado à vetorização de torque: uma revisão da literatura em engenharia de sistemas. In: 38a Jornada Acadêmica Integrada da UFSM, 2023, Santa Maria, RS. XXVIII JAI - 38a Jornada Acadêmica Integrada da UFSM, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RAGUZZONI, Gustavo R. ; KAHL JUNIOR, Valdemo V. ; MARINI, Vinicius Kaster . Revisão bibliográfica sobre estratégias de controle na vetorização de torque em diferencial eletrônico. In: 38a Jornada Acadêmica Integrada da UFSM, 2023, Santa Maria, RS. XXVIII JAI - 38a Jornada Acadêmica Integrada da UFSM, 2023. v. Único.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "GANDIN, Wellinton ; MARINI, Vinicius Kaster ; . Levantamento de correspondências entre classificações globais de produto e de tecnologia para aerogeradores e subsistemas. In: 36a Jornada Acadêmica Integrada da UFSM, 2021, Santa Maria, RS. XXXVI JAI - 36a Jornada Acadêmica Integrada da UFSM, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; MARINI, Vinicius Kaster ; MASSOCO, Daniel Biazus ; . Avaliação técnica de uma máquina para correção do micro-relevo do solo. In: XX Jornada Acadêmica Integrada da Universidade Federal de Santa Maria, 2005, Santa Maria/RS. Anais, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; SORIANO, Marcelo Melo ; FLORES, Eduardo Fiorin . Gerenciamento dos envolvidos no projeto de uma máquina agrícola: uma experiência acadêmica. In: XX Jornada Acadêmica Integrada da Universidade Federal de Santa Maria, 2005, Santa Maria. Anais, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; PEREIRA, Mateus Fontanelle ; BAZZO, Walter Antônio ; PEREIRA, Luiz Teixeira do Vale . Implicações das tecnologias de informação nas dinâmicas de aprendizagem e de trabalho do profissional de engenharia. In: XVII Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2002, Passo Fundo. Anais do CRICTE'2002, 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "items": [
+        {
+          "texto": "MARINI, VINICIUS K. ; KRUS, PETTER . Context operations to architecture modelling output from large language models and evaluation criteria for their use in systems engineering design. ArXiv , 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.48550/arXiv.2609.10132"
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "MARINI, VINICIUS KASTER . Groundwork for context-driven AI design assistant solutions for aerospace systems engineering. 2025. (Apresentação de Trabalho/Seminário).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, VINICIUS KASTER . Prompt Management for AI supported Design. 2025. (Apresentação de Trabalho/Congresso).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster . Tecnologias Inteligentes para a Soja: Rumo à Pulverização Precisa. 2023. (Apresentação de Trabalho/Comunicação).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "POTT, Luan P. ; BAMBERG, Darlei M. ; OLIVEIRA, Guilherme S. ; LISKA, Thomas ; DUTRIEZ, Nicolas G. ; MORENO, Tobias R. ; IACONO, Jessica D. P. ; TSUKAHARA, Rodrigo Y. ; FARIAS, José R. ; De JONGE, Roel ; MEENDERINK, Alwin ; CHINCOLI, Michele ; DOELER, Frederico ; Van der WAL, Tamme ; MAESTRINI, Bernardo ; KOOL, Fred ; KEMPENAAR, Corné ; TROIS, Célio ; MARINI, VINICIUS KASTER ; AMADO, Telmo J. C. ; et.al . Dutch-Brazilian PPP Smart Soybean: managing within-field variability varying cultivar and seeding rate. 2022. (Apresentação de Trabalho/Comunicação).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema . Development and validation of design tool for concept choice on robustness, reliability and safety criteria. 2017. (Apresentação de Trabalho/Congresso).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; PITELLA, Bruno D. A. . Development of Local Competence on Product Qualification in Support to Risk Management. 2017. (Apresentação de Trabalho/Congresso).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema . Teste de uso em prova-de-conceito de uma ferramenta de projeto em auxílio à tomada de decisão entre alternativas e à reutilizacão de conhecimento sobre modos de falha e de sucesso em fases precoces de projeto. 2013. (Apresentação de Trabalho/Congresso).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; Ahmed-Kristensen, Saeema ; RESTREPO, J. . Influence of Design Evaluations on Decision-Making and Feedback during Concept Development. 2011. (Apresentação de Trabalho/Congresso).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; RESTREPO, J. ; Ahmed-Kristensen, Saeema . Evaluation of Information Requirements of Reliability Methods in Engineering Design. 2010. (Apresentação de Trabalho/Congresso).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . A análise da operação agrícola como base para a definição de requisitos funcionais no processo de desenvolvimento de máquinas agrícolas. 2006. (Apresentação de Trabalho/Congresso).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . Considerações fundamentais para a sistematização dos fatores de influência no projeto da máquina agrícola.. 2006. (Apresentação de Trabalho/Congresso).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; DALLMEYER, Arno Udo . Conceitos Técnicos para a Modelagem dos Fatores de Influência no projeto de Máquinas Agrícolas. 2006. (Apresentação de Trabalho/Congresso).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, Cristiano Vasconcellos ; MARINI, Vinicius Kaster ; ANDRADE, Luiz Fernando Segalin de ; WILBERT, André Driemeyer . Exposição do Stand da Universidade Federal de Santa Catarina na Feira PlastShow 2002. 2002. (Apresentação de Trabalho/Outra).",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; AMBROSIO, Vinicius Strugata ; MALISKA, Clóvis Raimundo ; DIHLMANN, Axel . Exposição do software TRANSCAL 1.0. 1999. (Apresentação de Trabalho/Outra).",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster . Information about robustness, reliability and safety in early design phases. Lyngby, DK: Department of Management Engineering, Technical University of Denmark, 2013 (Tese de PhD).",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster ; PIRES, Júlio César de Souza . GDS - Global Dealer System: Dicas de Operação em Serviços de Oficina. 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster . Dia_SysTant: Dialogic Systems Assistant. 2025.",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster ; FORCELLINI, Fernando Antônio . Logomarca do NeDIP. 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "MAESTRINI, Bernardo ; MARINI, VINICIUS K. ; DE JONGE, E. ; MICHIELSEN, Jean-Marie ; MEENDERINK, Alwin ; BRAAM, Hendrik ; BAMBERG, Darlei M. ; LISKA, Thomas ; SANDER, Leonardo ; AMADO, Telmo J. C. ; AMARAL, Lucio P. . Smart Soybean in Brazil WP4 WEED-IT fluorescence sensor and NDVI for end-of-season variable rate soybean desiccation. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; KNOB, Marcelino João . Análise e Modelagem de Produto, aplicadas a um Distribuidor Centrífugo de Fertilizantes utilizando Ferramentas das Fases Iniciais do Processo de Desenvolvimento de Máquinas Agrícolas. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRADE, Luiz Fernando Segalin de ; WILBERT, André Driemeyer ; MARINI, Vinicius Kaster . Desenvolvimento de um padrão de entrada residencial. 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster ; . Laboratório de Projeto de Sistemas Técnicos. 2019; Tema: Atividades de ciência e tecnologia em Projeto de Sistemas Técnicos. (Site).",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster ; SORIANO, Marcelo Melo ; FLORES, Eduardo Fiorin ; MEDEIROS, Camila Ardais ; MASSOCO, Daniel Biazus . Projeto de um Trator Agrícola de pequeno porte - fases de projeto informacional e projeto conceitual. 2005. (Relatório de pesquisa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; DIHLMANN, Axel ; REIS, Marcus Vinicius Filgueiras dos ; MIRANDA, Márcio Antônio Cano ; MALISKA, Clóvis Raimundo . Relatório de Atividades da Bolsa de Iniciação Científica ? CNPq Período Set/98 à Mar/99 ? O Desenvolvimento de uma nova Identidade Visual para o SINMEC. 1999. (Relatório de pesquisa).",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais trabalhos",
+      "items": [
+        {
+          "texto": "MARINI, Vinicius Kaster . Desenhando em projetos. 2005 (Palestra) .",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; . O Processo de Desenvolvimento de Produtos de duas empresas fabricantes de Máquinas Agrícolas. 2005 (Banner) .",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; ; . Projeto e Utilização de Máquinas Agrícolas. 2005 (Banner) .",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Vinicius Kaster ; . Processo de Desenvolvimento de Máquinas Agrícolas. 2005 (Banner) .",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "AMADO, Telmo J. C.; ROSA, David P.; MARINI, Vinicius Kaster . Participação em banca de Airton Polon. Uso de motores elétricos em semeadoras como ferramenta para o aumento da produtividade em ambientes de agricultura de precisão. 2023. Dissertação (Mestrado em Agricultura de Precisâo) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RECH, Cassiano; ANTUNES, Fernando L. M.; MARINI, Vinicius Kaster ; GIACOMINI, Julian C.. Participação em banca de William Klaus Moreira. Análise e projeto de sistemas de propulsão híbridos para tratores agrícolas. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; NARA, Elpidio Oscar Benitez; . Participação em banca de Bruna Karine dos Santos. Avaliação do processo de desenvolvimento e gerenciamento de projetos de máquinas agrícolas de uma empresa de grande porte. 2020. Dissertação (Mestrado em Engenharia Agrícola) - Universidade Federal de Santa Maria.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "TRIGO, Flávio C.; FLEURY, Agenor T.; SILVA, Maíra M.; SILVA NETO, Gustavo C.; MARINI, VINICIUS K. . Participação em banca de Junout Martins Louzada Neto. Desenvolvimento de estratégia de frenagem híbrida para veículos elétricos baseada na estimação do coeficiente de adesão pneu-pista. 2025. Tese (Doutorado em Engenharia Mecânica) - Universidade de São Paulo.",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "TRIGO, Flávio C.; FLEURY, Agenor T.; MARINI, VINICIUS KASTER . Participação em banca de Junout Martins Louzada Filho. Desenvolvimento e validação de estratégias de controle para vetorização de torque em diferencial eletrônico aplicado a veículos de tração elétrica com o auxílio de bancada Hardware-in-the-Loop. 2023. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade de São Paulo.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MARINI, VINICIUS KASTER ; BURGER, Eduardo E.; VIEIRA, Rodrigo P.. Participação em banca de Valdemo Vilino Kahl Jr..Análise de Perigos e Avaliação de Riscos em Caráter Preliminar sobre Trem de Potência Eletromecânico em Veículo de Escala Reduzida. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Aeroespacial) - Universidade Federal de Santa Maria.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FRANCHI, Claiton M.; DALLA NORA, Macklini; SCHAF, Frederico M.; MARINI, VINICIUS K. . Participação em banca de Gustavo da Rocha Raguzzoni.Desenvolvimento de uma plataforma de ensaios para diferencial eletrônico em automodelo de escala em suporte ao controle dinâmico de veículos de tração elétrica. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Federal de Santa Maria.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, VINICIUS KASTER ; ; CASAO JR., Ruy. Participação em banca de Bruno Garlet Alberti.Estudo das funcionalidades de condução e deposição de sementes em semeadoras de precisão para sementes graúdas. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, VINICIUS KASTER ; HAUSEN, Roberto B.; RODRIGUEZ, René Q.. Participação em banca de Igor Bariviera.Estudo de Engenharia Reversa, Análise dos Modos de Falha e proposição de Melhoria para Sistema de Freio Pneumático. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AWRUCH, M.; ; MARINI, Vinicius Kaster . Participação em banca de Gabriel Almeida de Aguirre.Análise de Resultados de Ensaio de Transmissibilidade de Vibrações em Suspensão de Cabine de Trator Agrícola. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVEIRA, Leandro Costa; MARINI, Vinicius Kaster . Participação em banca de Ana Paula Santos Rosa.Estudo dos Efeitos do Projeto Modular sobre a Manutenção Automotiva por Reparadores Independentes. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "AMADO, Telmo J. C.; REINERT, Dalvan J.; MARINI, Vinicius Kaster . Participação em banca de Carlos Engel.Aplicação Localizada de defensivos: Evolução tecnológica e oportunidades de uso. 2023. Trabalho de Conclusão de Curso (Graduação em Agronomia) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMBERGER, Inácio Fontoura; . Participação em banca de Felipe Ugalde Pereira.Relatório de Estágio Curricular em Engenharia Mecânica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; BUENOS, A. A.; . Participação em banca de Guilherme Marchezan Freitag.Concepção de um braço mecânico multifuncional com acionamento hidráulico para acoplamento traseiro em tratores. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FALCÂO, Carlos Eduardo Guex; ; RODRIGUEZ, R. Q.. Participação em banca de Jovani Della Flora Júnior.Relatório de Estágio Curricular em Engenharia Mecânica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SALVADOR, C. A. V.; ; FALCÂO, Carlos Eduardo Guex. Participação em banca de Artur Araújo da Luz.Relatório de Estágio Currivular em Engenharia Mecânica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SALVADOR, C. A. V.; AWRUCH, M.; . Participação em banca de Guilherme Marchezan Freitag.Relatório de Estágio Curricular em Engenharia Mecânica. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LIMBERGER, Inácio Fontoura; ; MICHELS, Ademar. Participação em banca de Luciano Rosado Soccol.Relatório de Estágio Curricular em Engenharia Mecânica. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, Sérgio Sebalhos; RAUBENSCHLAG, Denis Rasquin; . Participação em banca de Igor Inácio Oliveski Pause.Relatório de Estágio Curricular em Engenharia Mecânica. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "RAUBENSCHLAG, Denis Rasquin; FRANCESCHI, Alessandro de; . Participação em banca de Ulisses Benedetti Baumhardt.Relatório de Estágio Curricular em Engenharia Mecânica. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "FRANCESCHI, Alessandro de; ; SOUZA, Sérgio Sebalhos. Participação em banca de Vagner Flores de Almeida.Relatório de Estágio Curricular em Engenharia Mecânica. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "MOLENDA, Carlos Henrique de Andrade; PARIS, Aleir Antônio Fontana de; . Participação em banca de Rodrigo Schneider.Relatório de Estágio Curricular em Engenharia Mecânica. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecânica) - Universidade Federal de Santa Maria.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "ALVES, Marcelo Augusto L.; ALMEIDA NETO, Edgard S.; BITTENCOURT, Marco L.; BORDIGNON, Francesco; MARINI, VINICIUS K. . Edital EP/CONCURSOS Nº 019-2024 para contratação de 1 (um) Professor Doutor para o Departamento de Engenharia Mecânica, na área/especialidade ?Mecânica dos Sólidos, Projetos e Elementos de Máquinas. 2024. Universidade de São Paulo.",
+          "ano": 2024,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

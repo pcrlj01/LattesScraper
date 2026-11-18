@@ -1,0 +1,1273 @@
+{
+  "name": "Cláudio Elízio Calazans Campelo",
+  "lattes_id": "2042247762832979",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "SILVEIRA, D. A. ; SILVA, S. D. ; LEITE, N. M. N. ; CAMPELO, C.E.C. . POI Type Embedding Techniques for Recommendation Systems: A Comparative Analysis. Journal of Information and Data Management - JIDM , v. 17, p. 1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5753/jidm.2026.5929"
+        },
+        {
+          "texto": "NOGUEIRA, C. D. S. ; ALMEIDA, D. S. ; MIRANDA, B. A. ; CAMPELO, C.E.C. . How Effectively Do LLMs Automate Data Analysis? A Comparative Study with ChatGPT?s Data Analyst, Grok, and Qwen. Journal of Information and Data Management - JIDM , v. 17, p. 1, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5753/jidm.2026.5963"
+        },
+        {
+          "texto": "PONTES, CARLOS VINICIUS ALVES MINERVINO ; Campelo, Claudio E. C. ; OLIVEIRA, MAXWELL GUIMARÃES DE ; SILVA, SALATIEL DANTAS . QQESPM-GS: an efficient solution for geo-textual search parameterized by graph-based spatial patterns. International Journal of Geographical Information Science , v. 1, p. 1-42, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1080/13658816.2026.2620025"
+        },
+        {
+          "texto": "MINERVINO, C. V. A. ; CAMPELO, C.E.C. ; ; SILVA, S. D. . QQESPM: spatial keyword search based on qualitative and quantitative spatial patterns. Journal of Information and Data Management - JIDM , v. 16, p. 1-1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/jidm.2025.4182"
+        },
+        {
+          "texto": "PEREIRA, DAVID EDUARDO ; GOMES, DANIELA THUASLAR SIMÃO ; VASCONCELOS, LARISSA LUCENA ; Campelo, Claudio Elizio Calazans . A Comprehensive Survey of Argument Mining in the Educational Domain: Techniques, Applications, and Future Directions. Wiley Interdisciplinary Reviews-Data Mining and Knowledge Discovery , v. 15, p. 1-14, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1002/widm.70041"
+        },
+        {
+          "texto": "PEREIRA, DAVID EDUARDO ; GOMES, DANIELA THUASLAR SIMÃO ; Campelo, Claudio E. C. . Evaluating LLMs on Argument Mining Tasks in Brazilian Portuguese Debate Data. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 31, p. 1280-1300, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/jbcs.2025.5824"
+        },
+        {
+          "texto": "SILVA, SALATIEL DANTAS ; CAMPELO, C.E.C. ; . Sentence-ITDL: Generating POI type Embeddings based on Variable Length Sentences. Journal of Information and Data Management - JIDM , v. 15, p. 1-9, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/jidm.2024.3209"
+        },
+        {
+          "texto": "VASCONCELOS, L. L. ; CAMPELO, C.E.C. . Extracting Features from Text Flows based on Semantic Similarity for Text Classification: an Approach Inspired by Audio Analysis. JOURNAL OF THE BRAZILIAN COMPUTER SOCIETY (ONLINE) , v. 30, p. 297-314, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/jbcs.2024.3759"
+        },
+        {
+          "texto": "RAFAEL, GABRIEL JOSEPH RAMOS ; PONTES, CARLOS V. A. M. ; DE OLIVEIRA, MAXWELL GUIMARÃES ; PIRES, CARLOS EDUARDO SANTOS ; Campelo, Claudio E. C. . Topo- MSJ : Search for groups of POIs with qualitative processing of spatial regions. Transactions in GIS , v. 28, p. 2195-2218, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1111/tgis.13226"
+        },
+        {
+          "texto": "JERONIMO, CAIO L.M. ; MARINHO, LEANDRO B. ; Carmpelo, Cclaudio E.C. ; VELOSO, ADRIANO ; DA COSTA MELO, ALLAN S. . Characterization of Fake News Based on Subjectivity Lexicons. Journal of Data Intelligence , v. 1, p. 419-441, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.26421/jdi1.4-2"
+        },
+        {
+          "texto": "NOBRE NETO, F. D. ; BAPTISTA, C. S. ; CAMPELO, CLAUDIO E. C. . PREDICTION OF DESTINATIONS AND ROUTES IN URBAN TRIPS WITH AUTOMATED IDENTIFICATION OF PLACE TYPES AND STAY POINTS. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE) , v. 68, p. 1171-1180, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.14393/rbcv68n6-44485"
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S. . MINING INFLUENTIAL TERMS FOR TOPONYM RECOGNITION AND RESOLUTION. RBC. REVISTA BRASILEIRA DE CARTOGRAFIA (ONLINE) , v. 68, p. 1123-1132, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.14393/rbcv68n6-44487"
+        },
+        {
+          "texto": "DANTAS NOBRE NETO, FRANCISCO ; BAPTISTA, CLÁUDIO DE SOUZA ; CAMPELO, CLAUDIO E.'C. . Combining Markov model and Prediction by Partial Matching compression technique for route and destination prediction. KNOWLEDGE-BASED SYSTEMS , v. 154, p. 81-92, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.knosys.2018.05.007"
+        },
+        {
+          "texto": "NOBRE NETO, F. D. ; CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S. . Revisão Literária sobre Previsão de Trajetórias. PRINCIPIA (JOÃO PESSOA) , v. 1, p. 128-138, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.18265/1517-03062015v1n37p116-127"
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CAMPELO, C. E. C. ; BAPTISTA, C. S. . Using Open Data to Analyze Urban Mobility from Social Networks. Journal of Information and Data Management - JIDM , v. 8, p. 83-99, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.5753/jidm.2017.1608"
+        },
+        {
+          "texto": "; CAMPELO, C. E. C. ; BAPTISTA, C. S. ; BERTOLOTTO, M. . Gazetteer enrichment for addressing urban areas: a case study. JOURNAL OF LOCATION BASED SERVICES (PRINT) , v. 10, p. 142-159, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1080/17489725.2016.1196755"
+        },
+        {
+          "texto": "; Cláudio de Souza Baptista ; CAMPELO, CLAUDIO E. C. ; ACIOLI FILHO, J. A. M. ; FALCAO, A. G. R. . Producing Volunteered Geographic Information from Social Media for LBSN Improvement. Journal of Information and Data Management - JIDM , v. 6, p. 79-89, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.5753/jidm.2015.1558"
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CRUZ, I. ; CAMPELO, C. E. C. ; BAPTISTA, C. S. ; ROCHA, J. H. ; PINTO, M. ; FIGUEIREDO, H. F. . Monitoramento ambiental em bordas de grandes reservatórios hidrelétricos. REVISTA DE INFORMÁTICA APLICADA , v. 11, p. 46-53, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.13037/ria.vol11n2.153"
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S. ; FIGUEIREDO, H. F. ; ROCHA, J. H. ; PAES, R. F. C. ; CRUZ, I. G. M. ; AMORIM, R. V. . Integrated tools for environmental management of large hydroelectric reservoirs and their surrounding areas. REVISTA BRASILEIRA DE ADMINISTRAÇÃO CIENTÍFICA , v. 5, p. 60, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.6008/spc2179-684x.2014.002.0005"
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "Campelo, C. E. C. ; VINHAS, L. (Org.) . Proceedings of the XIX Brazilian Symposium on Geoinformatics. 10. ed. São José dos Campos: INPE, 2018. v. 1.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; BERTOLOTTO, M. ; CORCORAN, P. . Volunteered Geographic Information and the Future of Geospatial Data. 1. ed. Hershey, PA 17033, USA: IGI Global, 2017. v. 1. 357p .",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; NAMIKAWA, L. (Org.) . Proceedings of the XVII Brazilian Symposium on Geoinformatics. 8. ed. São Paulo: , 2016. v. 1. 309p .",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. . Representing and reasoning about changing spatial extensions of geographic features. 1. ed. Leeds, Reino Unido: University of Leeds, 2013. v. 1. 172p .",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "Cruz, Igor Gomes ; Campelo, Claudio E.C. . Improving Accessibility Through VGI and Crowdsourcing. Advances in Geospatial Technologies. 1ed.: IGI Global, 2017, v. , p. 208-226.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.4018/978-1-5225-2446-5.ch011"
+        },
+        {
+          "texto": "Campelo, Claudio E.C. . Geographically-Aware Information Retrieval on the Web. In: Mehdi Khosrow-Pour. (Org.). Encyclopedia of Information Science and Technology, Third Edition. 3ed.Hershey, Pennsylvania: IGI Global, 2015, v. , p. 3893-3900.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.4018/978-1-4666-5888-2.ch383"
+        },
+        {
+          "texto": "Campelo, Claudio E.C. ; BENNETT, BRANDON . Representation of Geographic Phenomena. In: Mehdi Khosrow-Pour. (Org.). Encyclopedia of Information Science and Technology, Third Edition. 3ed.Hershey, Pennsylvania: IGI Global, 2015, v. , p. 3169-3177.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.4018/978-1-4666-5888-2.ch311"
+        },
+        {
+          "texto": "Ibrahim, Adamu M. ; Campelo, Claudio E.C. ; BENNETT, B. . Predictive Expert Models for Mineral Potential Mapping. Encyclopedia of Information Science and Technology, Third Edition. 3ed.Hershey, Pennsylvania: IGI Global, 2015, v. , p. 3161-3168.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.4018/978-1-4666-5888-2.ch310"
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; BENNETT, BRANDON . Representing and Reasoning about Changing Spatial Extensions of Geographic Features. In: Tenbrink, T.; Stell, J.; Galton, A.; Wood, Z.. (Org.). Spatial Information Theory. 1ed.Heidelberg: Springer, Cham, 2013, v. 8116, p. 33-52.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-01790-7_3"
+        },
+        {
+          "texto": "Campelo, Claudio E. C. ; BENNETT, BRANDON . Geographical Process Representation. Universal Ontology of Geographic Space. 1ed.: IGI Global, 2012, v. , p. 73-96.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.4018/978-1-4666-0327-1.ch004"
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; BENNETT, BRANDON ; DIMITROVA, VANIA . From Polygons and Timestamps to Dynamic Geographic Features: Grounding a Spatio-temporal Geo-ontology. In: Castano, S.; Vassiliadis, P.; Lakshmanan, L.V.; Lee, M.L.. (Org.). Advances in Conceptual Modeling. 1ed.Berlin, Heidelberg: Springer, 2012, v. 7518, p. 251-260.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1007/978-3-642-33999-8_31"
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; BAPTISTA, C. S. . A Model for Geographic Knowledge Extraction on Web Documents. In: Heuser, C.A.; Pernul, G.. (Org.). Advances in Conceptual Modeling - Challenging Perspectives. 1ed.Berlin, Heidelberg: Springer, 2009, v. 5833, p. 317-326.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1007/978-3-642-04947-7_38"
+        },
+        {
+          "texto": "Calazans Campelo, Cláudio Elízio ; de Souza Baptista, Cláudio ; Fernandes, Ricardo Madeira . Spatial Search Engines. Encyclopedia of Information Science and Technology, Second Edition. 2ed.: IGI Global, 2008, v. , p. 3554-3558.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.4018/978-1-60566-026-4.ch566"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "LEITE, L. B. ; PEREIRA, D. E. ; AZEVEDO, E. B. A. ; MEIRA FILHO, L. M. ; ARAUJO, E. C. ; CAMPELO, C.E.C. ; MARQUES, T. R. O. C. ; ALMEIDA, L. B. ; GOMES, H. M. . LLM-Based Multi-Agent System with Retrieval-Augmented Generation for Medical Care Planning Generation in Sickle Cell Disease. In: 17th International Conference on Computational Processing of Portuguese (PROPOR 2026), Track: Lang4Health - Workshop on Language Technologies for Health, 2026, Salvador. Proceedings of the XVII International Conference on Computational Processing of Portuguese (PROPOR 2026), 2026. p. 88-100.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "JUVINO SANTOS, LUCAS RANIÉRE ; BALBY MARINHO, LEANDRO ; CALAZANS CAMPELO, CLAUDIO ELIZIO ; MENCZER, FILIPPO ; FLAMMINI, ALESSANDRO . Can Large Language Models Effectively Mitigate Polarization in Social Media Text?. In: Websci '25: 17th ACM Web Science Conference 2025, 2025, New Brunswick NJ USA. Proceedings of the 17th ACM Web Science Conference 2025. New York: ACM, 2025. p. 348.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1145/3717867.3717904"
+        },
+        {
+          "texto": "MENEZES, J. ; CAMPELO, C.E.C. . Database Modeling Automation from Natural Language Requirements. In: Brazilian Symposium on Databases (SBBD), 2025, Fortaleza. Proceedings of the XL Brazilian Symposium on Databases (SBBD). Porto Alegre: Sociedade Brasileira de Computação - SBC, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/sbbd.2025.247302"
+        },
+        {
+          "texto": "SOUZA, KLAYWERT DANILLO FERREIRA DE ; PEREIRA, DAVID EDUARDO ; CAMPELO, CLÁUDIO E. C. ; VASCONCELOS, LARISSA LUCENA . DEBISS: a Corpus of Individual, Semi-structured and Spoken Debates. In: Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana, 2025, Brasil. Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL 2025), 2025. p. 580.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/stil.2025.37860"
+        },
+        {
+          "texto": "PEREIRA, DAVID EDUARDO ; SIMÃO, DANIELA THUASLAR ; Campelo, Claudio E. C. . DEBISS-Arg: An In Depth Data Annotation Protocol and Corpus for Argument Mining in Semi Structured Debates. In: Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana, 2025, Brasil. Anais do XVI Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL 2025). Porto Alegre: Sociedade Brasileira de Computação, 2025. p. 334.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/stil.2025.37836"
+        },
+        {
+          "texto": "SIQUEIRA, FELIPE DE S. ; Campelo, Claudio E. C. . The Role of LLM-Based Tools in Shaping Data Science Student Behavior. In: Simpósio Brasileiro de Informática na Educação, 2025, Brasil. Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025). Porto Alegre: Sociedade Brasileira de Computação - SBC, 2025. p. 919.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/sbie.2025.12715"
+        },
+        {
+          "texto": "LUCENA, LORENNA MARINHO ; SANTOS, MATHEUS LISBOA OLIVEIRA DOS ; Campelo, Claudio E. C. . Automatic Generation of School Activities for Teaching English to Children. In: Simpósio Brasileiro de Informática na Educação, 2025, Brasil. Anais do XXXVI Simpósio Brasileiro de Informática na Educação (SBIE 2025), 2025. p. 1069.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.5753/sbie.2025.12773"
+        },
+        {
+          "texto": "MIRANDA, B. A. ; Campelo, C. E. C. . How effective is an LLM-based Data Analysis Automation Tool? A Case Study with ChatGPT's Data Analyst. In: Brazilian Symposium on Databases (SBBD), 2024, Florianópolis. 2024: Anais do XXXIX Simpósio Brasileiro de Bancos de Dados. Porto Alegre, RS, Brasil: Sociedade Brasileira de Computação, 2024. p. 287-299.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/sbbd.2024.240841"
+        },
+        {
+          "texto": "LEITE, N. M. N. ; SILVA, S. D. ; Campelo, C. E. C. . Leveraging Geographic Feature Embeddings for Enhanced Location-Based Recommendation Systems. In: Brazilian Symposium on Databases (SBBD), 2024, Florianópolis, SC. 2024: Anais do XXXIX Simpósio Brasileiro de Bancos de Dados. Porto Alegre, RS, Brasil: Sociedade Brasileira de Computação, 2024. p. 354-366.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/sbbd.2024.240809"
+        },
+        {
+          "texto": "CAVALCANTI, HELEN BENTO ; E. C. CAMPELO, CLAUDIO . Do you know what your senator advocates for in the committees they participate in? An LLM-based approach to topic and stance detection in parliamentary discussions. In: Anais Estendidos do Simpósio Brasileiro de Banco de Dados, 2024, Brasil. Anais Estendidos do XXXIX Simpósio Brasileiro de Banco de Dados (SBBD Estendido 2024). Porto Alegre, RS, Brasil: Sociedade Brasileira de Computação - SBC, 2024. p. 348-357.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/sbbd_estendido.2024.243776"
+        },
+        {
+          "texto": "BARBOSA, BRYAN K. S. ; CAMPELO, CLÁUDIO E. C. . LLMs as Tools for Evaluating Textual Coherence: A Comparative Analysis. In: Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana, 2024, Brasil. Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL 2024). Porto Alegre: Sociedade Brasileira de Computação. p. 278-287.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/stil.2024.245379"
+        },
+        {
+          "texto": "LIMA, P. L. S. ; CAMPELO, C.E.C. . Disfluency Detection and Removal in Speech Transcriptions via Large Language Models. In: XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana (STIL 2024), 2024, Belém, Pará, Brasil. Anais do XV Simpósio Brasileiro de Tecnologia da Informação e da Linguagem Humana. Porto Alegre, RS, Brasil: Sociedade Brasileira de Computação, 2024. p. 227-235.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5753/stil.2024.245417"
+        },
+        {
+          "texto": "SILVA, SALATIEL DANTAS ; CAMPELO, CLAUDIO ELÍZIO CALAZANS ; DE OLIVEIRA, MAXWELL GUIMARÃES . POI types characterization based on geographic feature embeddings. In: SAC '23: 38th ACM/SIGAPP Symposium on Applied Computing, 2023, Tallinn Estonia. Proceedings of the 38th ACM/SIGAPP Symposium on Applied Computing, 2023. p. 507.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1145/3555776.3577659"
+        },
+        {
+          "texto": "FERREIRA, ALEXANDRE ; CAMPELO, CLÁUDIO . Deepfake audio as a data augmentation technique for training automatic speech to text transcription models. In: Congresso Brasileiro de Inteligência Computacional, 2023, Salvador. Anais do XVI Congresso Brasileiro de Inteligência Computacional, 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/CBIC2023-169"
+        },
+        {
+          "texto": "SANTOS, MATHEUS ; CAMPELO, CLÁUDIO . Benchmarking quantized LLaMa-based models on the Brazilian Secondary School Exam. In: Congresso Brasileiro de Inteligência Computacional, 2023, Salvador. Anais do XVI Congresso Brasileiro de Inteligência Computacional, 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/CBIC2023-177"
+        },
+        {
+          "texto": "JUNIOR, JAILSON ; CAMPELO, CLÁUDIO . League of Legends: Real-Time Result Prediction. In: Congresso Brasileiro de Inteligência Computacional, 2023, Salvador. Anais do XVI Congresso Brasileiro de Inteligência Computacional, 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.21528/CBIC2023-161"
+        },
+        {
+          "texto": "MINERVINO, C. V. A. ; Campelo, C. E. C. ; ; SILVA, S. D. . QQESPM: A Quantitative and Qualitative Spatial Pattern Matching Algorithm. In: XXIV Brazilian Symposium on Geoinformatics (GEOINFO), 2023, São José dos Campos, São Paulo. Proceedings of the Brazilian Symposium on Geoinformatics, 2023. p. 49-60.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "JUVINO SANTOS, LUCAS RANIÉRE ; BALBY MARINHO, LEANDRO ; CALAZANS CAMPELO, CLAUDIO ELIZIO . Uniting Politics and Pandemic: a Social Network Analysis on the COVID Parliamentary Commission of Inquiry in Brazil. In: WebMedia '22: Brazilian Symposium on Multimedia and Web, 2022, Curitiba Brazil. Brazilian Symposium on Multimedia and Web. New York: ACM, 2022. p. 99-107.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1145/3539637.3556992"
+        },
+        {
+          "texto": "SILVA, S. D. ; ; Campelo, C. E. C. . Generating POI type embeddings based on variable Word2Vec sentences. In: XXIII Brazilian Symposium on Geoinformatics, GEOINFO 2022, 2022, São José dos Campos, São Paulo. Proceedings of the Brazilian Symposium on Geoinformatics, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, ERICK ; VITORINO, MARCELO ; MEDEIROS, JOÃO ; CAMPELO, CLÁUDIO ; CAMPOS, LÍVIA . A Digital Application to Assist Basic Education Teachers in the Interdisciplinary Development of Computational Thinking Skills on the Math Discipline in Brazilian Learning Context. In: 13th International Conference on Computer Supported Education, 2021, Online Streaming. Proceedings of the 13th International Conference on Computer Supported Education, 2021. p. 475.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.5220/0010452004750482"
+        },
+        {
+          "texto": "ROCHA, DANIYEL N. N. ; CAMPELO, CLÁUDIO E. C. ; JERÔNIMO, CAIO L. M. . Aplicação de verbos como proxy para identificação automática do nível cognitivo de questões: uma abordagem baseada na taxonomia de Bloom. In: Simpósio Brasileiro de Informática na Educação, 2021, Brasil. Anais do XXXII Simpósio Brasileiro de Informática na Educação (SBIE 2021). p. 897.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.5753/sbie.2021.218656"
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CAMPELO, C.E.C. ; MARINHO, L. B. ; MELO, A. S. C. ; VELOSO, ADRIANO . Computing with Subjectivity Lexicons. In: 12th International Conference on Language Resources and Evaluation (LREC), 2020, Marseille, France. Proceedings of the Twelfth Language Resources and Evaluation Conference, 2020. p. 3272-3280.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "VASCONCELOS, L. L. ; JERONIMO, C. L. M. ; CAMPELO, C.E.C. . Aspect Flow Representation and Audio Inspired Analysis for Texts. In: 12th International Conference on Language Resources and Evaluation (LREC), 2020, Marseille, France. Proceedings of the Twelfth Language Resources and Evaluation Conference, 2020. p. 1469-1477.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, ANDERSON FELINTO ; CAMPELO, CLAUDIO . Processamento de Linguagem Natural em Artefatos Textuais Educacionais: Um Mapeamento Sistemático no Contexto Brasileiro. In: Simpósio Brasileiro de Informática na Educação, 2020, Brasil. Anais do XXXI Simpósio Brasileiro de Informática na Educação (SBIE 2020), 2020. p. 1433.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.5753/cbie.sbie.2020.1433"
+        },
+        {
+          "texto": "VIEIRA, LUCAS LIMA ; JERONIMO, CAIO LIBANIO MELO ; Campelo, Claudio E. C. ; MARINHO, LEANDRO BALBY . Analysis of the Subjectivity Level in Fake News Fragments. In: WebMedia '20: Brazillian Symposium on Multimedia and the Web, 2020, São Luís Brazil. Proceedings of the Brazilian Symposium on Multimedia and the Web. New York: ACM, 2020. p. 233.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1145/3428658.3430978"
+        },
+        {
+          "texto": "FREITAS, J. L. S. ; Campelo, C. E. C. . Human Spatial Reasoning in Everyday Language: Inferring Regions that Describe Spatial Relations.. In: Brazilian Symposium on Geoinformatics (GeoInfo), 2020, São Paulo. Proceedings of the XXI Brazilian Symposium on Geoinformatics (GeoInfo), 2020. p. 82.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BARROS, T. S. ; Campelo, C. E. C. . Analysing the Tradeoff between Resource Consumption and Information Gain in the Gathering of Geolocation Data Using Smarphones. In: XXI Brazilian Symposium on Geoinformatics, 2020, São Paulo. Proceedings of the XXI Brazilian Symposium on Geoinformatics (GeoInfo 2020), 2020. p. 22.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MAIA, P. H. C. ; Campelo, C. E. C. . Mobipy - A Python Library for Analyzing Mobility Patterns. In: Brazilian Symposium on Geoinformatics, 2020, São Paulo. Proceedings of the XXI Brazilian Symposium on Geoinformatics (GeoInfo 2020), 2020. p. 130.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CRUZ JUNIOR, J. I. S. ; Campelo, C. E. C. . MobilityHelp: A Tool Urban Public Transportation Data Analysis. In: Brazilian Symposium on Geoinformatics, 2020, São Paulo. Proceedings of the XXI Brazilian Symposium on Geoinformatics (GeoInfo 2020), 2020. p. 264.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, ERICK J. F. ; Campelo, Claudio E. C. ; CAMPOS, LIVIA M. R. SAMPAIO . Automatic Classification of Computational Thinking Skills in Elementary School Math Questions. In: 2019 IEEE Frontiers in Education Conference (FIE), 2019, Covington. 2019 IEEE Frontiers in Education Conference (FIE), 2019. p. 1-9.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/FIE43999.2019.9028499"
+        },
+        {
+          "texto": "JERONIMO, CAIO LIBANIO MELO ; MARINHO, LEANDRO BALBY ; Campelo, Claudio E. C. ; VELOSO, ADRIANO ; DA COSTA MELO, ALLAN SALES . Fake News Classification Based on Subjective Language. In: iiWAS2019: The 21st International Conference on Information Integration and Webbased Applications & Services, 2019, Munich Germany. Proceedings of the 21st International Conference on Information Integration and Web-based Applications & Services. New York: ACM. p. 15-24.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1145/3366030.3366039"
+        },
+        {
+          "texto": "COSTA, ERICK ; CAMPELO, CLAUDIO ; SAMPAIO, LIVIA . Classificação Automática de Questões Problema de Matemática para Aplicações do Pensamento Computacional na Educação. In: VII Congresso Brasileiro de Informática na Educação, 2018, Fortaleza, 2018. p. 569-578.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.5753/cbie.wcbie.2018.569"
+        },
+        {
+          "texto": "DE OLIVEIRA, MAXWELL GUIMAR?ES ; DE SOUZA BAPTISTA, CL?UDIO ; CAMPELO, CL?UDIO E. C. ; BERTOLOTTO, MICHELA . A gold-standard social media corpus for urban issues. In: the Symposium, 2017, Marrakech. Proceedings of the Symposium on Applied Computing - SAC '17, 2017. p. 1011-1016.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1145/3019612.3019808"
+        },
+        {
+          "texto": "CRUZ, I. G. M. ; CAMPELO, C. E. C. ; BAPTISTA, C. S. . Plataforma VGI para Auxílio à Navegação de Deficientes Visuais. In: GeoInfo - Brazilian Symposium on GeoInformatics, 2017, Salvador. Proceedings of the XVIIi Brazilian Symposium on Geoinformatics, 2017. p. 163-168.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CAMPELO, C. E. C. ; BAPTISTA, C. S. . Analyzing mobility patterns from social networks and social, economic and demographic open data. In: GeoInfo - Brazilian Symposium on GeoInformatics, 2016, Campos do Jordão - SP. Proceedings of the XVII Brazilian Symposium on Geoinformatics, 2016. p. 32-43.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ROCHA, JULIO HENRIQUE ; Campelo, Claudio E. C. ; DE SOUZA BAPTISTA, CLAUDIO ; RAFAEL, GABRIEL JOSEPH RAMOS . The geo-social relevance ranking: A method based on geographic information and social media data. In: 2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), 2016, Agadir. 2016 IEEE/ACS 13th International Conference of Computer Systems and Applications (AICCSA), 2016. p. 1.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/AICCSA.2016.7945628"
+        },
+        {
+          "texto": "NETO, FRANCISCO DANTAS NOBRE ; BAPTISTA, CLAUDIO DE SOUZA ; Campelo, Claudio E. C. . A user-personalized model for real time destination and route prediction. In: 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC), 2016, Rio de Janeiro. 2016 IEEE 19th International Conference on Intelligent Transportation Systems (ITSC), 2016. p. 401.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/itsc.2016.7795586"
+        },
+        {
+          "texto": "; CAMPELO, C. E. C. ; BAPTISTA, C. S. ; BERTOLOTTO, M. . Leveraging VGI for Gazetteer Enrichment: A Case Study for Geoparsing Twitter Messages. In: W2GIS - Web and Wireless Geographical Information Systems - International Symposium, 2015, Grenoble, France. W2GIS - Web and Wireless Geographical Information Systems - International Symposium, 2015. v. 9080. p. 20-36.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CAMPELO, C. E. C. ; FIGUEIREDO, L. C. ; ROCHA, J. H. ; FIGUEIREDO, H. F. ; BAPTISTA, C. S. . Management of Large Hydroelectric Reservoirs Surrounding Areas Using GIS and Remote Sensing. In: EGOVIS - International Conference on Electronic Government and the Information Systems Perspective, 2015, Valencia, Spain. Electronic Government and the Information Systems Perspective, 2015. v. 9265. p. 257-268.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "JERÔNIMO, CAIO ; CRUZ, IGOR ; CAMPELO, CLÁUDIO ; BAPTISTA, CLÁUDIO ; ROCHA, JÚLIO ; PINTO, MURILO ; DE FIGUEIRÊDO, HUGO . Monitoramento ambiental em bordas de grandes reservatórios hidrelétricos. In: Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2015, Brasil. Anais do Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais (WCAMA 2015). p. 21.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.5753/wcama.2015.10186"
+        },
+        {
+          "texto": "NOBRE NETO, F. D. ; BAPTISTA, C. S. ; CAMPELO, C. E. C. . Predicting Routes and Destinations of Urban Trips using PPM Method. In: SBCUP - Simpósio Brasileiro de Computação Ubíqua e Pervasiva, 2015, Recife-Pe. Anais do XXXV Congresso da Sociedade Brasileira de Computação., 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "NOBRE NETO, F. D. ; Cláudio de Souza Baptista ; CAMPELO, CLAUDIO E. C. . Prediction of Destinations and Routes in Urban Trips with Automated Identification of Place Types and Stay Points. In: GeoInfo - Brazilian Symposium on GeoInformatics, 2015, Campos do Jordão - SP. Proceedings of the XVI Brazilian Symposium on GeoInformatics, 2015. p. 80-91.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "JERONIMO, C. L. M. ; CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S. . Mining influential terms for toponym recognition and resolution. In: GeoInfo - Brazilian Symposium on GeoInformatics, 2015, Campos do Jordão - SP. Proceedings of the XVI Brazilian Symposium on Geoinformatics, 2015. p. 143-154.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Towards a Logic-based Framework for Representing and Reasoning about Geographic Phenomena. In: 5th Workshop of Applied Computing for the Management of the Environment and Natural Resources (WCAMA 2014), 2014, Brasilia. V Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2014. p. 1213-1221.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; BAPTISTA, C. S. ; CAMPELO, C. E. C. ; ACIOLI FILHO, J. A. M. ; FALCAO, A. G. R. . Automated Production of Volunteered Geographic Information from Social Media. In: GeoInfo - Brazilian Symposium on GeoInformatics, 2014, Campos do Jordão. Proceedings of the XV Brazilian Symposium on GeoInformatics, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON . Representing and Reasoning about Changing Spatial Extensions of Geographic Features. In: The 11th International Conference On Spatial Information Theory, 2013, Scarborough. Spatial Information Theory: Proceedings of the 11th Conference, 2013. v. 8116. p. 33-52.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON . Towards a Comprehensive Framework for Representing and Reasoning about Geographic Phenomena. In: International Workshop 'Spatio-temporal theories and research for environmental, urban an social sciences: where do we stand ?', held in conjunction with the 11th International Conference on Spatial Information Theory (COSIT 2013), 2013, Scarborough. Spatial Information Theory: Proceedings of the 11th International Conference, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON ; DIMITROVA, VANIA . From Polygons and Timestamps to Dynamic Geographic Features: Grounding a Spatio-temporal Geo-ontology. In: 6th International Workshop on Semantic and Conceptual Issues in GIS (SeCoGIS 2012), held in conjunction with the 31st International Conference on Conceptual Modeling (ER 2012), 2012, Florença, Itália. Advances in Conceptual Modeling: ER Workshops 2012, 2012. v. 7518. p. 251-260.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON ; DIMITROVA, VANIA . Identifying Geographic Events and Processes in Spatio-temporal Data. In: 6th Starting Artificial Intelligence Research Symposium (STAIRS), held in conjunction with the 20th European Conference on Artificial Intelligence (ECAI), 2012, Montpellier. Frontiers in Artificial Intelligence and Applications, Volume 241: STAIRS 2012, 2012. v. 241. p. 47-58.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.3233/978-1-61499-096-3-47"
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON ; DIMITROVA, VANIA . Identifying Geographical Processes from Time-stamped Data. In: 4th International Conference on Geospatial Semantics (GeoS 2011), 2011, Brest. GeoSpatial Semantics: Proceedings of the 4th International Conference (GeoS 2011), 2011. v. 6631. p. 70-87.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BENNETT, BRANDON . Applying Standpoint Semantics to Determine Geographical Processes Instances. In: Workshop on Identifying Objects, Processes, and Events in Spatio-Temporally Distributed Data (IOPE), held at The Conference on Spatial Information Theory (COSIT'11), 2011, Belfast, Maine. IOPE 2011: Workshop on Identifying Objects, Processes, and Events in Spatio-Temporally Distributed Data, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. . A Model for Geographic Knowledge Extraction on Web Documents. In: 3rd International Workshop on Semantic and Conceptual Issues in GIS (SeCoGIS 2009) in conjunction with the 28th International Conference on Conceptual Modeling (ER 2009), 2009, Gramado. The 28th International Conference on Conceptual Modeling, 2009. v. 5833. p. 317-326.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Calazans Campelo, Cláudio Elízio ; de Souza Baptista, Cláudio . Geographic scope modeling for web documents. In: Proceeding of the 2nd international workshop, 2008, Napa Valley. Proceeding of the 2nd international workshop on Geographic information retrieval - GIR '08. New York: ACM Press. p. 11-18.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.1145/1460007.1460010"
+        },
+        {
+          "texto": "DE ALMEIDA, D.R. ; DE SOUZA BAPTISTA, C. ; DA SILVA, E.R. ; CAMPELO, C.E.C. ; DE FIGUEIREDO, H.F. ; LACERDA, Y.A. . A context-aware system based on service-oriented architecture. In: , 2006, Vienna. . p. 6 pp.-210.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1109/AINA.2006.16"
+        },
+        {
+          "texto": "ALMEIDA, D. ; BAPTISTA, C. ; SILVA, E. ; CAMPELO, CLAUDIO E. C. ; NUNES, C. ; COSTA, B. ; CABRAL, J. ; ANDRADE, W. . Using Service-Oriented Architecture in Context-Aware Applications. In: GEOINFO - VII Simpósio Brasileiro de Geoinformática, 2005, Campos do Jordão - SP. GEOINFO - VII Simpósio Brasileiro de Geoinformática, 2005.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "CRUZ, I. G. M. ; CAMPELO, C. E. C. ; BAPTISTA, C. S. . Aplicação Android para auxílio à navegação de Deficientes Visuais. In: Brazilian Symposium on Geoinformatics - Geoinfo, 2017, Salvador. Proceedings of the XVIII Brazilian Symposium on Geoinformatics, 2017.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "MIRANDA, B. A. ; CAMPELO, C.E.C. . How effective is an LLM-based Data Analysis Automation Tool? A Case Study with ChatGPT's Data Analyst?. 2024. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, H. B. ; CAMPELO, C.E.C. . Do you know what your senator advocates for in the committees they participate in? An LLM-based approach to topic and stance detection in parliamentary discussions. 2024. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. . Automatic Classification of Computational Thinking Skills in Elementary School Math Questions. 2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CASANOVA, M. A. ; MEDEIROS, C. B. ; DAVIS JUNIOR, C. A. ; GATTASS, M. ; VINHAS, L. ; CAMPELO, C.E.C. . Painel - GEOINFO 20 Anos Depois: Revisitando o Passado e Inventando o Futuro. 2019. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. . Analyzing mobility patterns from social networks and social, economic and demographic open data. 2016. (Apresentação de Trabalho/Seminário).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. . Monitoramento Ambiental em Bordas de Grandes Reservatórios Hidrelétricos. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Mining influential terms for toponym recognition and resolution. 2015. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. . Towards a Logic-based Framework for Representing and Reasoning about Geographic Phenomena. 2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. . Automated Production of Volunteered Geographic Information from Social Media. 2014. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Representing and Reasoning about Changing Spatial Extensions of Geographic Features. 2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Towards a Comprehensive Framework for Representing and Reasoning about Geographic Phenomena. 2013. (Apresentação de Trabalho/Congresso).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Identifying Geographic Events and Processes in Spatio-temporal Data. 2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . From Polygons and Timestamps to Dynamic Geographic Features: Grounding a Spatio-temporal Geo-ontology. 2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Identifying Geographical Processes from Time-stamped Data. 2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Geographic Scope Modeling for Web Documents. 2008. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . GeoSEn: Um Motor de Busca com Enfoque Geográfico. 2007. (Apresentação de Trabalho/Outra).",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "PONTES, I. M. T. ; CAMPELO, C.E.C. . Gerenciador de Pedidos. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "NASCIMENTO, M. A. S. ; CAMPELO, C.E.C. . RecipeMaster - Gerenciamento de Receitas. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, M. V. B. ; CAMPELO, C.E.C. . Better Together: Conectando programadores. 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ARRUDA, C. J. S. ; CAMPELO, C.E.C. . SchemaCheck (Corretor automático de Esquemas SQL). 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FARIAS, F. R. P. Q. ; CAMPELO, C.E.C. . Smart Geo-comparative Maps. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, D. P. ; CAMPELO, C.E.C. . Classificador Automático Conteúdo Homofóbico. 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, Y. S. ; CAMPELO, C.E.C. . DBSM (Monitoramento de Estudantes de Banco de Dados). 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MAIA, P. H. C. ; CAMPELO, C.E.C. . Mobipy (Biblioteca em Python para análise de padrões de mobilidade). 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MAIA, P. H. C. ; CAMPELO, CLAUDIO E. C. . TweetHavester (Coletor de Tweets). 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ACIOLI FILHO, J. A. M. ; CAMPELO, C. E. C. ; Cláudio de Souza Baptista . GeoDrill (Consulta a base de dados heterogêneas). 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "QUEIROZ, C. F. J. ; CAMPELO, C. E. C. . POIGrabber (Recuperação de POIs de Múltiplas Fontes). 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S. . Social2AGI (Extração Informação Geográfica de Mídias Sociais). 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . Progress (Sistema para análise de eventos e processos geográficos). 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. . GeoSEn (Buscador com Enfoque Geográfico). 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; FIGUEIREDO, H. F. ; LACERDA, Y. A. . iGIS Lite (Sistema de informação geográfica). 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "SILVA, S. D. ; CAMPELO, C.E.C. ; . Austin POIs and Geographic Features Dataset. 2024. (Base de Dados).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAVALCANTI, H. B. ; CAMPELO, C.E.C. . Dataset of Brazilian Federal Senate Session Transcriptions From 2023 with Relevant Topics and Stance Detection Annotations. 2024. (Base de Dados).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, M. L. O. ; CAMPELO, C.E.C. . Brazilian Secondary School Exam (ENEM) Questions Dataset. 2023. (Base de Dados).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA JUNIOR, J. B. ; CAMPELO, C.E.C. . League of Legends Match Data at Various Time Intervals. 2023. (Base de Dados).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "JUVINO SANTOS, LUCAS RANIÉRE ; MARINHO, L. B. ; CAMPELO, CLÁUDIO E. C. . [Tweets] 2023 Brazilian Early Political Events. 2023. (Base de Dados).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "JUVINO SANTOS, LUCAS RANIÉRE ; CAMPELO, C.E.C. ; MARINHO, L. B. . [Dataset] Tweets about COVID-19 Brazilian PCI. 2022. (Base de Dados).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, LUCAS LIMA ; JERÔNIMO, CAIO L. M. ; CAMPELO, C.E.C. ; MARINHO, L. B. . Fake News Dataset with In-content Annotations and Detailed Lying Excerpts. 2020. (Base de Dados).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "FERNANDES, D. Y. S.; CAMPELO, C.E.C. ; ARAUJO, T. B.; REGO, A. S. C.. Participação em banca de Cristofer Girardi. Explorando combinações de técnicas de Prompt Engineering: Um caso de uso na geração e explicação de código. 2026. Dissertação (Mestrado em Programa de Pós-Graduação em Tecnologia da Informação (PPGTI)) - INSTITUTO FEDERAL DE EDUCACAO, CIENCIA E TECNOLOGIA DA PARAIBA.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; CARVALHO, V. O.; SALVADEO, D. H. P.. Participação em banca de Gabriel Nunes Henke. Agente de Modelo de Linguagem de Grande Escala para Detecção e Explicação de Desinformação: uma Abordagem Baseada no Método Quadripolar. 2026. Dissertação (Mestrado em Programa De Pós-Graduação Em Ciência Da Computação) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, A. L. C.; CAMPELO, C.E.C. ; MARINHO, L. B.; MONTEIRO, J. A. B.; MORAIS, F. J. A.. Participação em banca de Iriedson Souto Maior de Moraes Vilar. Uma Análise da Contaminação por Dados de Benchmark Português Brasileiro em Grandes Modelos de Linguagem. 2026. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "DURAO, F. A.; CAMPELO, C.E.C. ; MARINHO, L. B.. Participação em banca de Caio Davi Pereira da Silva Cordão. Recomendações Explicáveis para Grupos Baseadas em Representações Latentes e LLMs. 2026. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SALVADEO, D. H. P.; SILVA, S. D.; CAMPELO, C.E.C. ; MARINHO, L. B.. Participação em banca de Pedro Henrique de Oliveira Silva. Uma Abordagem Multiagente para a Checagem de Fatos Baseada em Análise Linguística e Busca Automática de Evidências. 2026. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; MARINHO, L. B.; ANCHIETA, R.. Participação em banca de David Eduardo Pereira. Exploring Argument Mining in Semi-structured, Individual and Oral Debates Using Large Language Models. 2025. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; MARINHO, L. B.; VELOSO, A. A.. Participação em banca de Ítallo de Sousa Silva. Leveraging LLMs for Explainable Recommender Systems: Exploring User Perceptions and Faithfulness in Generated Explanations. 2025. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ANCHIETA, R. T.; SILVA, S. D.; CAMPELO, C.E.C. . Participação em banca de Klaywert Danillo Ferreira de Souza. Comparative Analysis of Performance in Academic Debates: Insights from Human Evaluations and Language Models. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MOURA, J. A. B.; COSTA, E. B.; VIEIRA, T. M. A.; CAMPELO, C.E.C. . Participação em banca de André Ricardo Dantas Bezerra Gondim. DigAI - A Chatbot Interface for Fashion Recommender Systems. 2024. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, F. J. A.; ANDRADE, N. F.; FIGUEIREDO, F. V. D.; CAMPELO, C.E.C. . Participação em banca de Matheus Alves dos Santos. Modelagem de tópicos na estimativa de pontos ideais baseados em discursos de parlamentares brasileiros. 2024. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; KASTER, D. S.; NASCIMENTO FILHO, D. C.. Participação em banca de Carlos Vinicius Alves Minervino. Spatial Pattern Matching with Quantitative and Qualitative Constraints. 2024. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; SOUZA, M. V. S. E.; MARINHO, L. B.. Participação em banca de Bryan Khelven da Silva Barbosa. LLMs as Tools for Evaluating Textual Coherence: A Comparative Analysis. 2024. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; CAMPELO, C.E.C. ; MANZATO, M. G.. Participação em banca de Júlio Barreto Guedes da Costa. An Investigation of Pre-Training Approaches for Matrix Factorization-based Recommender Systems. 2024. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "VERAS, A. S. C.; GOMES, R. V. R. S.; CAMPELO, C.E.C. . Participação em banca de Hadja Lorena Rangel Uchoa Cavalcanti De Menezes Costa. Estudo Preliminar para Predição de Consumo de Nutrientes e Desempenho de Ovinos Deslanados em Confinamento Baseado em Aprendizagem de Máquina. 2023. Dissertação (Mestrado em Zootecnia) - Universidade Federal Rural de Pernambuco.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LISBOA FILHO, J.; Campelo, C. E. C. ; BORGES, K. A. V.. Participação em banca de Lucas Fouraux Dorigueto. Um Framework Para Desenvolvimento De Sistema De Gerenciamento De Informações De Desastres Voltado Para Deslizamento De Terra. 2022. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Viçosa.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; ARAUJO JUNIOR, J. G.; CAMPELO, C.E.C. . Participação em banca de Diogo Florêncio de Lima. Caracterização da Influência da Subjetividade das Notícias sob Leitores em Portais de Notícias. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; LACERDA, Y. A.; . Participação em banca de José Lucas Silva Freitas. Locating Places Described in Natural Language Using Human-Machine Dialogue. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; ; LACERDA, Y. A.; ANDRADE, N. F.. Participação em banca de Gabriel Joseph Ramos Rafael. Busca por grupos de Pontos de Interesse usando processamento qualitativo de regiões espaciais. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, N. F.; FONSECA, K. V. O.; CAMPELO, C. E. C. . Participação em banca de Tarciso Braz de Oliveira Filho. Inferring Passenger-Level Bus Trip Traces from Schedule, Positioning and Ticketing Data: Methods and Applications. 2019. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; TIMES, V. C.; CAMPELO, C. E. C. . Participação em banca de Thiago Pereira da Nóbrega. Pareamento Privado de Atributos no Contexto da Resolução de Entidades com Preservação de Privacidade. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; BAPTISTA, C. S.; ALBUQUERQUE, J. P.; MARINHO, L. B.. Participação em banca de Caio Libânio Melo Jerônimo. Analisando padrões de mobilidade a partir de redes sociais e de dados sociodemográficos abertos. 2017. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BOGORNY, V.; RENSO, C.; CAMPELO, C. E. C. ; MELLO, R. S.. Participação em banca de Marco Aurélio Beber. Individual and Group Activity Recognition in Moving Object Trajectories. 2017. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S.; ARAUJO, J. F. M. F. R.; FIGUEIREDO, H. F.. Participação em banca de Igor Gomes de Meneses Cruz. Auxílio à Mobilidade de Deficientes Visuais por meio de Sensores Humanos. 2017. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SCHIEL, U.; BEZERRA, E. P.; CAMPELO, CLAUDIO E. C. . Participação em banca de George Marcelo Rodrigues Alves. RISO-GCT ?Determinação do Contexto Temporal de Conceitos em Textos. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; CAVALCANTI, M. C. R.; CAMPELO, CLAUDIO E. C. . Participação em banca de Tiago Brasileiro Araújo. Uma Abordagem em Paralelo para Matching de Grandes Ontologias com Balanceamento de Carga. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; BAPTISTA, C. S.; ; FIGUEIREDO, H. F.. Participação em banca de José Amilton Moura Acioli Filho. GeoDrill: Uso de SQL para integração de Fontes de Dados Espaciais Heterogêneas com ou sem Esquema. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; BAPTISTA, C. S.; MARINHO, L. B.; PAIVA, A. C.. Participação em banca de Júlio Henrique Rocha. Ranking de Relevância Baseado na Análise de Links e Relacionamento Geográfico. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, A. L. F.; BAPTISTA, C. S.; ; ANDRADE, F. G.. Participação em banca de André Luiz Firmino Alves. Uma Abordagem de Análise de Sentimentos Espaço-Temporal em Microtextos. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "MARINHO, L. B.; CAMPELO, C.E.C. ; SOUZA, F. B.; SILVA, T. H.; MORAIS, F. J. A.; PEREIRA, E. T.. Participação em banca de Lucas Raniére Juvino Santos. Large Language Models as Tools for Detection and Mitigation of Polarization on Social Media. 2025. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, E. T.; GOMES, H. M.; IASULAITIS, S.; PAIVA, A. C.; BAPTISTA, C. S.; CAMPELO, C.E.C. . Participação em banca de Hanna França Menezes. Detecção Automática de Memes Preconceituosos em Português Brasileiro. 2025. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; FILETO, R.; VIEIRA, T. M. A.; NASCIMENTO FILHO, D. C.; PEREIRA, E. T.. Participação em banca de Salatiel Dantas Silva. Geração de Embeddings de Tipos de POI com base em Feições Geográficas. 2024. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FERREIRA, K. R.; QUEIROZ, G. R.; COGO, V. V.; MENDES, C. L.; CAMPELO, C.E.C. . Participação em banca de Vitor Conrado Faria Gomes. Brazil Data Cube Workflow Engine: A Tool For Big Earth Observation Data Processing. 2023. Tese (Doutorado em Doutorado) - Instituto Nacional de Pesquisas Espaciais.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, F. B.; LIMA, R. J.; ANDRADE, N. F.; MORAIS, F. J. A.; MARINHO, LEANDRO BALBY; CAMPELO, C.E.C. . Participação em banca de Caio Libânio Melo Jerônimo. Classificações de Notícias Falsas Baseadas em Similaridade Semântica a partir de Léxicos Automaticamente Construídos. 2022. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; VELOSO, A. A.; LIMA, R. J.; MARINHO, L. B.; ARAUJO, J. F. M. F. R.. Participação em banca de Larissa Lucena Vasconcelos. Feature Extraction From Semantic Similarity Flows For Text Classification: An Approach Inspired By Audio Analysis. 2022. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPOS, L. M. R. S.; Campelo, C. E. C. ; SIQUEIRA, S. W. M.; ARANHA, E. H. S.; ANDRADE, W. L.; MONTEIRO, J. A. B.. Participação em banca de Erick John Fidelis Costa. Uma Estratégia Metodológica para Integração do Pensamento Computacional ao Ensino da Matemática. 2022. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; MOURA, E. S.; MANZATO, M. G.; ANDRADE, N. F.; CAMPELO, C.E.C. . Participação em banca de Caio Santos Bezerra Nóbrega. Geração de Explicações para Sistemas de Recomendação via aprendizado de Modelos Interpretáveis. 2021. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; MARINHO, LEANDRO BALBY; SILVA, D. F.; MATTOS NETO, P. S. G.; CAMPELO, C.E.C. ; MONTEIRO, J. A. B.. Participação em banca de Ígor Barbosa da Costa. Modelagem e Predição de Resultados de Futebol Antes e Durante as Partidas Usando Aprendizagem de Máquina. 2021. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "FIGUEIREDO, F. V. D.; SILVA, D. F.; MARINHO, L. B.; CAMPELO, C.E.C. . Participação em banca de Felipe Vieira Falcão. Caracterizando e Quantificando Inovação em Redes de Similaridade Musical. 2021. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "LOSCIO, B. F.; MONTEIRO FILHO, J. M. S.; BAPTISTA, C. S.; CAMPELO, C.E.C. . Participação em banca de Tiago Brasileiro Araújo. Parallel Blocking for Entity Resolution in the Context of Semi-structured Data. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CABRAL, G. R. E.; FIGUEIREDO, F. V. D.; MARINHO, L. B.; CAMPELO, C.E.C. ; ANDRADE, N. F.. Participação em banca de Daniel Gondim Ernesto de Mélo. Explorando a Importância da Personalização na Criação de Playlists. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "RAMALHO, F. S.; MARINHO, L. B.; BARBOSA, L. A.; LIMA FILHO, F. J. C.; MONTEIRO, J. A. B.; CAMPELO, C.E.C. . Participação em banca de Thaciana Guimarães de Oliveira Cerqueira. Explorando Características Sociais e de Colaboração na Recomendação de Projetos no GitHub. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; SANTOS, L. B. L.; MACIEL, C. D.; DELBEM, A. C. B.; PEREIRA, J. P. A.. Participação em banca de Sidgley Camargo de Andrade. Mining of rainfall patterns from social media for supporting flood risk management. 2020. Tese (Doutorado em Ciências da Computação e Matemática Computacional) - Universidade de São Paulo.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; SANTOS, R. L. T.; MOURA, E. S.; PEREIRA, E. T.; CAMPELO, C.E.C. . Participação em banca de Ricardo Santos de Oliveira. Diversificação em recomendações musicais utilizando uma abordagem baseada em aspectos. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; SOUZA, F. B.; MUNDIM, P.; ANDRADE, N. F.; CAMPELO, C.E.C. . Participação em banca de Allan Sales da Costa Melo. Análise de Viés Midiático baseada em Conteúdo Textual de Notícias. 2020. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, J. P. A.; FORTES, R. P. M.; DAVIS JUNIOR, C. A.; CAMPELO, C.E.C. ; NERIS, V. P. A.. Participação em banca de Lívia Castro Degrossi. An approach for assessing the quality of crowdsourced geographic information in the flood management domain. 2019. Tese (Doutorado em Ciencia da Computacao) - Universidade de São Paulo.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, N.; FIGUEIRA FILHO, F.; CARVALHO, M. W. A.; BRASILEIRO, F. V.; CAMPELO, C. E. C. . Participação em banca de Aline Marques de Morais. Mapeamento da Diversidade de Criadores de Conteúdo Geolocalizado em Redes Geossociais em Cidades Brasileiras. 2018. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, E. B.; ARAUJO, J. M. F. R.; MELLO, R. F. L.; SIQUEIRA, S. W. M.; ANDRADE, N. F.; CAMPELO, C. E. C. . Participação em banca de Cleyton Caetano de Souza. Investigando como Características Desejáveis afetam o Desempenho de Perguntas sobre Programação em Sites de Perguntas e Respostas. 2018. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, N. F.; MARINHO, L. B.; Campelo, C. E. C. ; GEROSA, M. A.; FIGUEIREDO, F. V. D.. Participação em banca de David Candeia Medeiros Maia. Captura e Análise da Percepção de Cenas Urbanas em Diferentes Escalas. 2018. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; BAPTISTA, C. S.; CARVALHO, W. V.; SILVA, M. P. S.; PEREIRA, E. T.; Campelo, C. E. C. . Participação em banca de Yuri Almeida Lacerda. Explorando a Localização e Orientação de Fotografias Pessoais para Descoberta de Pontos de Interesse Baseada em Agrupamento. 2017. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; GALANTE, R. M.; MONTEIRO FILHO, J. M. S.; MARINHO, L. B.; CAMPELO, C. E. C. . Participação em banca de Dimas Cassimiro do Nascimento Filho. Reduzindo Custos da Deduplicação de Dados Utilizando Heurísticas e Computação em Nuvem. 2017. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACEDO, J. A. F.; TIMES, V. C.; GOMES, H. M.; ARAUJO, J. F. M. F. R.; CAMPELO, C.E.C. ; BAPTISTA, C. S.. Participação em banca de Francisco Dantas Nobre Neto. Modelos Baseados em PPM para Previsão de Trajetórias Utilizando Informações Contextuais. 2017. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; MARINHO, L. B.; SALGADO, A. C.; ALMEIDA, J. M.; COSTA, E. B.; CAMPELO, C. E. C. . Participação em banca de Alex Sandro da Cunha Rêgo. Aprendizado Automático de Relações Semânticas entre Tags de Folksonomias. 2016. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, A. C. M.; MATTOS NETO, P. S. G.; ANDRADE, N. F.; Campelo, C. E. C. ; MARINHO, L. B.. Participação em banca de José Gildo de Araújo Júnior. Previsão de Setores e Índice Bovespa por meio de Notícias Econômicas e suas Repercussões em Redes Sociais. 2016. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FILETO, R.; ANDRADE, F. G.; MARINHO, L. B.; ARAUJO, J. M. F. R.; BAPTISTA, C. S.; CAMPELO, C. E. C. . Participação em banca de Maxwell Guimarães de Oliveira. Ontology-driven Urban Issues Identification from Social Media. 2016. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SCHIEL, U.; SAMPAIO, M. C.; MOURA, E. S.; TORRES, R. S.; ; . Participação em banca de Vladimir Soares Catão. DBFIRe: Recuperação de Documentos Relacionados a Consultas a Banco de Dados. 2014. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "BRITO, A. V.; ARAUJO, T. M. U.; CAMPELO, C.E.C. ; ARAUJO, J. M. F. R.; GOMES, H. M.; BATISTA, L. V.. Participação em banca de Sandoval Veríssimo de Sousa Neto. Uma Abordagem para a Detecção de Ataques de Apresentação Facial Baseada em Atributos de Qualidade e CNNs. 2026. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; MANZATO, M. G.; MOURA, E. S.; MORAIS, F. J. A.; CAMPELO, C.E.C. . Participação em banca de André Lira Rolim. Explorando Tags de Consulta em Recomendação de Documentos Jurídicos. 2024. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; CAMPELO, C.E.C. ; SOUZA, F. B.; SILVA, T. H.; MORAIS, F. J. A.; ARAUJO, J. F. M. F. R.. Participação em banca de Lucas Raniére Juvino Santos. Application of LLMs to Identify and Mitigate Political Polarization on Social Media Platforms. 2023. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; FILETO, R.; VIEIRA, T. M. A.; PEREIRA, E. T.; NASCIMENTO FILHO, D. C.. Participação em banca de Salatiel Dantas Silva. Caracterização de Tipos de POI Utilizando Embeddings de Dados Geográficos. 2023. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; VELOSO, A. A.; LIMA, R. J.; MARINHO, L. B.; ARAUJO, J. M. F. R.. Participação em banca de Larissa Lucena Vasconcelos. Análise de Fluxo de Aspectos Linguísticos em Textos: uma Abordagem Inspirada na Análise de Áudio. 2020. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; CAMPELO, C.E.C. ; RECUERO, R. C.; LIMA, R. J.; ANDRADE, N. F.; MORAIS, F. J. A.. Participação em banca de Caio Libânio Melo Jerônimo. Caracterização de Notícias Falsas por Meio de Léxicos de Subjetividade. 2020. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPOS, L. M. R. S.; CAMPELO, C.E.C. ; SIQUEIRA, S. W. M.; ARANHA, E. H. S.; ANDRADE, W. L.; MONTEIRO, J. A. B.. Participação em banca de Erick John Fidelis Costa. Um Arcabouço Metodológico Apoiado por Tecnologias Inteligentes para o Desenvolvimento do Pensamento Computacional na Matemática. 2020. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "FIGUEIREDO, F. V. D.; SILVA, A. S.; ANDRADE, N. F.; CAMPELO, C. E. C. . Participação em banca de Caio Santos Bezerra Nóbrega. Geração de Explicações para Sistemas de Recomendação via aprendizado de Modelos Interpretáveis. 2019. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; SOUZA, F. B.; VELOSO, A. A.; ANDRADE, N.; CAMPELO, C. E. C. . Participação em banca de Allan Sales da Costa Melo. Identificação de Viés baseada em Análise de Conteúdo Textual. 2019. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, N. F.; CABRAL, G. R. E.; FIGUEIREDO, F. V. D.; MARINHO, L. B.; CAMPELO, C. E. C. . Participação em banca de Daniel Gondim Ernesto de Mélo. Diferenças em percepção no uso de músicas para atividades específicas. 2018. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ANDRADE, N. F.; LOPES, R. V.; GEROSA, M. A.; FIGUEIREDO, F. V. D.; MARINHO, L. B.; CAMPELO, C.E.C. . Participação em banca de David Candeia Medeiros Maia. Incorporando Diversidade de Perfil, de Tempo e de Forma Urbana na Computação e Previsão da Percepção de Cenas Urbanas. 2017. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, L. A.; OLIVEIRA, D. C. M.; BAPTISTA, C. S.; CAMPELO, C. E. C. . Participação em banca de Tiago Brasileiro Araújo. Blocagem em Paralelo para Resolução de Entidades no Contexto de Dados Semiestruturados. 2017. Exame de qualificação (Doutorando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S.; FILETO, R.; ANDRADE, F. G.; MARINHO, L. B.; ARAUJO, J. M. F. R.. Participação em banca de Maxwell Guimarães de Oliveira. Towards Urban Complaint Identification from Social Media data with focus on Location and Semantics. 2016. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S.; TIMES, V. C.; MACEDO, J. A. F.; ARAUJO, J. F. M. F. R.; GOMES, H. M.. Participação em banca de Francisco Dantas Nobre Neto. Predroute: Um Modelo para Previsão de Trajetórias Utilizando Informações Contextuais e Semântica. 2016. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; PEREIRA, A. C. M.; MATOS, P. S. G.; CAMPELO, CLAUDIO E. C. ; ANDRADE, N.. Participação em banca de José Gildo de Araújo Júnior. Previsão da BM&FBOVEPSA via Processamento de Notícias e suas Repercussões em Redes Sociais. 2016. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ARAUJO, J. M. F. R.; COSTA, E. B.; MELLO, R. F. L.; SIQUEIRA, S. W. M.; ANDRADE, N. F.; CAMPELO, CLAUDIO E. C. . Participação em banca de Cleyton Caetano de Souza. Um Arcabouço para Potencializar o Sucesso da Consulta Social. 2016. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "NASCIMENTO FILHO, D. C.; ; MARINHO, L. B.; CAMPELO, C. E. C. ; MONTEIRO FILHO, J. M. S.; GALANTE, R.. Participação em banca de Dimas Cassimiro do Nascimento Filho. Um Serviço para Monitoramento de Qualidade de Dados em Nuvem. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; BAPTISTA, C. S.; CARVALHO, W. V.; SILVA, M. P. S.; CAMPELO, C. E. C. ; PEREIRA, E. T.. Participação em banca de Yuri Almeida Lacerda. O uso da orientação geográfica de fotografias georreferenciadas na detecção de pontos de interesses. 2015. Exame de qualificação (Doutorando em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "MONTEIRO, J. A. B.; MARINHO, L. B.; CAMPELO, C. E. C. . Participação em banca de Iriedson Souto Maior de Moraes Vilar. Uma Análise de Contaminação: Avaliando Contaminação de Benchmark em Grandes Modelos de Linguagem Pt-Br. 2025. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; CAMPELO, C.E.C. ; GOMES, H. M.; SILVA, S. D.. Participação em banca de Alexandre Ribeiro Ferreira. Simulação de Sistemas de Recomendação com Agentes Generativos Personificados. 2025. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, D. Y. S.; REGO, A. S. C.; CAMPELO, C.E.C. ; ARAUJO, T. B.. Participação em banca de Cristofer Girardi. Revelando o poder das combinações de técnicas de Prompt Engineering: Um caso de uso na geração e explicação de códigos. 2025 - Instituto Federal de Educação, Ciência e Tecnologia da Paraíba - IFPB.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; CAMPELO, C.E.C. ; ARAUJO, T. B.. Participação em banca de Matheus Maciel de Sousa. Uma Abordagem Sistematizada Para Seleção De Llms E Prompts Em Tarefas De Entity Matching. 2025. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; MARINHO, L. B.; . Participação em banca de Klaywert Danillo Ferreira de Souza. Analysis and Classification of Debaters? Performance through Natural Language Processing Models. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; MARINHO, L. B.; . Participação em banca de David Eduardo Pereira. Identificação e Classificação de Estruturas e Elementos Argumentativos em Debates Orais, Individuais e Semiestruturados. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; CAMPOS, L. M. R. S.; CAMPELO, C.E.C. . Participação em banca de Ítallo de Sousa Silva. Chatgpt as an Explainable Recommender System: a Suitability Analysis. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; CAMPOS, L. M. R. S.; MONTEIRO, J. A. B.. Participação em banca de Matheus Lisboa Oliveira dos Santos. Geração Automática de Atividades Escolares. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; GOMES, H. M.; CAMPELO, C.E.C. . Participação em banca de Caio Davi Pereira da Silva. Análise Exploratória de Embeddings no Contexto de Sistemas de Recomendação. 2024. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; NASCIMENTO FILHO, D. C.; ARAUJO, T. B.. Participação em banca de Carlos Vinicius Alves Minervino. Busca de padrões espaciais com restrições quantitativas e qualitativas. 2023. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, H. M.; CAMPELO, C.E.C. ; MARINHO, L. B.. Participação em banca de Júlio Barreto Guedes da Costa. Uma investigação de abordagens de pré-treino em sistemas de recomendação baseados em embeddings. 2022. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MOURA, J. A. B.; VIEIRA, T. M. A.; CAMPELO, C.E.C. . Participação em banca de André Ricardo Dantas Bezerra Landim. Use of Chatbots in the Identification of Users' Short- and Long-term fashion preferences. 2021. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ANDRADE, N. F.; CAMPELO, C.E.C. . Participação em banca de David Eduardo Pereira. Identificação e Classificação em Tempo Real de Incidentes e Condições de Trânsito a partir de Dados do Twitter. 2021. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; MARINHO, LEANDRO BALBY; MONTEIRO, J. A. B.. Participação em banca de Daniyel Negromonte Nascimento Rocha. Geração Automática de Questões com Controle de Dificuldade em Contextos Educacionais. 2020. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; ANDRADE, N. F.; CARVALHO, M. W. A.. Participação em banca de Tales Tenório de Souza Pimentel. Utilização de Similaridade entre Usuários e Enriquecimento Semântico para Melhoria da Predição de Destino. 2019. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; MARINHO, L. B.; . Participação em banca de José Lucas Silva Freitas. Interpretação Automática de Descrições de Lugares Utilizando Diálogos Humano-Máquina. 2019. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARINHO, L. B.; ANDRADE, N. F.; Campelo, C. E. C. . Participação em banca de Diogo Florêncio de Lima. Uma Técnica Para Recomendação De Notícias Ciente De Viés Textual. 2019. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. ; ; ANDRADE, N. F.; ARAUJO, J. F. M. F. R.. Participação em banca de Gabriel Joseph Ramos Rafael. Similaridade Topológica de Pontos de Interesse para Recuperação da Informação. 2019. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "QUEIROZ, A. R. M.; ; MARINHO, L. B.; Campelo, C. E. C. . Participação em banca de Andreza Raquel Monteiro de Queiroz. Geração e Validação de Arquivos no Padrão GTFS a partir de Dados de GPS de Ônibus. 2018. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; BRITO, A. E. M.; CAMPELO, C.E.C. . Participação em banca de Thiago Pereira da Nóbrega. Proposta de uma Etapa de Apresentação para a Resolução de Entidades com Preservação de Privacidade. 2017. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; MARINHO, L. B.; CAMPELO, C. E. C. . Participação em banca de Diego Fernandes de Araújo. Geração de Gabaritos para a Tarefa de Resolução de Entidades com Auxílio de Aprendizagem Ativa. 2017. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MONTEIRO, J. A. B.; CAMPELO, CLAUDIO E. C. ; MARINHO, L. B.. Participação em banca de Antônio Ricardo Marques Júnior. Recuperação de Inquéritos Relevantes no Contexto do EPOL. 2017. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, CLAUDIO E. C. ; BAPTISTA, C. S.; MARINHO, L. B.; PEREIRA, E. T.. Participação em banca de Analisando padrões de mobilidade a partir de redes sociais e. Analisando padrões de mobilidade a partir de redes sociais e de dados sociodemográficos abertos. 2016. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BAPTISTA, C. S.; FIGUEIREDO, H. F.; PEREIRA, E. T.; CAMPELO, CLAUDIO E. C. . Participação em banca de Anderson Almeida Firmino. Anotação de pessoas e eventos em fotografias digitais utilizando eventos compartilhados. 2016. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BAPTISTA, C. S.; CAMPELO, CLAUDIO E. C. ; QUEIROZ, J. E. R.; ARAUJO, J. M. F. R.. Participação em banca de Igor Gomes de Meneses Cruz. Uma proposta para o Auxilio de Mobilidade de Deficientes Visuais Utilizando Sensores Humanos. 2016. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BAPTISTA, C. S.; Campelo, C. E. C. ; . Participação em banca de Daniel Farias Batista Leite. Uma ferramenta de Social GeoBI: integrando dados estruturados e UGC em um ambiente SOLAP. 2015. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C. E. C. ; BAPTISTA, C. S.; SCHIEL, U.; MARINHO, L. B.. Participação em banca de Júlio Henrique Rocha. Ranking de Relevância Baseado na Análise de Links e Relacionamento Geográfica. 2015. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, Claudio E. C. ; BAPTISTA, C. S.; ; SCHIEL, U.. Participação em banca de José Amilton Moura Acioli Filho. Solução para Análise SOLAP em Ambiente Big-Data. 2015. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SCHIEL, U.; ; MARINHO, L. B.. Participação em banca de George Marcelo Rogrigues Alves. Ambiente de Extração de Contextos Temporais e Espaciais e Conceitos Correspondentes. 2014. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "BAPTISTA, C. S.; ; SCHIEL, U.. Participação em banca de Hamon Barros. Anotação automática de dados geográficos baseada em banco de dados abertos e interligados. 2014. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LEITE, N. B. C.; MARINHO, L. B.; ; ; ANDRADE, N.. Participação em banca de Nailson Boaz Costa Leite. Explorando a Diversidade em Sistemas de Recomendação baseados em Linked Open Data. 2014. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MASSONI, T. L.; Campelo, C. E. C. . Participação em banca de Felipe Mota Dos Santos.Uma Aplicação Web Para Organizar Programas De Pesquisa Em Engenharia De Software Seguindo Modelo ABC. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MASSONI, T. L.; GOMES, H. M.; Campelo, C. E. C. . Participação em banca de Maria Clara Moraes Monteiro Dantas.Monitora Sta Cruz: Uma Ferramenta Web Para Auxiliar O Cidadão No Monitoramento Dos Gastos Da Prefeitura De Santa Cruz Do Capibaribe. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MASSONI, T. L.; ; Campelo, C. E. C. . Participação em banca de Hector Hiago De Medeiros.Análise Descritiva Da Eficiência Do Sistema De Integração Temporal No Transporte Público De Campina Grande-Pb: Um Estudo De Caso Da Linha 944.. 2020. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Campelo, C. E. C. ; MARINHO, L. B.. Participação em banca de Lucas Barros Rocha.Vencendo o Jogo. 2019. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "CAMPELO, C.E.C. . Tecnologista TG27 - INPE (Instituto Nacional de Pesquisas Espaciais). 2024. Instituto Nacional de Pesquisas Espaciais.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CAMPELO, C.E.C. . Concurso para Professor do magistério Superior - UFPB (Edital 57/2022). 2022. Universidade Federal da Paraíba.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "REBOUCAS, A. D. D. S.; CAMPELO, C. E. C. ; MONTEIRO, J. A. B.. Concurso para Professor do Magistério Superior - UFPB. 2016. Universidade Federal da Paraíba.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "items": [
+        {
+          "texto": "CAMPELO, C. E. C. ; MARINHO, L. B.; ARAUJO, J. F. M. F. R.. Professor Visitante Brasileiro e Estrangeiro (Edital Nº 52, de 6/11/2020). 2020. Universidade Federal de Campina Grande.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

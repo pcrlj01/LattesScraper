@@ -1,0 +1,660 @@
+{
+  "name": "Marcos Paulo Vigliassi",
+  "lattes_id": "5244053211787656",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Multi-objective evolutionary algorithm in tables for placement of SCADA and PMU considering the concept of Pareto Frontier",
+          "autores": "VIGLIASSI, MARCOS PAULO ; MASSIGNAN, JULIO A.D. ; DELBEM, ALEXANDRE CLÁUDIO B. ; LONDON, JOÃO BOSCO A.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 106, p. 373-382, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2018.10.026",
+          "citacao_completa": "VIGLIASSI, MARCOS PAULO ; MASSIGNAN, JULIO A.D. ; DELBEM, ALEXANDRE CLÁUDIO B. ; LONDON, JOÃO BOSCO A. . Multi-objective evolutionary algorithm in tables for placement of SCADA and PMU considering the concept of Pareto Frontier. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 106, p. 373-382, 2019."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA e PMU para Estimação de Estado",
+          "autores": "VIGLIASSI, M. P. ; SANTOS, A. C. ; MASSIGNAN, J. A. D. ; London Jr. J.B.A. ; DELBEM, A. C. B.",
+          "periodico": "In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA e PMU para Estimação de Estado, 2018.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; SANTOS, A. C. ; MASSIGNAN, J. A. D. ; London Jr. J.B.A. ; DELBEM, A. C. B. . Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA e PMU para Estimação de Estado. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa. Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA e PMU para Estimação de Estado, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Combining multi-objective evolutionary algorithm and H \" matrix for SCADA and PMU placement",
+          "autores": "VIGLIASSI, M. P. ; LONDON, J. B. A. ; DELBEM, A. C. B. ; PIERETI, S. A. R.",
+          "periodico": "In: 2017 IEEE Power & Energy Society General Meeting (PESGM), 2017, Chicago. 2017 IEEE Power & Energy Society General Meeting, 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/PESGM.2017.8274484",
+          "citacao_completa": "VIGLIASSI, M. P. ; LONDON, J. B. A. ; DELBEM, A. C. B. ; PIERETI, S. A. R. . Combining multi-objective evolutionary algorithm and H \" matrix for SCADA and PMU placement. In: 2017 IEEE Power & Energy Society General Meeting (PESGM), 2017, Chicago. 2017 IEEE Power & Energy Society General Meeting, 2017. p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Algoritmo Evolutivo Multi-Objetivo para Redução de Custos na Alocação de Medidores SCADA e PMU para Efeito de Estimação de Estado",
+          "autores": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Massignan J.A.D.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2016, Vitória/ES. Algoritmo Evolutivo Multi-Objetivo para Redução de Custos na Alocação de Medidores SCADA e PMU para Efeito de Estimação de Estado.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Massignan J.A.D. . Algoritmo Evolutivo Multi-Objetivo para Redução de Custos na Alocação de Medidores SCADA e PMU para Efeito de Estimação de Estado. In: Congresso Brasileiro de Automática, 2016, Vitória/ES. Algoritmo Evolutivo Multi-Objetivo para Redução de Custos na Alocação de Medidores SCADA e PMU para Efeito de Estimação de Estado."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Metodologia para Planejamento de Sistemas de Medição Híbridos Confiáveis para Estimação de Estado",
+          "autores": "BOZZ, A. A. C. ; VIGLIASSI, M. P. ; London Jr. J.B.A.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2014, Belo Horizonte. Metodologia para Planejamento de Sistemas de Medição Híbridos Confiáveis para Estimação de Estado, 2014.",
+          "doi": "",
+          "citacao_completa": "BOZZ, A. A. C. ; VIGLIASSI, M. P. ; London Jr. J.B.A. . Metodologia para Planejamento de Sistemas de Medição Híbridos Confiáveis para Estimação de Estado. In: Congresso Brasileiro de Automática, 2014, Belo Horizonte. Metodologia para Planejamento de Sistemas de Medição Híbridos Confiáveis para Estimação de Estado, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Metering system planning for state estimation via evolutionary algorithm and HT Δ matrix considering SCADA and PMU measurements",
+          "autores": "BOZZ, A. A. C. ; VIGLIASSI, M. P. ; LONDON, J. B. A.",
+          "periodico": "In: 2014 IEEE Power & Energy Society General Meeting, 2014, National Harbor. 2014 IEEE PES General Meeting | Conference & Exposition, 2014. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/pesgm.2014.6939429",
+          "citacao_completa": "BOZZ, A. A. C. ; VIGLIASSI, M. P. ; LONDON, J. B. A. . Metering system planning for state estimation via evolutionary algorithm and HT Δ matrix considering SCADA and PMU measurements. In: 2014 IEEE Power & Energy Society General Meeting, 2014, National Harbor. 2014 IEEE PES General Meeting | Conference & Exposition, 2014. p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Metodologia para Projeto de Sistemas de Medição Híbridos Confiáveis para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz Hdelta",
+          "autores": "BORGES, H. F. ; VIGLIASSI, M. P. ; BOZZ, A. A. C. ; London Jr. J.B.A.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza. Simpósio Brasileiro de Automação Inteligente, 2013.",
+          "doi": "",
+          "citacao_completa": "BORGES, H. F. ; VIGLIASSI, M. P. ; BOZZ, A. A. C. ; London Jr. J.B.A. . Metodologia para Projeto de Sistemas de Medição Híbridos Confiáveis para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz Hdelta. In: Simpósio Brasileiro de Automação Inteligente, 2013, Fortaleza. Simpósio Brasileiro de Automação Inteligente, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Projeto de Sistemas de Medição Confiáveis Multi-Topologia para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz HDelta t",
+          "autores": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Bretas N.G. ; Piereti S.A.R. ; ; Machado, R.C.C.",
+          "periodico": "In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. Projeto de Sistemas de Medição Confiáveis Multi-Topologia para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz HDelta t, 2012. v. CD. p. 1-11.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Bretas N.G. ; Piereti S.A.R. ; ; Machado, R.C.C. . Projeto de Sistemas de Medição Confiáveis Multi-Topologia para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz HDelta t. In: XX Seminário Nacional de Distribuição de Energia Elétrica, 2012, Rio de Janeiro. Projeto de Sistemas de Medição Confiáveis Multi-Topologia para Efeito de Estimação de Estado via Algoritmos Evolutivos e Matriz HDelta t, 2012. v. CD. p. 1-11."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Metering system planning for state estimation via evolutionary algorithm and H<inf>Δ</inf> matrix",
+          "autores": "VIGLIASSI, M. P. ; LONDON, J. B.A. ; DELBEM, A. C. B. ; BRETAS, N. G.",
+          "periodico": "In: 2009 IEEE Bucharest PowerTech (POWERTECH), 2009, Bucharest. 2009 IEEE Bucharest PowerTech, 2009. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ptc.2009.5281902",
+          "citacao_completa": "VIGLIASSI, M. P. ; LONDON, J. B.A. ; DELBEM, A. C. B. ; BRETAS, N. G. . Metering system planning for state estimation via evolutionary algorithm and H<inf>Δ</inf> matrix. In: 2009 IEEE Bucharest PowerTech (POWERTECH), 2009, Bucharest. 2009 IEEE Bucharest PowerTech, 2009. p. 1."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Projeto de Sistemas de Medição Confiáveis para Efeito de Estimação de Estado Via Algoritmos Evolutivos e Matriz H Delta t",
+          "autores": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Piereti S.A.R. ; Bretas N.G.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2008, Juiz de Fora/MG. Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Piereti S.A.R. ; Bretas N.G. . Projeto de Sistemas de Medição Confiáveis para Efeito de Estimação de Estado Via Algoritmos Evolutivos e Matriz H Delta t. In: Congresso Brasileiro de Automática, 2008, Juiz de Fora/MG. Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Metodologia para Projeto de Sistemas de Medição para Efeito de Estimação de Estado via algoritmos Evolutivos",
+          "autores": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Simões E.V. ; Moreira E. M. ; Bretas N.G.",
+          "periodico": "In: V Congresso Nacional de Controle e Automação, 2007, Bahia. V Congresso Nacional de Controle e Automação, 2007.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; London Jr. J.B.A. ; Delbem A.C.B. ; Simões E.V. ; Moreira E. M. ; Bretas N.G. . Metodologia para Projeto de Sistemas de Medição para Efeito de Estimação de Estado via algoritmos Evolutivos. In: V Congresso Nacional de Controle e Automação, 2007, Bahia. V Congresso Nacional de Controle e Automação, 2007."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Microprocessadores e Microcontroladores: o cérebro do projeto",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2022. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Microprocessadores e Microcontroladores: o cérebro do projeto. 2022. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA E UMF para Estimação de Estado",
+          "autores": "VIGLIASSI, M. P. ; SANTOS, A. C. ; Massignan J.A.D. ; London Jr. J.B.A. ; Delbem A.C.B.",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. ; SANTOS, A. C. ; Massignan J.A.D. ; London Jr. J.B.A. ; Delbem A.C.B. . Estratégia Evolutiva Multiobjetivo para Alocação de Medidores SCADA E UMF para Estimação de Estado. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Mesa redonda: Desenvolvendo produtos de software - como começar?",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2014. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Mesa redonda: Desenvolvendo produtos de software - como começar?. 2014. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Aplicações Práticas das Técnicas de Inteligência Artificial",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2012. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Aplicações Práticas das Técnicas de Inteligência Artificial. 2012. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Vídeo conferência / Virtualização de servidores",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Vídeo conferência / Virtualização de servidores. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "2019.",
+          "autores": "Software para projeto de planos de medição confiáveis para efeito de estimação de estado utilizando Algoritmos Evolutivos",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "Software para projeto de planos de medição confiáveis para efeito de estimação de estado utilizando Algoritmos Evolutivos. 2019."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu. 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu. 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu. 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Parecer emitido para o texto científico enviado pela revista Tekhne e Logos da Faculdade de Tecnologia de Botucatu. 2013."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Desenvolvendo produtos de software: como começar?",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2014. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Desenvolvendo produtos de software: como começar?. 2014. (Programa de rádio ou TV/Mesa redonda)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2009,
+          "titulo": "Cloud Computing",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Cloud Computing. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Oficina Virtualização de Servidores",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Oficina Virtualização de Servidores. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Administração Avançada de Servidores",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Administração Avançada de Servidores. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Administração de servidores Windows 2008",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Administração de servidores Windows 2008. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Administração Avançada de Servidores",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Administração Avançada de Servidores. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implementando uma Estrutura Virtual com VMware",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando uma Estrutura Virtual com VMware. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Administração de Servidores Microsoft Windows 2008",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Administração de Servidores Microsoft Windows 2008. 2009. ."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Implementando uma Estrutura Virtual com VMware",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2009. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando uma Estrutura Virtual com VMware. 2009. ."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Implementando e mantendo servidores Windows 2003 ? Administração Avançada",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2007. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando e mantendo servidores Windows 2003 ? Administração Avançada. 2007. ."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Implementando e mantendo servidores Windows 2003 Administração Avançada",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2007. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando e mantendo servidores Windows 2003 Administração Avançada. 2007. ."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Virtualização de Servidores",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2005. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Virtualização de Servidores. 2005. ."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Implementando e Administrando Redes Microsoft",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2005. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando e Administrando Redes Microsoft. 2005. ."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Implementando e Administrando Redes Microsoft",
+          "autores": "VIGLIASSI, M. P.",
+          "periodico": "2005. .",
+          "doi": "",
+          "citacao_completa": "VIGLIASSI, M. P. . Implementando e Administrando Redes Microsoft. 2005. ."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "DESENVOLVIMENTO DE UM SOFTWARE ONLINE DE GERENCIAMENTO DE CONTROLE DE ESTOQUE INTERNO PARA LABORATÓRIOS",
+          "membros": "Arruda C.F.; FERREIRA, A. S. S. B. S.; VIGLIASSI, M. P.",
+          "candidato": "Clara Fumes Arruda",
+          "citacao_completa": "Arruda C.F.; FERREIRA, A. S. S. B. S.; VIGLIASSI, M. P. . Participação em banca de Clara Fumes Arruda. DESENVOLVIMENTO DE UM SOFTWARE ONLINE DE GERENCIAMENTO DE CONTROLE DE ESTOQUE INTERNO PARA LABORATÓRIOS. 2023. Dissertação (Mestrado em Biotecnologia) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Desenvolvimento de rede neural convolucional utilizando classificadores para predição da agressividade biológica de subtipos de câncer de mama a partir de imagens de ressonância magnética de pacientes de hospital de referência do interior do estado de São Paulo",
+          "membros": "ANA SILVIA SARTORI BARRAVIERA SEABRA FERREIRA; SILKE ANNA THERESA WEBER; VIGLIASSI, M. P.",
+          "candidato": "FÁBIO AUGUSTO DA SILVA ESPOSTO",
+          "citacao_completa": "ANA SILVIA SARTORI BARRAVIERA SEABRA FERREIRA; SILKE ANNA THERESA WEBER; VIGLIASSI, M. P. . Participação em banca de FÁBIO AUGUSTO DA SILVA ESPOSTO. Desenvolvimento de rede neural convolucional utilizando classificadores para predição da agressividade biológica de subtipos de câncer de mama a partir de imagens de ressonância magnética de pacientes de hospital de referência do interior do estado de São Paulo. 2023. Dissertação (Mestrado em Biotecnologia) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": ".Dimensionamento de sistemas fotovoltaicos conectados à rede",
+          "membros": "VIGLIASSI, M. P. ; ROCHA, M.; SAGIORO, R.",
+          "candidato": "Bruno Mazulo",
+          "citacao_completa": "VIGLIASSI, M. P. ; ROCHA, M.; SAGIORO, R.. Participação em banca de Bruno Mazulo.Dimensionamento de sistemas fotovoltaicos conectados à rede. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - UNIBR Botucatu."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Estudo de caso ante a necessidade de desenvolvimento de sistema de controle de cavitação para motobombas de reclaque",
+          "membros": "VIGLIASSI, M. P. ; ROCHA, M.; SAGIORO, R.",
+          "candidato": "Takecchi Koizume",
+          "citacao_completa": "VIGLIASSI, M. P. ; ROCHA, M.; SAGIORO, R.. Participação em banca de Takecchi Koizume.Estudo de caso ante a necessidade de desenvolvimento de sistema de controle de cavitação para motobombas de reclaque. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - UNIBR Botucatu."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Dispositivo de comando e proteção para motores de indução monofásicos em betoneiras",
+          "membros": "VIGLIASSI, M. P. ; SAGIORO, R.; ROCHA, M.",
+          "candidato": "Alison Matheus Rui de Moura",
+          "citacao_completa": "VIGLIASSI, M. P. ; SAGIORO, R.; ROCHA, M.. Participação em banca de Alison Matheus Rui de Moura.Dispositivo de comando e proteção para motores de indução monofásicos em betoneiras. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - UNIBR Botucatu."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de projeto de software de controle de manicure",
+          "membros": "Rall, R.; ; Almeida, O. C. P.",
+          "candidato": "Maria Romeiro dos Santos Rosa",
+          "citacao_completa": "Rall, R.; ; Almeida, O. C. P.. Participação em banca de Maria Romeiro dos Santos Rosa.Desenvolvimento de projeto de software de controle de manicure. 2016. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Impacto previsto nos provedores regionais com a migração do IPv4 para o IPv6",
+          "membros": "Rall, R.; Leandro, J. B.;",
+          "candidato": "Claudia Mara Machado",
+          "citacao_completa": "Rall, R.; Leandro, J. B.; . Participação em banca de Claudia Mara Machado.Impacto previsto nos provedores regionais com a migração do IPv4 para o IPv6. 2016. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de software para consultório de psicologia",
+          "membros": "Padovani, C. R. P.; ; Delmanto Jr., O.",
+          "candidato": "Cauê Camargo Penteado Correa Fernandes Vasques",
+          "citacao_completa": "Padovani, C. R. P.; ; Delmanto Jr., O.. Participação em banca de Cauê Camargo Penteado Correa Fernandes Vasques.Desenvolvimento de software para consultório de psicologia. 2016. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Sistema de emissão de orçamentos na área da construção civil",
+          "membros": "Almeida, O. C. P.; ; Gambarato, R. L.",
+          "candidato": "Priscila Lisbôa Baptista",
+          "citacao_completa": "Almeida, O. C. P.; ; Gambarato, R. L.. Participação em banca de Priscila Lisbôa Baptista.Sistema de emissão de orçamentos na área da construção civil. 2016. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de um sistema de monitoramento de estoque de óleo combustível",
+          "membros": "Sleiman, E. A.; ; Pilan, J. R.",
+          "candidato": "Gilson Silesio Gonçalves",
+          "citacao_completa": "Sleiman, E. A.; ; Pilan, J. R.. Participação em banca de Gilson Silesio Gonçalves.Desenvolvimento de um sistema de monitoramento de estoque de óleo combustível. 2016. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um Software de Gerenciamento para uma Vídeo Locadora",
+          "membros": "Montanha, G. K.; Silva, C. M.;",
+          "candidato": "Daniel Virgínio dos Santos",
+          "citacao_completa": "Montanha, G. K.; Silva, C. M.; . Participação em banca de Daniel Virgínio dos Santos.Desenvolvimento de um Software de Gerenciamento para uma Vídeo Locadora. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Software para Empresa do Setor Imobiliário",
+          "membros": "Montanha, G. K.; Silva, C. M.;",
+          "candidato": "Raphael Oliveira",
+          "citacao_completa": "Montanha, G. K.; Silva, C. M.; . Participação em banca de Raphael Oliveira.Software para Empresa do Setor Imobiliário. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": "..O uso da Tecnologia da Informação em geoprocessamento",
+          "membros": "Leandro, J. B.; ; Sgoti, R. F.",
+          "candidato": "Antonio Carlos Boaro Jr",
+          "citacao_completa": "Leandro, J. B.; ; Sgoti, R. F.. Participação em banca de Antonio Carlos Boaro Jr..O uso da Tecnologia da Informação em geoprocessamento. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Implantação de um servidor de arquivos na Secretaria Municipal de Saúde de Botucatu",
+          "membros": "Gambarato, R. L.; ; Rodrigues, S. A.",
+          "candidato": "Ênio da Costa Souza",
+          "citacao_completa": "Gambarato, R. L.; ; Rodrigues, S. A.. Participação em banca de Ênio da Costa Souza.Implantação de um servidor de arquivos na Secretaria Municipal de Saúde de Botucatu. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Módulo de configuração automática de rota de voo baseada em GPS e Arduíno para uma aeronave não tripulada",
+          "membros": "Gambarato, R. L.; ; Almeida, O. C. P.",
+          "candidato": "Marcelo Sartorelli",
+          "citacao_completa": "Gambarato, R. L.; ; Almeida, O. C. P.. Participação em banca de Marcelo Sartorelli.Módulo de configuração automática de rota de voo baseada em GPS e Arduíno para uma aeronave não tripulada. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Implantação do firewall Endian em uma pequena empresa",
+          "membros": "; Almeida, O. C. P.; Rall, R.",
+          "candidato": "Heverton Henrique Pires Machado",
+          "citacao_completa": "; Almeida, O. C. P.; Rall, R.. Participação em banca de Heverton Henrique Pires Machado.Implantação do firewall Endian em uma pequena empresa. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Uso de um sistema de controle de chamados para a área de suporte técnico",
+          "membros": "; Sgoti, R. F.; Cornago Jr., V. M.",
+          "candidato": "Ariovaldo Zonta Júnior",
+          "citacao_completa": "; Sgoti, R. F.; Cornago Jr., V. M.. Participação em banca de Ariovaldo Zonta Júnior.Uso de um sistema de controle de chamados para a área de suporte técnico. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Análise comparativa entre dois firewalls gratuitos e suas aplicações em um ambiente de rede virtualizado",
+          "membros": "; Vendrametto, L. L.; Gambarato, R. L.",
+          "candidato": "Gilmar Maikon Ferreira Silva",
+          "citacao_completa": "; Vendrametto, L. L.; Gambarato, R. L.. Participação em banca de Gilmar Maikon Ferreira Silva.Análise comparativa entre dois firewalls gratuitos e suas aplicações em um ambiente de rede virtualizado. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um módulo didático para o ensino de sistemas operacionais",
+          "membros": "Sgoti, R. F.; Castro, A. B. B.;",
+          "candidato": "Levi Andrade Ribeiro",
+          "citacao_completa": "Sgoti, R. F.; Castro, A. B. B.; . Participação em banca de Levi Andrade Ribeiro.Desenvolvimento de um módulo didático para o ensino de sistemas operacionais. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Riscos da engenharia social nas organizações",
+          "membros": "Almeida, O. C. P.; ; Padovani, C. R. P.",
+          "candidato": "Luis Gustavo Batista Vicentini",
+          "citacao_completa": "Almeida, O. C. P.; ; Padovani, C. R. P.. Participação em banca de Luis Gustavo Batista Vicentini.Riscos da engenharia social nas organizações. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Análise comparativa entre softwares de virtualização",
+          "membros": "; Almeida, O. C. P.; Martins, E. A.",
+          "candidato": "Gustavo Pedro Dias",
+          "citacao_completa": "; Almeida, O. C. P.; Martins, E. A.. Participação em banca de Gustavo Pedro Dias.Análise comparativa entre softwares de virtualização. 2015. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Cluster de alta disponibilidade utilizando sistema operacional GNU/Linux para um servidor de páginas de Internet",
+          "membros": "Rall, R.; ; Sgoti, R. F.",
+          "candidato": "Francisco Erik da Silva",
+          "citacao_completa": "Rall, R.; ; Sgoti, R. F.. Participação em banca de Francisco Erik da Silva.Cluster de alta disponibilidade utilizando sistema operacional GNU/Linux para um servidor de páginas de Internet. 2014. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Software para gerenciamento e controle da manutenção de equipamentos eletrônicos de informática",
+          "membros": "Sgoti, R. F.; ; Gasperini, R.",
+          "candidato": "Caio César da Silva",
+          "citacao_completa": "Sgoti, R. F.; ; Gasperini, R.. Participação em banca de Caio César da Silva.Software para gerenciamento e controle da manutenção de equipamentos eletrônicos de informática. 2014. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de um website sob o sistema de gerenciamento de conteúdo Wordpress para uma casa de carnes",
+          "membros": "Gambarato, R. L.; ; Rall, R.",
+          "candidato": "Valdir Luiz Júnior",
+          "citacao_completa": "Gambarato, R. L.; ; Rall, R.. Participação em banca de Valdir Luiz Júnior.Desenvolvimento de um website sob o sistema de gerenciamento de conteúdo Wordpress para uma casa de carnes. 2014. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Desenvolvimento de um software para o gerenciamento de uma pizzaria",
+          "membros": "; Gasperini, R.; Rota, J. A.",
+          "candidato": "Murilo Langelli Antunes",
+          "citacao_completa": "; Gasperini, R.; Rota, J. A.. Participação em banca de Murilo Langelli Antunes.Desenvolvimento de um software para o gerenciamento de uma pizzaria. 2014. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Relatório completo de estágio supervisionado",
+          "membros": "",
+          "candidato": "Matheus Rodrigues Aleu",
+          "citacao_completa": ". Participação em banca de Matheus Rodrigues Aleu.Relatório completo de estágio supervisionado. 2014. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Processo administrativo informatizado de gestão dos atiradores do tiro de guerra",
+          "membros": "Martins, E. A.; ; Gasperini, R.",
+          "candidato": "Michael Cezar Pinto",
+          "citacao_completa": "Martins, E. A.; ; Gasperini, R.. Participação em banca de Michael Cezar Pinto.Processo administrativo informatizado de gestão dos atiradores do tiro de guerra. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Vetorato.Sistema de informação geográfica aplicada ao gerenciamento de informação de transporte urbano",
+          "membros": "Almeida, O. C. P.; ; Fantin, B. R. B.",
+          "candidato": "Edilene F",
+          "citacao_completa": "Almeida, O. C. P.; ; Fantin, B. R. B.. Participação em banca de Edilene F. Vetorato.Sistema de informação geográfica aplicada ao gerenciamento de informação de transporte urbano. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Aplicação web de auxílio para aquisição de materiais",
+          "membros": "Almeida, O. C. P.; ; Gambarato, V. T. S.",
+          "candidato": "Pedro Henrique Ruiz",
+          "citacao_completa": "Almeida, O. C. P.; ; Gambarato, V. T. S.. Participação em banca de Pedro Henrique Ruiz.Aplicação web de auxílio para aquisição de materiais. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudo de caso da tecnologia como fator impactante nas rotinas organizacionais de uma empresa distribuidora de bebidas",
+          "membros": "Favan, J. R.; ; Rall, R.",
+          "candidato": "Felipe Marcilio Roma",
+          "citacao_completa": "Favan, J. R.; ; Rall, R.. Participação em banca de Felipe Marcilio Roma.Estudo de caso da tecnologia como fator impactante nas rotinas organizacionais de uma empresa distribuidora de bebidas. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Big data - Solução tecnológica para o gerenciamento de dados em grande volume",
+          "membros": "; Isler, P. R.; Rall, R.",
+          "candidato": "Gleriela de Cassia Pontes Conceição",
+          "citacao_completa": "; Isler, P. R.; Rall, R.. Participação em banca de Gleriela de Cassia Pontes Conceição.Big data - Solução tecnológica para o gerenciamento de dados em grande volume. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Desenvolvimento de software Web para criação de catálogo dinâmico gerenciável multilíngue PDF para empresa encarroçadora de ônibus",
+          "membros": "Sgoti, R. F.; ; Martins, E. A.",
+          "candidato": "Julio César do Carmo Júnior",
+          "citacao_completa": "Sgoti, R. F.; ; Martins, E. A.. Participação em banca de Julio César do Carmo Júnior.Desenvolvimento de software Web para criação de catálogo dinâmico gerenciável multilíngue PDF para empresa encarroçadora de ônibus. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Implantação e gestão da nota fiscal eletrônica",
+          "membros": "Martins, E. A.; ; Gambarato, R. L.",
+          "candidato": "José Hamilton da Silva Almeida Júnior",
+          "citacao_completa": "Martins, E. A.; ; Gambarato, R. L.. Participação em banca de José Hamilton da Silva Almeida Júnior.Implantação e gestão da nota fiscal eletrônica. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Testes e desenvolvimento de ferramentas para suporte do sistema Smart Business",
+          "membros": "; Cornago Jr., V. M.; Castro, A. B. B.",
+          "candidato": "José Antonio Panibianco Monteiro de Paula",
+          "citacao_completa": "; Cornago Jr., V. M.; Castro, A. B. B.. Participação em banca de José Antonio Panibianco Monteiro de Paula.Testes e desenvolvimento de ferramentas para suporte do sistema Smart Business. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Segurança da informação em uma empresa do ramo automobilístico",
+          "membros": "; Leite, V. C.",
+          "candidato": "Nicolas Antonio Messias dos Santos Colloca",
+          "citacao_completa": "; Leite, V. C.. Participação em banca de Nicolas Antonio Messias dos Santos Colloca.Segurança da informação em uma empresa do ramo automobilístico. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Software para controle de almoxarifado da Faculdade de Tecnologia de Botucatu",
+          "membros": "Padovani, C. R. P.; ; Batistela, G. C.",
+          "candidato": "Aguinaldo Giacóia Júnior",
+          "citacao_completa": "Padovani, C. R. P.; ; Batistela, G. C.. Participação em banca de Aguinaldo Giacóia Júnior.Software para controle de almoxarifado da Faculdade de Tecnologia de Botucatu. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Desenvolvimento de software com interface Web para gerenciamento de ativos",
+          "membros": "; Padovani, C. R. P.; Montanha, G. K.",
+          "candidato": "Giovani Marques Garrucho",
+          "citacao_completa": "; Padovani, C. R. P.; Montanha, G. K.. Participação em banca de Giovani Marques Garrucho.Desenvolvimento de software com interface Web para gerenciamento de ativos. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Relatório completo de estágio supervisionado: Segurança da informação em uma empresa do ramo automobilístico",
+          "membros": "",
+          "candidato": "Nicolas Antonio Messiais dos Santos Colloca",
+          "citacao_completa": ". Participação em banca de Nicolas Antonio Messiais dos Santos Colloca.Relatório completo de estágio supervisionado: Segurança da informação em uma empresa do ramo automobilístico. 2013. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Utilização da Técnica de Multiplexação em Fibra Óptica para Projetos de Redes de Assinantes",
+          "membros": "Rall, R.; ; Sgoti, R. F.",
+          "candidato": "Helder Lourenço dos Santos",
+          "citacao_completa": "Rall, R.; ; Sgoti, R. F.. Participação em banca de Helder Lourenço dos Santos.Utilização da Técnica de Multiplexação em Fibra Óptica para Projetos de Redes de Assinantes. 2012. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Métodos Forenses Computacionais Baseados em Sistema Operacional Windows 32 Bits",
+          "membros": "Rall, R.; ; Sgoti, R. F.",
+          "candidato": "Mauricio Gardin Pareja",
+          "citacao_completa": "Rall, R.; ; Sgoti, R. F.. Participação em banca de Mauricio Gardin Pareja.Métodos Forenses Computacionais Baseados em Sistema Operacional Windows 32 Bits. 2012. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Análise e Implantação de um Sistema de Segurança em uma Rede de Dados em uma Empresa de Pequeno Porte",
+          "membros": "Rall, R.; ; Sgoti, R. F.",
+          "candidato": "Tiago Luiz de Medeiros",
+          "citacao_completa": "Rall, R.; ; Sgoti, R. F.. Participação em banca de Tiago Luiz de Medeiros.Análise e Implantação de um Sistema de Segurança em uma Rede de Dados em uma Empresa de Pequeno Porte. 2012. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Estudo de caso de virtualização de servidores em uma empresa do ramo de confecções da cidade de Macatuba",
+          "membros": "Favan, J. R.; ; Silva, C. M.",
+          "candidato": "Valéria Cristina Gomes",
+          "citacao_completa": "Favan, J. R.; ; Silva, C. M.. Participação em banca de Valéria Cristina Gomes.Estudo de caso de virtualização de servidores em uma empresa do ramo de confecções da cidade de Macatuba. 2012. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Desenvolvimento de um Software com Interface WRB para Gerenciamento de Instrumentos de Medição",
+          "membros": "; Dal Pai, A.",
+          "candidato": "Vitor Hugo de Arruda",
+          "citacao_completa": "; Dal Pai, A.. Participação em banca de Vitor Hugo de Arruda.Desenvolvimento de um Software com Interface WRB para Gerenciamento de Instrumentos de Medição. 2012. Trabalho de Conclusão de Curso (Graduação em Informática para Gestão de Negócios) - Faculdade de Tecnologia de Botucatu."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "VIGLIASSI, M. P. . JORNACITEC - Jornada Científica da FATEC Botucatu. 2016. Faculdade de Tecnologia de Botucatu.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "VIGLIASSI, M. P. . JORNACITEC - Jornada Científica da FATEC Botucatu. 2016. Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2013,
+          "titulo": ". JORNACITEC - Jornada Científica da FATEC Botucatu. 2013. Faculdade de Tecnologia de Botucatu.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". JORNACITEC - Jornada Científica da FATEC Botucatu. 2013. Faculdade de Tecnologia de Botucatu."
+        },
+        {
+          "ano": 2012,
+          "titulo": ". JORNACITEC - Jornada Científica da FATEC Botucatu. 2012. Faculdade de Tecnologia de Botucatu.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". JORNACITEC - Jornada Científica da FATEC Botucatu. 2012. Faculdade de Tecnologia de Botucatu."
+        }
+      ]
+    }
+  ]
+}

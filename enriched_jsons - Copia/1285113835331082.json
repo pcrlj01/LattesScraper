@@ -1,0 +1,515 @@
+{
+  "name": "Marcos Eduardo Pivaro Monteiro",
+  "lattes_id": "1285113835331082",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Deep Learning for Bluetooth Low Energy Indoor Positioning: A Comparative Analysis of Fingerprinting Accuracy and Generalization to Unseen Locations",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; SANTOS, ANDRÉ BADENAS DOS ; PERON, GUILHERME DE SANTI ; ; SANTOS, EDUARDO NUNES DOS",
+          "periodico": "IEEE Access , v. 14, p. 10395-10405, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3654369",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; SANTOS, ANDRÉ BADENAS DOS ; PERON, GUILHERME DE SANTI ; ; SANTOS, EDUARDO NUNES DOS . Deep Learning for Bluetooth Low Energy Indoor Positioning: A Comparative Analysis of Fingerprinting Accuracy and Generalization to Unseen Locations. IEEE Access , v. 14, p. 10395-10405, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques",
+          "autores": "PEREIRA, IGOR VINÍCIUS ; PERON, GUILHERME DE SANTI ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026.",
+          "doi": "http://dx.doi.org/10.1109/jiot.2026.3660732",
+          "citacao_completa": "PEREIRA, IGOR VINÍCIUS ; PERON, GUILHERME DE SANTI ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; MORITZ, GUILHERME LUIZ ; . Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques. IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "LLM QLoRA Fine-Tuning of Llama, DeepSeek, and Qwen: A Skyrim Case Study",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; TALAU, MARCOS ; SILVÉRIO LOPES, HEITOR",
+          "periodico": "IEEE Access , v. 14, p. 16548-16566, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3659054",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; TALAU, MARCOS ; SILVÉRIO LOPES, HEITOR . LLM QLoRA Fine-Tuning of Llama, DeepSeek, and Qwen: A Skyrim Case Study. IEEE Access , v. 14, p. 16548-16566, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Classroom-HAR: A Study on Generalization in Wi-Fi CSI Sensing using Deep Learning",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ACQUA, THIAGO LUCIANO DALL ; SANTOS, DOUGLAS DE OLIVEIRA ; FRUTOS, ESTEFANI ; SOUZA, CLEBER BRANTL DE ; SILVA, ALISSON SIQUEIRA",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/access.2026.3693596",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ACQUA, THIAGO LUCIANO DALL ; SANTOS, DOUGLAS DE OLIVEIRA ; FRUTOS, ESTEFANI ; SOUZA, CLEBER BRANTL DE ; SILVA, ALISSON SIQUEIRA . Classroom-HAR: A Study on Generalization in Wi-Fi CSI Sensing using Deep Learning. IEEE Access , v. 1, p. 1-1, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Annular-film characterization using a non-intrusive ring conductance sensor",
+          "autores": "SANTANA, ANA LUIZA B. ; REGINALDO, NATAN S. ; LONGO, JEAN P. ; MONTEIRO, MARCOS E. P. ; NETO, MOISÉS A. MARCELINO ; MORALES, RIGOBERTO E. M. ; DA SILVA, MARCO J. ; DOS SANTOS, EDUARDO N.",
+          "periodico": "Ieee Sensors Letters , v. 1, p. 1-4, 2026.",
+          "doi": "http://dx.doi.org/10.1109/LSENS.2026.3701943",
+          "citacao_completa": "SANTANA, ANA LUIZA B. ; REGINALDO, NATAN S. ; LONGO, JEAN P. ; MONTEIRO, MARCOS E. P. ; NETO, MOISÉS A. MARCELINO ; MORALES, RIGOBERTO E. M. ; DA SILVA, MARCO J. ; DOS SANTOS, EDUARDO N. . Annular-film characterization using a non-intrusive ring conductance sensor. Ieee Sensors Letters , v. 1, p. 1-4, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors",
+          "autores": "GUIMARÃES, PEDRO CARVALHO DA FONSECA ; CRISTO, LEONARDO BRAGA DE ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; PERON, GUILHERME DE SANTI ; ; MORITZ, GUILHERME LUIZ",
+          "periodico": "IEEE Access , v. 13, p. 82492-82502, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3567871",
+          "citacao_completa": "GUIMARÃES, PEDRO CARVALHO DA FONSECA ; CRISTO, LEONARDO BRAGA DE ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; PERON, GUILHERME DE SANTI ; ; MORITZ, GUILHERME LUIZ . Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors. IEEE Access , v. 13, p. 82492-82502, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Network Coding in BLE Networks",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; GUIMARÃES, PEDRO CARVALHO DA FONSECA ; FARHAT, JAMIL DE ARAUJO ; PIGATTO, DANIEL FERNANDO ; SANTOS, EDUARDO NUNES DOS",
+          "periodico": "IEEE Access , v. 13, p. 208736-208747, 2025.",
+          "doi": "http://dx.doi.org/10.1109/access.2025.3641972",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; GUIMARÃES, PEDRO CARVALHO DA FONSECA ; FARHAT, JAMIL DE ARAUJO ; PIGATTO, DANIEL FERNANDO ; SANTOS, EDUARDO NUNES DOS . Network Coding in BLE Networks. IEEE Access , v. 13, p. 208736-208747, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems",
+          "autores": "FABRIS, ANDREY ; KERUSAUSKAS RAYEL, OHARA ; LUIZ REBELATTO, JOÃO ; LUIZ MORITZ, GUILHERME ; EDUARDO PIVARO MONTEIRO, MARCOS ;",
+          "periodico": "Ieee Open Journal Of The Communications Society , v. 6, p. 10171-10190, 2025.",
+          "doi": "http://dx.doi.org/10.1109/ojcoms.2025.3640550",
+          "citacao_completa": "FABRIS, ANDREY ; KERUSAUSKAS RAYEL, OHARA ; LUIZ REBELATTO, JOÃO ; LUIZ MORITZ, GUILHERME ; EDUARDO PIVARO MONTEIRO, MARCOS ; . A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems. Ieee Open Journal Of The Communications Society , v. 6, p. 10171-10190, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Performance analysis of Q -learning-based NOMA in Satellite-Terrestrial Relay Networks",
+          "autores": "DE AGUIAR, LEONARDO PACHECO ; PIVARO MONTEIRO, MARCOS EDUARDO ; FARHAT, JAMIL ; ;",
+          "periodico": "Physical Communication , v. 69, p. 102619, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.phycom.2025.102619",
+          "citacao_completa": "DE AGUIAR, LEONARDO PACHECO ; PIVARO MONTEIRO, MARCOS EDUARDO ; FARHAT, JAMIL ; ; . Performance analysis of Q -learning-based NOMA in Satellite-Terrestrial Relay Networks. Physical Communication , v. 69, p. 102619, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications",
+          "autores": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ;",
+          "periodico": "ROBOTICA , v. 1, p. 1-18, 2025.",
+          "doi": "http://dx.doi.org/10.1017/s0263574725102907",
+          "citacao_completa": "PIVARO MONTEIRO, MARCOS EDUARDO ; DOS SANTOS, EDUARDO NUNES ; PIGATTO, DANIEL FERNANDO ; ALVES JUNIOR, JOILSON ; RAMALHO, LEONARDO LIRA ; . Design and implementation of an open-source, low-cost remote-controlled tiny humanoid robot for accessible robotics applications. ROBOTICA , v. 1, p. 1-18, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A multi-objective cross-entropy approach applied to recloser allocation in distribution systems",
+          "autores": "BUSS, BEATRIZ S. ; CARVALHO, LEONEL M. ; MONTEIRO, MARCOS E.P. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 247, p. 111708, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2025.111708",
+          "citacao_completa": "BUSS, BEATRIZ S. ; CARVALHO, LEONEL M. ; MONTEIRO, MARCOS E.P. ; . A multi-objective cross-entropy approach applied to recloser allocation in distribution systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 247, p. 111708, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Performance Analysis of 6TiSCH Networks Using Discrete Events Simulator",
+          "autores": "PERON, GUILHERME ; MONTEIRO, MARCOS ; BARROS, JOÃO ; FARHAT, JAMIL ;",
+          "periodico": "Journal of Communication and Information Systems (JCIS), , v. 39, p. 173-177, 2024.",
+          "doi": "http://dx.doi.org/10.14209/jcis.2024.18",
+          "citacao_completa": "PERON, GUILHERME ; MONTEIRO, MARCOS ; BARROS, JOÃO ; FARHAT, JAMIL ; . Performance Analysis of 6TiSCH Networks Using Discrete Events Simulator. Journal of Communication and Information Systems (JCIS), , v. 39, p. 173-177, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A SBC-Based Data Acquisition System: A Case Study on Smart Reclosers and Multiagent Systems",
+          "autores": "; ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; FARIA, R. A. O.",
+          "periodico": "IEEE Access , v. 11, p. 48988-49001, 2023.",
+          "doi": "http://dx.doi.org/10.1109/access.2023.3276720",
+          "citacao_completa": "; ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; FARIA, R. A. O. . A SBC-Based Data Acquisition System: A Case Study on Smart Reclosers and Multiagent Systems. IEEE Access , v. 11, p. 48988-49001, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Co-simulation platform for the assessment of transactive energy systems",
+          "autores": "; ; ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 223, p. 109693, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2023.109693",
+          "citacao_completa": "; ; ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; . Co-simulation platform for the assessment of transactive energy systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 223, p. 109693, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "LoRa -aided outdoor localization system: RSSI or TDoA ?",
+          "autores": "; CRUZ, JOÃO VITOR RODRIGUES ; MONTEIRO, MARCOS EDUARDO PIVARO ;",
+          "periodico": "Internet Technology Letters , v. 5, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1002/itl2.319",
+          "citacao_completa": "; CRUZ, JOÃO VITOR RODRIGUES ; MONTEIRO, MARCOS EDUARDO PIVARO ; . LoRa -aided outdoor localization system: RSSI or TDoA ?. Internet Technology Letters , v. 5, p. 1-1, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Balancing Decentralization for Restoration in Power Distribution Systems with Agents",
+          "autores": "; BARACY, YAGO L. ; SILVA, RODRIGO V. P. C. ; DE FREITAS, BRUNA K. ; DOS SANTOS, ERIKA P. ; BRANCO, NILTON O. ; MONTEIRO, MARCOS E. P. ; HUBNER, JOMI F. ;",
+          "periodico": "IEEE Access , v. 10, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/access.2022.3192847",
+          "citacao_completa": "; BARACY, YAGO L. ; SILVA, RODRIGO V. P. C. ; DE FREITAS, BRUNA K. ; DOS SANTOS, ERIKA P. ; BRANCO, NILTON O. ; MONTEIRO, MARCOS E. P. ; HUBNER, JOMI F. ; . Balancing Decentralization for Restoration in Power Distribution Systems with Agents. IEEE Access , v. 10, p. 1-1, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "LoRaWAN vs",
+          "autores": "; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ; ;",
+          "periodico": "6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 184, p. 1-11, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.comcom.2021.12.004",
+          "citacao_completa": "; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ; ; . LoRaWAN vs. 6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 184, p. 1-11, 2022."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Effective secrecy throughput analysis of relay-assisted free-space optical communications",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ;",
+          "periodico": "Physical Communication , v. 35, p. 100731, 2019.",
+          "doi": "http://dx.doi.org/10.1016/j.phycom.2019.100731",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; . Effective secrecy throughput analysis of relay-assisted free-space optical communications. Physical Communication , v. 35, p. 100731, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Maximum Secrecy Throughput of MIMOME FSO Communications With Outage Constraints",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ;",
+          "periodico": "IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS , v. 17, p. 3487-3497, 2018.",
+          "doi": "http://dx.doi.org/10.1109/twc.2018.2815021",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; . Maximum Secrecy Throughput of MIMOME FSO Communications With Outage Constraints. IEEE TRANSACTIONS ON WIRELESS COMMUNICATIONS , v. 17, p. 3487-3497, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Information-Theoretic Location Verification System With Directional Antennas for Vehicular Networks",
+          "autores": "PIVARO MONTEIRO, MARCOS EDUARDO ; ;",
+          "periodico": "IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS , v. 17, p. 93-103, 2016.",
+          "doi": "http://dx.doi.org/10.1109/tits.2015.2460114",
+          "citacao_completa": "PIVARO MONTEIRO, MARCOS EDUARDO ; ; . Information-Theoretic Location Verification System With Directional Antennas for Vehicular Networks. IEEE TRANSACTIONS ON INTELLIGENT TRANSPORTATION SYSTEMS , v. 17, p. 93-103, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Maximum Secrecy Throughput of Transmit Antenna Selection with Eavesdropper Outage Constraints",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ;",
+          "periodico": "IEEE SIGNAL PROCESSING LETTERS , v. 22, p. 2069-2072, 2015.",
+          "doi": "http://dx.doi.org/10.1109/lsp.2015.2458573",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; ; . Maximum Secrecy Throughput of Transmit Antenna Selection with Eavesdropper Outage Constraints. IEEE SIGNAL PROCESSING LETTERS , v. 22, p. 2069-2072, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "BLE-Based AoA Estimation Using a Sliding Window Median Filter to Remove Outliers",
+          "autores": "RODRIGUEZ, ERICK ADRIAN IGLESIAS ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025.",
+          "doi": "http://dx.doi.org/10.14209/sbrt.2025.1571144705",
+          "citacao_completa": "RODRIGUEZ, ERICK ADRIAN IGLESIAS ; MONTEIRO, MARCOS EDUARDO PIVARO ; ; MORITZ, GUILHERME LUIZ ; . BLE-Based AoA Estimation Using a Sliding Window Median Filter to Remove Outliers. In: XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025, Natal. Anais do XLIII Simpósio Brasileiro de Telecomunicações e Processamento de Sinais, 2025."
+        },
+        {
+          "ano": 2018,
+          "titulo": "On the Energy Efficiency of Relay-Assisted In- Vivo Nano- Networks Communications",
+          "autores": "P. MONTEIRO, MARCOS E. ; ;",
+          "periodico": "In: 2018 15th International Symposium on Wireless Communication Systems (ISWCS), 2018, Lisbon. 2018 15th International Symposium on Wireless Communication Systems (ISWCS), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ISWCS.2018.8491066",
+          "citacao_completa": "P. MONTEIRO, MARCOS E. ; ; . On the Energy Efficiency of Relay-Assisted In- Vivo Nano- Networks Communications. In: 2018 15th International Symposium on Wireless Communication Systems (ISWCS), 2018, Lisbon. 2018 15th International Symposium on Wireless Communication Systems (ISWCS), 2018. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Secrecy outage probability of network-coded cooperation without channel state information",
+          "autores": "MONTEIRO, MARCOS E. P. ; ; ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "In: 2015 International Symposium on Wireless Communication Systems (ISWCS), 2015, Brussels. 2015 International Symposium on Wireless Communication Systems (ISWCS), 2015. p. 696.",
+          "doi": "http://dx.doi.org/10.1109/iswcs.2015.7454438",
+          "citacao_completa": "MONTEIRO, MARCOS E. P. ; ; ; ; MORITZ, GUILHERME LUIZ ; . Secrecy outage probability of network-coded cooperation without channel state information. In: 2015 International Symposium on Wireless Communication Systems (ISWCS), 2015, Brussels. 2015 International Symposium on Wireless Communication Systems (ISWCS), 2015. p. 696."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Information-theoretic location verification system with directional antennas",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ;",
+          "periodico": "In: 2014 International Telecommunications Symposium (ITS), 2014, Sao Paulo. 2014 International Telecommunications Symposium (ITS), 2014. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/its.2014.6948010",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ; . Information-theoretic location verification system with directional antennas. In: 2014 International Telecommunications Symposium (ITS), 2014, Sao Paulo. 2014 International Telecommunications Symposium (ITS), 2014. p. 1."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Information-Theoretic Location Verification System with Directional Antennas",
+          "autores": "MONTEIRO, M. E. P. ; ;",
+          "periodico": "2014. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, M. E. P. ; ; . Information-Theoretic Location Verification System with Directional Antennas. 2014. (Apresentação de Trabalho/Simpósio)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Framework e Scripts para Fine-Tuning QLoRA de Grandes Modelos de Linguagem (LLMs)",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO . Framework e Scripts para Fine-Tuning QLoRA de Grandes Modelos de Linguagem (LLMs). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "CSI-Control-App: Aplicativo para Gerenciamento e Coleta de Informações de Estado de Canal (CSI)",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; ACQUA, T. L. D. ; SANTOS, D. O. ; FRUTOS, ESTEFANI ; SOUZA, CLEBER BRANTL DE ; SILVA, ALISSON SIQUEIRA",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; ACQUA, T. L. D. ; SANTOS, D. O. ; FRUTOS, ESTEFANI ; SOUZA, CLEBER BRANTL DE ; SILVA, ALISSON SIQUEIRA . CSI-Control-App: Aplicativo para Gerenciamento e Coleta de Informações de Estado de Canal (CSI). 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Base de Dados e Ferramentas Computacionais para Estimativa de Pose via BLE 5.1",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; PEREIRA, IGOR VINÍCIUS ; ; ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; PEREIRA, IGOR VINÍCIUS ; ; ; ; MORITZ, GUILHERME LUIZ ; . Base de Dados e Ferramentas Computacionais para Estimativa de Pose via BLE 5.1. 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Framework de Coleta e Análise de Desempenho para Redes BLE Mesh",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; SANTOS, ANDRÉ BADENAS DOS",
+          "periodico": "2026.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; SANTOS, ANDRÉ BADENAS DOS . Framework de Coleta e Análise de Desempenho para Redes BLE Mesh. 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Implementação de Protocolo de Codificação de Rede em Dispositivos Bluetooth Low Energy (CC2541)",
+          "autores": "MONTEIRO, MARCOS ; GUIMARÃES, PEDRO CARVALHO DA FONSECA",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS ; GUIMARÃES, PEDRO CARVALHO DA FONSECA . Implementação de Protocolo de Codificação de Rede em Dispositivos Bluetooth Low Energy (CC2541). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Jaeger UTFPR: Plataforma Robótica Humanoide de Baixo Custo e Código Aberto",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Jaeger UTFPR: Plataforma Robótica Humanoide de Baixo Custo e Código Aberto. 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Base de Dados Abrangente Baseada em BLE para Sistemas de Posicionamento Indoor (A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems)",
+          "autores": "FABRIS, ANDREY ; MONTEIRO, MARCOS EDUARDO PIVARO ; PERON, GUILHERME DE SANTI ; ; ; MORITZ, GUILHERME LUIZ",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "FABRIS, ANDREY ; MONTEIRO, MARCOS EDUARDO PIVARO ; PERON, GUILHERME DE SANTI ; ; ; MORITZ, GUILHERME LUIZ . Base de Dados Abrangente Baseada em BLE para Sistemas de Posicionamento Indoor (A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems). 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Base de Dados e Algoritmos de Deep Learning para Monitoramento em Tempo Real do Uso de EPIs via Sensores IMU (PPEUsageDataset)",
+          "autores": "MONTEIRO, MARCOS EDUARDO PIVARO ; GUIMARÃES, PEDRO CARVALHO DA FONSECA ; CRISTO, LEONARDO BRAGA DE ; ; MORITZ, GUILHERME LUIZ ;",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS EDUARDO PIVARO ; GUIMARÃES, PEDRO CARVALHO DA FONSECA ; CRISTO, LEONARDO BRAGA DE ; ; MORITZ, GUILHERME LUIZ ; . Base de Dados e Algoritmos de Deep Learning para Monitoramento em Tempo Real do Uso de EPIs via Sensores IMU (PPEUsageDataset). 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "LabSCim: Framework de Simulação OMNeT++ para IoT com Integração de Firmware (LoRaWAN/6TiSCH)",
+          "autores": "MORITIZ, G. L. ; MONTEIRO, MARCOS ;",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "MORITIZ, G. L. ; MONTEIRO, MARCOS ; . LabSCim: Framework de Simulação OMNeT++ para IoT com Integração de Firmware (LoRaWAN/6TiSCH). 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Vita Pneuma: Firmware de Controle para Reanimador Automatizado (Projeto FASTEN Vita)",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Vita Pneuma: Firmware de Controle para Reanimador Automatizado (Projeto FASTEN Vita). 2022."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Servidor de Módulos para Rastreadores de Veículos",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Servidor de Módulos para Rastreadores de Veículos. 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Gerenciador de Serviços para Provedores de Serviço de Monitoramento",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Gerenciador de Serviços para Provedores de Serviço de Monitoramento. 2011."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Realidade Aumentada para a Web",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Realidade Aumentada para a Web. 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Aplicação 3D para Vários Usuários",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Aplicação 3D para Vários Usuários. 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Aplicação para a Web Multiusuário 3D Utilizando Java 3D",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Aplicação para a Web Multiusuário 3D Utilizando Java 3D. 2007."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Projeto Web para o Instituto Manabu Mabe",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2003.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto Web para o Instituto Manabu Mabe. 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Projeto de Sistema de Gerenciamento para a FADISP",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto de Sistema de Gerenciamento para a FADISP. 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Projeto Web para a ADVB - Associação dos Dirigentes de Vendas e Marketing do Brasil",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto Web para a ADVB - Associação dos Dirigentes de Vendas e Marketing do Brasil. 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Projeto Web de Cursos Online para a ITALCAM - Câmara Ítalo-Brasileira de Comércio",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto Web de Cursos Online para a ITALCAM - Câmara Ítalo-Brasileira de Comércio. 2000."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Projeto Web para a Databyte",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "1999.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto Web para a Databyte. 1999."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Projeto Web para a Construtora Costa Hirota",
+          "autores": "MONTEIRO, MARCOS",
+          "periodico": "1998.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, MARCOS . Projeto Web para a Construtora Costa Hirota. 1998."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Um Mecanismo Contra Ataques Do Tipo Syn Flood Para Firewallsbaseados No Framework Netfilter",
+          "membros": "MONTEIRO, MARCOS E. P. ; ALVES JUNIOR, J.;",
+          "candidato": "Fabio Israel Ramos Esmanhotto",
+          "citacao_completa": "MONTEIRO, MARCOS E. P. ; ALVES JUNIOR, J.; . Participação em banca de Fabio Israel Ramos Esmanhotto. Um Mecanismo Contra Ataques Do Tipo Syn Flood Para Firewallsbaseados No Framework Netfilter. 2025. Dissertação (Mestrado em Computação Aplicada) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Alocação Multiobjetivo de Religadores Inteligentes em Redes Primárias de Distribuição via Método de Entropia Cruzada",
+          "membros": "MONTEIRO, MARCOS E. P. ; CARVALHO, L. M.; ;",
+          "candidato": "Beatriz Silveira Buss",
+          "citacao_completa": "MONTEIRO, MARCOS E. P. ; CARVALHO, L. M.; ; . Participação em banca de Beatriz Silveira Buss. Alocação Multiobjetivo de Religadores Inteligentes em Redes Primárias de Distribuição via Método de Entropia Cruzada. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Improving 6TiSCH Reliability and Latency with Simultaneous Multi-Band Operation",
+          "membros": "; ;",
+          "candidato": "Marcus Vinicius Bunn",
+          "citacao_completa": "; ; . Participação em banca de Marcus Vinicius Bunn. Improving 6TiSCH Reliability and Latency with Simultaneous Multi-Band Operation. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Avaliação do Consumo Energético do Bluetooth Mesh",
+          "membros": "; ;",
+          "candidato": "Joelton Deonei Gotz",
+          "citacao_completa": "; ; . Participação em banca de Joelton Deonei Gotz. Avaliação do Consumo Energético do Bluetooth Mesh. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Comunicação Cooperativa em Redes IEEE 802.15.4g sob Interferência LoRaWAN",
+          "membros": "; ; LIMA, E. G.",
+          "candidato": "Eros Leon Kohler",
+          "citacao_completa": "; ; LIMA, E. G.. Participação em banca de Eros Leon Kohler. Comunicação Cooperativa em Redes IEEE 802.15.4g sob Interferência LoRaWAN. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "TRANSPORTEX - PLATAFORMA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES",
+          "membros": "; ;",
+          "candidato": "DIEGO ANTONIO VONSOVICZ",
+          "citacao_completa": "; ; . Participação em banca de DIEGO ANTONIO VONSOVICZ. TRANSPORTEX - PLATAFORMA PARA PRESTAÇÃO DE SERVIÇOS DE TRANSPORTES. 2016. Monografia (Aperfeiçoamento/Especialização em Curso de Especialização em Tecnologia Java e Desenvolvimento para Dispositi) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".Análise Técnica Da Solução Cell Broadcast Para Alertas De Emergência No Brasil",
+          "membros": "; FARHAT, JAMIL; MONTEIRO, MARCOS E. P.",
+          "candidato": "Vitor Nievola Dalpra",
+          "citacao_completa": "; FARHAT, JAMIL; MONTEIRO, MARCOS E. P. . Participação em banca de Vitor Nievola Dalpra.Análise Técnica Da Solução Cell Broadcast Para Alertas De Emergência No Brasil. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Comparação de métodos de localização de dispositivos em ambiente fechado conectados em uma rede bluetooth mesh",
+          "membros": "MONTEIRO, MARCOS E. P. ; ; SANTOS, E. N.",
+          "candidato": "André Badenas dos Santos",
+          "citacao_completa": "MONTEIRO, MARCOS E. P. ; ; SANTOS, E. N.. Participação em banca de André Badenas dos Santos.Comparação de métodos de localização de dispositivos em ambiente fechado conectados em uma rede bluetooth mesh. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Blip SOS: Acessório IOT para Envio de SOS com Geolocalização em Situações Emergenciais",
+          "membros": "; ; ;",
+          "candidato": "Caroline Rosa da Silva",
+          "citacao_completa": "; ; ; . Participação em banca de Caroline Rosa da Silva.Blip SOS: Acessório IOT para Envio de SOS com Geolocalização em Situações Emergenciais. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".O Impacto da Pandemia no Consumo dos Serviços de Dados das Empresas de Telecomunicações",
+          "membros": "; ;",
+          "candidato": "Isabele Spadari",
+          "citacao_completa": "; ; . Participação em banca de Isabele Spadari.O Impacto da Pandemia no Consumo dos Serviços de Dados das Empresas de Telecomunicações. 2022. Trabalho de Conclusão de Curso (Graduação em Sistemas de Telecomunicações) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Localização em Ambiente Rural com a Tecnologia LoRa",
+          "membros": "; ;",
+          "candidato": "Eric Hideo Yoshitome e João Vitor Rodrigues da Cruz",
+          "citacao_completa": "; ; . Participação em banca de Eric Hideo Yoshitome e João Vitor Rodrigues da Cruz.Localização em Ambiente Rural com a Tecnologia LoRa. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Geolocalização de Dispositivo de Baixo Consumo em Ambiente Rural",
+          "membros": "MONTEIRO, MARCOS E. P. ;",
+          "candidato": "Eric Hideo Yoshitome",
+          "citacao_completa": "MONTEIRO, MARCOS E. P. ; . Participação em banca de Eric Hideo Yoshitome.Geolocalização de Dispositivo de Baixo Consumo em Ambiente Rural. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "SCHNEIDER, F. K.; KRAUSE, J.; MONTEIRO, MARCOS E. P. . Concurso Público Nº 008/2026-CPCP-CT para professor do Magistério",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SCHNEIDER, F. K.; KRAUSE, J.; MONTEIRO, MARCOS E. P. . Concurso Público Nº 008/2026-CPCP-CT para professor do Magistério Superior - Área: Ciência da Computação (Inteligência Artificial). 2026. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

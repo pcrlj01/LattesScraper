@@ -1,0 +1,927 @@
+{
+  "name": "Daniel Zanetti de Florio",
+  "lattes_id": "8785084711227475",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Investigation of Gallium Oxide Thin Films Deposited by Sputtering for Photomemristor Applications",
+          "autores": "SPARVOLI, M. ; CHUBACI, J. F. D. ; JORGE, F. O. ; Florio, D. Z. ; GULINO, H. ; ZAMBOM, L. S. ; RODRIGUES, C. L. ; SILVA, T. F. ; GENNARI, R. ; RANGEL, R. ; ORDONEZ, N. ; MANSANO, R. D.",
+          "periodico": "PHYSICA STATUS SOLIDI B-BASIC SOLID STATE PHYSICS , v. 263, p. e202500600, 2026.",
+          "doi": "http://dx.doi.org/10.1002/pssb.202500600",
+          "citacao_completa": "SPARVOLI, M. ; CHUBACI, J. F. D. ; JORGE, F. O. ; Florio, D. Z. ; GULINO, H. ; ZAMBOM, L. S. ; RODRIGUES, C. L. ; SILVA, T. F. ; GENNARI, R. ; RANGEL, R. ; ORDONEZ, N. ; MANSANO, R. D. . Investigation of Gallium Oxide Thin Films Deposited by Sputtering for Photomemristor Applications. PHYSICA STATUS SOLIDI B-BASIC SOLID STATE PHYSICS , v. 263, p. e202500600, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Impact of high-energy milling synthesis on the electrostriction performance of Ce0.9Zr0.1O2",
+          "autores": "MARQUES, LARISSA S. ; FERLAUTO, ANDRÉ S. ; FONSECA, FABIO C. ; KABIR, AHSANUL ; KOUKOULIS, DIMITRIOS ; ISLAM, KHONDOKER N. ; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL Z.",
+          "periodico": "CERAMICS INTERNATIONAL , v. -, p. -, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.ceramint.2026.04.099",
+          "citacao_completa": "MARQUES, LARISSA S. ; FERLAUTO, ANDRÉ S. ; FONSECA, FABIO C. ; KABIR, AHSANUL ; KOUKOULIS, DIMITRIOS ; ISLAM, KHONDOKER N. ; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL Z. . Impact of high-energy milling synthesis on the electrostriction performance of Ce0.9Zr0.1O2. CERAMICS INTERNATIONAL , v. -, p. -, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning",
+          "autores": "DA SILVA SOUSA SANTOS, ARTHUR ; STOJANOVSKA, ELENA ; ALVES, ANTONIO AUGUSTO ; DE PAULA, AMAURI JARDIM ; DE FLORIO, DANIEL ZANETTI ; DE ALMEIDA, JAMES MORAES",
+          "periodico": "Journal of Chemical Information and Modeling , v. -, p. -, 2026.",
+          "doi": "http://dx.doi.org/10.1021/acs.jcim.6c00752",
+          "citacao_completa": "DA SILVA SOUSA SANTOS, ARTHUR ; STOJANOVSKA, ELENA ; ALVES, ANTONIO AUGUSTO ; DE PAULA, AMAURI JARDIM ; DE FLORIO, DANIEL ZANETTI ; DE ALMEIDA, JAMES MORAES . Rational Design of Single-Phase High-Entropy Oxides via Large Language Model Data Mining and Explainable Machine Learning. Journal of Chemical Information and Modeling , v. -, p. -, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Machine learning assisted prediction and synthesis of new high-entropy fluorite oxide",
+          "autores": "DA SILVA SOUSA SANTOS, ARTHUR ; DE ALMEIDA, JAMES MORAES ; DE JESUS TRINDADE, FABIANE ; FELEZ, MARISSOL RODRIGUES ; DA SILVA MARQUES, LARISSA ; DE FLORIO, DANIEL ZANETTI",
+          "periodico": "Open Ceramics , v. 26, p. 100982, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.oceram.2026.100982",
+          "citacao_completa": "DA SILVA SOUSA SANTOS, ARTHUR ; DE ALMEIDA, JAMES MORAES ; DE JESUS TRINDADE, FABIANE ; FELEZ, MARISSOL RODRIGUES ; DA SILVA MARQUES, LARISSA ; DE FLORIO, DANIEL ZANETTI . Machine learning assisted prediction and synthesis of new high-entropy fluorite oxide. Open Ceramics , v. 26, p. 100982, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Insights about ionic migration in perovskite solar cells using electrochemical impedance spectroscopy",
+          "autores": "POLIMANTE, LUCAS ; DOS SANTOS, THAYNA M.G. ; FLORIO, DANIEL Z. ; POLO, ANDRE S.",
+          "periodico": "MATERIALS LETTERS , v. 387, p. 138255, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.matlet.2025.138255",
+          "citacao_completa": "POLIMANTE, LUCAS ; DOS SANTOS, THAYNA M.G. ; FLORIO, DANIEL Z. ; POLO, ANDRE S. . Insights about ionic migration in perovskite solar cells using electrochemical impedance spectroscopy. MATERIALS LETTERS , v. 387, p. 138255, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Conversion of methane into value-added products in catalytic-assisted solid oxide fuel cell",
+          "autores": "VILELA, VANESSA B. ; FOURNET-FAYARD, FRANCK ; STEIL, MARLU C. ; THYSSEN, VIVIAN V. ; DE FLORIO, DANIEL Z. ; FERLAUTO, ANDRE S. ; FONSECA, FABIO C.",
+          "periodico": "JOURNAL OF POWER SOURCES , v. 656, p. 238083, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.jpowsour.2025.238083",
+          "citacao_completa": "VILELA, VANESSA B. ; FOURNET-FAYARD, FRANCK ; STEIL, MARLU C. ; THYSSEN, VIVIAN V. ; DE FLORIO, DANIEL Z. ; FERLAUTO, ANDRE S. ; FONSECA, FABIO C. . Conversion of methane into value-added products in catalytic-assisted solid oxide fuel cell. JOURNAL OF POWER SOURCES , v. 656, p. 238083, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Enhanced ethanol reforming with catalytic active ruthenium species derived from solid solution in lanthanum chromite",
+          "autores": "SIQUEIRA MORAES, TAMARA ; TINTI, VICTOR BURATTO ; DE FLORIO, DANIEL Z. ; FERLAUTO, ANDRE S ; PIAZZOLLA, FERNANDO ; MIURA, YOHEI ; MILLER, JEFFREY ; DEAN, DAVID P. ; PHAM, HIEN ; DATYE, ABHAYA ; FONSECA, FABIO C",
+          "periodico": "Catalysis Science & Technology , v. -, p. -, 2025.",
+          "doi": "http://dx.doi.org/10.1039/D5CY00774G",
+          "citacao_completa": "SIQUEIRA MORAES, TAMARA ; TINTI, VICTOR BURATTO ; DE FLORIO, DANIEL Z. ; FERLAUTO, ANDRE S ; PIAZZOLLA, FERNANDO ; MIURA, YOHEI ; MILLER, JEFFREY ; DEAN, DAVID P. ; PHAM, HIEN ; DATYE, ABHAYA ; FONSECA, FABIO C . Enhanced ethanol reforming with catalytic active ruthenium species derived from solid solution in lanthanum chromite. Catalysis Science & Technology , v. -, p. -, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Oxygen-defective electrostrictors for soft electromechanics",
+          "autores": "TINTI, VICTOR BURATTO ; HAN, JIN KYU ; FREDERIKSEN, VALDEMAR ; CHEN, HUAIYU ; WALLENTIN, JESPER ; KANTOR, INNOKENTY ; LYKSBORG-ANDERSEN, ANTON ; HANSEN, THOMAS WILLUM ; BAE, GARAM ; SONG, WOOSEOK ; STAMATE, EUGEN ; DE FLORIO, DANIEL ZANETTI ; BRUUS, HENRIK ; ESPOSITO, VINCENZO",
+          "periodico": "SCIENCE ADVANCES , v. 10, p. eadq3444, 2024.",
+          "doi": "http://dx.doi.org/10.1126/sciadv.adq3444",
+          "citacao_completa": "TINTI, VICTOR BURATTO ; HAN, JIN KYU ; FREDERIKSEN, VALDEMAR ; CHEN, HUAIYU ; WALLENTIN, JESPER ; KANTOR, INNOKENTY ; LYKSBORG-ANDERSEN, ANTON ; HANSEN, THOMAS WILLUM ; BAE, GARAM ; SONG, WOOSEOK ; STAMATE, EUGEN ; DE FLORIO, DANIEL ZANETTI ; BRUUS, HENRIK ; ESPOSITO, VINCENZO . Oxygen-defective electrostrictors for soft electromechanics. SCIENCE ADVANCES , v. 10, p. eadq3444, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Electromechanical coupling in alkaline-earth doped-ceria ceramics",
+          "autores": "TINTI, VICTOR B. ; KABIR, AHSANUL ; DE FLORIO, DANIEL Z. ; ESPOSITO, VINCENZO",
+          "periodico": "ACTA MATERIALIA , v. 281, p. 120361, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.actamat.2024.120361",
+          "citacao_completa": "TINTI, VICTOR B. ; KABIR, AHSANUL ; DE FLORIO, DANIEL Z. ; ESPOSITO, VINCENZO . Electromechanical coupling in alkaline-earth doped-ceria ceramics. ACTA MATERIALIA , v. 281, p. 120361, 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Oxidative coupling of methane in chemical looping design",
+          "autores": "DAMASCENO, SERGIO ; TRINDADE, FABIANE J. ; FONSECA, FABIO C. ; FLORIO, DANIEL Z. DE ; FERLAUTO, ANDRE S.",
+          "periodico": "FUEL PROCESSING TECHNOLOGY , v. 231, p. 107255, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.fuproc.2022.107255",
+          "citacao_completa": "DAMASCENO, SERGIO ; TRINDADE, FABIANE J. ; FONSECA, FABIO C. ; FLORIO, DANIEL Z. DE ; FERLAUTO, ANDRE S. . Oxidative coupling of methane in chemical looping design. FUEL PROCESSING TECHNOLOGY , v. 231, p. 107255, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Electric field-assisted sintering anode-supported single solid oxide fuel cell",
+          "autores": "MUCCILLO, REGINALDO ; FLORIO, DANIEL ZANETTI ; FONSECA, FABIO C. ; CARVALHO, SABRINA G. M. ; MUCCILLO, ELIANA N. S.",
+          "periodico": "International Journal of Applied Ceramic Technology , v. 19, p. 906-912, 2022.",
+          "doi": "http://dx.doi.org/10.1111/ijac.13871",
+          "citacao_completa": "MUCCILLO, REGINALDO ; FLORIO, DANIEL ZANETTI ; FONSECA, FABIO C. ; CARVALHO, SABRINA G. M. ; MUCCILLO, ELIANA N. S. . Electric field-assisted sintering anode-supported single solid oxide fuel cell. International Journal of Applied Ceramic Technology , v. 19, p. 906-912, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Partial Methane Oxidation in Fuel Cell-Type Reactors for Co-Generation of Energy and Chemicals: A Short Review",
+          "autores": "DE SOUZA, RODRIGO F. B. ; FLORIO, DANIEL Z. ; ANTOLINI, ERMETE ; NETO, ALMIR O.",
+          "periodico": "Catalysts , v. 12, p. 217, 2022.",
+          "doi": "http://dx.doi.org/10.3390/catal12020217",
+          "citacao_completa": "DE SOUZA, RODRIGO F. B. ; FLORIO, DANIEL Z. ; ANTOLINI, ERMETE ; NETO, ALMIR O. . Partial Methane Oxidation in Fuel Cell-Type Reactors for Co-Generation of Energy and Chemicals: A Short Review. Catalysts , v. 12, p. 217, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Enhanced electromechanical properties in low-temperature gadolinium-doped ceria composites with low-dimensional carbon allotropes",
+          "autores": "HAN, JIN KYU ; KABIR, AHSANUL ; TINTI, VICTOR BURATTO ; SANTUCCI, SIMONE ; SONG, DA SOM ; KIM, SO YOUNG ; SONG, WOOSEOK ; KIM, EUNYOUNG ; BU, SANG DON ; KERN, FRANK ; DE FLORIO, DANIEL ZANETTI ; ESPOSITO, VINCENZO",
+          "periodico": "Journal of Materials Chemistry A , v. 10, p. 4024, 2022.",
+          "doi": "http://dx.doi.org/10.1039/d1ta10854a",
+          "citacao_completa": "HAN, JIN KYU ; KABIR, AHSANUL ; TINTI, VICTOR BURATTO ; SANTUCCI, SIMONE ; SONG, DA SOM ; KIM, SO YOUNG ; SONG, WOOSEOK ; KIM, EUNYOUNG ; BU, SANG DON ; KERN, FRANK ; DE FLORIO, DANIEL ZANETTI ; ESPOSITO, VINCENZO . Enhanced electromechanical properties in low-temperature gadolinium-doped ceria composites with low-dimensional carbon allotropes. Journal of Materials Chemistry A , v. 10, p. 4024, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Tuning of Shape, Defects, and Disorder in Lanthanum-Doped Ceria Nanoparticles: Implications for High-Temperature Catalysis",
+          "autores": "TRINDADE, FABIANE J. ; DAMASCENO, SERGIO ; OTUBO, LARISSA ; FELEZ, MARISSOL R. ; DE FLORIO, DANIEL Z. ; FONSECA, FABIO C. ; FERLAUTO, ANDRE S.",
+          "periodico": "Acs Applied Nano Materials , v. 5, p. 8859-8867, 2022.",
+          "doi": "http://dx.doi.org/10.1021/acsanm.2c00942",
+          "citacao_completa": "TRINDADE, FABIANE J. ; DAMASCENO, SERGIO ; OTUBO, LARISSA ; FELEZ, MARISSOL R. ; DE FLORIO, DANIEL Z. ; FONSECA, FABIO C. ; FERLAUTO, ANDRE S. . Tuning of Shape, Defects, and Disorder in Lanthanum-Doped Ceria Nanoparticles: Implications for High-Temperature Catalysis. Acs Applied Nano Materials , v. 5, p. 8859-8867, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Oxygen vacancy engineering of TaO x -based resistive memories by Zr doping for improved variability and synaptic behavior",
+          "autores": "PALHARES, JOÃO H QUINTINO ; BEILLIARD, YANN ; ALIBART, FABIEN ; BONTURIM, EVERTON ; DE FLORIO, DANIEL Z ; FONSECA, FABIO C ; DROUIN, DOMINIQUE ; FERLAUTO, ANDRE S",
+          "periodico": "NANOTECHNOLOGY , v. 32, p. 405202, 2021.",
+          "doi": "http://dx.doi.org/10.1088/1361-6528/ac0e67",
+          "citacao_completa": "PALHARES, JOÃO H QUINTINO ; BEILLIARD, YANN ; ALIBART, FABIEN ; BONTURIM, EVERTON ; DE FLORIO, DANIEL Z ; FONSECA, FABIO C ; DROUIN, DOMINIQUE ; FERLAUTO, ANDRE S . Oxygen vacancy engineering of TaO x -based resistive memories by Zr doping for improved variability and synaptic behavior. NANOTECHNOLOGY , v. 32, p. 405202, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Low-temperature synthesis of bismuth titanate by modified citrate amorphous method",
+          "autores": "TINTI, V.B. ; MARANI, D. ; KABIR, A. ; HAUGEN, A.B. ; Esposito, V. ; DE FLORIO, D.Z.",
+          "periodico": "CERAMICS INTERNATIONAL , v. 47, p. 12130-12136, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ceramint.2021.01.058",
+          "citacao_completa": "TINTI, V.B. ; MARANI, D. ; KABIR, A. ; HAUGEN, A.B. ; Esposito, V. ; DE FLORIO, D.Z. . Low-temperature synthesis of bismuth titanate by modified citrate amorphous method. CERAMICS INTERNATIONAL , v. 47, p. 12130-12136, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Direct Conversion of Methane to C Hydrocarbons in Solid-State Membrane Reactors at High Temperatures",
+          "autores": "THYSSEN, VIVIAN VAZQUEZ ; VILELA, VANESSA BEZERRA ; DE FLORIO, DANIEL ZANETTI ; FERLAUTO, ANDRE SANTAROSA ; FONSECA, FABIO CORAL",
+          "periodico": "CHEMICAL REVIEWS , v. -, p. acs.chemrev.1c00447, 2021.",
+          "doi": "http://dx.doi.org/10.1021/acs.chemrev.1c00447",
+          "citacao_completa": "THYSSEN, VIVIAN VAZQUEZ ; VILELA, VANESSA BEZERRA ; DE FLORIO, DANIEL ZANETTI ; FERLAUTO, ANDRE SANTAROSA ; FONSECA, FABIO CORAL . Direct Conversion of Methane to C Hydrocarbons in Solid-State Membrane Reactors at High Temperatures. CHEMICAL REVIEWS , v. -, p. acs.chemrev.1c00447, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Exsolution of Nickel Nanoparticles from Mixed-Valence Metal Oxides: A Quantitative Evaluation by Magnetic Measurements",
+          "autores": "TINTI, VICTOR B. ; MARANI, DEBORA ; FERLAUTO, ANDRE S. ; FONSECA, FABIO C. ; ESPOSITO, VINCENZO ; FLORIO, DANIEL Z.",
+          "periodico": "Particle & Particle Systems Characterization , v. -, p. 1900472, 2020.",
+          "doi": "http://dx.doi.org/10.1002/ppsc.201900472",
+          "citacao_completa": "TINTI, VICTOR B. ; MARANI, DEBORA ; FERLAUTO, ANDRE S. ; FONSECA, FABIO C. ; ESPOSITO, VINCENZO ; FLORIO, DANIEL Z. . Exsolution of Nickel Nanoparticles from Mixed-Valence Metal Oxides: A Quantitative Evaluation by Magnetic Measurements. Particle & Particle Systems Characterization , v. -, p. 1900472, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Efficient Electronic Coupling in Perylenediimide Multilayered Films on Indium Tin Oxide",
+          "autores": "; TOSCO, BRUNA ; DE FLORIO, DANIEL Z. ; STEPANENKO, VLADIMIR ; WÜRTHNER, FRANK ; REY, JOSÉ FERNANDO Q. ;",
+          "periodico": "Journal of Physical Chemistry C , v. 124, p. 5541-5551, 2020.",
+          "doi": "http://dx.doi.org/10.1021/acs.jpcc.9b11373",
+          "citacao_completa": "; TOSCO, BRUNA ; DE FLORIO, DANIEL Z. ; STEPANENKO, VLADIMIR ; WÜRTHNER, FRANK ; REY, JOSÉ FERNANDO Q. ; . Efficient Electronic Coupling in Perylenediimide Multilayered Films on Indium Tin Oxide. Journal of Physical Chemistry C , v. 124, p. 5541-5551, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Effects of Fe substitution on Mn2Sn alloy on its structural, magnetic and magnetocaloric properties",
+          "autores": "FELEZ, MARISSOL R. ; MONTEIRO, JOSÉ CARLOS B. ; DE FLORIO, DANIEL Z. ; GANDRA, FLAVIO C.G. ; GAMA, SERGIO",
+          "periodico": "JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS , v. 505, p. 166676, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.jmmm.2020.166676",
+          "citacao_completa": "FELEZ, MARISSOL R. ; MONTEIRO, JOSÉ CARLOS B. ; DE FLORIO, DANIEL Z. ; GANDRA, FLAVIO C.G. ; GAMA, SERGIO . Effects of Fe substitution on Mn2Sn alloy on its structural, magnetic and magnetocaloric properties. JOURNAL OF MAGNETISM AND MAGNETIC MATERIALS , v. 505, p. 166676, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Insulator-Metal Transition in the Nd 2 CoFeO 6 Disordered Double Perovskite",
+          "autores": "DE OLIVEIRA, LEONARDO S. ; SABINO, FERNANDO P. ; DE FLORIO, DANIEL Z. ; JANOTTI, ANDERSON ; DALPIAN, GUSTAVO M. ; SOUZA, JOSE A.",
+          "periodico": "Journal of Physical Chemistry C , v. 124, p. 22733-22742, 2020.",
+          "doi": "http://dx.doi.org/10.1021/acs.jpcc.0c07585",
+          "citacao_completa": "DE OLIVEIRA, LEONARDO S. ; SABINO, FERNANDO P. ; DE FLORIO, DANIEL Z. ; JANOTTI, ANDERSON ; DALPIAN, GUSTAVO M. ; SOUZA, JOSE A. . Insulator-Metal Transition in the Nd 2 CoFeO 6 Disordered Double Perovskite. Journal of Physical Chemistry C , v. 124, p. 22733-22742, 2020."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Nucleation front instability in two-dimensional (2D) nanosheet gadolinium-doped cerium oxide (CGO) formation",
+          "autores": "de Florio, D. Z.",
+          "periodico": "CRYSTENGCOMM , p. -, 2018.",
+          "doi": "http://dx.doi.org/10.1039/c7ce01737e",
+          "citacao_completa": "de Florio, D. Z. . Nucleation front instability in two-dimensional (2D) nanosheet gadolinium-doped cerium oxide (CGO) formation. CRYSTENGCOMM , p. -, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Thermochemical stability of zirconia-titanium nitride as mixed ionic-electronic composites",
+          "autores": "SILVA, P.S.M. ; Esposito, V. ; MARANI, D. ; DE FLORIO, D.Z. ; MACHADO, I.F. ;",
+          "periodico": "CERAMICS INTERNATIONAL , v. -, p. -, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.ceramint.2018.02.039",
+          "citacao_completa": "SILVA, P.S.M. ; Esposito, V. ; MARANI, D. ; DE FLORIO, D.Z. ; MACHADO, I.F. ; . Thermochemical stability of zirconia-titanium nitride as mixed ionic-electronic composites. CERAMICS INTERNATIONAL , v. -, p. -, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Electric field-assisted pressureless sintering gadolinium-, yttrium- and samarium-doped barium cerate",
+          "autores": "; Esposito, V. ; DE FLORIO, D.Z. ; MUCCILLO, E.N.S.",
+          "periodico": "SCRIPTA MATERIALIA , v. 156, p. 6-9, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.scriptamat.2018.07.005",
+          "citacao_completa": "; Esposito, V. ; DE FLORIO, D.Z. ; MUCCILLO, E.N.S. . Electric field-assisted pressureless sintering gadolinium-, yttrium- and samarium-doped barium cerate. SCRIPTA MATERIALIA , v. 156, p. 6-9, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Equimolar Yttria-Stabilized Zirconia and Samaria-Doped Ceria Solid Solutions",
+          "autores": "MUCCILLO, R. ; de Florio, D. Z. ; MUCCILLO, E. N. S.",
+          "periodico": "Ceramics , v. 1, p. 343-352, 2018.",
+          "doi": "http://dx.doi.org/10.3390/ceramics1020027",
+          "citacao_completa": "MUCCILLO, R. ; de Florio, D. Z. ; MUCCILLO, E. N. S. . Equimolar Yttria-Stabilized Zirconia and Samaria-Doped Ceria Solid Solutions. Ceramics , v. 1, p. 343-352, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Proton and cesium conductivity in perfluorosulfonate ionomers at low and high relative humidity",
+          "autores": "MATOS, BRUNO R. ; DA SILVA, JAQUELINE S. ; SANTIAGO, ELISABETE I. ; PARRA, DUCLERC F. ; CARASTAN, DANILO J. ; DE FLORIO, DANIEL Z. ; ANDRADA, HEBER E. ; CARRERAS, ALEJO C. ; FONSECA, FABIO C.",
+          "periodico": "Solid State Ionics (Print) , v. 301, p. 86-94, 2017.",
+          "doi": "http://dx.doi.org/10.1016/j.ssi.2017.01.019",
+          "citacao_completa": "MATOS, BRUNO R. ; DA SILVA, JAQUELINE S. ; SANTIAGO, ELISABETE I. ; PARRA, DUCLERC F. ; CARASTAN, DANILO J. ; DE FLORIO, DANIEL Z. ; ANDRADA, HEBER E. ; CARRERAS, ALEJO C. ; FONSECA, FABIO C. . Proton and cesium conductivity in perfluorosulfonate ionomers at low and high relative humidity. Solid State Ionics (Print) , v. 301, p. 86-94, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Electric Field-Assisted Pressureless Sintering of Ceramic Protonic Conductors",
+          "autores": "; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL ZANETTI ; MUCCILLO, E. N.S.",
+          "periodico": "ECS TRANSACTIONS (ONLINE) , v. 80, p. 111-118, 2017.",
+          "doi": "http://dx.doi.org/10.1149/08009.0111ecst",
+          "citacao_completa": "; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL ZANETTI ; MUCCILLO, E. N.S. . Electric Field-Assisted Pressureless Sintering of Ceramic Protonic Conductors. ECS TRANSACTIONS (ONLINE) , v. 80, p. 111-118, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Optimization of spin-coated electrodes for electrolyte-supported solid oxide fuel cells",
+          "autores": "NOBREGA, SHAYENNE DINIZ DA ; MONTEIRO, NATALIA KONDO ; TABUTI, FRANCISCO ; FLORIO, DANIEL ZANETTI DE ; FONSECA, FABIO CORAL",
+          "periodico": "Materia-Rio de Janeiro , v. 22, p. e11804, 2017.",
+          "doi": "http://dx.doi.org/10.1590/s1517-707620170001.0136",
+          "citacao_completa": "NOBREGA, SHAYENNE DINIZ DA ; MONTEIRO, NATALIA KONDO ; TABUTI, FRANCISCO ; FLORIO, DANIEL ZANETTI DE ; FONSECA, FABIO CORAL . Optimization of spin-coated electrodes for electrolyte-supported solid oxide fuel cells. Materia-Rio de Janeiro , v. 22, p. e11804, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Low Temperature Synthesis and Properties of Gadolinium-Doped Cerium Oxide Nanoparticles",
+          "autores": "MACHADO, MARINA F. S. ; MORAES, LETICIA P. R. ; MONTEIRO, NATALIA K ; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL ZANETTI ; MARANI, DEBORA ; FONSECA, FABIO C.",
+          "periodico": "ECS TRANSACTIONS (ONLINE) , v. 78, p. 387-394, 2017.",
+          "doi": "http://dx.doi.org/10.1149/07801.0387ecst",
+          "citacao_completa": "MACHADO, MARINA F. S. ; MORAES, LETICIA P. R. ; MONTEIRO, NATALIA K ; ESPOSITO, VINCENZO ; DE FLORIO, DANIEL ZANETTI ; MARANI, DEBORA ; FONSECA, FABIO C. . Low Temperature Synthesis and Properties of Gadolinium-Doped Cerium Oxide Nanoparticles. ECS TRANSACTIONS (ONLINE) , v. 78, p. 387-394, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Nafion-mesoporous silica composite electrolyte: properties and direct ethanol fuel cells performance",
+          "autores": "; ; DE FLORIO, D. Z. ; REY, J. F. Q. ; SANTIAGO, E. I. ;",
+          "periodico": "Materials for Renewable and Sustainable Energy , v. 5, p. -, 2016.",
+          "doi": "http://dx.doi.org/10.1007/s40243-016-0069-x",
+          "citacao_completa": "; ; DE FLORIO, D. Z. ; REY, J. F. Q. ; SANTIAGO, E. I. ; . Nafion-mesoporous silica composite electrolyte: properties and direct ethanol fuel cells performance. Materials for Renewable and Sustainable Energy , v. 5, p. -, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Accelerated ceria-zirconia solubilization by cationic diffusion inversion under low oxygen activity",
+          "autores": "ESPOSITO, VINCENZO ; NI, DE WEI ; MARANI, DEBORA ; TEOCOLI, FRANCESCA ; THYDEN, KARL ; DE FLORIO, DANIEL ; FONSECA, FABIO CORAL",
+          "periodico": "Journal of Materials Chemistry A , v. 43, p. 16871-16878, 2016.",
+          "doi": "http://dx.doi.org/10.1039/c6ta06308j",
+          "citacao_completa": "ESPOSITO, VINCENZO ; NI, DE WEI ; MARANI, DEBORA ; TEOCOLI, FRANCESCA ; THYDEN, KARL ; DE FLORIO, DANIEL ; FONSECA, FABIO CORAL . Accelerated ceria-zirconia solubilization by cationic diffusion inversion under low oxygen activity. Journal of Materials Chemistry A , v. 43, p. 16871-16878, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Evaluation of Gadolinium Doped Barium Zirconate Electrolyte for Solid Oxide Fuel Cell",
+          "autores": "DE FLORIO, D. Z.",
+          "periodico": "ECS Transactions , v. 68, p. 497-501, 2015.",
+          "doi": "http://dx.doi.org/10.1149/06801.0497ecst",
+          "citacao_completa": "DE FLORIO, D. Z. . Evaluation of Gadolinium Doped Barium Zirconate Electrolyte for Solid Oxide Fuel Cell. ECS Transactions , v. 68, p. 497-501, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Effect of chemical redox on Gd-doped ceria mass diffusion",
+          "autores": "W. NI, D. ; de Florio, D. Z. ; MARANI, D. ; KAISER, A. ; ; ESPOSITO, V.",
+          "periodico": "Journal of Materials Chemistry A , v. 3, p. 18835-18838, 2015.",
+          "doi": "http://dx.doi.org/10.1039/c5ta05537g",
+          "citacao_completa": "W. NI, D. ; de Florio, D. Z. ; MARANI, D. ; KAISER, A. ; ; ESPOSITO, V. . Effect of chemical redox on Gd-doped ceria mass diffusion. Journal of Materials Chemistry A , v. 3, p. 18835-18838, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Stabilization of the cubic perovskite in the system La1−xBaxCo1−yFeyO3−δ (0.7 ≤ x ≤ 0.9) and its electrochemical performance as cathode materials for intermediate-temperature solid oxide fuel cells",
+          "autores": "SETEVICH, C. ; PRADO, F. ; DE FLORIO, D.Z. ; CANEIRO, A.",
+          "periodico": "Journal of Power Sources (Print) , v. 247, p. 264-272, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.jpowsour.2013.08.091",
+          "citacao_completa": "SETEVICH, C. ; PRADO, F. ; DE FLORIO, D.Z. ; CANEIRO, A. . Stabilization of the cubic perovskite in the system La1−xBaxCo1−yFeyO3−δ (0.7 ≤ x ≤ 0.9) and its electrochemical performance as cathode materials for intermediate-temperature solid oxide fuel cells. Journal of Power Sources (Print) , v. 247, p. 264-272, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Characterization of a Perylenediimide Self-Assembled Monolayer on Indium Tin Oxide Electrodes Using Electrochemical Impedance Spectroscopy",
+          "autores": "; DE FLORIO, DANIEL Z. ;",
+          "periodico": "Journal of Physical Chemistry. C , v. 118, p. 4103-4112, 2014.",
+          "doi": "http://dx.doi.org/10.1021/jp409416b",
+          "citacao_completa": "; DE FLORIO, DANIEL Z. ; . Characterization of a Perylenediimide Self-Assembled Monolayer on Indium Tin Oxide Electrodes Using Electrochemical Impedance Spectroscopy. Journal of Physical Chemistry. C , v. 118, p. 4103-4112, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Effects of the electrode configuration, phase relationship and microstructure on the polarization resistance of La0.3Ba0.7CoO3−δ as cathode material for IT-SOFC",
+          "autores": "SETEVICH, C. ; PRADO, F. ; DE FLORIO, D.Z.",
+          "periodico": "International Journal of Hydrogen Energy , v. 39, p. 8738-8743, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.ijhydene.2013.12.040",
+          "citacao_completa": "SETEVICH, C. ; PRADO, F. ; DE FLORIO, D.Z. . Effects of the electrode configuration, phase relationship and microstructure on the polarization resistance of La0.3Ba0.7CoO3−δ as cathode material for IT-SOFC. International Journal of Hydrogen Energy , v. 39, p. 8738-8743, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Effects of Hydrogen Content in Nitrogen-Based Sintering Atmosphere on Microstructure and Mechanical Properties of Fe-0.3%C-0.1%B Alloy",
+          "autores": "LOBERTO, AMAURI ; DA SILVA, MARIA DO CARMO AMORIM ; AMBROZIO FILHO, FRANCISCO ; DE FLORIO, DANIEL ZANETTI ;",
+          "periodico": "Materials Science Forum (Online) , v. 802, p. 477-482, 2014.",
+          "doi": "http://dx.doi.org/10.4028/www.scientific.net/MSF.802.477",
+          "citacao_completa": "LOBERTO, AMAURI ; DA SILVA, MARIA DO CARMO AMORIM ; AMBROZIO FILHO, FRANCISCO ; DE FLORIO, DANIEL ZANETTI ; . Effects of Hydrogen Content in Nitrogen-Based Sintering Atmosphere on Microstructure and Mechanical Properties of Fe-0.3%C-0.1%B Alloy. Materials Science Forum (Online) , v. 802, p. 477-482, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Development and tests of anode-supported solid oxide fuel cells with electrolyte layer deposited by spin-coating",
+          "autores": "; ; DE FLORIO, D. Z.",
+          "periodico": "Matéria (UFRJ) , v. 18, p. 39/11494-45, 2013.",
+          "doi": "",
+          "citacao_completa": "; ; DE FLORIO, D. Z. . Development and tests of anode-supported solid oxide fuel cells with electrolyte layer deposited by spin-coating. Matéria (UFRJ) , v. 18, p. 39/11494-45, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Nafion -Relaxation Dependence on Temperature and Relative Humidity Studied by Dielectric Spectroscopy",
+          "autores": "MATOS, B. R. D. ; ANDRE DRESCH, M. ; INACIO SANTIAGO, E. ; LINARDI, M. ; ZANETTI DE FLORIO, D. ; CORAL FONSECA, F.",
+          "periodico": "ECS TRANSACTIONS (ONLINE) , v. 45, p. 73-86, 2013.",
+          "doi": "http://dx.doi.org/10.1149/04523.0073ecst",
+          "citacao_completa": "MATOS, B. R. D. ; ANDRE DRESCH, M. ; INACIO SANTIAGO, E. ; LINARDI, M. ; ZANETTI DE FLORIO, D. ; CORAL FONSECA, F. . Nafion -Relaxation Dependence on Temperature and Relative Humidity Studied by Dielectric Spectroscopy. ECS TRANSACTIONS (ONLINE) , v. 45, p. 73-86, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Direct ethanol solid oxide fuel cell operating in gradual internal reforming",
+          "autores": "; Galesco, M.V. ; Girona, K. ; DE FLORIO, D.Z. ; Steil, M.C. ; Georges, S. ;",
+          "periodico": "Journal of Power Sources (Print) , v. 213, p. 156-159, 2012.",
+          "doi": "http://dx.doi.org/10.1016/j.jpowsour.2012.03.104",
+          "citacao_completa": "; Galesco, M.V. ; Girona, K. ; DE FLORIO, D.Z. ; Steil, M.C. ; Georges, S. ; . Direct ethanol solid oxide fuel cell operating in gradual internal reforming. Journal of Power Sources (Print) , v. 213, p. 156-159, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Nafion -Relaxation Dependence on Temperature and Relative Humidity Studied by Dielectric Spectroscopy",
+          "autores": "; ; SANTIAGO, E. I. ; LINARDI, M. ; DE FLORIO, D. Z. ;",
+          "periodico": "Journal of the Electrochemical Society , v. 160, p. F43-F48, 2012.",
+          "doi": "http://dx.doi.org/10.1149/2.057301jes",
+          "citacao_completa": "; ; SANTIAGO, E. I. ; LINARDI, M. ; DE FLORIO, D. Z. ; . Nafion -Relaxation Dependence on Temperature and Relative Humidity Studied by Dielectric Spectroscopy. Journal of the Electrochemical Society , v. 160, p. F43-F48, 2012."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Impedance spectroscopy study of the sintering of yttria-stabilized zirconia/magnesia composites",
+          "autores": "; de Florio, D. Z. ;",
+          "periodico": "Solid State Ionics (Print) , v. 180, p. 822-826, 2009.",
+          "doi": "http://dx.doi.org/10.1016/j.ssi.2009.02.010",
+          "citacao_completa": "; de Florio, D. Z. ; . Impedance spectroscopy study of the sintering of yttria-stabilized zirconia/magnesia composites. Solid State Ionics (Print) , v. 180, p. 822-826, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Master sintering curve for Gd-doped CeO2 solid electrolytes",
+          "autores": "de Florio, D. Z. ; Esposito, V. ; Traversa, E. ; ;",
+          "periodico": "Journal of Thermal Analysis and Calorimetry , v. 97, p. 143-147, 2009.",
+          "doi": "http://dx.doi.org/10.1007/s10973-009-0238-6",
+          "citacao_completa": "de Florio, D. Z. ; Esposito, V. ; Traversa, E. ; ; . Master sintering curve for Gd-doped CeO2 solid electrolytes. Journal of Thermal Analysis and Calorimetry , v. 97, p. 143-147, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Carbothermal reduction of the YSZ\"NiO solid oxide fuel cell anode precursor by carbon-based materials",
+          "autores": "; ; ; de Florio, D. Z. ;",
+          "periodico": "Journal of Thermal Analysis and Calorimetry , v. 97, p. 157-161, 2009.",
+          "doi": "http://dx.doi.org/10.1007/s10973-009-0248-4",
+          "citacao_completa": "; ; ; de Florio, D. Z. ; . Carbothermal reduction of the YSZ\"NiO solid oxide fuel cell anode precursor by carbon-based materials. Journal of Thermal Analysis and Calorimetry , v. 97, p. 157-161, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Characteristics and Performance of Electrolyte Supported Solid Oxide Fuel Cells under Ethanol and Hydrogen",
+          "autores": "de Florio, D. Z. ; ; ;",
+          "periodico": "Journal of the Electrochemical Society , v. 155, p. 232-235, 2008.",
+          "doi": "http://dx.doi.org/10.1149/1.2828024",
+          "citacao_completa": "de Florio, D. Z. ; ; ; . Characteristics and Performance of Electrolyte Supported Solid Oxide Fuel Cells under Ethanol and Hydrogen. Journal of the Electrochemical Society , v. 155, p. 232-235, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Synthesis and Electrical Characterization of the Ceramic Anode La1-xSrxMn0.5Cr0.5O3",
+          "autores": "; ; ; de Florio, D. Z.",
+          "periodico": "Journal of the Electrochemical Society , v. 155, p. 483-487, 2008.",
+          "doi": "http://dx.doi.org/10.1149/1.2885099",
+          "citacao_completa": "; ; ; de Florio, D. Z. . Synthesis and Electrical Characterization of the Ceramic Anode La1-xSrxMn0.5Cr0.5O3. Journal of the Electrochemical Society , v. 155, p. 483-487, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Síntese do Anodo cerâmico La1-xSrxCr0,5Mn0,5O3 pela Técnica dos Precursores Poliméricos",
+          "autores": "RAMOS, M P ; de Florio, D. Z. ;",
+          "periodico": "Matéria (UFRJ) , v. 12, p. 86-92, 2007.",
+          "doi": "",
+          "citacao_completa": "RAMOS, M P ; de Florio, D. Z. ; . Síntese do Anodo cerâmico La1-xSrxCr0,5Mn0,5O3 pela Técnica dos Precursores Poliméricos. Matéria (UFRJ) , v. 12, p. 86-92, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Direcionamentos da tecnologia industrial de células a combustível de óxidos sólidos",
+          "autores": "de Florio, D. Z. ; ; ; ;",
+          "periodico": "Química Nova (Impresso) , v. 30, p. 1339-1346, 2007.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ; ; ; . Direcionamentos da tecnologia industrial de células a combustível de óxidos sólidos. Química Nova (Impresso) , v. 30, p. 1339-1346, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Mixed ionic-electronic conductivity in yttria-stabilized zirconia/carbon nanotube composites",
+          "autores": "; ; de Florio, D. Z. ; ;",
+          "periodico": "APPLIED PHYSICS LETTERS , v. 91, p. 243107, 2007.",
+          "doi": "http://dx.doi.org/10.1063/1.2821373",
+          "citacao_completa": "; ; de Florio, D. Z. ; ; . Mixed ionic-electronic conductivity in yttria-stabilized zirconia/carbon nanotube composites. APPLIED PHYSICS LETTERS , v. 91, p. 243107, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Development and testing of anode-supported solid oxide fuel cells with slurry-coated electrolyte and cathode",
+          "autores": "; ; ; FRAÇA, Y V ; PORFIRIO, T C ; de Florio, D. Z. ; ;",
+          "periodico": "Journal of Power Sources , Amsterdam, v. 156, n.2, p. 455-460, 2006.",
+          "doi": "http://dx.doi.org/10.1016/j.jpowsour.2005.06.021",
+          "citacao_completa": "; ; ; FRAÇA, Y V ; PORFIRIO, T C ; de Florio, D. Z. ; ; . Development and testing of anode-supported solid oxide fuel cells with slurry-coated electrolyte and cathode. Journal of Power Sources , Amsterdam, v. 156, n.2, p. 455-460, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Mixed ionic-electronic YSZ/Ni composite for SOFC anodes with high electrical conductivity",
+          "autores": "; de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ;",
+          "periodico": "Journal of the Electrochemical Society , Pennington, v. 153, n.2, p. 354-360, 2006.",
+          "doi": "http://dx.doi.org/10.1149/1.2149312",
+          "citacao_completa": "; de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ; . Mixed ionic-electronic YSZ/Ni composite for SOFC anodes with high electrical conductivity. Journal of the Electrochemical Society , Pennington, v. 153, n.2, p. 354-360, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Chemical Vapor Deposition of Multi-Walled Carbon Nanotubes from Nickel/Yttria-Stabilized Zirconia Catalysts",
+          "autores": "; de Florio, D. Z. ; ; ESPOSITO, V ; TRAVERSA, E ; ;",
+          "periodico": "Applied Physics. A, Materials Science & Processing , New York, v. 84, n.3, p. 271-276, 2006.",
+          "doi": "http://dx.doi.org/10.1007/s00339-006-3617-x",
+          "citacao_completa": "; de Florio, D. Z. ; ; ESPOSITO, V ; TRAVERSA, E ; ; . Chemical Vapor Deposition of Multi-Walled Carbon Nanotubes from Nickel/Yttria-Stabilized Zirconia Catalysts. Applied Physics. A, Materials Science & Processing , New York, v. 84, n.3, p. 271-276, 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Preparation and Electrochemical Characterization of Perovskite/YSZ Ceramic Films",
+          "autores": "de Florio, D. Z. ; ; ESPOSITO, V ; BARTOLOMEO, E Di ; TRAVERSA, E",
+          "periodico": "Journal of the Electrochemical Society , Pennington, v. 152, n.1, p. 88-92, 2005.",
+          "doi": "http://dx.doi.org/10.1149/1.1824043",
+          "citacao_completa": "de Florio, D. Z. ; ; ESPOSITO, V ; BARTOLOMEO, E Di ; TRAVERSA, E . Preparation and Electrochemical Characterization of Perovskite/YSZ Ceramic Films. Journal of the Electrochemical Society , Pennington, v. 152, n.1, p. 88-92, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Densification and electrical conductivity of fast fired manganese-doped ceria ceramics",
+          "autores": "; CASTRO, R H R ; de Florio, D. Z. ; ;",
+          "periodico": "Materials Letters (General ed.) , Amsterdam, v. 59, n.10, p. 1195-1199, 2005.",
+          "doi": "http://dx.doi.org/10.1016/j.matlet.2004.12.027",
+          "citacao_completa": "; CASTRO, R H R ; de Florio, D. Z. ; ; . Densification and electrical conductivity of fast fired manganese-doped ceria ceramics. Materials Letters (General ed.) , Amsterdam, v. 59, n.10, p. 1195-1199, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Electrical properties of YSZ/NiO composites prepared by a liquid mixture technique",
+          "autores": "ESPOSITO, V ; de Florio, D. Z. ; ; ; ; TRAVERSA, E",
+          "periodico": "Journal of the European Ceramic Society , Oxford, v. 25, n.12, p. 2637-2641, 2005.",
+          "doi": "http://dx.doi.org/10.1016/j.jeurceramsoc.2005.03.116",
+          "citacao_completa": "ESPOSITO, V ; de Florio, D. Z. ; ; ; ; TRAVERSA, E . Electrical properties of YSZ/NiO composites prepared by a liquid mixture technique. Journal of the European Ceramic Society , Oxford, v. 25, n.12, p. 2637-2641, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Effect of boron oxide on the cubic-to-monoclinic phase transition in yttria-stabilized zirconia",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "Materials Research Bulletin , Oxford, v. 39, n.10, p. 1539-1548, 2004.",
+          "doi": "http://dx.doi.org/10.1016/j.materresbull.2004.04.017",
+          "citacao_completa": "de Florio, D. Z. ; . Effect of boron oxide on the cubic-to-monoclinic phase transition in yttria-stabilized zirconia. Materials Research Bulletin , Oxford, v. 39, n.10, p. 1539-1548, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Materiais Cerâmicos para Células a Combustível",
+          "autores": "de Florio, D. Z. ; ; ;",
+          "periodico": "Cerâmica , São Paulo, v. 50, n.316, p. 275-290, 2004.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ; ; . Materiais Cerâmicos para Células a Combustível. Cerâmica , São Paulo, v. 50, n.316, p. 275-290, 2004."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Sintering of Zirconia-Ytria Ceramics Studied by Impedance Spectroscopy",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "Solid State Ionics , Amsterdam, v. 123, n.1-4, p. 301-305, 1999.",
+          "doi": "http://dx.doi.org/10.1016/s0167-2738(99)00093-4",
+          "citacao_completa": "de Florio, D. Z. ; . Sintering of Zirconia-Ytria Ceramics Studied by Impedance Spectroscopy. Solid State Ionics , Amsterdam, v. 123, n.1-4, p. 301-305, 1999."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Métodos Experimentais em Engenharia",
+          "autores": "CONSONNI, D. ; TEIXEIRA, J. C. ; NOSE FILHO, K. ; DE FLORIO, D. Z.",
+          "periodico": "1. ed. Santo André: Editora UFABC, 2024. v. 1. 521p .",
+          "doi": "",
+          "citacao_completa": "CONSONNI, D. ; TEIXEIRA, J. C. ; NOSE FILHO, K. ; DE FLORIO, D. Z. . Métodos Experimentais em Engenharia. 1. ed. Santo André: Editora UFABC, 2024. v. 1. 521p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "The role of dopant on the defect chemistry of metal oxides",
+          "autores": "TINTI, V. B. ; KABIR, A. ; FLORIO, DANIEL ZANETTI DE ; ESPOSITO, V.",
+          "periodico": "In: Vijay Kumar, Sudipta Som, Vishal Sharma, Hendrik C. Swart. (Org.). Metal Oxide Defects Fundamentals, Design, Development and Applications. 1ed.: , 2023, v. , p. 313-.",
+          "doi": "http://dx.doi.org/10.1016/B978-0-323-85588-4.00010-6",
+          "citacao_completa": "TINTI, V. B. ; KABIR, A. ; FLORIO, DANIEL ZANETTI DE ; ESPOSITO, V. . The role of dopant on the defect chemistry of metal oxides. In: Vijay Kumar, Sudipta Som, Vishal Sharma, Hendrik C. Swart. (Org.). Metal Oxide Defects Fundamentals, Design, Development and Applications. 1ed.: , 2023, v. , p. 313-."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Characterization of Zirconia-India Ceramics Sintered by Spark Plasma",
+          "autores": "DE FLORIO, DANIEL Z. ; CORAL FONSECA, FABIO",
+          "periodico": "In: 219th ECS Meeting, 2011, Montreal. org.crossref.xschema._1.Title@73e52c1d. p. 1187.",
+          "doi": "http://dx.doi.org/10.1149/1.3570102",
+          "citacao_completa": "DE FLORIO, DANIEL Z. ; CORAL FONSECA, FABIO . Characterization of Zirconia-India Ceramics Sintered by Spark Plasma. In: 219th ECS Meeting, 2011, Montreal. org.crossref.xschema._1.Title@73e52c1d. p. 1187."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Nafion-Mesoporous Silica as Electrolyte for Ethanol Fuel Cells",
+          "autores": "AHMED, ZAKARYA ; DE MATOS, BRUNO R. ; DE FLORIO, DANIEL Z. ; LICOCCIA, SILVIA ; TRAVERSA, ENRICO ; ESPOSITO, VINCENZO ; SANTIAGO, ELISABETE I. ; FONESCA, FABIO FONSECA C.",
+          "periodico": "In: 216th ECS Meeting, 2009, Vienna. ECS Transactions. v. 25. p. 853-860.",
+          "doi": "http://dx.doi.org/10.1149/1.3210639",
+          "citacao_completa": "AHMED, ZAKARYA ; DE MATOS, BRUNO R. ; DE FLORIO, DANIEL Z. ; LICOCCIA, SILVIA ; TRAVERSA, ENRICO ; ESPOSITO, VINCENZO ; SANTIAGO, ELISABETE I. ; FONESCA, FABIO FONSECA C. . Nafion-Mesoporous Silica as Electrolyte for Ethanol Fuel Cells. In: 216th ECS Meeting, 2009, Vienna. ECS Transactions. v. 25. p. 853-860."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Ethanol Fuelled SOFC with ZnO Addition in the Anode",
+          "autores": "DE FLORIO, DANIEL Z. ; TABUTI, FRANCISCO N. ; FONSECA, FABIO C. ; MUCCILLO, REGINALDO",
+          "periodico": "In: 216th ECS Meeting, 2009, Vienna. ECS Transactions. v. 25. p. 1079-1084.",
+          "doi": "http://dx.doi.org/10.1149/1.3205634",
+          "citacao_completa": "DE FLORIO, DANIEL Z. ; TABUTI, FRANCISCO N. ; FONSECA, FABIO C. ; MUCCILLO, REGINALDO . Ethanol Fuelled SOFC with ZnO Addition in the Anode. In: 216th ECS Meeting, 2009, Vienna. ECS Transactions. v. 25. p. 1079-1084."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Characteristics and Performance of Electrolyte Supported Single Solid Oxide Fuel Cells using Ethanol and Hydrogen",
+          "autores": "ZANETTI DE FLORIO, DANIEL ; FONSECA, FABIO CORAL C. ; MUCCILLO, ELIANA N. ; MUCCILLO, REGINALDO",
+          "periodico": "In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 757-762.",
+          "doi": "http://dx.doi.org/10.1149/1.2729163",
+          "citacao_completa": "ZANETTI DE FLORIO, DANIEL ; FONSECA, FABIO CORAL C. ; MUCCILLO, ELIANA N. ; MUCCILLO, REGINALDO . Characteristics and Performance of Electrolyte Supported Single Solid Oxide Fuel Cells using Ethanol and Hydrogen. In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 757-762."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Synthesis and Electrical Characterization of the Ceramic Anode La1-xSrxMn0.5Cr0.5O3",
+          "autores": "FONSECA, FABIO CORAL C. ; DE FLORIO, DANIEL Z. ; MUCCILLO, ELIANA N. ; MUCCILLO, REGINALDO",
+          "periodico": "In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 1623-1630.",
+          "doi": "http://dx.doi.org/10.1149/1.2729270",
+          "citacao_completa": "FONSECA, FABIO CORAL C. ; DE FLORIO, DANIEL Z. ; MUCCILLO, ELIANA N. ; MUCCILLO, REGINALDO . Synthesis and Electrical Characterization of the Ceramic Anode La1-xSrxMn0.5Cr0.5O3. In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 1623-1630."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Ceramic Protonic Electrolyte Supported Fuel Cell for Operation with Methane and Ethanol",
+          "autores": "MUCCILLO, REGINALDO ; OLIVEIRA, OLAVO R. ; DOS SANTOS, ELIEL ; DE FLORIO, DANIEL Z. ; FONSECA, FABIO CORAL C. ; MUCCILLO, ELIANA N.",
+          "periodico": "In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 2299-2304.",
+          "doi": "http://dx.doi.org/10.1149/1.2729348",
+          "citacao_completa": "MUCCILLO, REGINALDO ; OLIVEIRA, OLAVO R. ; DOS SANTOS, ELIEL ; DE FLORIO, DANIEL Z. ; FONSECA, FABIO CORAL C. ; MUCCILLO, ELIANA N. . Ceramic Protonic Electrolyte Supported Fuel Cell for Operation with Methane and Ethanol. In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 2299-2304."
+        },
+        {
+          "ano": 2093,
+          "titulo": "Fabrication of Ce1-xGdxO2-0.5x Electrolytes with Tunable Dense Microstructures for IT-SOFC Applications",
+          "autores": "ESPOSITO, VINCENZO ; FONSECA, FABIO CORAL C. ; DE FLORIO, DANIEL Z. ; ZUNIC, MILAN ; MUCCILLO, REGINALDO ; TRAVERSA, ENRICO",
+          "periodico": "In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 2093-2101.",
+          "doi": "http://dx.doi.org/10.1149/1.2729323",
+          "citacao_completa": "ESPOSITO, VINCENZO ; FONSECA, FABIO CORAL C. ; DE FLORIO, DANIEL Z. ; ZUNIC, MILAN ; MUCCILLO, REGINALDO ; TRAVERSA, ENRICO . Fabrication of Ce1-xGdxO2-0.5x Electrolytes with Tunable Dense Microstructures for IT-SOFC Applications. In: 10th International Symposium on Solid Oxide Fuel Cells (SOFCX), 2007, Nara. ECS Transactions. v. 7. p. 2093-2101."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Electrochemical Impedance Studies of Perovskite/YSZ Ceramic Films",
+          "autores": "de Florio, D. Z. ; ESPOSITO, V ; SAVO, G ; BARTOLOMEO, E Di ; TRAVERSA, E",
+          "periodico": "In: 203th Meeting of the Electrochemical Society, 2003, Paris. Solid Oxide Fuel Cells (SOFC VIII). Pennington: The Electrochemical Society, Inc., 2003. v. 8. p. 488-497.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ESPOSITO, V ; SAVO, G ; BARTOLOMEO, E Di ; TRAVERSA, E . Electrochemical Impedance Studies of Perovskite/YSZ Ceramic Films. In: 203th Meeting of the Electrochemical Society, 2003, Paris. Solid Oxide Fuel Cells (SOFC VIII). Pennington: The Electrochemical Society, Inc., 2003. v. 8. p. 488-497."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Atomic Force Microscopy Study of Zirconia-Yttria Ceramics",
+          "autores": "de Florio, D. Z. ; PIZZO, A M ; SALVADORI, M C ; ;",
+          "periodico": "In: 14° Congresso Brasileiro de Engenharia e Ciência dos Materiais - 7° Congresso Brasileiro de Microscopia de Materiais, 2000, São Pedro. Acta Microscopica. São Carlos: Suprema, 2000. v. 9A. p. 99-100.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; PIZZO, A M ; SALVADORI, M C ; ; . Atomic Force Microscopy Study of Zirconia-Yttria Ceramics. In: 14° Congresso Brasileiro de Engenharia e Ciência dos Materiais - 7° Congresso Brasileiro de Microscopia de Materiais, 2000, São Pedro. Acta Microscopica. São Carlos: Suprema, 2000. v. 9A. p. 99-100."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Impedance Spectroscopy Studies of Zirconia-Yttria Ceramics During Sintering",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "In: 4th International Symposium on Electrochemical Impedance Spectroscopy, 1998, Angra dos Reis. 4th International Symposium on Electrochemical Impedance Spectroscopy (Proceedings), 1998. p. 157-158.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; . Impedance Spectroscopy Studies of Zirconia-Yttria Ceramics During Sintering. In: 4th International Symposium on Electrochemical Impedance Spectroscopy, 1998, Angra dos Reis. 4th International Symposium on Electrochemical Impedance Spectroscopy (Proceedings), 1998. p. 157-158."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2008,
+          "titulo": "ZINC OXIDE ADDITION IN SOLID OXIDE FUEL CELL ANODES",
+          "autores": "de Florio, D. Z. ; ;",
+          "periodico": "In: 2nd International Congress on Ceramics, 2008, Verona. ?, 2008.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ; . ZINC OXIDE ADDITION IN SOLID OXIDE FUEL CELL ANODES. In: 2nd International Congress on Ceramics, 2008, Verona. ?, 2008."
+        },
+        {
+          "ano": 2000,
+          "titulo": "ATOMIC FORCE MICROSCOPY STUDY OF ZIRCONIA-YTTRIA CERAMICS",
+          "autores": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ;",
+          "periodico": "In: 14° CBECiMat - 7° MICROMAT, 2000, São Pedro. Acta Microscópica - Interamerican Committee of Societies for Electron Microscopy, 2000. v. 9. p. 99-100.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ; . ATOMIC FORCE MICROSCOPY STUDY OF ZIRCONIA-YTTRIA CERAMICS. In: 14° CBECiMat - 7° MICROMAT, 2000, São Pedro. Acta Microscópica - Interamerican Committee of Societies for Electron Microscopy, 2000. v. 9. p. 99-100."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2007,
+          "titulo": "Base Experimental das Ciências Naturais: interdisciplinaridade e realização de projetos no ensino de ciências",
+          "autores": "MELLO, P M ; NOMURA, C S ; de Florio, D. Z. ; SUFFREDINI, H B ; GAUBEUR, I ; FIORITO, P A ; DANTONI, P",
+          "periodico": "In: II Seminário Internacional 'Inovações e Qualidade no Ensino Superior, 2007, São Paulo. ?, 2007.",
+          "doi": "",
+          "citacao_completa": "MELLO, P M ; NOMURA, C S ; de Florio, D. Z. ; SUFFREDINI, H B ; GAUBEUR, I ; FIORITO, P A ; DANTONI, P . Base Experimental das Ciências Naturais: interdisciplinaridade e realização de projetos no ensino de ciências. In: II Seminário Internacional 'Inovações e Qualidade no Ensino Superior, 2007, São Paulo. ?, 2007."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Espectroscopia de Impedância In Situ de Cerâmicas de Zircônia-Ítria",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "In: 41° CONGRESSO BRASILEIRO DE CERÂMICA, 1997. Cerâmica (São Paulo. Impresso). São Paulo: ABC. v. 44. p. 08-08.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; . Espectroscopia de Impedância In Situ de Cerâmicas de Zircônia-Ítria. In: 41° CONGRESSO BRASILEIRO DE CERÂMICA, 1997. Cerâmica (São Paulo. Impresso). São Paulo: ABC. v. 44. p. 08-08."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Thermal Ageing of ZrO2: 8 mol% Y2O3 Solid Electrolytes",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "In: 39° CONGRESSO BRASILEIRO DE CERÂMICA, 1995. Cerâmica.",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; . Thermal Ageing of ZrO2: 8 mol% Y2O3 Solid Electrolytes. In: 39° CONGRESSO BRASILEIRO DE CERÂMICA, 1995. Cerâmica."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2009,
+          "titulo": "Ethanol Fuelled SOFC with ZnO Addition in the Anode",
+          "autores": "de Florio, D. Z. ; TABUTI, F. N. ; ;",
+          "periodico": "2009. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; TABUTI, F. N. ; ; . Ethanol Fuelled SOFC with ZnO Addition in the Anode. 2009. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Master Sintering Curve for CeO2-based Solid Electrolytes",
+          "autores": "de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ; . Master Sintering Curve for CeO2-based Solid Electrolytes. 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "14° International Congress on Thermal Analysis and Calorimetry / VI Brazilian Congress on Thermal Analysis and Calorimetry",
+          "autores": "de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ESPOSITO, V ; TRAVERSA, E ; ; . 14° International Congress on Thermal Analysis and Calorimetry / VI Brazilian Congress on Thermal Analysis and Calorimetry. 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Effects of anode composition on the behavior of direct ethanol solid oxide fuel cell",
+          "autores": "de Florio, D. Z. ; ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ; ; . Effects of anode composition on the behavior of direct ethanol solid oxide fuel cell. 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "ZINC OXIDE ADDITION IN SOLID OXIDE FUEL CELL ANODES",
+          "autores": "de Florio, D. Z. ; ;",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; ; . ZINC OXIDE ADDITION IN SOLID OXIDE FUEL CELL ANODES. 2008. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Effect of boron oxide addition on sintering zirconia-yttria ceramics",
+          "autores": "de Florio, D. Z. ;",
+          "periodico": "2002. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; . Effect of boron oxide addition on sintering zirconia-yttria ceramics. 2002. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Determinação de parâmetros microestruturais por microscopia de força atômica em cerâmicas policristalinas de zircônia-ítria",
+          "autores": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ;",
+          "periodico": "2001. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ; . Determinação de parâmetros microestruturais por microscopia de força atômica em cerâmicas policristalinas de zircônia-ítria. 2001. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2000,
+          "titulo": "ATOMIC FORCE MICROSCOPY STUDY OF ZIRCONIA-YTTRIA CERAMICS",
+          "autores": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ;",
+          "periodico": "2000. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. ; SALVADORI, M. C. ; Pizzo, A. M. ; . ATOMIC FORCE MICROSCOPY STUDY OF ZIRCONIA-YTTRIA CERAMICS. 2000. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Universidade Federal do ABC paulista",
+          "autores": "de Florio, D. Z.",
+          "periodico": "2011. (Programa de rádio ou TV/Entrevista).",
+          "doi": "",
+          "citacao_completa": "de Florio, D. Z. . Universidade Federal do ABC paulista. 2011. (Programa de rádio ou TV/Entrevista)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Advanced Materials Research",
+          "autores": "DE FLORIO, D. Z. ; ; ; MUCCILLO, R.",
+          "periodico": "2014. (Editoração/Periódico).",
+          "doi": "",
+          "citacao_completa": "DE FLORIO, D. Z. ; ; ; MUCCILLO, R. . Advanced Materials Research. 2014. (Editoração/Periódico)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Nanotechnology Applied to Fuel Cells",
+          "autores": "DE FLORIO, D.Z.",
+          "periodico": "2011. (Curso de curta duração ministrado/Outra).",
+          "doi": "",
+          "citacao_completa": "DE FLORIO, D.Z. . Nanotechnology Applied to Fuel Cells. 2011. (Curso de curta duração ministrado/Outra)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "Nanofios: um estudo da estabilidade de nanoestruturas do TiO2",
+          "membros": "DALPIAN, G. M.; ; FILETI, T. V. M.",
+          "candidato": "Fernando Steffler",
+          "citacao_completa": "DALPIAN, G. M.; ; FILETI, T. V. M.. Participação em banca de Fernando Steffler. Nanofios: um estudo da estabilidade de nanoestruturas do TiO2. 2013. Dissertação (Mestrado em Nanociências e Materiais Avançados) - Universidade Federal do ABC."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Desenvolvimento de condutores protônicos cerâmicos para operação de células a combustível de óxido sólido com combustíveis metano e hidrogênio",
+          "membros": "; de Florio, D. Z. ; Martinelli, J. R.",
+          "candidato": "Olavo Rodrigues de Oliveira",
+          "citacao_completa": "; de Florio, D. Z. ; Martinelli, J. R.. Participação em banca de Olavo Rodrigues de Oliveira. Desenvolvimento de condutores protônicos cerâmicos para operação de células a combustível de óxido sólido com combustíveis metano e hidrogênio. 2009. Dissertação (Mestrado em Tecnologia Nuclear) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Síntese e caracterização do lantânio beta alumina",
+          "membros": "; de Florio, D. Z. ; Toffoli, S. M.",
+          "candidato": "Gustavo Carneiro Cardoso da Costa",
+          "citacao_completa": "; de Florio, D. Z. ; Toffoli, S. M.. Participação em banca de Gustavo Carneiro Cardoso da Costa. Síntese e caracterização do lantânio beta alumina. 2005. Dissertação (Mestrado em Tecnologia Nuclear) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Modificação da energia de superfície em nano-óxidos do sistema SnO2-TiO2 preparados por síntese química",
+          "membros": "GOUVEA, D.; SANTILLI, C. V.; CASTRO, R. H. R. D.; de Florio, D. Z. ; PEREIRA, G. J.",
+          "candidato": "Joice Miagava",
+          "citacao_completa": "GOUVEA, D.; SANTILLI, C. V.; CASTRO, R. H. R. D.; de Florio, D. Z. ; PEREIRA, G. J.. Participação em banca de Joice Miagava. Modificação da energia de superfície em nano-óxidos do sistema SnO2-TiO2 preparados por síntese química. 2015. Tese (Doutorado em Engenharia Metalúrgica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Síntese e Aplicações do SrTiO3 na Fotodecomposição da Água para a Geração de Hidrogênio",
+          "membros": "Leite, E. R.; Nogueira, A. F.; ; Camargo, E. R.; Izumi, C. M. S.",
+          "candidato": "Antônio Narcisio Pinheiro",
+          "citacao_completa": "Leite, E. R.; Nogueira, A. F.; ; Camargo, E. R.; Izumi, C. M. S.. Participação em banca de Antônio Narcisio Pinheiro. Síntese e Aplicações do SrTiO3 na Fotodecomposição da Água para a Geração de Hidrogênio. 2014. Tese (Doutorado em Química) - Universidade Federal de São Carlos."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Síntese e caracterização de filmes finos a base de imidas aromáticas",
+          "membros": "Brochsztain, S.; ; Souza, F. L.; Politi, M. J.; Demets, G. J. -F.",
+          "candidato": "Barbara Perez Gonçalves Silva",
+          "citacao_completa": "Brochsztain, S.; ; Souza, F. L.; Politi, M. J.; Demets, G. J. -F.. Participação em banca de Barbara Perez Gonçalves Silva. Síntese e caracterização de filmes finos a base de imidas aromáticas. 2014. Tese (Doutorado em Energia) - Universidade Federal do ABC."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Síntese e caracterização de nanocatalisadores de ZrO2-CeO2/Ni para aplicação em ânodos de células a combustível de óxido sólido",
+          "membros": "Fantini, M. C. A.; Santos, A. D.; de Florio, D. Z. ; Brito, G. E. S.;",
+          "candidato": "Rebeca Bacai",
+          "citacao_completa": "Fantini, M. C. A.; Santos, A. D.; de Florio, D. Z. ; Brito, G. E. S.; . Participação em banca de Rebeca Bacai. Síntese e caracterização de nanocatalisadores de ZrO2-CeO2/Ni para aplicação em ânodos de células a combustível de óxido sólido. 2014. Tese (Doutorado em Física) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Estudo e Aplicações de Nanomateriais Multifuncionais: Propriedades de Transporte de Nanotubos de Titanato e Novos Materiais Baseados em Óxido de Grafeno",
+          "membros": "",
+          "candidato": "Diego Carvalho Barbosa Alves",
+          "citacao_completa": ". Participação em banca de Diego Carvalho Barbosa Alves. Estudo e Aplicações de Nanomateriais Multifuncionais: Propriedades de Transporte de Nanotubos de Titanato e Novos Materiais Baseados em Óxido de Grafeno. 2013. Tese (Doutorado em Física) - Universidade Federal de Minas Gerais."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Influência da adição de ânions cloreto, fluoreto e sulfato nas propriedades físico-químicas da zircônia sintetizada pelo método Pechini",
+          "membros": "Diaz, F. R. V.; Muccillo, E. N. S.; ; Toffoli, S. M.; Pereira, G. J.",
+          "candidato": "José Marcos Stelzer Entringer",
+          "citacao_completa": "Diaz, F. R. V.; Muccillo, E. N. S.; ; Toffoli, S. M.; Pereira, G. J.. Participação em banca de José Marcos Stelzer Entringer. Influência da adição de ânions cloreto, fluoreto e sulfato nas propriedades físico-químicas da zircônia sintetizada pelo método Pechini. 2012. Tese (Doutorado em Engenharia Metalúrgica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Desenvolvimento de cerâmicas texturizadas de titanato de bismuto puro e dopado com nióbio",
+          "membros": "Varela, J. A.; Cilense, M.; Mastelaro, V. R.; de Florio, D. Z. ; Muccillo, E. N. S.",
+          "candidato": "Ederson Carlos de Aguiar",
+          "citacao_completa": "Varela, J. A.; Cilense, M.; Mastelaro, V. R.; de Florio, D. Z. ; Muccillo, E. N. S.. Participação em banca de Ederson Carlos de Aguiar. Desenvolvimento de cerâmicas texturizadas de titanato de bismuto puro e dopado com nióbio. 2009. Tese (Doutorado em Química) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Composite polymeric electrolytes for proton exchange membranes fuel cells (PEMFCs)",
+          "membros": "Traversa, E.; Panero, S.; de Florio, D. Z.",
+          "candidato": "Zakarya Ahmed",
+          "citacao_completa": "Traversa, E.; Panero, S.; de Florio, D. Z. . Participação em banca de Zakarya Ahmed. Composite polymeric electrolytes for proton exchange membranes fuel cells (PEMFCs). 2008. Tese (Doutorado em Materiali per l'Ambiente e l'Energia) - Università degli Studi di Roma Tor Vergata."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Fabrication and testing of anode supported IT-SOFCs based on doped LaGaO3 electrolyte films prepared by electrophoretic deposition",
+          "membros": "Traversa, E.; Panero, S.; de Florio, D. Z.",
+          "candidato": "Francesco Bozza",
+          "citacao_completa": "Traversa, E.; Panero, S.; de Florio, D. Z. . Participação em banca de Francesco Bozza. Fabrication and testing of anode supported IT-SOFCs based on doped LaGaO3 electrolyte films prepared by electrophoretic deposition. 2008. Tese (Doutorado em Materiali per l'Ambiente e l'Energia) - Università degli Studi di Roma Tor Vergata."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Estudos de eletrólitos sólidos cerâmicos à base de óxido de zircônio para detecção de oxigênio",
+          "membros": "; Toffoli, S. M.; Carvalho, F. M. S.; Varela, J. A.; de Florio, D. Z.",
+          "candidato": "Érica Caproni",
+          "citacao_completa": "; Toffoli, S. M.; Carvalho, F. M. S.; Varela, J. A.; de Florio, D. Z. . Participação em banca de Érica Caproni. Estudos de eletrólitos sólidos cerâmicos à base de óxido de zircônio para detecção de oxigênio. 2007. Tese (Doutorado em Tecnologia Nuclear) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "?",
+          "membros": "Gouvêa, D.; de Florio, D. Z. ; Pereira, G. J.",
+          "candidato": "Deise Cristina Carvalho do Rosario",
+          "citacao_completa": "Gouvêa, D.; de Florio, D. Z. ; Pereira, G. J.. Participação em banca de Deise Cristina Carvalho do Rosario. ?. 2015. Exame de qualificação (Doutorando em Engenharia Metalúrgica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Modificação da Energia de Superfície em Nano-óxidos Isovalentes Preparados por Síntese Química",
+          "membros": "D. Gouvêa; ; Silva, G. F. B. L.",
+          "candidato": "Joice Miagava",
+          "citacao_completa": "D. Gouvêa; ; Silva, G. F. B. L.. Participação em banca de Joice Miagava. Modificação da Energia de Superfície em Nano-óxidos Isovalentes Preparados por Síntese Química. 2013. Exame de qualificação (Doutorando em Engenharia Metalúrgica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Síntese e caracterização de novos materiais a base de 4-amino-1,8-naftalimidas",
+          "membros": "",
+          "candidato": "Barbara Perez Gonçalves Silva",
+          "citacao_completa": ". Participação em banca de Barbara Perez Gonçalves Silva. Síntese e caracterização de novos materiais a base de 4-amino-1,8-naftalimidas. 2013. Exame de qualificação (Doutorando em Energia) - Universidade Federal do ABC."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "Desenvolvimento e caracterização de condutores protônicos para sensoriamento de hidrogênio, utilizando técnicas de análises como microscopia e DRX",
+          "membros": "",
+          "candidato": "Thiago Rodrigues",
+          "citacao_completa": ". Participação em banca de Thiago Rodrigues. Desenvolvimento e caracterização de condutores protônicos para sensoriamento de hidrogênio, utilizando técnicas de análises como microscopia e DRX. 2013. Exame de qualificação (Mestrando em Nanociências e Materiais Avançados) - Universidade Federal do ABC."
+        },
+        {
+          "ano": 2013,
+          "titulo": "AMPLIFICADORES ÓPTICOS BASEADOS EM FIBRAS ÓPTICAS MICROESTRUTURADAS DE VIDROS DE TELURITOS DOPADOS COM TERRAS RARAS",
+          "membros": "; Yoshimura, H. N.; Callegari, F. A.",
+          "candidato": "Mariana Fatobene Ando",
+          "citacao_completa": "; Yoshimura, H. N.; Callegari, F. A.. Participação em banca de Mariana Fatobene Ando. AMPLIFICADORES ÓPTICOS BASEADOS EM FIBRAS ÓPTICAS MICROESTRUTURADAS DE VIDROS DE TELURITOS DOPADOS COM TERRAS RARAS. 2013. Exame de qualificação (Mestrando em Nanociências e Materiais Avançados) - Universidade Federal do ABC."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estudos das propriedades magnetoelétricas de compostos Eu1-xBaxTiO3",
+          "membros": "",
+          "candidato": "Marcio Sena Curvello",
+          "citacao_completa": ". Participação em banca de Marcio Sena Curvello. Estudos das propriedades magnetoelétricas de compostos Eu1-xBaxTiO3. 2012. Exame de qualificação (Mestrando em Nanociências e Materiais Avançados) - Universidade Federal do ABC."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Modificação da energia de superfície em nano-óxidos isovalentes preparados por síntese química",
+          "membros": "de Florio, D. Z. ; Gouvêa, D.; Diaz, F. R. V.",
+          "candidato": "Joice Miagava",
+          "citacao_completa": "de Florio, D. Z. ; Gouvêa, D.; Diaz, F. R. V.. Participação em banca de Joice Miagava. Modificação da energia de superfície em nano-óxidos isovalentes preparados por síntese química. 2011. Exame de qualificação (Mestrando em Engenharia Metalúrgica) - Universidade de São Paulo."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2009,
+          "titulo": "Pontes, L. R. A.; ; . Comissção Examinadora do Concurso Público de Provas e Títulos para o Cargo de Professor do 3º Grau",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Pontes, L. R. A.; ; . Comissção Examinadora do Concurso Público de Provas e Títulos para o Cargo de Professor do 3º Grau do Quadro Permanente de Pessoal da UFRN de acordo com os termos do Edital 029/2009-PRH, na área de Materiais Cerâmicos do Departamento de Engenharia de Materiais.. 2009. Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2008,
+          "titulo": "; ; Toffoli, S. M.. Presidente da Banca de Examinadores do concurso público para a carrera de Magistério do Ensino Super",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; Toffoli, S. M.. Presidente da Banca de Examinadores do concurso público para a carrera de Magistério do Ensino Superior a que se refere o Edital nº 22/UFABC/2008, publicado no Diário Oficial da União em 27 de junho de 2008, na área de Ciência e Engenharia de Cerâmicas, no período de 20 a 22 de outubro de 2008.. 2008. Universidade Federal do ABC."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Honório, K. M.; Bacci, D. L. C.; Boggiani, P. C.; Figueiroa, S. F. M.; . Comissão Julgadora do concurso público de prova",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Honório, K. M.; Bacci, D. L. C.; Boggiani, P. C.; Figueiroa, S. F. M.; . Comissão Julgadora do concurso público de provas e títulos para provimento de um cargo de Professor Doutor, em Regime de Dedicação Integral à Docência e à Pesquisa (RDIDP), referência MS-3, no Curso de Licenciatura em Ciências da Natureza para o Ensino Fundamental, na Área Educação Ambiental em Ciências da Natureza. 2008. Universidade de São Paulo."
+        }
+      ]
+    }
+  ]
+}

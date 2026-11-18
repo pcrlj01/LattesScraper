@@ -1,0 +1,988 @@
+{
+  "name": "Marcela Rodrigues Machado",
+  "lattes_id": "0422967504080267",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "MACHADO, M.R. ; ; TELOLI, R. . Classification of operational wind turbine condition using graph neural networks. E-JOURNAL OF NONDESTRUCTIVE TESTING AND ULTRASONICS , v. 31, p. 1, 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES MACHADO, MARCELA ; SILVA RODRIGUES DE SOUSA, AMANDA ARYDA ; ; DE OLIVEIRA TELOLI, RAFAEL . Failure classification of wind turbine operational conditions using hybrid machine learning. Wind Energy Science , v. 11, p. 1057-1076, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5194/wes-11-1057-2026"
+        },
+        {
+          "texto": "BARBER, SARAH ; WANG, SHUN ; POZO, FRANCESC ; VIDAL, YOLANDA ; RODRIGUES MACHADO, MARCELA ; SILVA RODRIGUES DE SOUSA, AMANDA ARYDA ; ; ZHANG, XUKAI ; HU, YAO-TENG ; NOSHADRAVAN, ARASH ; VAROUXIS, THEODOROS ; ABDELHAK, MAHMOUD ; GHIASI, RAMIN ; MALEKJAFARIAN, ABDOLLAH . Fostering open science through a digital open innovation platform - structural health monitoring case study. Wind Energy Science , v. 11, p. 2801-2816, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.5194/wes-11-2801-2026"
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. . Enhancing vibration attenuation in offshore wind turbine with multiphysics mechanical metamaterial. ENERGY REPORTS , v. 13, p. 1780-1801, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.egyr.2025.01.003"
+        },
+        {
+          "texto": "SAHAF, M. ; R. MACHADO, MARCELA ; DUTKIEWICZ, M. . Convolutional autoencoder for on-demand parametric inverse design of local resonator geometry in wind turbine metastructure targeting vibration control. AI EDAM-ARTIFICIAL INTELLIGENCE FOR ENGINEERING DESIGN ANALYSIS AND MANUFACTURING , v. 39, p. 39:e24, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1017/S0890060425100139"
+        },
+        {
+          "texto": "; MACHADO, MARCELA ; MUKHOPADHYAY, T. . Wearable Metamaterials with Embodied Intelligence for Programmable Control of Human Limbs Tremor. Advanced Intelligent Systems , v. 1, p. e202500307, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1002/aisy.202500307"
+        },
+        {
+          "texto": "; MACHADO, M.R. ; DUTKIEWICZ, M. . Integrating Virtual Sensor Data Augmentation Into Machine Learning for Damage Quantification of Bolted Structures Under Assembly Uncertainty. Structural Control & Health Monitoring , v. 2025, p. 8030303, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1155/stc/8030303"
+        },
+        {
+          "texto": "; MACHADO, MARCELA R. ; DUTKIEWICZ, MACIEJ ; O. TELOLI, RAFAEL . Data-driven machine learning for pattern recognition and detection of loosening torque in bolted joints. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 46, p. 75, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-023-04628-6"
+        },
+        {
+          "texto": "; MACHADO, MARCELA R. . Experimental vibration dataset collected of a beam reinforced with masses under different health conditions. DATA IN BRIEF , v. 1, p. 110043, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.dib.2024.110043"
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. ; . Metamaterial-based vibration control for offshore wind turbines operating under multiple hazard excitation forces. RENEWABLE ENERGY , v. 223, p. 120056, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.renene.2024.120056"
+        },
+        {
+          "texto": "MACHADO, M. R. ; DUTKIEWICZ, M. . Enhancing broadband vibration suppression of a cable conductor using graded metamaterials. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 46, p. 190, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-04722-3"
+        },
+        {
+          "texto": "; Machado, Marcela Rodrigues ; . PyMLDA: A Python open-source code for Machine Learning Damage Assessment. Software Impacts , v. 19, p. 100628, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.simpa.2024.100628"
+        },
+        {
+          "texto": "DA N. GUENKA, T.S. ; MACHADO, M.R. ; SILVA, A.M.A. ; NUNES, M.A.A. . Freeze-cast porous Al2O3/MgO ceramics as potential acoustic sound absorption. APPLIED ACOUSTICS , v. 220, p. 109964, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.apacoust.2024.109964"
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. . Wind turbine vibration management: An integrated analysis of existing solutions, products, and Open-source developments. ENERGY REPORTS , v. 11, p. 3756-3791, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.egyr.2024.03.014"
+        },
+        {
+          "texto": "CASTELLO, DANIEL ALVES ; DE SOUSA, LUIZA FREIRE CESAR ; DA SILVA, GABRIEL LUCAS SOUSA ; Machado, Marcela Rodrigues . Bayesian model selection for structural damage identification: comparative analysis of marginal likelihood estimators. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 46, p. 492, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/s40430-024-05029-z"
+        },
+        {
+          "texto": "; ; MACHADO, M.R. ; DUTKIEWICZ, M. . Multiclass Supervised Machine Learning Algorithms Applied to Damage and Assessment Using Beam Dynamic Response. Journal of Vibration Engineering & Technologies , p. 1-20, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s42417-023-01072-7"
+        },
+        {
+          "texto": "; MACHADO, M.R. ; DEY, S. ; MUKHOPADHYAY, T. . Manipulating flexural waves to enhance the broadband vibration mitigation through inducing programmed disorder on smart rainbow metamaterials. APPLIED MATHEMATICAL MODELLING , v. 1, p. 1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.apm.2023.10.011"
+        },
+        {
+          "texto": "; MACHADO, MARCELA R. ; MUKHOPADHYAY, T. ; DEY, S. . Dynamic and wave propagation analysis of periodic smart beams coupled with resonant shunt circuits: passive property modulation. European Physical Journal-Special Topics , p. 1-17, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1140/epjs/s11734-022-00504-x"
+        },
+        {
+          "texto": "; MORAIS, M. V. G. ; MACHADO, MARCELA R. . Spectral Model of Offshore Wind Turbines and Vibration Control by Pendulum Tuned Mass Dampers. International Journal of Structural Stability and Dynamics , p. 1-18, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1142/S0219455422500535"
+        },
+        {
+          "texto": "DALLALI, MANEL ; KHALIJ, LEILA ; CONFORTO, EGLE ; DASHTI, ALIREZA ; GAUTRELET, CHRISTOPHE ; RODRIGUES MACHADO, MARCELA ; SOUZA DE CURSI, EDUARDO . Effect of geometric size deviation induced by machining on the vibration fatigue behavior of Ti-6Al-4V. FATIGUE & FRACTURE OF ENGINEERING MATERIALS & STRUCTURES , v. 1, p. 1-18, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1111/ffe.13699"
+        },
+        {
+          "texto": "MACHADO, MARCELA ; ; DEY, S. ; MUKHOPADHYAY, TANMOY . Bandgap manipulation of single and multi-frequency smart metastructures with random impedance disorder. Smart Materials and Structures , v. 1, p. 1, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1088/1361-665X/ac8ef9"
+        },
+        {
+          "texto": "SOARES FERNANDES, YANNE MARCELA ; RODRIGUES MACHADO, MARCELA ; DUTKIEWICZ, MACIEJ . The Spectral Approach of Love and Mindlin-Herrmann Theory in the Dynamical Simulations of the Tower-Cable Interactions under the Wind and Rain Loads. Energies , v. 15, p. 7725, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15207725"
+        },
+        {
+          "texto": "SANTOS, J. C. ; MORAIS, M. V. G. ; MACHADO, M. R. ; SILVA, R. S. Y. R. C. ; PALECHOR, E. U. L. ; DA SILVA, WELINGTON V. . Beam-like damage detection methodology using wavelet damage ratio and additional roving mass. FRATTURA E INTEGRITA STRUTTURALE , v. 16, p. 349-363, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3221/IGF-ESIS.62.25"
+        },
+        {
+          "texto": "BARRETO, L. S. ; MACHADO, M. R. ; SANTOS, J. C. ; ; KHALIJ, L. . Damage indices evaluation for one-dimensional guided wave-based structural health monitoring. Latin American Journal of Solids and Structures , v. 1, p. 1-10, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1590/1679-78256292"
+        },
+        {
+          "texto": "MACHADO, M.R. ; DOS SANTOS, J.M.C. . Effect and identification of parametric distributed uncertainties in longitudinal wave propagation. APPLIED MATHEMATICAL MODELLING , v. 1, p. 10.1016/j.apm.2, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.apm.2021.05.018"
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. ; MATT, C.F.T. ; CASTELLO, D.A. . Spectral model and experimental validation of hysteretic and aerodynamic damping in dynamic analysis of overhead transmission conductor. MECHANICAL SYSTEMS AND SIGNAL PROCESSING , v. 136, p. 106483, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.ymssp.2019.106483"
+        },
+        {
+          "texto": "MACHADO, MARCELA ; FABRO, ADRIANO ; . Spectral Element for Flexural Waves Control in Smart Material Beams with Single and Multiple Resonant Impedance Shunt Circuit. Journal of Computational and Nonlinear Dynamics , v. 1, p. 10.1115/1.4047389, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1115/1.4047389"
+        },
+        {
+          "texto": "GASPARETTO, V. E. L. ; MACHADO, M. R. ; CARNEIRO, S. H. S. . Experimental modal analysis of an aircraft wing prototype for SAE Aerodesign Competition. DYNA (MEDELLÍN) , v. 87, p. 100-110, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.15446/dyna.v87n214.75361"
+        },
+        {
+          "texto": "FERREIRA, A. C. ; ; ALBUQUERQUE, E. L. ; MACHADO, M.R. ; MORAIS, M. V. G. . $${mathscr {H}}$$-matrix acoustics BEM for vocal tract configuration optimization using genetic algorithms. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 42, p. 1-11, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s40430-020-02545-6"
+        },
+        {
+          "texto": "FREIRE, G. T. O. ; DUARTE, V. C. S. ; MACHADO, M. R. . Numerical identification of a linear oscillator stiffness using Bayesian inference and Markov chain Monte Carlo. REVISTA INTERDISCIPLINAR DE PESQUISA EM ENGENHARIA , v. 1, p. 1, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, G. ; MACHADO, M. R. ; DUTKIEWICZ, M. ; DOS SANTOS, J. M. C . Numerical analysis of wave propagation and vibration of overhead transmission cable. REVISTA INTERDISCIPLINAR DE PESQUISA EM ENGENHARIA , v. 1, p. 1, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "GAUTRELET, CHRISTOPHE ; KHALIJ, LEILA ; Machado, Marcela Rodrigues . Resonance track-and-dwell testing for crack length measurement on 304L stainless steel. Mechanics & Industry , v. 21, p. 617, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1051/meca/2020089"
+        },
+        {
+          "texto": "MACHADO, M. R. ; KHALIJ, L. ; FABRO, A. T. . Dynamic Analysis of a Composite Structure under Random Excitation Based on the Spectral Element Method. INTERNATIONAL JOURNAL OF NONLINEAR SCIENCES AND NUMERICAL SIMULATION , v. 1, p. 1-12, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1515/ijnsns-2018-0050"
+        },
+        {
+          "texto": "DUTKIEWICZ, MACIEJ ; MACHADO, MARCELA R. . Spectral Approach in Vibrations of Overhead Transmission Lines. IOP Conference Series: Materials Science and Engineering , v. 471, p. 052029, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1088/1757-899X/471/5/052029"
+        },
+        {
+          "texto": "DUTKIEWICZ, MACIEJ ; MACHADO, MARCELA R. . Dynamic Response of Overhead Transmission Line in Turbulent Wind Flow with Application of the Spectral Element Method. IOP Conference Series: Materials Science and Engineering , v. 471, p. 052031, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1088/1757-899X/471/5/052031"
+        },
+        {
+          "texto": "MACHADO, M. R. ; APPERT, A. ; KHALIJ, L. . Spectral formulated modelling of an electrodynamic shaker. MECHANICS RESEARCH COMMUNICATIONS , p. 1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.mechrescom.2019.04.014"
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M. R. . Spectral element method in the analysis of vibrations of overhead transmission line in damping environment. STRUCTURAL ENGINEERING AND MECHANICS , v. 71, p. 291-303, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.12989/sem.2019.71.3.291"
+        },
+        {
+          "texto": "DUTKIEWICZ, MACIEJ ; R. MACHADO, MARCELA . Measurements in Situ and Spectral Analysis of Wind Flow Effects on Overhead Transmission Lines. SOUND AND VIBRATION , v. 53, p. 161-175, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.32604/sv.2019.04803"
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; ; . Estimation of beam material random field properties via sensitivity-based model updating using experimental frequency response functions. MECHANICAL SYSTEMS AND SIGNAL PROCESSING , v. 102, p. 180-197, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.ymssp.2017.08.039"
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; . Spectral element-based method for aone-dimensional damaged structure with distributed random properties. Journal of the Brazilian Society of Mechanical Sciences and Engineering , v. 40, p. 415, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1007/s40430-018-1330-2"
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; . A spectral approach for damage quantification in stochastic dynamic systems. MECHANICAL SYSTEMS AND SIGNAL PROCESSING , v. 88, p. 253-273, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.ymssp.2016.11.018"
+        },
+        {
+          "texto": "MACHADO, M. R. ; V.S. Pereira ; D.I. G. Costa ; . DYNAMICS ANALYSIS OF 1D STRUCTURE INCLUDING RANDOM PARAMETER VIA FREQUENCY-DOMAIN STATE-VECTOR EQUATIONS. Revista Interdisciplinar de Pesquisa em Engenharia-RIPE , v. 2, p. 130-143, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, Elson César ; MACHADO, M. R. ; PEREIRA, Vilson Souza ; COSTA, D. I. G. ; DOS SANTOS, J. M. C . Analysis of acoustic waveguide through the energy spectral element method including parameters uncertainty. REVISTA INTERDISCIPLINAR DE PESQUISA EM ENGENHARIA , v. 2, p. 116-129, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . Reliability Analysis of Damaged Beam Spectral Element with Parameter Uncertainties. Shock and Vibration , v. 2015, p. 1-12, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1155/2015/574846"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "ALBUQUERQUE, G. G. S. B. ; R. MACHADO, MARCELA . Design of Passive Dynamic Absorbers to Attenuate Pathological Tremor of Human Upper Limb. Lecture Notes in Mechanical Engineering. 1ed.: Springer Nature Switzerland, 2025, v. , p. 271-285.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-71540-2_20"
+        },
+        {
+          "texto": "MACHADO, MARCELA R. ; DUTKIEWICZ, MACIEJ . Three-Dimensional Model of Wind Turbine NREL-Monopile 5 MW for Vibration Characterisation. Springer Proceedings in Physics. 1ed.: Springer Nature Switzerland, 2024, v. 302, p. 29-37.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-48087-4_4"
+        },
+        {
+          "texto": "DUTKIEWICZ, MACIEJ ; MACHADO, MARCELA R. ; . Application of Spectral Element Method and Machine Learning Technique in the Composite Concrete Beam Damage Prediction. Springer Proceedings in Physics. 1ed.: Springer Nature Switzerland, 2024, v. 302, p. 69-78.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-48087-4_8"
+        },
+        {
+          "texto": "PAIVA, G. O. ; QUEIROZ, M. ; MACHADO, MARCELA . Study of the Influence of Wood Mechanical Properties Variability on the Sound Synthesis of a Simplified String Instrument. In: Dimitrovová, Z., Biswas, P., Gonçalves, R., Silva, T.. (Org.). Recent Trends in Wave Mechanics and Vibrations. WMVC 2022. Mechanisms and Machine Science. 1ed.: Springer, 2023, v. 125, p. 890-899.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-15758-5_92"
+        },
+        {
+          "texto": "LOPES, I. ; MACHADO, M. R. . Modal Properties and Modal-Coupling in the Wind Turbines Vibrational Characteristics. In: Dimitrovová, Z., Biswas, P., Gonçalves, R., Silva, T.. (Org.). Recent Trends in Wave Mechanics and Vibrations. WMVC 2022. Mechanisms and Machine Science. 1ed.: Springer, 2023, v. 125, p. 259-266.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-15758-5_25"
+        },
+        {
+          "texto": "; ; MACHADO, M.R. ; DUTKIEWICZ, M. . Study of Machine Learning Techniques for Damage Identification in a Beam. In: Dimitrovová, Z., Biswas, P., Gonçalves, R., Silva, T.. (Org.). Recent Trends in Wave Mechanics and Vibrations. WMVC 2022. Mechanisms and Machine Science. 1ed.: , 2023, v. 125, p. 817-826.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-15758-5_84"
+        },
+        {
+          "texto": "; MACHADO, M.R. . Rainbow Smart Metamaterial to Improve Flexural Wave Isolation and Vibration Attenuation of a Beam. In: Dimitrovová, Z., Biswas, P., Gonçalves, R., Silva, T.. (Org.). Recent Trends in Wave Mechanics and Vibrations. WMVC 2022. Mechanisms and Machine Science. 1ed.: Springer, 2023, v. 125, p. 725-733.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-15758-5_74"
+        },
+        {
+          "texto": "Machado, Marcela Rodrigues ; ; ALVES, M. F. S. ; BILIO, C. C. A. ; CZARNEWSKI, L. D. . Simulação das características mecânicas do respirador antiviral N95 ? Vesta. In: Leite, Cicilia Raquel Maia., Fernandes, Luciana Alves., Rosa, Mário Fabrício Fleury., Silva, Mayla dos Santos., Binsfeld, Pedro Canisio., Campos, Sebastião Junio Menezes., Rosa, Suélia de Siqueira R. F.. (Org.). Livro Ecossistema de pesquisa, desenvolvimento e inovação tecnológica em saúde. 1ed.: 3TS, 2022, v. 1, p. 1-28.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M. R. . Spectral Approach of Reinforced Concrete Column Dynamics. In: Herisanu, N., Marinca, V.. (Org.). Acoustics and Vibration of Mechanical Structures ? AVMS-2021. Springer Proceedings in Physics,. 1ed.Switzerland: Springer Nature, 2022, v. 274, p. 308-318.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-96787-1_33"
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M. R. . Vibration Characterisation of a Damaged Cable by the Spectral Element Method.. In: Herisanu, N., Marinca, V.. (Org.). Acoustics and Vibration of Mechanical Structures ? AVMS-2021. Springer Proceedings in Physics,. 1ed.Switzerland: Springer Nature, 2022, v. 274, p. 329-337.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-96787-1_35"
+        },
+        {
+          "texto": "DUTKIEWICZ, MACIEJ ; MACHADO, MARCELA R. . Spectral Element Analysis of Non-stationary Wind Acting on Overhead Transmission Line. Springer Proceedings in Physics. 1ed.: Springer International Publishing, 2021, v. 251, p. 463-471.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-54136-1_47"
+        },
+        {
+          "texto": "FERNANDES, Y. M. S. ; MACHADO, M. R. ; DUTKIEWICZ, MACIEJ . Structural Dynamic Response of Coupling Between Transmission Line and Tower Under Random Excitation. Perspectives in Dynamical Systems III: Control and Stability. DSTA 2019. Springer Proceedings in Mathematics & Statistics. 1ed.Alemanha: Springer International Publishing, 2021, v. 364, p. 143-159.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/978-3-030-77314-4_12"
+        },
+        {
+          "texto": "ROSA, M. F. F. ; CHAVES, G. L. ; ALVES, M. M. ; MACHADO, M.R. . PESQUISA TRANSLACIONAL EM SAÚDE PARA O ENFRENTAMENTO DO COVID-19: desenvolvimento e produção do respirador VESTA como equipamento de proteção individual. In: Aldira Guimarães Duarte; Carlos F. Domínguez Avila. (Org.). A COVID-19 NO BRASIL: ciência, inovação tecnológica e políticas públicas. 1ed.Curitiba: Editora CRV, 2020, v. 1, p. 1-.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.24824/978655578433.6"
+        },
+        {
+          "texto": "Palechor, E. U. L. ; MACHADO, M. R. ; de Morais, M. V. G. ; BEZERRA, L. M. . Dynamic Analysis of a Beam with Additional Auxiliary Mass Spatial Via Spectral Element Method. Springer Proceedings in Mathematics & Statistics. 249ed.: Springer International Publishing, 2018, v. , p. 279-289.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-96601-4_25"
+        },
+        {
+          "texto": "Machado, Marcela Rodrigues ; Santos, Jose Maria Campos Dos . Damage Detection in an Energy Flow Model Including Parameter Uncertainty. Conference Proceedings of the Society for Experimental Mechanics Series. 7ed.New York: Springer New York, 2014, v. , p. 131-140.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1007/978-1-4614-6585-0_13"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; MACHADO, M.R. ; MUKHOPADHYAY, T. . Vibration control through a squared lattice with smart metamaterial. In: INTERNATIONAL SYMPOSIUM ON ENERGY HARVESTING DYNAMICS ? EHDS 2025, 2025, Lublin. INTERNATIONAL SYMPOSIUM ON ENERGY HARVESTING DYNAMICS, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M.R. . Piezoelectric Metamaterials for Tremor Suppression and Energy Harvesting. In: INTERNATIONAL SYMPOSIUM ON ENERGY HARVESTING DYNAMICS ? EHDS 2025, 2025, Lublin. INTERNATIONAL SYMPOSIUM ON ENERGY HARVESTING DYNAMICS, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M. R. ; TELOLI, R. . Integration of Multiple Sensors and Machine Learning Techniques for Structural Health Monitoring in CFRP Composites. In: International Conference on Structural Engineering Dynamics, 2025, Lisbon. International Conference on Structural Engineering Dynamics (ICEDyn), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, MACIEJ . Inverse design of acoustic programmable metamaterial beams based using deep learning. In: 9th European Congress on Computational Methods in Applied Sciences and Engineering, 2024, Lisbon. 9th European Congress on Computational Methods in Applied Sciences and Engineering, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M.R. ; DUTKIEWICZ, M. . Estimation of loosening torque in bolted joints from experimental data and regression models. In: International Conference on Recent Advances in Structural Dynamics (RASD), 2024, Southhampton. International Conference on Recent Advances in Structural Dynamics (RASD), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. ; MUKHOPADHYAY, T. ; DUTKIEWICZ, M. . Wave propagation in honeycomb lattices applied in wind turbine blade. In: International Conference on Recent Advances in Structural Dynamics (RASD), 2024, Southhampton. International Conference on Recent Advances in Structural Dynamics (RASD), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M.R. ; TELOLI, R. . STRUCTURAL MONITORING OF COMPOSITE CFRP PLATE UNDER TEMPERATURE VARIATION USING THE MACHINE LEARNING-PYMLDA CODE. In: 7 th Brazilian Conference on Composite Materials, 2024, Brasilia. 7 th Brazilian Conference on Composite Materials, 2024. v. 1. p. 1.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. ; . Inverse design of acoustic metamaterial-based vibration control for offshore wind turbines. In: 53rd International Congress & Exposition on Noise Control Engineering, 2024, Nantes. 53rd International Congress & Exposition on Noise Control Engineering. Nantes: Internoise2024, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA . Optmization of metastructure-based devices for for human tremor control. In: Encontrol Nacional de Engenharia Biomecânica, 2024, Gramado. Encontrol Nacional de Engenharia Biomecânica, 2024. v. 1. p. 1.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; MUKHOPADHYAY, T. . Designed honeycomb lattice for improving vibration control. In: 53rd International Congress & Exposition on Noise Control Engineering, 2024, Nantes. 53rd International Congress & Exposition on Noise Control Engineering, 2024. v. 1. p. 1.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; MUKHOPADHYAY, T. ; DEY, S. . Investigation of Synthetic Inductance for Resonant Shunt Circuit Applied to Vibration Control. In: IEEE 7th International Conference on Condition Assessment Techniques in Electrical Systems, 2024, Kolkata. 2024 IEEE 7th International Conference on Condition Assessment Techniques in Electrical Systems (CATCON), 2024. v. 1.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA . Tremor control in the arm of a Parkinson?s disease patient using piezoelectric beam meta-structure. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; DUTKIEWICZ, M. . Assessment of damage in a reinforced beam by k-nearest neighbor algorithm. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DUARTE, V. C. S. ; R. MACHADO, MARCELA . Parameter estimation in bolted joints by Bayesian inference. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; DUTKIEWICZ, M. . Bolt loosening detection based in data-driven of bolted beam connections by support vector machine method. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALBUQUERQUE, G. G. S. B. ; ; R. MACHADO, MARCELA . Comparison of passive dynamic absorbers in attenuating pathological tremor of human upper limb: an analytical approach. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA . Dynamic model of the human upper limb affected by Parkinson?s Disease: finite element approach. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; R. MACHADO, MARCELA ; SILVA, A. M. A. ; NUNES, M. A. A. . Acoustic characterization of porous ceramic produced via freeze-casting using DMSO as solvent. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. . Programmable metamaterials for human limb tremor suppression: advancements in attenuation and control. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; DUTKIEWICZ, M. . Torque loosening Detection in bolted joint Structure using Machine Learning Techniques. In: PCM CMM 2023 - 5th Polish Congress of Mechanics/ 25th International Conference on Computer Methods in Mechanics, 2023, Gliwice. PCM CMM 2023 - 5th Polish Congress of Mechanics/ 25th International Conference on Computer Methods in Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; R. MACHADO, MARCELA ; ; DUTKIEWICZ, M. . Assessment of damage in a beam reinforced with masses using supervised learning algorithm. In: PCM CMM 2023 - 5th Polish Congress of Mechanics/ 25th International Conference on Computer Methods in Mechanics, 2023, Gliwice. PCM CMM 2023 - 5th Polish Congress of Mechanics/ 25th International Conference on Computer Methods in Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ALBUQUERQUE, G. G. S. B. ; MACHADO, M.R. . Design of passive dynamic absorbers to attenuate pathological tremor of human upper limb. In: 27th COBEM ? International Congress of Mechanical Engineering, 2023, Florianópolis. 27th COBEM ? International Congress of Mechanical Engineering, 2023. v. 1. p. 1.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M.R. . A FRAMEWORK OF CANTILEVER BEAM FOR DAMAGE DETECTION USING ARTIFICIAL NEURAL NETWORKS. In: 27th COBEM ? International Congress of Mechanical Engineering, 2023, Florianópolis. 27th COBEM ? International Congress of Mechanical Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, MARCELA . Investigation of resonant shunt circuit connected piezoelectric path for low-frequency tuning. In: 27th COBEM ? International Congress of Mechanical Engineering, 2023, Florianópolis. 27th COBEM ? International Congress of Mechanical Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. ; DUTKIEWICZ, M. . USING METAMATERIAL TO CONTROL OFFSHORE WIND TURBINE VIBRATIONS. In: XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023, Porto - Portugal. XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M.R. . A HYBRID LEARNING MODEL FOR ASSESSMENT BEAM DAMAGE DETECTION. In: XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023, Porto - Portugal. XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M.R. ; . SPECTRAL METHOD AND MACHINE LEARNING APPROACH TO WIND TURBINE DAMAGE DETECTION. In: XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023, Porto - Portugal. XLIV Ibero-Latin American Congress on Computational Methods in Engineering, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, M. C. R. ; MACHADO, M.R. ; MUKHOPADHYAY, T. ; DEY, S. . Spectral element for vibration analysis of a honeycomb plate. In: XIX International Symposium on Dynamic Problems of Mechanics, 2023, Pirenópolis. Proceedings of the XIX International Symposium on Dynamic Problems of Mechanics, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Machado, Marcela Rodrigues ; DUTKIEWICZ, M. . STUDY OF MACHINE LEARNING TECHNIQUES FOR DAMAGE IDENTIFICATION IN A BEAM. In: The 10th international Conference on Wave Mechanics and Vibrations, 2022, Lisbon. The 10th international Conference on Wave Mechanics and Vibrations, 2022. v. 1. p. 1.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; Machado, Marcela Rodrigues . RAINBOW SMART METAMATERIAL TO IMPROVE FLEXURAL WAVE ISOLATION AND VIBRATION ATTENUATION OF A BEAM. In: The 10th international Conference on Wave Mechanics and Vibrations, 2022, Lisbon. The 10th international Conference on Wave Mechanics and Vibrations, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "LOPES, I. ; Machado, Marcela Rodrigues . MODAL PROPERTIES AND MODE-COUPLING INSTABILITY IN THE WIND TURBINES VIBRATIONAL CHARACTERISTICS. In: The 10th international Conference on Wave Mechanics and Vibrations, 2022, Lisbon. The 10th international Conference on Wave Mechanics and Vibrations, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PAIVA, G. O. ; QUEIROZ, M. ; Machado, Marcela Rodrigues . STUDY OF THE INFLUENCE OF WOOD MECHANICAL PROPERTIES VARIABILITY ON THE SOUND SYNTHESIS OF A SIMPLIFIED STRING INSTRUMENT. In: The 10th international Conference on Wave Mechanics and Vibrations, 2022, Lisbon. The 10th international Conference on Wave Mechanics and Vibrations, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DUARTE, V. C. S. ; Machado, Marcela Rodrigues . Parameter Estimation of Continuous Dynamical Systems Using Bayesian Inference. In: 8th International Symposium on Solid Mechanics, 2022, Campinda. 8th International Symposium on Solid Mechanics, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; Machado, Marcela Rodrigues ; SILVA, A. M. A. ; NUNES, M. A. A. . Investigação numérica da influência de diferentes parâmetros mecânicos sobre as propriedades acústicas de material cerâmico poroso. In: 12º Congresso Iberoamericano de Acústica, 2022, Florianopolis. 12º Congresso Iberoamericano de Acústica FIA SOBRAC, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; Machado, Marcela Rodrigues ; SILVA, A. M. A. ; NUNES, M. A. A. . Acoustic characterization of ceramic Al2O3/MgO samples produced via unidirectional freeze-casting. In: International Conference on Noise and Vibration Engineering, 2022, Lueven. International Conference on Noise and Vibration Engineering, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M. R. . VIBRATION CONTROL USING PIEZOELECTRIC CONNECTED WITH SHUNTS CIRCUITS. In: 14th World Congress in Computational Mechanics and ECCOMAS Congress - WCCM-ECCOMAS Congres, 2021, Paris. VIBRATION CONTROL USING PIEZOELECTRIC CONNECTED WITH SHUNTS CIRCUITS, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ALVES, M. F. S. ; BILIO, C. C. A. ; CZARNEWSKI, L. D. ; ; MACHADO, M.R. . Structural analysis of the nose clip from the antiviral filtering facepiece respirator N95 - VESTA. In: 26th International Congress of Mechanical Engineering, 2021, Florianópolis. 26th International Congress of Mechanical Engineering, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MACHADO, M.R. ; JORGE, A. B. . SPECTRAL MODEL AND VIBRATION ANALYSIS OF BEAMS CONNECTED BY BOLTS-JOINT. In: 26th International Congress of Mechanical Engineering, 2021, Florianópolis. 26th International Congress of Mechanical Engineering, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MACHADO, M.R. ; JORGE, A. B. . VIBRATION CHARACTERIZATION OF BEAMS RIVETED LAP JOINT USING SPECTRAL ELEMENT METHOD. In: 26th International Congress of Mechanical Engineering, 2021, Florianópolis. 26th International Congress of Mechanical Engineering, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; BORGES, M. C. R. ; MACHADO, M.R. . Smart beam coupled to piezoelectric resonant shunt vibration characterisation, control and bandgap generation. In: 26th International Congress of Mechanical Engineering, 2021, Florianópolis. 26th International Congress of Mechanical Engineering, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, M. C. R. ; ; MACHADO, M.R. . Design of tunable shunt rainbow trap smart beam for multi-frequency vibration attenuation. In: XLII Ibero-Latin-American Congress on Computational Methods in Engineering and III Pan-American Congress on Computational Mechanics, 2021, Rio de Janeiro. Proceedings of the joint XLII Ibero-Latin-American Congress on Computational Methods in Engineering and III Pan-American Congress on Computational Mechanics, ABMEC-IACM, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BILIO, C. C. A. ; BORGES, M. C. R. ; CZARNEWSKI, L. D. ; ; MACHADO, M.R. . Structural analysis of antiviral N95 filtering facepiece respirator VESTA. In: XLII Ibero-Latin-American Congress on Computational Methods in Engineering and III Pan-American Congress on Computational Mechanics, 2021, Rio de Janeiro. Proceedings of the joint XLII Ibero-Latin-American Congress on Computational Methods in Engineering and III Pan-American Congress on Computational Mechanics, ABMEC-IACM, 2021. v. 1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; MACHADO, MARCELA R. . Influence of a cracked rod in the dynamic of a planar slider-crank mechanism. In: 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Applications December 6-9, 2021, 2021, Lodz. 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Application, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, MARCELA R. ; DUTKIEWICZ, M. . Spectral analysis of chimney vibrations. In: 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Applications December 6-9, 2021, 2021, Lodz. 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Application, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, J. C. ; MACHADO, MARCELA R. ; VERNIERES-HASSIM, L. ; KHALIJ, L. . Vibration characterisation of a tubular chemical reactor. In: 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Applications December 6-9, 2021, 2021, Lodz. 16th INTERNATIONAL CONFERENCE Dynamical Systems Theory and Application, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. ; MIRANDA JUNIOR, E. J. P. ; DOS SANTOS, J. M. C . Analysis of phononic crystals with uncertainty in the parameters using extended plane wave expansion. In: 49th International Congress and Exposition on Noise Control Engineering, 2020, Seoul. 49th International Congress and Exposition on Noise Control Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; BORGES, M. C. R. ; MACHADO, M.R. . Vibration and wave propagation control in a smart metamaterial beam with periodic arrays of shunted piezoelectric patches. In: 49th International Congress and Exposition on Noise Control Engineering, 2020, Seoul. 49th International Congress and Exposition on Noise Control Engineering, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, T. P. E. ; MACHADO, M. R. ; KHALIJ, L. . Dynamic strain analysis using spectral element method. In: DINAME 2019 XV- International Symposium on Dynamic Problems of Mechanics, 2019, Buzios. Dynamic strain analysis using spectral element method, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; MIRANDA JUNIOR, E. J. P. ; DOS SANTOS, J. M. C . Analysis of 1D Phononic Crystals Rod with Uncertainty Parameters. In: 25th International Congress of Mechanical Engineering, 2019, Uberlandia. 25th International Congress of Mechanical Engineering, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; MACHADO, M. R. ; KHALIJ, L. . Comparison of FRF-Based Damage Indexes for Cracked Beam. In: 25th International Congress of Mechanical Engineering, 2019, Uberlandia. 25th International Congress of Mechanical Engineering, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "V. Sousa ; MACHADO, M. R. ; DUTKIEWICZ, M. . UNCERTAINTY MODELLING IN BOUNDARY CONDITION OF STRUCTURAL CABLE-STAYED BRIDGES. In: 25th International Congress of Mechanical Engineering, 2019, Uberlandia. 25th International Congress of Mechanical Engineering, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M. R. . ANALYSIS OF VIBRATION ATTENUATION IN A BEAM COUPLED WITH A PIEZOELECTRIC IN SHUNT CONFIGURATION USING THE SPECTRAL ELEMENT METHOD. In: 25th International Congress of Mechanical Engineering, 2019, Uberlandia. 25th International Congress of Mechanical Engineering, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, Y. M. S. ; MACHADO, M. R. ; DUTKIEWICZ, M. ; E.D. Nobrega . VIBRATIONAL ANALYSIS OF POWER TRANSMISSION TOWER BY SPECTRAL ELEMENT METHOD: A NUMERICAL VALIDATION. In: 25th International Congress of Mechanical Engineering, 2019, Uberlandia. 25th International Congress of Mechanical Engineering, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "DALLALI, M. ; GAUTRELET, C. ; KHALIJ, L. ; E. Conforto ; MACHADO, M. R. . Modal behaviorof Ti-6Al-4V specimen under high cycle fatigue.. In: Surveillance, Vishno and AVE conferences, 2019, Lyon. Surveillance, Vishno and AVE conferences, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; FABRO, A. T. ; . Flexural waves propagation in piezoelectric metamaterial beam. In: The International Conference 'Dynamical Systems ? Theory and Applications' (DSTA), 2019, Polonia. The International Conference \"Dynamical Systems ? Theory and Applications\" (DSTA), 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, Y. M. S. ; MACHADO, M. R. ; DUTKIEWICZ, M. . Structural dynamic response of the coupling between transmission lines and tower under random excitation. In: The International Conference 'Dynamical Systems ? Theory and Applications' (DSTA), 2019, Polonia. The International Conference \"Dynamical Systems ? Theory and Applications\" (DSTA), 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; APPERT, A. ; KHALIJ, L. . Dynamic analysis of a fatigue specimen subjected to a random base excitation via spectral element method. In: ICVRAM ISUMA UNCERTAINTIES 2018, 2018, Florianopolis. ICVRAM ISUMA UNCERTAINTIES 2018, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M. R. . Spectral approach in vibrations of overhead transmission lines. In: 3th International Symposium on World Multidisciplinary Civil Engineering, Architecture and Urban Planning, Web of Knowledge & Scopus, ISI Thomson Reuters, 2018, Prague. 3th International Symposium on World Multidisciplinary Civil Engineering, Architecture and Urban Planning, Web of Knowledge & Scopus, ISI Thomson Reuters, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DUTKIEWICZ, M. ; MACHADO, M. R. . Dynamical response of overhead transmission line in turbulent wind flow with application of the spectral element method. In: 3th International Symposium on World Multidisciplinary Civil Engineering, Architecture and Urban Planning, Web of Knowledge & Scopus, ISI Thomson Reuters, 2018, Prague. 3th International Symposium on World Multidisciplinary Civil Engineering, Architecture and Urban Planning, Web of Knowledge & Scopus, ISI Thomson Reuters, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SEICHI, T. ; MACHADO, M. R. . DETECÇÃO DE DANO VIA MÉTODO DO ÍNDICE DE DANO UTILIZANDO FUNÇÃO DE RESPOSTA EM FREQUÊNCIA. In: XXV Congresso Nacional de Estudantes de Engenharia Mecânica, 2018, Brasilia. XXV Congresso Nacional de Estudantes de Engenharia Mecânica, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DUWE, M. L. ; MACHADO, M. R. . ESTUDO DE UM CASO EXPERIMENTAL DE PROPAGAÇÃO DE ONDAS EM UM VIGA ATRAVÉS DE SENSORES PIEZOELÉTRICOS WAFER ACTIVE (PWAS). In: XXV Congresso Nacional de Estudantes de Engenharia Mecânica, 2018. XXV Congresso Nacional de Estudantes de Engenharia Mecânica, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KHALIJ, L. ; GAUTRELET, C. ; MACHADO, M. R. ; TROIAN, R. ; DALLALI, M. . FATIGUE LIFE PREDICTION BASED ON RESONANT FREQUENCY SHIFT. In: 2nd International Conference on Structural Integrity and Durability, 2018, Croatia. 2nd International Conference on Structural Integrity and Durability, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; E.D. Nobrega ; . VIBRATION BAND GAPS IN A METAMATERIAL STRUCTURE WITH RANDOM PARAMETERS USING WAVE FINITE ELEMENT AND GENERALIZED POLYNOMIAL CHAOS. In: International Conference on Structural Engineering Dynamics ICEDyn 2017, 2017, Ericeira. International Conference on Structural Engineering Dynamics ICEDyn 2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; FABRO, A. T. ; SILVA, T. A.N. . UNCERTAINTY ANALYSIS OF FUNCTIONALLY GRADED PLATES CONSIDERING SPATIALLY CORRELATED RANDOMNESS. In: International Conference on Structural Engineering Dynamics ICEDyn 2017, 2017, Ericeira. International Conference on Structural Engineering Dynamics ICEDyn 2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PALECHOR, U. L. ; MACHADO, M. R. ; MORAIS, M. V. G. ; BEZERRA, L. M. . Dynamic analysis of a beam with additional auxiliary mass spatial via spectral element method. In: International Conference Dynamical Systems ? Theory and ApplicationsDSTA-2017, 2017, Lodz. nternational Conference Dynamical Systems ? Theory and ApplicationsDSTA-2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; KHALIJ, L. ; FABRO, A. T. . Spectral approach for dynamic analysis of a composite structure under random excitation. In: International Conference Dynamical Systems ? Theory and ApplicationsDSTA-2017, 2017, Lodz. International Conference Dynamical Systems ? Theory and Applications DSTA-2017, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; ; . Distributed parameter estimation of a stochastic beam structure via sensitivity-based model updating using experimental FRFs. In: 3rd International Symposium on Uncertainty Quantification and Stochastic Modeling, 2016, Maresias, SP, Brazil. Proceedings of the 3rd International Symposium on Uncertainty Quantification and Stochastic Modeling, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; ; V.S. Pereira ; D.I. G. Costa ; E. C. Moraes . DYNAMICS ANALYSIS OF 1D STRUCTURE INCLUDING RANDOM PARAMETER VIA FREQUENCY-DOMAIN STATE-VECTOR EQUATIONS. In: XXXVII Iberian Latin-American Congress on Computational Methods in Engineering, 2016, Brasilia. Proceedings of the XXXVII Iberian Latin-American Congress on Computational Methods in Engineering, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "E. C. Moraes ; MACHADO, M. R. ; V.S. Pereira ; . Analysis of acoustic waveguide through the energy spectral element method including parameters uncertainty. In: XXXVII Iberian Latin-American Congress on Computational Methods in Engineering, 2016, Brasilia. XXXVII Iberian Latin-American Congress on Computational Methods in Engineering, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "E.D. Nobrega ; MACHADO, M. R. ; . Wave propagation in a beam-like structure with random parameter using wave finite element method. In: International Conference on Noise and Vibration Engineering ISMA, 2016, Lueven. International Conference on Noise and Vibration Engineering ISMA, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; . DISTRIBUTED PARAMETER ESTIMATION USING FRF SENSITIVITY MODEL UPDATING AND KARHUNEN-LOÈVE EXPANSION. In: ICEDyn 2015 - International Conference on Structural Engineering Dynamics, 2015, Lagos-Portugal. ICEDyn 2015 - International Conference on Structural Engineering Dynamics, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, M. R. ; ; . Uncertainty analysis of porous material parameters using random fields. In: International Symposium on Uncertainty Quantification and Stochastic Modeling, 2014, Rouen - France. Symposium on Uncertainty Quantification and Stochastic Modeling, 2014. v. 2.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; ADHIKARI, S. ; . Damage characterization in structures with random properties. In: International Symposium on Uncertainty Quantification and Stochastic Modeling, 2014, Rouen - France. Symposium on Uncertainty Quantification and Stochastic Modeling, 2014. v. 2.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . Damage Detection in an Energy Flow Model Including Parameter Uncertainty. In: IMAC-XXXI CONFERENCE AND EXPOSITION ON STRUCTURAL DYNAMICS, 2013, Garden Grove, California. IMAC-XXXI CONFERENCE AND EXPOSITION ON STRUCTURAL DYNAMICS, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . WAVE PROPAGATION IN A CRACKED BEAM SPECTRAL ELEMENT INCLUDING PARAMETER UNCERTAINTY. In: Uncertainteis, 2012, Maresias. Uncertainteis, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . DETECÇÃO DE DANO E ANÁLISE ESTOCÁSTICA DE UMA VIGA TRINCADA UTILIZANDO O MÉTODO DO ELEMENTO ESPECTRAL. In: VII Congresso Nacional de Engenharia Mecânica, 2012, São Luis do Maranhão. VII Congresso Nacional de Engenharia Mecânica, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . STOCHASTIC ANALYSIS OF WAVE PROPAGATION IN A CRACKED ROD VIA SPECTRAL ELEMENT AND POLINIMIAL CHAOS EXPANSION. In: Innowave 2012, 2012, Nottingham - UK. Innowave 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; ; ; . RELIABILITY ANALYSIS USING SIMPLE MODELS AIMING AT A COMPARISON AMONG STOCHASTIC METHODS. In: International Congress on sound and vibration, 2011, Rio de Janeiro. International Congress on sound and vibration, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. ; . RELIABILITY ANALYSIS FOR PROBABILISTIC FATIGUE CRACK GROWTH. In: 21st Brazilian Congress of Mechanical Engineering, 2011, Natal. 21st Brazilian Congress of Mechanical Engineering, 2011.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "R. MACHADO, MARCELA . Metamaterial solutions for stability control and performance in wind energy harvesting,SPARC Workshop,National Institute of Technology,Silchar India, 2025. 2025. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . Smart metamaterial for tremor control in biomechanical system, SPARC Workshop,National Institute of Technology,Silchar India, 2025. 2025. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . Smart Monitoring and Control for Enhanced Wind Energy Harvesting Performance, FemTO-ST,Besançon France, 2025. 2025. (Apresentação de Trabalho/Seminário).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . Design and optimization of smart wind turbines to vibration control and structural monitoring, Bydgoszcz University of Science and Technology, Poland.. 2024. (Apresentação de Trabalho/Seminário).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . The use of machine learning to enhance structural health monitoring, Silesian University of Technology, Gliwice - Poland. 2024. (Apresentação de Trabalho/Seminário).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . Smart wind turbines to vibration control and structural monitoring,Politechnika Gdanska, Gdansk - Poland. 2023. (Apresentação de Trabalho/Comunicação).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. . Atenuação e monitoramento de tremores do corpo humano através de metamaterias programáveis. 2022. (Apresentação de Trabalho/Seminário).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. . Vibrational and spectral approach for damage quantification, INSA de Rouen, Rouen - France. 2018. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . A spectral approach for damage quantification and parameter estimation, INSA de Rouen, Rouen, France. 2018. (Apresentação de Trabalho/Seminário).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. . A spectral approach for damage quantification and parameter estimation,INSA de Rouen, Rouen - France. 2017. (Apresentação de Trabalho/Seminário).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA . Estimação de parâmetros estruturais através da sua resposta dinâmica,Universidade Nova de Lisboa, Lisboa-Portugal. 2017. (Apresentação de Trabalho/Seminário).",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "items": [
+        {
+          "texto": "MACHADO, M.R. . Pesquisa translacional em saúde para o enfrentamento da COVID-19: Desenvolvimento e produção do respirador VESTA como equipamento de proteção individual. 2020. (Programa de rádio ou TV/Entrevista).",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "Machado, Marcela Rodrigues . personal website: marcelamachados's page. 2023. (Site).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M. R. . Grupo de dinâmica de sistemas. 2017. (Site).",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "Machado, Marcela Rodrigues . Relatório Técnico de pestração de contas do projeto Tecnologia baseada em metaestruturas inteligentes para atenuar tremores no corpo humano. 2022. (Relatório técnico).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. . Workshop de propagação de ondas em estruturas. 2020. (Workshop).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. . Relatório de pestração de contas do projeto processo 0193-001512/2017: Método estocástico de detecção de danos estruturais via abordagem espectral. 2020. (Relatório técnico).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, M.R. . Escola de Inverno em Modelagem Estocástica e Quantificação de Incerteza. 2017. (Workshop).",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "SILVA, S. M. E.; PINTO, V. S.; FREITAS, F. F.; Machado, Marcela Rodrigues . Participação em banca de Danyel Ferreira da Silva. AVALIAÇÃO ESTATÍSTICA E MULTIVARIADA DA DEGRADAÇÃO E QUANTIFICAÇÃO DE ÁCIDOS GRAXOS EM ÓLEOS VEGETAIS. 2026. Dissertação (Mestrado em Engenharia Química) - Universidade Federal de Goiás.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "CUNHA JUNIOR, A.; COLOMBO, F. T.; R. MACHADO, MARCELA . Participação em banca de LUCAS SIMON ARAUJO. DYNAMIC MODE DECOMPOSITION FOR DATA-DRIVEN MODELING OF SPATIO-TEMPORAL DYNAMICS. 2024 - Unesp - Campus Ilha Solteira.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CASTELLO, D. A.; MACHADO, M. R. ; ROCHINHA, F. A.. Participação em banca de Luiza Freire Cesar de Sousa. BAYESIAN INFERENCE AND MODEL SELECTION FOR THE CHARACTERIZATION OF SPATIALLY VARYING STIFFNESS. 2022. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FRANZINI, G. R.; FUJARRA, A. L. C.; MACHADO, M.R. . Participação em banca de Vinícius Vaguetti Costa. Uma discussão sobre identificação de danos em tubos parametricamente excitados. 2021. Dissertação (Mestrado em Engenharia Civil (Engenharia de Estruturas)) - Universidade de São Paulo.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, H. M.; LISBOA, E. S.; MACHADO, M.R. ; CASAS, W. J. P.. Participação em banca de José Gilberto Picoral Filho. ESTUDO NUMÉRICO EXPERIMENTAL DA DINÂMICA DE CAMINHÕES E AVALIAÇÃO RELATIVA À VIBRAÇÃO DE CORPO INTEIRO PARA PROPOSIÇÂO DE OTIMIZAÇÃO. 2021. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, R. A. S. B.; MACHADO, M.R. ; SILVA, T. A. N.. Participação em banca de Guilherme Teixeira Semedo de Sousa. Estudo da Utilização de Emissões Acústicas para a Deteção de Dano. 2021. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Nova de Lisboa.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, M. V. G.; MACHADO, M.R. ; RIBEIRO, P. M. V.. Participação em banca de Raphael Ugolini Santana. ESTUDO NUMERICO-EXPERIMENTAL DO PÊNDULO QUADRIFILAR PARA DETERMINACAO DO TENSOR DE INERCIA: APLICAÇÃO EM MOCKUP DE NANOSATELITE CUBESAT. 2021. Dissertação (Mestrado em Integridade de Materiais da Engenharia) - Universidade de Brasília.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. P.; FABRO, A. T.; R. MACHADO, MARCELA . Participação em banca de Rangel Silva Maia. Otimizacao da posicao de um ADV em linhas aereas de transmissao de energia eletrica. 2018. Dissertação (Mestrado em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. P.; FABRO, A. T.; MACHADO, M.R. . Participação em banca de Guilherme Pereira dos Reis. Investigação de modos de vibrações não-lineares em estruturas mecânicas. 2018. Dissertação (Mestrado em Integridade de Materiais da Engenharia) - Universidade de Brasília.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AVILA, S. M.; MORAIS, M. V. G.; MACHADO, M.R. . Participação em banca de Pedro Luiz Bernardes Juni. Amortecedor tipo pêndulo invertido para controle de vibrações em edifícios altos. 2018. Dissertação (Mestrado em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FABRO, A. T.; ; SOUZA, A. P.. Participação em banca de Eduardo Akira Pinheiro Uema. Análise dos efeitos determinísticos e aleatórios do vento na resposta dinâmica de uma transmissão eletromecânica. 2017. Dissertação (Mestrado em Engenharia Mecânica) - Universidade de Brasília.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FABRO, A. T.; MORAIS, M. V. G.; MACHADO, M.R. . Participação em banca de Mansour Hassan Alkmim. ANÁLISE DE UM AMORTECEDOR DE COLUNA DE LÍQUIDO SINTONIZADO EM UMA TURBINA EÓLICA SUJEITA A CARREGAMENTO ALEATÓRIO. 2017. Dissertação (Mestrado em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "PAIXAO, J. A. S.; MACHADO, M. R. ; TELOLI, R.; KUBRUSLY, A. C.; PAULA, I. B.. Participação em banca de Tiago de Magalhães Correia. Inteligência Artificial Aplicada à Caracterização Automatizada da Cimentação de Poços: Uma Abordagem Multiexperimental com Perfilagem Acústica e Redes Neurais Convolucionais. 2026. Tese (Doutorado em Engenharia Mecânica) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, S.; SCUSSEL, O.; VAROTO, P. S.; R. MACHADO, MARCELA ; SHIKI, S. B.. Participação em banca de Luccas Pereira Miguel. STRUCTURAL HEALTH MONITORING FOR LOOSENING DETECTION IN BOLTED JOINTS. 2025. Tese (Doutorado em Engenharia Mecânica) - Unesp - Campus Ilha Solteira.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "PAGNACCO, E.; SAMPAIO, R.; JACQUELIN, E.; R. MACHADO, MARCELA ; ACOSTA-HUMANEZ, P.. Participação em banca de Patricia Sanchez Reyes. Design of mechanical systems with non-linear vibration absorbers in the presence of uncertainties. 2024. Tese (Doutorado em Genie Mecanique, Productique, Transport et Ginie Civ) - Institut National des Sciences Appliquées de Rouen.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BUENO, D. D.; R. MACHADO, MARCELA ; LEITE, S. N. C.; SUYAMA, R.; PEREIRA, J. A.. Participação em banca de João Angelo Ferres Brogin. A CONTRIBUTION TO THE DYNAMICS OF EPILEPSY: IDENTIFICATION AND CONTROL FOR SEIZURE ATTENUATION. 2023. Tese (Doutorado em Engenharia Mecânica) - Unesp - Campus Ilha Solteira.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DANIEL, G. B.; ; CAVALINI JUNIOR, A. A.; MACHADO, M. R. . Participação em banca de Laís Bittencourt Visnadi. Efeito de trinca em engrenagens de dente reto na resposta dinâmica do rotor. 2022. Tese (Doutorado em Doutorado em Engenharia Mecânica) - Universidade Estadual de Campinas.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FIGUEIREDO, E. J. F.; CURY, A. A.; MACHADO, M. R. ; ROITMAN, N.. Participação em banca de BRUNA SILVEIRA PAVLACK. Damage quantification using Polynomial Chaos-Kriging. 2022. Tese (Doutorado em Engenharia Mecanica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "EVANGELISTA JUNIOR, F.; SILVA, S. B. A.; PARENTE JUNIOR, E.; R. MACHADO, MARCELA . Participação em banca de NATHALY SARASTY NARVÁEZ. RELIABILITY OF SHEAR STRENGTHENED BEAMS WITH FRP AND CONTRIBUTIONS TO RELIABILITY-BASED DESIGN OPTIMIZATION. 2022. Tese (Doutorado em Estruturas e Construção Civil) - Universidade de Brasília.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BRASIL JUNIOR, A. C. P.; COSTA, M. L. M.; SILVA, S. M. E.; MACHADO, M.R. . Participação em banca de EUGÊNIA CORNILS MONTEIRO DA SILVA. Transferência de calor por convecção natural e mista em sistemas fotovoltaicos : estudo do comportamento térmico e desempenho do sistema. 2020. Tese (Doutorado em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ALBUQUERQUE, E. L.; MORAIS, M. V. G.; RIBEIRO, G. O.; SOLLERO, P.; MACHADO, M.R. . Participação em banca de Álvaro Campos Ferreira. Parallel H-Matrices accelerated isogeometric boundary element method implementation applied to acoustics internal and external problems. 2020. Tese (Doutorado em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2020,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "EVANGELISTA JUNIOR, F.; Machado, Marcela Rodrigues ; REAL, M.; RORIZ JUNIOR, M. P.. Participação em banca de João Paulo Silva Lima. A NOVEL HYPERPARAMETER-OPTIMIZED BI-FIDELITY MULTI-TASK DEEP NEURAL NETWORK USING BAYESIAN OPTIMIZATION FOR STRUCTURAL RELIABILITY ASSESSMENT. 2023. Exame de qualificação (Doutorando em Estruturas e Construção Civil) - Universidade de Brasília.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "EVANGELISTA JUNIOR, F.; R. MACHADO, MARCELA ; GOMES, W. J. S.. Participação em banca de RODOLFO SANTOS DA CONCEIÇÃO. ANÁLISE DE CONFIABILIDADE E QUANTIFICAÇÃO DE INCERTEZAS EM SISTEMAS DINÂMICOS ATRAVÉS DE MODELOS SUBSTITUTOS MULTIFIDELIDADE. 2023. Exame de qualificação (Doutorando em Estruturas e Construção Civil) - Universidade de Brasília.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA ; FABRO, ADRIANO; ROSA, S. S. R. F.; GONCALVES, P. J. P.. Participação em banca de Braion Barbosa de Moura. Controle de Tremores Humanos por Metaestruturas Inteligentes. 2023. Exame de qualificação (Doutorando em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BUENO, D. D.; PEREIRA, J. A.; MACHADO, M.R. . Participação em banca de João Angelo Ferres Brogin. A CONTRIBUTION TO THE DYNAMICS OF EPILEPSY: IDENTIFICATION AND CONTROL FOR SEIZURE ATTENUATION. 2023 - Unesp - Campus Ilha Solteira.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "R. MACHADO, MARCELA ; TELOLI, R.; SILVA, S.; ALBUQUERQUE, E. L.. Participação em banca de JEFFERSON DA SILVA COELHO. MONITORAMENTO DA INTEGRIDADE ESTRUTURAL DE PRENDEDORES DE ESTRUTURAS E AEROGERADORES UTILIZANDO DE APRENDIZADO DE MÁQUINA. 2023. Exame de qualificação (Doutorando em Ciências Mecânicas) - Universidade de Brasília.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, S.; CUNHA JUNIOR, A.; MACHADO, M.R. ; ROITMAN, N.. Participação em banca de BRUNA SILVEIRA PAVLACK. DAMAGE QUANTIFICATION USING POLYNOMIAL CHAOS-KRIGING. 2021. Exame de qualificação (Doutorando em Engenharia Mecânica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "FRANZINI, G. R.; Machado, Marcela Rodrigues ; GAY, A.. Participação em banca de Giovanna Ribeiro Campedelli. Machine Learning Approaches for Structural Health Monitoring of Bridges. 2025. Exame de qualificação (Mestrando em Engenharia Civil (Engenharia de Estruturas)) - Universidade de São Paulo.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; BERTOLI, S. R.; MACHADO, M.R. . Participação em banca de Flaianny Bastos Pacheco. Propagação de Ondas em um Duto Acústico com Tubos em Ramificação Lateral Periódicos. 2021. Exame de qualificação (Mestrando em Engenharia Mecânica) - Universidade Estadual de Campinas.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

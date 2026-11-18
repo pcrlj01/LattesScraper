@@ -1,0 +1,658 @@
+{
+  "name": "Rainer Zanghi",
+  "lattes_id": "8262594935244003",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "; ZANGHI, RAINER . TATL-360° Assessment for Teaching and Learning: A Case Study in Digital Electronics Lab. IEEE Transactions on Education , v. 69, p. 1-9, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/TE.2026.3658034"
+        },
+        {
+          "texto": "; ; ; ; ZANGHI, RAINER . Experience of using graphical processing unit in power flow computation. CONCURRENY AND COMPUTATION (ONLINE) , v. n/a, p. e6762, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1002/cpe.6762"
+        },
+        {
+          "texto": "; ZANGHI, RAINER ; ; ; . Probabilistic transmission line fault diagnosis using autonomous neural models. ELECTRIC POWER SYSTEMS RESEARCH , v. 185, p. 106360, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106360"
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Optimized coordination of transmission network outages in interconnected power grids. ELECTRIC POWER SYSTEMS RESEARCH , v. 170, p. 72-80, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2019.01.016"
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; ; ; ; ; . A survey on intelligent system application to fault diagnosis in electric power system transmission lines. Electric Power Systems Research (Print) , v. 136, p. 135-153, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2016.02.002"
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Fault Diagnosis in Transmission Lines: Trends and Main Research Areas. Revista IEEE América Latina , v. 13, p. 3324-3332, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/tla.2015.7387238"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "SOUZA, C. F. ; ; ; RODRIGUES, A. G. ; ; ; PEREIRA, C. A. ; SANTOS, C. ; ; ; ; ; ; ; ; ; ; ; ; ZANGHI, R. ; et.al . Boas práticas de gestão acadêmica e de estruturas normativas para implantação de projetos pedagógicos inovadores de cursos de engenharia. In: Adriana Maria Tonini ; Tânia Regina Dias Silva Pereira. (Org.). Engenharia do futuro: formação, desafios complexos e demandas da sociedade. 1ed.Brasília: ABENGE, 2025, v. 1, p. 126-154.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; . Experiências na transição para aulas emergenciais remotas em um curso de graduação em Engenharia Elétrica: resultados da UFF. In: Ademar Gonçalves da Costa Junior; Alan Kardek Rêgo Segundo; José Alberto Naves Cocota Junior; Ícaro Bezerra Queiroz de Araújo. (Org.). Práticas pedagógicas remotas em Engenharia - Fundamentos e Estudos de Caso. 1ed.São Paulo: Editora Blucher, 2024, v. 1, p. 1-29.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, RAINER ; ; . Diversification Strategies in Evolutionary Algorithms: Application to the Scheduling of Power Network Outages. In: Nadia Nedjah;Heitor Silvério Lopes;Luiza de Macedo Mourelle. (Org.). Studies in Computational Intelligence. 1ed.: Springer International Publishing, 2017, v. 664, p. 199-215.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-44735-3_11"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ZANGHI, R. ; . Desenvolvimento de plataforma de prototipagem de Dispositivos Eletrônicos Inteligentes. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, São João del-Rei. Anais do Simpósio Brasileiro de Sistemas Elétricos. Campinas: Sociedade Brasileira de Automática, 2025. v. 3. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Obtenção de planos de medição observáveis para estudos de estimação de estado. In: XI Simpósio Brasileiro de Sistemas Elétricos, 2025, São João del-Rei. Anais do Simpósio Brasileiro de Sistemas Elétricos. Campinas: Sociedade Brasileira de Automática, 2025. v. 3. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, RAINER . Solução Preditiva para Auxílio à Tomada de Decisão em Manobras de Controle de Tensão pelos Operadores de Tempo Real do ONS. In: LVII SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2025, Gramado. Campinas: Galoá, 2025. v. 1.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2025-212092"
+        },
+        {
+          "texto": "; ; ZANGHI, R. ; ; . Identificação de parâmetros de reguladores automáticos de tensão utilizando otimização meta-heurística. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, São João del Rei. XI Simpósio Brasileiro de Sistemas Elétricos, 2025. v. 1. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; ; SANTOS, F. P. . Previsão de Cargas em Ambiente Residencial utilizando o dataset Individual Household Electric Power Consumption. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, São João del Rei. XI Simpósio Brasileiro de Sistemas Elétricos, 2025. v. 1. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Modelo de Otimização para Integração de Geração Fotovoltaica e Eólica: Estudo de Caso Aplicado. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, São João del Rei. XI Simpósio Brasileiro de Sistemas Elétricos, 2025. v. 1. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. ; . Utilização de Programação Matemática na Correção de Parâmetros de Redes Elétricas via Estimação de Estado. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE 2025), 2025, São João del Rei. XI Simpósio Brasileiro de Sistemas Elétricos, 2025. v. 1. p. 1-6.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. . Aplicando a Teoria da Carga Cognitiva na Elaboração de Material Didático Ágil e Interativo para Eletrônica Analógica. In: 53° Congresso Brasileiro de Educação em Engenharia, 2025, Campinas. 53° Congresso Brasileiro de Educação em Engenharia, 2025. v. 1. p. 1-10.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; RAINER ZANGHI . Aplicação de sistemas computacionais de baixo custo para emular IED com protocolo MMS. In: Congresso Brasileiro de Automática CBA, 2024, Rio de Janeiro. Campinas: SBA, 2024. v. 4.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.20906/CBA2024/4601"
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Estimação de Parâmetros de Sistemas Fotovoltaicos Utilizando Otimização por Enxame de Partículas. In: XXV Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática - CBA 2024. Campinas: SBA, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. . Aplicação de Métodos de Otimização na Coordenação de Relés de Sobrecorrente. In: XXV Congresso Brasileiro de Automática, 2024, Rio de Janeiro. XXV Congresso Brasileiro de Automática - CBA 2024. Campinas: SBA, 2024. v. 1. p. 1-7.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ZANGHI, RAINER . Planejamento de Sistemas de Medição Utilizando Teoria da Informação. In: ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2024, Fortaleza. Campinas: Galoá, 2024. v. 56.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2024-193615"
+        },
+        {
+          "texto": "; ZANGHI, RAINER ; ; . Obtenção de planos de medição observáveis para estudos de estimação de estado. In: ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2024, Fortaleza. Campinas: Galoá, 2024. v. 56.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2024-193643"
+        },
+        {
+          "texto": "; ; ZANGHI, RAINER ; ; ; . APLICAÇÃO DE ALGORITMOS GENÉTICOS PARA A ESTIMAÇÃO DE ESTADO EM REDES DE DISTRIBUIÇÃO CONSIDERANDO MEDIDAS AGREGADAS E PERDAS NA BAIXA TENSÃO. In: ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2024, Fortaleza. Campinas: Galoá, 2024. v. 56.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2024-193511"
+        },
+        {
+          "texto": "ZANGHI, R. ; . Avaliações 360 graus no Laboratório de Eletrônica Digital. In: VII Mostra de Inovação no Ensino Superior, 2023, Niteroi. Cadernos de Docência e Inovação no Ensino Superior. Niteroi: Periódicos UFF, 2023. v. 2. p. 3-7.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, RAINER ; . Lab em Casa - laboratórios remotos e portáteis em kits para aulas experimentais de eletrônica básica e digital. In: Brasilian Congress of Engineering Education, 2023. Procedings of the 51 Brasilian Congress of Engineering Education. v. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.37702/2175-957X.COBENGE.2023.4442"
+        },
+        {
+          "texto": "ZANGHI, R. . Aplicando a taxonomia de bloom revisada em uma disciplina da engenharia elétrica no ensino remoto. In: VI Mostra de Inovação no Ensino Superior, 2022, Niteroi. Cadernos de Docência e Inovação no Ensino Superior. Niteroi: Periódicos UFF, 2022. v. 1. p. 42-46.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Programação de Manutenção em Redes Elétricas Preservando a Segurança Operativa. In: IX Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. IX Simpósio Brasileiro de Sistemas Elétricos (SBSE 2022), 2022. v. 1. p. 1-7.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, RAINER . UTILIZANDO MAPAS CONCEITUAIS PARA REDUZIR A CARGA COGNITIVA EXTRÍNSECA EM LISTAS DE EXERCÍCIOS DE ELETRÔNICA. In: Congresso Brasileiro de Educação em Engenharia, 2022, Online. Proceedings of the L Brasilian Congress of Engineering Education, 2022. v. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.37702/cobenge.2022.3810"
+        },
+        {
+          "texto": "; ZANGHI, R. . Reformulando avaliações formativas para reduzir a carga cognitiva extrínseca em eletrônica. In: Experiências da Monitoria em 2021, 2022, Niterói. Cadernos de Docência e Inovação no Ensino Superior. Niterói: Periódicos UFF, 2022. v. 1. p. 58-64.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; RAINER ZANGHI ; . Otimização do Agendamento de Intervenções e da Margem de Potência em Redes Elétricas. In: XXIV Congresso Brasileiro de Automática, 2022, Online, 2022. v. 3.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/CBA2022/3358"
+        },
+        {
+          "texto": "; RAINER ZANGHI . Monitoramento não-intrusivo de cargas elétricas com dispositivo computacional de baixo custo. In: XV Simpósio Brasileiro de Automação Inteligente, 2021, Online, 2022. v. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.20906/sbai.v1i1.2610"
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Aplicação de Técnicas da Computação de Alto Desempenho em Algoritmos de Fluxo de Potência. In: 14o Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019, Ouro Preto / MG. 14o Simpósio Brasileiro de Automação Inteligente - SBAI 2019, 2019. p. 1-6.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, RAINER ; . Development of Electrical and Network Test Tool for IEC 61850 Based Power System Protection. In: 2019 IEEE PES AsiaPacific Power and Energy Engineering Conference (APPEEC), 2019, Macao. 2019 IEEE PES Asia-Pacific Power and Energy Engineering Conference (APPEEC), 2019. v. I. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/APPEEC45492.2019.8994572"
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Otimização do agendamento de intervenções em redes elétricas. In: L Simpósio Brasileiro de Pesquisa Operacional - 50o SBPO, 2018, Rio de Janeiro. L Simpósio Brasileiro de Pesquisa Operacional - 50o SBPO. Rio de Janeiro: SOBRAPO, 2018. v. 1. p. 1-12.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; ZANGHI, R. . Autonomous Bayesian neural models for fault diagnosis in transmission lines. In: 2017 IEEE Manchester PowerTech, 2017, Manchester. 2017 IEEE Manchester PowerTech, 2017. v. 1. p. 1-6.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/ptc.2017.7981247"
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Técnicas da Computação de Alto Desempenho Aplicadas ao Agendamento de Intervenções em Redes Elétricas. In: XIII Congresso Brasileiro de Inteligência Computacional, 2017, Niterói. XIII Congresso Brasileiro de Inteligência Computacional - CBIC2017, 2017. v. 1. p. 1-12.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Aplicação de estratégias de diversificação no agendamento de intervenções em redes elétricas. In: XXI Congresso Brasileiro de Automática, 2016, Vitória - ES. XXI Congresso Brasileiro de Automática, 2016. v. 1. p. 1-6.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Estratégias de Diversificação para Otimização da Programação de Intervenções em Redes Elétricas. In: XII CBIC - Congresso Brasileiro de Inteligência Computacional, 2015, Curitiba - PR. Congresso Brasileiro de Inteligência Computacional, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Agendamento de desligamentos em redes de transmissão empregando estratégias evolutivas. In: XIII SEPOPE - Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu - PR. Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014. v. PS05. p. 1-11.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Programação de desligamentos em redes de transmissão via Algoritmos Genéticos. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande, PB. Anais do XIX Congresso Brasileiro de Automática, CBA 2012. Campina Grande, PB: CBA, 2012. v. 1. p. 1514-1520.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Scheduling Outages in Transmission Networks via Genetic Algorithms. In: 8th PP&PSC (Power Plant and Power System Control) Symposium, 2012, Toulouse, França. 8th PP&PSC (Power Plant and Power System Control) Symposium. Toulouse, França: International Federation of Automatic Control, 2012. v. 8. p. 489-494.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Aplicação de Algoritmos Genéticos para a Programação Ótima de Desligamentos em Redes de Energia Elétrica. In: X SIMPÓSIO BRASILEIRO DE AUTOMAÇÃO INTELIGENTE, 2011, SÃO JOÃO DEL REI - MG. Anais do X Simpósio Brasileiro de Automação Inteligente, 2011. v. X. p. 1099-1104.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Manutenção Otimizada de Equipamentos de Transmissão de Energia Elétrica Através de Algoritmos Genéticos. In: XLIII Simpósio Brasileiro de Pesquisa Operacional, 2011, Ubatuba, SP. XLIII Simpósio Brasileiro de Pesquisa Operacional, 2011.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "FREITAS, S. E. A. P. ; ; ZANGHI, R. ; . Colóquio sobre Aprendizagem Prática no Programa de Monitoria : Um balanço de experiência da Escola de Engenharia. 2025. (Apresentação de Trabalho/Outra).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; . Interdisciplinaridade durante o TCC: Eletrônica & Design. 2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; . Avaliações 360 graus no Laboratório de Eletrônica Digital. 2022. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. . Aplicando a Taxonomia de Bloom Revisada em uma disciplina da Engenharia Elétrica no Ensino Remoto. 2021. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. . Redes Industriais. 2009. (Apresentação de Trabalho/Seminário).",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "ZANGHI, R. ; ; . SIDLT. 2014.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "ZANGHI, R. . SAGE - Módulo 1. 2013. (Curso de curta duração ministrado/Outra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; . Aprendizado de Máquina Não-Supervisionado. 2013. (Desenvolvimento de material didático ou instrucional - Material didático).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. . Conjuntos e Lógica Fuzzy. 2012. (Desenvolvimento de material didático ou instrucional - Aula de Inteligência Computacional aplicada a Sistemas de Potência).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. . Redes Industriais. 2003. (Curso de curta duração ministrado/Outra).",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "ZANGHI, R. ; ; ; . Participação em banca de Angelo Marques Maia. Avaliação do uso de computadores de placa única, código aberto e protocolo SV no desenvolvimento de dispositivo de proteção diferencial. 2026. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. ; . Participação em banca de Diogo Lopes Bragança. Planejamento de sistemas de medição utilizando Teoria da Informação e Otimização Multiobjetivo. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Participação em banca de Lucas Tito Carmona. Metodologia de seleção de planos de medição observáveis com critério de dissimilaridade para estudos de estimação de estado em sistemas elétricos de potência. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Fernanda Decothé Andrade Torres. Estimação de estado em redes de distribuição considerando a agregação de dados de medidores inteligentes. 2025. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Rafael Provenzano Jou Alves. Despacho otimizado de usinas virtuais de energia conectadas ao sistema elétrico brasileiro. 2022. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Leonardo Gonzaga da Silva. Otimização da segurança operativa na programação de desligamentos em redes de transmissão. 2022. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Paulo Henrique Barbosa de Souza Pinheiro. Desenvolvimento de Amplificador de Potência para Testes de Proteção Fasorial de Sistema de Potência Trifásico. 2021. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Ricardo Serra Simões Junior. Avaliação do protocolo Goose em rede de distribuição de energia utilizando tecnologia de rádio de 4a geração como meio de comunicação. 2021. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; ZANGHI, R. . Participação em banca de João Victor Daher Daibes. Implementação da Solução do Fluxo de Potência pelo Método de Newton-Raphson em uma Arquitetura Híbrida CPU-GPU. 2021. Dissertação (Mestrado em Computação) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ZANGHI, R. ; . Participação em banca de Marco Antonio Abi-Ramia Junior. Gerenciador de Ativos de Proteção em Subestações baseado na IEC61850. 2017. Dissertação (Mestrado em Pós-Graduação em Engenharia Elétrica e Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "; ; ZANGHI, R. ; ; ; . Participação em banca de Thiago José Barbosa da Rocha. Metodologia para Eficiência Computacional em Simulações de Sistemas de Grande Porte Utilizando Fasores Dinâmicos com Transitórios Eletromagnéticos. 2026. Tese (Doutorado em Engenharia Elétrica e de Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; ; ZANGHI, R. ; . Participação em banca de Rogerio Mandelli. CONSCIÊNCIA CRIADORA: Perspectivas e Convergências entre Filosofia e Ciência. 2018. Tese (Doutorado em História das Ciências e das Técnicas e Epistemologia) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; ZANGHI, R. ; ; ; . Participação em banca de Thiago José Barbosa da Rocha. Computação paralela e de alto desempenho na simulação de redes elétricas de grande porte utilizando fasores dinâmicos. 2022. Exame de qualificação (Doutorando em Engenharia Elétrica e de Telecomunicações) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Victor de Queiroz da Rocha Moraes.Aplicação de Aprendizado de Máquina Automatizado em Dispositivos Embarcados para o Monitoramento Não Intrusivo de Cargas Elétricas. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Savio Issa Barbosa.LAR-A: dispositivo vestível de identificação com feedback sonoro para acessibilidade de idosos cegos no lar. 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, RAINER ; ; ; . Participação em banca de Alec Picanço de Azevedo Lopes.Estudo para desenvolvimento de hardware embarcado para motor BLDC sem sensor. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Participação em banca de Matheus Rangel Engel.Desenvolvimento de um Multi Sensor embarcado para diagnóstico de motor elétrico. 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de David Cêdo Borges.GLICOBOX ? Dispositivo térmico portátil para insulina. 2025. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; MORAES, T. F.; . Participação em banca de Bruno Duarte Kavgias.Implementação de sistema de monitoramento de mensagens Sampled Values em subestações digitais com base na norma IEC 61850. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Daniel Rocha Pereira.Estudo de seletividade e coordenação de funções de proteção 50/51 em uma plataforma FPSO. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Renan da Silva Freitas.Metodologia para integração de softwares de simulação em sistemas fotovoltaicos conectados à rede. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Dieison Mariano Farias Rocha.Desenvolvimento de relé digital embarcando o protocolo MMS e proteção de sobrecorrente ANSI 50/51 em sistema computacional de baixo custo. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Igor de Oliveira Santos.Projeto de representação em escala reduzida de sistema elétrico de potência utilizando componentes eletrônicos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Gustavo Corrêa Guimarães.Projeto e implementação de modelo de dados de inversor inteligente para sistemas fotovoltaicos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Natasha Sales Xavier.ANKORA: dispositivo de gerenciamento temporal para pessoas com TDAH. 2025. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Thiago Trindade Ferreira Netto.Machine Learning aplicado à identificação de vulnerabilidades na estimação de estado. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Rodrigo Bretas Braga do Nascimento.HORTAPP - Sistema de monitoramento sensorial à distância de pequenas ervas. 2024. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Luiz José Vieira Neto.Controle de videogame adaptado para usuários que só podem utilizar uma mão. 2024. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Arthur Garofalo Zanon.AJÉ - Sistema de teclado para utilização de atalhos para editores de vídeo em processo de aprendizagem. 2024. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Luiza Santos Yassuda.UV SAFE HAT ? Chapéu inteligente para proteção e monitoramento dos raios UV do Sol. 2024. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, RAINER . Participação em banca de Igor Barros de Brito.Avaliação de Sistema Especial de Proteção (SEP) para barramento em função da conexão de geração eólica no Sistema Interligado Nacional. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Rodrigo De Sousa França.Controle Remoto Universal Inclusivo Para Idosos. 2023. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, G. F.; ZANGHI, R. ; . Participação em banca de Sarah Tavares do Nascimento.LUMIX ? lanterna de indução eletromagnética para situações emergenciais. 2023. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Bia Fernanda Verly Martins.Sistema Computacional de Baixo Custo Emulando Protocolos GOOSE e SV da Norma IEC61850. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Daniel dos Santos Baptista Borges.Proposta de laboratório de baixo custo para automação em sistemas elétricos de potência. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; ; . Participação em banca de Graziela Barbosa Cavalcante.Desafios para o controle de tensão em tempo real: uma solução para as equipes de operação do ONS. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; SILVA, R. D. C.. Participação em banca de Julio Medeiros Cristi Machado Duarte.Projeto de simulador de equipamentos para testes na automação de subestações. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Luan Maciel Matos Silva.Rotulação multilabel para classificação de eventos em NILM. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Maria Clara Rollemberg Lima de Oliveira.ANXY: dispositivo de alerta e auxílio em caso de crise de ansiedade. 2023. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Henrique da Cunha Corrêa.Aplicação de PSO na estimação on-line de parâmetros de um gerador eólico. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Lucas Abdalla Menezes.Sistema de baixo custo para desagregação de cargas utilizando monitoramento não intrusivo. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. ; . Participação em banca de Jéssica Paula Azevedo dos Santos.KŌKUA - DISPOSITIVO DE COMUNICAÇÃO TÁTIL PARA INCLUSÃO DE SURDOS NO ESPORTE CANOA HAVAIANA. 2022. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Ariel Bitter.SISTEMA AUTOMATIZADO PARA AUXILIAR NA ADMINISTRAÇÃO E CONTROLE DE REMÉDIOS DE USO CONTÍNUO. 2022. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Angelo Marques Maia.Aplicação de Métodos de Otimização Linear e PSO na Coordenação de Relés de Sobrecorrente. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Fernanda Decothé Andrade Torres.Otimização da programação de intervenções em sistemas elétricos utilizando o programa Organon. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Julia Costa Oliva.Ferramenta auxiliar de direcionamento sonoro para deficientes auditivos unilaterais. 2022. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Marissa Wong Na.Emulação de IED embarcando o protocolo MMS em um sistema computacional de baixo custo. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Paulo José Costa de Souza.Domótica assistiva: as contribuições de um sistema de acionamento remoto para pessoas que sofrem de baixa mobilidade. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de CAIO MARINHO AMERICO.MODELAGEM DE RAMOS CHAVEÁVEIS PARA FLUXO DE POTÊNCIA EM NÍVEL DE SUBESTAÇÃO. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Lucas Tito Carmona.Análise Exploratória da Associação entre os Níveis de Redundância e de Criticalidade de Medidas na Estimação de Estado. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de ANA CAROLINA DA SILVA NOBRE.Otimização por Enxame de Partículas Aplicada à Compensação de Potência Reativa em Geradores Conectados via Inversores. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Gustavo Sippli Garcia.EXPERIMENTO PRÁTICO INTERATIVO INTRODUTÓRIO PARA ENSINO BÁSICO DE ELETRÔNICA, ELÉTRICA E ELETROFISIOLOGIA. 2020. Trabalho de Conclusão de Curso (Graduação em Desenho Industrial) - Universidade Federal Fluminense.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Igor Carrara Pereira.Desenvolvimento de uma Smarthome de Baixo Custo. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Néviton Carlos da Silva Santos.Simulação de um Voltímetro Digital. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Victor de Aguiar Nascimento.Análise de métodos de cálculo de fluxo de potência. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Ayres Nishio da Silva Junior.Algoritmo evolutivo na alocação de planos de medição. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Igor Ferreira da Costa.Módulo de Curva de Carga para o SimSEP. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Eduardo Neves Mencarini.Automação de Sistema Fotovoltaico utilizando IEC 61850. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ZANGHI, R. . Participação em banca de Marina Dietze Monteiro.Utilização de Técnicas de Mineração de Dados na Identificação de Perdas Comerciais na Distribuição de Energia Elétrica. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de Tiago Travassos de Lima.Avaliação de Poluição Harmônica em Rede de Baixa Tensão com Arduino. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ZANGHI, R. ; ; . Participação em banca de João Victor Daher Daibes.Aplicação de técnicas da computação de alto desempenho em algoritmos de fluxo de potência. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Jonathan Moura Cabreira.Aplicação de Redes Neurais Artificiais para Previsão de Geração de Energia Eólica no Curto Prazo. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; ; . Participação em banca de Jacson Moura Baptista.Simulador de sistemas elétricos de potência SimSEP. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. ; . Participação em banca de PABLO SUCUPIRA FERREIRA OLIVEIRA.Simulador de Faltas para o SimSEP. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ZANGHI, R. ; . Participação em banca de Raul Ribeiro da Silva.Equivalente de Redes Elétricas usando Redes Neurais Artificiais. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Raphael Bottino Arcos.Elaboração de Heurística Evolutiva para Despacho na Geração. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ZANGHI, R. . Participação em banca de Eduardo Vinicius Fernandes Battaglia.Aplicação de Lógica Fuzzy no Controle de Tensão de Geradores Síncronos. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal Fluminense.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

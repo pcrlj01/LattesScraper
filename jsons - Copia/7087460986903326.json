@@ -1,0 +1,52 @@
+{
+  "name": "Maique Correa Garcia",
+  "lattes_id": "7087460986903326",
+  "publications": [
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "UGARTE, LUIS F. ; GARCIA, MAIQUE C. ; ROCHETI, ENRICO O. ; LACUSTA, EDUARDO ; PEREIRA, LEANDRO S. ; DE ALMEIDA, MADSON C. . LoRa Communication as a Solution for Real-Time Monitoring of IoT Devices at UNICAMP. In: 2019 International Conference on Smart Energy Systems and Technologies (SEST), 2019, Porto. 2019 International Conference on Smart Energy Systems and Technologies (SEST), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/sest.2019.8849100"
+        },
+        {
+          "texto": "; SILVA, G. S. ; ; ; ; PEREZ, T. D. ; GARCIA, M. C. . Architecture Design and Implementation of Key Components of an OFDM Transceiver for IEEE 802.15.4g. In: IEEE International Symposium on Circuits and Systems (ISCAS),, 2016, Montreal. ISCAS 2016, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, G. S. ; ; PEREZ, T. D. ; ; ; GARCIA, M. C. ; . Demo: FPGA Implementation of an IEEE802.15.4g MR-OFDM Baseband Modem for Smart Utility Networks.. In: IEEE 4th Global Conference on Consumer Electronics (GCCE 2015), 2015, Osaka. GCCE 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, M. C. ; ; ALMEIDA, S. J. M. . 2-Coefficient Fixed-Point Hardwired Adaptive Filtering Based on LMS. In: XXVII South Symposium on Microelectronics, 2012, São Miguel das Missões. Proceedings of XXVII SIM2012, 2012. v. 27.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, M. C. ; ; ALMEIDA, S. J. M. . Implementação de Estrutura de Filtragem Adaptativa em Ponto Flutuante Baseada no Algoritmo LMS. In: Salão Universitário, 2012, Pelotas. Congresso de Iniciação Científica, 2012. v. 21.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "GARCIA, M. C. ; ; ALMEIDA, S. J. M. ; SEIBEL, G. P. . Implementação de estrutura de filtragem adaptativa em ponto flutuante baseado no algoritmo LMS. 2012. (Apresentação de Trabalho/Congresso).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, M. C. ; SEIBEL, G. P. ; ; ALMEIDA, S. J. M. . 2-Coefficient Fixed Point Hardwired Adaptive Filtering Based on LMS. 2012. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

@@ -1,0 +1,1093 @@
+{
+  "name": "Adriano Peres de Morais",
+  "lattes_id": "2780595038162903",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "ANTONIO CASSOL, JHONATAN ; CIPRIANI, JOAO PEDRO SCHERER ; DIANA, BRUNA RAFAELA DOS SANTOS ; KOSTIC, DUSAN ; WOLTER, MARTIN ; SPERANDIO, MAURICIO ; SIMI´C, SIMISA ; FREITAS-GUTIERRES, LUIZ FERNANDO ; DE MORAIS, ADRIANO PERES . Development of a Hardware-in-the-Loop Framework for Power System Protective Relay Testing: An Approach Using Real-Time Co-Simulation. IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. XX, p. 1-13, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/tia.2026.3689858"
+        },
+        {
+          "texto": "HUAQUISACA, J. C. P. ; VIEIRA, J. P. A. ; LEAO, A. P. ; CARDOSO Jr., G. ; MORAIS, A. P. ; FARIAS, P. E. ; GALLAS, M. ; SANTOS, M. C. . A fault-model-free method based on zero-crossings for locating high-impedance faults in overhead distribution networks. IET Generation Transmission & Distribution , v. 19, p. e13353, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1049/gtd2.13353"
+        },
+        {
+          "texto": "WONTROBA, ALDAIR ; DE MORAIS, ADRIANO PERES ; DAMIANI, JULIANO ; ROSSINI, JEAN PEREIRA ; GALLAS, MAIRON ; CARDOSO, GHENDY ; VIEIRA, JOÃO PAULO ABREU . An Artificial Intelligence Framework for Vegetation Identification in Overhead Distribution Networks Using the IEC 61850 Standard. IEEE TRANSACTIONS ON POWER DELIVERY , v. 40, p. 3382-3389, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2025.3611930"
+        },
+        {
+          "texto": "HUAQUISACA, J. C. P. ; VIEIRA, J. P. A. ; LEAO, A. P. ; CORDEIRO, M. A. M. ; CARDOSO, G. ; MORAIS, A.P. ; FARIAS, P. E. . High Impedance Fault Models for Overhead Distribution Networks: A Review and Comparison with MV Lab Experiments. Energies , v. 17, p. 1125-1125, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.3390/en17051125"
+        },
+        {
+          "texto": "GALLAS, MAIRON ; FARIAS, PATRICK ESCALANTE ; WONTROBA, ALDAIR ; MORAIS, ADRIANO PERES ; VIEIRA, JOÃO PAULO ABREU ; ROSSINI, JEAN PEREIRA ; JUNIOR, GHENDY CARDOSO . A double-ended third harmonic method for vegetation high impedance fault location in overhead distribution systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 231, p. 110257, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110257"
+        },
+        {
+          "texto": "ZANIN BERTOLETTI, AUGUSTO ; CARDOSO, GHENDY ; DE MORAIS, ADRIANO PERES ; MARCHESAN, GUSTAVO ; CAMPOS DO PRADO, JOSUE . Ground and phase fault classification for half-wavelength transmission lines relaying purposes. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 148, p. 108966, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2023.108966"
+        },
+        {
+          "texto": "SARTORI, ÂNGELO FELIPE ; DE MORAIS, ADRIANO PERES ; NETTO, ULISSES CHEMIN ; LIMA, DIOMAR ADONIS COPETTI ; BERNARDON, DANIEL PINHEIRO ; HOKAMA, WAGNER SEIZO . Performance Analysis of Overcurrent Protection under Corrupted Sampled Value Frames: A Hardware-in-the-Loop Approach. Energies , v. 16, p. 3386, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16083386"
+        },
+        {
+          "texto": "LAZZARI, ELEONORA FRIPP ; DE MORAIS, ADRIANO PERES ; RAMOS, MAICON ; FERRAZ, RENATO ; MARCHESAN, TIAGO ; BENDER, VITOR CRISTIANO ; CARRARO, RODINEI ; FONTOURA, HERBER ; CORREA, CRISTIAN ; RESENER, MARIANA . A Comprehensive Review on Transient Recovery Voltage in Power Systems: Models, Standardizations and Analysis. Energies , v. 16, p. 6348, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16176348"
+        },
+        {
+          "texto": "FERREIRA, FABIANO SANTOS ; MARCHESAN, G. ; MORAIS, A. P. . SOLUÇÕES PARA MELHORAR A QUALIDADE DE ENERGIA DE SISTEMAS HÍBRIDOS FOTOVOLTAICO-DIESEL. CONTEMPORÂNEA - REVISTA DE ÉTICA E FILOSOFIA POLÍTICA , v. 3, p. 249-269, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.56083/rcv3n1-016"
+        },
+        {
+          "texto": "SARTORI, A. ; MORAIS, A.P. ; CARDOSO, GHENDY ; MARCHESAN, GUSTAVO ; GUTIERRES, L. F. F. . A morphological approach for turn-to-turn fault detection in synchronous split-phase generators. ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107555, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107555"
+        },
+        {
+          "texto": "PAULA, H. R. ; PEREIRA FILHO, C. S. ; MORAIS, A.P. ; ANDRADE, J. S. ; SILVEIRA, E. G. . Rotating negative-sequence phasors for blocking and unblocking the distance protection during power swings. ELECTRIC POWER SYSTEMS RESEARCH , v. 202, p. 107554, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107554"
+        },
+        {
+          "texto": "MARCHESAN, G. ; MENCO, C. A. ; CARDOSO Jr., G. ; GUTIERRES, L. F. F. ; Morais, A. P . Rate of Change of Active Power as a Power Swing Blocking Function of Distance Relays. IEEE Latin America Transactions , v. 20, p. 259-268, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tla.2022.9661465"
+        },
+        {
+          "texto": "COSTA, GUILHERME B. ; DAMIANI, JULIANO S. ; MARCHESAN, GUSTAVO ; MORAIS, ADRIANO P. ; BRETAS, ARTURO S. ; CARDOSO JR., GHENDY . A multi-agent approach to distribution system fault section estimation in smart grid environment. ELECTRIC POWER SYSTEMS RESEARCH , v. 204, p. 107658, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107658"
+        },
+        {
+          "texto": "WONTROBA, ALDAIR ; MORAIS, ADRIANO PERES ; CARDOSO, GHENDY JUNIOR ; VIEIRA, JOÃO PAULO ABREU ; FARIAS, PATRICK ESCALANTE ; GALLAS, MARION ; ROSSINI, JEAN PEREIRA . High-impedance fault detection on downed conductor in overhead distribution networks. ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108216, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108216"
+        },
+        {
+          "texto": "LIMA, DIOMAR A. C. ; BERNARDON, DANIEL P. ; MORAIS, ADRIANO P. ; OLIVEIRA, AÉCIO L. ; HOKAMA, WAGNER S. ; CONCEIÇÃO, JÚLIA B. R. ; SARTORI, ÂNGELO F. . Review of Bus Differential Protection Using IEC 61850. Energies , v. 15, p. 9537, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15249537"
+        },
+        {
+          "texto": "MARCHESAN, G. ; MARESCH, K. ; CARDOSO Jr., G. ; MORAIS, A.P. ; MURARO, M. . Distributed Synchronous generation ride-through enhancement by anti-islanding protection blocking. ELECTRIC POWER SYSTEMS RESEARCH , v. 196, p. 107232, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107232"
+        },
+        {
+          "texto": "ALVES, ZEDEQUIAS MACHADO ; CUNICO, LUCAS MONDARDO ; KROTH, GEÓVIO ; MORAIS, A. P. ; MARCHESAN, G. ; JUNIOR, GHENDY CARDOSO . Power Factor in Distributed Generation Installations: A Case Study and Critical Analysis. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. -, p. -, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00801-1"
+        },
+        {
+          "texto": "BRAGA, G. ; MORAIS, A.P. ; BERTOLETTI, A. Z. ; CARDOSO Jr., G. ; OLIVEIRA, A. L. . Neural model of the expulsion fuse link Time-Current Characteristic for computer-aided applications. ELECTRIC POWER SYSTEMS RESEARCH , v. 175, p. 105899, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2019.105899"
+        },
+        {
+          "texto": "FARIAS, P. E. ; MORAIS, A.P. ; CARDOSO Jr., G. ; ROSSINI, J. P. . Non-Linear High Impedance Fault Distance Estimation in Power Distribution Systems: A Continually Online-Trained Neural Network Approach Electric Power Systems Research. ELECTRIC POWER SYSTEMS RESEARCH , v. 157, p. 20-28, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.11.018"
+        },
+        {
+          "texto": "MORAIS, A.P. ; BRETAS, A. S. ; BRAHMA, S. ; CARDOSO Jr., G. . High-Sensitivity Stator Fault Protection for Synchronous Generators: a time-domain approach based on mathematical morphology. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 99, p. 419/425, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2018.01.038"
+        },
+        {
+          "texto": "MARQUES, J. P. ; MORAIS, A.P. ; MENCO, C. A. ; CARDOSO Jr., G. . A reliable setting-free technique for power transformer protection based on wavelet transform. ELECTRIC POWER SYSTEMS RESEARCH , v. 162, p. 161-168, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2018.05.002"
+        },
+        {
+          "texto": "JEFERSON MARQUES, JEFERSON PRATES MARQUES ; CARDOSO JUNIOR, GHENDY ; PERES DE MORAIS, ADRIANO . New Methodology for Identification of Sympathetic Inrush for a Power Transformer using Wavelet Transform. IEEE Latin America Transactions , v. 16, p. 1158-1163, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/TLA.2018.8362151"
+        },
+        {
+          "texto": "KAEHLER GUARDA, FERNANDO GUILHERME ; CARDOSO JUNIOR, GHENDY ; PERES DE MORAIS, ADRIANO ; HOLANDA BEZERRA, UBIRATAN ; PAULO ABREU VIEIRA, JOAO . Hybrid Method for Protective Devices Placement, Sizing and Coordination in Electric Distribution Systems. Revista IEEE América Latina , v. 15, p. 257-262, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tla.2017.7854620"
+        },
+        {
+          "texto": "BORGES, P.R.O. ; RAMOS, J.E. ; CARVALHO, C.A.T. ; PIRES, V.A. ; CARDOSO, G. ; RAMOS, D.B. ; de Morais, A.P. . Repowering rural single-phase distribution network: A non-conventional proposal using two overhead wires and the ground as the third phase. ELECTRIC POWER SYSTEMS RESEARCH , v. 150, p. 105-117, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.05.001"
+        },
+        {
+          "texto": "SILVA, C. D. L. ; CARDOSO Jr., G. ; MORAIS, A. P. ; MARCHESAN, G. ; GUARDA, F. G. K. . A continually online trained impedance estimation algorithm for transmission line distance protection tolerant to system frequency deviation. Electric Power Systems Research (Print) , v. 147, p. 73-80, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2017.02.023"
+        },
+        {
+          "texto": "OLIVEIRA, AÉCIO L. ; DE ARAÚJO, OLINTO C.B. ; CARDOSO, GHENDY ; DE MORAIS, ADRIANO P. ; MARIOTTO, LENOIS . A mixed integer programming model for optimal fault section estimation in power systems. International Journal of Electrical Power & Energy Systems , v. 77, p. 372-384, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2015.11.090"
+        },
+        {
+          "texto": "MORAIS, A.P. ; BRETAS, A. S. ; MYEN, S. ; CARDOSO, G. . Adaptive Mho Relay for Synchronous Generator Loss-of-Excitation Protection: a Capability Curve Limit based Approach. IET Generation, Transmission & Distribution (Print) , v. 10, p. 3449-3457, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2015.1552"
+        },
+        {
+          "texto": "FARIAS, P. E. ; MORAIS, A.P. ; CARDOSO, G. ; ROSSINI, J. P. . Fault Location in Distribution Systems: A Method Considering the Parameter Estimation Using a RNA Online. Revista IEEE América Latina , v. 14, p. 4741-4749, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/TLA.2016.7817005"
+        },
+        {
+          "texto": "MORAIS, A.P. ; CARDOSO, G. ; ; MARCHESAN, G. . A morphological filtering algorithm for fault detection in transmission lines during power swings. Electric Power Systems Research (Print) , v. 122, p. 10-18, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.12.009"
+        },
+        {
+          "texto": "MARCHESAN, GUSTAVO ; MURARO, MATIAS ; CARDOSO JUNIOR, GHENDY ; MARIOTTO, LENOIS ; de Morais, Adriano . Passive Method for Distributed Generation Island Detection Based on Oscillation Frequency. IEEE Transactions on Power Delivery , v. PP, p. 1-1, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2015.2438251"
+        },
+        {
+          "texto": "SANTOS, E. M. ; ; FARIAS, P. E. ; MORAIS, A. P. . CT Saturation Detection Based on the Distance Between Consecutive Points in the Plans Formed by the Secondary Current Samples and Their Difference-Functions. IEEE Transactions on Power Delivery , v. 28, p. 29-37, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2012.2220382"
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; ; . Numerical distance relaying algorithm based on mathematical morphology and least-squares curve fitting method. Electric Power Systems Research (Print) , v. 81, p. 1144-1150, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2011.01.003"
+        },
+        {
+          "texto": "MACHADO, TATIANE MARTINS ; CARDOSO Jr., G. ; STEFANELLO, NILVANIA ; MORAIS, A. P. ; MARIOTTO, LENOIS . Análise da resposta em regime transitório e permanente de algoritmos para filtragem digital utilizados em relés numéricos: velocidade de convergência, overshoot e sensibilidade em relação a constante de tempo. Controle & Automação (Impresso) , v. 22, p. 65-78, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1590/s0103-17592011000100006"
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; . An Innovative Loss-of-Excitation Protection Based on the Fuzzy Inference Mechanism. IEEE Transactions on Power Delivery , v. 25, p. 2197-2204, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2010.2051462"
+        },
+        {
+          "texto": "; ; PINHEIRO, H. ; MURARO, M. ; MORAIS, A. P. . Power system transient stability indices: an algorithm based on equivalent clusters of coherent generators. IET Generation, Transmission & Distribution (Print) , v. 4, p. 1223-1235, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2009.0647"
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; ; . Performance Evaluation of the Adaptive Loss Of Field Protection in Synchronous Generators by means of Positive Offset Method. Revista IEEE América Latina , v. 7, p. 643-649, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1109/TLA.2009.5419361"
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; . Avaliação do desempenho dos métodos de proteção contra a perda de excitação em geradores síncronos. CONTROLE & AUTOMAÇÃO (IMPRESSO) , v. 20, p. 1, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1590/s0103-17592009000400007"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "WONTROBA, ALDAIR ; A. P. Morais ; MARCHESAN, TIAGO ; BENDER, VITOR CRISTIANO ; LAZZARI, E. F. ; BERNARDON, DANIEL P. . Modelagem de transitórios de alta frequência em transformadores de potência empregando EMTP para integração ao SEP. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. XXVIII SNPTEE, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSINI, J. P. ; A. P. Morais ; . Avaliação da Seleção de Fases para Faltas de Alta Impedância em Redes de Distribuição a partir da Comparação Angular de Componentes Simétricas.. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2025, Recife. XXVIII SNPTEE, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; SARTORI, ÂNGELO FELIPE ; HOKAMA, W. S. ; NETTO, U. C. ; TRINDADE, M. ; BLASI, T. . Experiência da UFSM Energia com o uso de Simulação Digital em Tempo Real em Testes com Subestações Digitais fundamentadas na Norma IEC 61850. In: XVII Seminário Técnico de Proteção e Controle, 2024, São Paulo. XVII STPC, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; SARTORI, A. ; CASSOL, JHONATAN ANTÔNIO ; BERNARDON, D. P. ; NETTO, U. C. ; HOKAMA, W. S. ; CONCEICAO, J. B. R. ; LIMA, DIOMAR A. C. . REAL-TIME DIGITAL SIMULATION AND IEC 61850 STANDARD: INTEROPERABILITY TEST BETWEEN OPAL-RT AND TYPHOON HIL SIMULATORS. In: 27th International Conference on Electricity Distribution, 2023, Roma. 27th CIRED, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BONATO, WELLINGTON ; BONATO, WELLINGTON LUIZ SANTOS ; MORAIS, ADRIANO PERES DE . Avaliação do Impacto de Geração Distribuída no Índice de Coordenação e Seletividade de Sistema de Distribuição de Energia. In: 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023, Santa Maria. Anais do 15th Seminar on Power Electronics and Control, SEPOC 2023, 2023. p. --.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.53316/sepoc2023.007"
+        },
+        {
+          "texto": "DA SILVA, MORGHAN GERVASIO ; DINIZ, WELLINTON ; MORAIS, DIEGO ROBERTO ; GUARDA, FERNANDO GUILHERME KAEHLER ; DE MORAIS, ADRIANO PERES ; NETO, NELSON KNAK . A Method to Improve Digital Relays Coordination in Power Systems using Particle Swarm Optimization. In: 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023, Santa Maria. 2023 15th Seminar on Power Electronics and Control (SEPOC), 2023. p. 1.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/sepoc58810.2023.10322595"
+        },
+        {
+          "texto": "ROSANELLI, A. A. ; BARRIQUELLO, C. H. ; SARTORI, A. ; MORAIS, A.P. ; BERNARDON, D. P. ; HOKAMA, W. S. ; CONCEICAO, J. B. R. . Analysis of Real Time Implementation of Resampling Schemes: An Approach Based on IEC 61850-9-2. In: Proceedings of the 15th Seminar on Power Electronics and Control (SEPOC 2023), 2023, Santa Maria. SEPOC 2023, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/SEPOC58810.2023.10322632"
+        },
+        {
+          "texto": "DAMIANI, J. ; COSTA, G. B. ; WONTROBA, ALDAIR ; GALLAS, M. ; ; MORAIS, A.P. . Methodology for detecting Non-Technical Losses with Smart Metering employing Multi-Agent Systems. In: 15th Seminar on Power Electronics and Control (SEPOC 2023), 2023, Santa Maria. SEPOC 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CASSOL, J. ; DAMIANI, J. ; GORETTI, A. A. T. ; RABELO, S. ; GALLAS, M. ; MORAIS, A.P. . Loss-of-Field Protection Testing: Software and Hardware-in-the-Loop Approach. In: 15th Seminar on Power Electronics and Control (SEPOC 2023), 2023, Santa Maria. SEPOC 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "WONTROBA, A. ; Morais, A. P ; CARDOSO JUNIOR, GHENDY ; GALLAS, M. ; ROSSINI, J. P. ; FARIAS, P. E. ; VIEIRA, J. P. A. ; SANTOS, O. S. . Desenvolvimento de Software para Integração e Simulação de Banco de Dados de Falta de Alta Impedância de Vegetação no ATP. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília-DF. XXVII SNPTEE, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "GALLAS, M. ; ROSSINI, J. P. ; WONTROBA, A. ; CARDOSO JUNIOR, GHENDY ; Morais, A. P ; FARIAS, P. E. ; VIEIRA, J. P. A. ; SANTOS, O. S. ; ERPEN, V. A. F. . Localização de Faltas de Alta Impedância em Sistemas de Distribuição Considerando Diferentes Configurações de Falta. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília-DF. XXVII SNPTEE, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LAZZARI, E. F. ; MORAIS, A.P. ; RESENER, MARIANA ; FERRAZ, RENATO ; MARCHESAN, T. B. ; FONTOURA, H. C. ; CORREA, C. H. ; CARRARO, R. . ESTUDO NUMÉRICO DA SUPORTABILIDADE DE DISJUNTORES FRENTE ÀS SOLICITAÇÕES DE TENSÕES DE RESTABELECIMENTO TRANSITÓRIAS. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasília-DF. XXVII SNPTEE, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SEIDEL, ÁLYSSON RANIERE ; ROGGIA, LEANDRO ; CIPRINIANI, J. P. ; DAROS, G. C. ; Morais, A. P ; ILHA, L. ; ROCHA, L. F. ; ALLI, G. . Carregador Isolado para Manutenção Simultânea de Elementos Individuais em Bancos de Baterias Chumbo-ácidas de Subestações de Energia. In: XVI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. XXVI SNPTEE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A. ; MORAIS, A.P. ; LIMA, DIOMAR A. C. ; NETTO, U. C. ; BERNARDON, DANIEL P. ; HOKAMA, WAGNER S. . Proteção Diferencial de Barras de Subestações de Distribuição: Análise do funcionamento de metodologias fundamentadas na Norma IEC 61850. In: XXIV Congresso Brasileiro de Automática, 2022, Fortaleza/CE. XXIV CBA, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, I. B. ; GUARDA, F. G. K. ; Morais, A. P ; CASSOL, J. . Desenvolvimento de Modelo Virtual de Religador para Redes de Distribuição de Energia para uso em Simulação Hardware-in-the-Loop. In: Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. IX SBSE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "VEIGA, M. F. ; Morais, A. P . Métodos de Bloqueio por Oscilações de Potência: Uma Análise em Linhas de Transmissão de Três Terminais. In: Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. IX SBSE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "OZELAME, J. G. ; Morais, A. P . Proteção Anti-Ilhamento da Geração Distribuída: análise da atuação indevida da função de subtensão devido a curtos circuitos em alimentadores adjacentes. In: Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. IX SBSE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "DAMIANI, J. ; DA COSTA, G. B. ; COSTA, G. B. ; CARDOSO Jr., G. ; Morais, A. P . Análise da Qualidade do Fornecimento de Energia Elétrica Através do Uso de Sistemas Multiagentes. In: IX Simpósio Brasileiro de Sistemas Elétricos. In: Simpósio Brasileiro de Sistemas Elétricos, 2022, Santa Maria. IX SBSE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "WONTROBA, ALDAIR ; MORAIS, A.P. ; CARDOSO Jr., G. ; GALLAS, M. ; ROSSINI, J. P. . Análise do Comportamento de Métodos de Detecção de Falta de Alta Impedância sob Diferentes Modelos de Falta e Casos de Rompimento de Condutor. In: XIV Latin-American Congress on Electricity Generation and Transmission, 2022, Rio de Janeiro. XIV CLAGTEE, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CASSOL, J. ; WONTROBA, ALDAIR ; PEREIRA, I. B. ; SARTORI, A. ; GUARDA, F. G. K. ; Morais, A. P . Desenvolvimento de Plataforma de Testes Virtuais em Tempo Real para Dispositivos Eletrônicos Inteligentes com Funçãao de Detecçãao de Faltas de Alta Impedância. In: XXIV Congresso Brasileiro de Automática, 2022, Fortaleza/CE. XXIV CBA, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ILHA, LUCAS MONTEIRO ; CIPRIANI, JOÃO PEDRO SCHERER ; DAROS, GIANCARLO CLERICI ; OLIVEIRA, LEONARDO DE ; SEIDEL, ÁLYSSON RANIERE ; ROGGIA, LEANDRO ; MORAIS, ADRIANO PERES DE ; ROCHA, LUCIANO FAVRETTO DA . Projeto e Desenvolvimento de um Descarregador de Baterias Chumbo-Ácido com Aquisição de Dados. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.067"
+        },
+        {
+          "texto": "DAROS, GIANCARLO CLERICI ; CIPRIANI, JOÃO PEDRO SCHERER ; ILHA, LUCAS MONTEIRO ; SEIDEL, ÁLYSSON RANIERE ; ROGGIA, LEANDRO ; MORAIS, ADRIANO PERES DE ; ROCHA, LUCIANO FAVRETTO DA . Projeto e Desenvolvimento de um Carregador Isolado de Baterias com Filtro de Saída LCL. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021). p. --.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.064"
+        },
+        {
+          "texto": "CASSOL, JHONATAN ANTÔNIO ; WONTROBA, ALDAIR ; GUARDA, FERNANDO GUILHERME KAEHLER ; MORAIS, ADRIANO PERES DE . Implementação de Modelo de Falta de Alta Impedância para Aplicação em Simulações Digitais em Tempo Real. In: Seminar on Power Electronics and Control (SEPOC 2021), 2021, Santa Maria - RS. Proceedings of the 13th Seminar on Power Electronics and Control (SEPOC 2021), 2021. p. --.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.53316/sepoc2021.031"
+        },
+        {
+          "texto": "CIPRINIANI, J. P. ; DAROS, G. C. ; SEIDEL, A. R. ; ROGGIA, L. ; MORAIS, A.P. ; ROCHA, L. F. . Isolated Lead-Acid Cell Charger with LCL Output Filter for Battery Maintenance. In: 30th International Symposium on Industrial Electronics (ISIE), 2021, Kyoto. ISIE 2021, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SARTORI, A. ; MORAIS, A.P. ; CARDOSO Jr., G. ; GUTIERRES, L. F. F. ; RABELO, S. ; OLIVEIRA, C. . Detecção de Faltas entre Espiras em Geradores Síncronos de Fase Dividida: Uma Análise Comparativa entre configurações de proteção.. In: Congresso Brasileiro de Automática, 2020. XXIII CBA, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1703"
+        },
+        {
+          "texto": "FANFA DA VEIGA, MATHEUS ; THAIS BENCKE, FERNANDA ; PERES DE MORAIS, ADRIANO ; CARDOSO JUNIOR, GHENDY ; MARCHESAN, GUSTAVO . ANÁLISE DOS MÉTODOS DE BLOQUEIO DO RELÉ DE DISTÂNCIA DURANTE OSCILAÇÕES DE POTÊNCIA EM LINHAS DE TRÊS TERMINAIS. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1326"
+        },
+        {
+          "texto": "RAMOS, C. R. ; MARCHESAN, G. ; SANTOS, L. ; MORAIS, A.P. . Implementação e análise de métodos de estimação de frequência no DSP F2877s. In: Congresso Brasileiro de Automática, 2020. XXIII CBA, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "DE OLIVEIRA, JÉFERSON MATHEUS ; PERES DE MORAIS, ADRIANO ; CAVALHEIRO MARCHESAN, ADRIANO ; BASSI DE ARAUJO, OLINTO CESAR ; CARDOSO JUNIOR, GHENDY ; FRIGHETTO SCHNEIDER, ESTEVÃO . Análise da Viabilidade Técnica de Manobras de Paralelismo entre Alimentadores de Distribuição Utilizando Chaves Monopolares. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1085"
+        },
+        {
+          "texto": "MACHADO ALVES, ZEDEQUIAS ; MONDARDO CUNICO, LUCAS ; KROTH, GEÓVIO ; PERES DE MORAIS, ADRIANO ; MARCHESAN, GUSTAVO ; CARDOSO JUNIOR, GHENDY . Fator de potência em instalações com geração distribuída: Estudo de caso em geração fotovoltaica de 73,28 kWp. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1280"
+        },
+        {
+          "texto": "S. CIPRIANI, JOÃO PEDRO ; C. DAROS, GIANCARLO ; F. GONÇALVES, MATHEUS ; M. ILHA, LUCAS ; ROGGIA, LEANDRO ; P. DE MORAIS, ADRIANO ; E. BISOGNO, FÁBIO ; R. SEIDEL, ÁLYSSON ; F. DA ROCHA, LUCIANO . Modelagem e Extração Paramétrica de Baterias de Chumbo-Ácido para Desenvolvimento de Conversores. In: Congresso Brasileiro de Automática 2020, 2020. Anais do Congresso Brasileiro de Automática 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/asba.v2i1.1667"
+        },
+        {
+          "texto": "C. B. FERRI, RUY ; P. DE MORAIS, ADRIANO ; CARDOSO J., GHENDY ; C. B. DE ARAÚJO, OLINTO ; C. MARCHESAN, ADRIANO . Índice para Avaliação da Coordenação e Seletividade da Proteção em Sistemas de Distribuição. In: Simpósio Brasileiro de Sistemas Elétricos SBSE2020, 2020. Anais do Simpósio Brasileiro de Sistemas Elétricos 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.48011/sbse.v1i1.2237"
+        },
+        {
+          "texto": "VIEIRA, J. P. A. ; ; MORAIS, A. P. ; WONTROBA, ALDAIR ; GALLAS, M. ; ROSSINI, J. P. . Reproduction of a High Impedance Double line-to-ground Fault Using Real Oscillograph. In: 10th IEEE PES Transmission & Distribution Conference and Exposition, 2020, Montevideo. T&D LA 2020, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "DA COSTA, GUILHERME BRAGA ; ZANIN BERTOLETTI, AUGUSTO ; DE MORAIS, ADRIANO PERES ; CARDOSO, GHENDY ; BRETAS, ARTURO SUMAN . Curve Fitting Analysis of Expulsion Fuse Links for Protection Studies. In: 2019 IEEE PES Innovative Smart Grid Technologies Conference Latin America (ISGT Latin America), 2019, Gramado. 2019 IEEE PES Innovative Smart Grid Technologies Conference - Latin America (ISGT Latin America), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/isgt-la.2019.8895456"
+        },
+        {
+          "texto": "WONTROBA, A. ; MORAIS, A.P. ; ; GALLAS, M. ; ROSSINI, J. P. ; FARIAS, P. E. ; VIEIRA, J. P. A. ; SANTOS, M. C. . Modeling and Real-Time Simulation of High: Impedance Faults for Protection Relay Testing and Methods Validation. In: Innovative Smart Grid Technologies - Latin America, 2019, Gramado-RS. ISGT-LA, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895281"
+        },
+        {
+          "texto": "HUNSCHE, S. ; ZONIN, M. T. ; MORAIS, A.P. ; CARDOSO Jr., G. ; Olinto C. B. A ; MARCHESAN, A. ; BRETAS, A. S. ; MARTINS, K. T. ; SCHNEIDER, E. F. . Service Restoration in Distribution Systems based on Multi-Objective Genetic Algorithm considering repair and switching time. In: Innovative Smart Grid Technologies - Latin America, 2019, Gramado. ISGT-LA, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895309"
+        },
+        {
+          "texto": "WONTROBA, ALDAIR ; DE MORAIS, ADRIANO PERES ; ROSSINI, JEAN PEREIRA ; GALLAS, MAIRON ; CARDOSO, GHENDY ; VIEIRA, JOAO PAULO ABREU ; SANTOS, MARCELO COSTA ; FARIAS, PATRICK ESCALANTE . Comprehensive High Impedance Fault Model for Real-Time Environment. In: IECON 2019 45th Annual Conference of the IEEE Industrial Electronics Society, 2019, Lisbon. IECON 2019 - 45th Annual Conference of the IEEE Industrial Electronics Society, 2019. p. 6432.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/iecon.2019.8927406"
+        },
+        {
+          "texto": "HUNSCHE, S. ; MARCHESAN, A. ; MORAIS, A.P. ; ; ZONIN, M. T. ; Olinto C. B. A ; SCHNEIDER, E. F. ; BENCKE, F. . Metaheuristic Methods Comparison for Distribution Network Reconfiguration. In: 13TH LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2019, 2019, Santiago del Chile. CLAGTEE 2019, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "HUNSCHE, S. ; MARCHESAN, A. ; MORAIS, A.P. ; CARDOSO Jr., G. ; Olinto C. B. A ; SCHNEIDER, E. F. . A Multicriterial Decision Approach for Service Restoration in Distribution Systems Based on Genetic Algorithm. In: 13TH LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2019, 2019, Santigo del Chile. CLAGTEE 2019, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "GALLAS, MAIRON ; MARCONATO, GUSTAVO V. ; DE MORAIS, ADRIANO PERES ; FERRI, RUY CARLOS BACCA ; CARDOSO, GHENDY ; MARCHESAN, ADRIANO C. . Comparison of loss of excitation protection methods in synchronous generators. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE) [VII Brazilian Electrical Systems Symposium (SBSE)], 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/sbse.2018.8395816"
+        },
+        {
+          "texto": "BRAGA, G. ; BERTOLETTI, A. Z. ; CARDOSO Jr., G. ; de MORAIS, A. P . . Curve Fitting Analysis of Expulsion Fuse Links through the Cross-Validation Technique. In: IEEE PES Transmission & Distribution Conference and Exhibition - Latin America (T&D-LA), 2018, Lima. T&D-LA, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/TDC-LA.2018.8511744"
+        },
+        {
+          "texto": "BRAGA, G. ; BERTOLETTI, A. Z. ; de MORAIS, A. P . ; CARDOSO Jr., G. . Técnica de Validação Cruzada para Qualificação do Ajuste das Curvas Tempo versus Corrente dos Elos Fusíveis do Tipo Expulsão. In: 11 Seminar on Power Electronics and Control, 2018, Santa Maria. Sepoc, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSINI, J. P. ; FARIAS, P. E. ; DE MORAIS, A. P. ; CARDOSO, G. ; DA COSTA, G. B. . An alternative solution for the multiple estimation problem using fuzzy sets. In: 2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe), 2017, Milan. 2017 IEEE International Conference on Environment and Electrical Engineering and 2017 IEEE Industrial and Commercial Power Systems Europe (EEEIC / I&CPS Europe), 2017. p. 1.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/eeeic.2017.7977769"
+        },
+        {
+          "texto": "GALLAS, M. ; MORAIS, A.P. ; CARDOSO Jr., G. ; MARCHESAN, A. ; BRAGA, G. . A Comparative Analysis of Loss of Excitation Protection Methods for Synchronous Generators. In: IEEE Industrial and Commercial Pwer System Europe, 2017, Milão. IEEE I&CPS, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; BRAGA, G. ; MARCHESAN, A. ; GALLAS, M. ; CARDOSO, GHENDY . Curve Fitting Analysis of Time-Current Characteristic of Expulsion Fuse Links. In: IEEE Industrial and Commercial Power System Europe, 2017, Milão. IEEE I&CPS, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BRAGA, G. ; MARCHESAN, A. ; MORAIS, A.P. ; CARDOSO Jr., G. . Representation of Time-Current Characteristic of Expulsion Fuse Links for Computer-aided Simulations. In: THE 12th LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION, 2017, Mar del Plata. CLAGTEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "GUARDA, F. G. K. ; CARDOSO Jr., G. ; MORAIS, A.P. ; BEZERRA, U. H. ; VIEIRA, J. P. A. . Metodologia Híbrida para Alocação, Dimensionamento e Coordenação de Dispositivos de Proteção em Sistemas de Distribuição de Energia Elétrica. In: XII Congresso Brasileiro sobre Qualidade de Energia, 2017, Curitiba. CBQEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MARCHESAN, A. ; MORAIS, A.P. ; CARDOSO Jr., G. ; MENCO, C. A. . A Comparative Analysis of Differential Protection Methods for UHV Transmission Lines. In: 12th LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION, 2017, Mar del Plata. CLAGTEE, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "GAZEN, YURI NEVES ; ZARNOTT, ALEXANDRE BUBOLZ ; DE MORAIS, ADRIANO PERES ; CARDOSO, GHENDY ; DE LIMA OLIVEIRA, AECIO . New setting of loss of excitation protection in P-Q plan in order to maximize the operation area of the capacity curve of the synchronous machine. In: 2014 49th International Universities Power Engineering Conference (UPEC), 2014, Cluj-Napoca. 2014 49th International Universities Power Engineering Conference (UPEC). p. 1.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/upec.2014.6934771"
+        },
+        {
+          "texto": "FARIAS, PATRICK ESCALANTE ; DE MORAIS, ADRIANO PERES ; CARDOSO, GHENDY ; OLIVEIRA, AECIO L. . Transients detection and classification in distribution networks for high impedance faults identification. In: 2014 49th International Universities Power Engineering Conference (UPEC), 2014, Cluj-Napoca. 2014 49th International Universities Power Engineering Conference (UPEC). p. 1.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/upec.2014.6934774"
+        },
+        {
+          "texto": "DE LIMA OLIVEIRA, AECIO ; FARIAS, PATRICK ESCALANTE ; DE ARAUJO, OLINTO CESAR BASSI ; DE MORAIS, ADRIANO PERES ; CARDOSO, GHENDY . Treatment of alarms applied to fault diagnosis in power systems. In: 2014 49th International Universities Power Engineering Conference (UPEC), 2014, Cluj-Napoca. 2014 49th International Universities Power Engineering Conference (UPEC), 2014. p. 1.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/upec.2014.6934735"
+        },
+        {
+          "texto": "GUTIERRES, L. F. F. ; ; ; MORAIS, A. P. . PROPOSTA DE UMA METODOLOGIA DE PROTEÇÃO PARA PRESERVAR A COORDENAÇÃO E SELETIVIDADE ENTRE RELIGADORES E ELOS FUSÍVEIS DE SISTEMAS DE DISTRIBUIÇÃO NA PRESENÇA DE GERAÇÃO DISTRIBUÍDA. In: Encontro Regional Ibero-Americano do CIGRÉ, 2013, Foz do Iguaçu. XV ERIAC, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MARQUES, J. P. ; MENCO, C. A. ; ; MORAIS, A. P. ; MARCHESAN, G. . Protection and classification algorithm for operation power transformers using discrete wavelet transform and mathematical morphology. In: Latin-American Congress on Electric Power Generation, Transmission and Distribution, 2013, Vina del Mar. X CLAGTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MENCO, C. A. ; MARQUES, J. P. ; ; MORAIS, A. P. ; MARCHESAN, G. . Expert system for fault section diagnosis on power systems based in characteristic abstraction of system and alarm processing protection devices. In: Latin-American Congress on Electric Power Generation, Transmission and Distribution, 2013, Vina del Mar. X CLAGTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "GUTIERRES, L. F. F. ; ; MORAIS, A. P. ; . REVISÃO DE TÉCNICAS ELABORADAS DE MODO A EVITAR A PERDA DA COORDENAÇÃO E SELETIVIDADE ENTRE RELIGADORES E ELOS FUSÍVEIS DE SISTEMAS DE DISTRIBUIÇÃO QUANDO DA INSERÇÃO DE GERAÇÃO DISTRIBUÍDA. In: Congresso Brasileiro de Automática, 2012, Campina Grande. XIX CBA, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Gazen, Y. N. ; ; MORAIS, A. P. ; . Uma proposta de Proteção Contra Perda de Excitação Fundamentada no Comportamento da Trajetória da Impedância Aparente Vista pelo Relé no Tempo. In: XI Seminário Técnico de Proteção e Controle, 2012, Florianópolis. XI STPC, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "STEFANELLO, N. ; MORAIS, A. P. ; ; MARCHESAN, G. . Análise do Desempenho de Algoritmos para Filtragem Digital Operando em Frequencia Off-Nomina. In: Congresso Brasileiro de Eficiência Energética, 2011, Juiz de Fora - MG. IV CBEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MARCHESAN, G. ; MORAIS, A. P. ; ; SANTOS, E. M. ; STEFANELLO, N. . Algoritmos rastreadores de frequencia: uma análise crítica para estado permanente e frequencia variante no tempo. In: Congresso Brasileiro de Eficiência Energética, 2011, Juiz de Fora - MG. IV CBEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MARCHESAN, G. ; SANTOS, E. M. ; ; MORAIS, A. P. ; STEFANELLO, N. . A Influência de Ruídos e Distorções Harmônicas sobre os Rastreadores de Frequência. In: Conferência Brasileira sobre Qualidade da Energia Elétrica, 2011, Cuiabá - MT. IX CBQEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; MORAIS, A. P. ; Minussi ; BOLZAN, R. ; . Efeitos da Utilização dos Filtros Fundamentados da TDF com Capacidade de Remoção da Componente DC na Detecção de Oscilações de Potênncia. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, C. D. L. ; ; Olinto C. B. A ; MORAIS, A. P. ; . Restauração da coordenação de relés de sobrecorrente direcionais considerando a inserção de fontes de geração distribuída utilizando limitadores de corrente de falta. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "FARIAS, P. E. ; ; MORAIS, A. P. ; Minussi ; . Aprimoramento da técnica fundamentada na estimação de parâmetros de curvas para correção dos efeitos causados pela saturação dos transformadores de corrente com o auxílio da morfologia matemática. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; SANTOS, E. M. ; MORAIS, A. P. ; Minussi ; . Uma revisão crítica sobre os algoritmos rastreadores de frequencia considerando a resposta transitória e em regime permanente. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; MORAIS, A. P. ; ; FRITZEN, P. C. ; Olinto C. B. A . Uma nova proposta para a redução do tempo de disparo da proteção de sobrecorrente de retaguarda remota: customização de curvas por meio de duas funções 51. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "STEFANELLO, F. ; MORAIS, A. P. ; ; SANTOS, E. M. ; . Uma nova proposta para a proteção contra faltas monofásicas de alta resistência em linhas de transmissão, fundamentado na sequencia negativa e zero, tolerante à oscilação de potência. In: Latin-American Congress on Eletricity Generation and Transmission, 2011, Mar del Plata. IX CLAGTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; BOLZAN, R. ; ; ; SANTOS, E. M. . Análise de Técnicas de Bloqueio da Proteção de Distância em Linhas de Transmissão Durante Oscilações de Potência. In: III Simpósio Brasileiro de Sistemas Elétricos-SBSE, 2010, Belém-PA. III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; MORAIS, A. P. ; SANTOS, E. M. ; ; Obregon, L ; FARIAS, P. E. . Coordenação Ótima de Relés de Sobrecorrente por Meio de um Algoritmo Genético que Incorpora a Programação Linear. In: III Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. ; ; ; MORAIS, A. P. ; Obregon, L ; FARIAS, P. E. . Um Novo Método para Detecção dos Intervalos de Saturação de Transformadores de Corrente Baseado na Estatística das Diferenças entre Pontos da Corrente Secundária. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Obregon, L ; ; ; Zauk J. ; MORAIS, A. P. . Coordenação de Relés de Sobrecorrente: Uma Abordagem Utilizando a Programação Linear Incorporada ao Algoritmo Genético. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito - MS. XVIII CBA, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Gazen, Y. N. ; MORAIS, A. P. ; ; ; ; SANTOS, E. M. . Proteção Contra Perda de Excitação em Geradores Síncronos Através do Cálculo Contínuo da Impedância Aparente. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito - MS. XVIII CBA, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "STEFANELLO, N. ; MORAIS, A. P. ; . Avaliação do Desempenho em Regime Transitório e Permanente de Filtros Digitais para Relés Numéricos. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; Zauk J. ; MORAIS, A. P. ; . Aplicação Integrada entre Redes Neurais GRNN e Programação Binária Baseada em Recobrimento no Problema de Diagnóstico de Faltas em Sistemas de Distribuição de Energia. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MORAIS, A. P. . Seleção e Alocação Otimizada de Dispositivos de proteção e manobras em Sistemas Elétricos de Distribuição Utilizando o Algoritmo Colônia de Formigas. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. ; ; MORAIS, A. P. . Detecção do Intervalo de Saturação de Transformadores de Corrente através do Cálculo do Desvio Padrão entre Amostras de Corrente Secundária. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. ; MORAIS, A. P. ; . Aperfeiçoamento de um Algoritmo para Detecção da Região Saturada do Sinal da Corrente secundária produzida por Transformadores de Corrente. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Obregon, L ; ; MORAIS, A. P. . Automatização dos Estudos de Coordenação de Relés de Sobrecorrente de Tempo Inverso por meio de Algoritmo Genético. In: International Congress in Eletricity Distribution, 2010, Buenos Aires. CIDEL, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; MORAIS, A. P. ; Zauk J. ; Olinto C. B. A ; FRITZEN, P. C. . Utilização Integrada de Redes Neurais Artificiais e Algoritmos Genéticos para o Problema de Processamento de Alarmes e Diagnóstico de Faltas em Sistemas de Energia. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, T. M. ; STEFANELLO, N. ; ; MORAIS, A. P. ; Obregon, L . Análise do Desempenho de Algoritmos Dedicados à Remoção da Componente DC Exponencialmente Decrescente. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém - PA. III SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "STEFANELLO, N. ; ; MORAIS, A. P. ; MARCHESAN, G. ; STEFANELLO, F. ; SANTOS, E. M. . Melhoria no Desempenho dos Filtros Fundamentados na Transformada Discreta de Fourier Através da Redução do Tamanho da Janela de Dados. In: IEEE/PES 2010 Transmission & Distribuition Conference and Exposition latin America, 2010, São Paulo. IEEE/PES 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Obregon, L ; ; MORAIS, A. P. ; Zauk J. ; SANTOS, E. M. . Avaliação do Desempenho de um AG Empregando Diferentes Funções Objetivo e de Resolvedores Determinísticos Aplicados à Coordenação de Relés de Sobrecorrente em Sistemas de Potência.. In: IEEE/PES 2010 Transmission & Distribuition Conference and Exposition latin America, 2010, São Paulo. IEEE/PES 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Gazen, Y. N. ; MORAIS, A. P. ; ; FRITZEN, P. C. ; ; . Proposta de Aplicação do Método do Cálculo Contínuo da Impedância Aparente na Proteção Contra a Perda de Excitação em Geradores Síncronos. In: International Conference on Industry Applications, 2010, São Paulo. INDUSCON 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Gazen, Y. N. ; ; MORAIS, A. P. ; ; FARIAS, P. E. ; SANTOS, E. M. . Um Novo Método para Proteção de Geradores Síncronos Contra a Perda de Excitação Baseado na Terceira Derivada. In: IEEE/PES Transmission and Distribution Conference and Exposition Latin America, 2010, São Paulo. IEEE/PES 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Obregon, L ; MORAIS, A. P. ; ; . Coordenação de Relés de Sobrecorrente em Sistemas de Potência Industriais: Uma Abordagem Considerando Algoritmos Genéticos. In: IEEE/IAS 2010 international Conference on Industry Application, 2010, São Paulo. INDUSCON, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; ; SCHMIDT, I. ; BOLZAN, R. ; MACHADO, T. M. ; . Desenvolvimento de um Algoritmo para Proteção Digital de Linhas de Transmissão: aumento da confiabilidade da linha durante oscilações de potência. In: XI SIMPÓSIO DE ESPECIALISTAS EM PLANEJAMENTO DA OPERAÇÃO E EXPANSÃO ELÉTRICA, 2009, Belém - PA. XI SEPOPE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, W. ; Aviz ; Barros ; ; MORAIS, A. P. . GISPCCMS ? Sistema Integrado para o Gerenciamento e Análise da Coordenação das Proteções de Unidades Geradoras de Usinas Hidrelétricas. In: XI SIMPÓSIO DE ESPECIALISTAS EM PLANEJAMENTO DA, 2009, Belém - PA. XI SEPOPE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; . ANÁLISE DO DESEMPENHO DE UM MÉTODO DE PROTEÇÃO CONTRA A PERDA DE EXCITAÇÃO EM GERADORES SÍNCRONOS QUE UTILIZA A TEORIA DOS CONJUNTOS NEBULOSOS. In: XX Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife - PE. XX SNPTEE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BOLZAN, R. ; MORAIS, A. P. ; ; ; MACHADO, T. M. . Uma Contribuição para a Escolha da Filosofia de Proteção a ser Utilizada em Linhas de Transmissão: bloqueio ou desbloqueio do relé de distância durante as oscilações de potência. In: THE 8th LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2009, 2009, Ubatuba - SP. CLAGTEE 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; Zauk J. ; MORAIS, A. P. . Sistema Híbrido Fundamentado nas Redes GRNN e nos Algoritmos Genéticos para a Solução dos Problemas de Diagnóstico de Faltas e Processamento de Alarmes em Sistemas de Potência. In: THE 8th LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2009, 2009, Ubatuba - SP. CLAGTEE2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, T. M. ; MORAIS, A. P. ; ; Zauk J. ; FRITZEN, P. C. ; BOLZAN, R. . ANÁLISE COMPARATIVA DO DESEMPENHO DE VÁRIAS ARQUITETURAS DE REDES NEURAIS ARTIFICIAIS APLICADAS. In: IX Congresso Brasileiro de Redes Neurais, 2009, Ouro Preto. IX CBRN, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; Zauk J. ; ; BEZERRA, U. H. ; MORAIS, A. P. . PROCESSAMENTO DE ALARMES E DIAGNÓSTICO DE FALTAS EM SISTEMAS DE POTÊNCIA UTILIZANDO A REDE GRNN E OS ALGORITMOS GENÉTICOS. In: Congresso Brasileiro de Redes Neurais, 2009, Ouro Preto. IX CBRN, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; ; ; . Análise Crítica do Método Offset Positivo para a Proteção Contra a Perda de Excitação em Geradores Síncronos Comparado com Técnicas Convencionais. In: VIII Conferência Internacional de Aplicações Industriais, 2008, Poços de Caldas. VIII INDUSCON, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MORAIS, A. P. ; . Seleção e Alocação Otimizada de Dispositivos de Proteção Contra Sobrecorrentes em Sistemas Elétricos de Distribuição. In: Congresso Brasileiro de Automática, 2008, Juiz de Fora - MG. CBA, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; FONSECA, W. ; Aviz . Avaliação da Eficiência da Proteção Adaptativa para a Perda de Excitação em Geradores Síncronos Comparada às Técnicas de Mason e Berdy. In: XII Encontro Regional Ibero-america do CIGRÉ, 2007, Foz do Iguaçu. XII ERIAC, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, W. ; ; MORAIS, A. P. ; Aviz . Gerenciamento Integrado de Sistemas de Proteção e Curva de Capabilidade de Máquinas Síncronas: Agilidade e Segurança nos Ajustes de Relés, e Domínio das Restrições Impostas pela Proteção. In: XII ERIAC, 2007, Foz do Iguaçu. XII ERIAC, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; Aviz ; Barros ; FONSECA, W. ; . Proposta de Utilização da Função de Proteção de Perda Excitação por Meio de Unidades Mho Visando Aumentar a Região de Operação da Curva de Capacidade da Máquina Síncrona Delimitada pelo Regulador de Tensão, Curva de Excitação Mínima e Estabilidade Prática. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2007, Rio de Janeiro. XIX SPTEE, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, W. ; ; Aviz ; Barros ; MORAIS, A. P. . Gerenciamento de Sistemas de Proteção de Máquinas Síncronas Considerando as Características Operacionais da Curva de Capabilidade. In: Congresso de Inovação Tecnológica em Energia Elétrica, 2007, Araxá. IV CITENEL, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "Nascimento ; TOLLER, M. B. ; ; MORAIS, A. P. ; . Processamento Inteligente de Alarmes Via Redes Neurais Artificiais: Uma Contribuição para a Solução do Problema em Nível de Subestação. In: Congresso Brasileiro de Redes Neurais, 2007, Florianópolis. VIII CBRN, 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MORAIS, A. P. ; Minussi . Procedimentos para Diagnóstico Energético em Plantas Industriais com foco em Motores Elétricos ? ?case? Indústria de Cerâmicas Kipper. In: XX Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2005, Foz do Iguaçu. XX CRICTE, 2005.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MORAIS, A.P. ; WONTROBA, A. ; CARDOSO Jr., G. ; BRETAS, A. S. . High-Sensitivity Stator Fault Protection for Synchronous Generators: software-in-the-loop validation. In: International Conference on Real-Time Simulation, 2018, Paris. RT18, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BORIN, A. S. ; MORAIS, A. P. ; . ESTUDO DE MÉTODO PARA A OBTENÇÃO DA ZONA DE ESTABILIDADE DE TENSÃO EM UM PLANO P-Q. In: Jornada Acadêmica da UFSM, 2012, Santa Maria. 27 JAI, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Obregon, L ; ; MORAIS, A. P. . Obtenção de ajustes de relés de sobrecorrente de tempo inverso por meio de Algoritmos Genéticos. In: Jornada Acadêmica da UFSM, 2009, Santa Maria. JAI2009/UFSM, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "STEFANELLO, N. ; ; MORAIS, A. P. . REDUÇÃO DO NUMERO DE AMOSTRAS POR CICLO DOS FILTROS FOURIER DE CICLO COMPLETO E FOURIER DE. In: Jornada Acadêmica Integrada da UFSM, 2009, Santa Maria. JAI2009/UFSM, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Gazen, Y. N. ; ; MORAIS, A. P. . DETECÇÃO DE PERDA DE EXCITAÇÃO EM GERADORES SÍNCRONOS UTILIZANDO O MÉTODO DO CÁLCULO. In: Jornada Acadêmica Integrada da UFSM, 2009, Santa Maria. JAI2009/UFSM, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Obregon, L ; ; MORAIS, A. P. . Determinação dos parametros de ajuste de relés de sobrecorrente de tempo inverso.. In: XIX Seminário de Iniciação Científica, 2009, Joinville. XXIII CRICTE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BOLZAN, R. ; ; MORAIS, A. P. . UMA CONTRIBUIÇÃO PARA A ESCOLHA DA FILOSOFIA DE PROTEÇÃO A SER UTILIZADA EM LINHAS DE. In: Jornada Acadêmica Integrada da UFSM, 2009, Santa Maria. JAI2009/UFSM, 2009.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "MORAIS, A.P. . Serviço de Apoio Técnico ao Ministério da Ciência, Tecnologia e Inovações. 2024.",
+          "ano": 2024,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "MORAIS, A.P. ; CARDOSO, GHENDY JUNIOR; SANTOS, E. M.. Participação em banca de Wellington Luiz Santos Bonato. Aplicação de Metodologia para Determinação de Índice de Coordenação e Seletividade de Rede de Distribuição com Geração Distribuída. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; GUARDA, FERNANDO GUILHERME KAEHLER; VIANNA, P. L.. Participação em banca de Juliana Freire Veloso. COMPORTAMENTO DA FUNÇÃO DE PROTEÇÃO ANSI 21 FRENTE A MENSAGENS SAMPLED VALUES CORROMPIDAS. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; CARDOSO Jr., G.; VIEIRA, J. P. A.. Participação em banca de Jamenson Guilherme Ozelame. METODOLOGIA PARA PARAMETRIZAÇÃO DA FUNÇÃO DE SUBTENSÃO UTILIZADA EM GERADORES DISTRIBUÍDOS. 2022. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Morais, A. P ; CARDOSO Jr., G.; SANTOS, E. M.. Participação em banca de Matheus Fanfa da Veiga. MÉTODOS DE BLOQUEIO POR OSCILAÇÕES DE POTÊNCIA: UMA ANÁLISE EM LINHAS DE TRÊS TERMINAIS,. 2022. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; VIEIRA, J. P. A.; MORAIS, A.P. ; FARIAS, P. E.. Participação em banca de Jean Pereira Rossini. Metodologia de Detecção e Seleção de Fases para Faltas de Alta Impedância Através da Relação Angular de Componentes Simétricas. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; Morais, A. P ; SANTOS, E. M.. Participação em banca de Kaynan Maresch. Proposta de um Método para Bloqueio do Esquema Regional de Alívio de Carga Frente a Inercia Rotativa dos Motores de Indução. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; BRETAS, A. S.; KAEHLER GUARDA, FERNANDO GUILHERME. Participação em banca de Ruy Carlos Bacca Ferri. PROPOSTA DE ÍNDICE PARA A AVALIAÇÃODA COORDENAÇÃO E SELETIVIDADE DO ESQUEMA DE PROTEÇÃO DE SOBRECORRENTE EM SISTEMAS AÉREOS DE DISTRIBUIÇÃO. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Morais, A. P ; ; SILVA, C. D. L.. Participação em banca de CEZAR AUGUSTO DA SILVA OLIVEIRA. ANÁLISE DA TENSÃO DE RESTABELECIMENTO TRANSITÓRIA EM DISJUNTOR DE ALTA TENSÃO: ESTUDO DE CASO EM UMA INSTALAÇÃO ELÉTRICA INDUSTRIAL. 2021. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; BRETAS, A. S.; DE ARAÚJO, OLINTO C.B.; MANTOVANI, J. R. S.. Participação em banca de Samuel Hunsche. DESENVOLVIMENTO DE UMA METODOLOGIA PARA AUTOMATIZAÇÃO DOS PROCESSOS DE MANOBRA EM REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA UTILIZANDO ALGORITMOS EVOLUTIVOS. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; CARDOSO Jr., G.; BRITO, N. S. D.. Participação em banca de Aldair Wontroba. METODOLOGIA DE DETECÇÃO E CLASSIFICAÇÃO DE FALTAS DE ALTA IMPEDÂNCIA EM REDES DE DISTRIBUIÇÃO: IMPLEMENTAÇÃO EM HARDWARE E VALIDAÇÃO POR MEIO DE SIMULAÇÃO DIGITAL EM TEMPO REAL. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "A. P. Morais ; OLIVEIRA, A. L.; VIEIRA, J. P. A.. Participação em banca de Ângelo Felipe Sartori. Detecção de Faltas Entre Espiras em Geradores Síncronos de Fase Dividida: Uma abordagem baseada na morfologia matemática. 2020. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA FILHO, C. S.; MORAIS, A.P. ; CONTI, A. R.; BARACHO, F. R. A. C.. Participação em banca de Johnny Souza Andrade. Caracterização e Modelagem de Oscilações de Potência para Testes em Relés de Distância. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal de Minas Gerais.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A.P. ; OLIVEIRA, A. L.; SILVA, K. M. E.. Participação em banca de Mairon Gallas. Avaliação do Desempenho dos Métodos de Proteção Contra a Perda de Excitação em Geradores Síncronos: Uma Contribuição para a Melhoria da Técnica Baseada em Combinações de Sinais. 2019. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ECKERT, P. R.; HAFFNER, S. L.; GAZZANA, D. S.. Participação em banca de Lucas Araújo da Costa. ESTUDO DA INFLUÊNCIA DA CONEXÃO E ATERRAMENTO DE TRANSFORMADORES TRIFÁSICOS EM AFUNDAMENTOS DE TENSÃO NO CONTEXTO DE MT E BT. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; LEMOS, F. A. B.; PEREIRA, L. A.; HAFFNER, S. L.. Participação em banca de Júlia Beust da Silva. Avaliação Quantitativa do Efeito do Desequilíbrios da Rede e da Carga na Operação deSistemas de Distribuição de Energia Elétrica. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; CARDOSO Jr., G.; GUARDA, F. G. K.; MARCHESAN, G.. Participação em banca de Guilherme Braga da Costa. Modelagem das Curvas Tempo-corrente de Elos Fusíveis do Tipo Expulsão por meio de Redes Neurais Artificiais. 2018 - Universidade Federal de Santa Maria.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; FLORES, J. V.; LEBORGNE, R. C.. Participação em banca de LUCAS TUPI CALDAS PULZ. Uso de Pseudomedidas em Estimador de Estados para Cálculo de Distorção Harmônica em Sistemas Elétricos. 2017. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; Morais, A. P ; MORAIS, D. R.. Participação em banca de Alisson Fernando Marchioro. Estudos e Testes de Desempenho de Proteção de Linhas de Transmissão AC Conectadas a Sistemas HVDC - Estudo de Caso Aplicado à LT GARABI2 - Santo Ângelo. 2017. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; BRETAS, A. S.. Participação em banca de Chrystian Dalla Lana da Silva. Estimação Fasorial Aplicada a Relés de Proteção Numéricos Utilizando os Métodos de Ajuste de Curvas e Redes Neurais Artificiais. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ALENCAR, R. J. N.. Participação em banca de Jeferson Prates Marques. PROTEÇÃO DE TRANSFORMADORES DE POTÊNCIA E CLASSIFICAÇÃO DE TRANSITÓRIOS ELÉTRICOS POR MEIO DA TRANSFORMADA WAVELET DISCRETA. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MEDEIROS JUNIOR, M. F.; Olinto C. B. A. Participação em banca de Aécio de Lima Oliveira. Proposta de uma Metodologia para o Tratamento de Alarmes e Diagnóstico de Falta em Centros de Operação e Controle de Sistemas de Potência. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; TARANTO, G. N.. Participação em banca de Luiz Fernando de Freitas Gutierres. Proposta de Um Sistema de Proteção Para Preservar a Coordenação Entre Religadores e Elos Fusíveis de Sistemas de Distribuição na Presença de Geração Distribuída. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; Olinto C. B. A; ; BARBOSA, D.. Participação em banca de João Montagner Zauk. Uma Nova Abordagem para Estimação da Seção em Falta em Sistemas Elétricos de Potência Através da Geração de padrões de Causa Efeito em Tempo Real. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; OLESKOVICZ, M.; GOMES, N. R.. Participação em banca de Gustavo Marchesan. Estimadores de Frequência Aplicados a Sistemas Elétricos de Potência. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; BERNARDON, D. P.; MEDEIROS JUNIOR, M. F.. Participação em banca de Patrick Escalante Farias. Detecção e Classificação de Transitórios em Redes de Distribuição para identificação de Faltas de Alta Impedância. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "MORAIS, A. P. ; ; VIEIRA, J. P. A.; FARIAS, P. E.; MORETO, M.. Participação em banca de Aldair Wontroba. Identificação de Vegetação em Redes de Distribuição Aéreas Utilizando Inteligência Artificial e a Norma IEC 61850. 2025. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO JR., GHENDY; MARCHESAN, GUSTAVO; MORAIS, A.P. ; PIANTINI, A.; RAMOS, J. E.; SANTOS, E. M.. Participação em banca de Leyla Kräulich. ANÁLISE DE CUSTO-BENEFÍCIO DO SISTEMA NÃO CONVENCIONAL TRIFÁSICO A DOIS FIOS PARA A DISTRIBUIÇÃO DE ENERGIA ELÉTRICA EM MÉDIA TENSÃO NO MEIO RURAL. 2024. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; MORAIS, A. P. ; MACEDO JUNIOR, J. R.; ISSICABA, D.; LAZZARETTI, A. E.. Participação em banca de Dionatan Augusto Guimarães Cieslak. Contributions on High Impedance Fault Classification in Microgrids Using Harmonic Synchrophasors. 2024. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KIENLE, A.; WOLTER, M.; BERNADON, D. P.; MORAIS, A. P. ; SPERANDIO, M.; PIONTECK, T.. Participação em banca de Mauro dos Santos Ortiz. Forecasting Model for the Integration of Battery Electric Vehicles into the Power Grid using System Dynamics. 2024. Tese (Doutorado em Engenharia Elétrica) - OTTO-VON-GUERICKE-UNIVERSITÃ?T MAGDEBURG.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO JUNIOR, GHENDY; MORAIS, A. P. ; MATEUS, A. C.; RAMOS, J. E.; SILVA, R. M.. Participação em banca de Viviane Barrozo da Silva. Deteção de Ilhamento em um Sistema de Distribuição com Multiplos Geradores Distribuídos Utiliando Rede Neural Paraconsistente. 2023. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA FILHO, C. S.; Morais, A. P ; LOPES, F.; SOUZA, J. R. M. S.; CONTI, A. R.; SILVEIRA, E. G.. Participação em banca de Henrique dos Reis Paula. NOVOS ALGORITMOS PARA PROTEÇÃO DE LINHAS DE TRANSMISSÃO DURANTE OSCILAÇÕES DE POTÊNCIA. 2022. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal de Minas Gerais.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO JR., GHENDY; MORAIS, A.P. ; OLIVEIRA, A. L.; ; MAGATAO, L.. Participação em banca de Adriano Cavalheiro Marchesan. Programação por Restrições Aplicada ao Planejamento da Proteção Contra Sobrecorrente em Sistemas de Distribuição Considerando Futuros Cenários de Restabelecimento de Serviço. 2021. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, J. P. A.; MORAIS, A.P. ; OLIVEIRA, R. C. L.; DE ARAÚJO, OLINTO C.B.; CARDOSO Jr., G.; ALENCAR, R. J. N.. Participação em banca de Andrey Ramos Vieira. Incorporação De Restrições de Proteção ao Problema da Restauração de Serviços em Redes de Distribuição Radiais. 2020. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Pará.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A. P. ; OLIVEIRA, A. L.; MARCHESAN, GUSTAVO; VIEIRA JUNIOR, J. C. M.. Participação em banca de Matias Rossato Muraro. Método Ativo Virtual para Detecção de Ilhamento do tipo Local e Passivo para Geradores Síncronos. 2019. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "de Morais, A.P. ; MARCHESAN, G.; GUTIERRES, L. F. F.; MOREIRA, F. A.. Participação em banca de Jeferson Prates Marques. Metodologia para identificação e discriminação de transitórios elétricos em transformadores de potência por meio da transformada wavelet discreta. 2018. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDON, DANIEL P.; BRETAS, A. S.; Morais, A. P ; SANTOS, E. M.; SPERANDIO, M.; LEBORGNE, R. C.. Participação em banca de Maicon Jaderson Silveira Ramos. Localização de Falta de Alta Impedância em Sistemas de Distribuição: Uma abordagem no Domínio da Frequência e Estimação de Parâmetros através do MMQP. 2018. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DE MORAIS, ADRIANO PERES ; ; ; SANTOS, E. M.; OLIVEIRA, A. L.. Participação em banca de Fernando Guilherme Kaehler Guarda. Metodologia Híbrida para Alocação, Coordenação, Dimensionamento e Adequação do Sistema de Proteção em Sistemas de Distribuição de Energia Elétrica com Geração Distribuída Diretamente Acoplada. 2017. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; CARDOSO, GHENDY; ; LEMOS, F. A. B.; LEBORGNE, R. C.; BRETAS, A. S.. Participação em banca de ANDRÉS RICARDO HERRERA OROZCO. LOCALIZAÇÃO DE FALTAS INCIPIENTES EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA COM CABOS SUBTERRÂNEOS. 2017. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A.P. ; BRETAS, A. S.; BERNARDON, D. P.; MORETO, M.; SPERANDIO, M.. Participação em banca de Patrick Escalante Farias. REDE NEURAL CONTINUAMENTE TREINADA PARA LOCALIZAÇÃO DE FALTAS DE ALTA IMPEDÂNCIA EM REDES DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2017. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A. P. ; OLIVEIRA, A. L.; PEREIRA, C. E. M.. Participação em banca de Paulo Roberto de Oliveira Borges. Sistema Trifásico a Dois Fios Alimentado por Terra: Uma alternativa para atender a demanda por qualidade de energia e aumento de potência na área rural. 2017. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A.P. ; GAZZANA, D. S.; ; LEBORGNE, R. C.. Participação em banca de César Augusto Orozco Henao. Localização de Faltas para Sistemas de Distribuição Ativos: Metodologia Analítica Adaptativa Baseada na Estimativa da Impedância. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; ; LEBORGNE, R. C.; GAZZANA, D. S.; LEMOS, F. A. B.; BRETAS, A. S.. Participação em banca de Leonardo Ulises Iurinic. Localização de Faltas de Alta Impedância em Sistema de Distribuição de Energia: Uma Abordagem baseada na Estimação de Parâmetros Associaados a Modelos no Domínio do Tempo. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A.P. ; CARDOSO, GHENDY; BRETAS, A. S.; LEMOS, F. A. B.; ; GAZZANA, D. S.. Participação em banca de SÉRGIO HALPERN BRAUNSTEIN. ABORDAGEM GEOMÉTRICA PARA O TRATAMENTO DE ERROS GROSSEIROS NA ESTIMAÇÃO DE ESTADOS TRIFÁSICA EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Sul.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; Olinto C. B. A; LEMOS, F. A. B.; ; MORAIS, A.P. ; SPERANDIO, M.. Participação em banca de Aécio de Lima Oliveira. Proposta de um Processador Inteligente de Alarmes e Modelos de Programação Matemática para Diagnóstico de Faltas em Sistemas Elétricos de Potência. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; CARDOSO Jr., G.; BRETAS, A. S.; ; GARCIA, V. J.. Participação em banca de Rafael Corrêa. Programação Inteira Binária Aplicada na Coordenação da Proteção de Sistemas Elétricos de Potência. 2016. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ROLIM, J. G.; VIEIRA, J. P. A.. Participação em banca de Paulo Cícero Fritzen. Estimação da Seção em Falta e Processamento de Alarmes em Sistemas de Potência Utilizando um Sistema Híbrido Fundamentado na Heurística Construtiva e na Programação Inteira. 2012. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "BERNARDON, DANIEL P.; MORAIS, A. P. ; OLIVEIRA, A. L.; SPERANDIO, M.; DOTTA, D.. Participação em banca de Wagner Seizo Hokama. METODOLOGIA PARA DESENVOLVIMENTO DE SISTEMA DE PROTEÇÃO ADAPTATIVA DE SUBESTAÇÕES EM UMA PLATAFORMA COMPUTACIONAL OPEN SOURCE DE FORMA CENTRALIZADA E VIRTUALIZADA COM USO EFICIENTE DO BARRAMENTO DE PROCESSO CONFORME PREVISTO NA NORMA IEC 61850. 2024. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDON, DANIEL P.; BOTTARO, M.; A. P. Morais ; BENDER, VITOR CRISTIANO; FREITAG, S. C.. Participação em banca de Marina Camponogara. Estratégias para Redução dos Níveis de Energia Incidente em Redes de Distribuição Durante Operações de Manutenção. 2023. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MARCHESAN, GUSTAVO; RAMOS, J. E.; SILVA, R. M.; MATEUS, A. C.; MORAIS, A.P. . Participação em banca de Viviane Barrozo da Silva. Detecção de Ilhamento em um Sistema de Distribuição com Múltiplos Geradores Distribuídos Utilizando Rede Neural Paraconsistente. 2021. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA FILHO, C. S.; CONTI, A. R.; COSTA, F. B.; MORAIS, A.P. . Participação em banca de Henrique dos Reis Paula. NOVOS ALGORITMOS PARA PROTEÇÃO DE LINHAS DE TRANSMISSÃO DURANTE OSCILAÇÕES DE POTÊNCIA. 2021. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal de Minas Gerais.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, A. L.; GUARDA, F. G. K.; ; Olinto C. B. A; CARDOSO Jr., G.; MORAIS, A.P. . Participação em banca de Adriano Cavalheiro Marchesan. Programação por Restrições Aplicada ao Planejamento da Proteção Contra Sobrecorrente Em Sistemas de Distribuição Considerando Cenários de Futuras Restaurações. 2019. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARCHESAN, T. B.; MORAIS, A.P. ; ; RESENER, MARIANA; SPERANDIO, M.. Participação em banca de Humberto Margel Wickert. O Emprego da Transformada Wavelet para Análise da Suportabilidade Dielétrica de Transformadores de Potência. 2019. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FARRET, F. A.; MORAIS, A.P. ; BERNARDON, DANIEL P.; SPERANDIO, M.; SANTOS, M. M.. Participação em banca de Douglas de Castro Karnikowski. Restabelecimento Ótimo de Redes de Distribuição Considerando a Formação de Microrredes. 2019. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDON, D. P.; FARRET, F. A.; MORAIS, A. P. ; OLIVEIRA, A. L.; MADRUGA, E. P.. Participação em banca de Luis Felipe Bianchi Carbonera. Metodologia de Otimização Dinâmica Multiparâmetro para o Amortecimento de Oscilações de Potência. 2018. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDON, DANIEL P.; BRETAS, A. S.; MORAIS, A. P. ; SANTOS, E. M.; ; SPERANDIO, M.. Participação em banca de Maicon Jaderson Silveira Ramos. Estimação de Faltas de Alta Impedância em Redes de Distribuição de Energia: Uma Abordagem no Domínio da Frequência Utilizando Estimador de Parâmetros WLS. 2017. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; MARCHESAN, G.; VIEIRA JUNIOR, J. C. M.; MARQUES, L. C. S.; CARDOSO Jr., G.. Participação em banca de Matias Rossato Muraro. Detecção de Ilhamento de Geradores Síncronos Distribuídos Diretamente Acoplados à Rede com Base na Frequência de Rotação. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MOREIRA, F. A.; MORAIS, A. P. ; MARCHESAN, T. B.; RAMOS, D. B.. Participação em banca de Jeferson Prates Marques. Metodologia para Identificação e Distinção entre Correntes de Inrush e Faltas Internas em Transformadores de Potência. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MORETO, M.; MORAIS, A. P. ; MARCHESAN, G.; . Participação em banca de Carlos Andrés Lázaro Menco. Nova Metologia para a Detecção de Oscilação de Potência Baseado na Forma de Onda do Sinal da Potência Ativa para Bloqueio de Relés de Distância. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "MORAIS, A. P. ; CARDOSO, G.; SANTOS, E. M.; SPERANDIO, M.; BRETAS, A. S.; BERNARDON, D. P.. Participação em banca de Maicon Jaderson Silveira Ramos. Localização de Faltas de Alta Impedância em Sistemas de Distribuição: Uma abordagem no domínio da frequência e estimação de parâmetros através do MMQP. 2016. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARDOSO Jr., G.; MORAIS, A. P. ; BERNARDON, D. P.; ; Olinto C. B. A. Participação em banca de Fernando Guilherme Kaehler Guarda. Nova Metodologia para a Alocação de Dispositivos de Proteção em Redes de Distribuição de Energia Elétrica Considerando Critérios de Concessionárias de Energia. 2016. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; ; SANTOS, E. M.. Participação em banca de Thiago de Oliveira Flores.Tutorial para o Dimensionamento de Disjuntores em Sistemas Elétricos de Potência. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; CAMPOS, A.. Participação em banca de Nilvania Stefanello.ANÁLISE COMPARATIVA DE ALGORITMOS FUNDAMENTADOS NA TRANSFORMADA DISCRETA DE FOURIER COM NOVOS MÉTODOS DE FILTRAGEM DIGITAL. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SANTOS, E. M.. Participação em banca de Patrick Escalante Farias.DESENVOLVIMENTO DE NOVOS MÉTODOS PARA DETECÇÃO E CORREÇÃO DA REGIÃO SATURADA DE TRANSFORMADORES DE CORRENTE. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Yuri Neves Gazen.PROTEÇÃO CONTRA PERDA DE EXCITAÇÃO EM GERADORES SÍNCRONOS: uma nova abordagem considerando os métodos do Cálculo Contínuo da Impedância Aparente e Terceira Derivada. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Gustavo Marchesan.ALGORITMOS RASTREADOR DE FREQUÊNCIA: UMA ANÁLISE CRÍTICA. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Régis Bolzan.ANÁLISE CRÍTICA DE MÉTODOS PARA BLOQUEIO DA PROTEÇÃO DE DISTÂNCIA DURANTE OSCILAÇÕES DE POTÊNCIA. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

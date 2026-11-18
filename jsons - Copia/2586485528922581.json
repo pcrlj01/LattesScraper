@@ -1,0 +1,223 @@
+{
+  "name": "Hugo Tadashi Muniz Kussaba",
+  "lattes_id": "2586485528922581",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "BINNY, ALLEN EMMANUEL ; ANAND, MAHATHI ; KUSSABA, HUGO T.M. ; CHEN, LINGYUN ; AGRAWAL, SHREENABH ; ABU-DAKKA, FARES J. ; SWIKIR, ABDALLA . Safe and Stable Neural Network Dynamical Systems for Robot Motion Planning. IEEE ROBOTICS AND AUTOMATION LETTERS , v. 11, p. 3111-3118, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/LRA.2026.3655207"
+        },
+        {
+          "texto": "VILLALON, JUAN LUIS RAMOS ; DE LA TORRE, LUIS ; LEI, ZHONGCHENG ; HU, WENSHAN ; KUSSABA, HUGO TADASHI ; LEMIEUX, VICTORIA . A decentralised approach to cyber-physical systems as a service: Managing shared access worldwide through blockchain standards. COMPUTERS IN INDUSTRY , v. 167, p. 104264, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.compind.2025.104264"
+        },
+        {
+          "texto": "; KUSSABA, HUGO TADASHI M. ; . Robust global distributed attitude control for multiple rigid bodies using a hybrid controller. INTERNATIONAL JOURNAL OF SYSTEMS SCIENCE (ONLINE) , v. 51, p. 1229-1242, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1080/00207721.2020.1758232"
+        },
+        {
+          "texto": "KUSSABA, HUGO T.M. ; ; . A Robust Unscented Transformation for Uncertain Moments. JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS , v. 356, p. 3797-3810, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.jfranklin.2019.02.018"
+        },
+        {
+          "texto": "; ; KUSSABA, HUGO TADASHI . Unscented Kalman Filters for Riemannian State-Space Systems. IEEE TRANSACTIONS ON AUTOMATIC CONTROL , v. 64, p. 1487-1502, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tac.2018.2846684"
+        },
+        {
+          "texto": "KUSSABA, HUGO T.M. ; ; ; ADORNO, B. V. . Hybrid Kinematic Control for Rigid Body Pose Stabilization using Dual Quaternions. JOURNAL OF THE FRANKLIN INSTITUTE-ENGINEERING AND APPLIED MATHEMATICS , v. 354, p. 2769-2787, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.jfranklin.2017.01.028"
+        },
+        {
+          "texto": "; KUSSABA, HUGO TADASHI M. ; . Existence of Continuous or Constant Finsler?s Variables for Parameter Dependent Systems. IEEE TRANSACTIONS ON AUTOMATIC CONTROL , v. 62, p. 4187-4193, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/TAC.2017.2682221"
+        },
+        {
+          "texto": "KUSSABA, HUGO T.M. ; ; . A new condition for finite time boundedness analysis. Journal of the Franklin Institute , v. 352, p. 5514-5528, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1016/j.jfranklin.2015.09.005"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "AGRAWAL, SHREENABH ; KUSSABA, HUGO T. M. ; CHEN, LINGYUN ; BINNY, ALLEN EMMANUEL ; JAGTAP, PUSHPAK ; HADDADIN, SAMI ; SWIKIR, ABDALLA . Scalable Learning of High-Dimensional Demonstrations with Composition of Linear Parameter Varying Dynamical Systems. In: 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025, Hangzhou. 2025 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. p. 9917.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/IROS60139.2025.11247176"
+        },
+        {
+          "texto": "OSSADNIK, DENNIS ; RAKČ ; YILDIRIM, MEHMET C. ; FORTUNIĆ ; KUSSABA, HUGO T. M. ; SWIKIR, ABDALLA ; HADDADIN, SAMI . Optimal Control for Clutched-Elastic Robotic Systems: A Contact-Implicit Approach. In: IEEE International Conference on Robotics and Automation, 2024, Yokohama. Proceedings of the IEEE International Conference on Robotics and Automation, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ICRA57147.2024.10610380"
+        },
+        {
+          "texto": "SCHONGER, M. ; KUSSABA, HUGO T. M. ; CHEN, L. ; ; SWIKIR, ABDALLA ; BILLARD, A. ; HADDADIN, SAMI . Learning barrier-certified polynomial dynamical systems for obstacle avoidance with robots. In: IEEE International Conference on Robotics and Automation, 2024, Yokohama. IEEE International Conference on Robotics and Automation, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ICRA57147.2024.10610828"
+        },
+        {
+          "texto": "BIEKER, KATHARINA ; KUSSABA, HUGO ; SCHOLL, PHILIPP ; JUNG, JAESUG ; SWIKIR, ABDALLA ; HADDADIN, SAMI ; KUTYNIOK, GITTA . Compositional Construction of Barrier Functions for Switched Impulsive Systems. In: 2024 IEEE 63rd Conference on Decision and Control (CDC), 2024, Milan. 2024 IEEE 63rd Conference on Decision and Control (CDC), 2024. p. 7085-7091.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/CDC56724.2024.10886587"
+        },
+        {
+          "texto": "HAMAD, M. ; GUTIERREZ-MORENO, J. ; KUSSABA, HUGO T. M. ; MANSFELD, N. ; ABDOLSHAH, SAEED ; SWIKIR, ABDALLA ; BURGARD, W. ; HADDADIN, SAMI . Fast yet predictable braking manoeuvers for real-time robot control. In: 22nd IFAC World Congress, 2023, Yokohama. 22nd IFAC World Congress, 2023. v. 56. p. 9984-9991.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2023.10.711"
+        },
+        {
+          "texto": "KUSSABA, HUGO TADASHI M. ; SWIKIR, ABDALLA ; WU, F. ; DEMERDJIEVA, A. ; KUTYNIOK, G. ; HADDADIN, SAMI . Learning optimal controllers: a dynamical motion primitive approach. In: 22nd IFAC World Congress, 2023, Yokohama. 22nd IFAC World Congress, 2023. v. 56. p. 4776-4782.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.ifacol.2023.10.1242"
+        },
+        {
+          "texto": "OSSADNIK, DENNIS ; YILDIRIM, MEHMET C. ; WU, FAN ; SWIKIR, ABDALLA ; KUSSABA, HUGO T. M. ; ABDOLSHAH, SAEED ; HADDADIN, SAMI . BSA - Bi-Stiffness Actuation for optimally exploiting intrinsic compliance and inertial coupling effects in elastic joint robots. In: 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022, Kyoto. 2022 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2022. p. 3536.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/IROS47612.2022.9981928"
+        },
+        {
+          "texto": "; KUSSABA, HUGO T. M. ; ; . Dual quaternion-based bimodal global control for robust rigid body pose kinematic stabilization. In: 2017 American Control Conference (ACC), 2017, Seattle. 2017 American Control Conference (ACC), 2017. p. 1205-1210.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.23919/ACC.2017.7963117"
+        },
+        {
+          "texto": "KUSSABA, HUGO T.M. ; ; . Parameter-Dependent Filter with Finite Time Boundedness Property for Continuous-Time LPV Systems. In: XVII Latin American Conference on Automatic Control, 2016, ​Medellín, Colombia. Proceedings of XVII Latin American Conference on Automatic Control, 2016. p. 189-194.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "KUSSABA, H. T. M. ; ; . Uniform versions of Finsler's lemma. In: 2015 54th IEEE Conference on Decision and Control (CDC), 2015, Osaka. 2015 54th IEEE Conference on Decision and Control (CDC), 2015. p. 7292.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/CDC.2015.7403370"
+        },
+        {
+          "texto": "KUSSABA, H. T. M. ; ; . Finite time boundedness and stability analysis of discrete time uncertain systems. In: 2015 54th IEEE Conference on Decision and Control (CDC), 2015, Osaka. 2015 54th IEEE Conference on Decision and Control (CDC), 2015. p. 5972.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/CDC.2015.7403158"
+        },
+        {
+          "texto": "OLIVEIRA, A. B. ; ; KUSSABA, HUGO T.M. . Projeto EDUBOT. In: V Mostra Nacional de Robótica, 2015, Uberlândia - MG. ANAIS da 5ª Mostra Nacional de Robótica (MNR 2015), 2015. p. 522-526.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; KUSSABA, H. T. M. ; SILVA, L. P. . Homogeneous polynomially parameter-dependent state feedback controllers for finite time stabilization of linear time-varying systems. In: European Control Conference 2013, 2013, Zurich, Suíça. Proceedings of the 2013 European Control Conference, 2013. p. 3889-3894.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; RISSO, L. O. ; KUSSABA, H. T. M. . Finite time robust filtering for time-varying uncertain polytopic linear systems. In: European Control Conference 2013, 2013, Zurich, Suíça. Proceedings of the 2013 European Control Conference, 2013. p. 1854-1859.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; KUSSABA, H. T. M. ; . A hybrid metric for digital video quality assessment. In: IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB) 2011, 2011, Erlangen, Alemanha. IEEE International Symposium on Broadband Multimedia Systems and Broadcasting (BMSB) 2011, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/BMSB.2011.5954900"
+        },
+        {
+          "texto": "KUSSABA, H. T. M. ; . Blind estimation of blocking artifacts in digital videos. In: Latin Display 2010, 2010, São Paulo. Proceedings of LatinDisplay 2010/IDRC 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "KUSSABA, HUGO TADASHI . Aprendizagem em Robótica. 2025. (Apresentação de Trabalho/Congresso).",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "KUSSABA, HUGO T. M. . Introdução à teoria de controle de sistemas dinâmicos. 2018. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "KUSSABA, HUGO TADASHI M. . Introdução à teoria de controle de sistemas dinâmicos. 2018. (Desenvolvimento de material didático ou instrucional - Notas de aula).",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "Geovany Araujo Borges; ; KUSSABA, HUGO TADASHI M. ; Atila Madureira Bueno. Participação em banca de Leonardo Cardoso Botelho. Attitude stabilization and altitude control of a twin-engine tiltrotor aerial with inhomogeneous propulsion. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FORTALEZA, E. L. F.; ARBOLEDA, D. M. M.; KUSSABA, HUGO TADASHI M. . Participação em banca de Jean Gonzalez Silva. Filtros de Kalman Adaptativos para Sistemas Não-lineares. 2019. Dissertação (Mestrado em Sistemas Mecatrônicos) - Universidade de Brasília.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; KUSSABA, HUGO T. M. ; SOUZA, F. O.; OLIVEIRA, R. C. L. F.; VARGAS, J. A. R.. Participação em banca de Daniel Rostami Alkhorshid. Design of protocols for consensus and tracking of multi-agent systems subjected to uncertainties and constraints. 2025. Exame de qualificação (Doutorando em Programa de Pós-Graduação em Engenharia Elétrica - PPGEE) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; MELO, F. C.; FREITAS, F. D.; KUSSABA, HUGO T. M. ; RAMOS, R. A.. Participação em banca de Lélio Ribeiro Soares Junior. A Quaternionic Approach to Three-Phase Phase Locked Loop. 2023. Exame de qualificação (Doutorando em ENGENHARIA ELÉTRICA) - Universidade de Brasília.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "FREITAS, P. G.; KUSSABA, HUGO TADASHI M. ; SILVA, R. C.. Participação em banca de Pedro Fernandes.Arquitetura de Hardware e Software Portátil e de Baixo Custo para Monitoramento Cardíaco. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Geovany Araujo Borges; KOIKE, C. M. C. E. C.; SILVA, J. Y. M. A.; KUSSABA, HUGO TADASHI M. . Participação em banca de Andre Dornelas Sanches.Projeto de sistema embarcado para controle cinemático de robô móvel não- holonômico em competições VSSS. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, P. G.; SILVA, E. P. F.; KUSSABA, HUGO TADASHI M. . Participação em banca de Arthur Henrique Silva Carvalho.Learning-Based Quality Assessment of Volumetric Media. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade de Brasília.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FORTALEZA, E. L. F.; BAUCHSPIESS, A.; KUSSABA, HUGO TADASHI M. . Participação em banca de Lucas Moura Gomes.Validação experimental de filtro estatístico para controle PID. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade de Brasília.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Geovany Araujo Borges; Mariana Bernardes; ; KUSSABA, HUGO TADASHI M. . Participação em banca de Rafael Lima.Caracterização e implementação de melhorias em arquitetura de controle de braço robótico complacente. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade de Brasília.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

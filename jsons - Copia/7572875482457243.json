@@ -1,0 +1,418 @@
+{
+  "name": "Francisco Guido Rossomando",
+  "lattes_id": "7572875482457243",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "GOMEZ, JUAN A. ; ROSSOMANDO, FRANCISCO ; CAPRARO, FLAVIO ; Soria, Carlos . Neural compensator for PI soil moisture control. NEURAL COMPUTING & APPLICATIONS (INTERNET) , v. 023, p. 6, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1007/s00521-023-08723-6"
+        },
+        {
+          "texto": "GOMEZ, JUAN ; ROSSOMANDO, FRANCISCO ; CAPRARO, FLAVIO ; Soria, Carlos . Control PI neuro-adaptable en tiempo real de la humedad en el suelo usando un modelo híbrido. Revista Iberoamericana De Automatica E Informatica Industrial , v. 20, p. 93-103, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.4995/riai.2022.17106"
+        },
+        {
+          "texto": "ROSSOMANDO, FRANCISCO ; SERRANO, EMANUEL ; SCAGLIA, GUSTAVO . Trajectory tracking control of Autonomous Marine Vessel using Neuro-Adaptive Sliding Mode Contro. IEEE Latin America Transactions , v. 19, p. 763-771, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/TLA.2021.9448310"
+        },
+        {
+          "texto": "PANTANO, MARIA NADIA ; FERNANDEZ PUCHOL, MARIA CECILIA ; ROSSOMANDO, FRANCISCO GUIDO ; SCAGLIA, GUSTAVO J. E. . Open-Loop Dynamic Optimization for Nonlinear Multi-Input Systems. Application to Recombinant Protein Production. IEEE Latin America Transactions , v. 19, p. 1307-1314, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/TLA.2021.9475861"
+        },
+        {
+          "texto": "LOPEZ-SANCHEZ, IVAN ; ROSSOMANDO, FRANCISCO ; PÉREZ-ALCOCER, RICARDO ; Soria, Carlos ; Carelli, Ricardo ; MORENO-VALENZUELA, JAVIER . Adaptive trajectory tracking control for quadrotors with disturbances by using generalized regression neural networks. NEUROCOMPUTING , v. 460, p. 243-255, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.neucom.2021.06.079"
+        },
+        {
+          "texto": "MONTOYA'CHÁIREZ, JORGE ; MORENO'VALENZUELA, JAVIER ; SANTIBÁÑEZ, VÍCTOR ; Carelli, Ricardo ; ROSSOMANDO, FRACISCO G. ; PÉREZ'ALCOCER, RICARDO . Combined adaptive neural network and regressor-based trajectory tracking control of flexible joint robots. IET CONTROL THEORY & APPLICATIONS (ONLINE) , v. 16, p. 31-50, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1049/cth2.12202"
+        },
+        {
+          "texto": "MONTOYA-CHÁIREZ, JORGE ; ROSSOMANDO, FRACISCO G. ; Carelli, Ricardo ; SANTIBÁÑEZ, VÍCTOR ; MORENO-VALENZUELA, JAVIER . Adaptive RBF neural network-based control of an underactuated control moment gyroscope. NEURAL COMPUTING & APPLICATIONS , v. 33, p. 6805-6818, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s00521-020-05456-8"
+        },
+        {
+          "texto": "SCAGLIA, G J E ; SERRANO, M E ; GODOY, S A ; ROSSOMANDO, F . Linear algebra-based controller for trajectory tracking in mobile robots with additive uncertainties estimation. IMA JOURNAL OF MATHEMATICAL CONTROL AND INFORMATION , v. 37, p. 607-624, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1093/imamci/dnz016"
+        },
+        {
+          "texto": "ROSSOMANDO, FRANCISCO ; ROSALES, CLAUDIO ; GIMENEZ, JAVIER ; SALINAS, LUCIO ; Soria, Carlos ; SARCINELLI-FILHO, MARIO ; Carelli, Ricardo . Aerial Load Transportation with Multiple Quadrotors Based on a Kinematic Controller and a Neural SMC Dynamic Compensation. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 100, p. 519-530, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1007/s10846-020-01195-z"
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; SERRANO, EMANUEL ; SORIA, CARLOS M. ; SCAGLIA, GUSTAVO . Neural Dynamics Variations Observer Designed for Robot Manipulator Control Using a Novel Saturated Control Technique. MATHEMATICAL PROBLEMS IN ENGINEERING , v. 2020, p. 1-14, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1155/2020/3240210"
+        },
+        {
+          "texto": "FERNÁNDEZ, CECILIA ; PANTANO, NADIA ; ROSSOMANDO, FRANCISCO ; AMICARELLI, ADRIANA ; SCAGLIA, GUSTAVO . Fermentation monitoring by Bayesian states estimators. Application to red wines elaboration. CONTROL ENGINEERING PRACTICE , v. 103, p. 104608, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.conengprac.2020.104608"
+        },
+        {
+          "texto": "CECILIA FERNÁNDEZ, M. ; NADIA PANTANO, M. ; Rossomando, Francisco G. ; ALBERTO ORTIZ, O. ; SCAGLIA, GUSTAVO J. E. . STATE ESTIMATION AND TRAJECTORY TRACKING CONTROL FOR A NONLINEAR AND MULTIVARIABLE BIOETHANOL PRODUCTION SYSTEM. BRAZILIAN JOURNAL OF CHEMICAL ENGINEERING (ONLINE) , v. 36, p. 421-437, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1590/0104-6632.20190361s20170379"
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; SORIA, CARLOS MIGUEL ; Rossomando, Francisco G. . Identification and adaptive PID Control of a hexacopter UAV based on neural networks. INTERNATIONAL JOURNAL OF ADAPTIVE CONTROL AND SIGNAL PROCESSING , v. 33, p. 74-91, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1002/acs.2955"
+        },
+        {
+          "texto": "GANDOLFO, DANIEL CEFERINO ; ROSSOMANDO, FRANCISCO GUIDO ; SORIA, CARLOS MIGUEL ; CARELLI, RICARDO OSCAR . Adaptive Neural Compensator for Robotic Systems Control. IEEE Latin America Transactions , v. 17, p. 670-676, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/TLA.2019.8891932"
+        },
+        {
+          "texto": "SERRANO, MARIO E. ; GANDOLFO, DANIEL C. ; ROSSOMANDO, FRANCISCO ; SCAGLIA, GUSTAVO J.E. . Estimation based controller for marine vessel exposed to environmental perturbations. OCEAN ENGINEERING , v. 187, p. 106199, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.oceaneng.2019.106199"
+        },
+        {
+          "texto": "OLIVEIRA FREIRE, EDUARDO ; ROSSOMANDO, FRANCISCO GUIDO ; SORIA, CARLOS MIGUEL . Self-tuning of a Neuro-Adaptive PID Controller for a SCARA Robot Based on Neural Network. IEEE Latin America Transactions , v. 16, p. 1364-1374, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tla.2018.8408429"
+        },
+        {
+          "texto": "ROSALES, C. ; TOSETTI, S. ; Soria, C. ; Rossomando, F. . Neural Adaptive PID Control of a Quadrotor using EFK. IEEE Latin America Transactions , v. 16, p. 2722-2730, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/TLA.2018.8795113"
+        },
+        {
+          "texto": "CLEMENTI, LUIS A. ; SUVIRE, ROMINA B. ; Rossomando, Francisco G. ; VEGA, JORGE R. . A Closed-Loop Control Strategy for Producing Nitrile Rubber of Uniform Chemical Composition in a Semibatch Reactor: A Simulation Study. Macromolecular Reaction Engineering , v. 12, p. 1700054, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1002/mren.201700054"
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; Soria, Carlos ; FREIRE, EDUARDO O. ; CARELLI, RICARDO O. . SLIDING MODE NEURO-ADAPTIVE CONTROLLER DESIGNED IN DISCRETE TIME FOR MOBILE ROBOTS. Mechatronic Systems and Control (formerly Control and Intelligent Systems) , v. 46, p. 55-63, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.2316/journal.201.2018.2.201-2792"
+        },
+        {
+          "texto": "CAPRARO, FLAVIO ; TOSETTI, SANTIAGO ; ROSSOMANDO, FRANCISCO ; MUT, VICENTE ; VITA SERMAN, FACUNDO . Web-Based System for the Remote Monitoring and Management of Precision Irrigation: A Case Study in an Arid Region of Argentina. SENSORS , v. 18, p. 3847, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.3390/s18113847"
+        },
+        {
+          "texto": "RÓMOLI, SANTIAGO ; SERRANO, MARIO ; ROSSOMANDO, FRANCISCO ; VEGA, JORGE ; ORTIZ, OSCAR ; SCAGLIA, GUSTAVO . Neural Network-Based State Estimation for a Closed-Loop Control Strategy Applied to a Fed-Batch Bioreactor. COMPLEXITY , v. 2017, p. 1-16, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1155/2017/9391879"
+        },
+        {
+          "texto": "PANTANO, MARÍA N. ; SERRANO, MARIO E. ; FERNÁNDEZ, MARÍA C. ; Rossomando, Francisco G. ; ORTIZ, OSCAR A. ; SCAGLIA, GUSTAVO J. E. . Multivariable Control for Tracking Optimal Profiles in a Nonlinear Fed-Batch Bioprocess Integrated with State Estimation. INDUSTRIAL & ENGINEERING CHEMISTRY RESEARCH , v. 56, p. 6043-6056, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1021/acs.iecr.7b00831"
+        },
+        {
+          "texto": "CAPRARO, FLAVIO ; ROSSOMANDO, FRANCISCO GUIDO ; Soria, Carlos ; SCAGLIA, GUSTAVO . Cascade Sliding Control for Trajectory Tracking of a Nonholonomic Mobile Robot with Adaptive Neural Compensator. MATHEMATICAL PROBLEMS IN ENGINEERING , v. 2017, p. 1-13, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1155/2017/8501098"
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; SORIA, C. M. . Discrete-time sliding mode neuro-adaptive controller for SCARA robot arm. Neural Computing & Applications (Print) , v. 1, p. 1-14, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1007/s00521-016-2242-7"
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; SORIA, CARLOS M. . Adaptive Neural Sliding Mode Control in Discrete Time for a SCARA robot arm. Revista IEEE América Latina , v. 14, p. 2556-2564, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/TLA.2016.7555218"
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. . Desenho e implementação de um PID Neuronal Adaptável para Dinâmicas Não lineares em Robôs Móveis. Revista IEEE América Latina , v. 13, p. 01-06, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F.G. ; Soria, C. ; RICARDO, C. . Sliding Mode Control for Trajectory Tracking of a Non-holonomic Mobile Robot using Adaptive Neural Networks. CONTROL ENG APPL INF , v. 16, p. 12-21, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; Soria, Carlos . Identification and control of nonlinear dynamics of a mobile robot in discrete time using an adaptive technique based on neural PID. Neural Computing & Applications (Print) , v. 1, p. 1/14, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1007/s00521-014-1805-8"
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; Soria, Carlos ; Carelli, Ricardo . Sliding Mode Neuro Adaptive Control in Trajectory Tracking for Mobile Robots. Journal of Intelligent & Robotic Systems (Dordrecht. Online) , p. 1-14, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1007/s10846-013-9843-5"
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; Soria, Carlos ; Carelli, Ricardo . Adaptive neural sliding mode compensator for a class of nonlinear systems with unmodeled uncertainties. Engineering Applications of Artificial Intelligence , p. 2251-2259, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1016/j.engappai.2013.08.008"
+        },
+        {
+          "texto": "ROSSOMANDO, F.G. ; Soria, C. ; Carelli, R. . Algoritmo compensador neuronal discreto de dinámica en robots móviles usando filtro de Kalman extendido. Revista Internacional de Métodos Numéricos para Cálculo y Diseño en Ingeniería , v. 29, p. 12-20, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1016/j.rimni.2011.10.004"
+        },
+        {
+          "texto": "ROSSOMANDO, F.G. ; Soria, C. ; Carelli, R. . Neural network-based compensation control of mobile robots with partially known structure. IET Control Theory & Applications (Online) , v. 6, p. 1851-1860, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1049/iet-cta.2011.0581"
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. ; Patiño, D. ; Carelli, R. . Model Reference Adaptive Control for Mobile Robots in trajectory tracking using Radial Basis Function Neural Networks. Latin American Applied Research , v. 41, p. 110-116, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, Carlos ; Carelli, Ricardo . Autonomous mobile robots navigation using RBF neural compensator. Control Engineering Practice , v. 19, p. 215-222, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1016/j.conengprac.2010.11.011"
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; ; Vigliocco A. . Neural Compensation and Modelling of a Hot Strip Rolling Mill Using Radial Basis Function. Latin American Applied Research , v. 41, p. 110-116, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. ; Carelli, R. . Compensador neuronal dinámico adaptable para robots móviles en control de seguimiento de trayectorias. Revista IEEE América Latina , v. 9, p. 593-602, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Rossomando, F. ; Soria, C. ; Carelli, R. . Control de Robots Móviles con Incertidumbres Dinámicas usando Redes de Base Radial. Revista iberoamericana de automática e informática industrial , v. 7, p. 28-35, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.4995/RIAI.2010.04.05"
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . Modeling and Control of Hot Rolling Mill. Latin American Applied Research , v. 36, p. 199-204, 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "ROSSOMANDO, F. G. . SIMULADOR EN TIEMPO REAL DE UN TREN DE LAMINADO DE ACERO. San Juan: Fundación Universidad Nacional de San Juan, 2008. v. 50. 200p .",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "VASQUEZ, M. ; YANASCUAL, J. ; HERRERA, M. ; Rossomando, Francisco G. ; CAMACHO, O. . Sliding Mode Control Based on a nonlinear PID surface for Chemical Processes. In: 19th Latin American Control Congress, Habana, Cuba, 2022, Habana. 19th Latin American Control Congress. Habana: Springer, 2022. v. 464. p. 71-82.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SALAZAR, GABRIEL ; ROSSOMANDO, FRANCISCO ; CAMACHO, OSCAR . An Adaptive Neuro-Fuzzy PID Controller Approach for thermal Systems: An Experimental Validation. In: 2022 IEEE International Conference on Automation/XXV Congress of the Chilean Association of Automatic Control (ICAACCA), 2022, Curicó. 2022 IEEE International Conference on Automation/XXV Congress of the Chilean Association of Automatic Control (ICA-ACCA), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/ICA-ACCA56767.2022.10006148"
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; ROSSOMANDO, FRANCISCO ; SALINAS, LUCIO ; GIMENEZ, JAVIER ; Carelli, Ricardo . Unified control solution for mobile robot formations. In: 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021, Athens. 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021. p. 1558.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/ICUAS51884.2021.9476675"
+        },
+        {
+          "texto": "ROSSOMANDO, FRANCISCO ; ROSALES, CLAUDIO ; Soria, Carlos ; GANDOLFO, DANIEL ; Carelli, Ricardo . Adaptive tracking control for a UAV with neural adaptive compensation using SMC. In: 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021, Athens. 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021. p. 1218.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/ICUAS51884.2021.9476823"
+        },
+        {
+          "texto": "LOPEZ-SANCHEZ, IVAN ; ROSSOMANDO, FRANCISCO GUIDO ; PÉREZ-ALCOCER, RICARDO ; SORIA, CARLOS MIGUEL ; RICARDO, C. ; MORENO-VALENZUELA, JAVIER . 'Control Robusto a Perturbaciones Basado en Redes Neuronales para Seguimiento de Trayectorias de Quadrotores'. In: 7º CONGRESO INTERNACIONAL DE ROBÓTICA Y COMPUTACIÓN CIRC 2020, 2020, La Paz, Mexico. 7º CONGRESO INTERNACIONAL DE ROBÓTICA Y COMPUTACIÓN CIRC 2020, 2020. v. 7.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; ROSSOMANDO, FRANCISCO GUIDO ; SORIA, C. M. . Solucion de control unificada para formación de robots moviles. In: XVII Reunión de Trabajo en Procesamiento de la Información y Control - RPIC 2019, 2019, Bahía Blanca, Argentina. XVII Reunión de Trabajo en Procesamiento de la Información y Control - RPIC 2019, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; GIMENEZ, JAVIER ; ROSSOMANDO, FRANCISCO ; Soria, Carlos ; SARCINELLI-FILHO, MARIO ; Carelli, Ricardo . UAVs Formation Control With Dynamic Compensation Using Neuro Adaptive SMC. In: 2019 International Conference on Unmanned Aircraft Systems (ICUAS), 2019, Atlanta. 2019 International Conference on Unmanned Aircraft Systems (ICUAS), 2019. p. 93.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/icuas.2019.8798282"
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; ROSSOMANDO, FRANCISCO ; Soria, Carlos ; Carelli, Ricardo . Neural control of a Quadrotor: A state-observer based approach. In: 2018 International Conference on Unmanned Aircraft Systems (ICUAS), 2018, Dallas. 2018 International Conference on Unmanned Aircraft Systems (ICUAS), 2018. p. 647.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/ICUAS.2018.8453303"
+        },
+        {
+          "texto": "ROSALES, CLAUDIO ; Soria, Carlos ; Carelli, Ricardo ; ROSSOMANDO, FRANCISCO . Adaptive dynamic control of a quadrotor for trajectory tracking. In: 2017 International Conference on Unmanned Aircraft Systems (ICUAS), 2017, Miami. 2017 International Conference on Unmanned Aircraft Systems (ICUAS), 2017. p. 547.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/ICUAS.2017.7991492"
+        },
+        {
+          "texto": "Soria, C. ; Rossomando, Francisco G. ; VECCA, A. . MODELADO Y DISEÑO DEL CONTROL DE UN BICOPTERO UAV. In: 24° Congreso Argentino de Control Automático (AADECA), 2014, Buenos Aires. 24° Congreso Argentino de Control Automático (AADECA). Buenos Aires: Facultad Regional Buenos Aires (UTN-FRBA), 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. . Modelado y Diseño del Control de un Tricóptero UAV. In: VIII Jornadas Argentinas de Robótica, 2014, Buenos Aires. VIII Jornadas Argentinas de Robótica. Buenos Aires: Centro de Estudiantes de Ingeniería Tecnológica, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F.G. ; Soria, C. . Control de Seguimiento de Caminos para un Bicóptero UAV. In: VIII Jornadas Argentinas de Robótica, 2014, Buenos Aires. VIII Jornadas Argentinas de Robótica. Buenos Aires: Centro de Estudiantes de Ingeniería Tecnológica, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; Soria, Carlos . IDENTIFICACION Y CONTROL DE DINAMICAS NO LINEALES DE UN ROBOT MOVIL EN TIEMPO DISCRETO MEDIANTE UN PID NEURONAL ADAPTABLE. In: 24° Congreso Argentino de Control Automático (AADECA), 2014, Buenos Aires. 24° Congreso Argentino de Control Automático (AADECA). Buenos Aires: Facultad Regional Buenos Aires (UTN-FRBA), 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. ; RICARDO, C. . Compensador Neuronal Adaptable para una Clase de Sistemas no Lineales. In: VII Jornadas Argentinas de Robótica, 2012, Olavarria. VII Jornadas Argentinas de Robótica. Olavarria: UNICEN, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, G. M. ; Salles J. F. ; ; ROSSOMANDO, F.G. . Tuning a Multivariable Predictive Control of a Hot Rolling Mill with Genetic Algorithm. In: IX SImposio Brasileiro de Automação Inteligente, 2009, Brasilia. Proceedings of the Brazilian Symposium of Intelligent Automation. Brasilia, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. ; Patiño, D. ; Carelli, R. . Control Directo Adaptativo de incertezas dinámicas para Robots Móviles usando Redes Neuronales. In: XXI Congreso Argentino de Control Automático, 2008, Ciudad de Bs As.. Anales del XXI Congreso Argentino de Control Automático. Bs As: Asociación Argentina de Control Automático (AADECA), 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; Soria, C. ; Patiño, D. ; Carelli, R. . Neural Network Adaptive Trajectory Tracking Controller for Mobile Robots. In: XII Reunión de Trabajo en Procesamiento de la Información y Control, 2007, Rio Gallegos. Anales de la XII Reunión de Trabajo en Procesamiento de la Información y Control. Rio Gallegos: Univ. Nacional Patagonia Austral, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . Modelagem E Controle De Um Trem De Laminação A Quente. In: VIII Congreso Argentino de Mecánica Computacional 2005, 2005, Ciudad de Bs As. Heat Transfer in Industrial Processes. Bs As: Asociacion Argentina de Mecanica Computacional, 2005. v. XXIV. p. 965-980.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; ; Vigliocco A. . Aplicação De Uma Rede Neural Na Determinação Da Coroa Em Tiras Laminadas A Quente. In: MECOM 2005 - VIII Congreso Argentino de Mecanica Computaciuonal, 2005. Heat Transfer in Industrial Processes. Bs As: Asociacion Argentina de Mecanica Computacional. v. XXIV. p. 981-994.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; ; FERREIRA, E. P. . Controle Neural Adaptativo De Um Trem De Laminação A Quente. In: VIII Congreso Argentino de Mecánica Computacional 2005, 2005, Ciudad de Bs As. Heat Transfer in Industrial Processes. Bs As: Asociacion Argentina de Mecanica Computacional, 2005. v. XXIV. p. 995-1008.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . ROLLING MILL FORCE CONTROL BY A NEURAL NETWORK. In: 60º Congresso Anual da ABM, 2005., 2005, Belo Horizonte. Anais do 60º Congresso Anual da ABM, 2005.. Sao Paulo: ABM, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; FERREIRA, E. P. ; . Controle neural adaptativo de um trem de laminação a quente. In: VII Simpósio Brasileiro de Automação Inteligente, 2005, Maranhao. VII Simpósio Brasileiro de Automação Inteligente. Sao Paulo: Simpósio Brasileiro de Automação Inteligente, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . Modelagem e Controle de um trem de Laminação a Quente. In: VII SBAI, 2005, S. Luis de Maranhao. Anais do VII Simpósio Brasileiro de Automação Inteligente. Sao Paulo: SBAI.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . Modelagem e Controle Ótimo de um trem de Laminação a Quente. In: XI RPIC, 2005, Rio Cuarto. XI Reunión de Trabajos en Procesamiento de la Información y Control. Rio Cuarto: Universidad Nacional de Rio Cuarto, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; . Aplicação de uma rede neural na determinação da coroa em tiras laminada a quente. In: XI Reunión de Trabajos en Procesamiento de la Información y Control, 2005, Rio Cuarto. Anales de la XI Reunión de Trabajos en Procesamiento de la Información y Control. Rio Cuarto: Universidad Nacional de Rio Cuarto, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "KUCHEN, B. ; LAGE, A. ; ROSSOMANDO, F.G. . ADVANCED MODEL BASED PROCESS SUPERVISION IN HOT STEEL MILLING. In: IFAC 15th Triennial World Congress, 2002, Barcelona. IFAC 15th Triennial World Congress, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; LAGE, A. . Simulation and Validation of a Hot Strip Rolling Mill. In: MESM'2000 2ND MIDDLE EASTERN SYMPOSIUM ON SIMULATION AND MODELLING, 2000, Jordania. MESM'2000. Philadelphia: IEEE, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. ; LAGE, A. . Object modeling, Simulation and Validation of a Hot Strip Rolling Mill. In: Induscon 2000, 2000, Porto Alegre. Anais do Induscon 2000. Sao Paulo: IEEE, 2000.",
+          "ano": 2000,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "ROSSOMANDO, F. G. . Proyecto y construccion de un sensor de posicion infrarojo. 2005. (Desenvolvimento de material didático ou instrucional - Material de Laboratorio).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROSSOMANDO, F. G. . Diseño e implementacion de un cronometro electrónico de precision. 1995. (Desenvolvimento de material didático ou instrucional - Material de Laboratorio).",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "MONTALVAO, J. R.; GIVIGY, S. N.; MOLINA, L.; Rossomando, Francisco G. . Participação em banca de Matheus Santos Cardoso. UM NOVO METODO PROBABILISTICO DE CINEMATICA INVERSA BASEADO NA RRT EN UM ESPACO DE DIMENSAO REDUZIDA. 2021 - Universidade Federal de Sergipe.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Rossomando, Francisco G. ; SARDELLA, F.; NOGUERA, S.. Participação em banca de Pablo Marcelo ABALLAY. Mejora de la Operación de Biorreactores para producción de Vinos de Alta Calidad Mediante la aplicación de Redes Neuronales Artificiales. 2016. Dissertação (Mestrado em Maestría en Tecnologías Ambientales) - Universidad Nacional de San Juan.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "CAMACHO, OSCAR; Rossomando, Francisco G. ; QUINTERO, O. L.. Participação em banca de Fabiana Sardella. MEJORAMIENTO DE PROCESOS BATCH APLICADOS A LA VALORIZACIÓN DE RESIDUOS DE LA AGROINDUSTRIA MEDIANTE EL SEGUIMIENTO DE PERFILES ÓPTIMOS. 2021. Tese (Doutorado em DOCTORADO EN INGENIERÍA QUÍMICA) - Universidad Nacional de San Juan.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CAMACHO, OSCAR; VEGA, JORGE; Rossomando, Francisco G. . Participação em banca de Cecilia Fernandez Puchol. Estrategias de Mejoramiento para Fermentaciones Alcohólicas. 2019. Tese (Doutorado em DOCTORADO EN INGENIERÍA QUÍMICA) - Universidad Nacional de San Juan.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CAMACHO, OSCAR; Rossomando, Francisco G. ; CLEMENTI, LUIS A.. Participação em banca de Nadia Pantano. Estrategias de Mejora para la Optimización y control de procesos no lineales multivariables aplicación a la producción de biodiesel. 2019. Tese (Doutorado em DOCTORADO EN INGENIERÍA QUÍMICA) - Universidad Nacional de San Juan.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "AMICARELLI, ADRIANA; CAMACHO, OSCAR; Rossomando, Francisco G. . Participação em banca de Santiago ROMOLÍ. Control y Estimación de estados en Procesos Biotecnológicos. 2018. Tese (Doutorado em DOCTORADO EN INGENIERÍA QUÍMICA) - Universidad Nacional de San Juan.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CAMACHO, OSCAR; Rossomando, Francisco G. ; VEGA, JORGE R.. Participação em banca de Romina Suvire. MODELADO, ESTIMA Y CONTROL A LAZO CERRADO DEL PROCESO SEMICONTINUO PARA LA PRODUCCIÓN DEL CAUCHO NBR. 2018. Tese (Doutorado em DOCTORADO EN INGENIERÍA QUÍMICA) - Universidad Nacional de San Juan.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

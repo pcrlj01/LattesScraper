@@ -1,0 +1,993 @@
+{
+  "name": "Paulo Cícero Fritzen",
+  "lattes_id": "3904244896211234",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "FRITZEN, PAULO CÍCERO ; KURITZA, M. H. . SIMULATION CAPABLE OF ESTIMATING THE LOCAL OR FAULT SECTION OF ELECTRICAL POWER SYSTEMS (EPS). Brazilian Journal of Development (BJD) , v. 7, p. 1-7, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.34117/bjdv7n5-246"
+        },
+        {
+          "texto": "GURSKI, ERICO ; MORAES, FILLIPE ALEXANDRE ; FRITZEN, PAULO CÍCERO ; BENEDITO, RAPHAEL AUGUSTO DE SOUZA . A Computational Framework for Daily Power Flow Analysis Considering Photovoltaic Distributed Generation. BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 62, p. 1-8, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1590/1678-4324-smart-2019190008"
+        },
+        {
+          "texto": "AVELAR, F.S. ; FRITZEN, P. C. ; FURUCHO, M.A.A. ; BETINI, R.C. . Model of Restoration of Distribution Network of Electrical Energy using Artificial Neural Networks. RENEWABLE ENERGY & POWER QUALITY JOURNAL (RE&PQJ) , v. 1, p. 237-241, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.24084/repqj16.272"
+        },
+        {
+          "texto": "NOGUEIRA, E.F. ; GARCIA, G. ; BETINI, R.C. ; FRITZEN, P.C. . The Use of Solar Energy in Brazilian Residences. RENEWABLE ENERGY & POWER QUALITY JOURNAL (RE&PQJ) , v. 1, p. 103-107, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.24084/repqj16.226"
+        },
+        {
+          "texto": "AVELAR, FABIO DA SILVA ; FRITZEN, PAULO CÍCERO ; FURUCHO, MARIANA ANTÔNIA AGUIAR . Power Flow Analysis and Self-recovery of Electrical Energy Distribution Network Using Artificial Neural Networks. BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 61, p. 1-10, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1590/1678-4324-smart-2018000320"
+        },
+        {
+          "texto": "MULLER, LILIAN VASELQUIU ; FRITZEN, PAULO CÍCERO ; MACIEL, EDNILSON SOARES . Generation of Electrical Energy Obtained Through a Continuous Current Generator Coupled to the Pedal of an Ergometric Bicycle. BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 61, p. 1-10, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1590/1678-4324-smart-2018000360"
+        },
+        {
+          "texto": "FRITZEN, P. C. ; Zauk, João Montagner ; Oliveira, Aécio de Lima ; Cardoso, Ghendy ; de Araújo, Olinto César Bassi . Hybrid system based on constructive heuristic and integer programming for the solution of problems of fault section estimation and alarm processing in power systems. Electric Power Systems Research (Print) , v. 90, p. 55-66, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2012.04.002"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "FRITZEN, PAULO CÍCERO ; HEBERLE, R. R. ; RIBEIRO, C. P. . PROTEÇÃO CONTRA DESCARGAS ATMOSFÉRICAS EM SISTEMAS FOTOVOLTAICOS INSTALADOS EM SOLO. In: Congresso Brasileiro de Planejamento Energético, 2024, Manaus- AM. XIV Congresso Brasileiro de Planejamento Energético, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, M. J. A. ; DELGADO, D. R. B. N. ; FRITZEN, PAULO CÍCERO . Metodologias Para Determinação De Diagnósticos De Faltas Em Sistemas Híbridos De Geração Distribuída. In: Congresso Brasileiro de Planejamento Energético, 2024, Manaus - AM. XIV Congresso Brasileiro de Planejamento Energético, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "SANTANA, L. B. ; FRITZEN, P. C. . O Impacto das Gerações Renováveis na confiabilidade do Sistema Elétrico Brasileiro. In: CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022, Itajuba-MG. XIII CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, W. ; FRITZEN, P. C. . Consequências para os Sistemas de Aterramento das Subestações devido à Expansão dos Sistemas Elétricos. In: CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022, Itajuba-MG. XIII CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "KURIYAMA, C. S. ; FRITZEN, P.C. . Análise das vibrações dos transformadores de distribuição para fins de manutenção. In: CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022, Itajuba-MG. XIII CONGRESSO BRASILEIRO DE PLANEJAMENTO ENERGÉTICO, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SEIFERT, R. ; FRITZEN, P. C. . Brazilian PV Power Converter Substations. In: VII Ibero-American Congress on Entrepreneurship, Energy, Environment and Technology (CIEEMAT 2022), 2022, Bragança-Portugal. (CIEEMAT 2022) VII Ibero-American Congress on Entrepreneurship, Energy, Environment and Technology, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SCORTEGAGNA, A. K. ; BEZERRA, P. R. R. ; FRITZEN, P. C. ; URBANETZ JUNIOR, J. . IMPACTO DE SISTEMAS DE BOMBEAMENTO DE ÁGUA COM USO DE ENERGIA SOLAR FOTOVOLTAICA EM REGIÕES SUSCETÍVEIS À FALTA DE ÁGUA POTÁVEL NO BRASIL. In: Simpósio Brasileiro de Recursos Hídricos, XXIV SBRH, 2021, Belo Horizonte-MG. XXIV SBRH - Simpósio Brasileiro de Recursos Hídricos, 2021. v. XXIV-S.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SCORTEGAGNA, A. K. ; FRITZEN, P. C. . Novas abordagens para sistemas fotovoltaicos de bombeamento de água baseados em conversores de frequência convencionais. In: Congresso Brasileiro de Planejamento Energético-CBPE, 2020, on line. XII Congresso Brasileiro de Planejamento Energético - Segurança e Sustentabilidade no Futuro Energético, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MORAES, FILLIPE ALEXANDRE ; FRITZEN, P. C. ; KRUPA, A. A. . Alteração nos níveis de curto circuito em uma rede de distribuição de energia na presença de geradores fotovoltaicos distribuídos. In: Congresso Brasileiro de Planejamento Energético-CBPE, 2020, on line. XII Congresso Brasileiro de Planejamento Energético - Segurança e Sustentabilidade no Futuro Energético, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "NUNES, F. J. M. ; FRITZEN, P. C. . Eficientização Energética do Restaurante Universitário(RU) da UFPR ? Centro Politécnico. In: VIII Congresso Brasileiro de Energia Solar, 2020, Fortaleza-CE. VIII Congresso Brasileiro de Energia Solar, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "KRUPA, A. A. ; MORAES, F. A. ; FRITZEN, PAULO CÍCERO . Study on Fault Currents Contributed by Distributed Photovoltaic Generation. In: IEEE PES INNOVATIVE SMART GRID TECHNOLOGY CONFERENCE - LATIN AMERICA 2019, 2019, Gramado/RS. IEEE PES INNOVATIVE SMART GRID TECHNOLOGY CONFERENCE - LATIN AMERICA 2019, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2019.8895405"
+        },
+        {
+          "texto": "TORTELLI, B. ; FRITZEN, P. C. ; URBANETZ JUNIOR, J. ; PUPO, R. A. . Análise da Qualidade de Energia em um Sistema Fotovoltaico Instalado em uma Residência e Conectado à Rede Elétrica. In: Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. XI CBPE - Congresso Brasileiro de Planejamento Energético, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MULLER, L. V. ; FRITZEN, P. C. ; MACIEL, E. S. . Microgeração de Energia Elétrica obtida através de um Alternador acoplado ao Pedal de uma Bicicleta Ergométrica com potência controlada por Lógica Fuzzy. In: Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. XI - Congresso Brasileiro de Planejamento Energético, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, F. S. ; MARTINS, R. C. ; FRITZEN, P. C. ; BETINI, R. C. . Avaliação da Eficiência Energética de Sistemas de Iluminação em Universidades. In: Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. XI CBPE - Congresso Brasileiro de Planejamento Energético, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MORAES, F. A. . Avaliação Técnica de um Alimentador de Distribuição com Geração Fotovoltaica Distribuída. In: Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. XI CBPE - Congresso Brasileiro de Planejamento Energético, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; TANAKA, K. M. S. . Possibilidade de Micro Redes com Geradores Distribuídos na Região Oeste e Centro Oeste do Paraná. In: Congresso Brasileiro de Planejamento Energético, 2018, Cuiabá. XI CBPE - Congresso Brasileiro de Planejamento Energético, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GURSKI, E. ; MORAES, F. A. ; FRITZEN, P. C. ; BENEDITO, R. A. S. . Algoritmo computacional para análise de Fluxo de Potência diário com inserção de Geração Distribuída Fotovoltaica. In: Conferência Internacional de Energias Inteligentes ? Smart Energy CIEI&EXPO 2018, 2018, Curitiba. Smart Energy CIEI&EXPO 2018, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "AVELAR, F. S. ; FRITZEN, P. C. ; FURUCHO, M. A. A. . Analise de fluxo de potência e autorrecuperação de rede de distribuição de energia elétrica utilizando redes neurais artificiais. In: SmartEnergy 2017 - Conferência Internacional de Energias Inteligentes, 2017, Curitiba/PR. SmartEnergy CIEI&Expo 17, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MULLER, L. V. ; FRITZEN, P. C. ; MACIEL, E. S. . Geração de energia elétrica obtida através de um alternador acoplado ao pedal de bicicleta ergométrica. In: SmartEnergy 2017 - Conferência Internacional de Energias Inteligentes, 2017, Curitiba/PR. SmartEnergy CIEI&Expo 17, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "POLLI, J. A. A. ; ALVES, G. M. ; BETINI, R. C. ; FRITZEN, P. C. . Project Implementation of the Micro Hydroelectric Roncador. In: International Conference on Renewable Energies and Power Quality (ICREPQ?16), 2016, Madrid (Spain). Renewable Energy and Power Quality Journal (RE&PQJ), 2016. p. 195-198.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FUMAGALLI, J. P. ; BETINI, R. C. ; ALVES, G. M. ; FRITZEN, P. C. . Study of Case for Energy Efficiency in Old Buildings. In: International Conference on Renewable Energies and Power Quality(ICREPQ?16), 2016, Madrid (Spain). Renewable Energy and Power Quality Journal (RE&PQJ), 2016. p. 67-72.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; GOMES, C. C. M. ; TAGLIARI, S. L. ; GOMES, C. H. ; PEPPLOW, L. A. . Aplicativo para visualização do consumo de energia elétrica residencial discretizado por circuito. In: X Congresso Brasileiro de Planejamento Energético, 2016, Gramado-RS. Oferta e Demanda de Energia - Congresso Brasileiro de Planejamento Energético, 2016. p. 1-12.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "TANAKA, K. M. S. ; LACERDA, L. A. ; FRITZEN, P. C. ; BETINI, R. C. ; ALVES, G. M. . Geração de energia elétrica através do aproveitamento de gases provenientes de resíduos sólidos urbanos oriundos de aterros sanitários. In: X Congresso Brasileiro de Planejamento Energético, 2016, Gramado-RS. Oferta e Demanda de Energia - Congresso Brasileiro de Planejamento Energético, 2016. p. 1-13.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "TONELLO, J. P. C. ; DOMINIAK, A. L. ; SILVA, W. A. ; BETINI, R. C. ; FRITZEN, P. C. ; ALVES, G. M. . Projeto e implantação de sistemas de geração de biogás em pequenas propriedades rurais como fonte alternativa de energia. In: X Congresso Brasileiro de Planejamento Energético (X CBPE), 2016, Gramado-RS. Oferta e Demanda de Energia- Congresso Brasileiro de Planejamento Energético, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; SOUTO, R. F. ; DAMASCENO, J. P. G. . Aplicação de Algoritmos Genéticos na alocação de indicadores de faltas em redes de distribuição. In: INDUSCON 2016 - 12th IEEE/IAS International Conference on Industry Applications., 2016, Curitiba-PR. 12th IEEE/IAS International Conference on Industry Applications, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "POLLI, J. A. A. ; ALVES, G. M. ; FRITZEN, P. C. . Projeto de Implantação da Microcentral Hidrelétrica de Roncador. In: X AGRENER GD 2015, 2015, São Paulo-SP. 10º Congresso sobre Geração Distribuída e Energia no Meio Rural, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; OLIVEIRA, W. . Cálculo de Correntes de Curto-Circuito e Seletividade em Sistemas Elétricos Industriais. In: Redes Elétricas Inteligentes: Integrando Eletrônica de Potência e Sistemas de Potência, 2014, Santa Maria - RS. REI 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Oliveira, Aécio de Lima ; ZAUK, J. M. ; FRITZEN, P. C. ; Cardoso, Ghendy . Padrões de Treinamento para Classificação de Eventos com Base no Disparo de Relés de Proteção. In: Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2012, Goiânia. IV SBSE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ZAUK, J. M. ; ; ARAÙJO, O. B. ; OLIVEIRA, A. L. ; CORRÊA, R. ; SCHMITT, A. L. . Sistema híbrido motivado na heurística construtiva e na programação inteira para a solução dos problemas de processamento de alarmes e estimação de seção em falta em sistemas elétricos de potência. In: IX CLAGTEE, 2011, Mar del Plata - Argentina. - Latin-America Congress on Electricity Generation and Transmission, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "CORRÊA, R. ; Cardoso, Ghendy ; ; MARIOTTO, L. ; FRITZEN, P. C. ; ARAÙJO, O. B. ; DUTRA, E. S. . Uma nova proposta para a redução do tempo de disparo da proteção de sobrecorrente de retaguarda remota: customização de curvas por meio de duas funções 51. In: IX CLAGTEE, 2011, Mar del Plata - AR. Latin-America Congress on Electricity Generation and Transmission.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "ZAUK, J. M. ; FRITZEN, P. C. ; ; ARAÙJO, O. B. ; SANTOS, E. M. dos ; CORRÊA, R. . Análise Crítica de Técnicas Computacionais Utilizadas na Classificação de Eventos com Base no Disparo de Relés de Proteção. In: IEEE/PES T&D2010 Latin América, 2010, São Paulo-SP. T&D 2010 Transmission and Distribution Conference and Exposition Latin América. São Paulo-SP: IEEE/PES T&D 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; ZAUK, J. M. ; ; BEZERRA, U. H. ; BECK, J. A. P. . Alarm Processing and Fault Diagnosis in Power Systems Using Artificial Neural Networks and Genetic Algorithms. In: IEEE-ICIT 2010 - (International Conference on Industrial Technology), 2010, Vina del Mar, Valparaiso. IEEE-ICIT 2010 - (International Conference on Industrial Technology), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; ZAUK, J. M. ; ; BEZERRA, U. H. ; BECK, J. A. P. . Integrated use of Artificial Neural Networks and Genetic Algorithms for Problems of Alarm Processing and Fault Diagnosis in Power Systems. In: ACIIDS 2010 ? (The 2nd Asian Conference on Intelligent Information and Database Systems), 2010, Hue City, Vietnam. ACIIDS 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ZAUK, J. M. ; ARAÙJO, O. B. ; ; . Aplicação Integrada entre Redes Neurais GRNN e Programação Binária Baseada em Recobrimento no Problema de Diagnóstico de Faltas em Sistemas de Distribuição de Energia. In: CIDEL 2010, 2010, Buenos Aires - Argentina. Cidel 2010 - Argentina, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ZAUK, J. M. ; ; ARAÙJO, O. B. ; . Utilização Integrada de Redes Neurais Artificiais e Algoritmos Genéticos para Problemas de Processamento de Alarmes e Diagnóstico de Faltas em Sistemas de Energia. In: III SBSE (Simpósio Brasileiro de Sistemas Elétricos), 2010, Belém - PA. III SBSE (Simpósio Brasileiro de Sistemas Elétricos), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "ZAUK, J. M. ; ARAÙJO, O. B. ; FRITZEN, P. C. ; ; OBREGON, L. C. ; CORRÊA, R. . Programação inteira binária aplicada ao processamento de alarmes em sistemas elétricos de potência. In: XXIV CRICTE (Congresso Regional de Iniciação Científica e Tecnológica), 2010, Rio Grande - RS. XXIV CRICTE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "ZAUK, J. M. ; ARAÙJO, O. B. ; FRITZEN, P. C. ; ; OBREGON, L. C. ; CORRÊA, R. . Programação Inteira Binária Aplicada ao Processamento de Alarmes em Sistemas Elétricos de Potência. In: XVIII CBA (Congresso Brasileiro de Automática), 2010, Bonito-MS. XVIII CBA (Congresso Brasileiro de Automática), 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; ZAUK, J. M. ; . Sistema Híbrido Fundamentado nas Redes GRNN e nos Algoritmos Genéticos para a Solução dos Problemas de Diagnóstico de Faltas e Processamento de Alarmes em Sistemas de Potência. In: 3) VIII CLAGTEE - Congresso Latino Americano de Geração e Transmissão de Energia Elétrica, 2009, Ubatuba-SP-Brasil. EIGHTH LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ZAUK, J. M. ; ; ; BEZERRA, U. H. ; BECK, J. A. P. . Processamento de Alarmes e Diagnóstico de Faltas em Sistemas de Potência Utilizando a Rede GRNN e os Algoritmos Genéticos. In: Congresso Brasileiro de Redes Neurais, 2009, Ouro Preto - MG. IX CBRN (Congresso Brasileiro de Redes Neurais / Inteligência Computacional), 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, T. M. ; ; ; ZAUK, J. M. ; FRITZEN, P. C. ; BOLZAN, R. . Análise Comparativa do Desempenho de Várias Arquiteturas de Redes Neurais Artificiais Aplicadas ao Processamento de Alarmes. In: IX CBRN (Congresso Brasileiro de Redes Neurais / Inteligência Computacional), 2009, Ouro Preto - MG. CBRN 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "ZAUK, J. M. ; FRITZEN, P. C. ; . Solução dos Problemas de Diagnóstico de Faltas e Processamento de Alarmes em Sistemas de Potência Utilizando Redes GRNN e Algoritmos Genéticos. In: XXIII CRICTE (Congresso Regional de Iniciação Científica e Tecnológica, 2009, Joinville - SC. XXIII CRICTE (Congresso Regional de Iniciação Científica e Tecnológica, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; ZAUK, J. M. . Aplicação do Algoritmo Genético no Diagnóstico de Faltas e Processamento de Alarmes em Sistemas de Potência. In: III ERPO (Encontro Regional de Pesquisa Operacional da Região Sul), 2009, Porto Alegre - RS. Encontro Regional de Pesquisa Operacional da Região Sul (3. : 2009:. Porto Alegre - RS: Direitos reservados © 2009 Instituto de Informática da UFRGS, 2009. p. 43-48.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; POPOV, V. ; ; ; EKEL, P. . Quasi Real Time State Estimation of Distribution Systems Using Soft Computing Methodology. In: Second IEEE International Caracas Conference on Devices, Circuits and Systems, 1998, Caracas. Second IEEE International Caracas Conference on Devices, Circuits and Systems, 1998. p. 415-420.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; POPOV, V. ; ; . Methodology of Soft Computing in Controlling and Design of Electrical Distribution Systems. In: Intelligent Design in Engineering Applications Symposium, 1997, Aachem. Intelligent Design in Engineering Applications Symposium, 1997.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; POPOV, V. ; EKEL, P. ; ANSUJ, S. . Methods of Soft Computing in Modelling and Controlling Power systems and Subsystems. In: IEEE 6 th International Conference on Emerging Technologies and Factory Automation Proceedings, 1997, Los Angeles. IEEE 6 th International Conference on Emerging Technologies and Factory Automation Proceedings, 1997. p. 292-297.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MACHADO, W. . Aquisição e Processamento Informatizado de Dados para Ensaio de Determinação de parâmetros de Máquinas Síncronas pelos Ensaios de Rejeição de Carga. In: Congresso Regional de Iniciação Científica e Tecnológica, 1995, Blumenau. X Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 1995.",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "SUCKOW, G. L. ; FRITZEN, PAULO CÍCERO . REALIDADE VIRTUAL APLICADA A ANÁLISE PRELIMINAR DE RISCOS EM TREINAMENTOS DE ELETRICISTAS DE REDES DE DISTRIBUIÇÃO. In: Congresso Brasileiro de Planejamento Energético, 2024, Manaus - AM. XIV Congresso Brasileiro de Planejamento Energético, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; PESSOA, R. R. ; SOUZA, R. J. ; NETO, J. P. ; DE CASTRO, J. ; ARAUJO JUNIOR, R. P. ; . Avaliação das Condições das Instalações Elétricas nas Residências da Vila União-Palmas-TO. In: IV Jornada de Iniciação Cientifica do CEULP/ULBRA, 2004. Anais da 4ª Jornada de Iniciação Cientifica deo Centro Universitario Luterano de Palmas, 2004. p. 134-136.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; TEIXEIRA, Claudia Steinert . Otimização da Iluminação Pública em Balneário Camboriú - SC. In: III Congresso Científico do Centro Universitário Luterano de Palmas, 2003, Palmas - TO. Anais do 3º Congresso Científico do Centro Universitário Luterano de Palmas: Mercado e Cidadania: O Papel da Universidade. Palmas - TO: Centro Universitário Luterano de Palmas, 2003. p. 335-337.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. . Levantamento das Condições Habitacionais das Edificações da Vila União-Palmas/TO. In: III Congresso Cientifico do Centro Universitario Luterano de Palmas, 2003, Palmas-TO. Anais do 3º Congresso Cientifico do Centro Universitario Luterano de Palmas. CEULP/ULBRA, 2003. p. 368-369.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "FRITZEN, P. C. ; ARAUJO JUNIOR, R. P. ; ; BORGES, C. R. ; PESSOA, R. R. ; SOUZA, R. J. ; NETO, J. P. . Levantamento das Condições Habitacionais das Edificações da Vila União-Palmas/TO. In: VI- EXPRO - I Mostra de Extensão do Centro Universitário Luterano de Palmas, 2003, Palmas-TO. Mostra de Extensão do Centro Universitário Luterano de Palmas, 2003. p. 99-99.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MACHADO, W. . Ensaio de Rejeição de Cargas para Máquinas Sincronas. In: Congresso Regional de Iniciação Científica e Tecnológica - CRICTE, 1995, Blumenau - SC. X CRICTE, 1995.",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "FRITZEN, P. C. . Segurança em Eletricidade: Choque Elétrico. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, PAULO CÍCERO . Isoladores para Alta Tensão: estudos sobre poluição artificial para ensaios elétricos de suportabilidade e para auxílio a predição de intervenções. 2024. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, PAULO CÍCERO . Operação, Controle e Segurança da Geração Distribuída Renovável em Redes de Energia: Perspectivas de Investigação. 2024. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; GOMES, C. C. M. ; GOMES, C. H. ; TAGLIARI, S. L. ; PEPPLOW, L. A. . Aplicativo para visualização do consumo de energia elétrica residencial discretizado por circuito. 2016. (Apresentação de Trabalho/Congresso).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "TONELLO, J. P. C. ; DOMINIAK, A. L. ; SILVA, W. A. ; BETINI, R. C. ; ALVES, G. M. ; FRITZEN, P. C. . Projeto de implantação de sistemas de geração à biogás em pequenas propriedades rurais como fonte alternativa de energia. 2016. (Apresentação de Trabalho/Congresso).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; ; ZAUK, J. M. ; . Sistema Híbrido Fundamentado nas Redes GRNN e nos Algoritmos Genéticos para a Solução dos Problemas de Diagnóstico de Faltas e Processamento de Alarmes em Sistemas de Potência. 2009. (Apresentação de Trabalho/Congresso).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MACHADO, W. ; . Ensaio de Máquinas Síncronas pelo Método de Rejeição de Carga. 1994. (Apresentação de Trabalho/Seminário).",
+          "ano": 1994,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "FRITZEN, P. C. . Eletrônica Analógica. Eletromecânica. Brusque-SC: FEBE 2002 (Apostila de Diasciplina).",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. . Projetos Especiais de Iluminação. Engenharia Civil, Itajaí-SC: UNIVALI 2001 (Apostila de Disciplina).",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. . Instalações e Equipamentos II.Arquitetura e Urbanismo. Balneário Camboriú - SC: Univali - CES II 2000 (Cadernos FAUVI).",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. . Projetos de Instalações Elétricas Prediais. Engenharia Civil, Itajaí-SC: UNIVALI 2000 (Apostila de Diasciplina).",
+          "ano": 2000,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "items": [
+        {
+          "texto": "FRITZEN, P. C. . Avaliador Ad Hoc externo. 2016.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "RIBEIRO, L. E. ; FRITZEN, P. C. . Tutoria para Iniciantes em Instrumentação aplicada a circuitos elétricos. 2016. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. . Palestra Coque Elétrico. 2015. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais trabalhos",
+      "items": [
+        {
+          "texto": "FRITZEN, P. C. ; POPOV, V. . Nova Metodologia de análise e Redução de Perdas de Energia Elétrica em Sistemas de Distribuição. 1997 (Projeto de Pesquisa) .",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MACHADO, W. . Aquisição e Processamento Informatizado de Dados para Ensaio de Determinação de Parâmetros de Máquinas Síncronas pelos Ensaios de Rejeição de Carga. 1994 (Projeto de Pesquisa) .",
+          "ano": 1994,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "SANTOS, E. M.; SILVA, C. D. L.; FRITZEN, PAULO CÍCERO . Participação em banca de Luana Barcelos Severo. Uma Nova Proposta para Detecção e Correção das Distorções nas Formas de Onda de Correntes Secundária em TC?S Saturados: Uma Abordagem Utilizando RNA?S. 2023. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "URBANETZ JUNIOR, J.; BIANCHIN, C. G.; FRITZEN, P. C. . Participação em banca de Joel Claudiano da Silva. ANÁLISE COMPARATIVA DE SISTEMAS FOTOVOLTAICOS CONECTADOS A REDE INSTALADOS EM CURITIBA COM DIFERENTES TOPOLOGIAS. 2022. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "UNSIHUAY-VILA, C.; AOKI, A. R.; SCHUMACHER, R.; FRITZEN, P. C. . Participação em banca de ANDERSON LUIS GAPSKI. OTIMIZAÇÃO MULTIOBJETIVO DA MANUTENÇÃO CENTRADA NA CONFIABILIDADE DE ATIVOS EM SISTEMAS DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2022. Dissertação (Mestrado em Pós Graduação em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "URBANETZ JUNIOR, J.; PORTELLA, K. F.; FRITZEN, P. C. . Participação em banca de CARLOS EDUARDO TEIXEIRA DAS NEVES. ANALISE DE VIABILIDADE TÉCNICA PARA A INSTALAÇÃO DE USINAS FOTOVOLTAICAS FLUTUANTES. 2022. Dissertação (Mestrado em Programa de Pós´Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "YAMAKAWA, E. K.; SALAS, C. S. S.; SALAMANCA, H. L. L.; FRITZEN, P.C. . Participação em banca de KIANE ALVES E SILVA. MÉTODO PARA SUPORTE NA IMPLANTAÇÃO DE SISTEMAS FOTOVOLTAICOS INDIVIDUAIS E ISOLADOS EM REGIÕES REMOTAS. 2021. Dissertação (Mestrado em Desenvolvimento de Tecnologia) - Institutos Lactec.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M.; SILVA, C. D. L.; FRITZEN, P. C. . Participação em banca de Alex Itczak. Otimização do cabeamento interconector de aerogeradores em parques eólicos onshore. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. dos; SILVA, C. D. L.; FRITZEN, P. C. . Participação em banca de Arian Rodrigues Fagundes. Coordenação de Relés de Sobrecorrente em Sistemas Elétricos de Potência utilizando MetaHeuristicas Bio-Inspiradas: uma abordagem considerando o Algoritmo de Busca dos Cucos via Voos de Lévy. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. dos; SILVA, C. D. L.; FRITZEN, P. C. . Participação em banca de Paulo Ricardo Fiuza Marques. Uma Nova Proposta para Mitigação de Desligamentos Forçados em Linhas Aéreas de Transmissão de Energia Elétrica Correlacionados ao Bird Streamer. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. dos; SILVA, C. D. L.; FRITZEN, P. C. ; GRIGOLETTO, F. B.. Participação em banca de Jefferson Oliveira dos Santos. Metaheurísticas Bio Inspiradas Aplicadas em Problemas de Despacho Econômico de Carga. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CHEMIN NETO, U.; FRITZEN, P. C. ; MOTTER, D.. Participação em banca de Gustavo Galeazzi Bacil. Simulação de Faltas de Alta Impedância em Sistemas de Distribuição de Energia Elétrica. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "BENEDITO, R. A. S.; FRITZEN, P. C. ; ROSA, M. A.. Participação em banca de Gisele Maria de Oliveira Salles. Estimação de Intervalos de Tempos Ótimos para Inspeção e Manutenção de de Escovas em Unidades Geradoras da COPEL. 2020. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "TORTELLI, O. L.; FERNANDES, T. S. P.; UNSIHUAY-VILA, C.; FRITZEN, P.C. . Participação em banca de Juciele Frena. Método para Análise Integrada de Sistemas de Transmissão e Distribuição de Energia Elétrica. 2019. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; FURUCHO, M.A.A.. Participação em banca de Lilian Vaselquiu Muller. Sistema de Monitoramento da Frequência Cardíaca Via Lógica Fuzzy em Bicicleta Ergométrica com Microgeração de Energia. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "URBANETZ JUNIOR, J.; FRITZEN, P. C. ; YAMAKAWA, E. K.. Participação em banca de Jardel Eugenio da Silva. Veículos elétricos e a geração distribuída a partir de sistemas fotovoltaicos. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, S. E. G.; LIMA, E. P.; LOURES, E. F. R.; CESTARI, J. M. A. P.; . Participação em banca de Giulia Cavichiolo Saldanha. Gestão de energia em uma linha de produção: proposta e avalição de modelo que utiliza simulação discreta para redução em gastos energéticos. 2017. Dissertação (Mestrado em Engenharia de Produção e Sistemas) - Pontifícia Universidade Católica do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BENEDITO, R. A. S.; KUIAVA, R.; . Participação em banca de Alyne Nogueira Justi. Metodologia de análise do colapso de tensão em tempo real considerando limites de potência ativa e reativa de geradores. 2017. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ISSICABA, D.; BENEDITO, R. A. S.. Participação em banca de Fábio da Silva Avelar. Ferramenta de suporte para autorecuperação de rede de distribuição de energia elétrica utilizando redes neurais artificiais. 2017. Dissertação (Mestrado em Programa de Pós-Graduação em Sistemas de Energia (PPGSE)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ARAÙJO, O. B.; . Participação em banca de Júlio Cesar Ribeiro. Lógica paraconsistente anotada de três valores aplicada em raciocínio baseado em casos para diagnóstico e falta em transformador de potência. 2016. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica - PPGEE/CT) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ROMANO, C. A.; SILVA, C. M.; . Participação em banca de CARLOS EDUARDO LOURENÇO MATTOS. Metodologia de Ensaio de Fluência em Cabos de Transmissão de Energia Elétrica. 2015. Dissertação (Mestrado em Engenharia Civil (PPGEC)) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "; RICCIOTTI, A. C. D.; OLIVEIRA, A. L.; GUARDA, F. G. K.; FRITZEN, P. C. . Participação em banca de JÚLIO CÉSAR RIBEIRO. UM NOVO CONCEITO DE INTELIGÊNCIA ARTIFICIAL BASEADO NAS REDES DA LÓGICA PARACONSISTENTE ANOTADA DE DOIS-VALORES PARA TRATAMENTO DE INCERTEZAS NA ESTIMATIVA DE SEÇÃO EM FALTA DO SISTEMA ELÉTRICO DE POTÊNCIA. 2022. Tese (Doutorado em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "URBANETZ JUNIOR, J.; SALAS, C. S. S.; TIEPOLO, G. M.; MEDEIROS, L.; FRITZEN, P. C. . Participação em banca de Juliana D Angela Mariano. A INTEGRAÇÃO DOS SISTEMAS DE ARMAZENAMENTO DE ENERGIA NOS SISTEMAS FOTOVOLTAICOS: ESTUDO DE CASO DA GESTÃO DA ENERGIA NA UTFPR. 2021. Tese (Doutorado em Engenharia Civil) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "RIBEIRO, A. A.; AOKI, A. R.; REGINATTO, R.; VOLPI, N. M. P.; ; SANTOS, S. R.. Participação em banca de Marcos Roberto Bombacini. Aplicação de Otimização Robusta em Conjunto Incerto Correlacionado no Problema de Designação de Geradores com Energia Eólica. 2017. Tese (Doutorado em Métodos Numéricos em Engenharia) - Universidade Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; RICCIOTTI, A. C. D.; ; OLIVEIRA, A. L.; FRITZEN, P. C. . Participação em banca de Júlio César Ribeiro. UMA NOVA ABORDAGEM PARA TRATAMENTO DE INCERTEZAS NA ESTIMATIVA DE SEÇÃO EM FALTA DO SISTEMA ELÉTRICO DE POTÊNCIA BASEADA NA REDE DE ANÁLISE PARACONSISTENTE E LÓGICA PARACONSISTENTE ANOTADA DE DOIS VALORES. 2020. Exame de qualificação (Doutorando em PROGRAMA DE PÓS-GRADUAÇÃO EM ENGENHARIA ELÉTRICA) - Universidade Federal de Santa Maria.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "URBANETZ JUNIOR, J.; TIEPOLO, G. M.; FRITZEN, P. C. ; SALAS, C. S. S.. Participação em banca de Juliana D?Angela Mariano. A INTEGRAÇÃO DOS SISTEMAS DE ARMAZENAMENTO DE ENERGIA NOS EDIFÍCIOS FOTOVOL T AICOS: ESTUDO DE CASO DA GESTÃO DA ENERGIA NA UTFPR. 2019. Exame de qualificação (Doutorando em Engenharia Civil) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "SANTOS, E. M. dos; SILVA, C. D. L.; FRITZEN, P. C. . Participação em banca de Luana Barcelos Severo. Uma Proposta para Detecção e Correção da Forma de Onda Secundária de Transformadores de Corrente Através de Redes Neurais Artificiais. 2022. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "SILVA, N. S.; MARIANO, C. H.; FRITZEN, P. C. . Participação em banca de ARTUR BERTRAND MARLANGEON.ANÁLISE COMPARATIVA SOBRE O IMPACTO DAS MICRORREDES NA QUALIDADE DE ENERGIA. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, R. C.; ITTURRIET, F. P.; FRITZEN, P. C. . Participação em banca de MARCELLO AUGUSTO PASSOS II.Transformação de sons de polícia e ambulância em sinais luminosos. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CHEMIN NETO, U.; BENEDITO, RAPHAEL AUGUSTO DE SOUZA; FRITZEN, PAULO CÍCERO . Participação em banca de Lucas da Rocha Lagoza.ANÁLISE COMPARATIVA ENTRE SOFTWARES DE ESTUDOS ELÉTRICOS. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, R. B. R.; FRITZEN, P. C. ; MACIEJEWSKI, N. A. R.. Participação em banca de Matheus Klug Costa.DESENVOLVIMENTO DE UM DISPOSITIVO DE BAIXO CUSTO PARA CONTROLE DE NÍVEL DE UM VARAL DE TETO COM FOCO NO PÚBLICO IDOSO. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "RUFATO JUNIOR, E.; RASERA, C. C.; COSTA, A. L.; FRITZEN, P. C. . Participação em banca de Bruno Pereira Fernandes / Gabriel Antunes Albuquerque Alves.FERRAMENTA DE VALIDAÇÃO E VISUALIZAÇÃO DE PROTEÇÕES DO SISTEMA DE POTÊNCIA. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, M. A.; CHEMIN NETO, U.; FRITZEN, P.C. . Participação em banca de Ediney Decol; Ivo Mateus Claudino; Luiz Antônio Dybas Cutas.Avaliação de um método prático de detecção de condutor rompido utilizando tensão em sistemas de distribuição radiais. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "DALLABONA, C. A.; DREYER, U. J.; FRITZEN, P.C. . Participação em banca de Anjli H. Gianani; Lauren A. F. Rute; Luiz Gustavo B. Goulart.Análise da rentabilidade de centrais de geração hidrelétricas em instalações residenciais. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUEZ, J. C. C.; SILVA, N. S.; FRITZEN, P.C. . Participação em banca de Carolina Prieto Ribeiro; Rafael Rodrigues Heberle.Proteção contra descargas atmosférica em sistemas fotovoltaicos. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; LELUDAK, J. A.; FRITZEN, P.C. . Participação em banca de Bento Juvito Garcia Neto; Paulo Cesar Das Neves Junior.Estudo da eficiência de um sistema power-to-power como solução a intermitência das fontes solares de geração de energia. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "FRENCL, V. B.; MAGRIN, F. G. S.; FRITZEN, P.C. . Participação em banca de Leonardo de Andrade Cruz.Desenvolvimento de aplicativo para configuração de relés de distância comerciais. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "TIEPOLO, G. M.; SILVA, N. S.; FRITZEN, P.C. . Participação em banca de Evandro Jacek Gomes; Gustavo Dos Santos.Contribuição ao estudo dos impactos do aumento da entrada da energia solar fotovoltaica na rede elétrica de distribuição. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; SILVA, N. S.; FRITZEN, P.C. . Participação em banca de Caique Pinheiro Coelho; Miguel Michalouski Santos Lima.Perdas Não Técnicas de Energia Elétrica no Brasil: Estimativa, Impactos e Mitigação. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MACIEJEWSKI, N. A. R.; PRAZERES, R. A.; FRITZEN, P.C. . Participação em banca de Leonardo Batista de Santana.Sistema de Acionamento para um Mecanismo Robótico de Multieixos. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BETINI, R. C.; BENEDITO, R. A. S.; FRITZEN, P. C. . Participação em banca de Alexandre G. Batista/ Aluizio P. Tavares/ Elizabeth Oliveira.Uma proposta de ranqueamento dos SGDs mais apropriados para uma região baseado em metodologia multicritério. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, N. S.; OLIVEIRA, D. R.; BORBA, G. B.; FRITZEN, PAULO CÍCERO . Participação em banca de Bruno Arrielo Chagas e Rafael PiazenƟn Freire Gonçalves.Desenvolvimento e Implementação do Sistema de Navegação para Robô Autônomo Terrestre. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BARCIK, M.; SILVA, N. S.; FRITZEN, P. C. . Participação em banca de Murilo G. Antunes/ Pedro H. Nunes Martinez/ Sara R. Ferreira.Estudo comparativo entre as células solares fotovoltaicas inorgânicas e orgânicas. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BARCIK, M.; FRITZEN, PAULO CÍCERO ; SILVA, C. A. S.; SCHAFRANSKI, L. E.. Participação em banca de Everaldo M. de Quadros; Pedro T. S. P. de Azevedo.DIMENSIONAMENTO E ANÁLISE DE VIABILIDADE PARA INSTALAÇÃO DE GERADOR SÍNCRONO COM OBJETIVO DE SUPRIR DEMANDA EM HORÁRIO DE PICO EM UM AMBIENTE CORPORATIVO ? ESTUDO DE CASO. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, A. A.; MAGRIN, F. G. S.; BENEDITO, RAPHAEL AUGUSTO DE SOUZA; FRITZEN, P.C. . Participação em banca de Debora C. Filietaz/ Lucas P. Martins/ Thiago H. dos Santos.Estudo de MUST - montante de uso de sistema de transmissão nos pontos de conexão entre a rede básica e a rede de alta tensão da distribuidora. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "RUFATO JUNIOR, E.; PINHO, A. C.; FRITZEN, P.C. . Participação em banca de Eliezer Andressen Ribeiro/ Gabriel Galperin.Gerador Piezoelétrico aplicado a marcapasso. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P.C. ; TIEPOLO, G. M.; URBANETZ JUNIOR, J.. Participação em banca de Bruno Yoshiake Nakahata/ Lucas de Godoy Serrato.Dimensionamento de um Sistema Fototovoltaico Isolado em uma Unidade do Sistema de Monitoramento Inteligente de Recursos Hídricos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P.C. ; CASTAGNA, A. G.; SILVA, N. S.. Participação em banca de Diogo Tadashi Magri Hayakawa/ Lena Chagas.Utilização De Aerogerador Para Suprimento De Energia Em Pequena Propriedade Rural No Estado Do Paraná. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P.C. ; URBANETZ JUNIOR, J.; BENEDITO, R. A. S.. Participação em banca de Patryk Henrique da Fonseca.Análise Do Impacto Na Qualidade De Energia Causado Pela Conexão De Geração Distribuída Fotovoltaica De Até 50 kVA. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "CHEMIN NETO, U.; MAGRIN, F. G. S.; FRITZEN, P. C. . Participação em banca de Guilherme S. Abreu/ Juliano Menezes/ Luis Gustavo D.De Souza.Avaliação do Desempenho de um Localizador de Faltas Comercial aplicado à Linhas de Transmissão Hibridas em Corrente Alternada. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, N. S.; COSTA, A. L.; FRITZEN, P. C. . Participação em banca de Bianca Siqueira da Fonseca / Hellen Franco Ramalho.Estudo de caso: análise da viabilidade da implantação de um micro aerogerador no campus Ecoville a UTFPR Curitiba. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MORITZ, G. L.; RAYEL, O. K.; FRITZEN, P. C. . Participação em banca de Lucas Camargo de Jesus Correia.Avaliação da Eficiência Energética Residencial Utilizando Internet das Coisas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, N. S.; RUFATO JUNIOR, E.; FRITZEN, P. C. . Participação em banca de Lucas Paulatti Kassar.Concepção de modelo de microrrede em corrente contínua com fontes renováveis alternativas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SOUTO, R. F.; FRENCL, V. B.; FRITZEN, P. C. . Participação em banca de Gustavo F. De Oliveira/Marcel C. De Paiva/ Matias Schwanbach.Aplicação de Princípios de Controle aeroespacial com dois graus de liberdade em um protótipo de aeronave de duas hélices. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; SILVA, N. S.; FRITZEN, P. C. . Participação em banca de Barbara Nathan Rodrigues/ Thais Ramos Pinto.Estudos de Impactos da Geração Eólica em Linhas de Transmissão. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; BENEDITO, R. A. S.; . Participação em banca de Erica Yuko Miyoshi Koono / Ricardo dos Santos Santana.Análise de estabilidade de tensão e máxima transferência de potência: utilização do método \"look ahead modificado\". 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PRAZERES, R. A.; SCHAFRANSKI, L. E.; . Participação em banca de Mayron Breda de Jesus / Renan Yokogawa / Thiago de Oliveira.Análise de desempenho de uma subestação isolada a gás em comparação a uma subestação convencional. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SCHAFRANSKI, L. E.; ; PRAZERES, R. A.. Participação em banca de Katia Tatiane Albani / Lorene Goulart da Costa.Rede de Distribuição Aérea: comparativo técnico e econômico entre a rede convencional e a compacta na região de abrangência de uma concessionária de energia. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CASTAGNA, A. G.; ISSICABA, D.; . Participação em banca de Bruno Centenaro / Gabriela Franco Rios Catapani.Avaliação da Confiabilidade de Rede de Distribuição de uma Concessionária Brasileira Via Método de Monte Carlo Sequencial. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "BETINI, R. C.; PEPPLOW, L. A.; . Participação em banca de Felipe Augusto da Fonseca / Luiz Schimtz.Sistema microcontrolado para estufas. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "RUFATO JUNIOR, E.; COSTA, A. L.; . Participação em banca de Altieres Schincariol Netto.Estudo da viabilidade de micro-geração de energia eólica no campus da UTFPR de Guarapuava. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, N. S.; CHEMIN NETO, U.; BENEDITO, R. A. S.; . Participação em banca de Andrey D. M. Pierozan/Lucas R. L. Pinto/Vitor Hugo A. Sallum.Impacto das inovações tecnológicas para detecção e localização de faltas a partir das subestações. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; BENEDITO, R. A. S.; CHEMIN NETO, U.. Participação em banca de Felipe Hornung / Marcus Kussek.Estudo e ajustes de relé digital para a proteção em subestações de alta tensão. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; BETINI, R. C.; SOUTO, R. F.. Participação em banca de Fernanda da Silva Almeida / Rafael Candido Martins.Avaliação da qualidade e proposta de modernização da iluminação existente da UTFPR/CT. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; SCHAFRANSKI, L. E.; TREVISAN, L. G.. Participação em banca de Lucas Barbosa Campos / Normando Guedes Marcondes.Análise da viabilidade técnica e econômica do potencial energético do Rio Rancharia. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CASTAGNA, A. G.; PEPPLOW, L. A.; BETINI, R. C.; . Participação em banca de Christine H. Gomes; Cynthia C. M. Gomes; Simone L. Tagliari.Sistema supervisório para acompanhamento de consumo de energia elétrica residencial. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; CASTAGNA, A. G.; ; ISSICABA, D.. Participação em banca de André Gustavo Weber.Avaliação dos ganhos previstos em confiabilidadeem subsistemas de energia elétrica da cidade de Curitiba provenientes de obras destinadas a Copa do Mundo Fifa 2014. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CHIAMENTI, I.; ; BENEDITO, R. A. S.. Participação em banca de Ana C. Casara. Masiero; Érico Gurski;Junior V. Aguiar Castro.Estudo de estabilidade transitória em sistemas elétricos de potência utilizando métodos energéticos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; RUFATO JUNIOR, E.; ALVES, G. M.. Participação em banca de Andressa Y.B. Fujie;Gerson C. Keretch; Rarielen S.O.de Souza.Projeto de implantação da microcentral hidroelétrica de Rio Branco do Sul. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CASTAGNA, A. G.; ROCHA, J. E.; . Participação em banca de Allan Nery; Felipe Sourient Hopner.Projeto e sintonia de filtro de bloqueio para harmônicos de 3a ordem: comparativo de desempenho entre o transformador isolador e o filtro de bloqueio. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "BETINI, R. C.; SANTOS, W. E.; . Participação em banca de Andrey F. de Souza; Glauber M. O. Nunes; Thiago H. Bianchini.Sistema supervisório para monitoramento de consumo de água. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "RUFATO JUNIOR, E.; JEDYN, G.; . Participação em banca de Rafael da Cruz Tavares; Victor Pecine Payan.Estudo para a obtenção do licenciamento ambiental da micro central hidrelétrica Roncador no município de Bocaiúva do Sul. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; BENEDITO, R. A. S.; . Participação em banca de Henrique Perretto; Juliano da S. Pereira; Paulo H. V. Garcia.Análise estática da estabilidade de tensão com cenários de geração distribuída através do software Anarede. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, A. A.; RUFATO JUNIOR, E.; . Participação em banca de Lucas Baesso Guimarães.Viabilidade da normativa no. 687 em condomínio residencial. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, A. A.; URBANETZ JUNIOR, J.; . Participação em banca de Kayro M. S. Tanaka; Lucas A. Lacerda.Geração de energia elétrica através do aproveitamento de gases provenientes de resíduos sólidos urbanos oriundos de aterros sanitários. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CASTAGNA, A. G.; ROCHA, J. E.; SOUTO, R. F.; . Participação em banca de Jessica P. Gomes; Renata C. S. do Amaral.Pontos ótimos para alocação de indicadores de falta em linhas de distribuição. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BASTOS SOBRINHO, A. I.; BENEDITO, R. A. S.; . Participação em banca de Diliomar M. D. da Silva; Jean G. R. Pereira; Roger dal Negro.Desenvolvimento de ferramenta computacional para o estudo de proteção e seletividade para entrada de serviço em tensão primária de distribuição 13,8 kV conforme diretrizes da COPEL. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ALMEIDA, A. A.; CHEMIN NETO, U.; ; WIRMOND, V.. Participação em banca de Fernado T. Spironello; Henrique S. Lopes; Larissa A. Barbosa.Análise de confiabildade em sistemas de proteção baseados no padrão IEC 61850. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BENEDITO, R. A. S.; ALVES, G. M.; . Participação em banca de Heitor S. B. dos Reis; Josirene A. A. Polli.Projeto de implantação da microcentral hidroelétrica de Roncador. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CASTAGNA, A. G.; URBANETZ JUNIOR, J.; . Participação em banca de Anderson L. Gapski; Fábio H. Yonamini; Lucas Bettoni.Viabilidade de geração distribuída em uma academia de natação utilizando célula fotovoltáica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "TORTELLI, O. L.; BENEDITO, R. A. S.; . Participação em banca de Ana Carla Cordeiro; Michel Adolpho Sleder Ross.Identificação de ilhamento elétrico em redes de transmissão de energia. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CASTAGNA, A. G.; BENEDITO, R. A. S.; MORENO, S. R.. Participação em banca de Charleston Stelle; Gilberto R Maia Flo; Guilherme de C Santi.Aplicação da técnica de recozimento simulado para a otimização de pequenas centrais hidrelétricas em cascata. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ALMEIDA, A. A.; BENEDITO, R. A. S.. Participação em banca de Alyne Nogueira Justi; Felipe D. Mazza;Luciana Rinaldi Fogaça.Análise estática do ponto de colapso de tensão através do método do fluxo de potência continuado. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; COSTA, A. L.; ALMEIDA, A. A.; BENEDITO, R. A. S.. Participação em banca de Gabriel Fogagnoli; José Eduardo Pauluk.Estudo de métodos de despacho econômico de unidades geradoras termelétricas. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; COSTA, A. L.; BENEDITO, R. A. S.. Participação em banca de Willian de Oliveira.Cálculos de corrente de curto-circuito e seletividade em sistemas elétricos industriais. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; CASTAGNA, A. G.; RODRIGUES, M.. Participação em banca de Aurélio Cechinel; Douglas Iha Yoshida;João Daniel P.C. de Sá.Estudo comparativo entre o atual sistema de iluminação do Jardim Botânicode Curitiba com sistemas utilizando energia solar. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ALVES, G. M.; BENEDITO, R. A. S.. Participação em banca de Daniel Fiorini da Silva; Lin Yu Ming; Pedro H de Almeida.Sistema de proteção através do uso de relés microprocessados para subestações elétricas de alta tensão padrão Copel. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; . Participação em banca de Reinaldo Cavalheiro de LIma Jr..Análise de falhas e defeitos nos transformadores de potência e seu dspositivos. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; ALMEIDA, A. A.; SZLICHTA, W.; . Participação em banca de Evandro Ropelatto, Felipe Domingues Furquim,Renata Franciane.Estudo e análise da regulação de tensão e do suporte de potência reativa em sistemas integrados de transmissão de energia elétrica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; BENEDITO, R. A. S.; CASTAGNA, A. G.; . Participação em banca de Álvaro Cezar Parietti Filho, Luiz Gulherme Viveros d Almeida.Desenvolvimento de um algoritmo de fluxo de potência ótimo não-linear para unidades termelétricas. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; ALMEIDA, A. A.; BENEDITO, R. A. S.; . Participação em banca de Diogo Leandro Nunes Santos / Renato Daher / Vagner Nazari.Análise estática de sistema elétrico de potência utilizando o software anarede. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. L.; CASTAGNA, A. G.; BENEDITO, R. A. S.; . Participação em banca de Larissa M. Garcia / Lizyane G. Lopes/ Paola Mariani da Silva.Estudo de estabilidade transitória em sistemas multimáquinas. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Professor titular",
+      "items": [
+        {
+          "texto": "FRITZEN, P.C. ; VILLACA, M. V. M.; SILVEIRA, J. L.; MUSSOI, F. L. R.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Marcos Roberto Bombacini. 2025. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "ALBUQUERQUE, F. L.; PETEAN, D.; FRITZEN, P. C. ; MOURA, R. F.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Rodrigo Soares Lelis Gori. 2025. Instituto Federal do Tocantins Campus Palmas.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, A. C.; FRITZEN, P. C. ; MOURA, R. F.; SILVA, S. B.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Max Portuguez Obeso. 2025. Instituto Federal do Tocantins Campus Palmas.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GONZATTI, F.; DENARDIN, G. W.; FRITZEN, PAULO CÍCERO ; MOREIRA, M. C.; CARATI, E. G.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Adriano Peres de Morais. 2024. Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "GONZATTI, F.; DENARDIN, G. W.; FRITZEN, PAULO CÍCERO ; MOREIRA, M. C.; CARATI, E. G.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Rafael Adaime Pinto. 2024. Universidade Federal de Santa Maria.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, PAULO CÍCERO ; MUSSOI, F. L. R.; SILVEIRA, J. L.; VILLACA, M. V. M.. Comissão Especial de Avaliação de Desempenho para Classe Titular de Marcos Roberto Bombacini. 2022. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; SILVEIRA, J.; SILVEIRA, J. L.; MUSSOI, F. L. R.. Comissão Especial de Avaliação do Processo de Professor Titular. 2021. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "COMETTI, N. N.; ALBURQUERQUE, F. L.; FRITZEN, P. C. ; TAMASHIRO, M. A.. Comissão Especial de Avaliação do Processo de Professor Titular. 2020. Instituto Federal de Brasília.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "TAMASHIRO, M. A.; PAIVA, J. A.; FRITZEN, P.C. ; SILVA, S. B.. Comissão Especial de Avaliação do Processo de Professor Titular. 2019. Instituto Federal do Tocantins Campus Palmas.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LELIS, F. R. C.; ; STECCA, J. P.; BOURSCHEID, J. A.. Comissão Especial de Avaliação do Processo de Professor Titular. 2017. Instituto Federal do Tocantins Campus Palmas.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "FRITZEN, PAULO CÍCERO ; COSTA, S. E. G.; LIMA, E. G.; SILVA, N. S.; KUBOTA, F. I.. Banca examinadora de concurso na área: Engenharia Elétrica/Circuitos Elétricos. 2022. Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "FRITZEN, P. C. ; MORETO, M.; FREITAS, J. A. L.. Banca examinadora de concurso na área: Engenharia Elétrica/Sistemas elétricos de potência. 2019. Universidade Federal de Santa Maria.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, E. M. dos; FERREIRA, G. D.; . Membro da Banca Examinadora. 2018. Universidade Federal do Pampa.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "TORTELLI, O. L.; BENEDITO, R. A. S.; . Professor Adjunto. 2015. Universidade Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ASSEF, A.; MELO, A. T.. Professor Substituto. 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; SANTOS, A. C.; SILVA, S. B.. Provimento de cargos de docentes. 2004. Escola Técnica Federal de Palmas.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

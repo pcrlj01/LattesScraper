@@ -1,0 +1,2180 @@
+{
+  "name": "Sérgio Luciano Avila",
+  "lattes_id": "7864845374871073",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "A hybrid stochastic-machine learning model for long-term predictions of electricity prices",
+          "autores": "VIANA LUIS ALBANI, VINICIUS ; GEREMIA, M. ; MOREIRA, P. S. E. ; SICA, E.T. ; AVILA, S.L.",
+          "periodico": "Renewable Energy Focus , v. 58, p. 100832, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.ref.2026.100832",
+          "citacao_completa": "VIANA LUIS ALBANI, VINICIUS ; GEREMIA, M. ; MOREIRA, P. S. E. ; SICA, E.T. ; AVILA, S.L. . A hybrid stochastic-machine learning model for long-term predictions of electricity prices. Renewable Energy Focus , v. 58, p. 100832, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Real-Time Short-Circuit Detection in Wind Turbine Generators Using Electrical Current Signature",
+          "autores": "TOMINAGA, RAFAEL NOBORO ; BARBOSA, SANTIAGO SILVEIRA ; ROCHA, RODOLFO VARRASCHIM ; AVILA, SÉRGIO LUCIANO ; GOMI, EDSON SATOSHI ; CARMO, BRUNO SOUZA ; MONARO, RENATO MACHADO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO",
+          "periodico": "JOURNAL OF PHYSICS. CONFERENCE SERIES (PRINT) , v. 3224, p. 062005, 2026.",
+          "doi": "http://dx.doi.org/10.1088/1742-6596/3224/6/062005",
+          "citacao_completa": "TOMINAGA, RAFAEL NOBORO ; BARBOSA, SANTIAGO SILVEIRA ; ROCHA, RODOLFO VARRASCHIM ; AVILA, SÉRGIO LUCIANO ; GOMI, EDSON SATOSHI ; CARMO, BRUNO SOUZA ; MONARO, RENATO MACHADO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO . Real-Time Short-Circuit Detection in Wind Turbine Generators Using Electrical Current Signature. JOURNAL OF PHYSICS. CONFERENCE SERIES (PRINT) , v. 3224, p. 062005, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Enhancing Wind Turbine Reliability via Factor Analysis of Vibration Trends",
+          "autores": "REIS, TAIANE PEREIRA ; GEREMIA, MARINA ; CARDOZO, GLAUCO ; VELLOSO, BRUNO PANERAI ; AVILA, SÉRGIO LUCIANO ; CARMO, BRUNO SOUZA ; LIMA, EMERSON ; MATSUO, TIAGO KAORU",
+          "periodico": "JOURNAL OF PHYSICS. CONFERENCE SERIES (PRINT) , v. 3224, p. 062006, 2026.",
+          "doi": "http://dx.doi.org/10.1088/1742-6596/3224/6/062006",
+          "citacao_completa": "REIS, TAIANE PEREIRA ; GEREMIA, MARINA ; CARDOZO, GLAUCO ; VELLOSO, BRUNO PANERAI ; AVILA, SÉRGIO LUCIANO ; CARMO, BRUNO SOUZA ; LIMA, EMERSON ; MATSUO, TIAGO KAORU . Enhancing Wind Turbine Reliability via Factor Analysis of Vibration Trends. JOURNAL OF PHYSICS. CONFERENCE SERIES (PRINT) , v. 3224, p. 062006, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Cost-Minimising Offshore Collection Hub Placement for Power-from-Shore FPSO Electrification in the Brazilian Pre-Salt Using MILP",
+          "autores": "ZUBAIR, MUHAMMAD ; FOLGOSO, LEONARDO P. ; BALBINOT, GUSTAVO C. ; LOURENÇO, LUÍS F. N. ; MONARO, RENATO M. ; AVILA, SERGIO L. ; SALLES, MAURÍCIO B. C.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3700952",
+          "citacao_completa": "ZUBAIR, MUHAMMAD ; FOLGOSO, LEONARDO P. ; BALBINOT, GUSTAVO C. ; LOURENÇO, LUÍS F. N. ; MONARO, RENATO M. ; AVILA, SERGIO L. ; SALLES, MAURÍCIO B. C. . Cost-Minimising Offshore Collection Hub Placement for Power-from-Shore FPSO Electrification in the Brazilian Pre-Salt Using MILP. IEEE Access , v. 1, p. 1-1, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "PyInnovaLab: Power generator short-circuit analysis and detection",
+          "autores": "TOMINAGA, R.N. ; ROCHA, R.V. ; AVILA, S.L. ; GOMI, E.S. ; MONARO, R.M. ; SALLES, M.B.C. ; CARMO, B.S.",
+          "periodico": "Softwarex , v. 36, p. 103060, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.softx.2026.103060",
+          "citacao_completa": "TOMINAGA, R.N. ; ROCHA, R.V. ; AVILA, S.L. ; GOMI, E.S. ; MONARO, R.M. ; SALLES, M.B.C. ; CARMO, B.S. . PyInnovaLab: Power generator short-circuit analysis and detection. Softwarex , v. 36, p. 103060, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Determining the trend behavior of the wind turbine powertrain using mechanical vibration and seasonal wind data",
+          "autores": "FERRI, G.G.B. ; VELLOSO, B.P. ; AVILA, S.L. ; TOMINAGA, R.N. ; MONARO, R.M. ; SALLES, M.B.C. ; CARMO, B.S. ; MATSUO, T.K.",
+          "periodico": "ENERGY REPORTS , v. 13, p. 353-362, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.egyr.2024.12.019",
+          "citacao_completa": "FERRI, G.G.B. ; VELLOSO, B.P. ; AVILA, S.L. ; TOMINAGA, R.N. ; MONARO, R.M. ; SALLES, M.B.C. ; CARMO, B.S. ; MATSUO, T.K. . Determining the trend behavior of the wind turbine powertrain using mechanical vibration and seasonal wind data. ENERGY REPORTS , v. 13, p. 353-362, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Technical Analysis and Machine Learning Applied to the Short-Term Electricity Trading Market: Italian and Brazilian Cases",
+          "autores": "PIOVEZAN, RAPHAEL PAULO BEAL ; SILVA JUNIOR, P. A. ; AVILA, S.L.",
+          "periodico": "Computational Economics , v. 1, p. 1, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s10614-025-10944-x",
+          "citacao_completa": "PIOVEZAN, RAPHAEL PAULO BEAL ; SILVA JUNIOR, P. A. ; AVILA, S.L. . Technical Analysis and Machine Learning Applied to the Short-Term Electricity Trading Market: Italian and Brazilian Cases. Computational Economics , v. 1, p. 1, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Investigating the Operational Limits of a Horizontal Axis Wind Turbine Gearbox Through Unsupervised Comparison Between Units of the Same Equipment from Three Nearby Power Plants",
+          "autores": "AVILA, S.L. ; VELLOSO, B. P. ; CARDOSO, G. ; MATSUO, T. K.",
+          "periodico": "Advances in Electrical and Computer Engineering , v. 25, p. 19-26, 2025.",
+          "doi": "http://dx.doi.org/10.4316/AECE.2025.02003",
+          "citacao_completa": "AVILA, S.L. ; VELLOSO, B. P. ; CARDOSO, G. ; MATSUO, T. K. . Investigating the Operational Limits of a Horizontal Axis Wind Turbine Gearbox Through Unsupervised Comparison Between Units of the Same Equipment from Three Nearby Power Plants. Advances in Electrical and Computer Engineering , v. 25, p. 19-26, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Short-term forecasting of forward prices in the Brazilian electricity market with a hybrid stochastic-neural network model",
+          "autores": "ALBANI, V.V.L. ; MARCAVILLACA, R.T. ; MOREIRA, P.S.E. ; AVILA, S.L. ; GEREMIA, M. ; PIOVEZAN, R.P.B. ; SICA, E.T. ; SANTOS, E.",
+          "periodico": "ENERGY ECONOMICS , v. 148, p. 108651, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.eneco.2025.108651",
+          "citacao_completa": "ALBANI, V.V.L. ; MARCAVILLACA, R.T. ; MOREIRA, P.S.E. ; AVILA, S.L. ; GEREMIA, M. ; PIOVEZAN, R.P.B. ; SICA, E.T. ; SANTOS, E. . Short-term forecasting of forward prices in the Brazilian electricity market with a hybrid stochastic-neural network model. ENERGY ECONOMICS , v. 148, p. 108651, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A benchmark dataset of electrical signals from a permanent magnet synchronous generator for condition monitoring",
+          "autores": "TOMINAGA, R. N. ; BARBOSA, S. S. ; ÁVILA, S. L. ; ROCHA, R. V. ; SALLES, MAURICIO B. C. ; MONARO, RENATO M. ; CARMO, B. S.",
+          "periodico": "DATA IN BRIEF , v. 1, p. 1, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.dib.2025.112040",
+          "citacao_completa": "TOMINAGA, R. N. ; BARBOSA, S. S. ; ÁVILA, S. L. ; ROCHA, R. V. ; SALLES, MAURICIO B. C. ; MONARO, RENATO M. ; CARMO, B. S. . A benchmark dataset of electrical signals from a permanent magnet synchronous generator for condition monitoring. DATA IN BRIEF , v. 1, p. 1, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Big data Analysis and Dimensionality Reduction for Predict Price Trends in the Brazilian Electricity Market Considering Interdisciplinary Phenomena",
+          "autores": "TAGHORI SICA, EVERTHON ; FARIAS RODRIGUES BARBOZA, LARAH ; RUSSI BENETED, JOÃO VITOR ; VIEIRA PAES DE LIMA, KAREM ; VIANA LUIS ALBANI, VINICIUS ; SANTOS, ERINALDO ; AVILA, SÉRGIO LUCIANO",
+          "periodico": "IEEE Latin America Transactions , v. 23, p. 812-821, 2025.",
+          "doi": "http://dx.doi.org/10.1109/tla.2025.11119488",
+          "citacao_completa": "TAGHORI SICA, EVERTHON ; FARIAS RODRIGUES BARBOZA, LARAH ; RUSSI BENETED, JOÃO VITOR ; VIEIRA PAES DE LIMA, KAREM ; VIANA LUIS ALBANI, VINICIUS ; SANTOS, ERINALDO ; AVILA, SÉRGIO LUCIANO . Big data Analysis and Dimensionality Reduction for Predict Price Trends in the Brazilian Electricity Market Considering Interdisciplinary Phenomena. IEEE Latin America Transactions , v. 23, p. 812-821, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A condition monitoring dataset based on electrical signals for a squirrel cage induction generator",
+          "autores": "TOMINAGA, RAFAEL NOBORO ; BARBOSA, SANTIAGO SILVEIRA ; SOUSA, LUAN ANDRADE ; LUNARDI, ANGELO DOS SANTOS ; ROCHA, RODOLFO VARRASCHIM ; ÁVILA, SÉRGIO LUCIANO ; CARMO, BRUNO SOUZA ; MONARO, RENATO MACHADO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO",
+          "periodico": "DATA IN BRIEF , v. 1, p. 112286, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.dib.2025.112286",
+          "citacao_completa": "TOMINAGA, RAFAEL NOBORO ; BARBOSA, SANTIAGO SILVEIRA ; SOUSA, LUAN ANDRADE ; LUNARDI, ANGELO DOS SANTOS ; ROCHA, RODOLFO VARRASCHIM ; ÁVILA, SÉRGIO LUCIANO ; CARMO, BRUNO SOUZA ; MONARO, RENATO MACHADO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO . A condition monitoring dataset based on electrical signals for a squirrel cage induction generator. DATA IN BRIEF , v. 1, p. 112286, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "DFIG-based Wind Turbine Interturn Fault Modeling with Comprehensive Winding Failure Identification",
+          "autores": "TOMINAGA, R. N. ; ROCHA, R. V. ; AVILA, S. L. ; MONARO, R. M. ; SALLES, M. B. C. ; CARMO, B. S.",
+          "periodico": "IEEE TRANSACTIONS ON ENERGY CONVERSION , v. 1, p. 1-12, 2025.",
+          "doi": "http://dx.doi.org/10.1109/tec.2025.3639143",
+          "citacao_completa": "TOMINAGA, R. N. ; ROCHA, R. V. ; AVILA, S. L. ; MONARO, R. M. ; SALLES, M. B. C. ; CARMO, B. S. . DFIG-based Wind Turbine Interturn Fault Modeling with Comprehensive Winding Failure Identification. IEEE TRANSACTIONS ON ENERGY CONVERSION , v. 1, p. 1-12, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Stacking deep learning models to analyse vibration and current signatures in rotating machinery",
+          "autores": "BACCA FERRI, GABRIEL GUILHERME ; TOMINAGA, RAFAEL NOBORO ; AVILA, SERGIO LUCIANO ; MONARO, RENATO MACHADO ; SALLES, MAURICIO BARBOSA DE CAMARGO ; CARMO, BRUNO",
+          "periodico": "ENGINEERING COMPUTATIONS , v. 7, p. 1-26, 2025.",
+          "doi": "http://dx.doi.org/10.1108/ec-06-2024-0541",
+          "citacao_completa": "BACCA FERRI, GABRIEL GUILHERME ; TOMINAGA, RAFAEL NOBORO ; AVILA, SERGIO LUCIANO ; MONARO, RENATO MACHADO ; SALLES, MAURICIO BARBOSA DE CAMARGO ; CARMO, BRUNO . Stacking deep learning models to analyse vibration and current signatures in rotating machinery. ENGINEERING COMPUTATIONS , v. 7, p. 1-26, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Electrical signals dataset from fixed-speed and variable-speed synchronous generators under healthy and faulty conditions",
+          "autores": "TOMINAGA, RAFAEL NOBORO ; SOUSA, LUAN ANDRADE ; ROCHA, RODOLFO VARRASCHIM ; MONARO, RENATO MACHADO ; ÁVILA, SÉRGIO LUCIANO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO ; CARMO, BRUNO SOUZA",
+          "periodico": "DATA IN BRIEF , v. 1, p. 111018, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.dib.2024.111018",
+          "citacao_completa": "TOMINAGA, RAFAEL NOBORO ; SOUSA, LUAN ANDRADE ; ROCHA, RODOLFO VARRASCHIM ; MONARO, RENATO MACHADO ; ÁVILA, SÉRGIO LUCIANO ; SALLES, MAURÍCIO BARBOSA DE CAMARGO ; CARMO, BRUNO SOUZA . Electrical signals dataset from fixed-speed and variable-speed synchronous generators under healthy and faulty conditions. DATA IN BRIEF , v. 1, p. 111018, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Machine Learning Method for Return Direction Forecast of Exchange Traded Funds (ETFs) Using Classification and Regression Models",
+          "autores": "PIOVEZAN, RAPHAEL PAULO BEAL ; DE ANDRADE JUNIOR, PEDRO PAULO ; ÁVILA, SÉRGIO LUCIANO",
+          "periodico": "Computational Economics , v. 63, p. 1827-1852, 2024.",
+          "doi": "http://dx.doi.org/10.1007/s10614-023-10385-4",
+          "citacao_completa": "PIOVEZAN, RAPHAEL PAULO BEAL ; DE ANDRADE JUNIOR, PEDRO PAULO ; ÁVILA, SÉRGIO LUCIANO . Machine Learning Method for Return Direction Forecast of Exchange Traded Funds (ETFs) Using Classification and Regression Models. Computational Economics , v. 63, p. 1827-1852, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Multi-Objective Design Optimization for HVDC-LCC Converter Transformers: Analytical and FEA-based Comparison",
+          "autores": "CZERNORUCKI, MARCOS V. ; SALLES, MAURICIO B. C. ; AVILA, SERGIO L. ; SOBRINHO, FELIPE ; CALIL, WILERSON W. ; CARDOSO, JOSE R.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2023.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2023.3253392",
+          "citacao_completa": "CZERNORUCKI, MARCOS V. ; SALLES, MAURICIO B. C. ; AVILA, SERGIO L. ; SOBRINHO, FELIPE ; CALIL, WILERSON W. ; CARDOSO, JOSE R. . Multi-Objective Design Optimization for HVDC-LCC Converter Transformers: Analytical and FEA-based Comparison. IEEE Access , v. 1, p. 1-1, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Short- and long-term forecasting for building energy consumption considering IPMVP recommendations, WEO and COP27 scenarios",
+          "autores": "DOS SANTOS FERREIRA, GREICILI ; MARTINS DOS SANTOS, DEILSON ; LUCIANO AVILA, SÉRGIO ; VIANA LUIZ ALBANI, VINICIUS ; CARDOSO ORSI, GUSTAVO ; CESAR CORDEIRO VIEIRA, PEDRO ; NILSON RODRIGUES, RAFAEL",
+          "periodico": "APPLIED ENERGY , v. 339, p. 120980, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.apenergy.2023.120980",
+          "citacao_completa": "DOS SANTOS FERREIRA, GREICILI ; MARTINS DOS SANTOS, DEILSON ; LUCIANO AVILA, SÉRGIO ; VIANA LUIZ ALBANI, VINICIUS ; CARDOSO ORSI, GUSTAVO ; CESAR CORDEIRO VIEIRA, PEDRO ; NILSON RODRIGUES, RAFAEL . Short- and long-term forecasting for building energy consumption considering IPMVP recommendations, WEO and COP27 scenarios. APPLIED ENERGY , v. 339, p. 120980, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Diagnosis of Unbalance in Lightweight Rotating Machines Using a Recurrent Neural Network Suitable for an Edge-Computing Framework",
+          "autores": "IMAMURA, L. Y. ; AVILA, S. L. ; PACHECO, F. S. ; SALLES, M. B. C. ; JABLON, L. S.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1-14, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00893-9",
+          "citacao_completa": "IMAMURA, L. Y. ; AVILA, S. L. ; PACHECO, F. S. ; SALLES, M. B. C. ; JABLON, L. S. . Diagnosis of Unbalance in Lightweight Rotating Machines Using a Recurrent Neural Network Suitable for an Edge-Computing Framework. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-14, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Structured vocabulary specific to power operation control centers",
+          "autores": "FLORIANO, A. C. ; AVILA, S. L. ; FERNANDES, R. C.",
+          "periodico": "Energy Systems , v. 1, p. s12667-022-0052, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s12667-022-00529-0",
+          "citacao_completa": "FLORIANO, A. C. ; AVILA, S. L. ; FERNANDES, R. C. . Structured vocabulary specific to power operation control centers. Energy Systems , v. 1, p. s12667-022-0052, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Multiphysics Modeling to Assist Microwave Cavity Design for Food Processing",
+          "autores": "SALVADOR, ANA ; TELEKEN, JHONY ; TRAVASSOS, XISTO LUCAS ; AVILA, SERGIO LUCIANO ; CARCIOFI, BRUNO",
+          "periodico": "International Journal of Electrical and Computer Engineering Research , v. 2, p. 1-10, 2022.",
+          "doi": "http://dx.doi.org/10.53375/ijecer.2022.233",
+          "citacao_completa": "SALVADOR, ANA ; TELEKEN, JHONY ; TRAVASSOS, XISTO LUCAS ; AVILA, SERGIO LUCIANO ; CARCIOFI, BRUNO . Multiphysics Modeling to Assist Microwave Cavity Design for Food Processing. International Journal of Electrical and Computer Engineering Research , v. 2, p. 1-10, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A trip-ahead strategy for optimal energy dispatch in ship power systems",
+          "autores": "TAHERI, S. I. ; VIEIRA, G. ; SALLES, M. B. C. ; AVILA, S. L.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 1-10, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106917",
+          "citacao_completa": "TAHERI, S. I. ; VIEIRA, G. ; SALLES, M. B. C. ; AVILA, S. L. . A trip-ahead strategy for optimal energy dispatch in ship power systems. ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 1-10, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Rotor Unbalance Kind and Severity Identification by Current Signature Analysis with Adaptative Update to Multiclass Machine Learning Algorithms",
+          "autores": "ÁVILA, S. L. ; SCHABERLE, H. M. ; YOUSSEF, S. ; PACHECO, F. S. ; PENZ, C. A.",
+          "periodico": "STUDIES IN ENGINEERING AND TECHNOLOGY (PRINT) , v. 8, p. 28-39, 2021.",
+          "doi": "http://dx.doi.org/10.11114/set.v8i1.5213",
+          "citacao_completa": "ÁVILA, S. L. ; SCHABERLE, H. M. ; YOUSSEF, S. ; PACHECO, F. S. ; PENZ, C. A. . Rotor Unbalance Kind and Severity Identification by Current Signature Analysis with Adaptative Update to Multiclass Machine Learning Algorithms. STUDIES IN ENGINEERING AND TECHNOLOGY (PRINT) , v. 8, p. 28-39, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Artificial Neural Networks and Machine Learning techniques applied to Ground Penetrating Radar: A review",
+          "autores": "TRAVASSOS, XISTO L. ; AVILA, SÉRGIO L. ; IDA, NATHAN",
+          "periodico": "Applied Computing And Informatics , v. 17, p. 296-308, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.aci.2018.10.001",
+          "citacao_completa": "TRAVASSOS, XISTO L. ; AVILA, SÉRGIO L. ; IDA, NATHAN . Artificial Neural Networks and Machine Learning techniques applied to Ground Penetrating Radar: A review. Applied Computing And Informatics , v. 17, p. 296-308, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Magnetic hysteresis under compressive stress: a multiscale-Jiles-Atherton approach",
+          "autores": "BERNARD, L. ; AVILA, SÉRGIO L. ; DANIEL, L. ; ;",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 56, p. 1-4, 2020.",
+          "doi": "http://dx.doi.org/10.1109/TMAG.2019.2946115",
+          "citacao_completa": "BERNARD, L. ; AVILA, SÉRGIO L. ; DANIEL, L. ; ; . Magnetic hysteresis under compressive stress: a multiscale-Jiles-Atherton approach. IEEE TRANSACTIONS ON MAGNETICS , v. 56, p. 1-4, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Electromagnetic Field Exposure Assessment in a Multi Source Telecommunication Environment",
+          "autores": "TRAVASSOS, X. L. ; AVILA, S. L. ; GRUBISIC, S. ; LINHARES, A. ; IDA, N.",
+          "periodico": "Wireless Personal Communications , v. 110, p. 2213-2225, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s11277-019-06838-5",
+          "citacao_completa": "TRAVASSOS, X. L. ; AVILA, S. L. ; GRUBISIC, S. ; LINHARES, A. ; IDA, N. . Electromagnetic Field Exposure Assessment in a Multi Source Telecommunication Environment. Wireless Personal Communications , v. 110, p. 2213-2225, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Diagnosis of rotating machine unbalance using machine learning algorithms on vibration orbital features",
+          "autores": "JABLON, LEONARDO S ; AVILA, SERGIO L ; BORBA, BRUNO ; MOURÃO, GUSTAVO L ; FREITAS, FABRIZIO L ; PENZ, CESAR A",
+          "periodico": "JOURNAL OF VIBRATION AND CONTROL , v. 27, p. 107754632092983-476, 2020.",
+          "doi": "http://dx.doi.org/10.1177/1077546320929830",
+          "citacao_completa": "JABLON, LEONARDO S ; AVILA, SERGIO L ; BORBA, BRUNO ; MOURÃO, GUSTAVO L ; FREITAS, FABRIZIO L ; PENZ, CESAR A . Diagnosis of rotating machine unbalance using machine learning algorithms on vibration orbital features. JOURNAL OF VIBRATION AND CONTROL , v. 27, p. 107754632092983-476, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Matemática aplicada na busca do ótimo",
+          "autores": "CARDOSO, R. P. ; AVILA, SÉRGIO L.",
+          "periodico": "REVISTA TÉCNICO-CIENTÍFICA (IFSC) , v. 1, p. 1-10, 2019.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, R. P. ; AVILA, SÉRGIO L. . Matemática aplicada na busca do ótimo. REVISTA TÉCNICO-CIENTÍFICA (IFSC) , v. 1, p. 1-10, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Review of Ground Penetrating Radar Antenna Design and Optimization",
+          "autores": "TRAVASSOS, X. L. ; AVILA, S. L. ; ADRIANO, R. L. S. ; IDA, N.",
+          "periodico": "JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 17, p. 385-402, 2018.",
+          "doi": "http://dx.doi.org/10.1590/2179-10742018v17i31321",
+          "citacao_completa": "TRAVASSOS, X. L. ; AVILA, S. L. ; ADRIANO, R. L. S. ; IDA, N. . A Review of Ground Penetrating Radar Antenna Design and Optimization. JOURNAL OF MICROWAVES, OPTOELECTRONICS AND ELECTROMAGNETIC APPLICATIONS , v. 17, p. 385-402, 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento Tecnológico em Geração Distribuida: Gerenciamento e Monitoramento de uma Microgeração Solar",
+          "autores": "AVILA, S. L. ; ALVES, R. L. ; FORTUNATO, E. M. ; SILVEIRA, A. L. ; BUZZATTI, M. G.",
+          "periodico": "E-tech: Tecnologias para Competitividade Industrial , v. 8, p. 47-68, 2015.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ALVES, R. L. ; FORTUNATO, E. M. ; SILVEIRA, A. L. ; BUZZATTI, M. G. . Desenvolvimento Tecnológico em Geração Distribuida: Gerenciamento e Monitoramento de uma Microgeração Solar. E-tech: Tecnologias para Competitividade Industrial , v. 8, p. 47-68, 2015."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Prevenção Contra Danos Provocados por Surto de Tensão Devido às Descargas Atmosféricas através de Sistema Eletrônico Microcontrolado",
+          "autores": "; Alkaim, J. L. ; ARDIGO, J. D. ; AVILA, S. L.",
+          "periodico": "E-tech: Tecnologias para Competitividade Industrial , v. 3, p. 1-23, 2010.",
+          "doi": "",
+          "citacao_completa": "; Alkaim, J. L. ; ARDIGO, J. D. ; AVILA, S. L. . Prevenção Contra Danos Provocados por Surto de Tensão Devido às Descargas Atmosféricas através de Sistema Eletrônico Microcontrolado. E-tech: Tecnologias para Competitividade Industrial , v. 3, p. 1-23, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Conductor Position Optimization of a Transmission Line Excitation Chamber",
+          "autores": "AVILA, S. L. ; Santos, Mario Alves ; Sartori, Carlos ; Weinzierl, Djonny ; KRÄHENBÜHL, L. ; Lebensztajn, Luiz ; Cardoso, Jose Roberto",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 46, p. 3261-3264, 2010.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2010.2045360",
+          "citacao_completa": "AVILA, S. L. ; Santos, Mario Alves ; Sartori, Carlos ; Weinzierl, Djonny ; KRÄHENBÜHL, L. ; Lebensztajn, Luiz ; Cardoso, Jose Roberto . Conductor Position Optimization of a Transmission Line Excitation Chamber. IEEE TRANSACTIONS ON MAGNETICS , v. 46, p. 3261-3264, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Maximum Working Volume Evaluation in a Non-Canonical Reverberation Chamber",
+          "autores": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ;",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 45, p. 1646-1649, 2009.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2009.2012766",
+          "citacao_completa": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ; . Maximum Working Volume Evaluation in a Non-Canonical Reverberation Chamber. IEEE TRANSACTIONS ON MAGNETICS , v. 45, p. 1646-1649, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Satellite Reconfigurable Contour Beam Reflector Antennas by Multi-Objective Evolutionary Optimization",
+          "autores": "AVILA, S. L. ; ; CARPES JR, Walter P",
+          "periodico": "JOURNAL OF MICROWAVES AND OPTOELECTRONICS , v. 7, p. 101-114, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; CARPES JR, Walter P . Satellite Reconfigurable Contour Beam Reflector Antennas by Multi-Objective Evolutionary Optimization. JOURNAL OF MICROWAVES AND OPTOELECTRONICS , v. 7, p. 101-114, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Design of Optimal GPR Antennas for Concrete Evaluation",
+          "autores": "TRAVASSOS, X. L. ; AVILA, S. L. ; A. Nicolas ; C. Vollaire ; N. Ida",
+          "periodico": "IEEE Multidisciplinary Engineering Education Magazine , v. 2, p. 1-4, 2007.",
+          "doi": "",
+          "citacao_completa": "TRAVASSOS, X. L. ; AVILA, S. L. ; A. Nicolas ; C. Vollaire ; N. Ida . Design of Optimal GPR Antennas for Concrete Evaluation. IEEE Multidisciplinary Engineering Education Magazine , v. 2, p. 1-4, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Sensitivity analysis applied to decision making in multiobjective evolutionary optimization",
+          "autores": "AVILA, S. L. ; ; ; CARPES JR, Walter P ; ; ;",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 42, n.4, p. 1103-1106, 2006.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2006.871447",
+          "citacao_completa": "AVILA, S. L. ; ; ; CARPES JR, Walter P ; ; ; . Sensitivity analysis applied to decision making in multiobjective evolutionary optimization. IEEE TRANSACTIONS ON MAGNETICS , v. 42, n.4, p. 1103-1106, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Optimal configurations for perfectly matched layers in FDTD simulations",
+          "autores": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; NICOLAS, Alain ; PRESCOTT, Deane",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 42, n.4, p. 563-566, 2006.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2006.871471",
+          "citacao_completa": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; NICOLAS, Alain ; PRESCOTT, Deane . Optimal configurations for perfectly matched layers in FDTD simulations. IEEE TRANSACTIONS ON MAGNETICS , v. 42, n.4, p. 563-566, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Introduction to Optimization Procedures: A Brief Survey of Methods",
+          "autores": "AVILA, S. L. ; ; CARPES JR, Walter P",
+          "periodico": "IEEE MULTIDISCIPLINARY ENGINEERING EDUCATION MAGAZINE , v. 1, n.2, p. 1-4, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; CARPES JR, Walter P . Introduction to Optimization Procedures: A Brief Survey of Methods. IEEE MULTIDISCIPLINARY ENGINEERING EDUCATION MAGAZINE , v. 1, n.2, p. 1-4, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Optimization of an Offset Reflector Antenna Using Genetic Algorithms",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ;",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 40, p. 1256-1259, 2004.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2004.825313",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; . Optimization of an Offset Reflector Antenna Using Genetic Algorithms. IEEE TRANSACTIONS ON MAGNETICS , v. 40, p. 1256-1259, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Real Coded Genetic Algorithm for Jiles?Atherton Model Parameters Identification",
+          "autores": "AVILA, S. L. ; ; ; ; ; CARPES JR, Walter P ;",
+          "periodico": "IEEE TRANSACTIONS ON MAGNETICS , v. 40, p. 888-891, 2004.",
+          "doi": "http://dx.doi.org/10.1109/tmag.2004.825319",
+          "citacao_completa": "AVILA, S. L. ; ; ; ; ; CARPES JR, Walter P ; . Real Coded Genetic Algorithm for Jiles?Atherton Model Parameters Identification. IEEE TRANSACTIONS ON MAGNETICS , v. 40, p. 888-891, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Otimização: Conceitos básicos, Ferramentas e Aplicações",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ; LIMA, C. B.",
+          "periodico": "CTAI : Revista de Automação e Tecnologia da Informação (Cessou em 2003. Cont. 1983-1838 E-tech: Tecnologias para Competitividade Industrial) , Florianópolis - SENAI, v. 2, n.Jan-Jun, p. 70-75, 2003.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; LIMA, C. B. . Otimização: Conceitos básicos, Ferramentas e Aplicações. CTAI : Revista de Automação e Tecnologia da Informação (Cessou em 2003. Cont. 1983-1838 E-tech: Tecnologias para Competitividade Industrial) , Florianópolis - SENAI, v. 2, n.Jan-Jun, p. 70-75, 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Antenas Refletoras: Otimização para uma Aplicação Dedicada",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ;",
+          "periodico": "Revista de Automação e Tecnologia da Informação , Florianópolis - SENAI, v. 1, n.Jul - Dez, p. 12-19, 2002.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; . Antenas Refletoras: Otimização para uma Aplicação Dedicada. Revista de Automação e Tecnologia da Informação , Florianópolis - SENAI, v. 1, n.Jul - Dez, p. 12-19, 2002."
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Bancada de ensaios da máquina síncrona",
+          "autores": "PEGORARO, T. F. ; PENZ, CESAR A ; LUCIO, J. C. M. ; PADILHA, J. B. ; MEDEIROS, L. S. ; AVILA, S.L.",
+          "periodico": "1. ed. Florianopolis: IFSC, 2026. v. 1. 48p .",
+          "doi": "",
+          "citacao_completa": "PEGORARO, T. F. ; PENZ, CESAR A ; LUCIO, J. C. M. ; PADILHA, J. B. ; MEDEIROS, L. S. ; AVILA, S.L. . Bancada de ensaios da máquina síncrona. 1. ed. Florianopolis: IFSC, 2026. v. 1. 48p ."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Cálculo numérico aplicado à engenharia elétrica com Python - 2° Edição",
+          "autores": "ÁVILA, S. L. ; SANTANA, F. R.",
+          "periodico": "2. ed. , 2025.",
+          "doi": "",
+          "citacao_completa": "ÁVILA, S. L. ; SANTANA, F. R. . Cálculo numérico aplicado à engenharia elétrica com Python - 2° Edição. 2. ed. , 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Coletânea de artigos científicos : trabalhos de conclusão de curso Turma 2023",
+          "autores": "AVILA, S. L. ; GIASSI JUNIOR, P. ; STIVANELLO, M. E. ; PENZ, C.",
+          "periodico": "1. ed. Florianopolis: Instituto Federal de Santa Catarina, 2024. v. 1. 108p .",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; GIASSI JUNIOR, P. ; STIVANELLO, M. E. ; PENZ, C. . Coletânea de artigos científicos : trabalhos de conclusão de curso Turma 2023. 1. ed. Florianopolis: Instituto Federal de Santa Catarina, 2024. v. 1. 108p ."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Cálculo numérico aplicado à engenharia com Python - 1° Edição",
+          "autores": "SEIFFER, G. P. ; CHIQUETTI, R. ; AVILA, S. L.",
+          "periodico": "1. ed. Florianopolis: IFSC, 2021. v. 1. 133p .",
+          "doi": "",
+          "citacao_completa": "SEIFFER, G. P. ; CHIQUETTI, R. ; AVILA, S. L. . Cálculo numérico aplicado à engenharia com Python - 1° Edição. 1. ed. Florianopolis: IFSC, 2021. v. 1. 133p ."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Otimização paramétrica com computação evolutiva",
+          "autores": "AVILA, S. L.",
+          "periodico": "1. ed. Florianópolis: IFSC, 2020. v. 1. 192p .",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. . Otimização paramétrica com computação evolutiva. 1. ed. Florianópolis: IFSC, 2020. v. 1. 192p ."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Cálculo numérico aplicado à engenharia elétrica com Matlab",
+          "autores": "AVILA, S. L.",
+          "periodico": "1. ed. Florianópolis: Instituto Federal de Santa Catarina, 2019. v. 1. 127p .",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. . Cálculo numérico aplicado à engenharia elétrica com Matlab. 1. ed. Florianópolis: Instituto Federal de Santa Catarina, 2019. v. 1. 127p ."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Caracterização e otimização de câmaras reverberantes para testes de compatibilidade eletromagnética",
+          "autores": "AVILA, S. L. ; ; dos SANTOS, M. A. Jr. ; ; ; CARDOZO, Joao Roberto ;",
+          "periodico": "In: Heitor S. Lopes ; Ricardo H. C. Takahashi. (Org.). Computação Evolucionária em Problemas de Engenharia. 1ed.Curitiba: Omnipax, 2011, v. 1, p. 129-145.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; dos SANTOS, M. A. Jr. ; ; ; CARDOZO, Joao Roberto ; . Caracterização e otimização de câmaras reverberantes para testes de compatibilidade eletromagnética. In: Heitor S. Lopes ; Ricardo H. C. Takahashi. (Org.). Computação Evolucionária em Problemas de Engenharia. 1ed.Curitiba: Omnipax, 2011, v. 1, p. 129-145."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Enhancing wind turbine reliability via factor analysis of vibration trends",
+          "autores": "REIS, T. P. ; GEREMIA, M. ; VELLOSO, B. P. ; CARDOSO, G. ; AVILA, S. L. ; LIMA, E. ; MATSUO, T. K. ; CARMO, B. S.",
+          "periodico": "In: Torque 2026, 2026, Bruges. Torque 2026, 2026.",
+          "doi": "",
+          "citacao_completa": "REIS, T. P. ; GEREMIA, M. ; VELLOSO, B. P. ; CARDOSO, G. ; AVILA, S. L. ; LIMA, E. ; MATSUO, T. K. ; CARMO, B. S. . Enhancing wind turbine reliability via factor analysis of vibration trends. In: Torque 2026, 2026, Bruges. Torque 2026, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "Real-time short-circuit detection in wind turbine generators using electrical current signature",
+          "autores": "TOMINAGA, R. N. ; BARBOSA, S. S. ; GOMI, E. S. ; SALLES, MAURICIO B. C. ; MONARO, RENATO M. ; CARMO, B. S. ; ROCHA, R. V. ; ÁVILA, S. L.",
+          "periodico": "In: Torque 2026, 2026, Bruges. Torque 2026, 2026.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; BARBOSA, S. S. ; GOMI, E. S. ; SALLES, MAURICIO B. C. ; MONARO, RENATO M. ; CARMO, B. S. ; ROCHA, R. V. ; ÁVILA, S. L. . Real-time short-circuit detection in wind turbine generators using electrical current signature. In: Torque 2026, 2026, Bruges. Torque 2026, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Modular and Compact Neural Network Framework for Internal Fault Detection in Generators Using Current Signature Data",
+          "autores": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S.",
+          "periodico": "In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 195.",
+          "doi": "http://dx.doi.org/10.1109/IEMDC60492.2025.11061103",
+          "citacao_completa": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S. . Modular and Compact Neural Network Framework for Internal Fault Detection in Generators Using Current Signature Data. In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 195."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Experimental analysis of negative-sequence currents due to interturn faults in the stator of a DFIG for protection and diagnostic purposes",
+          "autores": "ROCHA, RODOLFO V. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; CARMO, BRUNO S. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C.",
+          "periodico": "In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 198.",
+          "doi": "http://dx.doi.org/10.1109/IEMDC60492.2025.11061105",
+          "citacao_completa": "ROCHA, RODOLFO V. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; CARMO, BRUNO S. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. . Experimental analysis of negative-sequence currents due to interturn faults in the stator of a DFIG for protection and diagnostic purposes. In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 198."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Improvements in Stacking Deep Learning Models for Current and Vibration Signature Analysis in Rotating Machines",
+          "autores": "FERRI, GABRIEL G. B. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; MACHADO, RENATO M. ; SALLES, MAURICIO B. C. ; CARMO, BRUNO S.",
+          "periodico": "In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 449.",
+          "doi": "http://dx.doi.org/10.1109/IEMDC60492.2025.11061031",
+          "citacao_completa": "FERRI, GABRIEL G. B. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; MACHADO, RENATO M. ; SALLES, MAURICIO B. C. ; CARMO, BRUNO S. . Improvements in Stacking Deep Learning Models for Current and Vibration Signature Analysis in Rotating Machines. In: 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025, Houston. 2025 IEEE International Electric Machines &amp; Drives Conference (IEMDC), 2025. p. 449."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Detection and Phase Identification of Interturn Faults in the Stator and Rotor of Doubly-Fed Induction Generators Using Negative-Sequence Currents",
+          "autores": "ROCHA, RODOLFO V. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; CARMO, BRUNO S. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C.",
+          "periodico": "In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 236.",
+          "doi": "http://dx.doi.org/10.1109/iccep65222.2025.11143634",
+          "citacao_completa": "ROCHA, RODOLFO V. ; TOMINAGA, RAFAEL N. ; AVILA, SÉRGIO L. ; CARMO, BRUNO S. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. . Detection and Phase Identification of Interturn Faults in the Stator and Rotor of Doubly-Fed Induction Generators Using Negative-Sequence Currents. In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 236."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Simulation-Based Neural Network for Robust Short-Circuit Detection in Wind Turbines",
+          "autores": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S.",
+          "periodico": "In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 240.",
+          "doi": "http://dx.doi.org/10.1109/iccep65222.2025.11143686",
+          "citacao_completa": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S. . Simulation-Based Neural Network for Robust Short-Circuit Detection in Wind Turbines. In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 240."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Short-Circuit Phase Detection in Wind Turbines Using Subtle Neural Network Learning",
+          "autores": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S.",
+          "periodico": "In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 245.",
+          "doi": "http://dx.doi.org/10.1109/iccep65222.2025.11143735",
+          "citacao_completa": "TOMINAGA, RAFAEL N. ; ROCHA, RODOLFO V. ; AVILA, SÉRGIO L. ; MONARO, RENATO M. ; SALLES, MAURÍCIO B. C. ; CARMO, BRUNO S. . Short-Circuit Phase Detection in Wind Turbines Using Subtle Neural Network Learning. In: 2025 International Conference on Clean Electrical Power (ICCEP), 2025, Villasimius. 2025 International Conference on Clean Electrical Power (ICCEP), 2025. p. 245."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Big Data analysis and dimensionality reduction to predict price trends in the Brazilian electricity market considering interdisciplinary phenomena",
+          "autores": "BARBOZA, L. F. R. ; BENEDET, J. V. R. ; LIMA, K. V. P. ; E. T. Sica ; SANTOS, E. F. ; AVILA, S. L. ; VIANA LUIZ ALBANI, VINICIUS",
+          "periodico": "In: Modelling, Data Analytics and AI in Engineering, 2024, Porto, Portugal. Modelling, Data Analytics and AI in Engineering Anais, 2024.",
+          "doi": "",
+          "citacao_completa": "BARBOZA, L. F. R. ; BENEDET, J. V. R. ; LIMA, K. V. P. ; E. T. Sica ; SANTOS, E. F. ; AVILA, S. L. ; VIANA LUIZ ALBANI, VINICIUS . Big Data analysis and dimensionality reduction to predict price trends in the Brazilian electricity market considering interdisciplinary phenomena. In: Modelling, Data Analytics and AI in Engineering, 2024, Porto, Portugal. Modelling, Data Analytics and AI in Engineering Anais, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Ensemble of Deep Learning Networks More Suitable for Electric Current Analysis of Rotating Machinery",
+          "autores": "FERRI, G. G. B. ; TOMINAGA, R. N. ; AVILA, S. L. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S.",
+          "periodico": "In: Modelling, Data Analytics and AI in Engineering, 2024, Porto, Portugal. Modelling, Data Analytics and AI in Engineering Anais, 2024.",
+          "doi": "",
+          "citacao_completa": "FERRI, G. G. B. ; TOMINAGA, R. N. ; AVILA, S. L. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S. . Ensemble of Deep Learning Networks More Suitable for Electric Current Analysis of Rotating Machinery. In: Modelling, Data Analytics and AI in Engineering, 2024, Porto, Portugal. Modelling, Data Analytics and AI in Engineering Anais, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Analytical model for a wind turbine with a doubly fed induction generator emulating electrical faults in the rotor and stator",
+          "autores": "AVILA, S. L. ; ROCHA, R. V. ; TOMINAGA, R. N. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S.",
+          "periodico": "In: Brazil Windpower 2024, 2024, São Paulo. Brazil Windpower Papers 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ROCHA, R. V. ; TOMINAGA, R. N. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S. . Analytical model for a wind turbine with a doubly fed induction generator emulating electrical faults in the rotor and stator. In: Brazil Windpower 2024, 2024, São Paulo. Brazil Windpower Papers 2024, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Previsão de cenários para o ambiente de mercado futuro de eletricidade por processos estocásticos",
+          "autores": "MARCAVILLACA, R. T. ; ALBANI, V. ; OLIVEIRA, L. S. ; AVILA, S. L. ; E. T. Sica ; SANTOS, E. F. ; CALOGERAS, H. ; GEREMIA, M. ; SANTANA, L. M.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "MARCAVILLACA, R. T. ; ALBANI, V. ; OLIVEIRA, L. S. ; AVILA, S. L. ; E. T. Sica ; SANTOS, E. F. ; CALOGERAS, H. ; GEREMIA, M. ; SANTANA, L. M. . Previsão de cenários para o ambiente de mercado futuro de eletricidade por processos estocásticos. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Proposta de modelo à análise técnica aplicada ao mercado de curto prazo de energia elétrica",
+          "autores": "PIOVEZAN, R. ; ANDRADE JUNIOR, P. P. ; E. T. Sica ; RAMOS, F. G. ; CALOGERAS, H. ; AVILA, S. L.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "PIOVEZAN, R. ; ANDRADE JUNIOR, P. P. ; E. T. Sica ; RAMOS, F. G. ; CALOGERAS, H. ; AVILA, S. L. . Proposta de modelo à análise técnica aplicada ao mercado de curto prazo de energia elétrica. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Contribuição à previsão de tendência de preço de energia elétrica utilizando modelo HOHMM",
+          "autores": "LIMA, K. V. P. ; E. T. Sica ; AVILA, S. L. ; BENEDET, J. V. R. ; ALBANI, V. ; SANTOS, E. F. ; CALOGERAS, H. ; RAMOS, F. G.",
+          "periodico": "In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023.",
+          "doi": "",
+          "citacao_completa": "LIMA, K. V. P. ; E. T. Sica ; AVILA, S. L. ; BENEDET, J. V. R. ; ALBANI, V. ; SANTOS, E. F. ; CALOGERAS, H. ; RAMOS, F. G. . Contribuição à previsão de tendência de preço de energia elétrica utilizando modelo HOHMM. In: XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023, Brasilia. XXVII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ferramentas de mineração de dados aplicadas ao planejamento integrado para a previsão do mercado de energia elétrica",
+          "autores": "AVILA, S. L. ; E. T. Sica ; SOARES, M. P.",
+          "periodico": "In: XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2022, Rio de Janeiro. XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ANAIS. Rio de Janeiro: CIGRE, 2022.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; E. T. Sica ; SOARES, M. P. . Ferramentas de mineração de dados aplicadas ao planejamento integrado para a previsão do mercado de energia elétrica. In: XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2022, Rio de Janeiro. XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ANAIS. Rio de Janeiro: CIGRE, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Rede neural recorrente leve para diagnóstico de desbalanceamento em máquinas rotativas complementares às usinas geradoras",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; IMAMURA, L. Y. ; SALLES, M. B. C.",
+          "periodico": "In: XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2022, Rio de Janeiro. XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ANAIS. Rio de Janeiro: CIGRE, 2022.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; IMAMURA, L. Y. ; SALLES, M. B. C. . Rede neural recorrente leve para diagnóstico de desbalanceamento em máquinas rotativas complementares às usinas geradoras. In: XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2022, Rio de Janeiro. XXVI Seminário Nacional de Produção e Transmissão de Energia Elétrica ANAIS. Rio de Janeiro: CIGRE, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Multi-objective Genetic Algorithm Based Optimal Design Methodology for LLC Resonant Converter",
+          "autores": "MENKE, MAIKEL F. ; AVILA, SERGIO L.",
+          "periodico": "In: 2022 14th Seminar on Power Electronics and Control (SEPOC), 2022, Santa Maria. 2022 14th Seminar on Power Electronics and Control (SEPOC), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/SEPOC54972.2022.9976431",
+          "citacao_completa": "MENKE, MAIKEL F. ; AVILA, SERGIO L. . Multi-objective Genetic Algorithm Based Optimal Design Methodology for LLC Resonant Converter. In: 2022 14th Seminar on Power Electronics and Control (SEPOC), 2022, Santa Maria. 2022 14th Seminar on Power Electronics and Control (SEPOC), 2022. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Análise de orbitais em máquinas rotativas para identificação da gravidade de desbalanceamentos mecânicos utilizando técnicas de aprendizado de máquina",
+          "autores": "JABLON, L. S. ; AVILA, S. L.",
+          "periodico": "In: IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas. Rio de Janeiro: CIGRE, 2020. p. 1.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, S. L. . Análise de orbitais em máquinas rotativas para identificação da gravidade de desbalanceamentos mecânicos utilizando técnicas de aprendizado de máquina. In: IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas. Rio de Janeiro: CIGRE, 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Identificação do tipo e da severidade do desbalanceamento de rotores por meio da análise da assinatura de corrente com aprendizado de máquina multiclasses",
+          "autores": "TOMINAGA, R. N. ; PACHECO, F. S. ; PENZ, C. ; AVILA, S. L.",
+          "periodico": "In: IX ENAM CIGRE - Encontro Nacional de Máquinas Elétricas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Elétricas. Rio de Janeiro: CIGRE, 2020. p. 1.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; PACHECO, F. S. ; PENZ, C. ; AVILA, S. L. . Identificação do tipo e da severidade do desbalanceamento de rotores por meio da análise da assinatura de corrente com aprendizado de máquina multiclasses. In: IX ENAM CIGRE - Encontro Nacional de Máquinas Elétricas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Elétricas. Rio de Janeiro: CIGRE, 2020. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Medição direta de temperatura de rotores de máquinas elétricas rotativas",
+          "autores": "GRANADO, M. ; PENZ, C. ; AVILA, S. L. ; KNOLSEISEN, G.",
+          "periodico": "In: IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020. p. 1.",
+          "doi": "",
+          "citacao_completa": "GRANADO, M. ; PENZ, C. ; AVILA, S. L. ; KNOLSEISEN, G. . Medição direta de temperatura de rotores de máquinas elétricas rotativas. In: IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020, Florianópolis. IX ENAM CIGRE - Encontro Nacional de Máquinas Rotativas, 2020. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Magnetic hysteresis under compressive stress: a multiscale-Jiles-Atherton approach",
+          "autores": "BERNARD, L. ; AVILA, SÉRGIO L. ; ;",
+          "periodico": "In: he 22nd International Conference on the Computation of Electromagnetic Fields, 2019, Paris. COMPUMAG 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "BERNARD, L. ; AVILA, SÉRGIO L. ; ; . Magnetic hysteresis under compressive stress: a multiscale-Jiles-Atherton approach. In: he 22nd International Conference on the Computation of Electromagnetic Fields, 2019, Paris. COMPUMAG 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "GPR antenna design framework validation",
+          "autores": "TRAVASSOS, X. L. ; AVILA, SÉRGIO L. ; R. L. S. Adriano ; IDA, N.",
+          "periodico": "In: the 22nd International Conference on the Computation of Electromagnetic Fields, 2019, Paris. Compumag 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "TRAVASSOS, X. L. ; AVILA, SÉRGIO L. ; R. L. S. Adriano ; IDA, N. . GPR antenna design framework validation. In: the 22nd International Conference on the Computation of Electromagnetic Fields, 2019, Paris. Compumag 2019, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Diagnosis of rotating machine unbalance using machine learning algorithms PCA, KNN and SVM on vibration orbital features",
+          "autores": "JABLON, L. S. ; MOURAO, G. L. ; FREITAS, F. L. ; AVILA, SÉRGIO L.",
+          "periodico": "In: International Conference on Condition Monitoring, Diagnosis and Maintenance - CMDM 2019, 2019, Bucharest. CIGRE CMDM 2019, 2019.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; MOURAO, G. L. ; FREITAS, F. L. ; AVILA, SÉRGIO L. . Diagnosis of rotating machine unbalance using machine learning algorithms PCA, KNN and SVM on vibration orbital features. In: International Conference on Condition Monitoring, Diagnosis and Maintenance - CMDM 2019, 2019, Bucharest. CIGRE CMDM 2019, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Learning physics using virtual reality",
+          "autores": "MONTEIRO, P. B. ; AVILA, S. L. ; PACHECO, F. S.",
+          "periodico": "In: 12th International Multi-Conference on Society, Cybernetics and Informatics (IMSCI 2018), 2018, Orlando. IMSCI 2018, 2018.",
+          "doi": "",
+          "citacao_completa": "MONTEIRO, P. B. ; AVILA, S. L. ; PACHECO, F. S. . Learning physics using virtual reality. In: 12th International Multi-Conference on Society, Cybernetics and Informatics (IMSCI 2018), 2018, Orlando. IMSCI 2018, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Metodologia para o diagnóstico de defeitos em hidrogeradores através da análise de vibrações em sistemas de monitoramento permanente utilizando técnicas no domínio do tempo e frequência",
+          "autores": "GODOY, D. ; AVILA, S. L. ; MATSUO, T. K. ; PENZ, C.",
+          "periodico": "In: SNPTEE XXIV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "doi": "",
+          "citacao_completa": "GODOY, D. ; AVILA, S. L. ; MATSUO, T. K. ; PENZ, C. . Metodologia para o diagnóstico de defeitos em hidrogeradores através da análise de vibrações em sistemas de monitoramento permanente utilizando técnicas no domínio do tempo e frequência. In: SNPTEE XXIV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. XXIV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Nacionalização de produto para monitoramento de grupos geradores: produto plataforma para o setor elétrico",
+          "autores": "MATSUO, T. K. ; AVILA, S. L. ; FREITAS, F. L. ; FERREIRA, M. P. ; BUZZATTI, M.",
+          "periodico": "In: VII Congresso de Inovação Tecnológica em Energia Elétrica ? CITENEL, 2015, Costa do Sauípe. Anais do VIII Congresso de Inovação Tecnológica em Energia Elétrica (VIII CITENEL), 2015.",
+          "doi": "",
+          "citacao_completa": "MATSUO, T. K. ; AVILA, S. L. ; FREITAS, F. L. ; FERREIRA, M. P. ; BUZZATTI, M. . Nacionalização de produto para monitoramento de grupos geradores: produto plataforma para o setor elétrico. In: VII Congresso de Inovação Tecnológica em Energia Elétrica ? CITENEL, 2015, Costa do Sauípe. Anais do VIII Congresso de Inovação Tecnológica em Energia Elétrica (VIII CITENEL), 2015."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Interação eletroeletrônica com ferramentas de hardware e software abertos para conhecimento de posturas humanas",
+          "autores": "VEIGA, C. E. ; SANTOS, D. O. ; GUIMARAES, K. M. ; AVILA, S. L.",
+          "periodico": "In: Semana Nacional de Ciência e Tecnologia 2013, 2013, Florianópolis. Semana Nacional de Ciência e Tecnologia 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "VEIGA, C. E. ; SANTOS, D. O. ; GUIMARAES, K. M. ; AVILA, S. L. . Interação eletroeletrônica com ferramentas de hardware e software abertos para conhecimento de posturas humanas. In: Semana Nacional de Ciência e Tecnologia 2013, 2013, Florianópolis. Semana Nacional de Ciência e Tecnologia 2013, 2013."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Conductor Positions Optimization of a Transmission Line Excitation Chamber",
+          "autores": "dos SANTOS, M. A. Jr. ; AVILA, S. L. ; ; ; ;",
+          "periodico": "In: Compumag 2009, 2009, Florianópolis. Compumag 2009, 2009.",
+          "doi": "",
+          "citacao_completa": "dos SANTOS, M. A. Jr. ; AVILA, S. L. ; ; ; ; . Conductor Positions Optimization of a Transmission Line Excitation Chamber. In: Compumag 2009, 2009, Florianópolis. Compumag 2009, 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "An Educational JAVA-Multimedia Tool for Teaching Optimization in Engineering",
+          "autores": "AVILA, S. L. ; C. Canto ; R. Righi ;",
+          "periodico": "In: International Conference on Engineering Optimization, 2008, ENGOPT. International Conference on Engineering Optimization, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; C. Canto ; R. Righi ; . An Educational JAVA-Multimedia Tool for Teaching Optimization in Engineering. In: International Conference on Engineering Optimization, 2008, ENGOPT. International Conference on Engineering Optimization, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Optimization of Reverberation Chambers by Applying Working Volume as Figure of Merit",
+          "autores": "AVILA, S. L. ; ; ; ; dos SANTOS, M. A. Jr.",
+          "periodico": "In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; ; ; dos SANTOS, M. A. Jr. . Optimization of Reverberation Chambers by Applying Working Volume as Figure of Merit. In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Maximum Working Volume Evaluation in a Non-Canonical Reverberation Chamber",
+          "autores": "AVILA, S. L. ; dos SANTOS, M. A. Jr. ; ; ; ; CARDOZO, Joao Roberto ; ; VOLLAIRE, Cristian ; PERRUSSEL, R.",
+          "periodico": "In: 12th Conference on Electromagnetic Field Computation, 2008, Athens. 12th Conference on Electromagnetic Field Computation, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; dos SANTOS, M. A. Jr. ; ; ; ; CARDOZO, Joao Roberto ; ; VOLLAIRE, Cristian ; PERRUSSEL, R. . Maximum Working Volume Evaluation in a Non-Canonical Reverberation Chamber. In: 12th Conference on Electromagnetic Field Computation, 2008, Athens. 12th Conference on Electromagnetic Field Computation, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Caracterização de Câmaras Reverberantes de Modos Misturados Não-Canônicas",
+          "autores": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ; ;",
+          "periodico": "In: MOMAG - Congresso Brasileiro de Eletromagnetismo, 2008, Florianópolis. MOMAG - Congresso Brasileiro de Eletromagnetismo. Florianópolis: SBMAG, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ; ; . Caracterização de Câmaras Reverberantes de Modos Misturados Não-Canônicas. In: MOMAG - Congresso Brasileiro de Eletromagnetismo, 2008, Florianópolis. MOMAG - Congresso Brasileiro de Eletromagnetismo. Florianópolis: SBMAG, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "The Working Volume Position on a Non-Canonical Reverberation Chamber",
+          "autores": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ; ; ;",
+          "periodico": "In: Conférence Européenne sur les méthodes numériques en Electromagnétisme, 2008, Liege. Conférence Européenne sur les méthodes numériques en Electromagnétisme. Liege: NUMELEC, 2008.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARDOZO, Joao Roberto ; dos SANTOS, M. A. Jr. ; ; ; ; . The Working Volume Position on a Non-Canonical Reverberation Chamber. In: Conférence Européenne sur les méthodes numériques en Electromagnétisme, 2008, Liege. Conférence Européenne sur les méthodes numériques en Electromagnétisme. Liege: NUMELEC, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Currents and Voltages Identification in Overhead Lines from Radiated Magnetic and Electric Field Knowledge",
+          "autores": "AVILA, S. L. ; O. Chadebec ; B. Raison",
+          "periodico": "In: 16th Conference on the Computation of Electromagnetic Fields COMPUMAG, 2007, Aachen. 16th Conference on the Computation of Electromagnetic Fields COMPUMAG, 2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; O. Chadebec ; B. Raison . Currents and Voltages Identification in Overhead Lines from Radiated Magnetic and Electric Field Knowledge. In: 16th Conference on the Computation of Electromagnetic Fields COMPUMAG, 2007, Aachen. 16th Conference on the Computation of Electromagnetic Fields COMPUMAG, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Explorando Reconfigurabilidade de Antenas Refletoras Embarcadas em Satélite por Otimização Evolucionária Multiobjetivo",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ;",
+          "periodico": "In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2006, Belo Horizonte. MOMAG'2006, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; . Explorando Reconfigurabilidade de Antenas Refletoras Embarcadas em Satélite por Otimização Evolucionária Multiobjetivo. In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2006, Belo Horizonte. MOMAG'2006, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Aspectos para uma Correta Análise Eletromagnética de Antenas Refletoras Embarcadas em Satélite, Caso de Estudo: Território Brasileiro",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ;",
+          "periodico": "In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2006, Belo Horizonte. MOMAG'2006, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; . Aspectos para uma Correta Análise Eletromagnética de Antenas Refletoras Embarcadas em Satélite, Caso de Estudo: Território Brasileiro. In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2006, Belo Horizonte. MOMAG'2006, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "A Multi-Niching Multi-Objective Genetic Algorithm for Solving Complex Multimodal Problems",
+          "autores": "AVILA, S. L. ; SARENI, Bruno ;",
+          "periodico": "In: 9th International Workshop on Optimization and Inverse Problems in Electromagnetism - OIPE, 2006, Sorrento. 9th International Workshop on Optimization and Inverse Problems in Electromagnetism - OIPE, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SARENI, Bruno ; . A Multi-Niching Multi-Objective Genetic Algorithm for Solving Complex Multimodal Problems. In: 9th International Workshop on Optimization and Inverse Problems in Electromagnetism - OIPE, 2006, Sorrento. 9th International Workshop on Optimization and Inverse Problems in Electromagnetism - OIPE, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Simulation and Optimization of GPR Antennas for the Assessment of Concretes Structures",
+          "autores": "AVILA, S. L. ; LISBOA, Adriano ; NICOLAS, Alain ; VOLLAIRE, Cristian",
+          "periodico": "In: 1st European Conference on Antennas and Propagation, 2006, Nice. 1st European Conference on Antennas and Propagation, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LISBOA, Adriano ; NICOLAS, Alain ; VOLLAIRE, Cristian . Simulation and Optimization of GPR Antennas for the Assessment of Concretes Structures. In: 1st European Conference on Antennas and Propagation, 2006, Nice. 1st European Conference on Antennas and Propagation, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Multi-objective optimization of bow-tie antennas for radar assessment of concrete structure",
+          "autores": "TRAVASSOS, X.L. ; AVILA, S.L. ; LISBOA, A.C. ; VOLLAIRE, C. ; NICOLAS, A.",
+          "periodico": "In: 2006 12th Biennial IEEE Conference on Electromagnetic Field Computation, 2006, Miami. 2006 12th Biennial IEEE Conference on Electromagnetic Field Computation, 2006. p. 407.",
+          "doi": "http://dx.doi.org/10.1109/cefc-06.2006.1633197",
+          "citacao_completa": "TRAVASSOS, X.L. ; AVILA, S.L. ; LISBOA, A.C. ; VOLLAIRE, C. ; NICOLAS, A. . Multi-objective optimization of bow-tie antennas for radar assessment of concrete structure. In: 2006 12th Biennial IEEE Conference on Electromagnetic Field Computation, 2006, Miami. 2006 12th Biennial IEEE Conference on Electromagnetic Field Computation, 2006. p. 407."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Sensitivity Analysis in the Parameters Space Applied to Decision Making in Multi-objective Evolutionary Optimization",
+          "autores": "AVILA, S. L. ; ; LISBOA, Adriano ; ; ; CARPES JR, Walter P ;",
+          "periodico": "In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; LISBOA, Adriano ; ; ; CARPES JR, Walter P ; . Sensitivity Analysis in the Parameters Space Applied to Decision Making in Multi-objective Evolutionary Optimization. In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "The Sensitivity Analysis to Predetermined Parameters as a Contribution to the Comprehension of Multi-objective Optimization Problems",
+          "autores": "AVILA, S. L. ; ; CARPES JR, Walter P ;",
+          "periodico": "In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; CARPES JR, Walter P ; . The Sensitivity Analysis to Predetermined Parameters as a Contribution to the Comprehension of Multi-objective Optimization Problems. In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "An Educational Tool for Teaching Optimization in Engineering",
+          "autores": "AVILA, S. L. ; ; TRAVASSOS JR, Xisto Lucas ; CARPES JR, Walter P ;",
+          "periodico": "In: Conference on the Computation of Magnetic Fields, 2005, Shenyang. 15th Conference on the Computation of Magnetic Fields, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; TRAVASSOS JR, Xisto Lucas ; CARPES JR, Walter P ; . An Educational Tool for Teaching Optimization in Engineering. In: Conference on the Computation of Magnetic Fields, 2005, Shenyang. 15th Conference on the Computation of Magnetic Fields, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Optimal Configurations for Perfectly Matched Layers in FDTD Simulations",
+          "autores": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; PRESCOTT, D ; NICOLAS, Alain",
+          "periodico": "In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; PRESCOTT, D ; NICOLAS, Alain . Optimal Configurations for Perfectly Matched Layers in FDTD Simulations. In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Conception and Comprehension of the Contour Beam Antenna in a Satellite System by Multi-objective Genetic Algorithm with Sensitivity Analysis",
+          "autores": "AVILA, S. L. ; ; CARPES JR, Walter P ;",
+          "periodico": "In: World Congress on Structural and Multidisciplinary Optimization, 2005, Rio de Janeiro. 6th World Congress on Structural and Multidisciplinary Optimization, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; CARPES JR, Walter P ; . Conception and Comprehension of the Contour Beam Antenna in a Satellite System by Multi-objective Genetic Algorithm with Sensitivity Analysis. In: World Congress on Structural and Multidisciplinary Optimization, 2005, Rio de Janeiro. 6th World Congress on Structural and Multidisciplinary Optimization, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "The Niche Technique in Parameters and Fitness Space for Multiobjective Optimization",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ;",
+          "periodico": "In: International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004, Gratz. The 11th International IGTE Symposium on Numerical Field Calculation in Electrical Engineering, 2004.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; . The Niche Technique in Parameters and Fitness Space for Multiobjective Optimization. In: International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004, Gratz. The 11th International IGTE Symposium on Numerical Field Calculation in Electrical Engineering, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Modified Genetic Operators for Multiobjective Optimization Problems",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ;",
+          "periodico": "In: CEFC - Conference on Electromagnetic Field Computation, 2004, Seoul. 11th Biennial IEEE CEFC - Conference on Electromagnetic Field Computation, 2004.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; . Modified Genetic Operators for Multiobjective Optimization Problems. In: CEFC - Conference on Electromagnetic Field Computation, 2004, Seoul. 11th Biennial IEEE CEFC - Conference on Electromagnetic Field Computation, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Three Current Populations: An Easy Way to Implement an Efficient Multiobjective Genetic Algorithm",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ; ;",
+          "periodico": "In: International Workshop on Optimization and Inverse Problems in Electromagnetism OIPE, 2004, Grenoble. 8th International Workshop on Optimization and Inverse Problems in Electromagnetism OIPE, 2004.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; ; . Three Current Populations: An Easy Way to Implement an Efficient Multiobjective Genetic Algorithm. In: International Workshop on Optimization and Inverse Problems in Electromagnetism OIPE, 2004, Grenoble. 8th International Workshop on Optimization and Inverse Problems in Electromagnetism OIPE, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Otimização Multiobjetivo na Busca por Refletores Otimos",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ;",
+          "periodico": "In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2004, São Paulo. Simposio Brasileiro de 11th SBMO e 6th MOMAG, 2004.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; . Otimização Multiobjetivo na Busca por Refletores Otimos. In: Simposio Brasileiro de Microondas e Optoeletronica e Congresso Brasileiro de Eletromagnetismo MOMAG, 2004, São Paulo. Simposio Brasileiro de 11th SBMO e 6th MOMAG, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Optimal Configurations for ABC's in FDTD Simulations",
+          "autores": "TRAVASSOS JR, Xisto Lucas ; SILVA, Elson J ; AVILA, S. L. ; CARPES JR, Walter P",
+          "periodico": "In: International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004, Gratz. 11th International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004.",
+          "doi": "",
+          "citacao_completa": "TRAVASSOS JR, Xisto Lucas ; SILVA, Elson J ; AVILA, S. L. ; CARPES JR, Walter P . Optimal Configurations for ABC's in FDTD Simulations. In: International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004, Gratz. 11th International IGTE Symposion onNumerical Field Calculation in Electrical Engineering, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Análise da Impedância de Dipolos Finos Usando Diferenças Finitas no Domínio do Tempo",
+          "autores": "AVILA, S. L. ; LIMA, C. B. ; CARPES JR, Walter P",
+          "periodico": "In: 11 SBMO e 6 CBMAG, 2004, São Paulo. 11 SBMO e 6 CBMAG, 2004.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LIMA, C. B. ; CARPES JR, Walter P . Análise da Impedância de Dipolos Finos Usando Diferenças Finitas no Domínio do Tempo. In: 11 SBMO e 6 CBMAG, 2004, São Paulo. 11 SBMO e 6 CBMAG, 2004."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Algoritmos Genéticos Aplicados na Otimização de Antenas Refletoras Offset",
+          "autores": "AVILA, S. L. ; LISBOA, Adriano ; CARPES JR, Walter P ; ; ; ;",
+          "periodico": "In: Congresso Brasileiro de Eletromagnetismo, 2002, Gramado. Anais do CBMAG 2002, 2002.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LISBOA, Adriano ; CARPES JR, Walter P ; ; ; ; . Algoritmos Genéticos Aplicados na Otimização de Antenas Refletoras Offset. In: Congresso Brasileiro de Eletromagnetismo, 2002, Gramado. Anais do CBMAG 2002, 2002."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Reliabe time series of currents from synchronous generators to drive the digital transition of the energy sector",
+          "autores": "TOMINAGA, R. N. ; ÁVILA, S. L. ; SOUSA, L. A. ; ROCHA, R. V. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S.",
+          "periodico": "In: Energy Transition Research & Innovation - ETRI 2024, 2024, São Paulo. Energy Transition Research & Innovation - ETRI 2024, 2024.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; ÁVILA, S. L. ; SOUSA, L. A. ; ROCHA, R. V. ; MONARO, R. M. ; SALLES, MAURICIO B. C. ; CARMO, B. S. . Reliabe time series of currents from synchronous generators to drive the digital transition of the energy sector. In: Energy Transition Research & Innovation - ETRI 2024, 2024, São Paulo. Energy Transition Research & Innovation - ETRI 2024, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Wind turbine diagnostics based on current signatures: a review",
+          "autores": "AVILA, S. L. ; MONARO, R. M. ; SALLES, M. B. C. ; CARMO, B. S.",
+          "periodico": "In: Energy Transition Research & Innovation - ETRI 2023, 2023, São Paulo. Energy Transition Research & Innovation - ETRI 2023, 2023.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; MONARO, R. M. ; SALLES, M. B. C. ; CARMO, B. S. . Wind turbine diagnostics based on current signatures: a review. In: Energy Transition Research & Innovation - ETRI 2023, 2023, São Paulo. Energy Transition Research & Innovation - ETRI 2023, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Transcrição de áudios em centros de operação: transformando gravações brutas em inteligência operacional",
+          "autores": "FLORIANO, A. C. ; FERNANDES, R. C. ; AVILA, S. L.",
+          "periodico": "In: 7 Seminário de Operação da ENGIE ENERGIA BRASIL S.A., 2021, Florianópolis. Seminário de Operação da ENGIE ENERGIA BRASIL S.A., 2021.",
+          "doi": "",
+          "citacao_completa": "FLORIANO, A. C. ; FERNANDES, R. C. ; AVILA, S. L. . Transcrição de áudios em centros de operação: transformando gravações brutas em inteligência operacional. In: 7 Seminário de Operação da ENGIE ENERGIA BRASIL S.A., 2021, Florianópolis. Seminário de Operação da ENGIE ENERGIA BRASIL S.A., 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Transcrição de áudios para o setor elétrico: criação de vocabulário especializado para utilização em soluções de mercado",
+          "autores": "FLORIANO, A. C. ; AVILA, S. L. ; FERNANDES, R. C.",
+          "periodico": "In: Seminário Nacional de Operadores de Sistemas e Instalações Elétricas, 2021, virtual. 10 SENOP, 2021.",
+          "doi": "",
+          "citacao_completa": "FLORIANO, A. C. ; AVILA, S. L. ; FERNANDES, R. C. . Transcrição de áudios para o setor elétrico: criação de vocabulário especializado para utilização em soluções de mercado. In: Seminário Nacional de Operadores de Sistemas e Instalações Elétricas, 2021, virtual. 10 SENOP, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise do desempenho do multi-modelos NMME para as bacias hidrográficas brasileiras",
+          "autores": "GRANDA, M. ; QUADRO, M. ; MUZA, M. ; ARSEGO, J. ; AVILA, S. L.",
+          "periodico": "In: Simpósio em Clima, Agua, Energia e Alimentos, 2021, Rio de Janeiro. I SIMCLEA, 2021.",
+          "doi": "",
+          "citacao_completa": "GRANDA, M. ; QUADRO, M. ; MUZA, M. ; ARSEGO, J. ; AVILA, S. L. . Análise do desempenho do multi-modelos NMME para as bacias hidrográficas brasileiras. In: Simpósio em Clima, Agua, Energia e Alimentos, 2021, Rio de Janeiro. I SIMCLEA, 2021."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Classificação da condição de operação de máquinas girantes por meio de análise de orbitais",
+          "autores": "JABLON, L. S. ; AVILA, SÉRGIO L. ; RODRIGUES, R. N.",
+          "periodico": "In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, SÉRGIO L. ; RODRIGUES, R. N. . Classificação da condição de operação de máquinas girantes por meio de análise de orbitais. In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bancada experimental para análise de temperatura em máquinas elétricas girantes",
+          "autores": "PACHECO, F. A. ; PENZ, C. ; AVILA, SÉRGIO L.",
+          "periodico": "In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019.",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. A. ; PENZ, C. ; AVILA, SÉRGIO L. . Bancada experimental para análise de temperatura em máquinas elétricas girantes. In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Bancada experimental para teste de vibração em máquinas elétricas rotativas",
+          "autores": "TOMINAGA, R. N. ; PENZ, C. ; AVILA, SÉRGIO L.",
+          "periodico": "In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; PENZ, C. ; AVILA, SÉRGIO L. . Bancada experimental para teste de vibração em máquinas elétricas rotativas. In: 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019, Chapecó. 8° Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Monitoramento de temperatura em rotores de máquinas elétricas girantes",
+          "autores": "GRANADO, M. ; AVILA, S. L. ; PENZ, C.",
+          "periodico": "In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018, Florianopolis. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018.",
+          "doi": "",
+          "citacao_completa": "GRANADO, M. ; AVILA, S. L. ; PENZ, C. . Monitoramento de temperatura em rotores de máquinas elétricas girantes. In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018, Florianopolis. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Monitoramento e Análise de Vibrações em Máquinas Elétricas Rotativas: Avaliação de Técnicas",
+          "autores": "COSTA, G. ; PENZ, C. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018, Florianópolis. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018.",
+          "doi": "",
+          "citacao_completa": "COSTA, G. ; PENZ, C. ; AVILA, S. L. . Monitoramento e Análise de Vibrações em Máquinas Elétricas Rotativas: Avaliação de Técnicas. In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018, Florianópolis. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Solução Analítica de Problemas Utilizando Métodos de Teoria de Jogos",
+          "autores": "BAUMGART, B. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - SEPEI, 2017, Itajai. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - SEPEI, 2017.",
+          "doi": "",
+          "citacao_completa": "BAUMGART, B. ; AVILA, S. L. . Solução Analítica de Problemas Utilizando Métodos de Teoria de Jogos. In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - SEPEI, 2017, Itajai. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC - SEPEI, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Monitoramento e Análise de Vibrações em Geradores de Energia",
+          "autores": "AVILA, S. L. ; PENZ, C.",
+          "periodico": "In: Semana Nacional de Ciência e Tecnologia, 2017, Florianópolis. Semana Nacional de Ciência e Tecnologia, 2017.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PENZ, C. . Monitoramento e Análise de Vibrações em Geradores de Energia. In: Semana Nacional de Ciência e Tecnologia, 2017, Florianópolis. Semana Nacional de Ciência e Tecnologia, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Técnicas Matemáticas para Análise de Vibrações em Geradores de Energia Elétrica",
+          "autores": "MATSUO, T. K. ; GRANADO, M. ; COSTA, G. ; PENZ, C. ; AVILA, S. L. ; GODOY, D.",
+          "periodico": "In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2016, Criciuma. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC 2016, 2016.",
+          "doi": "",
+          "citacao_completa": "MATSUO, T. K. ; GRANADO, M. ; COSTA, G. ; PENZ, C. ; AVILA, S. L. ; GODOY, D. . Técnicas Matemáticas para Análise de Vibrações em Geradores de Energia Elétrica. In: Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC, 2016, Criciuma. Seminário de Ensino, Pesquisa, Extensão e Inovação do IFSC 2016, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento Tecnológico com o Protótipo SMGER-GMG: Gerenciamento e Monitoração de Geração Distribuída",
+          "autores": "ALVES, D. A. ; DUTRA, L. A. O. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2015, 2015, Florianopolis. Seminário de Pesquisa, Extensão e Inovação do IFSC 2015, 2015.",
+          "doi": "",
+          "citacao_completa": "ALVES, D. A. ; DUTRA, L. A. O. ; AVILA, S. L. . Desenvolvimento Tecnológico com o Protótipo SMGER-GMG: Gerenciamento e Monitoração de Geração Distribuída. In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2015, 2015, Florianopolis. Seminário de Pesquisa, Extensão e Inovação do IFSC 2015, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Desenvolvimento Tecnológico em Geração Distribuída: Gerenciamento e Monitoração de uma Microgeração Solar",
+          "autores": "SILVEIRA, A. L. ; ZAMPROGNA, R. ; FORTUNATO, E. M. ; AVILA, S. L.",
+          "periodico": "In: Semana Nacional de Ciência e Tecnologia 2014, 2014, Florianópolis. Semana Nacional de Ciência e Tecnologia 2014, 2014.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA, A. L. ; ZAMPROGNA, R. ; FORTUNATO, E. M. ; AVILA, S. L. . Desenvolvimento Tecnológico em Geração Distribuída: Gerenciamento e Monitoração de uma Microgeração Solar. In: Semana Nacional de Ciência e Tecnologia 2014, 2014, Florianópolis. Semana Nacional de Ciência e Tecnologia 2014, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Desenvolvimento de uma interface de interação física para um simulador de embarcação",
+          "autores": "BARCELOS NETO, P. M. ; PACHECO, F. S. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "BARCELOS NETO, P. M. ; PACHECO, F. S. ; AVILA, S. L. . Desenvolvimento de uma interface de interação física para um simulador de embarcação. In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica",
+          "autores": "SOUZA, B. L. ; BRIANEZZI, A. C. ; PALLAORO, A. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "SOUZA, B. L. ; BRIANEZZI, A. C. ; PALLAORO, A. ; AVILA, S. L. . Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica. In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Matemática Aplicada na Busca do Ótimo",
+          "autores": "CARDOSO, R. P. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, R. P. ; AVILA, S. L. . Matemática Aplicada na Busca do Ótimo. In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Inovação Tecnológica em Geração Distribuída: inteligência no monitoramento e controle de uma instalação elétrica com alimentação por painéis solares e pela CELESC",
+          "autores": "BARCELOS NETO, P. M. ; GUIMARAES, K. M. ; BENCZIK, E. F. ; AVILA, S. L.",
+          "periodico": "In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013.",
+          "doi": "",
+          "citacao_completa": "BARCELOS NETO, P. M. ; GUIMARAES, K. M. ; BENCZIK, E. F. ; AVILA, S. L. . Inovação Tecnológica em Geração Distribuída: inteligência no monitoramento e controle de uma instalação elétrica com alimentação por painéis solares e pela CELESC. In: Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013, Lages. Seminário de Pesquisa, Extensão e Inovação do IFSC 2013, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Desenvolvimento de plataforma para gestão do conhecimento em Computação Gráfica e Científica",
+          "autores": "SILVA, D. M. C. ; SANTOS, D. O. ; AVILA, S. L.",
+          "periodico": "In: Semana Nacional de Ciência e Tecnologia 2012, 2012, Florianópolis. Semana Nacional de Ciência e Tecnologia 2012, 2012.",
+          "doi": "",
+          "citacao_completa": "SILVA, D. M. C. ; SANTOS, D. O. ; AVILA, S. L. . Desenvolvimento de plataforma para gestão do conhecimento em Computação Gráfica e Científica. In: Semana Nacional de Ciência e Tecnologia 2012, 2012, Florianópolis. Semana Nacional de Ciência e Tecnologia 2012, 2012."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Multio-objective optimization of bow-tie antennas for radar assessment of concrete strutures",
+          "autores": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; NICOLAS, Alain ; VOLLAIRE, Cristian",
+          "periodico": "In: CEFC - Conference on Electromagnetic Field Computation, 2006, Miami. 12th CEFC, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; NICOLAS, Alain ; VOLLAIRE, Cristian . Multio-objective optimization of bow-tie antennas for radar assessment of concrete strutures. In: CEFC - Conference on Electromagnetic Field Computation, 2006, Miami. 12th CEFC, 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "A Simple Tool for Modeling Microstrip Structures using the Finite-Difference Time-Domain Method",
+          "autores": "AVILA, S. L. ; LISBOA, Adriano ; TRAVASSOS JR, Xisto Lucas ; SILVA, Elson J ; CARPES JR, Walter P ; NICOLAS, Alain",
+          "periodico": "In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LISBOA, Adriano ; TRAVASSOS JR, Xisto Lucas ; SILVA, Elson J ; CARPES JR, Walter P ; NICOLAS, Alain . A Simple Tool for Modeling Microstrip Structures using the Finite-Difference Time-Domain Method. In: Conference on the Computation of Magentic Fields, 2005, Shenyang. 15th Conference on the Computation of Magentic Fields, 2005."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Identification of Jiles-Atherton Model Parameters With Genetic Algorithm",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ; ; ; ;",
+          "periodico": "In: ISEM - International Symposium on Applied Electromagnetics, 2003, Versailles. 11th International Symposium on Applied Electromagnetics & Mechanics, 2003.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; ; ; ; . Identification of Jiles-Atherton Model Parameters With Genetic Algorithm. In: ISEM - International Symposium on Applied Electromagnetics, 2003, Versailles. 11th International Symposium on Applied Electromagnetics & Mechanics, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Optimization of an Offset Reflector Antenna using Genetic Algorithms",
+          "autores": "AVILA, S. L. ; CARPES JR, Walter P ;",
+          "periodico": "In: Conference on the Computation of Magnetic Fields, 2003, Saratoga Springs, New York. Compumag 2003, 2003.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CARPES JR, Walter P ; . Optimization of an Offset Reflector Antenna using Genetic Algorithms. In: Conference on the Computation of Magnetic Fields, 2003, Saratoga Springs, New York. Compumag 2003, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Real Coding Genetic Algorithm for Jiles-Atherton Model Parameters Identification",
+          "autores": "AVILA, S. L. ; ; ; ; CARPES JR, Walter P ; ;",
+          "periodico": "In: Conference on the Computation of Magentic Fields, 2003, Saratoga Springs - New York. Compumag 2003, 2003.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; ; ; CARPES JR, Walter P ; ; . Real Coding Genetic Algorithm for Jiles-Atherton Model Parameters Identification. In: Conference on the Computation of Magentic Fields, 2003, Saratoga Springs - New York. Compumag 2003, 2003."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Diagnóstico de desbalanceamento mecânico em máquinas rotativas por orbital",
+          "autores": "JABLON, L. S. ; AVILA, SÉRGIO L.",
+          "periodico": "In: 4º Congresso Técnico sobre Manutenção nas Empresas de Energia Elétrica - CETECMAN, 2019, São Paulo. Congresso Técnico sobre Manutenção nas Empresas de Energia Elétrica, 2019.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, SÉRGIO L. . Diagnóstico de desbalanceamento mecânico em máquinas rotativas por orbital. In: 4º Congresso Técnico sobre Manutenção nas Empresas de Energia Elétrica - CETECMAN, 2019, São Paulo. Congresso Técnico sobre Manutenção nas Empresas de Energia Elétrica, 2019."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Contour Beam Shaped Reflector Antenna with Frequency Reuse",
+          "autores": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ;",
+          "periodico": "In: European Conference on Antennas and Propagation, 2006, Nice. EUCAP'2006, 2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; TRAVASSOS JR, Xisto Lucas ; ; . Contour Beam Shaped Reflector Antenna with Frequency Reuse. In: European Conference on Antennas and Propagation, 2006, Nice. EUCAP'2006, 2006."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Software para análise de séries temporais de consumo de energia elétrica para o PGEN / EnergIF",
+          "autores": "AVILA, S. L. ; SANTOS, G.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SANTOS, G. . Software para análise de séries temporais de consumo de energia elétrica para o PGEN / EnergIF. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Sistema de inteligência computacional embarcado assistido por realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos",
+          "autores": "SANTOS, G. ; AVILA, S. L.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "SANTOS, G. ; AVILA, S. L. . Sistema de inteligência computacional embarcado assistido por realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Software para diagnóstico de desbalanceamento em máquinas girantes de pequeno porte usando inteligência computacional adequada para sistemas embarcados",
+          "autores": "IMAMURA, L. Y. ; ÁVILA, S. L.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "IMAMURA, L. Y. ; ÁVILA, S. L. . Software para diagnóstico de desbalanceamento em máquinas girantes de pequeno porte usando inteligência computacional adequada para sistemas embarcados. 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Software para a transcrição de audio para centros de operação do setor elétrico",
+          "autores": "FLORIANO, A. C. ; AVILA, SERGIO L ; FERNANDES, R. C.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "FLORIANO, A. C. ; AVILA, SERGIO L ; FERNANDES, R. C. . Software para a transcrição de audio para centros de operação do setor elétrico. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Software para análise de vibração em máquinas elétricas por meio de orbitais",
+          "autores": "JABLON, L. S. ; AVILA, S. L.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, S. L. . Software para análise de vibração em máquinas elétricas por meio de orbitais. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Software para análise de vibração em máquinas elétricas por meio dos sinais de corrente.",
+          "autores": "TOMINAGA, R. N. ; AVILA, S. L.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; AVILA, S. L. . Software para análise de vibração em máquinas elétricas por meio dos sinais de corrente.. 2020."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Software para o reconhecimento de gestos e postura humanas para interação humano máquina",
+          "autores": "PACHECO, F. S. ; AVILA, S. L.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. S. ; AVILA, S. L. . Software para o reconhecimento de gestos e postura humanas para interação humano máquina. 2015."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E. . Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica. 2012."
+        },
+        {
+          "ano": 2005,
+          "titulo": "OPTIMAL - Ferramenta multimídia para auxílio no processo de ensino e aprendizagem no ensino de Otimização",
+          "autores": "AVILA, S. L. ; ; CARPES JR, Walter P",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; ; CARPES JR, Walter P . OPTIMAL - Ferramenta multimídia para auxílio no processo de ensino e aprendizagem no ensino de Otimização. 2005."
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Protótipo de célula combustivel microbiana para geração de energia",
+          "autores": "NOGUEIRA, R. ; ÁVILA, S. L. ; SICA, E.T.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "NOGUEIRA, R. ; ÁVILA, S. L. ; SICA, E.T. . Protótipo de célula combustivel microbiana para geração de energia. 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Plataforma URCA para a identificação de tendências e avaliação de risco em múltiplos cenários do mercado de energia baseado em dados",
+          "autores": "AVILA, S. L. ; SANTOS, E. F.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SANTOS, E. F. . Plataforma URCA para a identificação de tendências e avaliação de risco em múltiplos cenários do mercado de energia baseado em dados. 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos",
+          "autores": "MEDEIROS, L. S. ; AVILA, S. L.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "MEDEIROS, L. S. ; AVILA, S. L. . Realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos. 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "RPAS híbrido radiocontrolado para inspeção de linhas de transmissão de energia elétrica",
+          "autores": "MEDEIROS, L. S. ; ÁVILA, S. L.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "MEDEIROS, L. S. ; ÁVILA, S. L. . RPAS híbrido radiocontrolado para inspeção de linhas de transmissão de energia elétrica. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Ground Control Station para RPAS hibrido",
+          "autores": "AVILA, S. L. ; RUSSI, G.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; RUSSI, G. . Ground Control Station para RPAS hibrido. 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Plataforma FLOW para recomendação inteligente aplicada ao mercado de energia elétrica",
+          "autores": "AVILA, S. L. ; SOARES, M. P.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SOARES, M. P. . Plataforma FLOW para recomendação inteligente aplicada ao mercado de energia elétrica. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analisador de vibrações em máquinas girantes por sinais mecânicos",
+          "autores": "MATSUO, T. K. ; AVILA, S. L. ; JABLON, L. S. ; IMAMURA, L. Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "MATSUO, T. K. ; AVILA, S. L. ; JABLON, L. S. ; IMAMURA, L. Y. . Analisador de vibrações em máquinas girantes por sinais mecânicos. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analisador de vibrações em máquinas girantes por sinais elétricos",
+          "autores": "AVILA, S. L. ; TOMINAGA, R. N. ; IMAMURA, L. Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; TOMINAGA, R. N. ; IMAMURA, L. Y. . Analisador de vibrações em máquinas girantes por sinais elétricos. 2020."
+        },
+        {
+          "ano": 2017,
+          "titulo": "SMGer-GMG AQTECH P&D ANEEL",
+          "autores": "MATSUO, T. K. ; AVILA, S. L.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "MATSUO, T. K. ; AVILA, S. L. . SMGer-GMG AQTECH P&D ANEEL. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Dispositivo para reconhecimento de posturas humanas",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; GUIMARAES, K. M. ; SANTOS, D. O.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; GUIMARAES, K. M. ; SANTOS, D. O. . Dispositivo para reconhecimento de posturas humanas. 2016."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Plataforma para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E. . Plataforma para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica. 2012."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Aparelho Multimida Interativo Portatil - CERTI / MEC",
+          "autores": "AVILA, S. L. ; SCHNEIDER, C. A.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SCHNEIDER, C. A. . Aparelho Multimida Interativo Portatil - CERTI / MEC. 2009."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Registradores IEC 61850 SENAI / REASON SA",
+          "autores": "LORENZETT, J. R. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "LORENZETT, J. R. ; AVILA, S. L. . Registradores IEC 61850 SENAI / REASON SA. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensor de pressão automotivo embarcado - Senai e 3RHO Ltda",
+          "autores": "AVILA, S. L. ; LORENZETT, J. R.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LORENZETT, J. R. . Sensor de pressão automotivo embarcado - Senai e 3RHO Ltda. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Medidor de Energia Inteligente - SENAI / TIPOD Ltda",
+          "autores": "LORENZETT, J. R. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "LORENZETT, J. R. ; AVILA, S. L. . Medidor de Energia Inteligente - SENAI / TIPOD Ltda. 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Detector de Faltas em Sistemas de Potência - LEG / INPG / IDEA / Schneider Electric",
+          "autores": "O. Chadebec ; AVILA, S. L.",
+          "periodico": "2006.",
+          "doi": "",
+          "citacao_completa": "O. Chadebec ; AVILA, S. L. . Detector de Faltas em Sistemas de Potência - LEG / INPG / IDEA / Schneider Electric. 2006."
+        }
+      ]
+    },
+    {
+      "name": "Processos ou técnicas",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Metodologia para detecção de falhas em cabeamento elétrico de forma não invasiva",
+          "autores": "ÁVILA, S. L. ; SCHLICHTING, L. C. M.",
+          "periodico": "2025.",
+          "doi": "",
+          "citacao_completa": "ÁVILA, S. L. ; SCHLICHTING, L. C. M. . Metodologia para detecção de falhas em cabeamento elétrico de forma não invasiva. 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Metodologia para a instrumentação e análise da corrente elétrica de máquinas rotativas com conjunto de redes neurais",
+          "autores": "AVILA, S. L. ; FERRI, G. G. B.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; FERRI, G. G. B. . Metodologia para a instrumentação e análise da corrente elétrica de máquinas rotativas com conjunto de redes neurais. 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Geração de cenários e análise de risco sobre a tendência da curva forward de preços para o mercado livre de energia",
+          "autores": "ÁVILA, S. L. ; SICA, E.T. ; GEREMIA, M.",
+          "periodico": "2024.",
+          "doi": "",
+          "citacao_completa": "ÁVILA, S. L. ; SICA, E.T. ; GEREMIA, M. . Geração de cenários e análise de risco sobre a tendência da curva forward de preços para o mercado livre de energia. 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos",
+          "autores": "AVILA, S. L. ; RUSSI, G. ; VASATA, F. ; BERTOLDI, T.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; RUSSI, G. ; VASATA, F. ; BERTOLDI, T. . Realidade aumentada para operação otimizada de RPAS em ambientes complexos ou periculosos. 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Metodologia para a inspeção industrial com realidade virtual, aumentada e gamificação",
+          "autores": "AVILA, S. L. ; DOS SANTOS FERREIRA, GREICILI ; LILA, F.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; DOS SANTOS FERREIRA, GREICILI ; LILA, F. . Metodologia para a inspeção industrial com realidade virtual, aumentada e gamificação. 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologia para recomendação inteligente aplicada ao mercado de energia elétrica",
+          "autores": "AVILA, S. L. ; SOARES, M. P.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SOARES, M. P. . Metodologia para recomendação inteligente aplicada ao mercado de energia elétrica. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologia para a transcrição automatizadas de áudios para centros de operação do setor elétrico - ENGIE Brasil Energia S.A.",
+          "autores": "FLORIANO, A. C. ; FERNANDES, R. C. ; AVILA, SERGIO L",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "FLORIANO, A. C. ; FERNANDES, R. C. ; AVILA, SERGIO L . Metodologia para a transcrição automatizadas de áudios para centros de operação do setor elétrico - ENGIE Brasil Energia S.A.. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Técnica de classificação da condição de operação de máquinas girantes por meio de análise de orbitais e ferramentas de inteligência artificial",
+          "autores": "JABLON, L. S. ; AVILA, S. L. ; IMAMURA, L. Y.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, S. L. ; IMAMURA, L. Y. . Técnica de classificação da condição de operação de máquinas girantes por meio de análise de orbitais e ferramentas de inteligência artificial. 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Técnica de identificação do tipo e da severidade do desbalanceamento em máquinas girantes através da assinatura da corrente e técnicas de inteligência artificial - IFSC / AQTECH",
+          "autores": "AVILA, SÉRGIO L. ; PACHECO, F. S. ; PENZ, C.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "AVILA, SÉRGIO L. ; PACHECO, F. S. ; PENZ, C. . Técnica de identificação do tipo e da severidade do desbalanceamento em máquinas girantes através da assinatura da corrente e técnicas de inteligência artificial - IFSC / AQTECH. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Técnica de monitoramento da temperatura de rotores de máquinas elétricas girantes - AUTOMATIC / FAPESC 2018TR422",
+          "autores": "PENZ, C. ; AVILA, S. L.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "PENZ, C. ; AVILA, S. L. . Técnica de monitoramento da temperatura de rotores de máquinas elétricas girantes - AUTOMATIC / FAPESC 2018TR422. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Técnica para análise de vibrações em geradores de energia elétrica - AQTECH FAPESC 2017TR469",
+          "autores": "MATSUO, T. K. ; AVILA, S. L.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "MATSUO, T. K. ; AVILA, S. L. . Técnica para análise de vibrações em geradores de energia elétrica - AQTECH FAPESC 2017TR469. 2018."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Desenvolvimento e Otimização de Camara Reverberante para Comptatibilidade Eletromagnética",
+          "autores": "CARDOZO, Joao Roberto ; AVILA, S. L. ; ; ; ; dos SANTOS, M. A. Jr.",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "CARDOZO, Joao Roberto ; AVILA, S. L. ; ; ; ; dos SANTOS, M. A. Jr. . Desenvolvimento e Otimização de Camara Reverberante para Comptatibilidade Eletromagnética. 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Jiga de Testes para telefones sem fio - INTELBRAS SA",
+          "autores": "SCHNEIDER, C. A. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "SCHNEIDER, C. A. ; AVILA, S. L. . Jiga de Testes para telefones sem fio - INTELBRAS SA. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Tecnologia para aparelhos de áudio-conferência - INTELBRAS SA",
+          "autores": "SCHNEIDER, C. A. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "SCHNEIDER, C. A. ; AVILA, S. L. . Tecnologia para aparelhos de áudio-conferência - INTELBRAS SA. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de handover para DECT-ETSI - INTELBRAS SA",
+          "autores": "SCHNEIDER, C. A. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "SCHNEIDER, C. A. ; AVILA, S. L. . Desenvolvimento de handover para DECT-ETSI - INTELBRAS SA. 2007."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Viabilidade de desenvolviemento prórpio de uma Ground Station para RPAS híbrido radiocontrolado para inspeção de linhas de transmissão de energia elétrica",
+          "autores": "MEDEIROS, L. S. ; AVILA, S. L. ; RUSSI, G.",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "MEDEIROS, L. S. ; AVILA, S. L. ; RUSSI, G. . Viabilidade de desenvolviemento prórpio de uma Ground Station para RPAS híbrido radiocontrolado para inspeção de linhas de transmissão de energia elétrica. 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Estudo comparativo de sistemas embarcados destinados a Companion Computer em RPAS",
+          "autores": "AVILA, S. L. ; RUSSI, G.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; RUSSI, G. . Estudo comparativo de sistemas embarcados destinados a Companion Computer em RPAS. 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Análise de séries temporais do PGEN / EnergIF",
+          "autores": "AVILA, S. L. ; SANTOS, G.",
+          "periodico": "2022.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SANTOS, G. . Análise de séries temporais do PGEN / EnergIF. 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Metodologia para recomendação inteligente aplicada ao mercado de energia elétrica",
+          "autores": "AVILA, S. L. ; SOARES, M. P.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SOARES, M. P. . Metodologia para recomendação inteligente aplicada ao mercado de energia elétrica. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Informações presentes e futuras de tempo/clima com vistas à geração de cenários de vazões relevantes ao preço da energia",
+          "autores": "AVILA, S. L. ; QUADRO, M. ; MUZA, M. ; SOARES, M. P.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; QUADRO, M. ; MUZA, M. ; SOARES, M. P. . Informações presentes e futuras de tempo/clima com vistas à geração de cenários de vazões relevantes ao preço da energia. 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Análise de informações do Balcão Brasileiro de Comercialização de Energia e a correlação com informações meteorológicas",
+          "autores": "AVILA, S. L. ; E. T. Sica ; SOARES, M. P.",
+          "periodico": "2021.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; E. T. Sica ; SOARES, M. P. . Análise de informações do Balcão Brasileiro de Comercialização de Energia e a correlação com informações meteorológicas. 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Metodologia para a classificação da condição de operação de máquinas girantes por meio de análise de orbitais - AQTECH",
+          "autores": "JABLON, L. S. ; AVILA, S. L.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "JABLON, L. S. ; AVILA, S. L. . Metodologia para a classificação da condição de operação de máquinas girantes por meio de análise de orbitais - AQTECH. 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Metodologia para a classificação da condição de operação de máquinas girantes por meio de transitório de corrente",
+          "autores": "TOMINAGA, R. N. ; AVILA, S. L.",
+          "periodico": "2020.",
+          "doi": "",
+          "citacao_completa": "TOMINAGA, R. N. ; AVILA, S. L. . Metodologia para a classificação da condição de operação de máquinas girantes por meio de transitório de corrente. 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Projeto Pedagógico do Curso de Especialização em Computação Científica - Campus Florianópolis - IFSC",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; PENZ, C. ; MONTEIRO, P. B.",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; PENZ, C. ; MONTEIRO, P. B. . Projeto Pedagógico do Curso de Especialização em Computação Científica - Campus Florianópolis - IFSC. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Metodologia para a medição de temperatura do rotor em máquinas elétricas girantes - AUTOMATIC",
+          "autores": "GRANADO, M. ; PENZ, C. ; AVILA, S. L.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "GRANADO, M. ; PENZ, C. ; AVILA, S. L. . Metodologia para a medição de temperatura do rotor em máquinas elétricas girantes - AUTOMATIC. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Metodologia para o diagnóstico de defeitos em hidrogeradores através da análise de vibrações em sistemas de monitoramento permanente utilizando técnicas no domínio do tempo e frequência",
+          "autores": "GODOY, D. ; AVILA, S. L. ; PENZ, C. ; MATSUO, T. K.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "GODOY, D. ; AVILA, S. L. ; PENZ, C. ; MATSUO, T. K. . Metodologia para o diagnóstico de defeitos em hidrogeradores através da análise de vibrações em sistemas de monitoramento permanente utilizando técnicas no domínio do tempo e frequência. 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Projeto Pedagógico do Curso Técnico em Eletrotécnica - Campus Florianópolis - IFSC",
+          "autores": "AVILA, S. L. ; SILVEIRA, J.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SILVEIRA, J. . Projeto Pedagógico do Curso Técnico em Eletrotécnica - Campus Florianópolis - IFSC. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Metodologia para a monitoração remota de microgeração distribuída ? AQTECH",
+          "autores": "AVILA, S. L.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. . Metodologia para a monitoração remota de microgeração distribuída ? AQTECH. 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Projeto Pedagógico do Curso de Especialização em Sistemas de Energia - Campus Florianópolis - IFSC",
+          "autores": "AVILA, S. L. ; SILVEIRA, J.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SILVEIRA, J. . Projeto Pedagógico do Curso de Especialização em Sistemas de Energia - Campus Florianópolis - IFSC. 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Projeto Pedagógico do Curso de Mestrado em Sistema de Energia - Campus Florianópolis - IFSC",
+          "autores": "AVILA, S. L. ; SILVEIRA, J.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SILVEIRA, J. . Projeto Pedagógico do Curso de Mestrado em Sistema de Energia - Campus Florianópolis - IFSC. 2015."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica",
+          "autores": "AVILA, S. L. ; SOUZA, B. L.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SOUZA, B. L. . Plataforma WEB para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica. 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Interação eletroeletrônica com ferramentas de hardware e software abertos para conhecimento de posturas humanas",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; GUIMARAES, K. M. ; SANTOS, D. O.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; GUIMARAES, K. M. ; SANTOS, D. O. . Interação eletroeletrônica com ferramentas de hardware e software abertos para conhecimento de posturas humanas. 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Projeto de Implantação do Laboratório de Computação Gráfica e Científica",
+          "autores": "AVILA, S. L. ; HERMEGILDO, J. ; PACHECO, F. S.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; HERMEGILDO, J. ; PACHECO, F. S. . Projeto de Implantação do Laboratório de Computação Gráfica e Científica. 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Plataforma para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica",
+          "autores": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PACHECO, F. S. ; VEIGA, C. E. . Plataforma para Desenvolvimento Colaborativo destinada à Computação Gráfica e Científica. 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Consolidação do Nucleo de Inovação Tecnológica - Captação de Recursos - NIT-IF-SC",
+          "autores": "AVILA, S. L. ; NORONHA NETO, M.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; NORONHA NETO, M. . Consolidação do Nucleo de Inovação Tecnológica - Captação de Recursos - NIT-IF-SC. 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Projeto Pedagógico do Curso de Engenharia Elétrica - Campus Florianópolis - IFSC",
+          "autores": "AVILA, S. L. ; SILVEIRA, J.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SILVEIRA, J. . Projeto Pedagógico do Curso de Engenharia Elétrica - Campus Florianópolis - IFSC. 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Complexo Intermodal Catarinense - SC PARCERIAS SA",
+          "autores": "STODIECK, R. ; AVILA, S. L.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "STODIECK, R. ; AVILA, S. L. . Complexo Intermodal Catarinense - SC PARCERIAS SA. 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Prevenção contra danos provocados por surto de tensão - UNISUL / ELETROSUL S.A.",
+          "autores": "; AVILA, S. L.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "; AVILA, S. L. . Prevenção contra danos provocados por surto de tensão - UNISUL / ELETROSUL S.A.. 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "PROCAD 0170054 - Camera para testes de Compatibilidade Eletromagnética - USP",
+          "autores": "; AVILA, S. L.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "; AVILA, S. L. . PROCAD 0170054 - Camera para testes de Compatibilidade Eletromagnética - USP. 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Aparelho Multimida Interativo Portatil - CERTI / MEC",
+          "autores": "AVILA, S. L. ; SCHNEIDER, C. A.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SCHNEIDER, C. A. . Aparelho Multimida Interativo Portatil - CERTI / MEC. 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Pesquisa de Mapeamento sobre o Computador em 2015 - CERTI / POSITIVO S.A.",
+          "autores": "SCHNEIDER, C. A. ; AVILA, S. L.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "SCHNEIDER, C. A. ; AVILA, S. L. . Pesquisa de Mapeamento sobre o Computador em 2015 - CERTI / POSITIVO S.A.. 2009."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Pesquisa Aplicada como Estratégia Competitiva na Cadeia Produtiva de Autopeças - SENAI/CTAI",
+          "autores": "LORENZETT, J. R. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "LORENZETT, J. R. ; AVILA, S. L. . Pesquisa Aplicada como Estratégia Competitiva na Cadeia Produtiva de Autopeças - SENAI/CTAI. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Modernização dos Laboratórios de Automação - SENAI/CTAI",
+          "autores": "LORENZETT, J. R. ; AVILA, S. L.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "LORENZETT, J. R. ; AVILA, S. L. . Modernização dos Laboratórios de Automação - SENAI/CTAI. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de Handover para DECT/ETSI - CERTI / INTELBRAS S.A.",
+          "autores": "AVILA, S. L. ; SCHNEIDER, C. A.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SCHNEIDER, C. A. . Desenvolvimento de Handover para DECT/ETSI - CERTI / INTELBRAS S.A.. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "JIGA de Testes para Telefones sem Fio DECT-ETSI - CERTI / INTELBRAS",
+          "autores": "AVILA, S. L. ; SCHNEIDER, C. A.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SCHNEIDER, C. A. . JIGA de Testes para Telefones sem Fio DECT-ETSI - CERTI / INTELBRAS. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Tecnologia para aparelhos de áudio-conferência - CERTI / INTELBRAS S.A.",
+          "autores": "AVILA, S. L. ; SCHNEIDER, C. A.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; SCHNEIDER, C. A. . Tecnologia para aparelhos de áudio-conferência - CERTI / INTELBRAS S.A.. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sensor de pressão automotivo embarcado - SENAI / 3RHO Ltda",
+          "autores": "AVILA, S. L. ; LORENZETT, J. R.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LORENZETT, J. R. . Sensor de pressão automotivo embarcado - SENAI / 3RHO Ltda. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Registradores IEC 61850 - SENAI / REASON S.A.",
+          "autores": "AVILA, S. L. ; LORENZETT, J. R.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LORENZETT, J. R. . Registradores IEC 61850 - SENAI / REASON S.A.. 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Medidor de Energia Elétrica Inteligente - SENAI / TIPOD Ltda",
+          "autores": "AVILA, S. L. ; LORENZETT, J. R.",
+          "periodico": "2007.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; LORENZETT, J. R. . Medidor de Energia Elétrica Inteligente - SENAI / TIPOD Ltda. 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Detector de Faltas em Sistemas de Potência - SCHNEIDER ELECTRIC / EDF / INPG",
+          "autores": "AVILA, S. L. ; O. Chadebec",
+          "periodico": "2006.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; O. Chadebec . Detector de Faltas em Sistemas de Potência - SCHNEIDER ELECTRIC / EDF / INPG. 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "PROCAD 0249009 - Desenvolvimento de Software para Otimização em Eletromagnetismo Aplicado - UFMG",
+          "autores": "MESQUITA, R. ; AVILA, S. L.",
+          "periodico": "2004.",
+          "doi": "",
+          "citacao_completa": "MESQUITA, R. ; AVILA, S. L. . PROCAD 0249009 - Desenvolvimento de Software para Otimização em Eletromagnetismo Aplicado - UFMG. 2004."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Projeto GENESIS - Cadastramento de Redes de Energia Elétrica - CELESC S.A.",
+          "autores": "AVILA, S. L. ; CELESC,",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; CELESC, . Projeto GENESIS - Cadastramento de Redes de Energia Elétrica - CELESC S.A.. 2001."
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Plataforma de desenvolvimento colaborativo em Computação Científica para Engenharia",
+          "autores": "AVILA, S. L. ; PENZ, C. ; PACHECO, F. S.",
+          "periodico": "2018; Tema: Computação científica. (Site).",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. ; PENZ, C. ; PACHECO, F. S. . Plataforma de desenvolvimento colaborativo em Computação Científica para Engenharia. 2018; Tema: Computação científica. (Site)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Lógica Fuzzy com Python",
+          "autores": "PACHECO, F. S. ; AVILA, S. L.",
+          "periodico": "2019. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. S. ; AVILA, S. L. . Lógica Fuzzy com Python. 2019. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Inteligência Artificial Aprendizado de Máquina com Python.",
+          "autores": "PACHECO, F. S. ; AVILA, S. L.",
+          "periodico": "2019. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. S. ; AVILA, S. L. . Inteligência Artificial Aprendizado de Máquina com Python.. 2019. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Inteligência Artificial Aprendizado de Máquina com Python",
+          "autores": "PACHECO, F. S. ; AVILA, SÉRGIO L.",
+          "periodico": "2018. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. S. ; AVILA, SÉRGIO L. . Inteligência Artificial Aprendizado de Máquina com Python. 2018. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Inteligência Artificial: disseminação e desenvolvimento de aplicações",
+          "autores": "PACHECO, F. S. ; AVILA, SÉRGIO L.",
+          "periodico": "2018. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "PACHECO, F. S. ; AVILA, SÉRGIO L. . Inteligência Artificial: disseminação e desenvolvimento de aplicações. 2018. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Identificação de Riscos como Contribuição à Análise de Viabilidade de Projetos",
+          "autores": "AVILA, S. L.",
+          "periodico": "2013. (Desenvolvimento de material didático ou instrucional - Livro ainda não publicado).",
+          "doi": "",
+          "citacao_completa": "AVILA, S. L. . Identificação de Riscos como Contribuição à Análise de Viabilidade de Projetos. 2013. (Desenvolvimento de material didático ou instrucional - Livro ainda não publicado)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Identificação de faltas de enrolamento do estator em um gerador de indução de turbina eólica duplamente alimentado por meio da análise de assinatura de corrente",
+          "membros": "AVILA, S.L. ; NAU, S. L.; CARDOSO, G.; SALLES, M. B. C.",
+          "candidato": "Rafael Noboro Tominaga",
+          "citacao_completa": "AVILA, S.L. ; NAU, S. L.; CARDOSO, G.; SALLES, M. B. C.. Participação em banca de Rafael Noboro Tominaga. Identificação de faltas de enrolamento do estator em um gerador de indução de turbina eólica duplamente alimentado por meio da análise de assinatura de corrente. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Contribuição à modelagem elétrica de uma célula combustível microbiana",
+          "membros": "AVILA, S.L. ; E. T. Sica; LANGBEHN, R. K.; ALVES, R. L.",
+          "candidato": "Renan Mello Nogueira",
+          "citacao_completa": "AVILA, S.L. ; E. T. Sica; LANGBEHN, R. K.; ALVES, R. L.. Participação em banca de Renan Mello Nogueira. Contribuição à modelagem elétrica de uma célula combustível microbiana. 2025. Dissertação (Mestrado em Mestrado Profissional em Sistemas de Energia) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Sistema isolado de injeção de água alimentado por energia eólica: proposta de controle primário hierarquizado",
+          "membros": "MONARO, R. M.; ARIOLI, F. C. T.; AVILA, S. L.",
+          "candidato": "Giancarlo Carvalho Prezotto",
+          "citacao_completa": "MONARO, R. M.; ARIOLI, F. C. T.; AVILA, S. L. . Participação em banca de Giancarlo Carvalho Prezotto. Sistema isolado de injeção de água alimentado por energia eólica: proposta de controle primário hierarquizado. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2024,
+          "titulo": "AI-Driven Forecasting Models for Financial Markets: Integrating Natural Language Processing, Deep Learning, and Technical Analysis",
+          "membros": "ANDRADE JUNIOR, P. P.; ALBANI, V.; E. T. Sica; SILVA, D. L.; ÁVILA, S. L.",
+          "candidato": "Raphael Piovezan",
+          "citacao_completa": "ANDRADE JUNIOR, P. P.; ALBANI, V.; E. T. Sica; SILVA, D. L.; ÁVILA, S. L. . Participação em banca de Raphael Piovezan. AI-Driven Forecasting Models for Financial Markets: Integrating Natural Language Processing, Deep Learning, and Technical Analysis. 2024. Dissertação (Mestrado em Engenharia e Ciências Mecânicas) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Análise da flexibilidade operativa do sistema elétrico brasileiro no contexto da integração de fontes renováveis prevista no plano decenal",
+          "membros": "SALLES, M. B. C.; SARAIVA, J. C. D.; AVILA, S. L.",
+          "candidato": "Guilherme Ramalho de Oliveira",
+          "citacao_completa": "SALLES, M. B. C.; SARAIVA, J. C. D.; AVILA, S. L. . Participação em banca de Guilherme Ramalho de Oliveira. Análise da flexibilidade operativa do sistema elétrico brasileiro no contexto da integração de fontes renováveis prevista no plano decenal. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Previsão de Geração Fotovoltaica por Perceptron Multicamadas com base em Geoposicionamento e dados Metereológicos",
+          "membros": "ORTMANN, M.; J. Lago; FERNANDES, R. C.; PICA, C. Q.; AVILA, S. L.",
+          "candidato": "Neimar de Almeida Oliva",
+          "citacao_completa": "ORTMANN, M.; J. Lago; FERNANDES, R. C.; PICA, C. Q.; AVILA, S. L. . Participação em banca de Neimar de Almeida Oliva. Previsão de Geração Fotovoltaica por Perceptron Multicamadas com base em Geoposicionamento e dados Metereológicos. 2022. Dissertação (Mestrado em Mestrado Profissional em Sistemas de Energia) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Proposição de metodologia para transcrição automatizada de áudios para centros de operação de energia elétrica",
+          "membros": "AVILA, SERGIO L ; FERNANDES, R. C.; ARANHA NETO, E. A. C.; SALLES, M. B. C.; NABARRETE, L. M.",
+          "candidato": "Adrisson Consoni Moreira",
+          "citacao_completa": "AVILA, SERGIO L ; FERNANDES, R. C.; ARANHA NETO, E. A. C.; SALLES, M. B. C.; NABARRETE, L. M.. Participação em banca de Adrisson Consoni Moreira. Proposição de metodologia para transcrição automatizada de áudios para centros de operação de energia elétrica. 2021. Dissertação (Mestrado em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Desenvolvimento da Descrição de Especificação de Sistemas de Proteção, Supervisão e Controle para Funções de Transmissão Conforme a IEC 61850",
+          "membros": "TENFEN, D.; ORTMANN, M.; RODRIGUES, M. A. M.; MORETO, M.; AVILA, S. L.",
+          "candidato": "Mateus Alexandrino",
+          "citacao_completa": "TENFEN, D.; ORTMANN, M.; RODRIGUES, M. A. M.; MORETO, M.; AVILA, S. L. . Participação em banca de Mateus Alexandrino. Desenvolvimento da Descrição de Especificação de Sistemas de Proteção, Supervisão e Controle para Funções de Transmissão Conforme a IEC 61850. 2021. Dissertação (Mestrado em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Caracterização de Protocolo de Dosimetria Interna para Planejamento Individualizado de Iodoterapia",
+          "membros": "CAMOZZATO, T. C.; DOROW, P. F.; ZOTTIS, A. D.; HUNH, A.; AVILA, S. L.",
+          "candidato": "Caio Vinicius de Oliveira",
+          "citacao_completa": "CAMOZZATO, T. C.; DOROW, P. F.; ZOTTIS, A. D.; HUNH, A.; AVILA, S. L. . Participação em banca de Caio Vinicius de Oliveira. Caracterização de Protocolo de Dosimetria Interna para Planejamento Individualizado de Iodoterapia. 2020. Dissertação (Mestrado em Mestrado Profissional em Proteção Radiológica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Metodologia para dimensionamento do projeto dieletrico de transformadores",
+          "membros": "; CARPES JR, Walter P; AVILA, S. L. ;",
+          "candidato": "Odirlan Iaronka",
+          "citacao_completa": "; CARPES JR, Walter P; AVILA, S. L. ; . Participação em banca de Odirlan Iaronka. Metodologia para dimensionamento do projeto dieletrico de transformadores. 2019. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Simulação Multifísica dos Efeitos de Descargas Atmosféricas em Materiais Compósitos de Fibra de Carbono",
+          "membros": "AVILA, S. L. ; TRAVASSOS, X. L.; PAIVA, K. V.; SOETHE, V. L.; POSSAMAI, T. S.",
+          "candidato": "Diego Bonkowski de La Sierra Audiffred",
+          "citacao_completa": "AVILA, S. L. ; TRAVASSOS, X. L.; PAIVA, K. V.; SOETHE, V. L.; POSSAMAI, T. S.. Participação em banca de Diego Bonkowski de La Sierra Audiffred. Simulação Multifísica dos Efeitos de Descargas Atmosféricas em Materiais Compósitos de Fibra de Carbono. 2018. Dissertação (Mestrado em Engenharia e Ciências Mecânicas) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Projeto de dispositivos eletromagnéticos de concentração de fluxo a partir de otimização de fontes de campos magnéticos: um estudo de caso baseado em arranjos de halback",
+          "membros": "; CARPES JR, Walter P; ; ; AVILA, S. L.",
+          "candidato": "Adriano Oliveira Pires",
+          "citacao_completa": "; CARPES JR, Walter P; ; ; AVILA, S. L. . Participação em banca de Adriano Oliveira Pires. Projeto de dispositivos eletromagnéticos de concentração de fluxo a partir de otimização de fontes de campos magnéticos: um estudo de caso baseado em arranjos de halback. 2017. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Aplicação de Algoritmo Genético no Desenvolvimento de Projetos de Transformadores a Oleo",
+          "membros": "S H L Cabral;",
+          "candidato": "Rodrigo Bauer",
+          "citacao_completa": "S H L Cabral; . Participação em banca de Rodrigo Bauer. Aplicação de Algoritmo Genético no Desenvolvimento de Projetos de Transformadores a Oleo. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Fundação Universidade Regional de Blumenau."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Modelo Matemático de Predição de Correntes de Fuga em Isoladores de Distribuição Classe 25 kV",
+          "membros": "MEYER, L. H.;",
+          "candidato": "Milton Augusto Pinotti",
+          "citacao_completa": "MEYER, L. H.; . Participação em banca de Milton Augusto Pinotti. Modelo Matemático de Predição de Correntes de Fuga em Isoladores de Distribuição Classe 25 kV. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Fundação Universidade Regional de Blumenau."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Técnicas de taxa de transmissão adaptativa para redes de sensores sem fio",
+          "membros": "; SCHNEIDER, C. A.; COBRA, D. T. Q.; DONATELLI, G. D.",
+          "candidato": "Alexandre Marcondes",
+          "citacao_completa": "; SCHNEIDER, C. A.; COBRA, D. T. Q.; DONATELLI, G. D.. Participação em banca de Alexandre Marcondes. Técnicas de taxa de transmissão adaptativa para redes de sensores sem fio. 2009. Dissertação (Mestrado em Engenharia Mecânica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Efficient placement of offshore substation to reduce infrastructure and transmission line cost",
+          "membros": "SALLES, MAURICIO B. C.; LUCIANO AVILA, SÉRGIO ; PEREIRA JUNIOR, B. R.; ALMEIDA, M. C.; GEREMIA, M.",
+          "candidato": "Muhammad Zubair",
+          "citacao_completa": "SALLES, MAURICIO B. C.; LUCIANO AVILA, SÉRGIO ; PEREIRA JUNIOR, B. R.; ALMEIDA, M. C.; GEREMIA, M.. Participação em banca de Muhammad Zubair. Efficient placement of offshore substation to reduce infrastructure and transmission line cost. 2026. Tese (Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Mathematical modeling and computational simulation of multiphase transport and structural deformation of porous food during microwave vaccum drying",
+          "membros": "TELEKEN, J. T.; REIS JUNIOR, N. C.; GONZALEZ, S. Y. G.; LAURINDO, J. B.; AVILA, S. L.",
+          "candidato": "Ana Augusta Salvador",
+          "citacao_completa": "TELEKEN, J. T.; REIS JUNIOR, N. C.; GONZALEZ, S. Y. G.; LAURINDO, J. B.; AVILA, S. L. . Participação em banca de Ana Augusta Salvador. Mathematical modeling and computational simulation of multiphase transport and structural deformation of porous food during microwave vaccum drying. 2023. Tese (Doutorado em Engenharia de Alimentos) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Efficient placement of offshore substation to reduce infrastructure and transmission line cost",
+          "membros": "SALLES, M. B. C.; MONARO, R. M.; AVILA, S. L.",
+          "candidato": "Muhammad Zubair",
+          "citacao_completa": "SALLES, M. B. C.; MONARO, R. M.; AVILA, S. L. . Participação em banca de Muhammad Zubair. Efficient placement of offshore substation to reduce infrastructure and transmission line cost. 2024. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2021,
+          "titulo": "A Novel Methodology for Losses Calculation of HVDC Transformers Winding",
+          "membros": "SALLES, M. B. C.; ALVARENGA, B.; AVILA, S. L.",
+          "candidato": "Marcos Veloso Czernorucki",
+          "citacao_completa": "SALLES, M. B. C.; ALVARENGA, B.; AVILA, S. L. . Participação em banca de Marcos Veloso Czernorucki. A Novel Methodology for Losses Calculation of HVDC Transformers Winding. 2021. Exame de qualificação (Doutorando em Doutorado em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Detecção e avaliação de faltas em geradores sincronos por meio de oscilografias de harmônicos de campo magnético externo",
+          "membros": "AVILA, S. L. ; ; ; SILVA JUNIOR, P. A.; CARPES JR, Walter P; NAU, S. L.",
+          "candidato": "Helton Fernando dos Santos",
+          "citacao_completa": "AVILA, S. L. ; ; ; SILVA JUNIOR, P. A.; CARPES JR, Walter P; NAU, S. L.. Participação em banca de Helton Fernando dos Santos. Detecção e avaliação de faltas em geradores sincronos por meio de oscilografias de harmônicos de campo magnético externo. 2018. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Técnica de Traçado de Raios Associada a Algoritmos Evolutivos para Otimização do Posicionamento de Antenas",
+          "membros": "CARPES JR, Walter P; ; ROCHA, C. A. F.; G. S. Ferreira;",
+          "candidato": "Stevan Grubisic",
+          "citacao_completa": "CARPES JR, Walter P; ; ROCHA, C. A. F.; G. S. Ferreira; . Participação em banca de Stevan Grubisic. Técnica de Traçado de Raios Associada a Algoritmos Evolutivos para Otimização do Posicionamento de Antenas. 2010. Exame de qualificação (Doutorando em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Identificação de falhas de enrolamento do estator em um gerador de indu¸c?ao de turbina e´olica duplamente alimentado por meio da an´alise de assinatura de corrente",
+          "membros": "AVILA, S.L. ; GOMI, E. S.; VELLOSO, B. P.",
+          "candidato": "Rafael Noboro Tominaga",
+          "citacao_completa": "AVILA, S.L. ; GOMI, E. S.; VELLOSO, B. P.. Participação em banca de Rafael Noboro Tominaga. Identificação de falhas de enrolamento do estator em um gerador de indu¸c?ao de turbina e´olica duplamente alimentado por meio da an´alise de assinatura de corrente. 2025. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Desenvolvimento de uma Ferramenta Técnico-Econômica de Transmissão HVAC para Parques Eólicos Offshore no Brasil",
+          "membros": "MONARO, R. M.; AVILA, SERGIO L. ; VIEIRA JUNIOR, J. C. M.",
+          "candidato": "Gustavo Catusso Balbinot",
+          "citacao_completa": "MONARO, R. M.; AVILA, SERGIO L. ; VIEIRA JUNIOR, J. C. M.. Participação em banca de Gustavo Catusso Balbinot. Desenvolvimento de uma Ferramenta Técnico-Econômica de Transmissão HVAC para Parques Eólicos Offshore no Brasil. 2025. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade de São Paulo."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Stocks prediction model based on textual data and technical analysis: An ensemble of Natural Language Processors, Long Short-Term Memory and Transformers",
+          "membros": "ANDRADE JUNIOR, P. P.; LONDERO, D.; ALBANI, V.; AVILA, S. L.",
+          "candidato": "Raphael Paulo Beal Piovezan",
+          "citacao_completa": "ANDRADE JUNIOR, P. P.; LONDERO, D.; ALBANI, V.; AVILA, S. L. . Participação em banca de Raphael Paulo Beal Piovezan. Stocks prediction model based on textual data and technical analysis: An ensemble of Natural Language Processors, Long Short-Term Memory and Transformers. 2024. Exame de qualificação (Mestrando em Engenharia e Ciências Mecânicas) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Otimização do portfólio de aquisição e transporte de gás natural sob a perspectiva de uma empresa de distribuição",
+          "membros": "AVILA, S.L. ; GIASSI JUNIOR, P.; PENZ, C.; GEREMIA, M.",
+          "candidato": "Deivity Andrade",
+          "citacao_completa": "AVILA, S.L. ; GIASSI JUNIOR, P.; PENZ, C.; GEREMIA, M.. Participação em banca de Deivity Andrade. Otimização do portfólio de aquisição e transporte de gás natural sob a perspectiva de uma empresa de distribuição. 2024. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Classificação de falhas em engrenagens através de múltiplas ferramentas de inteligência artificial",
+          "membros": "PENZ, C.; AVILA, S.L. ; GIASSI JUNIOR, P.",
+          "candidato": "Gabriella Hagedorn Zaxier",
+          "citacao_completa": "PENZ, C.; AVILA, S.L. ; GIASSI JUNIOR, P.. Participação em banca de Gabriella Hagedorn Zaxier. Classificação de falhas em engrenagens através de múltiplas ferramentas de inteligência artificial. 2024. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Stacking de modelos de deep learning para análise de assinatura de corrente e vibração em máquinas rotativas",
+          "membros": "AVILA, S.L. ; PENZ, C.; SORATO, E.",
+          "candidato": "Gabriel Guilherme Bacca Ferri",
+          "citacao_completa": "AVILA, S.L. ; PENZ, C.; SORATO, E.. Participação em banca de Gabriel Guilherme Bacca Ferri. Stacking de modelos de deep learning para análise de assinatura de corrente e vibração em máquinas rotativas. 2024. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Previsão de Energia Natural Afluente Utilizando Redes Neurais Recorrentes",
+          "membros": "AVILA, S. L. ; PICININ JUNIOR, D.; PENZ, C. A.",
+          "candidato": "Bruna Martini Duarte",
+          "citacao_completa": "AVILA, S. L. ; PICININ JUNIOR, D.; PENZ, C. A.. Participação em banca de Bruna Martini Duarte. Previsão de Energia Natural Afluente Utilizando Redes Neurais Recorrentes. 2023. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Desvio de obstáculos por agentes autônomos em drones: uma abordagem com aprendizado por imitação",
+          "membros": "AVILA, S. L. ; MEDEIROS, L. S.; PENZ, C. A.",
+          "candidato": "Fernando Vasata e Thiago Haigerti Bertoldi",
+          "citacao_completa": "AVILA, S. L. ; MEDEIROS, L. S.; PENZ, C. A.. Participação em banca de Fernando Vasata e Thiago Haigerti Bertoldi. Desvio de obstáculos por agentes autônomos em drones: uma abordagem com aprendizado por imitação. 2023. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Técnicas de inteligência artificial para detecção de fraudes em transações de cartões de crédito",
+          "membros": "GIASSI JUNIOR, P.; PENZ, C.; AVILA, S. L.",
+          "candidato": "Alexsandro Gehlen",
+          "citacao_completa": "GIASSI JUNIOR, P.; PENZ, C.; AVILA, S. L. . Participação em banca de Alexsandro Gehlen. Técnicas de inteligência artificial para detecção de fraudes em transações de cartões de crédito. 2023. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Machine Learning Operations: fluxo de aprendizado contínuo para transcrição de áudio em atendimento ao cliente com Deep Learning",
+          "membros": "GIASSI JUNIOR, P.; STIVANELLO, M. E.; AVILA, S. L.",
+          "candidato": "Lucas Gabriel Coliado Bandeira",
+          "citacao_completa": "GIASSI JUNIOR, P.; STIVANELLO, M. E.; AVILA, S. L. . Participação em banca de Lucas Gabriel Coliado Bandeira. Machine Learning Operations: fluxo de aprendizado contínuo para transcrição de áudio em atendimento ao cliente com Deep Learning. 2023. Monografia (Aperfeiçoamento/Especialização em Especialização em Computação Científica para a Industria) - Instituto Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": ".Acordo de Paris, mercados de crédito de carbono e avaliação de projetos por fontes renováveis: proposição de um modelo multicriterial de apoio à decisão",
+          "membros": "SICA, E.T.; SUSKI, C.; ÁVILA, S. L.",
+          "candidato": "Matheus Verani Gonsalves",
+          "citacao_completa": "SICA, E.T.; SUSKI, C.; ÁVILA, S. L. . Participação em banca de Matheus Verani Gonsalves.Acordo de Paris, mercados de crédito de carbono e avaliação de projetos por fontes renováveis: proposição de um modelo multicriterial de apoio à decisão. 2026. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Detecção de defeitos em componentes de placas de circuito impresso com aprendizado profundo",
+          "membros": "AVILA, S.L. ; STIVANELLO, M. E.; MACEDO, G. B. N.",
+          "candidato": "Lucas Souza Oliveira Mendonça",
+          "citacao_completa": "AVILA, S.L. ; STIVANELLO, M. E.; MACEDO, G. B. N.. Participação em banca de Lucas Souza Oliveira Mendonça.Detecção de defeitos em componentes de placas de circuito impresso com aprendizado profundo. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Funcionalidade e potencialidades da banacada de ensaios de máquinas elétricas girantes para p ensino e a inovação tecnológica",
+          "membros": "AVILA, S.L. ; LUCIO, J. C. M.; PADILHA, J. B.",
+          "candidato": "Tiago Fernando Pegoraro",
+          "citacao_completa": "AVILA, S.L. ; LUCIO, J. C. M.; PADILHA, J. B.. Participação em banca de Tiago Fernando Pegoraro.Funcionalidade e potencialidades da banacada de ensaios de máquinas elétricas girantes para p ensino e a inovação tecnológica. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Simulation and corrective maintenance trials of worm drives in pitch control systems: a proof of concept considering track position and thermal expansion through laser additive manufacturing",
+          "membros": "HAMA-SALEH, R.; TEICHMANN, E. W.; E. T. Sica; ÁVILA, S. L.",
+          "candidato": "Joao Vitor Russi Benedet",
+          "citacao_completa": "HAMA-SALEH, R.; TEICHMANN, E. W.; E. T. Sica; ÁVILA, S. L. . Participação em banca de Joao Vitor Russi Benedet.Simulation and corrective maintenance trials of worm drives in pitch control systems: a proof of concept considering track position and thermal expansion through laser additive manufacturing. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Análise preliminar da integração do hidrogênio para mobilidade elétrica: um estudo de exploração de eletropostos off-grid",
+          "membros": "E. T. Sica; ÁVILA, S. L. ; BRESOLIN, A. A.",
+          "candidato": "Enzo da Silva Rosa",
+          "citacao_completa": "E. T. Sica; ÁVILA, S. L. ; BRESOLIN, A. A.. Participação em banca de Enzo da Silva Rosa.Análise preliminar da integração do hidrogênio para mobilidade elétrica: um estudo de exploração de eletropostos off-grid. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Estudo sobre a contribuição de modelo oculto de Markov à previsão de preço de eletricidade",
+          "membros": "E. T. Sica; CESAR CORDEIRO VIEIRA, PEDRO; ÁVILA, S. L.",
+          "candidato": "Karem Vieira Paes de Lima",
+          "citacao_completa": "E. T. Sica; CESAR CORDEIRO VIEIRA, PEDRO; ÁVILA, S. L. . Participação em banca de Karem Vieira Paes de Lima.Estudo sobre a contribuição de modelo oculto de Markov à previsão de preço de eletricidade. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2025,
+          "titulo": ".Estimativa da vida remanescente de rolamentos de alta rotação em aerogeradores a partir de séries temporais de vibração mecânica",
+          "membros": "AVILA, S.L. ; PADILHA, J. B.; MEDEIROS, L. S.",
+          "candidato": "Gustavo de Carvalho Estácio",
+          "citacao_completa": "AVILA, S.L. ; PADILHA, J. B.; MEDEIROS, L. S.. Participação em banca de Gustavo de Carvalho Estácio.Estimativa da vida remanescente de rolamentos de alta rotação em aerogeradores a partir de séries temporais de vibração mecânica. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".A comptetitividade do hidrogênio como vetor energético para sistemas econômicos produtivos frente aos recursos energéticos distribuidos",
+          "membros": "E. T. Sica; LIRA, C.; SENA, F.; AVILA, S. L.",
+          "candidato": "Vinicius Nunes Folganes",
+          "citacao_completa": "E. T. Sica; LIRA, C.; SENA, F.; AVILA, S. L. . Participação em banca de Vinicius Nunes Folganes.A comptetitividade do hidrogênio como vetor energético para sistemas econômicos produtivos frente aos recursos energéticos distribuidos. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2024,
+          "titulo": ".Simulação de uma planta típica de produção de hidrogênio com eletrolisador PEM suprida por geração solar fotovoltaica, eolioelétrica e híbrida",
+          "membros": "E. T. Sica; LIRA, C.; SENA, F.; AVILA, S. L.",
+          "candidato": "Santiago Silveira Barbosa",
+          "citacao_completa": "E. T. Sica; LIRA, C.; SENA, F.; AVILA, S. L. . Participação em banca de Santiago Silveira Barbosa.Simulação de uma planta típica de produção de hidrogênio com eletrolisador PEM suprida por geração solar fotovoltaica, eolioelétrica e híbrida. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Estudo do desenvolvimento de portal com controle de sentido de movimento baseado na tecnologia RFID",
+          "membros": "SORATO, E.; BRESOLIN, A. A.; ÁVILA, S. L.",
+          "candidato": "Alex Ferreira Estácio",
+          "citacao_completa": "SORATO, E.; BRESOLIN, A. A.; ÁVILA, S. L. . Participação em banca de Alex Ferreira Estácio.Estudo do desenvolvimento de portal com controle de sentido de movimento baseado na tecnologia RFID. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Análise de métodos de decomposição estrutural energo-econômica para promover a economia do hidrogênio verde e incorporação ao planejamento integrado de recursos",
+          "membros": "E. T. Sica; FEDRIGO, N. S.; ÁVILA, S. L.",
+          "candidato": "Victor Henrique Vicente",
+          "citacao_completa": "E. T. Sica; FEDRIGO, N. S.; ÁVILA, S. L. . Participação em banca de Victor Henrique Vicente.Análise de métodos de decomposição estrutural energo-econômica para promover a economia do hidrogênio verde e incorporação ao planejamento integrado de recursos. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Previsão de energia armazenada (EAR) com redes neurais recorrentes",
+          "membros": "AVILA, S. L. ; E. T. Sica; FERRI, G. G. B.",
+          "candidato": "Gabryel Luiz de Aguiar Paese",
+          "citacao_completa": "AVILA, S. L. ; E. T. Sica; FERRI, G. G. B.. Participação em banca de Gabryel Luiz de Aguiar Paese.Previsão de energia armazenada (EAR) com redes neurais recorrentes. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Avaliação multicriterial de projetos de obras de manutenção no pé e na ombreira de barragens hidrualicas",
+          "membros": "E. T. Sica; TENFEN, D.; ÁVILA, S. L. ; LIMA, R. C.",
+          "candidato": "Ricardo Suzin Marini",
+          "citacao_completa": "E. T. Sica; TENFEN, D.; ÁVILA, S. L. ; LIMA, R. C.. Participação em banca de Ricardo Suzin Marini.Avaliação multicriterial de projetos de obras de manutenção no pé e na ombreira de barragens hidrualicas. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Investigação teórica-experimental sobre técnicas de análise de vibrações para o monitoramento de desbalanceamento em máquinas elétricas de baixa rotação",
+          "membros": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LILA, F.",
+          "candidato": "Gabriel Pacheco da Costa",
+          "citacao_completa": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LILA, F.. Participação em banca de Gabriel Pacheco da Costa.Investigação teórica-experimental sobre técnicas de análise de vibrações para o monitoramento de desbalanceamento em máquinas elétricas de baixa rotação. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Identificação do tipo e da severidade do desbalanceamento de rotores por meio da análise da assinatura de corrente com algoritmos de aprendizado de máquina multiclasses",
+          "membros": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LILA, F.; SORATO, E.",
+          "candidato": "Rafael Noboro Tominaga",
+          "citacao_completa": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LILA, F.; SORATO, E.. Participação em banca de Rafael Noboro Tominaga.Identificação do tipo e da severidade do desbalanceamento de rotores por meio da análise da assinatura de corrente com algoritmos de aprendizado de máquina multiclasses. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Diagnóstico de desbalanceamento em máquinas rotativas usando algoritmos de máquina sobre orbitais de vibração",
+          "membros": "LUCIANO AVILA, SÉRGIO ; SILVEIRA, J.; MATSUO, T. K.",
+          "candidato": "Leonardo Jablon da Silva",
+          "citacao_completa": "LUCIANO AVILA, SÉRGIO ; SILVEIRA, J.; MATSUO, T. K.. Participação em banca de Leonardo Jablon da Silva.Diagnóstico de desbalanceamento em máquinas rotativas usando algoritmos de máquina sobre orbitais de vibração. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Técnicas de medição de temperatura do rotor em máquinas elétricas girantes",
+          "membros": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LUCIO, J. C. M.; KNOLSEISEN, G.",
+          "candidato": "Marcos Rodrigues Granado",
+          "citacao_completa": "LUCIANO AVILA, SÉRGIO ; PENZ, C.; LUCIO, J. C. M.; KNOLSEISEN, G.. Participação em banca de Marcos Rodrigues Granado.Técnicas de medição de temperatura do rotor em máquinas elétricas girantes. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Análise de grandezas elétricas para identificação do desbalanceamento de massa em cargas acopladas a motores de indução trifásicos alimentados por inversor",
+          "membros": "PENZ, C.; J. Lago; E. Kassick; AVILA, S. L.",
+          "candidato": "Jonas Fortunato Honorato",
+          "citacao_completa": "PENZ, C.; J. Lago; E. Kassick; AVILA, S. L. . Participação em banca de Jonas Fortunato Honorato.Análise de grandezas elétricas para identificação do desbalanceamento de massa em cargas acopladas a motores de indução trifásicos alimentados por inversor. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Validação de Circuito Eletrônico para Hardware de Monitoramento em Geradores de Energia Elétrica",
+          "membros": "MIRANDA, F. P. H.;",
+          "candidato": "Eric Marques Fortunato",
+          "citacao_completa": "MIRANDA, F. P. H.; . Participação em banca de Eric Marques Fortunato.Validação de Circuito Eletrônico para Hardware de Monitoramento em Geradores de Energia Elétrica. 2015. Trabalho de Conclusão de Curso (Graduação em Sistemas Eletrônicos) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Proposta de Metodologia para Seleção Ótima de Potência de PCH's Via Algoritimos Genéticos Multiobjetivos e Tomada de Decisão Multicritério",
+          "membros": "E. T. Sica; ; C. Tessaro",
+          "candidato": "Tiago Marcos Golfetto",
+          "citacao_completa": "E. T. Sica; ; C. Tessaro. Participação em banca de Tiago Marcos Golfetto.Proposta de Metodologia para Seleção Ótima de Potência de PCH's Via Algoritimos Genéticos Multiobjetivos e Tomada de Decisão Multicritério. 2011. Trabalho de Conclusão de Curso (Graduação em Gestão de Sistemas de Energia) - Instituto Federal de Santa Catarina."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Arquitetura e Proposta de Negocio em Sistemas Power Line Communication",
+          "membros": "",
+          "candidato": "Aldair Silva",
+          "citacao_completa": ". Participação em banca de Aldair Silva.Arquitetura e Proposta de Negocio em Sistemas Power Line Communication. 2008. Trabalho de Conclusão de Curso (Graduação em Telecomunicações) - Centro de Tecnologia em Automação e Informática."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Sistema Automatizado Robo Aspirador de Po",
+          "membros": "",
+          "candidato": "Gabriel Devenz",
+          "citacao_completa": ". Participação em banca de Gabriel Devenz.Sistema Automatizado Robo Aspirador de Po. 2008. Trabalho de Conclusão de Curso (Graduação em Automação Industrial) - Centro de Tecnologia em Automação e Informática."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Padrões de Transmissões Móveis para TV Digital: uma Análise da Melhor Solução",
+          "membros": "OTTE, M.;",
+          "candidato": "Clécio Marquetti e Feliphe Winter",
+          "citacao_completa": "OTTE, M.; . Participação em banca de Clécio Marquetti e Feliphe Winter.Padrões de Transmissões Móveis para TV Digital: uma Análise da Melhor Solução. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia Telematica) - Universidade do Sul de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "AVILA, S. L. ; PRADO, R. N.; SALGADO, R. S.; BAMPI, S.; VIEIRA JUNIOR, J. B.; MONTORO, C. G.. Concurso Público para Prof",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "AVILA, S. L. ; PRADO, R. N.; SALGADO, R. S.; BAMPI, S.; VIEIRA JUNIOR, J. B.; MONTORO, C. G.. Concurso Público para Professor Adjunto A do Departamento de Engenharia Elétrica e Eletrônica da UFSC. 2017. Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": ". Concurso Ideias Inovadoras FAPESB 2012. 2012. Fundação de Amparo à Pesquisa do Estado da Bahia.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Concurso Ideias Inovadoras FAPESB 2012. 2012. Fundação de Amparo à Pesquisa do Estado da Bahia."
+        }
+      ]
+    }
+  ]
+}

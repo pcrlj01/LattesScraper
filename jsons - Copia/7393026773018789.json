@@ -1,0 +1,303 @@
+{
+  "name": "André Milhorance de Castro",
+  "lattes_id": "7393026773018789",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "BORN, JOSIANE L. ; MILHORANCE, ANDRÉ ; ASSIS, FERNANDO. A. ; LEITE DA SILVA, ARMANDO M. . Elite-based cross-entropy method for solving transmission expansion planning. APPLIED SOFT COMPUTING , v. 200, p. 115441, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.asoc.2026.115441"
+        },
+        {
+          "texto": "LIMA, DELBERIS A. ; FILHO, ARTHUR M. ; TEIXEIRA, RAFAEL S.D. ; MILHORANCE, ANDRÉ . Transactive energy based on virtual power plant and ancillary services: A real case application in Brazil after the Law 14.300/2022. JOURNAL OF ENERGY STORAGE , v. 90, p. 111761, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.est.2024.111761"
+        },
+        {
+          "texto": "MANSO, BRUNO A. S. ; LEITE DA SILVA, ARMANDO M. ; MILHORANCE, ANDRÉ ; ASSIS, FERNANDO A. . Composite reliability assessment of systems with grid-edge renewable resources via quasi-sequential Monte Carlo and cross-entropy techniques. IET Generation Transmission & Distribution , v. 18, p. 326-336, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1049/gtd2.13000"
+        },
+        {
+          "texto": "STREET, ALEXANDRE ; DA SILVA, ARMANDO LEITE ; FERNANDES, CRISTIANO ; MILHORANCE, ANDRÉ ; TELLES, ERICA ; BODIN, GUILHERME ; SAAVEDRA, RAPHAEL . Methods for optimal risk-averse demand contracting strategy in distribution companies: A Brazilian case study. ELECTRIC POWER SYSTEMS RESEARCH , v. 213, p. 108501, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108501"
+        },
+        {
+          "texto": "MILHORANCE, ANDRE ; SILVA, ARMANDO M. LEITE DA . Optimal Contracting of Transmission System Usage Combined with Subtransmission Planning via Cross-Entropy Method. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 38, p. 4881-4889, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2022.3217684"
+        },
+        {
+          "texto": "LEITE DA SILVA, ARMANDO M. ; DE CASTRO, ANDRE MILHORANCE . Risk Assessment in Probabilistic Load Flow via Monte Carlo Simulation and Cross-Entropy Method. IEEE Transactions on Power Systems , v. 34, p. 1-1, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2018.2869769"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "PENNA, P. ; MILHORANCE, A. ; Leite da Siva, A.M. ; JARDIM, JORGE L. . Fluxo de Potência Probabilístico em Redes Elétricas com Alta Penetração de Energias Renováveis via Simulação Monte Carlo Quase Sequencial. In: XVI Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica - SEPOPE, 2026, Foz do Iguaçu, PR. Anais do XVI Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica - SEPOPE, 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MAINENTE, B. ; CONTI, H. ; CASTRO, ANDRE M. . Battery Energy Storage Scheduling for Economic and Grid-Support Services in Distribution Networks via Receding Horizon Control. In: 17th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2026), 2026, Coimbra, Portugal. Anais do 17th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2026), 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, L. ; MILHORANCE, A. . Impactos da Mini e Microgeração Distribuída na Contratação Ótima Estocástica dos Montantes de Uso do Sistema de Transmissão. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025, São João Del-Rei. Anais do XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BORBA, D. L. ; MILHORANCE, A. ; Leite da Siva, A.M. ; CASTRO, J. F. C. . Dimensionamento da Reserva de Potência Operativa do Sistema Elétrico Brasileiro Utilizando Simulação Monte Carlo. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025, São João Del-Rei. Anais do XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MENDES, V. L. S. ; Leite da Siva, A.M. ; COSTA, J. G. C. ; MILHORANCE, A. . Impacto da Transferência de Carga na Localização Ótima de Transformadores Sobressalentes e Subestações Móveis de Distribuição via Algoritmo Genético e Simulação Monte Carlo. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025, São João Del-Rei. Anais do XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "MESQUITA, R. S. ; COELHO, A. J. C. ; ASSIS, F. A. ; MOURA, R. A. R. ; Leite da Siva, A.M. ; MILHORANCE, A. . Análise de Violação de Limites Operativos em Sistemas Elétricos via Fluxo de Potência Probabilístico e Unscented Transform. In: XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025. Anais do XI Simpósio Brasileiro de Sistemas Elétricos (SBSE), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "NASCIMENTO, G. ; MILHORANCE, ANDRE . Risk Assessment and Curtailment Expectations for Connecting Renewables to the Bulk System. In: 2025 IEEE Electrical Power and Energy Conference (EPEC), 2025, Waterloo, ON, Canada. 2025 IEEE Electrical Power and Energy Conference (EPEC), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, D. A. ; MASSARI FILHO, A. ; SAADI, R. ; ATENCIA, V. ; MILHORANCE, ANDRE . Lições aprendidas com a implementação de uma Usina Virtual na Energisa Tocantins: modelo de negócios, resultados práticos e próximos passos. In: XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE 2025), 2025, Recife. Anais do XXVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE 2025), 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "RIBEIRO, D. ; MILHORANCE, A. . Avaliação Probabilística de Impacto de Acesso de Geradores Renováveis ao Sistema de Transmissão. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro, RJ. Anais do XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FARIA, P. D. ; MILHORANCE, A. . Avaliação dos Impactos da Sazonalidade na Precisão de Equivalentes Estáticos de Redes via Fluxo de Potência Probabilístico. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro, RJ. Anais do XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MANSO, B. A. S. ; ASSIS, F. A. ; Leite da Siva, A.M. ; MILHORANCE, A. . Otimização do Processo de Avaliação da Confiabilidade de Sistemas Compostos por Geração e Transmissão. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro, RJ. Anais do XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MESQUITA, R. S. ; COELHO, A. J. C. ; ASSIS, F. A. ; MOURA, R. A. R. ; SCHROEDER, M. A. O. ; Leite da Siva, A.M. ; MILHORANCE, A. . Reconstrução de Distribuições de Probabilidade na Solução de Fluxo de Potência Probabilístico via Técnica Unscented Transform. In: XXV Congresso Brasileiro de Automática (CBA 2024), 2024, Rio de Janeiro, RJ. Anais do XXV Congresso Brasileiro de Automática (CBA 2024), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MANSO, BRUNO A. S. ; SILVA, ARMANDO M. LEITE DA ; ASSIS, FERNANDO A. ; MILHORANCE, ANDRÉ . Binary Logistic Regression and Cross-Entropy Techniques Applied to Composite Reliability Evaluation of Power Systems. In: 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP), 2024, Budapest. 2024 22nd International Conference on Intelligent Systems Applications to Power Systems (ISAP), 2024. p. 1.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/ISAP63260.2024.10744298"
+        },
+        {
+          "texto": "LIMA, D. A. ; MASSARI FILHO, A. ; TEIXEIRA, R. D. S. ; ATENCIA, V. ; MILHORANCE, A. . Valoração de Serviços Ancilares em Sistemas de Distribuição para Usina Virtual de Energia. In: Congresso Brasileiro de Recursos Energéticos Distribuidos (CBRED 2024), 2024, Uberlândia. Anais do Congresso Brasileiro de Recursos Energéticos Distribuidos (CBRED 2024), 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MANSO, B. A. S. ; Leite da Siva, A.M. ; MILHORANCE, A. ; ASSIS, F. A. . Confiabilidade de Sistemas Compostos via Simulação Monte Carlo Não Sequencial e Entropia Cruzada: Avaliação por Área e Barramento. In: Simpósio Brasileiro de Sistemas Elétricos (SBSE) - 2023, 2023, Manaus, AM. Anais do Simpósio Brasileiro de Sistemas Elétricos (SBSE) 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, T. R. B. ; MILHORANCE, A. ; Leite da Siva, A.M. . Estimativa de Riscos em Redes Elétricas Considerando Fontes Renováveis e Contingências de Geração e Transmissão via Fluxo de Potência Probabilístico. In: Simpósio Brasileiro de Sistemas Elétricos (SBSE) - 2023, 2023, Manaus, AM. Anais do Simpósio Brasileiro de Sistemas Elétricos (SBSE) - 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, D. A. ; TEIXEIRA, R. D. S. ; MASSARI FILHO, A. ; VALENTE, K. M. ; MILHORANCE, A. ; GOULART, G. M. . Avaliação abrangente de novos modelos de negócios com Recursos Energéticos Distribuídos no Brasil após a Lei 14.300/2022. In: Seminário Nacional de Distribuição de Energia Elétrica (SENDI) 2023, 2023, Vitória, ES. Anais do SENDI 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BORGES, T. R. ; MILHORANCE, A. ; Leite da Siva, A.M. . Metodologia para Avaliação da Continuidade do Serviço de Distribuição em Locais com Restrição de Acesso por Registros de Violência,. In: Seminário Nacional de Distribuição de Energia Elétrica (SENDI) 2023, 2023, Vitória, ES. Anais do SENDI 2023, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, DELBERIS A. ; TEIXEIRA, RAFAEL S. D. ; FILHO, ARTHUR M. ; VALENTE, KARINA M. ; MILHORANCE, ANDRÉ ; TEIXEIRA, WENDELL W. ; GOULART, GUSTAVO M. ; TEIXEIRA, ALEXANDRE M. . Toward a New Transactive Energy System with Distributed Energy Resources in Brazil: A Real Case Application. In: 2023 IEEE PES Innovative Smart Grid Technologies Latin America (ISGTLA), 2023, San Juan. 2023 IEEE PES Innovative Smart Grid Technologies Latin America (ISGT-LA), 2023. p. 235.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA56058.2023.10328261"
+        },
+        {
+          "texto": "STREET, A. ; Leite da Siva, A.M. ; COELHO, C. A. ; TELLES, E. ; MILHORANCE, A. ; BODIN, G. ; SAAVEDRA, RAPHAEL . Methods for Optimal Risk-Averse Demand Contracting Strategy in Distribution Companies: A Brazilian Case Study. In: XXII PSCC - Power Systems Computation Conference, 2022, Porto, Portugal.. Procs. of the 2022 PSCC, June 27 - July 1, 2022, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MILHORANCE, ANDRE ; LEITE DA SILVA, ARMANDO M. ; TELLES, ERICA ; STREET, ALEXANDRE . Risk Assessment for the Amount of Transmission System Usage Penalties via Probabilistic Load Flow. In: 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020, Liege. 2020 International Conference on Probabilistic Methods Applied to Power Systems (PMAPS), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/PMAPS47429.2020.9183692"
+        },
+        {
+          "texto": "TELLES, E. ; MILHORANCE, ANDRÉ ; STREET, A. ; Leite da Siva, A.M. . Contratação do uso do sistema de transmissão com aversão a risco considerando incertezas das redes elétricas. In: XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica. In: XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. Anais do XXV Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, LUCAS R. ; DA SILVA, ARMANDO M. LEITE ; JARDIM, JORGE L. ; CASTRO, ANDRE M. ; SILVA, NATASHA S. M. . A method to compute flexible static equivalents for very large power networks. In: 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018, Niteroi. 2018 Simposio Brasileiro de Sistemas Eletricos (SBSE), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/sbse.2018.8395897"
+        },
+        {
+          "texto": "TELLES, E. ; SAAVEDRA, R. ; BODIN, G. ; SILVA, T. ; MILHORANCE, A. ; COELHO, C. A. ; STREET, A. ; Leite da Siva, A.M. . Estratégia de Contratação do Uso do Sistema de Transmissão com Aversão a Risco. In: 50º SBPO ? Simpósio Brasileiro de Pesquisa Operacional, 2018, Rio de Janeiro. Proceedings of the Brazilian Symposium on Operations Research. Rio de Janeiro: SOBRAPO, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SAAVEDRA, R. ; BODIN, G. ; TELLES, E. ; SILVA, T. ; MILHORANCE, A. ; COELHO, C. A. ; STREET, A. ; Leite da Siva, A.M. . Simulando Cenários de Demanda em Baixa e Alta Frequência em um Framework Unificado - Parte I: Simulação em Baixa Frequência. In: 50º SBPO ? Simpósio Brasileiro de Pesquisa Operacional, 2018, Rio de Janeiro. Proceedings of the Brazilian Symposium on Operations Research. Rio de Janeiro: SOBRAPO, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BODIN, G. ; SAAVEDRA, R. ; TELLES, E. ; SILVA, T. ; MILHORANCE, A. ; COELHO, C. A. ; STREET, A. ; SILVA, A. L. . Simulando Cenários de Demanda em Baixa e Alta Frequência em um Framework Unificado - Parte II: Simulação em Alta Frequência. In: 50º SBPO ? Simpósio Brasileiro de Pesquisa Operacional, 2018, Rio de Janeiro. Proceedings of the Brazilian Symposium on Operations Research. Rio de Janeiro: SOBRAPO, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MILHORANCE, A. ; SILVA, N. S. M. ; TELLES, E. ; Leite da Siva, A.M. ; STREET, A. . CONTRATAÇÃO ÓTIMA DOS MONTANTES DE USO DO SISTEMA DE TRANSMISSÃO VIA EQUIVALENTES ESTÁTICOS FLEXÍVEIS E FLUXO DE POTÊNCIA ESTOCÁSTICO. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.20906/cps/cba2018-0921"
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "MAINENTE, B. ; CONTI, H. ; CASTRO, ANDRE M. . Battery Energy Storage Scheduling for Economic and Grid-Support Services in Distribution Networks via Receding Horizon Control. 2026. (Apresentação de Trabalho/Congresso).",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINS, L. ; MILHORANCE, A. . Impactos da Mini e Microgeração Distribuída na Contratação Ótima Estocástica dos Montantes de Uso do Sistema de Transmissão. 2025. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "BORBA, D. L. ; MILHORANCE, A. ; Leite da Siva, A.M. ; CASTRO, J. F. C. . Dimensionamento da Reserva de Potência Operativa do Sistema Elétrico Brasileiro Utilizando Simulação Monte Carlo. 2025. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "NASCIMENTO, G. ; MILHORANCE, A. . Risk Assessment and Curtailment Expectations for Connecting Renewables to the Bulk System. 2025. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "RIBEIRO, D. ; MILHORANCE, A. . Avaliação Probabilística do Impacto do Acesso de Geradores Renováveis ao Sistema de Transmissão. 2024. (Apresentação de Trabalho/Congresso).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "FARIA, P. D. ; MILHORANCE, A. . Avaliação dos Impactos da Sazonalidade na Precisão de Equivalentes Estáticos de Redes via Fluxo de Potência Probabilístico. 2024. (Apresentação de Trabalho/Congresso).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, T. R. B. ; MILHORANCE, A. ; Leite da Siva, A.M. . Estimativa de Riscos em Redes Elétricas Considerando Fontes Renováveis e Contingências de Geração e Transmissão via Fluxo de Potência Probabilístico. 2023. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MANSO, B. A. S. ; Leite da Siva, A.M. ; MILHORANCE, A. ; ASSIS, F. A. . Confiabilidade de Sistemas Compostos via Simulação Monte Carlo Não Sequencial e Entropia Cruzada: Avaliação por Área e Barramento. 2023. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "MILHORANCE, ANDRE ; Leite da Siva, A.M. ; TELLES, ERICA ; STREET, ALEXANDRE . Risk Assessment for the Amount of Transmission System Usage Penalties via Probabilistic Load Flow. 2020. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "MILHORANCE, A. ; SILVA, N. S. M. ; TELLES, E. ; SILVA, A. L. ; STREET, A. . Contratação Ótima dos Montantes de Uso do Sistema de Transmissão via Equivalentes Estáticos Flexíveis e Fluxo de Potência Estocástico. 2018. (Apresentação de Trabalho/Congresso).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, A. N. C. ; FERREIRA, T. N. ; QUINTANILHA, R. G. S. ; CASTRO, A. M. . Desenvolvimento de uma nova interface gráfica para o ROV LUMA. 2012. (Apresentação de Trabalho/Seminário).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CASTRO, A. M. ; RODRIGUES, A. N. C. . Projeto e Implementação da Interface Gráfica do ROV LUMA.. 2011. (Apresentação de Trabalho/Seminário).",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DIAS, L. F. V. ; FARIA, R. O. ; BOTELHO, P. C. ; CASTRO, A. M. . Rede de sensores sem fio. 2010. (Apresentação de Trabalho/Seminário).",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "RODRIGUES, A. N. C. ; CASTRO, A. M. . Nova Arquitetura da Interface Gráfica do ROV LUMA.. 2010. (Apresentação de Trabalho/Seminário).",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "CASTRO, A. M. . Introdução ao MATLAB. 2011. (Curso de curta duração ministrado/Extensão).",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "ASSIS, F. A.; MOURA, R. A. R.; CASTRO, J. F. C.; MILHORANCE, ANDRÉ ; ALIPIO, R. S.. Participação em banca de Rafael Santana de Mesquita. Fluxo de Potência Probabilístico via Unscented Transform Aplicado na Análise de Riscos Operativos em Sistemas Elétricos. 2026. Dissertação (Mestrado em Engenharia Elétrica (Ufsj / Cefet-Mg)) - Universidade Federal de São João Del-Rei.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "ARAUJO, D. R. R. P.; ARAUJO, L. R.; SILVA JUNIOR, I. C.; MILHORANCE, A. . Participação em banca de Eduardo Mendes Loureiro. Método para Alocação e Operação de Baterias em Sistemas de Distribuição. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "LIMA, D. A.; LIMA, L. M. M.; MENDEZ, O. R. S.; MACIEL, R. S.; MILHORANCE, A. . Participação em banca de Arthur Massari Filho. A Business-Oriented Optimization Model for Low-Voltage Virtual Power Plants Integrating Economic and Ancillary Services Aspects via MINLP. 2025. Tese (Doutorado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio de Janeiro.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Leite da Siva, A.M.; NASCIMENTO, L. C.; COSTA, J. G. C.; CASTRO, J. F. C.; ASSIS, F. A.; MILHORANCE, A. . Participação em banca de Isabela Oliveira Guimarães. Avaliação da Confiabilidade de Sistemas de Distribuição com Inserção de Geração Distribuída via Técnicas de Simulação Monte Carlo. 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, J. G. C.; Leite da Siva, A.M.; ROSA, M. A.; ASSIS, F. A.; CASTRO, J. F. C.; MILHORANCE, A. . Participação em banca de Vênus Líria Silva Mendes. Otimização de Estoques de Transformadores e Subestações Móveis em Sistemas de Potência via Simulação Monte Carlo e Algoritmo Genético. 2024.",
+          "ano": 2024,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,107 @@
+{
+  "name": "Lincoln Herbert Teixeira",
+  "lattes_id": "1482857013771949",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "TEIXEIRA, L.H. ; HUSZÁK, ÁRPÁD . Reinforcement Learning in Path Lifetime Routing Algorithm for VANETs. JOURNAL OF INFORMATION SCIENCE AND ENGINEERING , v. 39, p. 129-147, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.6688/JISE.202301_39(1).0008"
+        },
+        {
+          "texto": "TEIXEIRA, L. H. ; HUSZÁK, ÁRPÁD . NAV2V: Navigation Assisted V2V Routing Protocol for Urban Areas. Journal of Communications , v. 17, p. 74-89, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.12720/jcm.17.2.74-89"
+        },
+        {
+          "texto": "TEIXEIRA, LINCOLN HERBERT ; HUSZÁK, ÁRPÁD . Reinforcement Learning Environment for Advanced Vehicular Ad Hoc Networks Communication Systems. SENSORS , v. 22, p. 4732, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/s22134732"
+        },
+        {
+          "texto": "TEIXEIRA, LINCOLN HERBERT ; HUSZÁK, ÁRPÁD . Service-based network selection in C-ITS vehicular networks. International Journal of Communication Networks and Distributed Systems , v. 26, p. 135, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1504/IJCNDS.2021.113014"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "Eduardo Sassi de Oliveira ; LINCOLN HERBERT TEIXEIRA ; Juliana de Santi . Implementação de Rede Privada 5G Open Source: Uma Análise do Core Open5GS. In: XVII Workshop on Experimental Research for the Future Internet (WPEIF 2026), 2026, Praia do Forte. Anais do XVII Workshop on Experimental Research for the Future Internet (WPEIF 2026), 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA, LINCOLN HERBERT ; HUSZAK, ARPAD . Preemptive Network Selection for V2V Communication. In: 2019 42nd International Conference on Telecommunications and Signal Processing (TSP), 2019, Budapest. 2019 42nd International Conference on Telecommunications and Signal Processing (TSP), 2019. p. 436.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/TSP.2019.8768821"
+        },
+        {
+          "texto": "TEIXEIRA, LINCOLN HERBERT ; HUSZAK, ARPAD . Service-based Interface Selection Scheme for V2V Network Communication. In: IEEE EUROCON 2019 18th International Conference on Smart Technologies, 2019, Novi Sad. IEEE EUROCON 2019 -18th International Conference on Smart Technologies, 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/EUROCON.2019.8861559"
+        },
+        {
+          "texto": "TEIXEIRA, L.H. ; WILLE, E.C. GOMES ; JR., W. GODOY . An Analytical Framework for the Performance Analysis of TCP TS-Prio Protocol. In: Modelling and Simulation, 2010, Banff. IASTED Technology Conferences / 696:MS / 697:CA / 698: WC / 699: EME / 700: SOE. Calgary: ACTAPRESS.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.2316/P.2010.696-093"
+        },
+        {
+          "texto": "HERBERT TEIXEIRA, LINCOLN ; WILLE, EMILIO CARLOS GOMES ; GODOY, WALTER . Evaluation of the TCP TS-Prio protocol using Markovian models. In: 2010 IEEE LatinAmerican Conference on Communications (LATINCOM), 2010, Bogota. 2010 IEEE Latin-American Conference on Communications. p. 1.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/LATINCOM.2010.5640974"
+        },
+        {
+          "texto": "TEIXEIRA, L. H. ; WILLE ; GODOY JÚNIOR . FIXED POINT APPROXIMATION FOR TCP BEHAVIOR IN ROUTERS IMPLEMENTING WFQ SCHEDULING MECHANISMS. In: CSN2008, 2008, Palma De Mallorca. IASTED International Conference on Communication Systems and Networks, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA, L. H. ; WILLE ; GODOY JÚNIOR . Avaliação do Protocolo TCP em Roteadores com Mecanismos WFQ usando o Método do Ponto Fixo. In: SENACITEL 2008, 2008, Valdivia. XIII CONGRESO INTERNACIONAL DE TELECOMUNICACIONES, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; TEIXEIRA, L. H. ; GODOY JÚNIOR ; WILLE ; Reguera, V. A. . Analysis of the WFQ Scheduler in a DiffServ Node loaded by TCP Traffic. In: Convencion Intenacional de Ingenieria Mecanica, Eletrica y Industrial, 2007, Santa Clara. XIII CONVENCIÓN DE INGENIERÍA ELÉCTRICA, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; TEIXEIRA, L. H. ; WILLE ; GODOY JÚNIOR . MPLS Network Using the WFQ Scheduler and Queuing Theory.. In: Convencion Intenacional de Ingenieria Mecanica, Eletrica y Industrial, 2006, Santa Clara. Convencion Intenacional de Ingenieria Mecanica, Eletrica y Industrial, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; GODOY JÚNIOR ; WILLE ; TEIXEIRA, L. H. . Utilização do Escalonador WFQ em um nó DiffServ para Priorizar Determinados Grupos de usuários. In: XII Congreso Internacional de Telecomunicaciones, 2006, VALDIVIA. SENACITEL, 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "Christian Mendes ; Leandro Almeida ; Lincoln Teixeira ; Luiz Gomes-Jr ; Felippe Nadolny ; João Camilo . Smart public safety: A proposed framework for analyzing images and videos in forensic investigations. In: IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026, Miranda. ANAIS IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "Luiz Gomes-Jr ; Christian Mendes ; Leandro Almeida ; Lincoln Teixeira ; David Segalle ; Gustavo Armenio ; Thomas Pinton . Automatic Categorization of Police Reports: Best Practices and Algorithms for a Challenging Classification Task. In: IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026, Miranda. ANAIS IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "Christian Mendes ; Leandro Almeida ; Lincoln Teixeira ; Luiz Gomes-Jr ; Felippe Nadolny ; João Camilo ; Gustavo Armenio ; David Segalle ; João Mendes . Smart public safety: The use of functional prototypes to support decision- making. In: IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026, Miranda. ANAIS IV CONFERÊNCIA INTERNACIONAL DE POLÍTICAS PÚBLICAS E CIÊNCIA DE DADOS, 2026.",
+          "ano": 2026,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

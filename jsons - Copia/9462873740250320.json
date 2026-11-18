@@ -1,0 +1,263 @@
+{
+  "name": "Adalberto Cajueiro de Farias",
+  "lattes_id": "9462873740250320",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "MOTA, A. ; A. FARIAS ; WOODCOCK, J. ; LARSEN, P. G. . Model checking CML: tool development and industrial applications. Formal Aspects of Computing , v. 1, p. 1-35, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1007/s00165-015-0342-2"
+        },
+        {
+          "texto": "DAMASCENO, A. ; A. FARIAS ; . A Mechanized Strategy for Safe Abstraction of CSP Specifications. Lecture Notes in Computer Science , v. 5902, p. 118-133, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1007/978-3-642-10452-7_9"
+        },
+        {
+          "texto": "; A. FARIAS ; . Checking Z Data Refinements Using Traces Refinement. Electronic Notes in Theoretical Computer Science , v. 240, p. 129-148, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1016/j.entcs.2009.05.049"
+        },
+        {
+          "texto": "A. FARIAS ; ; . Compositional Abstraction of CSPZ Processes. Journal of the Brazilian Computer Society , v. 14, p. 23-44, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . Um Conversor da Notação CSPZ para CSPM. REIC. Revista Eletrônica de Iniciação Científica , v. 1, p. 105-120, 2001.",
+          "ano": 2001,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; A. FARIAS ; DIDIER, A. ; Woodcock, J. . Rapid Prototyping of a Semantically Well Founded Circus Model Checker. In: Software Engineering Formal Methods, 2014, Grenoble. Software Engineering and Formal Methods, 2014. v. 8702. p. 235-249.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "GONDIM, D. ; ; A. FARIAS . UCL Uma Linguagem Unificada para Construção de Compiladores. In: II Workshop de Teses e Dissertações do CBSoft, 2012, Natal. Anais do II Workshop de Teses e Dissertações do CBSoft. Natal, 2012. v. 6. p. 73-78.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DAMASCENO, A. ; A. FARIAS ; . A Mechanyzed Strategy for Safe Abstraction of CSP Specifications. In: Brazilian Symposium on Formal Methods, 2009, Gramado. A Mechanyzed Strategy for Safe Abstraction of CSP Specifications, 2009. v. 12. p. 118-133.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "DIDIER, A. ; A. FARIAS ; . Checking Z Refinements Using Traces Refinement. In: Brazilian Symposium on Formal Methods, 2008, Salvador. Proceeding of the Brazilian Symposium on Formal Methods. Salvador: Editora Gráfica da UFBA, 2008. v. 1. p. 67-82.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . Efficient CSPz Data Abstraction. In: Integrated Formal Methods, 2004, Canterbury. Proceedings of the 4th International Conference on Integrated Formal Methods, 2004. p. 108-127.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . Efficient Analysis of Infinite CSPZ Specifications. In: Workshop On Formal Methods, 2002, Gramado. Proceedings Of 5th Workshop On Formal Methods, 2002. v. 5. p. 113-128.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . De CSPZ para CSPM: Uma Ferramenta Transformacional Java. In: Workshop de Métodos Formais, 2001, Rio de Janeiro. Proceedings Of 4th Workshop On Formal Methods, 2001. v. 4. p. 1-10.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; FERRAZ, C. A. G. ; OLIVEIRA, J. P. ; SIMÕES, M. A. C. ; ALMEIDA, M. P. ; . TNS: Um serviço de Nomes CORBA Tolerante a Falhas.. In: Workshop de Objetos Distribuídos, 2001. Anais do 1o Workshop de Objetos Distribuídos.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; P. LUCENA . Sistemas Dedutivos Rotulados e suas Aplicações ao Raciocínio Abdutivo. In: VII CONIC (Congresso Nacional de Iniciação Científica), 1999, Recife. Anais do VII CONIC, 1999. p. 148-149.",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; A. FARIAS . A Rapid Approach for Building a Semantically Well Founded Circus Model Checker. In: Congresso Brasileiro de Software, 2014, Maceió. Anais da Sessão de Ferramentas do CBSoft 2014, 2014. v. 2. p. 77-84.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; A. FARIAS . Implementing an SMT-based Model Checker for CSP from its Operational Semantics. In: Congresso Brasileiro de Software, 2013, Brasília. XVI Simpósio Brasileiro de métodos formais, 2013. v. 1. p. 36-41.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . A Support Tool for CSP-Z Data Abstraction. In: FME Symposium, 2003, Pisa. The 12th International FME Symposium, 2003. p. 11-14.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "A. FARIAS . Efficient Analysis of Infinite CSPZ Specifications: strategy and tool support. 2004. (Apresentação de Trabalho/Seminário).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . Efficient Analysis of Infinite CSPZ Specifications. 2002. (Apresentação de Trabalho/Seminário).",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "A. FARIAS ; Lucas Caliari . Programa de Calculo de Fundacoes. 2007.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "; J. Iyoda; A. FARIAS . Participação em banca de Sérgio Barza. Model Checking of Requirements Written in Controlled Natural Language. 2016. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; A. FARIAS . Participação em banca de Pedro Ribeiro Gonçalves Antonino. A Refinement Based Strategy for Locally Verifying Networks. 2014. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "RAMALHO, F. S.; A. FARIAS ; MACHADO, P.; CARVALHO FILHO, F. H.. Participação em banca de Daniel Gondim Ernesto de Mélo. Uma Abordagem para Construção das Etapas de Análise de um Compilador. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "MASSONI, T.; Farias, Adalberto ; GUERERRO, D.; CORNELIO, M. L.. Participação em banca de Mikaela Anuska Oliveira Maia. Uma Abordagem para Adaptação de Clientes do Java Collections Framework baseada em técnicas de migração de APIs. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CORNELIO, M. L.; ; A. FARIAS . Participação em banca de Robson dos Santos e Silva. A rigorous methodology for developing GUI-based DSL formal tools. 2013. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "J. Iyoda; ; A. FARIAS . Participação em banca de Marcelo Costa Melo de Andrade. Gerando modelos SCADE a partir de especificações descritas em SCR. 2013. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ; . Participação em banca de André Luís Ribeiro Didier. Estratégia sistemática para identificar falhas em componentes de hardware usando anotações HW em comportamento nominal. 2012. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "RAMALHO, F. S.; A. FARIAS ; GARCIA, V. C.. Participação em banca de Anderson Rodrigo Santos Bezerra Ledo. MetaTT - uma abordagem baseada em metamodelos para a escrita de transformações de modelo para texto. 2012. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "MACHADO, P.; A. FARIAS ; ANDRADE, W.; ARANHA, E.. Participação em banca de Diego Rodrigues de Almeida. Critérios de Geração de Casos de Teste de Sistemas de Tempo Real. 2012. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "MACHADO, P.; ANDRADE, W.; ; MATTIELLO-FRANCISCO, M. F.; ABRANTES, J.; A. FARIAS . Participação em banca de Adriana Carla Damasceno. Towards a Test Generation Approach for Compositional Real-Time Systems. 2015. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; A. FARIAS ; GUERERRO, D.; MACIEL, R. S. P.; KULESZA, U.. Participação em banca de Andreza de Souza Vieira. Uma Abordagem para Análise de Impacto de Mudanças em Transformações de Modelos. 2014. Tese (Doutorado em Pós-Graduação em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "items": [
+        {
+          "texto": "Celso Roberto Perez; . Participação em banca de Osman de Oliveira Lira Junior. Interoperabilidade entre J2EE e .NET. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Informação) - Faculdade Integrada do Recife.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "Celso Roberto Perez; . Participação em banca de Leonardo de Paula Gomes Filho. Análise de Decisão e Resolução para Seleção de Arquiteturas de Software. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Informação) - Faculdade Integrada do Recife.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "A. FARIAS ; M. Andrade; A. Araújo. Participação em banca de Janaina de Barros Tenório Silva.Uma proposta de utilizacao de vídeo educativo e webquest para o ensino de ciência nas séries iniciais numa perspectiva ausubeliana. 2009. Trabalho de Conclusão de Curso (Graduação em LIcenciatura Plena em Pedagogia) - Universidade Federal Rural de Pernambuco.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NÓBREGA, Obionor; ARAÚJO, Telmo; MEDEIROS, Érika. Participação em banca de Bruna Maciel Campos.Estudo comparativo de tecnologias sem fio para aplicações da computação ubíqua.. 2004. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Integrada do Recife.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; NEIVA, Juliana; ARAÚJO, Telmo; SIEBRA, Sandra. Participação em banca de Antônio Paulo.Um Agente Companheiro para Guiar em Estudo Tópicos da língua Inglesa. 2003. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Faculdade Integrada do Recife.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "A. FARIAS ; J. Iyoda; ANDRADE, W.. CONCURSO PUBLICO PARA DOCENTES DA UEPB. 2012. Universidade Estadual da Paraíba.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; ANDRADE, W.; DIAS, G.. CONCURSO PUBLICO PARA DOCENTES DA UEPB. 2012. Universidade Estadual da Paraíba.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Santana, R.; A. FARIAS ; DIAS, L.. CONCURSO PUBLICO PARA DOCENTES DA UEPB. 2011. Universidade Estadual da Paraíba.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; SIEBRA, Sandra; A. Sarmento. CONCURSO PÚBLICO DE PROVAS E TÍTULOS PARA PROFESSOR EFETIVO DA UAG. 2009. Universidade Federal Rural de Pernambuco.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "A. FARIAS ; A. Sarmento; ESPINOLA, T.. CONCURSO PARA PROFESSOR ASSISTENTE PARA UAG/UFRPE. 2009.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

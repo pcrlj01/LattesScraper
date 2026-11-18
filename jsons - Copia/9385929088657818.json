@@ -1,0 +1,2273 @@
+{
+  "name": "Eduardo Augusto Bezerra",
+  "lattes_id": "9385929088657818",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "FIGUEIREDO, DAVI L. ; SLONGO, LEONARDO K. ; Bezerra, Eduardo A. . Reliability Enhanced Electrical Power System for Nanosatellites. IEEE Journal on Miniaturization for Air and Space Systems , v. 1, p. 1-1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/JMASS.2025.3549731"
+        },
+        {
+          "texto": "PACHECO, B. M. ; SEMAN, L. O. ; RIGO, CEZAR ANTONIO ; CAMPONOGARA, EDUARDO ; Bezerra, Eduardo A. ; COELHO, L. S. . Graph Neural Networks for the Offline Nanosatellite Task Scheduling Problem. APPLIED SOFT COMPUTING , v. 1, p. 1-48, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.48550/arXiv.2303.13773"
+        },
+        {
+          "texto": "MARTINS, LUCAS AMILTON ; VIEL, FELIPE ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto ; ZEFERINO, CESAR ALBENES . A real-time SVM-based hardware accelerator for hyperspectral images classification in FPGA. MICROPROCESSORS AND MICROSYSTEMS , v. 104, p. 104998, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.micpro.2023.104998"
+        },
+        {
+          "texto": "MARCELINO, GABRIEL MARIANO ; DE MATTOS, ANDRÉ MARTINS PIO ; BARCELLOS, JOÃO CLÁUDIO ELSEN ; RIBEIRO, BRENDA FERNANDES ; SEMAN, LAIO ORIEL ; FILHO, EDEMAR MORSCH ; Bezerra, Eduardo Augusto . FloripaSat-2: An Open-Source Platform for CubeSats. IEEE Embedded Systems Letters , v. 16, p. 77-80, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/les.2023.3260066"
+        },
+        {
+          "texto": "BERNARDO, VINICIUS PIMENTA ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto ; RIBEIRO, BRENDA FERNANDES . Hardware-in-the-Loop Simulation of an On-Board Energy-Driven Scheduling Algorithm for CubeSats. IEEE Embedded Systems Letters , v. 16, p. 69-72, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/les.2023.3268575"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; RIGO, CEZAR ANTÔNIO ; CAMPONOGARA, EDUARDO ; Bezerra, Eduardo Augusto . Benders decomposition for the energy aware task scheduling of constellations of nanosatellites. COMPUTERS & OPERATIONS RESEARCH , v. 166, p. 106618, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.cor.2024.106618"
+        },
+        {
+          "texto": "; VIEL, FELIPE ; SEMAN, LAIO ORIEL ; PETTENGHI, HECTOR ; Bezerra, Eduardo Augusto ; LEITHARDT, VALDERI REIS QUIETINHO . A Methodology for Accelerating FPGA Fault Injection Campaign Using ICAP. ELECTRONICS , v. 12, p. 807-817, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/electronics12040807"
+        },
+        {
+          "texto": "VIEL, FELIPE ; MACIEL, RENATO COTRIM ; SEMAN, LAIO ORIEL ; ZEFERINO, CESAR ALBENES ; Bezerra, Eduardo Augusto ; LEITHARDT, VALDERI REIS QUIETINHO . Hyperspectral Image Classification: An Analysis Employing CNN, LSTM, Transformer, and Attention Mechanism. IEEE Access , v. 11, p. 24835-24850, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/access.2023.3255164"
+        },
+        {
+          "texto": "PREDIGER, VANESSA ; BAIRROS, FÁBIO ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto ; PETTENGHI, HÉCTOR . RNS processor using moduli sets of the form 2n±1$$ {2}^npm 1 $$. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. 1-11, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1002/cta.3594"
+        },
+        {
+          "texto": "BARCELLOS, JOAO CLAUDIO ELSEN ; SPENGLER, ANDERSON WEDDERHOFF ; SEMAN, LAIO ORIEL ; E SILVA, RAPHAEL DIEGO COMESANHA ; ROLDAN, HECTOR PETTENGHI ; Bezerra, Eduardo Augusto . FlatSat Platforms for Small Satellites: A Systematic Mapping and Classification. IEEE Journal on Miniaturization for Air and Space Systems , v. 1, p. 1-1, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/JMASS.2023.3249044"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; RIGO, CEZAR ANTÔNIO ; CAMPONOGARA, EDUARDO ; Bezerra, Eduardo Augusto ; COELHO, LEANDRO DOS SANTOS . Explainable column-generation-based genetic algorithm for knapsack-like energy aware nanosatellite task scheduling. APPLIED SOFT COMPUTING , v. 144, p. 110475, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.asoc.2023.110475"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; RIGO, CEZAR ANTÔNIO ; CAMPONOGARA, EDUARDO ; MUNARI, PEDRO ; Bezerra, Eduardo Augusto . Improving energy aware nanosatellite task scheduling by a branch-cut-and-price algorithm. COMPUTERS & OPERATIONS RESEARCH , v. 158, p. 106292, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.cor.2023.106292"
+        },
+        {
+          "texto": "RIGO, CEZAR ANTÔNIO ; SEMAN, LAIO ORIEL ; MORSCH FILHO, EDEMAR ; CAMPONOGARA, EDUARDO ; Bezerra, Eduardo Augusto . MPPT aware task schedulling for nanosatellites using MIP-based ReLU proxy models. EXPERT SYSTEMS WITH APPLICATIONS , v. 1, p. 121022, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.eswa.2023.121022"
+        },
+        {
+          "texto": "VEGA MARTINEZ, SARA ; SEMAN, LAIO ORIEL ; MORSCH FILHO, EDEMAR ; SLONGO, LEONARDO KESSLER ; Bezerra, Eduardo Augusto . On-board energy scheduling optimization algorithm for nanosatellites. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 51, p. 3915-3937, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1002/cta.3595"
+        },
+        {
+          "texto": "RIGO, CEZAR ANTÔNIO ; SEMAN, LAIO ORIEL ; CAMPONOGARA, EDUARDO ; FILHO, EDEMAR MORSCH ; Bezerra, Eduardo Augusto ; JUNIOR, PEDRO AUGUSTO MUNARI . A branch-and-price algorithm for nanosatellite task scheduling to improve mission quality-of-service. EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 1, p. 1-24, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ejor.2022.02.040"
+        },
+        {
+          "texto": "LOPEZ-SALAMANCA, JULIAN J. ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo A. ; SOUZA, RICHARD DEMO ; MONTEJO-SÁNCHEZ, SAMUEL . Multi-sector discrete-time channel model for data link layer evaluation of CubeSat communications. EXPERT SYSTEMS WITH APPLICATIONS , v. 203, p. 117375, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.eswa.2022.117375"
+        },
+        {
+          "texto": "VIEL, FELIPE ; GOUVEIA, KLEBER R. ; COSTA, EDILBERTO ; OLIVEIRA, MARCIO ; BOING, MIGUEL ; DE MATTOS, ANDRE MARTINS PIO ; MARCELINO, GABRIEL MARIANO ; CODINACHS, DAVID MERODIO ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto . Payload-XL: A Platform for the In-orbit Validation of the BRAVE FPGA. IEEE Embedded Systems Letters , v. 1, p. 1-1, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/LES.2022.3191638"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; RIBEIRO, BRENDA F. ; RIGO, CEZAR A. ; FILHO, EDEMAR MORSCH ; CAMPONOGARA, EDUARDO ; LEONARDI, RODRIGO ; Bezerra, Eduardo A. . An Energy-Aware Task Scheduling for Quality-of-Service Assurance in Constellations of Nanosatellites. SENSORS , v. 22, p. 3715-3733, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/s22103715"
+        },
+        {
+          "texto": "CAMPONOGARA, EDUARDO ; SEMAN, LAIO ORIEL ; RIGO, CEZAR ANTÔNIO ; FILHO, EDEMAR MORSCH ; RIBEIRO, BRENDA FERNANDES ; Bezerra, Eduardo Augusto . A continuous-time formulation for optimal task scheduling and quality-of-service assurance in nanosatellites. COMPUTERS & OPERATIONS RESEARCH , v. 1, p. 105945-34, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.cor.2022.105945"
+        },
+        {
+          "texto": "RIGO, CEZAR ANTÔNIO ; SEMAN, LAIO ORIEL ; CAMPONOGARA, EDUARDO ; MORSCH FILHO, EDEMAR ; Bezerra, Eduardo Augusto . Task scheduling for optimal power management and quality-of-service assurance in CubeSats. ACTA ASTRONAUTICA , v. 179, p. 550-560, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.actaastro.2020.11.016"
+        },
+        {
+          "texto": "SCHULZ, VICTOR HUGO ; MARCELINO, GABRIEL MARIANO ; SEMAN, LAIO ORIEL ; BARROS, JEFERSON SANTOS ; KIM, SANGKYUN ; CHO, MENGU ; GONZÁLEZ, GABRIEL VILLARRUBIA ; LEITHARDT, VALDERI REIS QUIETINHO ; Bezerra, Eduardo Augusto . Universal Verification Platform and Star Simulator for Fast Star Tracker Design. SENSORS , v. 21, p. 907-930, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/s21030907"
+        },
+        {
+          "texto": "MARTINEZ, S. V. ; MORSCH FILHO, E. ; SEMAN, L. O. ; BEZERRA, EDUARDO ; NICOLAU, V. P. ; OVEJERO, R. G. ; LEITHARDT, VALDERI REIS QUIETINHO . An Integrated Thermal-Electrical Model for Simulations of Battery Behavior in CubeSats. Applied Sciences-Basel , v. 11, p. 1-25, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/app11041554"
+        },
+        {
+          "texto": "PEREIRA, RODRIGO VINICIUS MENDONÇA ; SEMAN, LAIO ORIEL ; BEREJUCK, MARCELO DANIEL ; MELO, DOUGLAS ROSSI DE ; MORALES, ANALUCIA SCHIAFFINO ; Bezerra, Eduardo Augusto . MPI hardware framework for many-core based embedded systems. International Journal of Sensor Networks , v. 35, p. 42-57, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1504/ijsnet.2021.112888"
+        },
+        {
+          "texto": "RIGO, CEZAR ANTÔNIO ; SEMAN, LAIO ORIEL ; CAMPONOGARA, EDUARDO ; MORSCH FILHO, EDEMAR ; Bezerra, Eduardo Augusto . A nanosatellite task scheduling framework to improve mission value using fuzzy constraints. EXPERT SYSTEMS WITH APPLICATIONS , v. 175, p. 114784, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.eswa.2021.114784"
+        },
+        {
+          "texto": "MARCELINO, GABRIEL MARIANO ; MORSCH FILHO, EDEMAR ; MARTINEZ, SARA VEGA ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto . In-orbit preliminary results from the open-source educational nanosatellite FloripaSat-I. ACTA ASTRONAUTICA , v. 188, p. 64-80, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.actaastro.2021.07.001"
+        },
+        {
+          "texto": "DOS SANTOS, GUILHERME HENRIQUE ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto ; LEITHARDT, VALDERI REIS QUIETINHO ; MENDES, ANDRÉ SALES ; STEFENON, STÉFANO FRIZZO . Static Attitude Determination Using Convolutional Neural Networks. SENSORS , v. 21, p. 6419, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/s21196419"
+        },
+        {
+          "texto": "MARCELINO, GABRIEL MARIANO ; SCHULZ, VICTOR HUGO ; SEMAN, LAIO ORIEL ; Bezerra, Eduardo Augusto . Centroid determination hardware algorithm for star trackers. International Journal of Sensor Networks , v. 32, p. 1, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1504/ijsnet.2020.104458"
+        },
+        {
+          "texto": "; SEMAN, LAIO O. ; Bezerra, Eduardo A. . Enabling ISO 26262 Compliance with Accelerated Diagnostic Coverage Assessment. ELECTRONICS , v. 9, p. 1-17, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.3390/electronics9050732"
+        },
+        {
+          "texto": "LOPEZ-SALAMANCA, JULIAN J. ; SEMAN, LAIO ORIEL ; BEREJUCK, MARCELO D. ; Bezerra, Eduardo A. . Finite-State Markov Chains Channel Model for CubeSats Communication Uplink. IEEE TRANSACTIONS ON AEROSPACE AND ELECTRONIC SYSTEMS , v. 56, p. 142-154, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/taes.2019.2911769"
+        },
+        {
+          "texto": "MARCELINO, GABRIEL MARIANO ; VEGA-MARTINEZ, SARA ; SEMAN, LAIO ORIEL ; KESSLER SLONGO, LEONARDO ; Bezerra, Eduardo Augusto . A Critical Embedded System Challenge: The FloripaSat-1 Mission. IEEE Latin America Transactions , v. 18, p. 249-256, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/tla.2020.9085277"
+        },
+        {
+          "texto": "RIGO, CEZAR ANTONIO ; SEMAN, LAIO ORIEL ; BEREJUCK, MARCELO DANIEL ; Bezerra, Eduardo Augusto . Printed Circuit Board Design Methodology for Embedded Systems Targeting Space Applications. IEEE Latin America Transactions , v. 18, p. 257-264, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/tla.2020.9085278"
+        },
+        {
+          "texto": "KESSLER SLONGO, LEONARDO ; VEGA MARTÍNEZ, SARA ; VALE BARBOSA EITERER, BRUNO ; AUGUSTO BEZERRA, EDUARDO . Nanosatellite electrical power system architectures: Models, simulations, and tests. INTERNATIONAL JOURNAL OF CIRCUIT THEORY AND APPLICATIONS , v. 1, p. cta.2872, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1002/cta.2872"
+        },
+        {
+          "texto": "MARCELINO, G. M. ; MORSCH FILHO, E. ; MARTINEZ, S. V. ; DE MATTOS, ANDRÉ MARTINS PIO ; SEMAN, L. O. ; SLONGO, LEONARDO KESSLER ; BEZERRA, EDUARDO . Qualification and validation test methodology of the open-source CubeSat FloripaSat-I. Journal of Systems Engineering and Electronics , v. 31, p. 1238-1252, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.23919/JSEE.2020.000103"
+        },
+        {
+          "texto": "VILLA, PAULO R. C. ; TRAVESSINI, RODRIGO ; GOERL, ROGER C. ; VARGAS, FABIAN L. ; Bezerra, Eduardo A. . Fault Tolerant Soft-Core Processor Architecture Based on Temporal Redundancy. JOURNAL OF ELECTRONIC TESTING-THEORY AND APPLICATIONS , v. 1, p. 1-19, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1007/s10836-019-05778-z"
+        },
+        {
+          "texto": "SLONGO, LEONARDO KESSLER ; REIS, JOÃO GABRIEL ; GAIKI, DANIEL ; VON HOHENDORFF SEGER, PEDRO ; MARTÍNEZ, SARA VEGA ; BARBOSA EITERER, BRUNO VALE ; PEREIRA, TULIO GOMES ; NETO, MARIO BALDINI ; FRATA, MATHEUS DOS SANTOS ; HAMISCH, HENRIQUE DANIEL ; DE MATTOS, ANDRÉ MARTINS PIO ; FLOREZ MERA, JUAN PABLO ; VIEIRA DE PAIVA, KLEBER ; MANTELLI, MARCIA BARBOSA HENRIQUES ; DILILLO, LUIGI ; Bezerra, Eduardo Augusto . Pre-flight qualification test procedure for nanosatellites using sounding rockets. ACTA ASTRONAUTICA , v. 1, p. 82-101, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.actaastro.2019.01.035"
+        },
+        {
+          "texto": "MELO, DOUGLAS R. ; ZEFERINO, CESAR A. ; DILILLO, LUIGI ; Bezerra, Eduardo A. . Maximizing the Inner Resilience of a Network-on-Chip through Router Controllers Design. SENSORS , v. 19, p. 5416, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.3390/s19245416"
+        },
+        {
+          "texto": "; VILLA, PAULO R. C. ; TRAVESSINI, R. ; BEREJUCK, M. D. ; Bezerra, Eduardo A. . A dynamic partial reconfiguration design flow for permanent faults mitigation in FPGAs. MICROELECTRONICS RELIABILITY , v. 83, p. 50-63, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.microrel.2018.01.011"
+        },
+        {
+          "texto": "SEMAN, L. O. ; GOMES, G. ; HAUSMANN, R. ; Bezerra, Eduardo Augusto . A quadratic fuzzy regression approach for handling uncertainties in Partial Least Squares Path Modeling. IEEE Latin America Transactions , v. 16, p. 192-201, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/tla.2018.8291473"
+        },
+        {
+          "texto": "SLONGO, L.K. ; MARTÍNEZ, S.V. ; EITERER, B.V.B. ; PEREIRA, T.G. ; BEZERRA, E.A. ; PAIVA, K.V. . Energy-driven scheduling algorithm for nanosatellite energy harvesting maximization. ACTA ASTRONAUTICA , v. 1, p. 100-115, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.actaastro.2018.03.052"
+        },
+        {
+          "texto": "GOERL, ROGER C. ; VILLA, P. R. C. ; POEHLS, LETÍCIA B. ; Bezerra, E. A. ; VARGAS, FABIAN L. . An efficient EDAC approach for handling multiple bit upsets in memory array. MICROELECTRONICS RELIABILITY , v. 88-90, p. 214-218, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.microrel.2018.07.060"
+        },
+        {
+          "texto": "SEMAN, LAIO O. ; KOEHLER, LUIZ A. ; Bezerra, Eduardo A. ; HAUSMANN, ROMEU . MPPTjs: A JavaScript Simulator for PV Panels Used in a PBL Application. Energy Procedia , v. 107, p. 109-115, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.egypro.2016.12.141"
+        },
+        {
+          "texto": "PEREIRA, T. F. ; MELO, D. R. ; ZEFERINO, C. A. ; Bezerra, E. A. . Mechanisms to Provide Fault Tolerance to a Network-on-Chip. IEEE Latin America Transactions , v. 15, p. 1034-1042, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tla.2017.7932690"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; HAUSMANN, ROMEU ; Bezerra, Eduardo Augusto . On the students' perceptions of the knowledge formation when submitted to a Project-Based Learning environment using web applications. COMPUTERS & EDUCATION , v. 1, p. 1-8, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1016/j.compedu.2017.10.001"
+        },
+        {
+          "texto": "SEMAN, LAIO ORIEL ; HAUSMANN, ROMEU ; Bezerra, Eduardo Augusto . Agent-Based Simulation of Learning Dissemination in a Project-Based Learning Context Considering the Human Aspects. IEEE TRANSACTIONS ON EDUCATION , v. 1, p. 1-8, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/te.2017.2754987"
+        },
+        {
+          "texto": "; GREEN, BRUNO ; PORCHER, BRUNO C. ; POEHLS, LETICIA BOLZANI ; ; MEDINA, NILBERTO H. ; ADDED, NEMITALA ; DE AGUIAR, VITOR A. P. ; MACCHIONE, EDUARDO L. A. ; AGUIRRE, FERNANDO ; SILVEIRA, MARCILEI A. G. ; PEREZ, MARTIN ; SOFO HARO, MIGUEL ; SIDELNIK, IVAN ; BLOSTEIN, JERONIMO ; LIPOVETZKY, JOSE ; Bezerra, Eduardo A. . Analysis of SRAM-Based FPGA SEU Sensitivity to Combined EMI and TID-Imprinted Effects. IEEE Transactions on Nuclear Science , v. 63, p. 1294-1300, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1109/tns.2016.2523458"
+        },
+        {
+          "texto": "GRIMM, TOMAS ; Bezerra, Eduardo Augusto ; . Hardware Implementation of Two Key Equation Solvers for Reed-Solomon Decoding. Revista IEEE América Latina , v. 13, p. 3550-3555, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/tla.2015.7387929"
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; SLONGO, LEONARDO KESSLER . Experimental analysis of solar energy harvesting circuits efficiency for low power applications. Computers & Electrical Engineering , v. 1, p. 1-8, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1016/j.compeleceng.2014.09.004"
+        },
+        {
+          "texto": "; Hessel, Fabiano P. ; Bezerra, Eduardo Augusto ; ; Longhi, Oliver B. ; Dias, Thiago F.O. . eCloudRFID ? A mobile software framework architecture for pervasive RFID-based applications. Journal of Network and Computer Applications , v. 34, p. 972-979, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1016/j.jnca.2010.04.005"
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; GOUGH, Michael Paul . Improving Reconfigurable Systems Reliability by Combining Periodical Test and Redundancy Techniques: A Case Study. Journal of Electronic Testing , Norwell, MA, v. 17, n.3, p. 163-174, 2001.",
+          "ano": 2001,
+          "doi": "http://dx.doi.org/10.1023/A:1011177911388"
+        },
+        {
+          "texto": "Bezerra, E ; Bezerra, Eduardo Augusto . A guide to migrating from microprocessor to FPGA coping with the support tool limitations. Microprocessors and Microsystems , The Netherlands, v. 23, n.10, p. 561-572, 2000.",
+          "ano": 2000,
+          "doi": "http://dx.doi.org/10.1016/S0141-9331(99)00063-0"
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; ; JP, K. . Implementing Transparent Bist For Embedded Memories: The Transputer Case Study. Journal of Solid-State Devices and Circuits , Sao Paulo, v. 15, n.1, p. 14-19, 1997.",
+          "ano": 1997,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CAPPELLETTI, C. (Org.) ; PAIVA, K. V. (Org.) . Proceedings of the 2nd IAA Latin American Cubesat Workshop. 5. ed. Paris: International Academy of Astronautics, 2017. v. 2. 765p .",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; CAPPELLETTI, C. (Org.) . Proceedings of the 1st IAA Latin American Cubesat Workshop. 3. ed. Paris: International Academy of Astronautics, 2017. v. 2. 442p .",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Lettnin, Djones Vinicius . Synthesizable VHDL Design for FPGAs. 1. ed. New York: Springer International Publishing, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-02547-6"
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . Reconfigurable Systems in Space Instrumentation: Migrating from Microprocessors to FPGAs. 1. ed. London: Lambert Academic Publishing, 2010. v. 1. 233p .",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "VIEL, FELIPE ; ZEFERINO, CESAR ALBENES ; BEZERRA, E. A. . Hardware Accelerators for Hyperspectral Image Classification in Space. In: Anu Bajaj; Ajith Abraham. (Org.). Intelligent Systems Reference Library. 1ed.Cham: Springer Nature Switzerland, 2025, v. 268, p. 71-98.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1007/978-3-031-83123-2_3"
+        },
+        {
+          "texto": "GOUGH, M. P. ; BUCKLEY, A. M. ; Bezerra, E. A. ; POPOOLA, B. ; SEFERIADIS, G. . Intelligent Instruments for the Space Plasma Environment. In: G. Zhou; O. Baysal; M. Kafatos; R. Yang. (Org.). Real Time Information Technology for Future Intelligent Earth Observing Satellites. PA: Hierophant Publishing / Science, 2003, v. , p. -.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "PINTO, B. ; MELO, D. R. ; ZEFERINO, C. A. ; Bezerra, Eduardo Augusto ; VIEL, F. . Implementation of a Double SHA-256 IP core using HLS in FPGA for Bitcoin Block Validation. In: 17th Seminar on Power Electronics and Control (SEPOC), 2025, Balneário Camboriú. 2025 17th Seminar on Power Electronics and Control (SEPOC). Itajaí: SEPOC, 2025. v. 1. p. 1-10.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "CARNEIRO, L. R. ; GUEVARA, Y. A. ; Bezerra, Eduardo Augusto . Analysis of dielectric material for S-band microstrip antenna aimed at space applications. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "REZENDE, M. E. E. ; GOMES, C. S. M. ; MORSCH FILHO, E. ; BARCELLOS, J. C. E. ; ; Bezerra, Eduardo Augusto . Design of a Low-Cost Solar simulator for Cubesats. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "JULIANO, F. C. ; FRANZ, S. H. ; TRAVASSOS JUNIOR, X. L. ; Bezerra, Eduardo Augusto . Hardware-in-the-Loop (HIL) System for Cubesat ADCS Testing. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "GUEVARA, Y. A. ; TRAVASSOS JUNIOR, X. L. ; Bezerra, Eduardo Augusto . Quadrupole antennas for Cubesats: radiation characteristics in different configurations and initial results. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BOING, MIGUEL ; ; GOUVEIA JUNIOR, K. R. ; BARCELLOS, J. C. E. ; BEZERRA, E.A. . An Endured On-Board Computer for Small Satellites, using Low Cost COTS Combined with Radiation-Hardened Devices and Fault-Tolerance Strategies. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DO O, R. Q. ; REZENDE, M. E. E. ; MORAIS, F. P. ; BITENCOURT, E. D. ; BARCELLOS, J. C. E. ; MARCELINO, G. M. ; Bezerra, E. A. . Persistent-1: The Preliminary Design Overview. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "KIESLICH, L. R. ; VERSCHEUREN, J. ; TRAVASSOS JUNIOR, X. L. ; SAKUYAMA, C. A. V. ; Bezerra, Eduardo Augusto . Advancements in GNSS Radio Occultation Techniques: Opportunities and Challenges in CubeSat Platforms. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BIANCHIN, V. B. ; MARCILIO, G. C. ; DO O, R. Q. ; MORAIS, F. P. ; MARCELINO, G. M. ; BARCELLOS, J. C. E. ; Bezerra, Eduardo Augusto . Progress Report: FlatSat Platform for GOLDS-UFSC and Future Missions. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "BIANCHIN, V. B. ; MARCILIO, G. C. ; DO O, R. Q. ; MORAIS, F. P. ; MARCELINO, G. M. ; BARCELLOS, J. C. E. ; Bezerra, Eduardo Augusto . FloripaSat-3: Platform Design Methodology and Preliminary Analysis. In: 2024 Latin American CubeSat Workshop, 2024, Salvador. Proceedings of the 2024 Latin American CubeSat Workshop. Florianópolis: UFSC, 2024. v. 1. p. 1-6.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "HÜTNER, JOÃO VICTOR SANTOS ; VIEL, FELIPE ; ZEFERINO, CESAR A. ; Bezerra, Eduardo Augusto . TinyML Applied in Hyperspectral Image Classification on COTS Microcontroller. In: 2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC), 2024, Recife. 2024 XIV Brazilian Symposium on Computing Systems Engineering (SBESC). Recife: SBESC, 2024. v. 1. p. 1-10.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1109/sbesc65055.2024.10771925"
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; OLOFSSON, G. ; SAMUELSSON, A. ; WEIGAND, R. ; OSTBERG, J. ; CODINACHS, D. M. ; WAWRZASZEK, R. . GOMX-5 APPS - THE ADVANCED PAYLOAD PROCESSORS FOR THE GOMX-5 IOD MISSION. In: 4S Symposium, 2022, Vilamoura. Proceedings of the 4S Symposium 2022. Noordwijk: The European Space Agency, 2022. v. 1. p. 1-4.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BARCELLOS, J. C. E. ; ; SEMAN, L. O. ; Bezerra, Eduardo A. . Development of a Flatsat Platform for GOLDS-UFSC and Future Missions. In: Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, C. S. M. ; MORSCH FILHO, E. ; SEMAN, LAIO O. ; Bezerra, Eduardo A. ; POSSAMAI, T. S. . Thermal simulation of the CubeSat Catarina-A1. In: Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BERNARDO, V. P. ; SEMAN, LAIO O. ; BORBA, R. A. ; Bezerra, Eduardo A. . Hardware-in-the-loop simulation of an on-board energy-driven scheduling algorithm for CubeSats. In: Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GOUVEIA JUNIOR, K. R. ; COSTA NETO, E. ; OLIVEIRA, M. H. G. ; VIEL, FELIPE ; BOING, MIGUEL ; MARCELINO, G. M. ; DE MATTOS, ANDRE MARTINS PIO ; SEMAN, LAIO O. ; CODINACHS, D. M. ; Bezerra, Eduardo A. . Payload-XL: A Subsystem to Validate FPGA-based Applications in Space Environment. In: Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, M. H. G. ; COSTA NETO, E. ; GOUVEIA JUNIOR, K. R. ; VIEL, FELIPE ; BOING, MIGUEL ; MARCELINO, G. M. ; DE MATTOS, ANDRE MARTINS PIO ; SEMAN, LAIO O. ; CODINACHS, D. M. ; Bezerra, Eduardo A. . Payload-XL: A Case Study of Methodologies for Development and Documentation of Cubesat Subsystems Using ECSS Standards. In: Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites, 2022, Brasilia. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "IMIANOSKY, C. ; SANTOS, D. A. ; MELO, D. R. ; DILILLO, L. ; ZEFERINO, CESAR ALBENES ; Bezerra, Eduardo Augusto ; VIEL, F. . A Performance Evaluation of a Fault-tolerant RISC-V with Vector Instruction Support to Space Applications. In: 3rd IAA Latin American Symposium on Small Satellites,, 2022, Brasília. Proceedings of the Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. Paris: IAA, 2022. v. 1. p. 1-10.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; SAMUELSSON, A. ; KOBYŁ ; WAWRZASZEK, R. . GOMX5 Advanced P/L including new European space components. In: 15th ESA Workshop on Avionics, Data, Control and Software Systems ~ ADCSS2021, 2021, Noordwijk. 15th ESA Workshop on Avionics, Data, Control and Software Systems ~ ADCSS2021. Netherlands: European Space Agency, 2021. v. 1. p. 1-1.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "JAIN, VINEET ; SHARMA, ABHISHEK ; Bezerra, Eduardo Augusto . Implementation and Extension of Bit Manipulation Instruction on RISC-V Architecture using FPGA. In: 2020 IEEE 9th International Conference on Communication Systems and Network Technologies (CSNT), 2020, Gwalior. 2020 IEEE 9th International Conference on Communication Systems and Network Technologies (CSNT). New York: IEEE, 2020. p. 167.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/CSNT48778.2020.9115759"
+        },
+        {
+          "texto": "MELO, D. R. ; Bezerra, Eduardo Augusto ; DILILLO, LUIGI ; ZEFERINO, C. A. . Analyzing the Fault Propagation in a Parametrizable Network-on-Chip Router. In: IEEE Latin-American Test Symposium, 2019, Santiago. 20th IEEE Latin-American Test Symposium. New York: IEEE, 2019. v. 1. p. 1-6.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "RIGO, C. A. ; LUZA, L. M. ; TRAMONTIN, E. D. ; MARTINS, VICTOR MANUEL GONÇALVES ; MARTINEZ, S. V. ; SLONGO, LEONARDO KESSLER ; SEMAN, L. O. ; DILILLO, LUIGI ; ; Bezerra, Eduardo Augusto . A Fault-Tolerant Reconfigurable Platform for Communication Modules of Satellites. In: IEEE Latin-American Test Symposium, 2019, Santiago. 20th IEEE Latin-American Test Symposium. New York: IEEE, 2019. v. 1. p. 1-6.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "TRAVESSINI, R. ; VILLA, PAULO R. C. ; ; Bezerra, Eduardo Augusto . Processor Core Profiling for SEU Effect Analysis. In: 19th IEEE Latin-American Test Symposium (LATS18), 2018, Sao Paulo. 19th IEEE Latin-American Test Symposium (LATS18). New York: IEEE, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "VILLA, PAULO R. C. ; TRAVESSINI, R. ; ; Bezerra, Eduardo Augusto . Processor Checkpoint Recovery for Transient Faults in Critical Applications. In: 19th IEEE Latin-American Test Symposium (LATS18), 2018, Sao Paulo. 19th IEEE Latin-American Test Symposium (LATS18). New York: IEEE, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "GOERL, R. C. ; VILLA, PAULO R. C. ; POEHLS, L. M. B. ; Bezerra, Eduardo Augusto ; . An Efficient EDAC Approach for Handling Multiple Bit Upsets in Memory Array. In: 19th IEEE Latin-American Test Symposium (LATS18), 2018, Sao Paulo. 19th IEEE Latin-American Test Symposium (LATS18). New York: IEEE, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "LUZA, L. M. ; RIGO, C. A. ; TRAMONTIN, E. D. ; ; MARTINEZ, S. V. ; SLONGO, LEONARDO KESSLER ; SEMAN, L. O. ; DILILLO, L. ; Bezerra, E. A. . Enabling deep-space cubesat missions through state-of-the-art radiation-hardened technologies. In: IAA Latin American Cubesat Workshop, 2018, Ubatuba. Proceedings of the 3rd IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINEZ, S. V. ; MORSCH FILHO, E. ; SLONGO, LEONARDO KESSLER ; Bezerra, Eduardo Augusto . Floripasat-I: ongoing integration and test strategies. In: IAA Latin American Cubesat Workshop, 2018, Ubatuba. Proceedings of the 3rd IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, R. V. M. ; BEREJUCK, MARCELO DANIEL ; Bezerra, E. A. . ITAR and EAR - how the development of cubesats is helping Latin America to overcome these barriers. In: IAA Latin American Cubesat Workshop, 2018, Ubatuba. Proceedings of the 3rd IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MORSCH FILHO, E. ; MARTINEZ, S. V. ; SLONGO, LEONARDO KESSLER ; Bezerra, E. A. ; POSSAMAI, T. S. ; NICOLAU, V. P. . Preliminary results for energy harvesting maximization with focus on heat transfer control of batteries in nanosatellites. In: IAA Latin American Cubesat Workshop, 2018, Ubatuba. Proceedings of the 3rd IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MELO, D. R. ; ZEFERINO, C. A. ; RAMOS, A. ; DILILLO, L. ; Bezerra, Eduardo Augusto . Implementation of fault tolerance techniques for integrated network interfaces. In: IAA Latin American Cubesat Workshop, 2018, Ubatuba. Proceedings of the 3rd IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, T. Z. ; PEREIRA, L. M. V. ; MELO, D. R. ; ZEFERINO, C. A. ; Bezerra, Eduardo Augusto . Implementation of Fault Tolerance Techniques in an Integrated Network Interface. In: Simpósio Sul de Microeletrônica (SIM 2018), 2018, Curitiba. XXXIII Simpósio Sul de Microeletrônica (SIM 2018). Curitiba: UFPR, 2018. v. 1. p. 1-6.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, LUCAS M. V. ; MELO, DOUGLAS R. ; ZEFERINO, CESAR A. ; Bezerra, Eduardo A. . Analysis of LEON3 systems integration for a Network-on-Chip. In: 2018 IEEE 19th LatinAmerican Test Symposium (LATS), 2018, Sao Paulo. 2018 IEEE 19th Latin-American Test Symposium (LATS). New York: IEEE, 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/latw.2018.8349694"
+        },
+        {
+          "texto": "GAYA, F. L. ; ZEFERINO, C. A. ; MELO, D. R. ; Bezerra, Eduardo Augusto . AMBA-AHB Network Interface for Core Interconnection in a Network-on-Chip. In: XXIII Iberchip workshop, 2017, Bariloche. XXIII Iberchip workshop, 2017. p. 1-5.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "VILLA, PAULO R. C. ; GOERL, ROGER C. ; ; POEHLS, LETICIA B. ; MEDINA, NILBERTO H. ; ADDED, NEMITALA ; DE AGUIAR, VITOR A. P. ; MACCHIONE, EDUARDO L. A. ; AGUIRRE, FERNANDO ; DA SILVEIRA, MARCILEI A. G. ; Bezerra, Eduardo A. . Analysis of single-event upsets in a Microsemi ProAsic3E FPGA. In: 2017 18th IEEE Latin American Test Symposium (LATS), 2017, Bogota. 2017 18th IEEE Latin American Test Symposium (LATS), 2017. v. 1. p. 1-6.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/latw.2017.7906772"
+        },
+        {
+          "texto": "VILLA, PAULO ; BEZERRA, EDUARDO ; GOERL, ROGER ; POEHLS, LETICIA ; ; MEDINA, NILBERTO ; ADDED, NEMITALA ; DE AGUIAR, VITOR ; MACCHIONE, EDUARDO ; AGUIRRE, FERNANDO ; DA SILVEIRA, MARCILEI . Analysis of COTS FPGA SEU-sensitivity to combined effects of conducted-EMI and TID. In: 2017 11th International Workshop on the Electromagnetic Compatibility of Integrated Circuits (EMCCompo), 2017, Saint Petersburg. 2017 11th International Workshop on the Electromagnetic Compatibility of Integrated Circuits (EMCCompo). New York: IEEE, 2017. p. 27.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/emccompo.2017.7998076"
+        },
+        {
+          "texto": "PEREIRA, RODRIGO V.M. ; SOUSA, FERNANDO R. DE ; Bezerra, Eduardo A. ; BEREJUCK, MARCELO D. . A Digital Implementation of Eddystone Standard Using IBM 180nm Cell Library. In: 2017 VII Brazilian Symposium on Computing Systems Engineering (SBESC), 2017, Curitiba. 2017 VII Brazilian Symposium on Computing Systems Engineering (SBESC). New York: IEEE, 2017. v. 1. p. 161-166.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/sbesc.2017.28"
+        },
+        {
+          "texto": "SLONGO, LEONARDO KESSLER ; MARTINEZ, S. V. ; EITERER, B. V. B. ; PEREIRA, T. ; KLEMZ, M. ; ; PEREIRA, R. V. M. ; SILVA, F. G. ; LETTNIN, DJONES ; BECKER, Leandro Buss ; ; TRAVASSOS JUNIOR, X. L. ; PAIVA, K. V. ; Bezerra, Eduardo Augusto . The Floripa-Sat experience: mission progress and satellite?s development. In: II IAA Latin American Cubesat Workshop (IAA-LACW'2016), 2016, Florianopolis. II IAA Latin American Cubesat Workshop (IAA-LACW'2016). Paris: International Academy of Astronautics, 2016. p. 1-6.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SEMAN, L. O. ; Bezerra, Eduardo A. . Cubesat missions as learning tools: the influence on students. In: II IAA Latin American Cubesat Workshop (IAA-LACW'2016), 2016, Florianopolis. II IAA Latin American Cubesat Workshop (IAA-LACW'2016). Paris: International Academy of Astronautics, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; SLONGO, LEONARDO KESSLER ; VILLA, PAULO R. C. ; Bezerra, Eduardo A. . Soft errors analysis on FPGAs for cubesat missions. In: II IAA Latin American Cubesat Workshop (IAA-LACW'2016), 2016, Florianopolis. II IAA Latin American Cubesat Workshop (IAA-LACW'2016). Paris: International Academy of Astronautics, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SLONGO, LEONARDO KESSLER ; Bezerra, Eduardo Augusto ; MARTINEZ, S. V. ; EITERER, B. V. B. ; PEREIRA, T. . Nanosatellite energy harvesting maximization through an energy aware scheduling algorithm. In: II IAA Latin American Cubesat Workshop (IAA-LACW'2016), 2016, Florianopolis. II IAA Latin American Cubesat Workshop (IAA-LACW'2016). Paris: International Academy of Astronautics, 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SEMAN, L. O. ; SLONGO, LEONARDO KESSLER ; HAUSMANN, R. ; Bezerra, Eduardo Augusto . O desenvolvimento de Cubesats diante da aprendizagem ativa: um levantamento com participantes de missões brasileiras. In: Congresso Brasileiro de Educação em Engenharia, 2016, Natal. XLIV Congresso Brasileiro de Educação em Engenharia. Natal: UFRN, 2016. v. 1. p. 1-9.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "SEMAN, L. O. ; KOEHLER, L. A. ; Bezerra, Eduardo Augusto ; HAUSMANN, R. . Proposta e implementação da aprendizagem orientada por projetos agile em disciplinas da engenharia elétrica na FURB. In: Congresso Brasileiro de Educação em Engenharia, 2016, Natal. XLIV Congresso Brasileiro de Educação em Engenharia. Natal: UFRN, 2016. v. 1. p. 1-10.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "VILLA, PAULO R. C. ; Bezerra, Eduardo A. ; LETTNIN, DJONES V. ; . A reconfigurable hardware platform for power converter control systems. In: 2015 IEEE International Conference on Industrial Technology (ICIT), 2015, Seville. 2015 IEEE International Conference on Industrial Technology (ICIT). v. 1. p. 1560-1566.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/icit.2015.7125318"
+        },
+        {
+          "texto": "; ; C. NETO, H. ; Bezerra, Eduardo A. . Redundância Modular Tripla baseada em Bitstreams Parciais para Múltiplas Partições da FPGA. In: XI Jornadas sobre Sistemas Reconfiguráveis, 2015, Porto. XI Jornadas sobre Sistemas Reconfiguráveis. Porto: Instituto Superior de Engenharia do Porto, 2015. v. 1. p. 1-6.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "GONCALVES MARTINS, VICTOR M. ; REIS, JOAO GABRIEL ; NETOY, HORACIO C. C. ; Bezerra, Eduardo Augusto . FPGA redundancy recovery based on partial bitstreams for multiple partitions. In: 2015 16th LatinAmerican Test Symposium (LATS), 2015, Puerto Vallarta. 2015 16th Latin-American Test Symposium (LATS), 2015. v. 1. p. 1-4.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/latw.2015.7102500"
+        },
+        {
+          "texto": "MARTINS, VICTOR M. GONCALVES ; REIS, JOAO GABRIEL ; NETO, HORACIO C.C. ; Bezerra, Eduardo Augusto . Designing Partial Bitstreams for Multiple Xilinx FPGA Partitions. In: 2015 IEEE 23rd Annual International Symposium on FieldProgrammable Custom Computing Machines (FCCM), 2015, Vancouver. 2015 IEEE 23rd Annual International Symposium on Field-Programmable Custom Computing Machines, 2015. v. 1. p. 256-259.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/fccm.2015.10"
+        },
+        {
+          "texto": "MARTINS, VICTOR M. GONCALVES ; VILLA, PAULO R. C. ; NETO, HORACIO C. C. ; Bezerra, Eduardo Augusto . A TMR Strategy with Enhanced Dependability Features Based on a Partial Reconfiguration Flow. In: 2015 IEEE Computer Society Annual Symposium on VLSI (ISVLSI), 2015, Montpellier. 2015 IEEE Computer Society Annual Symposium on VLSI, 2015. v. 1. p. 161-166.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/ISVLSI.2015.84"
+        },
+        {
+          "texto": "MARTINS, VICTOR M. GONCALVES ; ; Lettnin, Djones Vinicius ; Bezerra, Eduardo Augusto . Low cost fault detector guided by permanent faults at the end of FPGAs life cycle. In: 2014 15th Latin American Test Workshop LATW, 2014, Fortaleza. 2014 15th Latin American Test Workshop - LATW. p. 1-6.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/latw.2014.6841912"
+        },
+        {
+          "texto": "TONFAT, JORGE ; AZAMBUJA, JOSE RODRIGO ; NAZAR, GABRIEL ; ; ; CARRO, Luigi ; ; ; ; BEZERRA, EDUARDO ; FROST, CHRISTOPHER . Measuring the impact of voltage scaling for soft errors in SRAM-based FPGAs from a designer perspective. In: 2014 19th International MixedSignals, Sensors and Systems Test Workshop (IMS3TW), 2014, Porto Alegre. 19th Annual International Mixed-Signals, Sensors, and Systems Test Workshop Proceedings, 2014. v. 1. p. 1-6.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/ims3tw.2014.6997398"
+        },
+        {
+          "texto": "; Bezerra, Eduardo A. . CCSDS based communication protocol implementations tailored for nanosatellites. In: 1st IAA Latin America Cubesat Workshop, 2014, Brasilia. 1st IAA Latin America Cubesat Workshop. Paris: International Academy of Astronautics - IAA, 2014. v. 1. p. 1-6.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SLONGO, LEONARDO KESSLER ; Bezerra, Eduardo A. . Towards Cubesat Electrical Power System Efficient Designs. In: 1st IAA Latin America Cubesat Workshop, 2014, Brasilia. 1st IAA Latin America Cubesat Workshop. Paris: International Academy of Astronautics - IAA, 2014. v. 1. p. 1-6.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; SLONGO, LEONARDO KESSLER ; ; MARTINEZ, S. V. ; EITERER, B. V. B. ; VIDAL, I. A. ; MENEGON, V. E. ; COELHO, L. N. ; PAIVA, K. V. ; ; LETTNIN, DJONES ; Bezerra, Eduardo A. . A complete CubeSat mission: the Floripa-Sat experience. In: 1st IAA Latin America Cubesat Workshop, 2014, Brasilia. 1st IAA Latin America Cubesat Workshop. Paris: International Academy of Astronautics - IAA, 2014. v. 1. p. 1-6.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SLONGO, LEONARDO KESSLER ; MARTINEZ, S. V. ; EITERER, B. V. B. ; ; ; ; MARIGA, L. ; VIDAL, I. A. ; FELIX, M. ; ; LETTNIN, DJONES ; MELO, F. E. N. ; PAIVA, K. V. ; Bezerra, Eduardo A. . FloripaSat: The experience of designing and developing the on-board electronics of a Cubesat in Brazil. In: 1st IAA Latin America Cubesat Workshop, 2014, Brasilia. 1st IAA Latin America Cubesat Workshop. Paris: International Academy of Astronautics - IAA, 2014. v. 2. p. 69-73.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "GRIMM, TOMAS ; Bezerra, Eduardo A. ; . Hardware implementation of two key equation solvers for Reed-Solomon decoding. In: 2014 6th IEEE LatinAmerican Conference on Communications (LATINCOM), 2014, Cartagena de Indias. 2014 IEEE Latin-America Conference on Communications (LATINCOM), 2014. v. 1. p. 1-6.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/latincom.2014.7041844"
+        },
+        {
+          "texto": "DE FARIAS, BRUNO C. ; DE LIMA FILHO, EDDIE B. ; Bezerra, Eduardo A. . A proposal for clock reference correction in MPEG-2 transport stream processors. In: 2014 International Telecommunications Symposium (ITS), 2014, Sao Paulo. 2014 International Telecommunications Symposium (ITS), 2014. v. 1. p. 1-5.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/its.2014.6947961"
+        },
+        {
+          "texto": "; MAZIERO, F. P. ; Bezerra, Eduardo Augusto ; Lettnin, Djones Vinicius . Property generation for formal and simulation-based verification of an on-board computer for space applications. In: 1st IAA Latin American Cubesat Workshop, 2014, Brasilia. 1st IAA Latin American Cubesat Workshop. Paris: International Academy of Astronautics, 2014. v. 2. p. 315-325.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, WESLEY ; BEZERRA, EDUARDO ; WINTERHOLER, MARKUS ; LETTNIN, DJONES . Automatic property generation for formal verification applied to HDL-based design of an on-board computer for space applications. In: 2013 14th Latin American Test Workshop LATW, 2013, Cordoba. 2013 14th Latin American Test Workshop - LATW, 2013. p. 1-6.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/LATW.2013.6562663"
+        },
+        {
+          "texto": "; DA SILVA, FELIPE A. ; Bezerra, Eduardo A. ; LETTNIN, DJONES V. . Non-intrusive fault tolerance in soft processors through circuit duplication. In: 2012 13th Latin American Test Workshop LATW, 2012, Quito. 2012 13th Latin American Test Workshop (LATW). p. 1-6.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/LATW.2012.6261264"
+        },
+        {
+          "texto": "; ; MATOS, R. ; Bezerra, Eduardo Augusto . Semi-automatic Property Generation for the Formal Verification of a Satellite On-board System. In: Brazilian Conference on Critical Embedded Systems, 2012, Campinas. II Brazilian Conference on Critical Embedded Systems. Campinas: Unicamp, 2012. p. 1-6.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; Bezerra, Eduardo Augusto . Towards a Model to Explore Business Opportunities in Trail-aware Environments. In: XVIII Simpósio Brasileiro de Sistemas Multimídia e Web, 2012, São Paulo. XVIII Simpósio Brasileiro de Sistemas Multimídia e Web. São Paulo: USP, 2012. v. 1. p. 1-8.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1145/2382636.2382670"
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; AZEVEDO, Luciano ; Silva, Eurides Michel da . Dependability Issues of INPE's ESA/CCSDS Telecommand/Telemetry Subsystem. In: Latin-American Symposium on Dependable Computing, 2011, Sao Jose dos Campos. Fifth Latin-American Symposium on Dependable Computing Workshop. New York: IEEE Computer Society, 2011. p. 58-63.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/LADCW.2011.17"
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; AZEVEDO, Luciano ; FERREIRA, C. . An adaptive communications module for on-board computers of satellites. In: 2010 IEEE NASA/ESA Conference on Adaptive Hardware and Systems, 2010, Anaheim, California, USA. 2010 IEEE NASA/ESA Conference on Adaptive Hardware and Systems. New York: IEEE, 2010. v. 1. p. 317-324.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/AHS.2010.5546240"
+        },
+        {
+          "texto": "; ; Bezerra, Eduardo Augusto ; ; ; DIAS, T. F. . Using CloudRFID middleware for fuel supply control of vehicles fleets. In: 14th IEEE International Conference on Emerging Technologies and Factory Automation, 2009, Palma de Mallorca. 14th IEEE ETFA. New York: IEEE, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Bezerra, Eduardo Augusto ; ; ; DIAS, T. F. . An Adaptative Framework Architecture for RFID Applications. In: 33rd Annual IEEE Software Engineering Workshop 2009 (SEW-33), 2009, Skovde. Proceedings of the 33rd Annual IEEE Software Engineering Workshop 2009. New York: IEEE CS Press, 2009. v. 1. p. 15-24.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; Bezerra, E. A. ; ; AZEVEDO, Luciano ; Reif, Carlos ; . A Passive 915 MHz UHF RFID Tag. In: 9th IEEE International Symposium on Quality Electronic Design (ISQED), 2008, San Jose, CA. International Society for Quality Electronic Design. Los Alamitos, CA: IEEE Computere Society, 2008. v. 1. p. 348-351.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Bezerra, E. A. ; . Parallel Algebraic Approach of BCH coding in VHDL. In: ICCGI 2007, 2007, Guadeloupe, French Caribbean. IEEE - ICCGI 2007. Piscataway, NJ: IEEE, 2007. v. 1. p. 1-5.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; ; ; . A Reed-Solomon algorithm for FPGA area optimization in space applications. In: Second IEEE NASA/ESA Conference on Adaptive Hardware and Systems, AHS 2007., 2007, Edinburgh. Second IEEE NASA/ESA Conference on Adaptive Hardware and Systems, AHS 2007.. Los Alamitos, California: IEEE, 2007. v. 1. p. 243-249.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/ahs.2007.17"
+        },
+        {
+          "texto": "; ; ; Bezerra, E. A. ; ; Reif, Carlos ; . A 915 MHz UHF Low Power RFID Tag. In: Symposium on Integrated Circuits and System Design, 2007, Rio de Janeiro. The 20th Symposium on Integrated Circuits and System Design. Rio de Janeiro, 2007. p. 1-6.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Bezerra, Eduardo Augusto . Infra-estrutura de informática para sistemas de apoio ao diagnóstico aplicada a servidores PACS. In: III Simpósio de Instrumentação e Imagens Médicas, 2007, São Carlos. 3o Simpósio de Instrumentação e Imagens Médicas. São Carlos: SEL/EESC/USP, 2007. v. 1. p. 6-9.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; ; FERNADES, Luiz Gustavo ; RAEDER, Mateus ; VELHO, Pedro . Probe Effect Mitigation in the Software Testing of Parallel Systems. In: Latin-American Test Workshop, 2006, Buenos Aires. LATW'06 - 7th IEEE Latin-American Test Workshop. Porto Alegre: PUCRS, 2006. p. 153-158.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; FARINA, A ; Bezerra, E. A. ; GATTI, e ; GARCIA, L ; LUPI, Daniel ; HERNANDEZ, F . Observing SRAM-Based FPGA Robustness in EMI-Exposed Environments. In: Latin-American Test Workshop, 2006, Buenos Aires. LATW'06 - 7th IEEE Latin-American Test Workshop. Porto Alegre: PUCRS, 2006. p. 201-206.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; PADILHA, F. O. ; ; Bezerra, Eduardo Augusto . Modelo para indexação de imagens médicas com suporte a CAD. In: X Congresso Brasileiro de Informática em Saúde, 2006, Florianópolis. X CBIS. São Paulo: Sociedade Brasileira de Informática em Saúde, 2006. v. 1. p. 824-829.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; . Estratégia para desenvolvimento de programas paralelos visando diminuir a intrusão causada por teste de software. In: Conferencia Latino-Americana de Informatica, 2005, Cali. XXXI Conferencia Latino-Americana de Informatica. Medellin: Universidad Nacional de Colombia, 2005. v. n.i..",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "BORTOLAS, Daniel ; ; Bezerra, E. A. ; . Mutation-like Oriented Diversity for Reliability/Maintainability Improvement: A Distributed System Case Study. In: ISCIS'04 - IX. International Symposium on Computer and Information Sciences, 2004, Turkey, Antalya. Lecture Notes in Computer Science. Antalya: Springer Verlag, 2004. v. 1. p. 98-108.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; POUCHET, M. ; ; ; GOUGH, Michael Paul . An Adaptable HW/SW Environment for Laboratory Teaching in IT Courses. In: FIE'2002 - IEEE Frontiers in Education Conference, 2002, Boston. IEEE Frontiers in Education Conference, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "GOUGH, Michael Paul ; BUCKLEY, A. M. ; Bezerra, E. A. . Intelligent Instruments for the Space Environment. In: First International Symposium on Future Intelligent Earth Observing Systems, 2002, Denver, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; AMORY, A. ; ; Bezerra, E. A. ; PETRINI, J. . Using the CAN Protocol and Reconfigurable Computing Technology for Web-Based Smart House Automation. In: SBCCI - XIV SYMPOSIUM ON INTEGRATED CIRCUITS AND SYSTEMS, 2001, Pirenopolis. SBCCI, 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; GOUGH, Michael Paul ; ; ; ; EINSFIELD, A. ; POUCHET, M. ; BARROS JUNIOR, D. ; WULFF, L. . Reckon - A reconfigurable prototyping kit for engineering and IT laboratory based courses. In: SCR'2001 - CONFIGURABLE COMPUTING SYMPOSIUM, 2001, Belo Horizonte. UFMG, 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; GOUGH, Michael Paul . Merging BIST and Configurable Computing Technology to Improve Availability in Space Applications. In: LATW'00 - 1st IEEE Latin-American Test Workshop, 2000, Rio de Janeiro. LATW'00 - 1st IEEE Latin-American Test Workshop, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; OZCERIT, A. ; GOUGH, Michael Paul . Improving the Dependability of Embedded Systems Using Configurable Computing Technology. In: ISCIS'99 - XIV. International Symposium on Computer and Information Sciences, 1999, Izmir. ISCIS'99 - XIV. International Symposium on Computer and Information Sciences, 1999. p. 49-56.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; GOUGH, Michael Paul ; BUCKLEY, A. . A VHDL implementation of an on-board ACF application targeting FPGAs.. In: MAPLD'99 - 2nd Annual Military and Aerospace Applications of Programmable Devices and Technologies Conference, 1999, Maryland. MAPLD'99 - 2nd Annual Military and Aerospace Applications of Programmable Devices and Technologies Conference, 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; WULFF, L. ; BARROS JR, D. . Reliability Verification of Digital Systems Design Based on Mutation Analysis. In: 7th IEEE Asian Test Symposium - ATS¿98, 1998, .. 7th IEEE Asian Test Symposium - ATS\"98, 1998. p. 52-57.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; WULFF, L. ; BARROS JR, D. . Reliability-Oriented Hardware/Software Partitioning Approach. In: 4th International IEEE On-Line Testing Workshop, 1998, Capri. 4th International IEEE On-Line Testing Workshop, 1998. p. 17-22.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; ; JP, K. . Improving Transputer Internal Memory Reliability with Transparent Test: Case Study and Performance Analysis. In: IFAC - Symposium on Fault Detection, Supervision and Safety for Technical Process: SAFEPROCESS'97, 1997, Hull. IFAC - Symposium on Fault Detection, Supervision and Safety for Technical Process: SAFEPROCESS'97, 1997. p. 609-614.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; Bezerra, E. A. . HardSoft - Plataforma Reconfigurável para Caracterização sob Radiação de Componentes Eletrônicos Empregados em Satélites. In: VII SCTF - Simpósio de Computadores Tolerantes a Falhas, 1997, Campina Grande. VII SCTF - Simpósio de Computadores Tolerantes a Falhas, 1997. p. 139-152.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; . Implementing Transparent BIST for Transputer Embedded Memory. In: Congress of the Brazilian Microelectronics Society, 1996, Águas de Lindóia. Congress of the Brazilian Microelectronics Society, 1996. p. 10-20.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; . Procedimento de Teste para Detecção de Falhas no Transputer. In: VI SCTF - Simpósio de Computadores Tolerantes a Falhas, 1995, Canela. VI SCTF - Simpósio de Computadores Tolerantes a Falhas, 1995. p. 201-219.",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "MARCELINO, G. M. ; SCHULZ, V. H. ; Bezerra, Eduardo Augusto . A Memory Efficient Star Tracker Centroid Extraction Method Based on Stream Processing Using FPGAs. In: 10th European Cubesat Symposium, 2018, Toulouse. 10th European Cubesat Symposium. Toulouse, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "MARTINEZ, S. V. ; MORSCH FILHO, E. ; SLONGO, LEONARDO KESSLER ; POSSAMAI, T. S. ; NICOLAU, V. P. ; BEZERRA, E.A. . Nanosatellite energy harvesting estimation combining thermal-computational and electric-analytical models. In: 10th European Cubesat Symposium, 2018, Toulouse. 10th European Cubesat Symposium. Toulouse, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FEITOZA, R. S. ; MATTEI, A. P. ; SIQUEIRA, G. L. ; Bezerra, Eduardo Augusto . Graphene-Based Ka Band Tunable Antenna for Nanosatellites Applications. In: 10th European Cubesat Symposium, 2018, Toulouse. 10th European Cubesat Symposium. Toulouse, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . International Academy of Astronautics Latin American Cubesat. In: United Nations/Brazil Symposium on Basic Space Technology, 2018, Natal. United Nations/Brazil Symposium on Basic Space Technology, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "TONFAT, J. ; AZAMBUJA, J. R. ; NAZAR, G. ; RECH, P. ; FROST, C. ; KASTENSMIDT, F. L. ; CARRO, Luigi ; Reis ; ; ; Bezerra, Eduardo Augusto . Analyzing the Influence of Voltage Scaling for Soft Errors in SRAM-based FPGAs. In: Radiation Effects on Components and Systems, 2013, Oxford. RADECS 2013 - Radiation Effects on Components and Systems. Oxford: Oxford, 2013. v. 1. p. 101-104.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; Bezerra, Eduardo Augusto ; ; AZEVEDO, Luciano ; Reif, Carlos ; . A Flexible Design Flow for a Low Power RFID Tag. In: VLSI-SoC, 2007, Atlanta. 15th Annual IFIP International Conference on VLSI, 2007. v. 1. p. 1-1.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, Andrei Oliveira da ; SCHNEIDER, Paulo Henrique de Souza ; CABRAL, Fabricio D¿avila ; SILVA, Ana Cristina Benso da ; OLIVEIRA, Joao Batista de ; Bezerra, E. A. . Towards service and user discovery on wireless networks. In: ACM International Workshop on Mobility Management and Wireless Access (MOBIWAC) 04, 2004, Philadelphia. Proceedings of the Mobiwac 2004, 2004. v. 1. p. 79-82.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; Bezerra, E. A. ; . Arquitetura de indexação aplicada a servidores PACS para processamento de imagens. In: SIBIGRAPI 2007 - The Brazilian Symposium on Computer Graphics and Image Processing, 2007, Belo Horizonte. SIBIGRAPI 2007. Belo Horizonte: UFMG, 2007. v. 1. p. 1-8.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; SILVA, Ana Cristina Benso da ; OLIVEIRA, Joao Batista de . Mobile Systems at CPSE. In: II HP Brazil Tech Symposium, 2005, Porto Alegre. Sem anais, 2005. v. s.v..",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; TERROSO, Anderson . Testability Verification of Embedded Systems Based on Weak Mutation Analysis. In: 3rd IEEE International Workshop on Testing Embedded Core-Based System-Chips, 1999, Dana Point. 3rd IEEE International Workshop on Testing Embedded Core-Based System-Chips, 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "GOUGH, Michael Paul ; BUCKLEY, A. ; Bezerra, E. A. . The Electron Correlator: A Tool for Direct Studies of Wave-Particle Interactions. In: American Geophysical Union, 1999 Fall Meeting, 1999, San Francisco. American Geophysical Union, 1999 Fall Meeting, 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; . VI SCTF - Simpósio de Computadores Tolerantes a Falhas. In: X SBMICRO - Congress of the Brazilian Microeletronics Society, 1995, Canela. X SBMICRO - Congress of the Brazilian Microeletronics Society, 1995. p. 722-722.",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos (artigos)",
+      "items": [
+        {
+          "texto": "Bezerra, E. A. ; . Test Procedure for Faults Detection in the Transputer Processor. Journal of Solid State Devices and Circuits , Sao Paulo, v. 5, n.1, p. 27-27, 1997.",
+          "ano": 1997,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "Bezerra, E. A. . Reconfigurable Systems in Space Instrumentation. Brighton: University of Sussex, 2002 (Tese de doutorado).",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Procedimento de Teste para Detecção de Falhas no Processador Transputer. Porto Alegre: UFRGS, 1996 (Dissertacao de Mestrado).",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; SCHRAMM, J. F. L. . User's Guide to the P4 Programming System. Porto Alegre: UFRGS, 1994 (Relatorio de pesquisa).",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Definição de Grafos de Execução Abstrata para Realização de Teste Funcional no Transputer. Porto Alegre: UFRGS, 1994 (Relatorio de pesquisa).",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Um Emulador para o Microcontrolador 8051 da INTEL. Rio de janeiro: USURJ, 1990 (Trabalho de Conclusao de Curso de Engenharia).",
+          "ano": 1990,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "Bezerra, E. A. ; CASTRO, Flávio Steffens de ; CÉSAR FILHO, João Augusto ; CHARCZUK, Jefferson Bicca ; RUHRWIEM, Carlos Eduardo ; SÁ, Luiz Henrique de ; TEIXEIRA JR, C. A. ; SILVEIRA, Fernando Albuquerque . Ronda-RT: Gerencia de trabalhadores moveis na Web. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . A VHDL implementation of an on-board ACF application targeting FPGAs. 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . HDLGen - A framework for automatic generation of synthesisable VHDL templates. 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; POUCHET, M. . Kit de ensino para laboratórios de engenharia e informática. 1998.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; KUPAC, R. . Controle de acesso a Refinaria Alberto Pasqualini. 1996.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Procedimento de Teste para Detecção de Falhas no Processador Transputer. 1995.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Parser occam para Handel-C. 1995.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; . Procedimento de teste para o processador transputer. 1995.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA JR, C. A. ; Bezerra, E. A. . Coleta de dados sobre utilizacao de linhas telefonicas. 1994.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Controle de acesso as dependencias da empresa. 1993.",
+          "ano": 1993,
+          "doi": ""
+        },
+        {
+          "texto": "TEIXEIRA JR, C. A. ; Bezerra, E. A. . COMTRIX - Ferramenta para conexao de coletores de dados a rede unix. 1993.",
+          "ano": 1993,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Coleta de leituras de consumo de energia eletrica. 1992.",
+          "ano": 1992,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Controle de acesso as instalacoes de industria. 1992.",
+          "ano": 1992,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Controle de producao de pecas plasticas. 1992.",
+          "ano": 1992,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Controle de rebanho bovino. 1991.",
+          "ano": 1991,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Um emulador para o microcontrolador 8051. 1990.",
+          "ano": 1990,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Capacimetro inteligente. 1989.",
+          "ano": 1989,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Simulador de movimento de embarcacao (navio ou submarino). 1988.",
+          "ano": 1988,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "Bezerra, E. A. ; ; ; . Codificadores/decodificadores RS e BCH para aplicacoes espaciais (CCSDS). 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; POUCHET, M. . Kit de ensino para laboratórios de engenharia e informática. 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Um emulador para o microcontrolador 8051. 1990.",
+          "ano": 1990,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. . Capacimetro inteligente. 1989.",
+          "ano": 1989,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BERGAMINI, E. W. . Review of CCSDS 876.1-R-2, Spacescraft Onboard Interface Services -- Specification for Dictionary of Terms for Eletronic Data Sheets. Red Book. Issue 2. June 2016.. 2016.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MUNSAMI, V. ; RESEMINI, D. ; BROWN, J. B. . Brazil-South Africa Space Industry Virtual Summit 2022. 2022. (Programa de rádio ou TV/Mesa redonda).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; TREIN, C. A. ; COLUCCI, R. . I Encontro Paranaense de Empreendedorismo e Inovação no Setor Espacial. 2022. (Programa de rádio ou TV/Mesa redonda).",
+          "ano": 2022,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto . Joint 5th IAA Latin American CubeSat Workshop and 3rd IAA Latin American Symposium on Small Satellites. 2022; Tema: Website de evento internacional. (Site).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . IV Latin American IAA CubeSat Workshop. 2020; Tema: Website de evento internacional. (Site).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . III Latin American IAA CubeSat Workshop. 2018; Tema: Website de evento internacional. (Site).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . SpaceLab. 2018; Tema: Divulgação das missões espaciais em andamento na UFSC.. (Site).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . II Latin American IAA CubeSat Workshop. 2016; Tema: Website de evento internacional. (Site).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . I Latin American IAA CubeSat Workshop. 2014; Tema: Website de evento internacional. (Site).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto . Website UFSC. 2010; Tema: Página do professor. (Site).",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "AUGUSTO BEZERRA, EDUARDO ; CARBONARI, M. J.; RAMBO, C. R.; NASCIMENTO, R. M.. Participação em banca de Marcela Bastos Pereira Veiga. Plataforma Computacional Automatizada para Caracterização Físico-Química de Superfícies e Interfaces com Análise Multivariada e Abordagem Orientada por Dados. 2026. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; LEONG, P.; DIESSEL, O.. Participação em banca de Hongda Zhou. Accelerating RaVÆn for Real-time Satellite Image Change Detection. 2025. Dissertação (Mestrado em Master in Engineering (Electrical Engineering)) - University of New South Wales.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; HECKLER, M. V. T.; GOMES, N. R.; CARPES JUNIOR, W.. Participação em banca de Yunior Alcantara Guevara. Módulo de antena filamentar ejetável para a plataforma FloripaSat-2. 2025. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; . Participação em banca de Andrew Rafael Fritsch. Overlapping Error Correction Codes on Two-Dimensional Structures. 2025. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AUGUSTO BEZERRA, EDUARDO ; CETIN, E.; REZNIK, M.. Participação em banca de Keeran Smith. Software Defined Radio for Space Applications. 2024. Dissertação (Mestrado em Master of Research Science and Engineering) - Macquarie University.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CETIN, E.; KAN, A.. Participação em banca de Duc Dung Vu. Hardware Implementation of Fast Particle Filter for Interference Source Tracking. 2023. Dissertação (Mestrado em Master of Research Science and Engineering) - Macquarie University.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CETIN, E.; BEVINGTON, J.. Participação em banca de Vu Hoang Thang Chau. Development and Implementation of a Laser Heterodyne Radiometer (LHR) Digital Front-end Processor. 2023. Dissertação (Mestrado em Master of Research Science and Engineering) - Macquarie University.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, EDUARDO ; PEREIRA, W. D.; ZEFERINO, C. A.; SEMAN, L. O.. Participação em banca de Lucas Daniel Lira da Silva. Predição de Movimentos de Membros Superiores por Equação Biomecânica com Eletromiografia. 2022. Dissertação (Mestrado em Programa de Mestrado Acadêmico em Computação Aplicada) - Universidade do Vale do Itajaí.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BACURAU, R. M.; MORAES, F. J. O.; . Participação em banca de Eduardo Pedó Gutkoski. Noise modelling in low-cost MEMs IMU sensors using experimental data. 2022. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; SEMAN, L. O.; STARKE, R. A.. Participação em banca de Cleisson Fernandes da Silva. Acelerador para a Convolução de Redes Neurais Binárias visando Computação de Borda. 2022. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "AUGUSTO BEZERRA, EDUARDO ; SEMAN, L. O.; LAZZARIN, T. B.; PACOLA, E. R.. Participação em banca de Vinicius Pimenta Bernardo. Hardware-in-the-loop verification of an on-board energy-driven scheduling algorithm for CubeSats. 2022. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, EDUARDO ; ; MATOS, R.; ROLDAN, H. P.. Participação em banca de Émerson da Trindade Lemos. Análise e Reformulação do Arcabouço de Interconexão do Floripasat Visando Mitigação de Falhas nas Camadas Física e de Enlace de Dados. 2021. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, EDUARDO ; SILVA, D.; CARVALHO, L. F.; SEMAN, L. O.. Participação em banca de Guilherme Henrique dos Santos. Static Attitude Determination Using Convolutional Neural Networks. 2021. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, EDUARDO ; ; PAIVA, K. V.; LEONARDI, R.. Participação em banca de Kleber Reis Gouveia Júnior. Fluxo de apoio à concepção de hardware para o segmento espacial visando melhoria de confiabilidade de missões cubesat. 2021. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SEMAN, L. O.; SLONGO, LEONARDO KESSLER; BEREJUCK, MARCELO DANIEL. Participação em banca de Lucas Matana Luza. A radiation-hardened communication module for small satellites. 2019. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SILVA, A. K.; SLONGO, LEONARDO KESSLER; GUTHS, S.. Participação em banca de Bruno Silva Emerick. Desenvolvimento de plataforma autônoma para experimentação do fenômeno de ebulição em piscina. 2019. Dissertação (Mestrado em Programa de Pós-Graduação em Egenharia Mecânica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; BEREJUCK, M. D.; ROLDAN, H. P.. Participação em banca de Rodrigo Travessini. Low Overhead Soft Error Reliabiliy Improvement for Soft Processors. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MARQUES, J. L. B.; JUNQUEIRA, C. C. M.; Souza, F. R.. Participação em banca de Rafael Gonçalves Licursi de Mello. Modern techniques to locate and identify radars with low volume, weight, costs and processing capabilities. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CABRERA, F. L.; NEVES, B. S.. Participação em banca de Luana Vieira Martinez. Avaliação de Arquiteturas de Hardware para Acelerar as Operações Aritméticas da Camada Convolucional em Redes Neurais Convolucionais. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; MEINHARDT, C.; SEMAN, L. O.. Participação em banca de Elder Dominghini Tramontin. Estratégia para atualização remota de sistemas computacionais embarcados em satélites: um estudo de caso com o nanossatélite FloripaSat-I. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; AMORY, A.; FLOREZ, M. J. S.; . Participação em banca de Ramon Costi Fernandes. A security-aware routing approach for networks-on-chip. 2017. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; GRACIOLI, G.; ROLDAN, H. P.; BECKER, Leandro Buss; DILILLO, L.. Participação em banca de João Gabriel Reis. A framework for predictable hardware/software component reconfiguration. 2016. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; AMORY, A.. Participação em banca de Marco Pokorski Stefani. Algoritmos para particionamento e mapeamento de aplicacoes em redes intrachip 3D. 2015. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; HEXSEL, R.; MULLER JR, B.. Participação em banca de Victor Hugo Schulz. Implementação de Simultaneous Localization and Mapping (SLAM) em plataforma reconfigurável. 2015. Dissertação (Mestrado em Programa de Pos-Graduacao em Informatica) - Universidade Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "DIAS, R. A.; HELDWEIN, M. L.; STIVANELLO, M. E.; Bezerra, Eduardo Augusto . Participação em banca de Giovani Batista de Souza. Estudo e Avaliação do Padrão OPC-UA e de Plataformas de Desenvolvimento com Estudo de Caso: Monitoramento Remoto de Painéis Fotovoltáicos. 2015. Dissertação (Mestrado em Programa de Pos-Graduacao em Mecatronica) - Instituto Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; DIAS, R. A.; NOLL, V.; DUTRA, C. B. S.. Participação em banca de Daniel Cleyton Moreira. Implementação de Redundância em Segmentos de Rede EtherCAT. 2014. Dissertação (Mestrado em Programa de Pós-Graduação em Mecatrônica) - Instituto Federal Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ; ORTMANN, M. S.. Participação em banca de Paulo Ricardo Cechelero Villa. Plataforma de desenvolvimento baseada em tecnologia reconfigurável para conversores de energia inteligentes. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Frohlich; Bezerra, Eduardo Augusto ; ; ZEFERINO, C. A.. Participação em banca de Tiago Rogerio Muck. Projeto unificado de componentes em hardware e software para sistemas embarcados. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; MAILLARD, P. A. J.. Participação em banca de Luiz Henrique Feltes. MD-UTS: Um Modelo para Desenvolvimento de Sistemas Ubíquos de Transporte. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Computação Aplicada) - Universidade do Vale do Rio dos Sinos.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; DIAS, R. A.; NOLL, V.. Participação em banca de Everson Osvanir da Silva. Estudo de Plataformas de Desenvolvimento para Controle de Processos Empregando Sistemas Embarcados e Lógica Programável. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Mecatrônica) - Instituto Federal Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; FARINES, J.; Güntzel, J. L.; . Participação em banca de Wesley Goncalves Silva. Geracao Automatica de Propriedades para Verificacao Formal de uma Aplicacao Espacial Baseada em FPGA. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; BECKER, Leandro Buss; Güntzel, J. L.; . Participação em banca de Daniel dos Santos. Desenvolvimento de um Sistema para a Deteccao de Sinais de Transito Brasileiros. 2013. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ; Rocha, Carlos Aurélio Faria; Moraes, R.. Participação em banca de Leonardo Kessler Slongo. Circuitos coletores de energia solar para sistemas embarcados de baixo consumo. 2013. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ; Moraes, R.; Rocha, Carlos Aurélio Faria. Participação em banca de Felipe Augusto da Silva. Concepção e validação de arquitetura robusta baseada em soft processors para uso em computadores de bordo de saélites artificiais. 2013. Dissertação (Mestrado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ; Güntzel, J. L.. Participação em banca de Frederico Ferlini. PLAESER - Plataforma de Emulação de SOFT ERRORS visando a análise experimental de técnicas de tolerância a falhas: uma prototipação rápida utilizando FPGAs. 2012. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "BECKER, Leandro Buss; Frohlich; Rocha, Carlos Aurélio Faria; STEMMER, M. R.; Bezerra, Eduardo Augusto . Participação em banca de Cleiber Marques da Silva. Uma Arquitetura Reconfigurável Heterogênea para Rádios Definidos por Software Utilizando uma Rede-em-Chip. 2012. Dissertação (Mestrado em Pós-Graduação em Eng. de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; POEHLS, L. M. B.; ; Bezerra, Eduardo Augusto . Participação em banca de Arthur Denicol Ceratti. Desenvolvimento de um Sensor \"on-chip\" para Monitoramento do Envelhecimento de SRAMs. 2012. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica - PUCRS) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "FERNANDES, Luis Gustavo; Bezerra, Eduardo Augusto ; . Participação em banca de Rafael Nemetz. Acelerando o Fluxo Global de Tarefas no Processo de Impressão Distribuída. 2011. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; LUBASZEWSKI, M.; AMORY, A.. Participação em banca de Alzemiro Henrique Lucas da Silva. Implementação e avaliação de métodos para confiabilidade de redes intra-chip. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Frohlich; Bezerra, Eduardo Augusto ; Willrich, Roberto; Rocha, Carlos Aurélio Faria. Participação em banca de Danillo Moura Santos. API Multiplataforma para Aplicações Multimídia Embarcadas. 2010. Dissertação (Mestrado em Mestrado em Ciência da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; . Participação em banca de Luciano Rigelo Azevedo. Aspectos de Confiabilidade na Implementação da Unidade de Telecomando e Telemetria para Plataformas Orbitais. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; CARRO, Luigi; . Participação em banca de Taciano Ares Rodolfo. Uma exploração do espaço de projeto de processadores com hardware de ponto flutuante em FPGAs. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; SOUZA, Osmar Norberto de. Participação em banca de Adilson Arthur Mohr. PMEMD-HW: Simulação por Dinâmica Molecular Usando Hardware Reconfigurável. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; Ribeiro, M. B.; Gimenes, Itana. Participação em banca de Leonardo Dave Viccari. Automação de teste de software através de linhas de produtos e testes baseados em modelos. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "BECKER, Leandro Buss; Frohlich; GURJAO, E. C.; Bezerra, Eduardo Augusto ; FARINES, J.. Participação em banca de Roberto de Matos. Arquitetura de Canais para Rádios Definidos por Software de Múltiplas Camadas. 2010. Dissertação (Mestrado em Pós-Graduação em Eng. de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVEIRA, Toacy Cavalcante; Bezerra, Eduardo Augusto . Participação em banca de Alexis Mulattieri Suarez Orozco. Linha de Produtos de Testes Baseados em Modelos. 2009. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Bezerra, Eduardo Augusto . Participação em banca de Valderi Reis Quietinho Leithardt. Modelo Gerenciador de Descoberta de Serviços Pervasivos Ciente de Contexto. 2009. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; WEBER, Taisy Silva; Bezerra, Eduardo Augusto . Participação em banca de Karine de Pinho Peralta. Estratégia para Especificação e Geração de Casos de Teste a Partir de Modelos UML. 2009. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; SOUZA, Osmar Norberto de; ; . Participação em banca de Maicon Aparecido Sartin. Uma API de Comunicação para Aceleração por Hardware de Simuladores Moleculares. 2009. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; . Participação em banca de Juliana Fonseca Antunes. Tolerância a Falhas com um Modelo de Agentes. 2009. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; ; Frohlich. Participação em banca de Sérgio Johan Filho. Estimativa de Desempenho de Software e Consumo de Energia em MPSoCs Utilizando a Plataforma N-MIPS. 2008. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; . Participação em banca de Marlon Leandro Moraes. Validação de uma Técnica para o Aumento da Robustez de SOC's a Flutuações no Barramento de Alimentação. 2008. Dissertação (Mestrado em Programa de Pos Graduacao Em Engenharia Eletrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; SILVA, Ana Cristina Benso da; . Participação em banca de Márcio Martins Farias. Protocolo de Roteamento para Redes Wireless Mesh. 2008. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SILVA, Ana Cristina Benso da; . Participação em banca de Alexandre Gaddo. Avaliação de Transferência de Informações de Rastreamento Veicular sobre Redes GPRS. 2008. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; . Participação em banca de Jeferson Librelotto Prevedello. Uso de Plug-ins para Geração de Interações Multiparticipantes Confiáveis. 2008. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "NUNES, Raul Ceretta; Bezerra, Eduardo Augusto ; Kozakevicius, Alice de Jesus. Participação em banca de Edgar Camilo Volpato. Apoio à Decisão na Detecção de Flutter e Fibrilação Ventricular em Eletrocardiograma. 2008. Dissertação (Mestrado em Programa de Pós-Graduação em Eng. de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; CLAUDIO, Dalcidio Moraes; . Participação em banca de Gabriel Marchesan Almeida. Sistema de Telecomando e Telemetria para Aplicações Espaciais Utilizando Códigos Corretores de Erros em Hardware. 2007. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Juliano D'Ornelas Benfica. Plataforma para Teste e Projeto de SoCs (Systems-on-Chip) Robustos a Interferencia Eletromagnetica. 2007. Dissertação (Mestrado em Mestrado Em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Luis Henrique Leal Ries. Uma Plataforma para Integrar Dispositivos Eletronicos em Ambientes Pervasivos. 2007. Dissertação (Mestrado em Mestrado em Ciencia da Computacao) - Ppgcc.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; SILVA, Ana Cristina Benso da. Participação em banca de Marcio Garcia Martins. Modelo de Protocolo para Formacao de Redes Ad hoc Bluetooth. 2007. Dissertação (Mestrado em Mestrado em Ciencia da Computacao) - Ppgcc.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Claudia Antunes Rocha. Monitoramento do Fluxo de Controle de Processadores Embarcados Baseado em Profiling de Software. 2007. Dissertação (Mestrado em Mestrado Em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Frohlich. Participação em banca de David Matschulat. Provisao de Qualidade de Servico em Escalonadores para Sistemas Operacionais Embarcados de Tempo-Real. 2007. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Fabio Sidiomar Zamperetti Duarte. Nucleo IP de uma Bridge Ethernet Baseado em Logica Reconfiguravel e Processador SoftCore. 2007. Dissertação (Mestrado em Programa de Pos Graduacao Em Engenharia Eletrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; Ribeiro, M. B.; . Participação em banca de Daniel da Silva Cotrim. Arquitetura de Indexação Aplicada a Servidores PACS para Processamento de Imagens. 2007. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, Ana Cristina Benso da; . Participação em banca de Guilherme Frederico Rohde. R-MAC: Protocolo de Acesso ao Meio para Consumo Eficiente de Energia em Redes de Sensores sem Fio. 2007. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; NUNES, Raul Ceretta. Participação em banca de Leonardo Albernaz Amaral. Diminuicao da Intrusao do Teste de Software em Programas Paralelos.. 2006. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; STRUM, Marius. Participação em banca de Rafael Iankowski Soares. Infra-estrutura e Implementação de Controle de Configurações em Software para Hardware Reconfigurável. 2006. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; AZEVEDO, Dario F G de; RUSSOMANO, Thaís. Participação em banca de Leo Fabricio Pereira. Desenvolvimento de um Sistema de Verificacao da Pressao Arterial atraves do Metodo Oscilometrico. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Leonardo Bisch Piccoli. Solucoes Hibridas em Hardware/Software para Deteccao de Erros em Systems-on-Chip (SoC) de Tempo Real. 2006. Dissertação (Mestrado em Mestrado Em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Rafael Jordan Petermann. Modelo de Mineracao de Dados para Classificacao de Clientes em Telecomunicacoes. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; . Participação em banca de Daniel Ordobás Bortolás. Diversidade Orientada à Mutação para Melhoria de Manutenção e Confiabilidade. 2005. Dissertação (Mestrado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DIAS, Guilherme A. D.. Participação em banca de Danniel Cavalcante Lopes. Estimacao de Robustez de Sistemas Eletronicos Via Injecao de Falhas por Interferencia Eletromagnetica. 2005. Dissertação (Mestrado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; CESAR NETTO, Joao. Participação em banca de Luis Carlos Mieres Caruso. Proposta de Arquitetura para NIDS Acelerado por Hardware. 2005. Dissertação (Mestrado em Mestrado Em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; HORTA, Edson Lemos; TORRES, Lionel. Participação em banca de Leandro Heleno Möller. Sistemas Dinamicamente Reconfiguraveis com Comunicacao via Redes Intra-chip. 2005. Dissertação (Mestrado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; AZEVEDO, Dario F G de; RUSSOMANO, Thaís. Participação em banca de Mauricio Machado da Rosa. Desenvolvimento de um Sistema de Comunicação e Monitoramento de uma Centrifuga Humana. 2005. Dissertação (Mestrado em Programa de Pos Graduacao Em Engenharia Eletrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; ; BAMPI, Sergio; . Participação em banca de Ewerson Luiz de Souza Carvalho. RSCM - Controlador de Configuracoes para Sistemas de Hardware Reconfiguravel. 2004. Dissertação (Mestrado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; SOUZA, Osmar Norberto de; FREITAS, Carla Maria Dal Sasso; OLIVEIRA, Joao Batista de. Participação em banca de Anibal Lopes Guedes. Representacao 2 e 3D de Arvores Usando Escala. 2004. Dissertação (Mestrado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; CARRO, Luigi; ; . Participação em banca de Eduardo Wenzel Briao. Reconfiguracao Parcial e Dinamica para Nucleos de Propriedade Intelectual. 2004. Dissertação (Mestrado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; WAGNER, Flavio Rech; . Participação em banca de Djones Vinicius Lettnin. Proposta de um nucleo de IP para classificacao de sinais cardiacos baseado em tecnicas de redes neurais e de tolerancia a falhas.. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; SOUZA, Osmar Norberto de; RUIZ, Duncan Dubugras Alcoba. Participação em banca de Andrei Oliveira da Silva. Um framework para o desenho racional de drogas. 2004. Dissertação (Mestrado em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MORAIS, F. J. O.; SILVEIRA, J. A. N.. Participação em banca de Raphael Diego Comesanha e Silva. Proposta Unificada para Estimação de Movimento e Estado Energético em Sistemas Embarcados Alimentados por Bateria. 2026. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; LEONARDI, R.; SANTOS, W. A.; . Participação em banca de Gabriel Mariano Marcelino. Towards the Conception of GNSS Networks Based on Small Satellites. 2025. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CARRO, Luigi; MAYER, J.; KREUTZ, M. E.; . Participação em banca de Felipe Viel. Exploring Hardware Acceleration of a Transformer-Based Architecture for Hyperspectral Image Classification. 2025. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; GUIMARAES, P. V.; BISPO, B. C.; PAUL, S.. Participação em banca de Ian Garner Downie. Desenvolvimento de um sistema de medição de energia espectral de ondas marítimas por GNSS. 2025. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; SILVEIRA, J. A. N.; BARROSO, G. C.; MARTINS, J. B. S.; KREUTZ, M. E.. Participação em banca de Alan Cadore Pinheiro. Arquitetura Elástica de Buffer para Redes Intrachip com Proteção de Dados Através de Códigos Corretores de Erros. 2024. Tese (Doutorado em Programa de Pós-Graduação em Engenharia de Teleinformática) - Universidade Federal do Ceará.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "AUGUSTO BEZERRA, EDUARDO ; SANTOS, W. A.; CHAGAS, R. A. J.; MEDEIROS, C.; CERQUEIRA, C. S.; FARIA, M. C. P.. Participação em banca de Italo Pinto Rodrigues. Análise Exploratória para Modelagem do Envelhecimento de Baterias em um Simulador Operacional de Satélites​. 2024. Tese (Doutorado em Doutorado) - Instituto Nacional de Pesquisas Espaciais.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; SILVEIRA, J. A. N.; KREUTZ, M. E.; . Participação em banca de Marco Pokorski Stefani. Dynamic Fault Tolerant Mechanism for Memory Controllers. 2023. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; SEMAN, L. O.; KESSLER SLONGO, LEONARDO; MORSCH FILHO, E.. Participação em banca de Sara Vega Martinez. Nanosatellite task scheduling algorithm for energy harvesting and QoS enhancement tested through a self-proposed thermal-electrical model. 2022. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BEZERRA, EDUARDO ; CARLSON, R. C.; BARRETO, R. S.; BECKER, Leandro Buss. Participação em banca de Diego Câmara Sales. Abordagem para Evolução da Arquitetura de Sistemas Embarcados com Uso Intenso de Sensores e Atuadores. 2021. Tese (Doutorado em Pós Graduação em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; NICOLAU, V. P.; SCHNEIDER, P. S.; PAIVA, K. V.. Participação em banca de Edemar Morsch Filho. An Integrated Irradiance and Thermal Framework for Simulation of Cubesats. 2021. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Mecânica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SANGKYUN, K.; ; SEMAN, L. O.. Participação em banca de Victor Hugo Schulz. Verification Platform for Improving the Design and Test of Star Trackers. 2020. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; KASTENSMIDT, F. L.; ; . Participação em banca de Vinicius Morais Fochi. Fault-tolerance at the management level in many-core systems. 2019. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; DIGUET, J.; MARTIN, K. J.; KREUTZ, M. E.; . Participação em banca de Rodrigo Cadore Cataldo. Subutai: Distributed Synchronization Primitives for Legacy and Novel Parallel Applications. 2019. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; DILILLO, L.; BEREJUCK, M. D.; ; ROLDAN, H. P.. Participação em banca de Paulo Ricardo Cechelero Villa. Reliability enhanced microprocessor architecture for the on-board computer of future satellites. 2018. Tese (Doutorado em PROGRAMA DE POS GRADUAÇÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BOSIO, A.; OTTAVI, M.; WROBEL, F.; ROUZEYRE, B.; AZIZA, H.; ARMANI, J.. Participação em banca de Emna Farjallah. Monitoring des effets de la température sur les mémoires CMOS. 2018. Tese (Doutorado em École doctorale: Information, Structures, Systèmes) - University of Montpellier.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "DILILLO, L.; Bezerra, E. A. ; WROBEL, F.; MEKKI, J.; TSIGLIANNIS, G.; DUSSEAU, L.; SAIGNE, F.; FERLET-CAVROIS, V.; PACCAGNELLA, A.; MOHAMMADZADEH, A.. Participação em banca de Viyas Gupta. Analysis of single event radiation effects and fault mechanisms in SRAM, FRAM and NAND Flash: Application to the MTCube nanosatellite project. 2017. Tese (Doutorado em Microeletronica) - Université Paul Valery Montpellier III.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MONTEZ, C. B.; GUEDES, L. A.; Bezerra, Eduardo Augusto ; COUTINHO, D. F.. Participação em banca de Leonardo Martins Rodrigues. A Temperature-Dependent Battery Model for Wireless Sensor Network Nodes. 2017. Tese (Doutorado em Engenharia de Automação e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; KRAUS JUNIOR, W.; PETRY, C. A.; GOMES, G.; DOMINGUES, M. J. C. S.. Participação em banca de Laio Oriel Seman. Mínimos quadrados parciais na modelagem da aprendizagem ativa na Engenharia Elétrica. 2017. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; C. NETO, H.; SEMIAO, J. F. L. C.; ; ; ROLDAN, H. P.. Participação em banca de Victor Manuel Gonçalves Martins. Instrumentação de FPGAs SRAM para Recuperação e Prevenção de Faltas Permanentes Visando Utilização em Aplicações Espaciais. 2016. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; TEDESCO, L. P.; ; . Participação em banca de Fauzi de Moraes Shubeita. Análise e Modelagem de Sistema de Digestão Anaeróbica Monitorado para Previsão e Busca de Eficiência de Operação. 2016. Tese (Doutorado em Programa de Pós-Graduação em Ciência da Computação) - Pontifícia Universidade Católica do Rio Grande do Sul.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Souza, F. R.; ; BOSIO, A.; DILILLO, L.; DUARTE, R. P.. Participação em banca de Frederico Ferlini. Methodology to Accelerate Diagnostic Coverage Assessment: MADC. 2016. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Frohlich; ; CARRO, Luigi; ZEFERINO, C. A.; MONTEZ, C. B.; Bezerra, Eduardo A. . ParticipaÃ§Ã£o em banca de Marcelo Daniel Berejuck. Rede intra-chip com previsibilidade de latencia para uso em sistemas de tempo real. 2015. Tese (Doutorado em PÃ³s GraduaÃ§Ã£o em Engenharia de AutomaÃ§Ã£o e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CASTRO, H. S.; KASTENSMIDT, F. L.; LIPOVETZKY, J.; ; RAIZER, A.. ParticipaÃ§Ã£o em banca de Juliano D?Ornelas Benfica. Plataforma para Testes e QualificaÃ§Ã£o de Dispositivos ReconfigurÃ¡veis e Sistemas em Chip, Submetidos aos Efeitos Combinados da InterferÃªncia EletromagnÃ©tica e da RadiaÃ§Ã£o Ionizante. 2015. Tese (Doutorado em Programa de PÃ³s-graduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Fraga; DUARTE JR., E. P.; Dotti, LuÃ­s Fernando; ALCHIERI, E. A. P.; Bezerra, Eduardo Augusto ; MONTEZ, C. B.; OLIVEIRA, R. S.. ParticipaÃ§Ã£o em banca de Jim Lau. Estudos de Tecnicas de Tolerancia a Intrusao para Servicos na Internet. 2014. Tese (Doutorado em PÃ³s GraduaÃ§Ã£o em Engenharia de AutomaÃ§Ã£o e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; CARARA, E. A.. ParticipaÃ§Ã£o em banca de Guilherme Montez Guindani. Mecanismo de Controle de QoS AtravÃ©s de DFS em MPSoCs. 2014. Tese (Doutorado em Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "STEMMER, M. R.; Jacobi, Ricardo Pezzuol; ZEFERINO, C. A.; BECKER, Leandro Buss; Bezerra, Eduardo Augusto ; TODESCO, J. L.. ParticipaÃ§Ã£o em banca de Rafael Luiz Cancian. Um Modelo EvolucionÃ¡rio de OtimizaÃ§Ã£o Multiobjetivo para ExploraÃ§Ã£o de Projeto em Sistemas Embarcados. 2011. Tese (Doutorado em PÃ³s GraduaÃ§Ã£o em Engenharia de AutomaÃ§Ã£o e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; ; GEYER, C. F. R.. ParticipaÃ§Ã£o em banca de Leonardo Albernaz Amaral. Elevando a capacidade de integraÃ§Ã£o de sistemas de middleware RFID atravÃ©s do processamento de eventos complexos distribuÃ­dos entre diferentes organizaÃ§Ãµes e negÃ³cio. 2011. Tese (Doutorado em Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; LUBASZEWSKI, M.; . ParticipaÃ§Ã£o em banca de Rafael Iankowski Soares. Arquiteturas GALS Pipeline Para Criptografia Robusta a Ataques DPA e DEMA. 2010. Tese (Doutorado em Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; THOMPSON, A.; GOUGH, Michael Paul. ParticipaÃ§Ã£o em banca de Nicolas Huber. Reconfigurable Hardware for the Correlating Electron Spectrograph. 2007. Tese (Doutorado em Computer Engineering) - University Of Sussex.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "QualificaÃ§Ãµes de Doutorado",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SCHULZ, V. H.; Souza, F. R.; SOUZA, RICHARD DEMO. ParticipaÃ§Ã£o em banca de Lucas da Rosa Kieslich. GNSS Radio Occultation Data Processing in CubeSats: Methods, Challenges, and Implementation on Embedded Platforms. 2025. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em Engenharia ElÃ©trica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SEABRA, F.; DWYER, T. P.; PEREIRA, A. J.; DRI, C. F.. ParticipaÃ§Ã£o em banca de Yasmin Lenz Piccoli Castelli. TransferÃªncia Internacional de Tecnologia e CooperaÃ§Ã£o Brasil-China: O Impacto do Programa CBERS Para a PolÃ­tica Brasileira de InovaÃ§Ã£o no Setor Espacial.. 2025. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em RelaÃ§Ãµes Internacionais) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BACURAU, R. M.; SILVA, A. A. C.. ParticipaÃ§Ã£o em banca de JoÃ£o Paulo Bedretchuk. ReduÃ§Ã£o de RuÃ­do Baseada em Aprendizado de MÃ¡quina e FusÃ£o de Sensores para AquisiÃ§Ã£o SÃ­smica com AcelerÃ´metros MEMS Comerciais em OBNs. 2025. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-graduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SPENGLER, ANDERSON WEDDERHOFF; MORAIS, F. J. O.. ParticipaÃ§Ã£o em banca de Victor Noster KuÌrschner. Sistema de geracÌ§aÌo de energia acuÌstica submarina para sistemas embarcados. 2024. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em Engenharia ElÃ©trica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; BACURAU, R. M.; POSSAMAI, T. S.. ParticipaÃ§Ã£o em banca de Raphael Diego Comesanha e Silva. AvaliaÃ§Ã£o de FusÃ£o Sensorial de Unidades de MediÃ§Ã£o Inercial Micro-EletromecÃ¢nica Aplicada a DeterminaÃ§Ã£o de Atitude de Cubesat. 2022. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em Engenharia ElÃ©trica - PGEEL) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; FARINES, J.; CARLSON, R. C.. ParticipaÃ§Ã£o em banca de Diego CÃ¢mara Sales de Pontes e Sousa. EvoluÃ§Ã£o da Arquitetura de Sistemas: uma abordagem baseada em dispositivos COTS. 2019. Exame de qualificaÃ§Ã£o (Doutorando em PÃ³s GraduaÃ§Ã£o em Engenharia de AutomaÃ§Ã£o e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; OLIVEIRA, A. A. M.; PAIVA, K. V.. ParticipaÃ§Ã£o em banca de Edemar Morsch Filho. Maximization of Energy Generation in CuneSat by Passive Thermal Management. 2019. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em Egenharia MecÃ¢nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; . ParticipaÃ§Ã£o em banca de Rodrigo Cadore Cataldo. Distributed synchronization primitives for legacy and novel parallel applications. 2018. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ARIAS, Ronaldo; UCHOA FILHO, B. F.; BECKER, Leandro Buss; SILVA, D.. ParticipaÃ§Ã£o em banca de JuliaÌn Jair LoÌpez Salamanca. AnaÌlise e concepcÌ§aÌo de mecanismo de retransmissaÌo de telecomandos para uso em NanoÂ­sateÌlites a partir de requisitos funcionais e naÌo funcionais de uma missaÌo espacial. 2015. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-graduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ; OLIVEIRA, R. S.; CASTRO, M. B.. ParticipaÃ§Ã£o em banca de Paulo Ricardo Cechelero Villa. EstrateÌgia de rollback recovery para sistemas multiprocessados com independeÌncia de arquitetura de comunicacÌ§aÌo. 2015. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-graduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Fraga; POEHLS, L. M. B.; ; . ParticipaÃ§Ã£o em banca de Victor Manuel GonÃ§alves Martins. Plataforma para detecÃ§Ã£o e recuperaÃ§Ã£o autÃ´noma de faltas permanentes em FPGAs. 2014. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-graduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; RAMBO, C. R.; RAIZER, A.; ; . ParticipaÃ§Ã£o em banca de Juliano D'Ornelas Benfica. Metodologia e plataforma para ensaios combinados de circuitos integrados reconfigurÃ¡veis submetidos em EMI sob efeito da radiaÃ§Ã£o. 2014. Exame de qualificaÃ§Ã£o (Doutorando em PROGRAMA DE POS GRADUAÃÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "VILLANI, E.; POEHLS, L. M. B.; ; Bezerra, Eduardo Augusto ; ROLDAN, H. P.. ParticipaÃ§Ã£o em banca de Frederico Ferlini. OtimizaÃ§Ã£o de recursos para injeÃ§Ã£o de falhas em circuitos digitais atravÃ©s da combinaÃ§Ã£o de verificaÃ§Ã£o funcional e geraÃ§Ã£o automÃ¡tica de testes. 2014. Exame de qualificaÃ§Ã£o (Doutorando em PROGRAMA DE POS GRADUAÃÃO EM ENGENHARIA ELETRICA) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SILVEIRA, H. B.; AZEVEDO, R. J.; STEMMER, M. R.. ParticipaÃ§Ã£o em banca de Renan Augusto Starke. Processador VLIW Determinista para AplicaÃ§Ãµes de Tempo Real. 2013. Exame de qualificaÃ§Ã£o (Doutorando em PÃ³s GraduaÃ§Ã£o em Engenharia de AutomaÃ§Ã£o e Sistemas) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "GONCALVES, A. A.; Bezerra, Eduardo Augusto ; BECKER, Leandro Buss. ParticipaÃ§Ã£o em banca de Miguel Burg Demay. DefiniÃ§Ã£o de estratÃ©gias para projetos de sistemas de mediÃ§Ã£o com arquitetura e processamento dedicados. 2012. Exame de qualificaÃ§Ã£o (Doutorando em Programa de PÃ³s-GraduaÃ§Ã£o em Engenharia MecÃ¢nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "QualificaÃ§Ãµes de Mestrado",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Lettnin, Djones Vinicius; GÃ¼ntzel, J. L.. ParticipaÃ§Ã£o em banca de Douglas Schroeder. OtimizaÃ§Ã£o do espaÃ§o de estados para a verificaÃ§Ã£o formal de software embarcado. 2014. Exame de qualificaÃ§Ã£o (Mestrando em Programa de PÃ³s-GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusÃ£o de curso de graduaÃ§Ã£o",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MAYER, J.; MARCELINO, G. M.. ParticipaÃ§Ã£o em banca de Luan Zehnder Cancelier.ComparaÃ§Ã£o entre tÃ©cnicas de classificaÃ§Ã£o de imagens para uso em pequenos satÃ©lites. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; GUIMARAES, P. V.; MENDONCA, L. F. F.. ParticipaÃ§Ã£o em banca de Artur Nestor Patricio.Desenvolvimento e teste de um sistema fotovoltaico com rastreamento do ponto de mÃ¡xima potÃªncia para alimentaÃ§Ã£o de boias de deriva oceÃ¢nica. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CARPES JUNIOR, W. P.; DE MATTOS, ANDRE MARTINS PIO. ParticipaÃ§Ã£o em banca de VitÃ³ria Beatriz Bianchin.Walter Pereira Carpes Junior. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ALVES JUNIOR, A.; MENARIN, H. A.. ParticipaÃ§Ã£o em banca de Ygor de Azevedo Fonseca.Estudo e implementaÃ§Ã£o de interfaces homem-mÃ¡quina (IHMs) industriais embasadas em normas reconhecidas. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ROLDAN, H. P.; KIESLICH, L. R.; BARCELLOS, J. C. E.; BORBA, R. A.. ParticipaÃ§Ã£o em banca de Rebecca Quintino Do Ã.Sistema Embarcado Baseado em FPGA Tolerante Ã RadiaÃ§Ã£o para AplicaÃ§Ãµes Espaciais. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; VIEL, FELIPE; PEREIRA, RODRIGO VINICIUS MENDONÃA. ParticipaÃ§Ã£o em banca de Welliton Rigo.GeraÃ§Ã£o Aumentada via RecuperaÃ§Ã£o: combinaÃ§Ã£o de sistemas de busca com grandes modelos de linguagem. 2025. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "AUGUSTO BEZERRA, EDUARDO ; C. NETO, H.; DUARTE, R. A. P.. ParticipaÃ§Ã£o em banca de TomÃ¡s Orlando Cagica Carvalho Fernandes Fachada.Enhanced GPS Digital Receiver. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Mestrado Integrado em Engenharia EletrotÃ©cnica e Computadores) - Instituto Superior TÃ©cnico.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; DE MATTOS, ANDRÃ MARTINS PIO; BARCELLOS, J. C. E.; MARCELINO, G. M.. ParticipaÃ§Ã£o em banca de Yuri Gazzoni Rezende.Projeto de um Computador de Bordo Robusto e VersÃ¡til Para Uso em Pequenos SatÃ©lites. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; GOUVEIA JUNIOR, K. R.; MARCELINO, GABRIEL MARIANO; BARCELLOS, J. C. E.. ParticipaÃ§Ã£o em banca de Ramon de Araujo Borba.Plano de testes para mÃ³dulos de gerenciamento de energia de CubeSats. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; GÃ¼ntzel, J. L.; RIGO, CEZAR ANTONIO. ParticipaÃ§Ã£o em banca de Miguel Boing.TÃ©cnicas de mitigaÃ§Ã£o de efeitos da radiaÃ§Ã£o e sua aplicaÃ§Ã£o no projeto de uma arquitetura de hardware para uso em satÃ©lites. 2024. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CARPES JUNIOR, W. P.; PACHECO, R. L.. ParticipaÃ§Ã£o em banca de Mauricio Sinigaglia.Antena Levy, um Dipolo Alimentado com Linha Paralela Ressonante: RevisaÌo, Estudo de Caso e SimulacÌ§aÌo de um Sistema Irradiante Multibanda para Radioamadores. 2023. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; MARCELINO, GABRIEL MARIANO; BARCELLOS, J. C. E.. ParticipaÃ§Ã£o em banca de Gabriel de Oliveira Aguiar.Projeto e Desenvolvimento de um Simulador de IrradiÃ¢ncia Solar para SatÃ©lites: Replicando a IluminaÃ§Ã£o Solar com PrecisÃ£o. 2023. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Frohlich; RICO, J. E. N.. ParticipaÃ§Ã£o em banca de Matheus Wagner.Projeto e implementaÃ§Ã£o de uma estratÃ©gia de controle de atitude para CubeSats. 2022. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; POSSAMAI, T. S.; SEMAN, L. O.. ParticipaÃ§Ã£o em banca de JoÃ£o ClÃ¡udio Elsen Barcellos.Projeto e Desenvolvimento de uma Plataforma de FlatSat para Testes de Subsistemas de Cubesats. 2022. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; HOELLER JUNIOR, A. S.; MELLO, E. R.. ParticipaÃ§Ã£o em banca de Paulo Fyllipe Sell.AtualizacÌ§aÌo de Firmware em Sistemas Embarcados de Forma Segura e ConfiaÌvel. 2021. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de TelecomunicacÌ§oÌes) - Instituto Federal Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; ARMELIN, F. B.. ParticipaÃ§Ã£o em banca de AndrÃ© Martins Pio de Mattos.Development of a satellite radiation experiment for evaluating SDRAM memories in harsh environments. 2021. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; VIEL, F.. ParticipaÃ§Ã£o em banca de Ian Garner Downie.EstratÃ©gia de comunicaÃ§Ã£o para configuraÃ§Ã£o do escalonamento de atividades em nanossatÃ©lites. 2021. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; PINTARELLI, G. B.; RIGO, C. A.; GOUVEIA JUNIOR, K. R.. ParticipaÃ§Ã£o em banca de AntÃ´nio MÃ¡rio Weinsen JÃºnior.Estudo e aplicaÃ§Ã£o de visÃ£o computacional e redes neurais para localizaÃ§Ã£o e detecÃ§Ã£o de falhas em montagem de PCBs. 2020. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Rocha, Carlos AurÃ©lio Faria; RESENDE, L. S.. ParticipaÃ§Ã£o em banca de Vitor de Castro Carvalho.AnaÌlise e ImplementacÌ§aÌo de um CinturaÌo de Radares para Carros AutoÌnomos. 2020. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SLONGO, LEONARDO KESSLER; SEMAN, L. O.. ParticipaÃ§Ã£o em banca de Hemerson Farias da Silva.Conversor DC-DC do tipo boost sÃ­ncrono aplicado a nanossatÃ©lites. 2019. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Santos, L. C V.; CARPES JUNIOR, W. P.. ParticipaÃ§Ã£o em banca de Bruno de Vargas Zimpel.Gerador de testes para verificaÃ§Ã£o funcional de memÃ³ria compartilhada baseado em deep q-learning networks. 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; SLONGO, LEONARDO KESSLER; MARTIN, J.; WEIÎ. ParticipaÃ§Ã£o em banca de TÃºlio Gomes Pereira.An indoor positioning system based on ultra wideband measurements for planar cable-driven robots localization during payload analysis. 2019. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ROLDAN, H. P.; PICA, C. Q.; SLONGO, LEONARDO KESSLER. ParticipaÃ§Ã£o em banca de Bruno Luiz da Silva.Estudo e implementacÌ§aÌo de estacÌ§aÌo de carregamento de veiÌculos eleÌtricos. 2017. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MELO, D. R.; SOUZA, C. L.; SLONGO, LEONARDO KESSLER. ParticipaÃ§Ã£o em banca de Evelise Soares Pires.AnÃ¡lise e comparaÃ§Ã£o de funÃ§Ãµes de proteÃ§Ã£o implementadas em software e em hardware. 2017. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; PEREIRA, R. V. M.; PAIM, G. V.. ParticipaÃ§Ã£o em banca de Pedro Steffens Rigotti.ConcepÃ§Ã£o de Sistema Embarcado para o Controle de um Monitor MultiparamÃ©trico. 2017. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "GONTIJO, W. A.; Bezerra, Eduardo Augusto . ParticipaÃ§Ã£o em banca de Fernando Luiz Gaya.Interface de comunicaÃ§Ã£o AMBA-AHB para integraÃ§Ã£o de nÃºcleos em uma rede-em-chip. 2016. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - Universidade do Vale do ItajaÃ­.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Souza, F. R.; Bezerra, Eduardo Augusto ; STEMMER, M. R.; CABRERA, F. L.. ParticipaÃ§Ã£o em banca de Gabriel Manoel da Silva.Sistema CNC de posicionamento aplicado a caracterizacao de acoplamento indutivo. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "HELDWEIN, M. L.; Bezerra, Eduardo Augusto ; ORTMANN, M. S.. ParticipaÃ§Ã£o em banca de Gabriel Garcia de Oliveira.Dispositivo de interconexÃ£o entre microrredes inteligentes e a rede de distribuiÃ§Ã£o. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, D.; Bezerra, Eduardo Augusto ; SUZUKI, D. O. H.. ParticipaÃ§Ã£o em banca de Daniel de Souza Severo.Desenvolvimento de um sistema embarcado para monitoramento ambiental. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; . ParticipaÃ§Ã£o em banca de JoaÌo Filipe Silva Costa.Sistema Embarcado para Monitoramento de ParaÌmetros FiÌsicos em Ambientes de Servidores. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; MELO, D. R.; PEREIRA, R. V. M.. ParticipaÃ§Ã£o em banca de Luccas Meller Casagrande.Infraestrutura para interface entre a unidade de comunicacÌ§aÌo e a unidade de processamento de computador de bordo do INPE. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; LIMA FILHO, J. A.; BARRAULT, G. F. G.. ParticipaÃ§Ã£o em banca de Guilherme GonÃ§alves AraÃºjo.Desenvolvimento de um sistema de navegaÃ§Ã£o de alta precisÃ£o e baixo custo utilizando-se sistemas DGPS/IMU. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MATOS, R.; PEREIRA, R. V. M.. ParticipaÃ§Ã£o em banca de JoÃ£o Marcos de Aguiar.Receptor FM de baixo custo. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MELO, D. R.; Moraes, R.; VILLA, PAULO R. C.. ParticipaÃ§Ã£o em banca de Rodrigo Travessini.SoluÃ§Ã£o de salvamento de checkpoint para utilizaÃ§Ã£o em tÃ©cnicas de rollback/recovery em hardware no processador Leon3. 2015. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia EletrÃ´nica) - Universidade Federal de Santa Catarina.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Moraes, R.; MELO, F. E. N.; . ParticipaÃ§Ã£o em banca de Ian Koerich Maciel.SoluÃ§Ã£o baseada em System-on-a-Chip para implementaÃ§Ã£o de um osciloscÃ³pio e gerador de funÃ§Ãµes. 2014. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SILVA, D.; UCHOA FILHO, B. F.. ParticipaÃ§Ã£o em banca de Enrico Borgonovo Tridapalli.Algoritmos de codificaÃ§Ã£o de canal: um estudo sobre os cÃ³digos BCH, Reed-Solomon e Convolucional. 2014. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; Moraes, R.; BARRAULT, G. F. G.. ParticipaÃ§Ã£o em banca de Diego Tefili.Desenvolvimento de um simulador de implante coclear. 2013. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, M. H.; Bezerra, Eduardo Augusto ; MUSSA, S. A.; COBRA, D. T.. ParticipaÃ§Ã£o em banca de Davi Cesar Mendes Leal.Plataforma de aquisiÃ§Ã£o de dados para monitoramento ambiental de reservatÃ³rios hÃ­dricos. 2012. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, A. S. E.; Bezerra, Eduardo Augusto ; . ParticipaÃ§Ã£o em banca de Filipe Giacomelli.AutomatizaÃ§Ã£o de Testes em Modelos de SimulaÃ§Ã£o Utilizados em AplicaÃ§Ãµes AeronÃ¡uticas. 2012. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; COSTA, M. H.; Azevedo, F. M.; PAIVA, K. V.. ParticipaÃ§Ã£o em banca de Angela Crepaldi.Projeto e implementaÃ§Ã£o de computador de bordo para controle e monitoramento tÃ©rmico em ambiente de microgravidade. 2011. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; MUSSA, S. A.; BATISTA, E. L. O.. ParticipaÃ§Ã£o em banca de Joelder Maragno Arcaro.ClusterizaÃ§Ã£o de Base LDAP via Linux Virtual Server. 2011. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, M. H.; Bezerra, Eduardo Augusto ; LUZ, M. V. F.. ParticipaÃ§Ã£o em banca de Gustavo LeÃ£o Moreira.Sistema de Telemetria e Painel de InformaÃ§Ãµes para VeÃ­culos de CompetiÃ§Ã£o. 2011. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Frohlich; Cancian, R. L.. ParticipaÃ§Ã£o em banca de JoÃ£o Felipe Santos.Uma Arquitetura Paralela ReconfigurÃ¡vel para Processamento em Banda Base em RÃ¡dios Definidos por Software. 2010. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia ElÃ©trica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de Cristiano GarrÃ© Ferreira.ConcepÃ§Ã£o do On-Board Data Handling com Sensor Inercial para AplicaÃ§Ãµes Espaciais. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de Felipe Augusto da Silva.ConcepÃ§Ã£o do On-Board Data Handling com Sensor Inercial para AplicaÃ§Ãµes Espaciais. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, E. A. ; ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de Paulo Ricardo Cechelero Villa.ConcepÃ§Ã£o do On-Board Data Handling com Sensor Inercial para AplicaÃ§Ãµes Espaciais. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BORTOLINI, Edgar; Bezerra, Eduardo Augusto ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de TomÃ¡s Olympio Velasques Pellizzaro.Telemedicina utilizando redes sem fio ZigBee. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BORTOLINI, Edgar; Bezerra, Eduardo Augusto ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de Gustavo Sandrin Zat.Telemedicina utilizando redes sem fio ZigBee. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BORTOLINI, Edgar; Bezerra, Eduardo Augusto ; Lima, J. C. M.. ParticipaÃ§Ã£o em banca de Hugo Borchardt Heidtmann.Telemedicina utilizando redes sem fio ZigBee. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; . ParticipaÃ§Ã£o em banca de Felipe Groisman.Modelagem MATLAB para CÃ¡lculo de Atitude e Rastreio de SatÃ©lites Artificiais. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; . ParticipaÃ§Ã£o em banca de Plauto de Abreu Neto.Modelagem MATLAB para CÃ¡lculo de Atitude e Rastreio de SatÃ©lites Artificiais. 2009. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Leonardo Nunes Alegre.Sistema de MonitoraÃ§Ã£o Veicular via GPRS. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Bruno Souza de Oliveira.Sistema de MonitoraÃ§Ã£o Veicular via GPRS. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de CÃ­cero Pitombo.Sistema de MonitoraÃ§Ã£o Veicular via GPRS. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Dotti, LuÃ­s Fernando; . ParticipaÃ§Ã£o em banca de Alexandre Gomes Madeira.VerificaÃ§Ã£o da implementaÃ§Ã£o do protocolo CCSDS do PUC#SAT usando Promela/Spin. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, E. A. ; . ParticipaÃ§Ã£o em banca de Guilherme Wander.Sistema mÃ³vel de gerenciamento de ativos utilizando RFID. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; Bezerra, Eduardo Augusto ; . ParticipaÃ§Ã£o em banca de Luciano Martins.Sistema mÃ³vel de gerenciamento de ativos utilizando RFID. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Rafael Nemetz.Sistema de telemetria baseado em GPS/GPRS para transformadores de mÃ©dio e de grande porte. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Marcelo Mandelli.Sistema de telemetria baseado em GPS/GPRS para transformadores de mÃ©dio e de grande porte. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Carolina Metzler.Sistema de telemetria baseado em GPS/GPRS para transformadores de mÃ©dio e de grande porte. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de AndrÃ© Koloszuk Rosa.CartÃ£o SaÃºde - GerÃªncia de informaÃ§Ãµes emergenciais com o uso de cartÃµes RFID. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Marcelo de Moraes Leite.CartÃ£o SaÃºde - GerÃªncia de informaÃ§Ãµes emergenciais com o uso de cartÃµes RFID. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; BORTOLINI, Edgar; . ParticipaÃ§Ã£o em banca de Leandro Hagen.CartÃ£o SaÃºde - GerÃªncia de informaÃ§Ãµes emergenciais com o uso de cartÃµes RFID. 2008. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia de ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; Machado, J. H. A. P.; FERNANDES, Luis Gustavo. ParticipaÃ§Ã£o em banca de JoÃ£o Frederico Gregory Birk.Estudo de TÃ©cnicas e Diretrizes para o Desenvolvimento de AplicaÃ§Ãµes MÃ³veis AtravÃ©s da ImplementaÃ§Ã£o de um Sistema de ForÃ§a de Vendas. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; Mangan, M. A. S.; . ParticipaÃ§Ã£o em banca de CÃ©sar Conter Leite.SLV - Sistema de LocalizaÃ§Ã£o de VeÃ­culos. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Antonio A. de Alecrim Jr. e Rafael Fraga Garibotti.Memoria Cache em uma Plataforma Multiprocessada. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de AndrÃ© Mauricio Marquardt e Tiago Ribeiro de Abreu.CAFE - Sistema Automatizado de FrequÃªncia Escolar. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Julio CÃ©sar Sartori Neto, LuÃ­s Fernando Krause, Pietro Zuchi.AutomaÃ§Ã£o de Atendimento em Restaurantes. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Luciano Machado.SIGERH. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Tiago Bonamigo.Sistema de Apoio LogÃ­stico para o Setor Supermercadista com o Uso de RFID. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, Ana Cristina Benso da; ; Costa, C. M.. ParticipaÃ§Ã£o em banca de Diego de Souza Bonelli e Mauricio Meirelles.Sistema de Monitoramento de Movimentacao Utilizando Identificacao por Radiofrequencia. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Alzemiro Henrique Lucas da Silva e Taciano Ares Rodolfo.Implementacao de uma Arquitetura Reed-Solomon para uso em Redes OTN 10.7 Gbps. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Carlos E. Cardoso Reif, Luciano Rigelo Azevedo, Tiago Bai.Sistema de Telecomando CCSDS em FPGAs. 2007. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; FERRETO, Tiago; SILVA, Ana Cristina Benso da. ParticipaÃ§Ã£o em banca de Mauro Pedrini.VIDA - Vulnerability and Intrusion Detection Architecture. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, Ana Cristina Benso da; RAMOS, AntÃ´nio RogÃ©rio Machado. ParticipaÃ§Ã£o em banca de Bruno Vargas Fallavena e Luis Carlos Polettp.Mensageiro Bluetooth. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; BORTOLINI, Edgar; CASTRO, Maria Cristina Felippetto de. ParticipaÃ§Ã£o em banca de Andrio Spich e Gabriel Pereira Pundrich.Dispositivo de Telemetria para EstaÃ§Ã£o MeteorolÃ³gica. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, Ana Cristina Benso da. ParticipaÃ§Ã£o em banca de Marcelo Tocchetto e Tiago da Silveira Duarte.Automacao da Forca de Vendas Utilizando Dispositivos Moveis e Servicos Web. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; TERROSO, Anderson; . ParticipaÃ§Ã£o em banca de Daniel Camozzato, Igor Maica Reis, Roberto Reiner Uhry.Plataforma de Desenvolvimento Linux para Sistemas Embarcados. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Rodrigo Wustro Wertonge, Thiago Wustro Wertonge.Sistema para Reconhecimento de ImpressÃµes Digitais. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engenharia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "FERNADES, Luiz Gustavo; ; SILVA, Ana Cristina Benso da. ParticipaÃ§Ã£o em banca de Eduardo G. LINK e Matheus D. TORBIS.Sistemas MÃ³vel para ComunicaÃ§Ã£o Aluno-Professor. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Prikladnicki; ; BLOIS, M.. ParticipaÃ§Ã£o em banca de Flavio Steffens de Castro.SAPO - Sistema de Apoio OrÃ§amentÃ¡rio para Projetos de Pesquisa. 2006. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Sistemas de Informacao) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, Ana Cristina Benso da; NUNES, Cristina Moreira. ParticipaÃ§Ã£o em banca de Lucas Eduardo Waechter.DistribuiÃ§Ã£o Balanceada de Jobs em Redes de Impressoras. 2005. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, Ana Cristina Benso da; FERNANDES, Luis Gustavo. ParticipaÃ§Ã£o em banca de Leonardo Luceiro Meirelles e Thiago Locatelli.Protocolo P2P com servidores dinÃ¢micos. 2004. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Luis Henrique Ries e RÃ©gio AntÃ´nio Michelin.GeraÃ§Ã£o de um sistema operacional dedicado para sistemas embarcados. 2004. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; COPSTEIN, Bernardo. ParticipaÃ§Ã£o em banca de Ricardo Beck.jMut - GeraÃ§Ã£o de Mutantes em Java para o Teste de Software. 2004. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o CurrÃ­culo 4 602) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de Aline Vieira de Mello e Leandro Heleno Moller.Arquitetura Multiprocessada em SOCs: Estudo de Diferentes Topologias de Conexao. 2003. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . ParticipaÃ§Ã£o em banca de Aristeu Gil Alves Junior e Luis Vitorio Cargnini.Criptografia de voz com equacoes elipticas. 2003. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Markos Vakonois.Black Box for Automobile Monitoring. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de John White.Automatic FM Station Hopping. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Dean Pullen.Personal Computer Help System. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Jason Mory.Maze Solving Using Genetic Algorithms. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Constantino Michael.Small Instrumented Rocket. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Not given.Measurement of Car Performance for Driving Improvement. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; PRANCE, R.. ParticipaÃ§Ã£o em banca de Ioannis Kypraios.Neural Network Classification of Remote Sensing Data. 2000. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em Engineering And Information Technology) - University Of Sussex.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de Aguinaldo Fagundes Junior and Gustavo Borges.ImplementaÃ§Ã£o de uma versÃ£o comercial do sistema de controle de infusÃ£o desenvolvido na UFPE. 1998. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de Patricia Vaz, NÃ©lio Evandro Maraschin and Fabio Juliano.Uma rede de leitoras de codigo de barras.. 1998. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de Luciano Barbosa Cardoso.COFECO: Conjunto de Ferramentas para o Projeto Integrado de Software e Hardware. 1997. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de Guilherme Saueressig.Binary Decision Diagrams em FPGAs. 1997. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; . ParticipaÃ§Ã£o em banca de NicÃ¡cio MendonÃ§a e Alexandre Wagner Agustini.Interface grÃ¡fica para geracao de trajetÃ³rias para robÃ´s. 1997. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; MORA, M.. ParticipaÃ§Ã£o em banca de Cleverson Borges Sutil e Paulo Ricardo Lopes.ProtÃ³tipo de um terminal de decodificaÃ§Ã£o de cÃ³digo de barras para utilizaÃ§Ã£o em ambiente de redes. 1997. Trabalho de ConclusÃ£o de Curso (GraduaÃ§Ã£o em CiÃªncia da ComputaÃ§Ã£o) - PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 1997,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso pÃºblico",
+      "items": [
+        {
+          "texto": "Bezerra, Eduardo Augusto ; FIORAVANTI, A. R.; BACURAU, R. M.; LOUBACH, D. S.; GRACIOLI, G.. Concurso pÃºblico para professor nas disciplinas de Arquitetura e ProgramaÃ§Ã£o de Microcontroladores, e Projeto de Sistemas Embarcados do Departamento de MecÃ¢nica Computacional, da Faculdade de Engenharia MecÃ¢nica. 2024. Universidade Estadual de Campinas.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CARRO, Luigi; ARRUDA, J. R. F.; PAIVA, E. C.; LOUBACH, D. S.. Concurso pÃºblico para professor no campo de conhecimento Sistemas Embarcados / Sistemas Digitais do Departamento de MecÃ¢nica Computacional, da Faculdade de Engenharia MecÃ¢nica. 2022. Universidade Estadual de Campinas.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; CARPES JUNIOR, W. P.; BISPO, B. C.. Concurso pÃºblico para professor substituto no campo de conhecimento Engenharia ElÃ©trica / Circuitos EletrÃ´nicos / Sistemas Digitais. 2022. Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Souza, F. R.; Bezerra, Eduardo A. ; ; Azevedo, F. M.; DUARTE, R. O.. Concurso pÃºblico para professor no campo de conhecimento Engenharia ElÃ©trica / Circuitos EletrÃ´nicos:. 2014. Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo A. ; VICENTE, V. C.; MANERA, L. T.; OURIQUE, F.; PFRIMER, F. W. D.. Concurso pÃºblico para professor no campo de conhecimento Engenharia ElÃ©trica/InstrumentaÃ§Ã£o EletrÃ´nica; Circuitos EletrÃ´nicos. 2014. Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; ; DINIZ, I. S.; Moraes, R.. Concurso pÃºblico para professor no campo de conhecimento Hardware. 2013. Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "GÃ¼ntzel, J. L.; Bezerra, Eduardo Augusto ; Souza, F. R.; Reis; Franco; Moraes, R.; Fraga; Pedroni, V.; Girardi. Concurso pÃºblico para professor no campo de conhecimento Circuitos EletrÃ´nicos Digitais. 2011. Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Santos, L. C V.; Bezerra, Eduardo Augusto ; Souza, F. R.; Ribas, R.; Fabris, E.; GÃ¼ntzel, J. L.; Moraes, R.; Pedroni, V.; Lima, M. E.. Concurso pÃºblico para professor no campo de conhecimento Circuitos EletrÃ´nicos Digitais. 2010. Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Friedrich, L. F.; GÃ¼ntzel, J. L.; Willrich, Roberto; Johann, M. O.; Freitas, S. A. A.; Cruz, F. A. S.; Bezerra, Eduardo Augusto ; Wirth, G. I.; Ribeiro, A. R. L.. Concurso pÃºblico para professor no campo de conhecimento Arquitetura e OrganizaÃ§Ã£o de Computadores. 2010. Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; Sousa, Carlos Pimentel; Aquino, Francisco Jose Alves; SILVA JUNIOR, E. T.. Concurso pÃºblico para professor no setor de estudo Sistemas Embarcados. 2010. Universidade Federal do CearÃ¡.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Bezerra, Eduardo Augusto ; SILVA JUNIOR, E. T.; Aquino, Francisco Jose Alves. Concurso pÃºblico para professor no setor de estudo Sistemas Embarcados. 2010. Universidade Federal do CearÃ¡.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA FILHO, J. T.; Bezerra, Eduardo Augusto ; SILVA JUNIOR, E. T.; VARELA, A. T.. Concurso pÃºblico para professor no setor de estudo Sistemas Embarcados. 2009. Universidade Federal do CearÃ¡.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras participaÃ§Ãµes",
+      "items": [
+        {
+          "texto": "; . Banca de Patente \"CÃ³digo corretor de erros baseado em BCH para correÃ§Ã£o de sÃ­mbolos, implementado em VHDL\". 2007. PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; COUTINHO, D. F.. Banca de Pedido de Patente do \"Sistema Gerador de RuÃ­do\". 2007. PontifÃ­cia Universidade CatÃ³lica do Rio Grande do Sul.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

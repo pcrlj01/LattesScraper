@@ -1,0 +1,460 @@
+{
+  "name": "Emerson Assis de Carvalho",
+  "lattes_id": "2565976082903026",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "PROBABILISTIC GRAPHICAL MODELS APPLICATIONS IN MEDICAL RESEARCHES",
+          "autores": "CARVALHO, EMERSON ; RODRIGUES, IGOR D. ; ALVES, FABIO JUNIOR ; BASTOS, GUILHERME S.",
+          "periodico": "Revista Eixos Tech , v. 11, p. 1, 2024.",
+          "doi": "http://dx.doi.org/10.18406/2359-1269v11n12024367",
+          "citacao_completa": "CARVALHO, EMERSON ; RODRIGUES, IGOR D. ; ALVES, FABIO JUNIOR ; BASTOS, GUILHERME S. . PROBABILISTIC GRAPHICAL MODELS APPLICATIONS IN MEDICAL RESEARCHES. Revista Eixos Tech , v. 11, p. 1, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "GRSR - a guideline for reporting studies results for machine learning applied to Electroencephalogram data",
+          "autores": "RODRIGUES, I. D. ; SILVA, J. C. ; CARVALHO, E. A. ; PAIVA, V. A. ; SANTANA, C. P. ; SILVEIRA, S. A. ; BASTOS, G. S.",
+          "periodico": "REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA , v. 15, p. 22-35, 2023.",
+          "doi": "http://dx.doi.org/10.5335/rbca.v15i2.14338",
+          "citacao_completa": "RODRIGUES, I. D. ; SILVA, J. C. ; CARVALHO, E. A. ; PAIVA, V. A. ; SANTANA, C. P. ; SILVEIRA, S. A. ; BASTOS, G. S. . GRSR - a guideline for reporting studies results for machine learning applied to Electroencephalogram data. REVISTA BRASILEIRA DE COMPUTAÇÃO APLICADA , v. 15, p. 22-35, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Autism Spectrum Disorder: A Literature Review on Prevalence and Etiology Measures",
+          "autores": "CARVALHO, EMERSON ; RODRIGUES, IGOR D. ; ALVES, FABIO JUNIOR ; BASTOS, GUILHERME S.",
+          "periodico": "Revista Eixos Tech , v. 10, p. 1-36, 2023.",
+          "doi": "http://dx.doi.org/10.18406/2359-1269v10n22023366",
+          "citacao_completa": "CARVALHO, EMERSON ; RODRIGUES, IGOR D. ; ALVES, FABIO JUNIOR ; BASTOS, GUILHERME S. . Autism Spectrum Disorder: A Literature Review on Prevalence and Etiology Measures. Revista Eixos Tech , v. 10, p. 1-36, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "rs-fMRI and machine learning for ASD diagnosis: a systematic review and meta-analysis",
+          "autores": "SANTANA, CAIO PINHEIRO ; DE CARVALHO, EMERSON ASSIS ; RODRIGUES, IGOR DUARTE ; BASTOS, GUILHERME SOUSA ; DE SOUZA, ADLER DINIZ ; DE BRITO, LUCELMO LACERDA",
+          "periodico": "Scientific Reports , v. 12, p. 1-20, 2022.",
+          "doi": "http://dx.doi.org/10.1038/s41598-022-09821-6",
+          "citacao_completa": "SANTANA, CAIO PINHEIRO ; DE CARVALHO, EMERSON ASSIS ; RODRIGUES, IGOR DUARTE ; BASTOS, GUILHERME SOUSA ; DE SOUZA, ADLER DINIZ ; DE BRITO, LUCELMO LACERDA . rs-fMRI and machine learning for ASD diagnosis: a systematic review and meta-analysis. Scientific Reports , v. 12, p. 1-20, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Machine Learning and rs-fMRI to Identify Potential Brain Regions Associated with Autism Severity",
+          "autores": "RODRIGUES, IGOR D. ; DE CARVALHO, EMERSON A. ; SANTANA, CAIO P. ; BASTOS, GUILHERME S.",
+          "periodico": "Algorithms , v. 15, p. 195, 2022.",
+          "doi": "http://dx.doi.org/10.3390/a15060195",
+          "citacao_completa": "RODRIGUES, IGOR D. ; DE CARVALHO, EMERSON A. ; SANTANA, CAIO P. ; BASTOS, GUILHERME S. . Machine Learning and rs-fMRI to Identify Potential Brain Regions Associated with Autism Severity. Algorithms , v. 15, p. 195, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Hidden Markov Models to Estimate the Probability of Having Autistic Children",
+          "autores": "CARVALHO, EMERSON A. ; SANTANA, CAIO P. ; RODRIGUES, IGOR D. ; LACERDA, LUCELMO ; BASTOS, GUILHERME SOUSA",
+          "periodico": "IEEE Access , v. 8, p. 99540-99551, 2020.",
+          "doi": "http://dx.doi.org/10.1109/access.2020.2997334",
+          "citacao_completa": "CARVALHO, EMERSON A. ; SANTANA, CAIO P. ; RODRIGUES, IGOR D. ; LACERDA, LUCELMO ; BASTOS, GUILHERME SOUSA . Hidden Markov Models to Estimate the Probability of Having Autistic Children. IEEE Access , v. 8, p. 99540-99551, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Applied Behavior Analysis for the Treatment of Autism: A Systematic Review of Assistive Technologies",
+          "autores": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON A. ; AGUILAR, JULIANA ; LACERDA, LUCELMO ; BASTOS, GUILHERME S.",
+          "periodico": "IEEE Access , v. 9, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2020.3005296",
+          "citacao_completa": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON A. ; AGUILAR, JULIANA ; LACERDA, LUCELMO ; BASTOS, GUILHERME S. . Applied Behavior Analysis for the Treatment of Autism: A Systematic Review of Assistive Technologies. IEEE Access , v. 9, p. 1-1, 2020."
+        },
+        {
+          "ano": 2017,
+          "titulo": "An Overview Over the Open Source Resources for Web Applications Security",
+          "autores": "CARVALHO, EMERSON ASSIS ; CARVALHO, FERNANDA RAMOS DE ; RIBEIRO, LUCYARA SILVA ; PEREIRA, GERMANO ESTEVAM SIMÃO ; ALVES, TÚLIO CÉSAR LOPES",
+          "periodico": "Revista Eixos Tech , v. 3, p. 3-13, 2017.",
+          "doi": "http://dx.doi.org/10.18406/2359-1269v3n1201653",
+          "citacao_completa": "CARVALHO, EMERSON ASSIS ; CARVALHO, FERNANDA RAMOS DE ; RIBEIRO, LUCYARA SILVA ; PEREIRA, GERMANO ESTEVAM SIMÃO ; ALVES, TÚLIO CÉSAR LOPES . An Overview Over the Open Source Resources for Web Applications Security. Revista Eixos Tech , v. 3, p. 3-13, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "An Analysis On The Metrics For Dynamic Process Scheduling On Distributed Simulation Using Optimistic Protocols",
+          "autores": "CARVALHO, E. A. ; MOREIRA, E. M. ; JUNQUEIRA, M. A. F. C. ; CARPINTEIRO, O. A. S.",
+          "periodico": "Proceedings of the Summer Simulation Multi-Conference , v. 47, p. 1-9, 2015.",
+          "doi": "http://dx.doi.org/10.5555/2874916.2874958",
+          "citacao_completa": "CARVALHO, E. A. ; MOREIRA, E. M. ; JUNQUEIRA, M. A. F. C. ; CARPINTEIRO, O. A. S. . An Analysis On The Metrics For Dynamic Process Scheduling On Distributed Simulation Using Optimistic Protocols. Proceedings of the Summer Simulation Multi-Conference , v. 47, p. 1-9, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "TECNOLOGIAS ASSISTIVAS APLICADAS AO TEA: Aspectos filosófcos, éticos e legais",
+          "autores": "CARVALHO, EMERSON ; ALVES, FABIO JUNIOR ; RODRIGUES, IGOR DUARTE ; BASTOS, GUILHERME S.",
+          "periodico": "In: George França; Gentil Veloso. (Org.). Autismo: tecnologias para a inclusão. 1ed.Porto Nacional, TO: Acadêmica, 2022, v. 1, p. 295-318.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, EMERSON ; ALVES, FABIO JUNIOR ; RODRIGUES, IGOR DUARTE ; BASTOS, GUILHERME S. . TECNOLOGIAS ASSISTIVAS APLICADAS AO TEA: Aspectos filosófcos, éticos e legais. In: George França; Gentil Veloso. (Org.). Autismo: tecnologias para a inclusão. 1ed.Porto Nacional, TO: Acadêmica, 2022, v. 1, p. 295-318."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Robôs como suporte às intervenções baseadas em aba para o transtorno do espectro autista: uma revisão narrativa",
+          "autores": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON ; LACERDA, LUCELMO ; BASTOS, GUILHERME S.",
+          "periodico": "In: George França; Katia Rose Pinho. (Org.). Autismo: Tecnologias e formação de professores para a escola pública. 1ed.Porto Nacional ? TO: i-Acadêmica, selo da Nagô Editora, 2020, v. 1, p. 136-146.",
+          "doi": "",
+          "citacao_completa": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON ; LACERDA, LUCELMO ; BASTOS, GUILHERME S. . Robôs como suporte às intervenções baseadas em aba para o transtorno do espectro autista: uma revisão narrativa. In: George França; Katia Rose Pinho. (Org.). Autismo: Tecnologias e formação de professores para a escola pública. 1ed.Porto Nacional ? TO: i-Acadêmica, selo da Nagô Editora, 2020, v. 1, p. 136-146."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "A Eficiência do Ensino de Lógica de Programação na Modalidade a Distância",
+          "autores": "CARVALHO, EMERSON ; ALVES, FÁBIO JUNIOR",
+          "periodico": "In: XXIV Workshop de Informática na Escola, 2018, Fortaleza. org.crossref.xschema._1.Title@2e59efea, 2018. p. 215.",
+          "doi": "http://dx.doi.org/10.5753/cbie.wie.2018.215",
+          "citacao_completa": "CARVALHO, EMERSON ; ALVES, FÁBIO JUNIOR . A Eficiência do Ensino de Lógica de Programação na Modalidade a Distância. In: XXIV Workshop de Informática na Escola, 2018, Fortaleza. org.crossref.xschema._1.Title@2e59efea, 2018. p. 215."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Ensino de Noções Básicas de Segurança da Informação nas Escolas Brasileiras",
+          "autores": "CARVALHO, EMERSON ASSIS ; REIS, THALES ; ALVES, FÁBIO JUNIOR",
+          "periodico": "In: XXIII Workshop de Informática na Escola, 2017, Recife, 2017. p. 765.",
+          "doi": "http://dx.doi.org/10.5753/cbie.wie.2017.765",
+          "citacao_completa": "CARVALHO, EMERSON ASSIS ; REIS, THALES ; ALVES, FÁBIO JUNIOR . Ensino de Noções Básicas de Segurança da Informação nas Escolas Brasileiras. In: XXIII Workshop de Informática na Escola, 2017, Recife, 2017. p. 765."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "AUTISMALG: PROTÓTIPO DE UM APP BASEADO NO PROTOCOLO ALVINA PARA AUXILIAR NO ENSINO DA IDENTIFICAÇÃO E CONTAGEM DE ALGARISMOS PARA CRIANÇAS COM TEA",
+          "autores": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON ; BASTOS, GUILHERME SOUSA",
+          "periodico": "In: Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, 2023, São Carlos, SP, Brazil. A confirmar, 2023.",
+          "doi": "",
+          "citacao_completa": "ALVES, FABIO JUNIOR ; CARVALHO, EMERSON ; BASTOS, GUILHERME SOUSA . AUTISMALG: PROTÓTIPO DE UM APP BASEADO NO PROTOCOLO ALVINA PARA AUXILIAR NO ENSINO DA IDENTIFICAÇÃO E CONTAGEM DE ALGARISMOS PARA CRIANÇAS COM TEA. In: Congreso Iberoamericano de Tecnologías de Apoyo a la Discapacidad, 2023, São Carlos, SP, Brazil. A confirmar, 2023."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "O uso das tecnologias digitais de informação e comunicação em sala de aula pelos professores das escolas municipais de uma cidade do sul de minas gerais",
+          "autores": "ALVES, FÁBIO JUNIOR ; CARVALHO, EMERSON ; VENANCIO, JESSICA ALVES DE LIMA",
+          "periodico": "In: XXIII Workshop de Informática na Escola, 2017, Recife. org.crossref.xschema._1.Title@55cb5ba6, 2017. p. 1144.",
+          "doi": "http://dx.doi.org/10.5753/cbie.wie.2017.1144",
+          "citacao_completa": "ALVES, FÁBIO JUNIOR ; CARVALHO, EMERSON ; VENANCIO, JESSICA ALVES DE LIMA . O uso das tecnologias digitais de informação e comunicação em sala de aula pelos professores das escolas municipais de uma cidade do sul de minas gerais. In: XXIII Workshop de Informática na Escola, 2017, Recife. org.crossref.xschema._1.Title@55cb5ba6, 2017. p. 1144."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Proposta de arquitetura para uma plataforma de gerenciamento de eventos",
+          "autores": "SANTOS FILHO, M. J. ; CARVALHO, E. A.",
+          "periodico": "In: Jornada Científica e Tecnológica e Simpósio de Pós-graduação do IFSULDEMINAS, 2017, Machado MG. Anais da Jornada Científica e Tecnológica e Simpósio de Pós-graduação do IFSULDEMINAS, 2017. v. 9.",
+          "doi": "",
+          "citacao_completa": "SANTOS FILHO, M. J. ; CARVALHO, E. A. . Proposta de arquitetura para uma plataforma de gerenciamento de eventos. In: Jornada Científica e Tecnológica e Simpósio de Pós-graduação do IFSULDEMINAS, 2017, Machado MG. Anais da Jornada Científica e Tecnológica e Simpósio de Pós-graduação do IFSULDEMINAS, 2017. v. 9."
+        },
+        {
+          "ano": 2016,
+          "titulo": "ESTUDO E CAPACITAÇÃO PARA DESENVOLVIMENTO MÓVEL COM A PLATAFORMA ANDROID",
+          "autores": "CARVALHO, E. A. ; MOURA, S. L. F.",
+          "periodico": "In: Oitava Jornada Científica e Tecnológica e Quinto Simpósio da Pós­Graduação do IFSULDEMINAS, 2016, Passos MG. Anais da Jornada Científica e Tecnológica e Simpósio da Pós­ Graduação do IFSULDEMINAS. Pouso Alegre MG: IFSULDEMINAS. v. 8. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. ; MOURA, S. L. F. . ESTUDO E CAPACITAÇÃO PARA DESENVOLVIMENTO MÓVEL COM A PLATAFORMA ANDROID. In: Oitava Jornada Científica e Tecnológica e Quinto Simpósio da Pós­Graduação do IFSULDEMINAS, 2016, Passos MG. Anais da Jornada Científica e Tecnológica e Simpósio da Pós­ Graduação do IFSULDEMINAS. Pouso Alegre MG: IFSULDEMINAS. v. 8. p. 1-4."
+        },
+        {
+          "ano": 2016,
+          "titulo": "UMA ANÁLISE SOBRE NOÇÕES BÁSICAS DE SEGURANÇA DA INFORMAÇÃO NO AMBIENTE DO IFSULDEMINAS",
+          "autores": "CARVALHO, E. A. ; REIS, T. A.",
+          "periodico": "In: Oitava Jornada Científica e Tecnológica e Quinto Simpósio da Pós­ Graduação do IFSULDEMINAS, 2016, Passos MG. Anais da Jornada Científica e Tecnológica e Simpósio da Pós­ Graduação do IFSULDEMINAS. Pouso Alegre MG: IFSULDEMINAS, 2016. v. 8. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. ; REIS, T. A. . UMA ANÁLISE SOBRE NOÇÕES BÁSICAS DE SEGURANÇA DA INFORMAÇÃO NO AMBIENTE DO IFSULDEMINAS. In: Oitava Jornada Científica e Tecnológica e Quinto Simpósio da Pós­ Graduação do IFSULDEMINAS, 2016, Passos MG. Anais da Jornada Científica e Tecnológica e Simpósio da Pós­ Graduação do IFSULDEMINAS. Pouso Alegre MG: IFSULDEMINAS, 2016. v. 8. p. 1-4."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Autismo & Tecnologia",
+          "autores": "CARVALHO, EMERSON ; ALVES, FABIO JUNIOR",
+          "periodico": "2023. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, EMERSON ; ALVES, FABIO JUNIOR . Autismo & Tecnologia. 2023. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Ensino de Noções Básicas de Segurança da Informação nas Escolas Brasileiras",
+          "autores": "REIS, T. A. ; CARVALHO, E. A. ; ALVES, F. J.",
+          "periodico": "2017. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "REIS, T. A. ; CARVALHO, E. A. ; ALVES, F. J. . Ensino de Noções Básicas de Segurança da Informação nas Escolas Brasileiras. 2017. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Desenvolvimento em Plataforma Android",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2016. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Desenvolvimento em Plataforma Android. 2016. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Vulnerabilidades em Aplicações Web",
+          "autores": "CARVALHO, F. R. ; PEREIRA, G. E. S. ; RIBEIRO, L. S. ; ALVES, T. C. L. ; CARVALHO, E. A.",
+          "periodico": "2013. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, F. R. ; PEREIRA, G. E. S. ; RIBEIRO, L. S. ; ALVES, T. C. L. ; CARVALHO, E. A. . Vulnerabilidades em Aplicações Web. 2013. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Desenvolvimento de um Aplicativo Integrado de Notícias Através de Raspagem de Dados ? Windows 8 App",
+          "autores": "SILVA, R. R. ; DIAS, J. C. ; BRANDAO, R. M. ; CARVALHO, E. A.",
+          "periodico": "2013. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "SILVA, R. R. ; DIAS, J. C. ; BRANDAO, R. M. ; CARVALHO, E. A. . Desenvolvimento de um Aplicativo Integrado de Notícias Através de Raspagem de Dados ? Windows 8 App. 2013. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Integrando equipes ágeis",
+          "autores": "CARVALHO, E. A. ; FARIA, A. O.",
+          "periodico": "Um overview sobre os problemas em escalar agilidade. 2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. ; FARIA, A. O. . Integrando equipes ágeis. Um overview sobre os problemas em escalar agilidade. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Expositor de produtos Devex",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Expositor de produtos Devex. 2011. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Computação e Mineração - uma oportunidade de ouro",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Computação e Mineração - uma oportunidade de ouro. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Diferentes Carreiras Para o Profissional da Computação",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Diferentes Carreiras Para o Profissional da Computação. 2011. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Computação + Mineração = Oportunidades de Ouro",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Computação + Mineração = Oportunidades de Ouro. 2011. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Diferentes carreiras para o profissional da computação",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Diferentes carreiras para o profissional da computação. 2011. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2005,
+          "titulo": "QoS - Qualidade de Serviço em Rede TCP/IP",
+          "autores": "CARVALHO, E. A. ; MOREIRA, R. B.",
+          "periodico": "2005. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. ; MOREIRA, R. B. . QoS - Qualidade de Serviço em Rede TCP/IP. 2005. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Avaliador(a) do evento I Feira de Ciências e Cultura",
+          "autores": "CARVALHO, EMERSON",
+          "periodico": "2023.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, EMERSON . Avaliador(a) do evento I Feira de Ciências e Cultura. 2023."
+        }
+      ]
+    },
+    {
+      "name": "Entrevistas, mesas redondas, programas e comentários na mídia",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Diferentes Carreiras Para o Profissional da Computação",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2011. (Programa de rádio ou TV/Mesa redonda).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Diferentes Carreiras Para o Profissional da Computação. 2011. (Programa de rádio ou TV/Mesa redonda)."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Introdução LaTeX",
+          "autores": "CARVALHO, EMERSON",
+          "periodico": "2022. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, EMERSON . Introdução LaTeX. 2022. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Introdução à Plataforma Android",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2016. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Introdução à Plataforma Android. 2016. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Desenvolvimento para Android",
+          "autores": "CARVALHO, E. A.",
+          "periodico": "2016. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "CARVALHO, E. A. . Desenvolvimento para Android. 2016. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "A EDUCAÇÃO INCLUSIVA NA SALA DE AULA, FERRAMENTAS DE ACESSIBILIDADE PARA A APRENDIZAGEM",
+          "membros": "Rafaela Erica de Paula; CARVALHO, EMERSON A.",
+          "candidato": "Rafaela Erica de Paula",
+          "citacao_completa": "Rafaela Erica de Paula; CARVALHO, EMERSON A. . Participação em banca de Rafaela Erica de Paula. A EDUCAÇÃO INCLUSIVA NA SALA DE AULA, FERRAMENTAS DE ACESSIBILIDADE PARA A APRENDIZAGEM. 2023. Monografia (Aperfeiçoamento/Especialização em Pós Graduação Lato Sensu em Informática na Educação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": "GAMIFICAÇÃO COMO ESTRATÉGIA DE ENSINO DE MATEMÁTICA NA EDUCAÇÃO DE JOVENS E ADULTOS - EJA",
+          "membros": "CARVALHO, EMERSON A.",
+          "candidato": "Geneci Couto da Silva Filho",
+          "citacao_completa": "CARVALHO, EMERSON A. . Participação em banca de Geneci Couto da Silva Filho. GAMIFICAÇÃO COMO ESTRATÉGIA DE ENSINO DE MATEMÁTICA NA EDUCAÇÃO DE JOVENS E ADULTOS - EJA. 2023. Monografia (Aperfeiçoamento/Especialização em Pós Graduação Lato Sensu em Informática na Educação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Jogos digitais educacionais: Desenvolvimento de um protótipo de apoio ao diagnóstico precoce de Hanseníase",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Bruno César Rosa Diniz e Aristodemo Prado Lima",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Bruno César Rosa Diniz e Aristodemo Prado Lima. Jogos digitais educacionais: Desenvolvimento de um protótipo de apoio ao diagnóstico precoce de Hanseníase. 2023. Monografia (Aperfeiçoamento/Especialização em Pós Graduação Lato Sensu em Informática na Educação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": "O USO DA INFORMÁTICA NO PROCESSO DE APRENDIZAGEM DE ALUNOS COM TRANSTORNO DO ESPECTRO AUTISTA",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Renata Gonçalves Chagas Rosa",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Renata Gonçalves Chagas Rosa. O USO DA INFORMÁTICA NO PROCESSO DE APRENDIZAGEM DE ALUNOS COM TRANSTORNO DO ESPECTRO AUTISTA. 2023. Monografia (Aperfeiçoamento/Especialização em Pós Graduação Lato Sensu em Informática na Educação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": "O uso de planilhas eletrônicas na Educação Financeira Escolar",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Orlando Paganelli Rodrigues e Juliana Paganelli",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Orlando Paganelli Rodrigues e Juliana Paganelli. O uso de planilhas eletrônicas na Educação Financeira Escolar. 2023. Monografia (Aperfeiçoamento/Especialização em Pós Graduação Lato Sensu em Informática na Educação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": ".Heurísticas de Nielsen aplicadas no desenvolvimento de um protótipo para o gerenciamento de eventos cientificos",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Kleber Albino Moreira e Tiago Mateus Carvalho",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Kleber Albino Moreira e Tiago Mateus Carvalho.Heurísticas de Nielsen aplicadas no desenvolvimento de um protótipo para o gerenciamento de eventos cientificos. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".ConectaSI: Desenvolvimento de um Sistema para Cadastro de Egressos Utilizando Inteligência Artificial Generativa",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Guilherme Henrique Apolinario Scarano e Luiz Felipe Silva Ro",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Guilherme Henrique Apolinario Scarano e Luiz Felipe Silva Ro.ConectaSI: Desenvolvimento de um Sistema para Cadastro de Egressos Utilizando Inteligência Artificial Generativa. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Inadimanager: Gestão de Clientes Inadimplentes",
+          "membros": "CARVALHO, EMERSON",
+          "candidato": "Antonio Augusto Felix e Marcos Daniel de Souza Cardoso",
+          "citacao_completa": "CARVALHO, EMERSON . Participação em banca de Antonio Augusto Felix e Marcos Daniel de Souza Cardoso.Inadimanager: Gestão de Clientes Inadimplentes. 2023. Trabalho de Conclusão de Curso (Graduação em Sistemas de Informação) - Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um sistema informatizado para manipular a emissão de gás carbônico em estufa",
+          "membros": "",
+          "candidato": "Lucas Batista Xavier e Charlles Luiz Martins",
+          "citacao_completa": ". Participação em banca de Lucas Batista Xavier e Charlles Luiz Martins.Desenvolvimento de um sistema informatizado para manipular a emissão de gás carbônico em estufa. 2015. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade do Estado de Minas Gerais."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Aplicação web para emissão de prescrição médica",
+          "membros": "",
+          "candidato": "Breno Lopes Morais",
+          "citacao_completa": ". Participação em banca de Breno Lopes Morais.Aplicação web para emissão de prescrição médica. 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".PROTOAUT - Protocolo para administração de ambiente de automação",
+          "membros": "",
+          "candidato": "Guilherme Aquino Formágio e Wesley Vitor de Almeida",
+          "citacao_completa": ". Participação em banca de Guilherme Aquino Formágio e Wesley Vitor de Almeida.PROTOAUT - Protocolo para administração de ambiente de automação. 2015. Trabalho de Conclusão de Curso (Graduação em Sistema de Informação) - Universidade do Estado de Minas Gerais."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Software de Geoprocessamento para segurança pública na zona rural de Machado-MG",
+          "membros": "",
+          "candidato": "Ataíde Neto;Guilherme de Paula;Cristopher Faria;Felipe Novai",
+          "citacao_completa": ". Participação em banca de Ataíde Neto;Guilherme de Paula;Cristopher Faria;Felipe Novai.Software de Geoprocessamento para segurança pública na zona rural de Machado-MG. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade José do Rosário Vellano."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Estudo e teste do protocolo de rede OpenFlow",
+          "membros": "",
+          "candidato": "Gustavo de Oliveira Lima; Luiz Luan Beijo de Assis",
+          "citacao_completa": ". Participação em banca de Gustavo de Oliveira Lima; Luiz Luan Beijo de Assis.Estudo e teste do protocolo de rede OpenFlow. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade José do Rosário Vellano."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Ferramenta de aprendizagem em matemática com Material Dourado Virtual",
+          "membros": "",
+          "candidato": "Roniéli de Oliveira Silva; Laís Silvestre Cordeiro",
+          "citacao_completa": ". Participação em banca de Roniéli de Oliveira Silva; Laís Silvestre Cordeiro.Ferramenta de aprendizagem em matemática com Material Dourado Virtual. 2013. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade José do Rosário Vellano."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "CARVALHO, EMERSON . Avaliador de resumo expandido da Jornada Científica e Tecnológica do IFSULDEMINAS. 2021. Instituto F",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "CARVALHO, EMERSON . Avaliador de resumo expandido da Jornada Científica e Tecnológica do IFSULDEMINAS. 2021. Instituto Federal de Educação, Ciência e Tecnologia do Sul de Minas Gerais."
+        },
+        {
+          "ano": 2019,
+          "titulo": "CARVALHO, EMERSON . Avaliador de resumos expandidos da Jornada Científica e Tecnológica do IFSULDEMINAS. 2019.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "CARVALHO, EMERSON . Avaliador de resumos expandidos da Jornada Científica e Tecnológica do IFSULDEMINAS. 2019."
+        }
+      ]
+    }
+  ]
+}

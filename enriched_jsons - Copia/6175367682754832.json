@@ -1,0 +1,1172 @@
+{
+  "name": "Erlon Cristian Finardi",
+  "lattes_id": "6175367682754832",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Adapting long-term generation scheduling to climate variability in hydro-dominant power systems",
+          "autores": "PEDRINI, RENATA ; BAYRAKSAN, GÜZIN ; BELTRÁN, FELIPE ; FINARDI, ERLON",
+          "periodico": "RENEWABLE ENERGY , v. 1, p. 125684-12, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.renene.2026.125684",
+          "citacao_completa": "PEDRINI, RENATA ; BAYRAKSAN, GÜZIN ; BELTRÁN, FELIPE ; FINARDI, ERLON . Adapting long-term generation scheduling to climate variability in hydro-dominant power systems. RENEWABLE ENERGY , v. 1, p. 125684-12, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A two-layer optimization strategy for efficient day-ahead generation scheduling in multi-unit, head-dependent hydro plants",
+          "autores": "BRITO, B.H. ; FINARDI, E.C. ; SOUZA, H.G.E ; SANTANA, A. ; DA SILVA, J.M.A. ; PAZDZIORNY, G.F.DA S.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 261, p. 113576, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113576",
+          "citacao_completa": "BRITO, B.H. ; FINARDI, E.C. ; SOUZA, H.G.E ; SANTANA, A. ; DA SILVA, J.M.A. ; PAZDZIORNY, G.F.DA S. . A two-layer optimization strategy for efficient day-ahead generation scheduling in multi-unit, head-dependent hydro plants. ELECTRIC POWER SYSTEMS RESEARCH , v. 261, p. 113576, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A hybrid modeling approach for approximating the hydro unit commitment constraints in a large-scale day-ahead dispatch model in Brazil",
+          "autores": "FIGUEIREDO, R.T. ; ABREU, D. L. DOS S. ; FINARDI, E.C. ; ; MARCATO, A.L.M. ; PAZDZIORNY, G.F.DA S.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 113575, 2026.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113575",
+          "citacao_completa": "FIGUEIREDO, R.T. ; ABREU, D. L. DOS S. ; FINARDI, E.C. ; ; MARCATO, A.L.M. ; PAZDZIORNY, G.F.DA S. . A hybrid modeling approach for approximating the hydro unit commitment constraints in a large-scale day-ahead dispatch model in Brazil. ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 113575, 2026."
+        },
+        {
+          "ano": 2026,
+          "titulo": "A two-stage model to account for wind power forecast deviations in hydro-dominated systems",
+          "autores": "DAGORT, LUCAS ROBERTO ; Finardi, Erlon Cristian ; SAGASTIZÁBAL, CLAUDIA",
+          "periodico": "Energy Systems , v. 1, p. 1-29, 2026.",
+          "doi": "http://dx.doi.org/10.1007/s12667-026-00808-0",
+          "citacao_completa": "DAGORT, LUCAS ROBERTO ; Finardi, Erlon Cristian ; SAGASTIZÁBAL, CLAUDIA . A two-stage model to account for wind power forecast deviations in hydro-dominated systems. Energy Systems , v. 1, p. 1-29, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Time Series Forecasting of Natural Inflow in Hydroelectric Power Plants Using Hyper-Tuned Temporal Fusion Transformer With Hodrick-Prescott Filter",
+          "autores": "MUNIZ, RAFAEL NINNO ; BURATTO, WILLIAM GOUVÊA ; NIED, ADEMIR ; CARDOSO, RODOLFO ; Finardi, Erlon Cristian ; GONZALEZ, GABRIEL VILLARRUBIA",
+          "periodico": "IET Generation Transmission & Distribution , v. 19, p. 1-11, 2025.",
+          "doi": "http://dx.doi.org/10.1049/gtd2.70087",
+          "citacao_completa": "MUNIZ, RAFAEL NINNO ; BURATTO, WILLIAM GOUVÊA ; NIED, ADEMIR ; CARDOSO, RODOLFO ; Finardi, Erlon Cristian ; GONZALEZ, GABRIEL VILLARRUBIA . Time Series Forecasting of Natural Inflow in Hydroelectric Power Plants Using Hyper-Tuned Temporal Fusion Transformer With Hodrick-Prescott Filter. IET Generation Transmission & Distribution , v. 19, p. 1-11, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Hybrid CF-CNN-BiLSTM hypertuned by Bayesian optimization for thermal power generation and decarbonization forecasting",
+          "autores": "BURATTO, WILLIAM GOUVÊA ; MUNIZ, RAFAEL NINNO ; NIED, ADEMIR ; BARROS, CARLOS FREDERICO DE OLIVEIRA ; Finardi, Erlon Cristian ; GONZALEZ, GABRIEL VILLARRUBIA",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111199, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2025.111199",
+          "citacao_completa": "BURATTO, WILLIAM GOUVÊA ; MUNIZ, RAFAEL NINNO ; NIED, ADEMIR ; BARROS, CARLOS FREDERICO DE OLIVEIRA ; Finardi, Erlon Cristian ; GONZALEZ, GABRIEL VILLARRUBIA . Hybrid CF-CNN-BiLSTM hypertuned by Bayesian optimization for thermal power generation and decarbonization forecasting. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 172, p. 111199, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Enhancing hydroelectric inflow prediction in the Brazilian power system: A comparative analysis of machine learning models and hyperparameter optimization for decision support",
+          "autores": "DA SILVA, EVANDRO CARDOZO ; Finardi, Erlon Cristian ; STEFENON, STEFANO FRIZZO",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 230, p. 110275, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110275",
+          "citacao_completa": "DA SILVA, EVANDRO CARDOZO ; Finardi, Erlon Cristian ; STEFENON, STEFANO FRIZZO . Enhancing hydroelectric inflow prediction in the Brazilian power system: A comparative analysis of machine learning models and hyperparameter optimization for decision support. ELECTRIC POWER SYSTEMS RESEARCH , v. 230, p. 110275, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Innovative Approaches to Stochastic Dual Dynamic Programming: Two-Period Decomposition and Parallelization in a Hydrothermal Scheduling Case Study",
+          "autores": "PEDRINI, RENATA ; BELTRÁN, FELIPE ; Finardi, Erlon C.",
+          "periodico": "Journal of Water Resources Planning and Management , v. 150, p. 1-15, 2024.",
+          "doi": "http://dx.doi.org/10.1061/JWRMD5.WRENG-6491",
+          "citacao_completa": "PEDRINI, RENATA ; BELTRÁN, FELIPE ; Finardi, Erlon C. . Innovative Approaches to Stochastic Dual Dynamic Programming: Two-Period Decomposition and Parallelization in a Hydrothermal Scheduling Case Study. Journal of Water Resources Planning and Management , v. 150, p. 1-15, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Hypertuned wavelet convolutional neural network with long short-term memory for time series forecasting in hydroelectric power plants",
+          "autores": "STEFENON, STEFANO FRIZZO ; SEMAN, LAIO ORIEL ; DA SILVA, EVANDRO CARDOZO ; Finardi, Erlon Cristian ; DOS SANTOS COELHO, LEANDRO ; MARIANI, VIVIANA COCCO",
+          "periodico": "ENERGY , v. 1, p. 133918-12, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.energy.2024.133918",
+          "citacao_completa": "STEFENON, STEFANO FRIZZO ; SEMAN, LAIO ORIEL ; DA SILVA, EVANDRO CARDOZO ; Finardi, Erlon Cristian ; DOS SANTOS COELHO, LEANDRO ; MARIANI, VIVIANA COCCO . Hypertuned wavelet convolutional neural network with long short-term memory for time series forecasting in hydroelectric power plants. ENERGY , v. 1, p. 133918-12, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Accelerated dual dynamic integer programming applied to short-term power generation scheduling",
+          "autores": "SANTOS, KENNY VINENTE DOS ; COLONETTI, BRUNO ; Finardi, Erlon Cristian ; ZAVALA, VICTOR M.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 145, p. 108689, 2023.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2022.108689",
+          "citacao_completa": "SANTOS, KENNY VINENTE DOS ; COLONETTI, BRUNO ; Finardi, Erlon Cristian ; ZAVALA, VICTOR M. . Accelerated dual dynamic integer programming applied to short-term power generation scheduling. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 145, p. 108689, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Piecewise linear approximations for hydropower production function applied on the hydrothermal unit commitment problem",
+          "autores": "SANTOS, K.V. ; FINARDI, E.C.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 135, p. 107464, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107464",
+          "citacao_completa": "SANTOS, K.V. ; FINARDI, E.C. . Piecewise linear approximations for hydropower production function applied on the hydrothermal unit commitment problem. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 135, p. 107464, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A novel cooperative multi-search benders decomposition for solving the hydrothermal unit-commitment problem",
+          "autores": "COLONETTI, BRUNO ; FINARDI, ERLON ; LARROYD, PAULO ; BELTRÁN, FELIPE",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 134, p. 107390, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107390",
+          "citacao_completa": "COLONETTI, BRUNO ; FINARDI, ERLON ; LARROYD, PAULO ; BELTRÁN, FELIPE . A novel cooperative multi-search benders decomposition for solving the hydrothermal unit-commitment problem. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 134, p. 107390, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Exploring Symmetry in a Short-Term Hydro Scheduling Problem: The Case of the Santo Antônio Hydro Plant",
+          "autores": "BRITO, BRUNNO H. ; Finardi, Erlon C. ; ; PEREIRA, AIRTON I. ; GOSMANN, RODRIGO P. ; WEISS, LEONARDO A. ; FERNANDES, ARGEMIRO ; DE ASSIS MORAIS, DOUGLAS T. S.",
+          "periodico": "JOURNAL OF WATER RESOURCES PLANNING AND MANAGEMENT , v. 148, p. 1-12, 2022.",
+          "doi": "http://dx.doi.org/10.1061/(ASCE)WR.1943-5452.0001495",
+          "citacao_completa": "BRITO, BRUNNO H. ; Finardi, Erlon C. ; ; PEREIRA, AIRTON I. ; GOSMANN, RODRIGO P. ; WEISS, LEONARDO A. ; FERNANDES, ARGEMIRO ; DE ASSIS MORAIS, DOUGLAS T. S. . Exploring Symmetry in a Short-Term Hydro Scheduling Problem: The Case of the Santo Antônio Hydro Plant. JOURNAL OF WATER RESOURCES PLANNING AND MANAGEMENT , v. 148, p. 1-12, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Hydrothermal Unit-Commitment Problem of a Large-Scale System with Representation of Forbidden Zones",
+          "autores": "COLONETTI, BRUNO ; FINARDI, ERLON ; BORGES PICARELLI, LUCAS",
+          "periodico": "Energies , v. 15, p. 39, 2022.",
+          "doi": "http://dx.doi.org/10.3390/en15010039",
+          "citacao_completa": "COLONETTI, BRUNO ; FINARDI, ERLON ; BORGES PICARELLI, LUCAS . Hydrothermal Unit-Commitment Problem of a Large-Scale System with Representation of Forbidden Zones. Energies , v. 15, p. 39, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Long-Term Generation Scheduling: A Tutorial on the Practical Aspects of the Problem Solution",
+          "autores": "PEDRINI, R. ; FINARDI, E. C.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1-16, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00871-1",
+          "citacao_completa": "PEDRINI, R. ; FINARDI, E. C. . Long-Term Generation Scheduling: A Tutorial on the Practical Aspects of the Problem Solution. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-16, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Dealing with Negative Inflows in the Long-Term Hydrothermal Scheduling Problem",
+          "autores": "LARROYD, PAULO VITOR ; PEDRINI, R. ; BELTRAN, FELIPE ; TEIXEIRA, G. ; FINARDI, E.C. ; BORGES PICARELLI, LUCAS",
+          "periodico": "Energies , v. 1, p. 1-19, 2022.",
+          "doi": "http://dx.doi.org/10.3390/en15031115",
+          "citacao_completa": "LARROYD, PAULO VITOR ; PEDRINI, R. ; BELTRAN, FELIPE ; TEIXEIRA, G. ; FINARDI, E.C. ; BORGES PICARELLI, LUCAS . Dealing with Negative Inflows in the Long-Term Hydrothermal Scheduling Problem. Energies , v. 1, p. 1-19, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Continuous Piecewise Linear Approximation of Plant‐Based Hydro Production Function for Generation Scheduling Problems",
+          "autores": "DOS SANTOS ABREU, DAVID LUCAS ; FINARDI, Erlon Cristian",
+          "periodico": "Energies , v. 15, p. 1-24, 2022.",
+          "doi": "http://dx.doi.org/10.3390/en15051699",
+          "citacao_completa": "DOS SANTOS ABREU, DAVID LUCAS ; FINARDI, Erlon Cristian . Continuous Piecewise Linear Approximation of Plant‐Based Hydro Production Function for Generation Scheduling Problems. Energies , v. 15, p. 1-24, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Parallel Dual Dynamic Integer Programming for Large-Scale Hydrothermal Unit-Commitment",
+          "autores": "COLONETTI, BRUNO ; FINARDI, ERLON ; BRITO, SAMUEL ; ZAVALA, VICTOR",
+          "periodico": "IEEE Transactions on Power Systems , v. 1, p. 1-13, 2022.",
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2022.3187059",
+          "citacao_completa": "COLONETTI, BRUNO ; FINARDI, ERLON ; BRITO, SAMUEL ; ZAVALA, VICTOR . Parallel Dual Dynamic Integer Programming for Large-Scale Hydrothermal Unit-Commitment. IEEE Transactions on Power Systems , v. 1, p. 1-13, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Partitioning approach based on convex hull and multiple choice for solving hydro unit-commitment problems",
+          "autores": "GOMES E SOUZA, HENDERSON ; Finardi, Erlon Cristian ; BRITO, BRUNNO HENRIQUE ; TAKIGAWA, FABRÍCIO YUTAKA KUWABATA",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108285-108296, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108285",
+          "citacao_completa": "GOMES E SOUZA, HENDERSON ; Finardi, Erlon Cristian ; BRITO, BRUNNO HENRIQUE ; TAKIGAWA, FABRÍCIO YUTAKA KUWABATA . Partitioning approach based on convex hull and multiple choice for solving hydro unit-commitment problems. ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108285-108296, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Solving stochastic hydrothermal unit commitment with a new primal recovery technique based on Lagrangian solutions",
+          "autores": "REOLON SCUZZIATO, MURILO ; CRISTIAN FINARDI, ERLON ; FRANGIONI, ANTONIO",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 127, p. 106661, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2020.106661",
+          "citacao_completa": "REOLON SCUZZIATO, MURILO ; CRISTIAN FINARDI, ERLON ; FRANGIONI, ANTONIO . Solving stochastic hydrothermal unit commitment with a new primal recovery technique based on Lagrangian solutions. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 127, p. 106661, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Two-stage and multi-stage decompositions for the medium-term hydrothermal scheduling problem: A computational comparison of solution techniques",
+          "autores": "BELTRÁN, F. ; FINARDI, E.C. ; DE OLIVEIRA, W.",
+          "periodico": "INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 127, p. 106659, 2021.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2020.106659",
+          "citacao_completa": "BELTRÁN, F. ; FINARDI, E.C. ; DE OLIVEIRA, W. . Two-stage and multi-stage decompositions for the medium-term hydrothermal scheduling problem: A computational comparison of solution techniques. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 127, p. 106659, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Stochastic hydrothermal unit commitment models via stabilized benders decomposition",
+          "autores": "COLONETTI, B. ; FINARDI, Erlon Cristian",
+          "periodico": "Electrical Engineering , v. 1, p. 1-15, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s00202-020-01206-0",
+          "citacao_completa": "COLONETTI, B. ; FINARDI, Erlon Cristian . Stochastic hydrothermal unit commitment models via stabilized benders decomposition. Electrical Engineering , v. 1, p. 1-15, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Inflow Aggregation and Run-of-the-River Inflow Energy for Reducing Dimensionality in the Long-term Generation Scheduling Problem",
+          "autores": "FREDO, GUILHERME LUIZ MINETTO ; Finardi, Erlon Cristian ; LARROYD, PAULO VITOR ; PICARELLI, LUCAS BORGES",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2021.3096143",
+          "citacao_completa": "FREDO, GUILHERME LUIZ MINETTO ; Finardi, Erlon Cristian ; LARROYD, PAULO VITOR ; PICARELLI, LUCAS BORGES . Inflow Aggregation and Run-of-the-River Inflow Energy for Reducing Dimensionality in the Long-term Generation Scheduling Problem. IEEE Access , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Real-Time Optimal Load Dispatch Recommendation System for the Santo Antônio Hydroelectric Power Plant",
+          "autores": "BRITO, BRUNNO HENRIQUE ; PEREIRA, AIRTON ISAAC ; GOSMANN, RODRIGO PEREIRA ; Finardi, Erlon Cristian ; DOS SANTOS ABREU, DAVID LUCAS ; TAKIGAWA, FABRÍCIO YUTAKA KUWABATA ; MENDES, PABLO TOLDO ; WEISS, LEONARDO AUGUSTO ; DE ASSIS MORAIS, DOUGLAS TEIXEIRA SILVA ; FERNANDES, ARGEMIRO",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1-14, 2021.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00834-6",
+          "citacao_completa": "BRITO, BRUNNO HENRIQUE ; PEREIRA, AIRTON ISAAC ; GOSMANN, RODRIGO PEREIRA ; Finardi, Erlon Cristian ; DOS SANTOS ABREU, DAVID LUCAS ; TAKIGAWA, FABRÍCIO YUTAKA KUWABATA ; MENDES, PABLO TOLDO ; WEISS, LEONARDO AUGUSTO ; DE ASSIS MORAIS, DOUGLAS TEIXEIRA SILVA ; FERNANDES, ARGEMIRO . Real-Time Optimal Load Dispatch Recommendation System for the Santo Antônio Hydroelectric Power Plant. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1-14, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Real-Time Dispatch for Multi-Unit Hydroelectric Plants with AC Optimal Power Flow: The Case of the Santo Antonio System",
+          "autores": "FILHO, DANILO P. C. ; Finardi, Erlon C. ; AQUINO, ANTONIO F. C.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2021.3124041",
+          "citacao_completa": "FILHO, DANILO P. C. ; Finardi, Erlon C. ; AQUINO, ANTONIO F. C. . Real-Time Dispatch for Multi-Unit Hydroelectric Plants with AC Optimal Power Flow: The Case of the Santo Antonio System. IEEE Access , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Domain Partition of the Hydro Production Function for Solving Efficiently the Short-Term Generation Scheduling Problem",
+          "autores": "BRITO, BRUNNO H. ; Finardi, Erlon C. ; ; NOGUEIRA, PIERRY L. R. ; MORAIS, DOUGLAS T. S. A. ; FERNANDES, ARGEMIRO",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2021.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2021.3125897",
+          "citacao_completa": "BRITO, BRUNNO H. ; Finardi, Erlon C. ; ; NOGUEIRA, PIERRY L. R. ; MORAIS, DOUGLAS T. S. A. ; FERNANDES, ARGEMIRO . Domain Partition of the Hydro Production Function for Solving Efficiently the Short-Term Generation Scheduling Problem. IEEE Access , v. 1, p. 1-1, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Analysis of training techniques of ANN for classification of insulators in electrical power systems",
+          "autores": "FRIZZO STEFENON, STÉFANO ; WALDRIGUES BRANCO, NATHIELLE ; NIED, ADEMIR ; BERTOL, DOUGLAS ; Finardi, Erlon C. ; SARTORI, ANDREZA ; MEYER, LUIZ HENRIQUE ; BARTNIK GREBOGI, RAFAEL",
+          "periodico": "IET Generation Transmission & Distribution , v. 1, p. 1-10, 2020.",
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2019.1579",
+          "citacao_completa": "FRIZZO STEFENON, STÉFANO ; WALDRIGUES BRANCO, NATHIELLE ; NIED, ADEMIR ; BERTOL, DOUGLAS ; Finardi, Erlon C. ; SARTORI, ANDREZA ; MEYER, LUIZ HENRIQUE ; BARTNIK GREBOGI, RAFAEL . Analysis of training techniques of ANN for classification of insulators in electrical power systems. IET Generation Transmission & Distribution , v. 1, p. 1-10, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Mixed-integer nonseparable piecewise linear models for the hydropower production function in the Unit Commitment problem",
+          "autores": "BRITO, B.H. ; FINARDI, E.C. ; TAKIGAWA, F.Y.K.",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 182, p. 106234-10, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106234",
+          "citacao_completa": "BRITO, B.H. ; FINARDI, E.C. ; TAKIGAWA, F.Y.K. . Mixed-integer nonseparable piecewise linear models for the hydropower production function in the Unit Commitment problem. ELECTRIC POWER SYSTEMS RESEARCH , v. 182, p. 106234-10, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Tools for Measuring Energy Sustainability: A Comparative Review",
+          "autores": "FRIZZO STEFENON, STÉFANO ; MUNIZ, R. N. ; BURATTO, W. G. ; NIED, A. ; MEYER, L. H. ; FINARDI, E. C. ; KUHL, R. M. ; SA, J. A. S. ; ROCHA, B. R. P.",
+          "periodico": "Energies , v. 1, p. 1-26, 2020.",
+          "doi": "http://dx.doi.org/10.3390/en13092366",
+          "citacao_completa": "FRIZZO STEFENON, STÉFANO ; MUNIZ, R. N. ; BURATTO, W. G. ; NIED, A. ; MEYER, L. H. ; FINARDI, E. C. ; KUHL, R. M. ; SA, J. A. S. ; ROCHA, B. R. P. . Tools for Measuring Energy Sustainability: A Comparative Review. Energies , v. 1, p. 1-26, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Combining Lagrangian Relaxation, Benders Decomposition, and the Level Bundle Method in the Stochastic Hydrothermal Unit-Commitment Problem",
+          "autores": "COLONETTI, B. ; FINARDI, E.C.",
+          "periodico": "International Transactions on Electrical Energy Systems , v. 1, p. 1-10, 2020.",
+          "doi": "http://dx.doi.org/10.1002/2050-7038.12514",
+          "citacao_completa": "COLONETTI, B. ; FINARDI, E.C. . Combining Lagrangian Relaxation, Benders Decomposition, and the Level Bundle Method in the Stochastic Hydrothermal Unit-Commitment Problem. International Transactions on Electrical Energy Systems , v. 1, p. 1-10, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Hedging power market risk by investing in self-production from complementing renewable sources",
+          "autores": "PEDRINI, RENATA ; Finardi, Erlon Cristian ; RAMOS, DOREL SOARES",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106669, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106669",
+          "citacao_completa": "PEDRINI, RENATA ; Finardi, Erlon Cristian ; RAMOS, DOREL SOARES . Hedging power market risk by investing in self-production from complementing renewable sources. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106669, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Unit-commitment via logarithmic aggregated convex combination in multi-unit hydro plants",
+          "autores": "BRITO, BRUNNO H. ; Finardi, Erlon C. ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106784, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106784",
+          "citacao_completa": "BRITO, BRUNNO H. ; Finardi, Erlon C. ; . Unit-commitment via logarithmic aggregated convex combination in multi-unit hydro plants. ELECTRIC POWER SYSTEMS RESEARCH , v. 189, p. 106784, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Improving the performance of the stochastic dual dynamic programming algorithm using Chebyshev centers",
+          "autores": "BELTRÁN, FELIPE ; Finardi, Erlon C. ; FREDO, GUILHERME M. ; DE OLIVEIRA, WELINGTON",
+          "periodico": "OPTIMIZATION AND ENGINEERING , v. 1, p. 1-22, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s11081-020-09558-z",
+          "citacao_completa": "BELTRÁN, FELIPE ; Finardi, Erlon C. ; FREDO, GUILHERME M. ; DE OLIVEIRA, WELINGTON . Improving the performance of the stochastic dual dynamic programming algorithm using Chebyshev centers. OPTIMIZATION AND ENGINEERING , v. 1, p. 1-22, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Mixed-integer and Asynchronous Level Decomposition with Application to the Stochastic Hydrothermal Unit-commitment Problem",
+          "autores": "COLONETTI, B. ; FINARDI, E.C. ; OLIVEIRA, W. L.",
+          "periodico": "Algorithms , v. 13, p. 2-16, 2020.",
+          "doi": "http://dx.doi.org/10.3390/a13090235",
+          "citacao_completa": "COLONETTI, B. ; FINARDI, E.C. ; OLIVEIRA, W. L. . A Mixed-integer and Asynchronous Level Decomposition with Application to the Stochastic Hydrothermal Unit-commitment Problem. Algorithms , v. 13, p. 2-16, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Dynamic modelling of Kaplan turbines including flow rate and efficiency static characteristics",
+          "autores": "MENARIN, HENRIQUE AUGUSTO ; COSTA, HELIARA A. ; MINETTO FREDO, GUILHERME LUIZ ; GOSMANN, RODRIGO PEREIRA ; Finardi, Erlon Cristian ; WEISS, LEONARDO AUGUSTO",
+          "periodico": "IEEE Transactions on Power Systems , v. 1, p. 1-1, 2019.",
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2019.2899815",
+          "citacao_completa": "MENARIN, HENRIQUE AUGUSTO ; COSTA, HELIARA A. ; MINETTO FREDO, GUILHERME LUIZ ; GOSMANN, RODRIGO PEREIRA ; Finardi, Erlon Cristian ; WEISS, LEONARDO AUGUSTO . Dynamic modelling of Kaplan turbines including flow rate and efficiency static characteristics. IEEE Transactions on Power Systems , v. 1, p. 1-1, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Stochastic hydro-thermal unit commitment via multi-level scenario trees and bundle regularization",
+          "autores": "FINARDI, E. C. ; LOBATO, R. D. ; DE MATOS, V. L. ; SAGASTIZÁBAL, C. ; TOMASGARD, A.",
+          "periodico": "Optimization and Engineering , v. 1, p. 1, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s11081-019-09448-z",
+          "citacao_completa": "FINARDI, E. C. ; LOBATO, R. D. ; DE MATOS, V. L. ; SAGASTIZÁBAL, C. ; TOMASGARD, A. . Stochastic hydro-thermal unit commitment via multi-level scenario trees and bundle regularization. Optimization and Engineering , v. 1, p. 1, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "An Exact Solution Method for the Hydrothermal Unit Commitment Under Wind Power Uncertainty with Joint Probability Constraints",
+          "autores": "VAN ACKOOIJ, WIM ; Finardi, Erlon Cristian ; MATIUSSI RAMALHO, GUILHERME",
+          "periodico": "IEEE TRANSACTIONS ON POWER SYSTEMS , v. 1, p. 1-1, 2018.",
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2018.2848594",
+          "citacao_completa": "VAN ACKOOIJ, WIM ; Finardi, Erlon Cristian ; MATIUSSI RAMALHO, GUILHERME . An Exact Solution Method for the Hydrothermal Unit Commitment Under Wind Power Uncertainty with Joint Probability Constraints. IEEE TRANSACTIONS ON POWER SYSTEMS , v. 1, p. 1-1, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Trajectory Optimization Using Sequential Convex Programming with Collision Avoidance",
+          "autores": "MATIUSSI RAMALHO, GUILHERME ; CARVALHO, SIDNEY ROBERTO ; Finardi, Erlon Cristian ; MORENO, UBIRAJARA FRANCO",
+          "periodico": "JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 29, p. 318-327, 2018.",
+          "doi": "http://dx.doi.org/10.1007/s40313-018-0377-8",
+          "citacao_completa": "MATIUSSI RAMALHO, GUILHERME ; CARVALHO, SIDNEY ROBERTO ; Finardi, Erlon Cristian ; MORENO, UBIRAJARA FRANCO . Trajectory Optimization Using Sequential Convex Programming with Collision Avoidance. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 29, p. 318-327, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Assessing solution quality and computational performance in the long-term generation scheduling problem considering different hydro production function approaches",
+          "autores": "FREDO, GUILHERME LUIZ MINETTO ; Finardi, Erlon Cristian ; DE MATOS, VITOR LUIZ",
+          "periodico": "RENEWABLE ENERGY , v. 131, p. 45-54, 2018.",
+          "doi": "http://dx.doi.org/10.1016/j.renene.2018.07.026",
+          "citacao_completa": "FREDO, GUILHERME LUIZ MINETTO ; Finardi, Erlon Cristian ; DE MATOS, VITOR LUIZ . Assessing solution quality and computational performance in the long-term generation scheduling problem considering different hydro production function approaches. RENEWABLE ENERGY , v. 131, p. 45-54, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Application of Scenario Tree Reduction via Quadratic Process to Medium-Term Hydrothermal Scheduling Problem",
+          "autores": "BELTRAN, FELIPE ; DE OLIVEIRA, WELINGTON ; Finardi, Erlon C.",
+          "periodico": "IEEE Transactions on Power Systems , v. 32, p. 1-1, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2017.2658444",
+          "citacao_completa": "BELTRAN, FELIPE ; DE OLIVEIRA, WELINGTON ; Finardi, Erlon C. . Application of Scenario Tree Reduction via Quadratic Process to Medium-Term Hydrothermal Scheduling Problem. IEEE Transactions on Power Systems , v. 32, p. 1-1, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Comparing Spatial and Scenario Decomposition for Stochastic Hydrothermal Unit Commitment Problems",
+          "autores": "; Finardi, Erlon Cristian ; FRANGIONI, ANTONIO",
+          "periodico": "IEEE Transactions on Sustainable Energy , v. 9, p. 1-1, 2017.",
+          "doi": "http://dx.doi.org/10.1109/tste.2017.2781908",
+          "citacao_completa": "; Finardi, Erlon Cristian ; FRANGIONI, ANTONIO . Comparing Spatial and Scenario Decomposition for Stochastic Hydrothermal Unit Commitment Problems. IEEE Transactions on Sustainable Energy , v. 9, p. 1-1, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Assessing policy quality in a multistage stochastic program for long-term hydrothermal scheduling",
+          "autores": "; MORTON, DAVID P. ; Finardi, Erlon C.",
+          "periodico": "Annals of Operation Research , v. 1, p. 1-19, 2016.",
+          "doi": "http://dx.doi.org/10.1007/s10479-016-2107-6",
+          "citacao_completa": "; MORTON, DAVID P. ; Finardi, Erlon C. . Assessing policy quality in a multistage stochastic program for long-term hydrothermal scheduling. Annals of Operation Research , v. 1, p. 1-19, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Assessment of risk-averse policies for the long-term hydrothermal scheduling problem",
+          "autores": "LARROYD, PAULO VITOR ; DE MATOS, VITOR LUIZ ; Finardi, Erlon Cristian",
+          "periodico": "Energy Systems , v. 1, p. 1-36, 2016.",
+          "doi": "http://dx.doi.org/10.1007/s12667-016-0191-y",
+          "citacao_completa": "LARROYD, PAULO VITOR ; DE MATOS, VITOR LUIZ ; Finardi, Erlon Cristian . Assessment of risk-averse policies for the long-term hydrothermal scheduling problem. Energy Systems , v. 1, p. 1-36, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Assessing solution quality and computational performance in the hydro unit commitment problem considering different mathematical programming approaches",
+          "autores": "FINARDI, E.C. ; TAKIGAWA, F.Y.K. ; BRITO, B.H.",
+          "periodico": "Electric Power Systems Research (Print) , v. 136, p. 212-222, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2016.02.018",
+          "citacao_completa": "FINARDI, E.C. ; TAKIGAWA, F.Y.K. ; BRITO, B.H. . Assessing solution quality and computational performance in the hydro unit commitment problem considering different mathematical programming approaches. Electric Power Systems Research (Print) , v. 136, p. 212-222, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Lithium-ion battery modelling for the energy management problem of microgrids",
+          "autores": "Finardi, Erlon C. ; TENFEN, DANIEL ; WURTZ, FRÉDÉRIC ; DELINCHANT, BENOIT",
+          "periodico": "IET Generation, Transmission & Distribution (Online) , v. 10, p. 576-584, 2016.",
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2015.0423",
+          "citacao_completa": "Finardi, Erlon C. ; TENFEN, DANIEL ; WURTZ, FRÉDÉRIC ; DELINCHANT, BENOIT . Lithium-ion battery modelling for the energy management problem of microgrids. IET Generation, Transmission & Distribution (Online) , v. 10, p. 576-584, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Strategic bidding for price-maker producers in predominantly hydroelectric systems",
+          "autores": "CRUZ, M.P. ; FINARDI, E.C. ; ; LUNA, J.P.",
+          "periodico": "Electric Power Systems Research (Print) , v. 140, p. 435-444, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2016.05.032",
+          "citacao_completa": "CRUZ, M.P. ; FINARDI, E.C. ; ; LUNA, J.P. . Strategic bidding for price-maker producers in predominantly hydroelectric systems. Electric Power Systems Research (Print) , v. 140, p. 435-444, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A mixed integer linear programming model for the energy management problem of microgrids",
+          "autores": "TENFEN, DANIEL ; Finardi, Erlon Cristian",
+          "periodico": "Electric Power Systems Research (Print) , v. 122, p. 19-28, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.12.019",
+          "citacao_completa": "TENFEN, DANIEL ; Finardi, Erlon Cristian . A mixed integer linear programming model for the energy management problem of microgrids. Electric Power Systems Research (Print) , v. 122, p. 19-28, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "DAY-AHEAD OPTIMAL OPERATION PLANNING OF WIND AND HYDROTHERMAL GENERATION WITH OPTIMAL SPINNING RESERVE ALLOCATION",
+          "autores": "UNSIHUAY-VILA, CLODOMIRO ; LUZ, THIAGO DA ; FINARDI, ERLON",
+          "periodico": "International Journal of Power and Energy Systems , v. 35, p. 1-8, 2015.",
+          "doi": "http://dx.doi.org/10.2316/journal.203.2015.1.203-6152",
+          "citacao_completa": "UNSIHUAY-VILA, CLODOMIRO ; LUZ, THIAGO DA ; FINARDI, ERLON . DAY-AHEAD OPTIMAL OPERATION PLANNING OF WIND AND HYDROTHERMAL GENERATION WITH OPTIMAL SPINNING RESERVE ALLOCATION. International Journal of Power and Energy Systems , v. 35, p. 1-8, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Improving the performance of Stochastic Dual Dynamic Programming",
+          "autores": "; PHILPOTT, ANDY B. ; Finardi, Erlon C.",
+          "periodico": "Journal of Computational and Applied Mathematics , v. 290, p. 196-211, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.cam.2015.04.048",
+          "citacao_completa": "; PHILPOTT, ANDY B. ; Finardi, Erlon C. . Improving the performance of Stochastic Dual Dynamic Programming. Journal of Computational and Applied Mathematics , v. 290, p. 196-211, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A comparative analysis of different dual problems in the Lagrangian Relaxation context for solving the Hydro Unit Commitment problem",
+          "autores": "Finardi, Erlon Cristian ;",
+          "periodico": "Electric Power Systems Research (Print) , v. 107, p. 221-229, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2013.10.015",
+          "citacao_completa": "Finardi, Erlon Cristian ; . A comparative analysis of different dual problems in the Lagrangian Relaxation context for solving the Hydro Unit Commitment problem. Electric Power Systems Research (Print) , v. 107, p. 221-229, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Performance evaluation and energy production optimization in the real-time operation of hydropower plants",
+          "autores": "; FINARDI, E.C. ; RIBAS, F.A.C. ; ;",
+          "periodico": "Electric Power Systems Research (Print) , v. 116, p. 201-207, 2014.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.06.012",
+          "citacao_completa": "; FINARDI, E.C. ; RIBAS, F.A.C. ; ; . Performance evaluation and energy production optimization in the real-time operation of hydropower plants. Electric Power Systems Research (Print) , v. 116, p. 201-207, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Stochastic model for energy commercialisation of small hydro plants in the Brazilian energy market",
+          "autores": "; SIERRA, MAURO A. G. ; Finardi, Erlon C. ; ; MILANEZI, ANDRÉ A. S.",
+          "periodico": "Computational Management Science , v. 12, p. 111-127, 2014.",
+          "doi": "http://dx.doi.org/10.1007/s10287-014-0208-8",
+          "citacao_completa": "; SIERRA, MAURO A. G. ; Finardi, Erlon C. ; ; MILANEZI, ANDRÉ A. S. . Stochastic model for energy commercialisation of small hydro plants in the Brazilian energy market. Computational Management Science , v. 12, p. 111-127, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Hydro unit commitment and loading problem for day-ahead operation planning problem",
+          "autores": "Erlon Cristian Finardi ;",
+          "periodico": "International Journal of Electrical Power & Energy Systems , v. 44, p. 7-16, 2013.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2012.07.023",
+          "citacao_completa": "Erlon Cristian Finardi ; . Hydro unit commitment and loading problem for day-ahead operation planning problem. International Journal of Electrical Power & Energy Systems , v. 44, p. 7-16, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "An Introductory Tutorial on Stochastic Programming Using a Long-term Hydrothermal Scheduling Problem",
+          "autores": "Finardi, Erlon Cristian ; ;",
+          "periodico": "Journal of Control, Automation and Electrical Systems , v. 24, p. 361-376, 2013.",
+          "doi": "http://dx.doi.org/10.1007/s40313-013-0039-9",
+          "citacao_completa": "Finardi, Erlon Cristian ; ; . An Introductory Tutorial on Stochastic Programming Using a Long-term Hydrothermal Scheduling Problem. Journal of Control, Automation and Electrical Systems , v. 24, p. 361-376, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "On Solving Multistage Stochastic Programs with Coherent Risk Measures",
+          "autores": "PHILPOTT, A. ; ; FINARDI, E.",
+          "periodico": "Operations Research , v. 61, p. 957-970, 2013.",
+          "doi": "http://dx.doi.org/10.1287/opre.2013.1175",
+          "citacao_completa": "PHILPOTT, A. ; ; FINARDI, E. . On Solving Multistage Stochastic Programs with Coherent Risk Measures. Operations Research , v. 61, p. 957-970, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A System to Optimize Plant Production",
+          "autores": "; FINARDI, E. ; ; ; RIBAS, F. A. C. ; COUTTO, F. A. B.",
+          "periodico": "Hydro Review Worldwide , v. 32, p. 30-38, 2013.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, E. ; ; ; RIBAS, F. A. C. ; COUTTO, F. A. B. . A System to Optimize Plant Production. Hydro Review Worldwide , v. 32, p. 30-38, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Comparing Different Strategies of Decomposition to Solve the Short-term Hydrothermal Scheduling Based on Lagrangian Relaxation",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "Journal of Algorithms and Optimization , v. 1, p. 13-24, 2013.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . Comparing Different Strategies of Decomposition to Solve the Short-term Hydrothermal Scheduling Based on Lagrangian Relaxation. Journal of Algorithms and Optimization , v. 1, p. 13-24, 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Applying different decomposition schemes using the progressive hedging algorithm to the operation planning problem of a hydrothermal system",
+          "autores": "; Finardi, Erlon Cristian ;",
+          "periodico": "Electric Power Systems Research (Print) , v. 83, p. 19-27, 2012.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2011.09.006",
+          "citacao_completa": "; Finardi, Erlon Cristian ; . Applying different decomposition schemes using the progressive hedging algorithm to the operation planning problem of a hydrothermal system. Electric Power Systems Research (Print) , v. 83, p. 19-27, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Solving the Short-Term Scheduling Problem of Hydrothermal Systems via Lagrangian Relaxation and Augmented Lagrangian",
+          "autores": "; da Silva, Edson L. ; Finardi, Erlon C. ;",
+          "periodico": "Mathematical Problems in Engineering (Print) , v. 2012, p. 1-18, 2012.",
+          "doi": "http://dx.doi.org/10.1155/2012/856178",
+          "citacao_completa": "; da Silva, Edson L. ; Finardi, Erlon C. ; . Solving the Short-Term Scheduling Problem of Hydrothermal Systems via Lagrangian Relaxation and Augmented Lagrangian. Mathematical Problems in Engineering (Print) , v. 2012, p. 1-18, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Solving the hydrothermal scheduling problem considering network constraints",
+          "autores": "; da Silva, Edson L. ; Finardi, Erlon C. ;",
+          "periodico": "Electric Power Systems Research (Print) , v. 88, p. 89-97, 2012.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2012.02.005",
+          "citacao_completa": "; da Silva, Edson L. ; Finardi, Erlon C. ; . Solving the hydrothermal scheduling problem considering network constraints. Electric Power Systems Research (Print) , v. 88, p. 89-97, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A computational study of a stochastic optimization model for long term hydrothermal scheduling",
+          "autores": "; Finardi, Erlon Cristian",
+          "periodico": "International Journal of Electrical Power & Energy Systems , v. 43, p. 1443-1452, 2012.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2012.06.021",
+          "citacao_completa": "; Finardi, Erlon Cristian . A computational study of a stochastic optimization model for long term hydrothermal scheduling. International Journal of Electrical Power & Energy Systems , v. 43, p. 1443-1452, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Comparing stochastic optimization methods to solve the medium-term operation planning problem",
+          "autores": "; FINARDI, Erlon Cristian ; ;",
+          "periodico": "Matemática Aplicada e Computacional (Cessou em 1997. Cont. ISSN 1807-0302 Computational & Applied Mathematics) , v. 30, p. 289-313, 2011.",
+          "doi": "http://dx.doi.org/10.1590/s1807-03022011000200003",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; ; . Comparing stochastic optimization methods to solve the medium-term operation planning problem. Matemática Aplicada e Computacional (Cessou em 1997. Cont. ISSN 1807-0302 Computational & Applied Mathematics) , v. 30, p. 289-313, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sampling Strategies and Stopping Criteria for Stochastic Dual Dynamic Programming: A Case >Study in Long-Term Hydrothermal Scheduling",
+          "autores": "; HOMEM-DE-MELLO, T. ; FINARDI, Erlon Cristian",
+          "periodico": "Energy Systems , v. 2, p. 1-31, 2011.",
+          "doi": "http://dx.doi.org/10.1007/s12667-011-0024-y",
+          "citacao_completa": "; HOMEM-DE-MELLO, T. ; FINARDI, Erlon Cristian . Sampling Strategies and Stopping Criteria for Stochastic Dual Dynamic Programming: A Case >Study in Long-Term Hydrothermal Scheduling. Energy Systems , v. 2, p. 1-31, 2011."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Practical aspects in solving the medium-term operation planning problem of hydrothermal power systems by using the progressive hedging method",
+          "autores": "dos Santos, Marcelo L.L. ; da Silva, Edson Luiz ; Finardi, Erlon Cristian ;",
+          "periodico": "International Journal of Electrical Power & Energy Systems , v. 31, p. 546-552, 2009.",
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2009.03.032",
+          "citacao_completa": "dos Santos, Marcelo L.L. ; da Silva, Edson Luiz ; Finardi, Erlon Cristian ; . Practical aspects in solving the medium-term operation planning problem of hydrothermal power systems by using the progressive hedging method. International Journal of Electrical Power & Energy Systems , v. 31, p. 546-552, 2009."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Solving the Hydro Unit Commitment via Dual Decomposition and Sequential Quadratic Programming",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "IEEE Transactions on Power Systems , IEEE Transactions - USA, v. 21, n.2, p. 835-844, 2006.",
+          "doi": "http://dx.doi.org/10.1109/TPWRS.2006.873121",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Solving the Hydro Unit Commitment via Dual Decomposition and Sequential Quadratic Programming. IEEE Transactions on Power Systems , IEEE Transactions - USA, v. 21, n.2, p. 835-844, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Alocação de unidades hidrelétricas no problema da programação da operação energética utilizando relaxação lagrangeana e lagrangeano aumentado",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "Controle & Automação (Impresso) , Brasil, v. 17, n.2, p. 155-166, 2006.",
+          "doi": "http://dx.doi.org/10.1590/s0103-17592006000200004",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . Alocação de unidades hidrelétricas no problema da programação da operação energética utilizando relaxação lagrangeana e lagrangeano aumentado. Controle & Automação (Impresso) , Brasil, v. 17, n.2, p. 155-166, 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Unit Commitment of Single Hydroelectric Plant",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "Electric Power Systems Research (Print) , Irlanda, v. 75, p. 116-123, 2005.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2005.01.008",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Unit Commitment of Single Hydroelectric Plant. Electric Power Systems Research (Print) , Irlanda, v. 75, p. 116-123, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Solving the unit commitment problem of hydropower plants via Lagrangian Relaxation and Sequential Quadratic Programming",
+          "autores": "FINARDI, Erlon Cristian ; ; SAGÁSTIZABAL, Cláudia A",
+          "periodico": "Matemática Aplicada e Computacional (Cessou em 1997. Cont. ISSN 1807-0302 Computational & Applied Mathematics) , Brasil, v. 24, n.3, p. 317-342, 2005.",
+          "doi": "http://dx.doi.org/10.1590/s0101-82052005000300001",
+          "citacao_completa": "FINARDI, Erlon Cristian ; ; SAGÁSTIZABAL, Cláudia A . Solving the unit commitment problem of hydropower plants via Lagrangian Relaxation and Sequential Quadratic Programming. Matemática Aplicada e Computacional (Cessou em 1997. Cont. ISSN 1807-0302 Computational & Applied Mathematics) , Brasil, v. 24, n.3, p. 317-342, 2005."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Parallel Processing Applied To the Planning of Hydrothermal Systems",
+          "autores": "; Finardi, Erlon Cristian",
+          "periodico": "IEEE Transactions on Parallel and Distributed Systems (Print) , Estados Unidos, v. 14, p. 721-729, 2003.",
+          "doi": "http://dx.doi.org/10.1109/TPDS.2003.1225052",
+          "citacao_completa": "; Finardi, Erlon Cristian . Parallel Processing Applied To the Planning of Hydrothermal Systems. IEEE Transactions on Parallel and Distributed Systems (Print) , Estados Unidos, v. 14, p. 721-729, 2003."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "A Mixed-Integer and Asynchronous Level Decomposition with Application to the Stochastic Hydrothermal Unit-Commitment Problem",
+          "autores": "COLONETTI, B. ; FINARDI, Erlon Cristian ; OLIVEIRA, W. L.",
+          "periodico": "In: Napsu Karmitsa; Sona Taheri. (Org.). Nonsmooth Optimization in Honor of the 60th Birthday of Adil M. Bagirov. 1ed.Basel: MDPI, 2021, v. 1, p. 5-20.",
+          "doi": "",
+          "citacao_completa": "COLONETTI, B. ; FINARDI, Erlon Cristian ; OLIVEIRA, W. L. . A Mixed-Integer and Asynchronous Level Decomposition with Application to the Stochastic Hydrothermal Unit-Commitment Problem. In: Napsu Karmitsa; Sona Taheri. (Org.). Nonsmooth Optimization in Honor of the 60th Birthday of Adil M. Bagirov. 1ed.Basel: MDPI, 2021, v. 1, p. 5-20."
+        },
+        {
+          "ano": 2019,
+          "titulo": "GERENCIAMENTO ENERGÉTICO PARA MICRORREDES: DESENVOLVIMENTO E IMPLEMENTAÇÃO PILOTO",
+          "autores": "Maryama, Victor ; Zeni, Vítor Seger ; Jordan, Frederico Viveiros ; Pica, Cesare Quinteiro ; Finardi, Erlon Cristian ; Oliveira, Gabriel Aurélio de",
+          "periodico": "Engenharias, Ciência e Tecnologia 3. 1ed.: Antonella Carvalho de Oliveira, 2019, v. , p. 87-106.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.8651931016",
+          "citacao_completa": "Maryama, Victor ; Zeni, Vítor Seger ; Jordan, Frederico Viveiros ; Pica, Cesare Quinteiro ; Finardi, Erlon Cristian ; Oliveira, Gabriel Aurélio de . GERENCIAMENTO ENERGÉTICO PARA MICRORREDES: DESENVOLVIMENTO E IMPLEMENTAÇÃO PILOTO. Engenharias, Ciência e Tecnologia 3. 1ed.: Antonella Carvalho de Oliveira, 2019, v. , p. 87-106."
+        },
+        {
+          "ano": 2013,
+          "titulo": "The Medium-Term Operation Planning Problem of Hydrothermal Systems",
+          "autores": "; GENDRAUX, M. ; E. C. Finardi",
+          "periodico": "In: Kovacevic, Raimund M.; Pflug, Georg Ch.; Vespucci, Maria Teresa. (Org.). Handbook of Risk Management in Energy Production and Trading. 1ed.Amsterdã: Springer, 2013, v. XIV, p. 129-155.",
+          "doi": "",
+          "citacao_completa": "; GENDRAUX, M. ; E. C. Finardi . The Medium-Term Operation Planning Problem of Hydrothermal Systems. In: Kovacevic, Raimund M.; Pflug, Georg Ch.; Vespucci, Maria Teresa. (Org.). Handbook of Risk Management in Energy Production and Trading. 1ed.Amsterdã: Springer, 2013, v. XIV, p. 129-155."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Uma abordagem híbrida entre a agregação por usina e a modelagem individualizada da função de produção hidrelétrica na programação diária do Sistema Interligado Nacional",
+          "autores": "TURANO, R. ; ; E. C. Finardi ; DOS SANTOS ABREU, DAVID LUCAS ; SANTANA, A. ; SILVA, J. ; MOROSO, T.",
+          "periodico": "In: XVI SEPOPE, 2026, Foz do Iguaçu. Uma abordagem híbrida entre a agregação por usina e a modelagem individualizada da função de produção hidrelétrica na programação diária do Sistema Interligado Nacional, 2026.",
+          "doi": "",
+          "citacao_completa": "TURANO, R. ; ; E. C. Finardi ; DOS SANTOS ABREU, DAVID LUCAS ; SANTANA, A. ; SILVA, J. ; MOROSO, T. . Uma abordagem híbrida entre a agregação por usina e a modelagem individualizada da função de produção hidrelétrica na programação diária do Sistema Interligado Nacional. In: XVI SEPOPE, 2026, Foz do Iguaçu. Uma abordagem híbrida entre a agregação por usina e a modelagem individualizada da função de produção hidrelétrica na programação diária do Sistema Interligado Nacional, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Programação Diária da Operação na Usina Hidrelétrica Jirau",
+          "autores": "; E. C. Finardi ; SOUZA, H. ; SILVA, J. M. A. ; PAZDZIORNY, G. F. S.",
+          "periodico": "In: XVIII SNPTEE, 2025, Recife. Programação Diária da Operação na Usina Hidrelétrica Jirau, 2025.",
+          "doi": "",
+          "citacao_completa": "; E. C. Finardi ; SOUZA, H. ; SILVA, J. M. A. ; PAZDZIORNY, G. F. S. . Programação Diária da Operação na Usina Hidrelétrica Jirau. In: XVIII SNPTEE, 2025, Recife. Programação Diária da Operação na Usina Hidrelétrica Jirau, 2025."
+        },
+        {
+          "ano": 2022,
+          "titulo": "UMA PROPOSTA LINEAR INTEIRA MISTA DE FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA CONSIDERANDO CONJUNTOS GERADORES AGREGADOS",
+          "autores": "MATIUSSI RAMALHO, GUILHERME ; FINARDI, Erlon Cristian",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. UMA PROPOSTA LINEAR INTEIRA MISTA DE FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA CONSIDERANDO CONJUNTOS GERADORES AGREGADOS, 2022.",
+          "doi": "",
+          "citacao_completa": "MATIUSSI RAMALHO, GUILHERME ; FINARDI, Erlon Cristian . UMA PROPOSTA LINEAR INTEIRA MISTA DE FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA CONSIDERANDO CONJUNTOS GERADORES AGREGADOS. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. UMA PROPOSTA LINEAR INTEIRA MISTA DE FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA CONSIDERANDO CONJUNTOS GERADORES AGREGADOS, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "TRATAMENTO DE AFLUÊNCIAS NEGATIVAS NO PROBLEMA DE PLANEJAMENTO ENERGÉTICO DE MÉDIO-PRAZO",
+          "autores": "PEDRINI, R. ; FINARDI, Erlon Cristian ;",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. TRATAMENTO DE AFLUÊNCIAS NEGATIVAS NO PROBLEMA DE PLANEJAMENTO ENERGÉTICO DE MÉDIO-PRAZO, 2022.",
+          "doi": "",
+          "citacao_completa": "PEDRINI, R. ; FINARDI, Erlon Cristian ; . TRATAMENTO DE AFLUÊNCIAS NEGATIVAS NO PROBLEMA DE PLANEJAMENTO ENERGÉTICO DE MÉDIO-PRAZO. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2022, Rio de Janeiro. TRATAMENTO DE AFLUÊNCIAS NEGATIVAS NO PROBLEMA DE PLANEJAMENTO ENERGÉTICO DE MÉDIO-PRAZO, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "PARTITIONING APPROACH BASED ON CONVEX HULL AND MULTIPLE CHOICE FOR SOLVING HYDRO UNIT COMMITMENT PROBLEMS",
+          "autores": "SOUZA, H. ; ; E. C. Finardi ;",
+          "periodico": "In: Power Systems Computation Conference 2022, 2022, Porto, Portugal. PARTITIONING APPROACH BASED ON CONVEX HULL AND MULTIPLE CHOICE FOR SOLVING HYDRO UNIT COMMITMENT PROBLEMS, 2022.",
+          "doi": "",
+          "citacao_completa": "SOUZA, H. ; ; E. C. Finardi ; . PARTITIONING APPROACH BASED ON CONVEX HULL AND MULTIPLE CHOICE FOR SOLVING HYDRO UNIT COMMITMENT PROBLEMS. In: Power Systems Computation Conference 2022, 2022, Porto, Portugal. PARTITIONING APPROACH BASED ON CONVEX HULL AND MULTIPLE CHOICE FOR SOLVING HYDRO UNIT COMMITMENT PROBLEMS, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Otimização energética e reserva girante para controle secundário de frequência em grandes UHEs",
+          "autores": "GOSMANN, RODRIGO P. ; PEREIRA, AIRTON I. ; WEISS, LEONARDO A. ; MACHADO, B. M. ; BRITO, BRUNNO H. ; E. C. Finardi ; DE ASSIS MORAIS, DOUGLAS T. S.",
+          "periodico": "In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022, Foz do Iguaçu. Otimização energética e reserva girante para controle secundário de frequência em grandes UHEs, 2022.",
+          "doi": "",
+          "citacao_completa": "GOSMANN, RODRIGO P. ; PEREIRA, AIRTON I. ; WEISS, LEONARDO A. ; MACHADO, B. M. ; BRITO, BRUNNO H. ; E. C. Finardi ; DE ASSIS MORAIS, DOUGLAS T. S. . Otimização energética e reserva girante para controle secundário de frequência em grandes UHEs. In: XV Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022, Foz do Iguaçu. Otimização energética e reserva girante para controle secundário de frequência em grandes UHEs, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Sistema de Recomendação de Distribuição Ótima de Carga para as Unidades Geradoras da Usina Hidrelétrica de Santo Antônio",
+          "autores": "GOSMANN, RODRIGO P. ; PEREIRA, AIRTON ISAAC ; WEISS, LEONARDO A. ; MENDES, P. T. ; ; DOS SANTOS ABREU, DAVID LUCAS ; FINARDI, Erlon Cristian ; ; DE ASSIS MORAIS, DOUGLAS T. S. ; FERNANDES, ARGEMIRO",
+          "periodico": "In: XXIII CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2020), 2020, Porto Alegre. Sistema de Recomendação de Distribuição Ótima de Carga para as Unidades Geradoras da Usina Hidrelétrica de Santo Antônio, 2020.",
+          "doi": "",
+          "citacao_completa": "GOSMANN, RODRIGO P. ; PEREIRA, AIRTON ISAAC ; WEISS, LEONARDO A. ; MENDES, P. T. ; ; DOS SANTOS ABREU, DAVID LUCAS ; FINARDI, Erlon Cristian ; ; DE ASSIS MORAIS, DOUGLAS T. S. ; FERNANDES, ARGEMIRO . Sistema de Recomendação de Distribuição Ótima de Carga para as Unidades Geradoras da Usina Hidrelétrica de Santo Antônio. In: XXIII CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2020), 2020, Porto Alegre. Sistema de Recomendação de Distribuição Ótima de Carga para as Unidades Geradoras da Usina Hidrelétrica de Santo Antônio, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "UNIT-COMMITMENT VIA LOGARITHMIC AGGREGATED CONVEX COMBINATION IN MULTI-UNIT HYDRO PLANTS,",
+          "autores": "; E. C. Finardi ;",
+          "periodico": "In: Power Systems Computation Conference 2020, 2020, Porto, Portugal. UNIT-COMMITMENT VIA LOGARITHMIC AGGREGATED CONVEX COMBINATION IN MULTI-UNIT HYDRO PLANTS,, 2020.",
+          "doi": "",
+          "citacao_completa": "; E. C. Finardi ; . UNIT-COMMITMENT VIA LOGARITHMIC AGGREGATED CONVEX COMBINATION IN MULTI-UNIT HYDRO PLANTS,. In: Power Systems Computation Conference 2020, 2020, Porto, Portugal. UNIT-COMMITMENT VIA LOGARITHMIC AGGREGATED CONVEX COMBINATION IN MULTI-UNIT HYDRO PLANTS,, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "HEDGING POWER MARKET RISK BY INVESTING IN SELF-PRODUCTION FROM COMPLEMENTING RENEWABLE SOURCES",
+          "autores": "PEDRINI, R. ; E. C. Finardi ;",
+          "periodico": "In: Power Systems Computation Conference 2020, 2020, Porto, Portugal. HEDGING POWER MARKET RISK BY INVESTING IN SELF-PRODUCTION FROM COMPLEMENTING RENEWABLE SOURCES, 2020.",
+          "doi": "",
+          "citacao_completa": "PEDRINI, R. ; E. C. Finardi ; . HEDGING POWER MARKET RISK BY INVESTING IN SELF-PRODUCTION FROM COMPLEMENTING RENEWABLE SOURCES. In: Power Systems Computation Conference 2020, 2020, Porto, Portugal. HEDGING POWER MARKET RISK BY INVESTING IN SELF-PRODUCTION FROM COMPLEMENTING RENEWABLE SOURCES, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "IMPACTO DA MODELAGEM DA FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA NO PROBLEMA DA PROGRAMAÇÃO DIÁRIA DA OPERAÇÃO ELETROENERGÉTICA",
+          "autores": "MUHLEN, G. V. ; FINARDI, Erlon Cristian ;",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. IMPACTO DA MODELAGEM DA FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA NO PROBLEMA DA PROGRAMAÇÃO DIÁRIA DA OPERAÇÃO ELETROENERGÉTICA, 2019.",
+          "doi": "",
+          "citacao_completa": "MUHLEN, G. V. ; FINARDI, Erlon Cristian ; . IMPACTO DA MODELAGEM DA FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA NO PROBLEMA DA PROGRAMAÇÃO DIÁRIA DA OPERAÇÃO ELETROENERGÉTICA. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. IMPACTO DA MODELAGEM DA FUNÇÃO DE PRODUÇÃO HIDRELÉTRICA NO PROBLEMA DA PROGRAMAÇÃO DIÁRIA DA OPERAÇÃO ELETROENERGÉTICA, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "MODELO DE OTIMIZAÇÃO DAS ESTRATÉGIAS DE COMERCIALIZAÇÃO DE ENERGIA DE CONSUMIDORES ELETROINTENSIVOS COM AUTOPRODUÇÃO DE ENERGIA RENOVÁVEL",
+          "autores": "PEDRINI, R. ; FINARDI, Erlon Cristian ; FERREIRA, T. G. L.",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. MODELO DE OTIMIZAÇÃO DAS ESTRATÉGIAS DE COMERCIALIZAÇÃO DE ENERGIA DE CONSUMIDORES ELETROINTENSIVOS COM AUTOPRODUÇÃO DE ENERGIA RENOVÁVEL, 2019.",
+          "doi": "",
+          "citacao_completa": "PEDRINI, R. ; FINARDI, Erlon Cristian ; FERREIRA, T. G. L. . MODELO DE OTIMIZAÇÃO DAS ESTRATÉGIAS DE COMERCIALIZAÇÃO DE ENERGIA DE CONSUMIDORES ELETROINTENSIVOS COM AUTOPRODUÇÃO DE ENERGIA RENOVÁVEL. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2019, Belo Horizonte. MODELO DE OTIMIZAÇÃO DAS ESTRATÉGIAS DE COMERCIALIZAÇÃO DE ENERGIA DE CONSUMIDORES ELETROINTENSIVOS COM AUTOPRODUÇÃO DE ENERGIA RENOVÁVEL, 2019."
+        },
+        {
+          "ano": 2017,
+          "titulo": "VANTAGENS EM SE CONSIDERAR METAS DE DEMANDA PARA GRUPOS DE USINAS NA MODELAGEM DO PROBLEMA DE COMISSIONAMENTO DE UNIDADES HIDRELÉTRICAS",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . VANTAGENS EM SE CONSIDERAR METAS DE DEMANDA PARA GRUPOS DE USINAS NA MODELAGEM DO PROBLEMA DE COMISSIONAMENTO DE UNIDADES HIDRELÉTRICAS. In: Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017, Curitiba. Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA ELÉTRICA DE PEQUENAS CENTRAIS HIDRELÉTRICAS COM TÉCNICAS DE AVERSÃO A RISCO",
+          "autores": "; ; FINARDI, Erlon Cristian",
+          "periodico": "In: XIII Seminário Nacional de Produção e Transmissão de Energia Eétrica, 2015, Foz do Iguaçu. ANAIS do XXIII SNTPEE, 2015.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, Erlon Cristian . UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA ELÉTRICA DE PEQUENAS CENTRAIS HIDRELÉTRICAS COM TÉCNICAS DE AVERSÃO A RISCO. In: XIII Seminário Nacional de Produção e Transmissão de Energia Eétrica, 2015, Foz do Iguaçu. ANAIS do XXIII SNTPEE, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "ANÁLISE COMPARATIVA DE DIFERENTES METODOLOGIAS PARA A SOLUÇÃO DO PROBLEMA DO COMISSIONAMENTO DE UNIDADES HIDRELÉTRICAS",
+          "autores": "; ; FINARDI, Erlon Cristian",
+          "periodico": "In: XIII Seminário Nacional de Produção e Transmissão de Energia Eétrica, 2015, Foz do Iguaçu. ANAIS do XXIII SNTPEE, 2015.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, Erlon Cristian . ANÁLISE COMPARATIVA DE DIFERENTES METODOLOGIAS PARA A SOLUÇÃO DO PROBLEMA DO COMISSIONAMENTO DE UNIDADES HIDRELÉTRICAS. In: XIII Seminário Nacional de Produção e Transmissão de Energia Eétrica, 2015, Foz do Iguaçu. ANAIS do XXIII SNTPEE, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "An Improved Modeling for Microturbines and Fuel Cells to the Energy Management Problem of Microgrids",
+          "autores": "TENFEN, D. ; FINARDI, E.C. ; FERNANDEZ, V. ; OBER, T.",
+          "periodico": "In: Power Systems Computation Conference, 2014, Wroclaw. 18th Power Systems Computation Conference, 2014.",
+          "doi": "",
+          "citacao_completa": "TENFEN, D. ; FINARDI, E.C. ; FERNANDEZ, V. ; OBER, T. . An Improved Modeling for Microturbines and Fuel Cells to the Energy Management Problem of Microgrids. In: Power Systems Computation Conference, 2014, Wroclaw. 18th Power Systems Computation Conference, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Assessment of the Long-Term Hydrothermal Scheduling Operation Polices with Alternative Inflow Modeling",
+          "autores": "; ; FINARDI, E.C.",
+          "periodico": "In: Power Systems Computation Conference, 2014, Wroclaw. 18th Power Systems Computation Conference, 2014.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, E.C. . Assessment of the Long-Term Hydrothermal Scheduling Operation Polices with Alternative Inflow Modeling. In: Power Systems Computation Conference, 2014, Wroclaw. 18th Power Systems Computation Conference, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Análise Estruturada de Mecanismos para Mitigação dos Riscos de Comercialização de Usinas Eólicas Alocadas no Mercado Livre",
+          "autores": "; GUARNIER, E. ; ; WITZLER, L. T. ; ; E. C. Finardi",
+          "periodico": "In: XIII SEPOPE ? Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "doi": "",
+          "citacao_completa": "; GUARNIER, E. ; ; WITZLER, L. T. ; ; E. C. Finardi . Análise Estruturada de Mecanismos para Mitigação dos Riscos de Comercialização de Usinas Eólicas Alocadas no Mercado Livre. In: XIII SEPOPE ? Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Um Modelo Matemático para a Representação d e Microturbinas e Células Combustível no Problema do Gerenciamento Energético de Microrredes",
+          "autores": "TENFEN, D. ; E. C. Finardi",
+          "periodico": "In: XIII SEPOPE ? Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "doi": "",
+          "citacao_completa": "TENFEN, D. ; E. C. Finardi . Um Modelo Matemático para a Representação d e Microturbinas e Células Combustível no Problema do Gerenciamento Energético de Microrredes. In: XIII SEPOPE ? Symposium of Specialists in Electric Operational and Expansion Planning, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Gerenciamento Energético de Microrredes",
+          "autores": "TENFEN, DANIEL ; E. C. Finardi",
+          "periodico": "In: XXI Seminário Nacional de Distribuição de Energia Elétrica, 2014, Santos. Anais do XXI SENDI, 2014.",
+          "doi": "",
+          "citacao_completa": "TENFEN, DANIEL ; E. C. Finardi . Gerenciamento Energético de Microrredes. In: XXI Seminário Nacional de Distribuição de Energia Elétrica, 2014, Santos. Anais do XXI SENDI, 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA DEFINIÇÃO DE ESTRATÉGIAS DE CONTRATAÇÃO DE ENERGIA NO AMBIENTE DE CONTRATAÇÃO REGULADA VIA PROGRESSIVE HEDGING",
+          "autores": "VERONESE, H. D. ; Finardi, Erlon Cristian",
+          "periodico": "In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013.",
+          "doi": "",
+          "citacao_completa": "VERONESE, H. D. ; Finardi, Erlon Cristian . UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA DEFINIÇÃO DE ESTRATÉGIAS DE CONTRATAÇÃO DE ENERGIA NO AMBIENTE DE CONTRATAÇÃO REGULADA VIA PROGRESSIVE HEDGING. In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Sistema de Gestão em Tempo Real para Avaliação da Performance e Otimização da Produção de Energia na Usina Hidrelétrica de Itá",
+          "autores": "; E. C. Finardi ; ; ; RIBAS, F. A. C. ; COUTTO, F. A. B.",
+          "periodico": "In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. Sistema de Gestão em Tempo Real para Avaliação da Performance e Otimização da Produção de Energia na Usina Hidrelétrica de Itá, 2013.",
+          "doi": "",
+          "citacao_completa": "; E. C. Finardi ; ; ; RIBAS, F. A. C. ; COUTTO, F. A. B. . Sistema de Gestão em Tempo Real para Avaliação da Performance e Otimização da Produção de Energia na Usina Hidrelétrica de Itá. In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. Sistema de Gestão em Tempo Real para Avaliação da Performance e Otimização da Produção de Energia na Usina Hidrelétrica de Itá, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA DE FONTES ALTERNATIVAS",
+          "autores": "SIERRA, M. ; ; ; E. C. Finardi ; MILANEZI, A.",
+          "periodico": "In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA DE FONTES ALTERNATIVAS, 2013. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "SIERRA, M. ; ; ; E. C. Finardi ; MILANEZI, A. . UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA DE FONTES ALTERNATIVAS. In: XXII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2013, Brasilia. UM MODELO DE OTIMIZAÇÃO ESTOCÁSTICA PARA APOIO À DECISÃO NA COMERCIALIZAÇÃO DE ENERGIA DE FONTES ALTERNATIVAS, 2013. v. 1. p. 1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Uma Medida Coerente De Risco Como Métrica Para O Planejamento Anual Da Operação Energética",
+          "autores": "; Finardi, Erlon Cristian ;",
+          "periodico": "In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro. XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012.",
+          "doi": "",
+          "citacao_completa": "; Finardi, Erlon Cristian ; . Uma Medida Coerente De Risco Como Métrica Para O Planejamento Anual Da Operação Energética. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro. XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A Model to Accounting for Losses in the Unit Commitment Problem at Brazilian Hydro Plants",
+          "autores": "Finardi, Erlon Cristian ;",
+          "periodico": "In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011.",
+          "doi": "",
+          "citacao_completa": "Finardi, Erlon Cristian ; . A Model to Accounting for Losses in the Unit Commitment Problem at Brazilian Hydro Plants. In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Exploring the Progressive Hedging Characteristics to Improve the Solution of the Medium-term Operation Planning Problem",
+          "autores": "; Finardi, Erlon Cristian ;",
+          "periodico": "In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011.",
+          "doi": "",
+          "citacao_completa": "; Finardi, Erlon Cristian ; . Exploring the Progressive Hedging Characteristics to Improve the Solution of the Medium-term Operation Planning Problem. In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Solving Long-Term Hydrothermal Scheduling Problems",
+          "autores": "; PHILPOTT, A. B. ; Finardi, Erlon Cristian ; GUAN, Z.",
+          "periodico": "In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011.",
+          "doi": "",
+          "citacao_completa": "; PHILPOTT, A. B. ; Finardi, Erlon Cristian ; GUAN, Z. . Solving Long-Term Hydrothermal Scheduling Problems. In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Solving The Short Term Operating Planning Problem of Hydrothermal Systems",
+          "autores": "; ; FINARDI, Erlon Cristian ;",
+          "periodico": "In: 16th Power Systems Computation Conference, 2008, Glasgow. Conference Proceedings, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, Erlon Cristian ; . Solving The Short Term Operating Planning Problem of Hydrothermal Systems. In: 16th Power Systems Computation Conference, 2008, Glasgow. Conference Proceedings, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Comparative Analysis of Methods based on Lagrangian Relaxation and Augmented Lagrangian to solve the Short-term Hydrothermal Scheduling Problem.",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . A Comparative Analysis of Methods based on Lagrangian Relaxation and Augmented Lagrangian to solve the Short-term Hydrothermal Scheduling Problem.. In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Comparison Between the Use of Energy Equivalent Reservoirs per Subsystem and per Cascade in the Long Term Operational Planning in Brazil",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . Comparison Between the Use of Energy Equivalent Reservoirs per Subsystem and per Cascade in the Long Term Operational Planning in Brazil. In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Solving the Short Term Operating Planning Problem of Hydrothermal Systems by using the Progressive Hedging Method",
+          "autores": "; ; FINARDI, Erlon Cristian ;",
+          "periodico": "In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, Erlon Cristian ; . Solving the Short Term Operating Planning Problem of Hydrothermal Systems by using the Progressive Hedging Method. In: International Conference on Engineering Optimization, 2008, Rio de Janeiro. International Conference on Engineering Optimization, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Solving The Hydrothermal Unit Commitment Problem Via Lagrangian Relaxation and Augmented Lagrangian",
+          "autores": "; ; FINARDI, Erlon Cristian",
+          "periodico": "In: 16th Power Systems Computation Conference, 2008, Glasgow. Conference Proceedings, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FINARDI, Erlon Cristian . Solving The Hydrothermal Unit Commitment Problem Via Lagrangian Relaxation and Augmented Lagrangian. In: 16th Power Systems Computation Conference, 2008, Glasgow. Conference Proceedings, 2008."
+        },
+        {
+          "ano": 2005,
+          "titulo": "PROGRAMAÇÃO ÓTIMA DA MANUTENÇÃO PREVENTIVA DE UNIDADES GERADORAS UTILIZANDO RELAXAÇÃO LAGRANGEANA",
+          "autores": "FINARDI, Erlon Cristian ; ZURN, Hans Helmut",
+          "periodico": "In: SNPTEE 2005, 2005, Curitiba. XVIII SNPTEE, 2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; ZURN, Hans Helmut . PROGRAMAÇÃO ÓTIMA DA MANUTENÇÃO PREVENTIVA DE UNIDADES GERADORAS UTILIZANDO RELAXAÇÃO LAGRANGEANA. In: SNPTEE 2005, 2005, Curitiba. XVIII SNPTEE, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Optimal Dispatch of Hydro Generation Plants by Augmented Lagrangian",
+          "autores": "FERNANDES, Rafael Nilson ; FINARDI, Erlon Cristian ;",
+          "periodico": "In: IEEE Summer Meeting, 2005, San Francisco. IEEE Summer Meeting 2005, 2005.",
+          "doi": "",
+          "citacao_completa": "FERNANDES, Rafael Nilson ; FINARDI, Erlon Cristian ; . Optimal Dispatch of Hydro Generation Plants by Augmented Lagrangian. In: IEEE Summer Meeting, 2005, San Francisco. IEEE Summer Meeting 2005, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Análise Comparativa entre a Representação Individualizada das Usinas Hidrelétricas e o Modelo a Reservatório Equivalente no Problema do Planejamento da Operação Energética",
+          "autores": "CARVALHO, L. C. X. ; E. C. Finardi ;",
+          "periodico": "In: XVIII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2005, Curitiba. Análise Comparativa entre a Representação Individualizada das Usinas Hidrelétricas e o Modelo a Reservatório Equivalente no Problema do Planejamento da Operação Energética, 2005. v. 1. p. 1.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, L. C. X. ; E. C. Finardi ; . Análise Comparativa entre a Representação Individualizada das Usinas Hidrelétricas e o Modelo a Reservatório Equivalente no Problema do Planejamento da Operação Energética. In: XVIII SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2005, Curitiba. Análise Comparativa entre a Representação Individualizada das Usinas Hidrelétricas e o Modelo a Reservatório Equivalente no Problema do Planejamento da Operação Energética, 2005. v. 1. p. 1."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Aplicação de Modelagem Orientada a Objetos ao Problema do Planejamento de Sistemas Hidrotérmicos",
+          "autores": "; FINARDI, Erlon Cristian ; ;",
+          "periodico": "In: IX SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Anais - IX SEPOPE, 2004.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; ; . Aplicação de Modelagem Orientada a Objetos ao Problema do Planejamento de Sistemas Hidrotérmicos. In: IX SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Anais - IX SEPOPE, 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Implementação Das Restrições De Unit Commitment Hidráulico Utilizando Relaxação Lagrangeana No Modelo De Otimização Do Despacho Horário De Geração Em Sistemas Hidrotérmicos Interligados - Dessem",
+          "autores": "; SAGASTIZÁBAL, Claudia A. ; FINARDI, Erlon Cristian ; SOUSA, Luiz Carlos Ferreira de ; COSTA, Fernanda da Serra ; TERRY, Leslie Afranio ; ; CHAVES, Denis Biangolino",
+          "periodico": "In: IX SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Anais do IX SEPOPE, 2004.",
+          "doi": "",
+          "citacao_completa": "; SAGASTIZÁBAL, Claudia A. ; FINARDI, Erlon Cristian ; SOUSA, Luiz Carlos Ferreira de ; COSTA, Fernanda da Serra ; TERRY, Leslie Afranio ; ; CHAVES, Denis Biangolino . Implementação Das Restrições De Unit Commitment Hidráulico Utilizando Relaxação Lagrangeana No Modelo De Otimização Do Despacho Horário De Geração Em Sistemas Hidrotérmicos Interligados - Dessem. In: IX SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2004, Rio de Janeiro. Anais do IX SEPOPE, 2004."
+        },
+        {
+          "ano": 2002,
+          "titulo": "MODELANDO O PROBLEMA DA PROGRAMAÇÃO DA OPERAÇÃO HIDROTÉRMICA",
+          "autores": "FINARDI, Erlon Cristian ; ; MONTIBELLER, F.",
+          "periodico": "In: VIII SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2002, Brasília DF. VIII SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2002.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; ; MONTIBELLER, F. . MODELANDO O PROBLEMA DA PROGRAMAÇÃO DA OPERAÇÃO HIDROTÉRMICA. In: VIII SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2002, Brasília DF. VIII SEPOPE- Symposium of Specialists in Electric Operational and Expansion Planning, 2002."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Comissionamento De Unidades Hidráulicas No Problema De Planejamento da Operação Energética de Curto Prazo",
+          "autores": "; FINARDI, Erlon Cristian ;",
+          "periodico": "In: SNPTEE 2001, 2001, Campinas SP. SNPTEE 2001, 1999.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian ; . Comissionamento De Unidades Hidráulicas No Problema De Planejamento da Operação Energética de Curto Prazo. In: SNPTEE 2001, 2001, Campinas SP. SNPTEE 2001, 1999."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Planning of Hydrothermal Systems Using a Power Plant Individualistic Representation",
+          "autores": "; FINARDI, Erlon Cristian",
+          "periodico": "In: IEEE Porto Power Tech Proceedings, 2001, Porto, 2001.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian . Planning of Hydrothermal Systems Using a Power Plant Individualistic Representation. In: IEEE Porto Power Tech Proceedings, 2001, Porto, 2001."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Planejamento da Operação de Sistemas Hidrotérmicos Utilizando Processamento de Alto Desempenho",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "In: XII CONGRESSO BRASILEIRO DE AUTOMÁTICA, 1999, Florianópolis. XII CONGRESSO BRASILEIRO DE AUTOMÁTICA, 1999.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Planejamento da Operação de Sistemas Hidrotérmicos Utilizando Processamento de Alto Desempenho. In: XII CONGRESSO BRASILEIRO DE AUTOMÁTICA, 1999, Florianópolis. XII CONGRESSO BRASILEIRO DE AUTOMÁTICA, 1999."
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Stochastic Optimization Model For Energy Procurement Of Large Consumers Considering Investment In Wind Generation",
+          "autores": "PEDRINI, R. ; FINARDI, Erlon Cristian ; FERREIRA, T. G. L.",
+          "periodico": "In: XV International Conference on Stochastic Programming (ICSP2019), 2019, Trondheim, Norway.. Stochastic Optimization Model For Energy Procurement Of Large Consumers Considering Investment In Wind Generation, 2019.",
+          "doi": "",
+          "citacao_completa": "PEDRINI, R. ; FINARDI, Erlon Cristian ; FERREIRA, T. G. L. . Stochastic Optimization Model For Energy Procurement Of Large Consumers Considering Investment In Wind Generation. In: XV International Conference on Stochastic Programming (ICSP2019), 2019, Trondheim, Norway.. Stochastic Optimization Model For Energy Procurement Of Large Consumers Considering Investment In Wind Generation, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Asynchronous Level Bundle Method With Application To The Stochastic Hydrothermal Unit Commitment Problem",
+          "autores": "COLONETTI, B. ; FINARDI, Erlon Cristian ; DE OLIVEIRA, WELINGTON",
+          "periodico": "In: XV International Conference on Stochastic Programming (ICSP2019), 2019, Trondheim, Norway.. Asynchronous Level Bundle Method With Application To The Stochastic Hydrothermal Unit Commitment Problem, 2019.",
+          "doi": "",
+          "citacao_completa": "COLONETTI, B. ; FINARDI, Erlon Cristian ; DE OLIVEIRA, WELINGTON . Asynchronous Level Bundle Method With Application To The Stochastic Hydrothermal Unit Commitment Problem. In: XV International Conference on Stochastic Programming (ICSP2019), 2019, Trondheim, Norway.. Asynchronous Level Bundle Method With Application To The Stochastic Hydrothermal Unit Commitment Problem, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Stochastic Hydrothermal Unit Commitment via Multilevel Scenario Trees",
+          "autores": "LOBATO, R. ; FINARDI, Erlon Cristian ; ; SAGASTIZÁBAL, Claudia A. ; TOMASGARD, A.",
+          "periodico": "In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. 23rd International Symposium on Mathematical Programming, 2018.",
+          "doi": "",
+          "citacao_completa": "LOBATO, R. ; FINARDI, Erlon Cristian ; ; SAGASTIZÁBAL, Claudia A. ; TOMASGARD, A. . Stochastic Hydrothermal Unit Commitment via Multilevel Scenario Trees. In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. 23rd International Symposium on Mathematical Programming, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Stochastic dual dynamic programming with Chebyshev centers",
+          "autores": "BELTRAN, F. ; FINARDI, Erlon Cristian ; FREDO, G. ; OLIVEIRA, W. L.",
+          "periodico": "In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. Stochastic dual dynamic programming with Chebyshev centers, 2018.",
+          "doi": "",
+          "citacao_completa": "BELTRAN, F. ; FINARDI, Erlon Cristian ; FREDO, G. ; OLIVEIRA, W. L. . Stochastic dual dynamic programming with Chebyshev centers. In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. Stochastic dual dynamic programming with Chebyshev centers, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Stochastic Unit Commitment Problem: an Exact Probabilistic Constrained Approach",
+          "autores": "MATIUSSI RAMALHO, GUILHERME ; ACKOOIJ, W. V. ; FINARDI, Erlon Cristian",
+          "periodico": "In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. Stochastic Unit Commitment Problem: an Exact Probabilistic Constrained Approach, 2018.",
+          "doi": "",
+          "citacao_completa": "MATIUSSI RAMALHO, GUILHERME ; ACKOOIJ, W. V. ; FINARDI, Erlon Cristian . Stochastic Unit Commitment Problem: an Exact Probabilistic Constrained Approach. In: 23rd International Symposium on Mathematical Programming, 2018, Bordeaux, France. Stochastic Unit Commitment Problem: an Exact Probabilistic Constrained Approach, 2018."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2003,
+          "titulo": "Alocação de Unidades Geradoras Hidrelétricas em Sistemas Hidrotérmicos Utilizando Relaxação Lagrangeana e Programação Quadrática Seqüencial 2003 (Tese de Doutorado).",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . Alocação de Unidades Geradoras Hidrelétricas em Sistemas Hidrotérmicos Utilizando Relaxação Lagrangeana e Programação Quadrática Seqüencial 2003 (Tese de Doutorado)."
+        },
+        {
+          "ano": 2003,
+          "titulo": "PLANEJAMENTO E REGULAÇÃO DE SISTEMAS DE ENERGIA ELÉTRICA 2003 (Apostila).",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . PLANEJAMENTO E REGULAÇÃO DE SISTEMAS DE ENERGIA ELÉTRICA 2003 (Apostila)."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Planejamento da Operação de Sistemas Hidrotérmicos Utilizando Processamento de Alto Desempenho 1999 (Dissertação de Mestrado).",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . Planejamento da Operação de Sistemas Hidrotérmicos Utilizando Processamento de Alto Desempenho 1999 (Dissertação de Mestrado)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "Estudo de Propostas Metodológicas Para a Redução da Volatilidade do Preço de Liquidação de Diferenças",
+          "autores": "FINARDI, Erlon Cristian ; ;",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; ; . Estudo de Propostas Metodológicas Para a Redução da Volatilidade do Preço de Liquidação de Diferenças. 2010."
+        },
+        {
+          "ano": 2006,
+          "titulo": "O Preço da Energia Elétrica no Mercado de Curto Prazo",
+          "autores": "FINARDI, Erlon Cristian ; DECKER, Ildemar Cassana ; FERNANDES, Rubipiara Cavalcante ; ARFUX, Gustavo",
+          "periodico": "2006.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; DECKER, Ildemar Cassana ; FERNANDES, Rubipiara Cavalcante ; ARFUX, Gustavo . O Preço da Energia Elétrica no Mercado de Curto Prazo. 2006."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Inclusão do Problema de Alocação de Unidades Geradoras Termelétricas no Processo de Formação de Preços no Mercado de Energia Elétrica Brasileiro",
+          "autores": "; ZUCARATO, Alexandre Nunes ; FINARDI, Erlon Cristian ; FERNANDES, Rubipiara Cavalcante ; DECKER, Ildemar Cassana",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "; ZUCARATO, Alexandre Nunes ; FINARDI, Erlon Cristian ; FERNANDES, Rubipiara Cavalcante ; DECKER, Ildemar Cassana . Inclusão do Problema de Alocação de Unidades Geradoras Termelétricas no Processo de Formação de Preços no Mercado de Energia Elétrica Brasileiro. 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 2 - Avaliação do Despacho Hidrotérmico Praticado no Sistema Interligado Nacio-nal com Ênfase nos Modelos Computacionais Utilizados",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 2 - Avaliação do Despacho Hidrotérmico Praticado no Sistema Interligado Nacio-nal com Ênfase nos Modelos Computacionais Utilizados. 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 3 - Análise Crítica dos Dados de Entrada Utilizados nos Modelos Computacionais em Uso no Despacho Hidrotérmico",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 3 - Análise Crítica dos Dados de Entrada Utilizados nos Modelos Computacionais em Uso no Despacho Hidrotérmico. 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 4 - Proposta de Estabelecimento de Procedimentos para a Fiscalização dos Dados de Entrada Utilizados na Elaboração do Despacho Hidrotérmico",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 4 - Proposta de Estabelecimento de Procedimentos para a Fiscalização dos Dados de Entrada Utilizados na Elaboração do Despacho Hidrotérmico. 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 5 - Proposta de Estabelecimento de Procedimentos para a Fiscalização do Despacho Hidrotérmico",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 5 - Proposta de Estabelecimento de Procedimentos para a Fiscalização do Despacho Hidrotérmico. 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 6 - Proposta de Melhorias nos Procedimentos para o Despacho Hidrotérmico",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2005.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 6 - Proposta de Melhorias nos Procedimentos para o Despacho Hidrotérmico. 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 1 - Procedimentos Atuais Utilizados no Despacho Hidrotérmico",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2004.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . DEFINIÇÃO DOS PROCEDIMENTOS PARA O DESPACHO HIDROTÉRMICO - Relatório No 1 - Procedimentos Atuais Utilizados no Despacho Hidrotérmico. 2004."
+        },
+        {
+          "ano": 2004,
+          "titulo": "CARACTERÍSTICAS DOS CONTRATOS DE SUPRIMENTO DE GÁS NATURAL DAS USINAS TERMELÉTRICAS E OS RESPECTIVOS IMPACTOS NA OPERAÇÃO ENERGÉTICA DEVIDO AS DECLARAÇÕES DE INFLEXIBILIDADE ASSOCIADAS",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2004.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . CARACTERÍSTICAS DOS CONTRATOS DE SUPRIMENTO DE GÁS NATURAL DAS USINAS TERMELÉTRICAS E OS RESPECTIVOS IMPACTOS NA OPERAÇÃO ENERGÉTICA DEVIDO AS DECLARAÇÕES DE INFLEXIBILIDADE ASSOCIADAS. 2004."
+        },
+        {
+          "ano": 1999,
+          "titulo": "PROCESSO DE ESTABELECIMENTO DO PREÇO MAE",
+          "autores": "; FINARDI, Erlon Cristian",
+          "periodico": "1999.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian . PROCESSO DE ESTABELECIMENTO DO PREÇO MAE. 1999."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2004,
+          "titulo": "POMPSH - Programação Ótima da Manutenção Preventiva de Sistemas Hidrotérmicos",
+          "autores": "FINARDI, Erlon Cristian ; ZURN, Hans Helmut ; ABIKO, Eduardo",
+          "periodico": "2004.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; ZURN, Hans Helmut ; ABIKO, Eduardo . POMPSH - Programação Ótima da Manutenção Preventiva de Sistemas Hidrotérmicos. 2004."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2004,
+          "titulo": "Programação Ótima da Manutenção Preventiva de Unidades Geradoras Hidrelétricas e Termelétrica - Relatório Final",
+          "autores": "FINARDI, Erlon Cristian",
+          "periodico": "2004.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian . Programação Ótima da Manutenção Preventiva de Unidades Geradoras Hidrelétricas e Termelétrica - Relatório Final. 2004."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Proposta de Decomposição do Subproblema Hidrelétrico - Relatório Número 3- Modelo DESSEM",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Proposta de Decomposição do Subproblema Hidrelétrico - Relatório Número 3- Modelo DESSEM. 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Algoritmo de Solução do Problema de Despacho de Unidades Hidráulicas - Relatório Número 2- Modelo DESSEM",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Algoritmo de Solução do Problema de Despacho de Unidades Hidráulicas - Relatório Número 2- Modelo DESSEM. 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Comissionamento de Unidades Hidráulicas Relatório N 1 Modelo DESSEM",
+          "autores": "FINARDI, Erlon Cristian ;",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "FINARDI, Erlon Cristian ; . Comissionamento de Unidades Hidráulicas Relatório N 1 Modelo DESSEM. 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Parecer Técnico sobre as Regras do Mercado Atacadista de Energia Elétrica (MAE)",
+          "autores": "MOROZOWSKI, Marciano ; ; SOUZA, Adriano de ; FINARDI, Erlon Cristian",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "MOROZOWSKI, Marciano ; ; SOUZA, Adriano de ; FINARDI, Erlon Cristian . Parecer Técnico sobre as Regras do Mercado Atacadista de Energia Elétrica (MAE). 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Desenvolvimento de Metodologia e Fiscalização do Operador Nacional do Sistema Elétrico (ONS)",
+          "autores": "DECKER, Ildemar Cassana ; FERNANDES, Rubipiara Cavalcante ; SOUZA, Adriano de ; FINARDI, Erlon Cristian",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "DECKER, Ildemar Cassana ; FERNANDES, Rubipiara Cavalcante ; SOUZA, Adriano de ; FINARDI, Erlon Cristian . Desenvolvimento de Metodologia e Fiscalização do Operador Nacional do Sistema Elétrico (ONS). 2000."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Consultor do Projeto UFSC/CELESC: Reestruturação do Setor Elétrico Brasileiro e Impactos sobre a CELESC.",
+          "autores": "; FINARDI, Erlon Cristian",
+          "periodico": "1998.",
+          "doi": "",
+          "citacao_completa": "; FINARDI, Erlon Cristian . Consultor do Projeto UFSC/CELESC: Reestruturação do Setor Elétrico Brasileiro e Impactos sobre a CELESC.. 1998."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "; LEMOS, F. A. B.; KAEHLER, J. W. M.. Comissão Examinador do Concurso Público conforme Edital 130/2013. 2013. Universida",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; LEMOS, F. A. B.; KAEHLER, J. W. M.. Comissão Examinador do Concurso Público conforme Edital 130/2013. 2013. Universidade Federal do Pampa."
+        }
+      ]
+    }
+  ]
+}

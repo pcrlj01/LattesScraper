@@ -1,0 +1,538 @@
+{
+  "name": "Sérgio Natan Silva",
+  "lattes_id": "3735623063336406",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Adaptive horizontal scaling in kubernetes clusters with ANN-based load forecasting",
+          "autores": "DA SILVA, LUCILEIDE M. D. ; ALVES, PEDRO V. A. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "Cluster Computing-The Journal of Networks Software Tools and Applications , v. 28, p. 176, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s10586-024-04887-5",
+          "citacao_completa": "DA SILVA, LUCILEIDE M. D. ; ALVES, PEDRO V. A. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C. . Adaptive horizontal scaling in kubernetes clusters with ANN-based load forecasting. Cluster Computing-The Journal of Networks Software Tools and Applications , v. 28, p. 176, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Real-Time Safe Navigation Proposal for Mobile Robots in Unknown Environments Using Meta-Heuristics",
+          "autores": "BALZA, MICAEL ; GOLDBARG, MATEUS A. ; SILVA, SÉRGIO N. ; SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2025.",
+          "doi": "http://dx.doi.org/10.1109/access.2025.3536081",
+          "citacao_completa": "BALZA, MICAEL ; GOLDBARG, MATEUS A. ; SILVA, SÉRGIO N. ; SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C. . A Real-Time Safe Navigation Proposal for Mobile Robots in Unknown Environments Using Meta-Heuristics. IEEE Access , v. 1, p. 1-1, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Optimizing Tactile Feedback Devices with Fixed-Point Computation on FPGA",
+          "autores": "JUNIOR, JOSÉ C. V. S. ; BALZA, MICAEL ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C.",
+          "periodico": "CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1, 2025.",
+          "doi": "http://dx.doi.org/10.1007/s00034-025-02994-1",
+          "citacao_completa": "JUNIOR, JOSÉ C. V. S. ; BALZA, MICAEL ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C. . Optimizing Tactile Feedback Devices with Fixed-Point Computation on FPGA. CIRCUITS SYSTEMS AND SIGNAL PROCESSING , v. 1, p. 1, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A New and Lightweight R-Peak Detector Using the TEDA Evolving Algorithm",
+          "autores": "SILVA, LUCILEIDE M. D. DA ; SILVA, SÉRGIO N. ; SOUZA, LUÍSA C. DE ; AZEVEDO, KAROLAYNE S. DE ; GUEDES, LUIZ AFFONSO ; FERNANDES, MARCELO A. C.",
+          "periodico": "Machine Learning And Knowledge Extraction , v. 6, p. 736-750, 2024.",
+          "doi": "http://dx.doi.org/10.3390/make6020034",
+          "citacao_completa": "SILVA, LUCILEIDE M. D. DA ; SILVA, SÉRGIO N. ; SOUZA, LUÍSA C. DE ; AZEVEDO, KAROLAYNE S. DE ; GUEDES, LUIZ AFFONSO ; FERNANDES, MARCELO A. C. . A New and Lightweight R-Peak Detector Using the TEDA Evolving Algorithm. Machine Learning And Knowledge Extraction , v. 6, p. 736-750, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "ML-based inter-slice load balancing control for proactive offloading of virtual services",
+          "autores": "SILVA, FELIPE S. DANTAS ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M.D. ; BESSA, AYURI ; FERINO, SAMUEL ; PAIVA, PABLO ; MEDEIROS, MARCOS ; SILVA, LUCAS ; NETO, JOSÉ ; COSTA, KEVIN ; SANTOS, CHARLES ; ARANHA, EDUARDO ; MARTINS, ALLAN ; KULESZA, UIRÁ ; IMMICH, ROGER ; NETO, AUGUSTO V. ; FONTES, RAMON ; SOUSA, VICENTE ; FERNANDES, MARCELO A.C.",
+          "periodico": "Computer Networks , v. 246, p. 110422, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.comnet.2024.110422",
+          "citacao_completa": "SILVA, FELIPE S. DANTAS ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M.D. ; BESSA, AYURI ; FERINO, SAMUEL ; PAIVA, PABLO ; MEDEIROS, MARCOS ; SILVA, LUCAS ; NETO, JOSÉ ; COSTA, KEVIN ; SANTOS, CHARLES ; ARANHA, EDUARDO ; MARTINS, ALLAN ; KULESZA, UIRÁ ; IMMICH, ROGER ; NETO, AUGUSTO V. ; FONTES, RAMON ; SOUSA, VICENTE ; FERNANDES, MARCELO A.C. . ML-based inter-slice load balancing control for proactive offloading of virtual services. Computer Networks , v. 246, p. 110422, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "SHA-256 Hardware Proposal for IoT Devices in the Blockchain Context",
+          "autores": "SANTOS, CARLOS E. B. ; SILVA, LUCILEIDE M. D. DA ; TORQUATO, MATHEUS F. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "SENSORS , v. 24, p. 3908, 2024.",
+          "doi": "http://dx.doi.org/10.3390/s24123908",
+          "citacao_completa": "SANTOS, CARLOS E. B. ; SILVA, LUCILEIDE M. D. DA ; TORQUATO, MATHEUS F. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C. . SHA-256 Hardware Proposal for IoT Devices in the Blockchain Context. SENSORS , v. 24, p. 3908, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Application of Fuzzy Logic for Horizontal Scaling in Kubernetes Environments within the Context of Edge Computing",
+          "autores": "SILVA, SÉRGIO N. ; GOLDBARG, MATEUS A. S. DE S. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C.",
+          "periodico": "Future Internet , v. 16, p. 316, 2024.",
+          "doi": "http://dx.doi.org/10.3390/fi16090316",
+          "citacao_completa": "SILVA, SÉRGIO N. ; GOLDBARG, MATEUS A. S. DE S. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C. . Application of Fuzzy Logic for Horizontal Scaling in Kubernetes Environments within the Context of Edge Computing. Future Internet , v. 16, p. 316, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Real-Time Simulator for Dynamic Systems on FPGA",
+          "autores": "SILVA, SÉRGIO N. ; GOLDBARG, MATEUS A. S. DE S. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C.",
+          "periodico": "ELECTRONICS , v. 13, p. 4056, 2024.",
+          "doi": "http://dx.doi.org/10.3390/electronics13204056",
+          "citacao_completa": "SILVA, SÉRGIO N. ; GOLDBARG, MATEUS A. S. DE S. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C. . Real-Time Simulator for Dynamic Systems on FPGA. ELECTRONICS , v. 13, p. 4056, 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "FPGA Applied to Latency Reduction for the Tactile Internet",
+          "autores": "JUNIOR, JOSÉ C. V. S. ; SILVA, SÉRGIO N. ; TORQUATO, MATHEUS F. ; MAHMOODI, TOKTAM ; DOHLER, MISCHA ; FERNANDES, MARCELO A. C.",
+          "periodico": "SENSORS , v. 22, p. 7851, 2022.",
+          "doi": "http://dx.doi.org/10.3390/s22207851",
+          "citacao_completa": "JUNIOR, JOSÉ C. V. S. ; SILVA, SÉRGIO N. ; TORQUATO, MATHEUS F. ; MAHMOODI, TOKTAM ; DOHLER, MISCHA ; FERNANDES, MARCELO A. C. . FPGA Applied to Latency Reduction for the Tactile Internet. SENSORS , v. 22, p. 7851, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Prediction Techniques on FPGA for Latency Reduction on Tactile Internet",
+          "autores": "SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; DIAS, LEONARDO A. ; FERNANDES, MARCELO A. C.",
+          "periodico": "SENSORS , v. 22, p. 3556, 2022.",
+          "doi": "http://dx.doi.org/10.3390/s22093556",
+          "citacao_completa": "SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; DIAS, LEONARDO A. ; FERNANDES, MARCELO A. C. . Prediction Techniques on FPGA for Latency Reduction on Tactile Internet. SENSORS , v. 22, p. 3556, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Proposal of Takagi-Sugeno Fuzzy-PI Controller Hardware",
+          "autores": "SILVA, SÉRGIO N. ; LOPES, FELIPE F. ; VALDERRAMA, CARLOS ; FERNANDES, MARCELO A. C.",
+          "periodico": "SENSORS , v. 20, p. 1996, 2020.",
+          "doi": "http://dx.doi.org/10.3390/s20071996",
+          "citacao_completa": "SILVA, SÉRGIO N. ; LOPES, FELIPE F. ; VALDERRAMA, CARLOS ; FERNANDES, MARCELO A. C. . Proposal of Takagi-Sugeno Fuzzy-PI Controller Hardware. SENSORS , v. 20, p. 1996, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Control of airflow in ventilation systems using embedded systems on microcontrollers",
+          "autores": "GAMA, FELIPE O. S. ; MARTINS, JOSÉ K. E. DA C. ; MIRANDA, TIAGO F. DE ; TOMÉ, WILLY M. DE F. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "MICROSYSTEM TECHNOLOGIES-MICRO-AND NANOSYSTEMS-INFORMATION STORAGE AND PROCESSING SYSTEMS , v. 1, p. 1, 2019.",
+          "doi": "http://dx.doi.org/10.1007/s00542-019-04407-1",
+          "citacao_completa": "GAMA, FELIPE O. S. ; MARTINS, JOSÉ K. E. DA C. ; MIRANDA, TIAGO F. DE ; TOMÉ, WILLY M. DE F. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C. . Control of airflow in ventilation systems using embedded systems on microcontrollers. MICROSYSTEM TECHNOLOGIES-MICRO-AND NANOSYSTEMS-INFORMATION STORAGE AND PROCESSING SYSTEMS , v. 1, p. 1, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Proposal of the Tactile Glove Device",
+          "autores": "JUNIOR, JOSÉ C. V. S. ; TORQUATO, MATHEUS F. ; NORONHA, DANIEL H. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "SENSORS , v. 19, p. 5029, 2019.",
+          "doi": "http://dx.doi.org/10.3390/s19225029",
+          "citacao_completa": "JUNIOR, JOSÉ C. V. S. ; TORQUATO, MATHEUS F. ; NORONHA, DANIEL H. ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C. . Proposal of the Tactile Glove Device. SENSORS , v. 19, p. 5029, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Comparison of binary and fuzzy logic in feedback control of dynamic systems",
+          "autores": "SILVA, SÉRGIO N. ; TORQUATO, MATHEUS F. ; FERNANDES, MARCELO A. C.",
+          "periodico": "International Journal of Dynamics and Control , v. 1, p. 1, 2018.",
+          "doi": "http://dx.doi.org/10.1007/s40435-018-0484-1",
+          "citacao_completa": "SILVA, SÉRGIO N. ; TORQUATO, MATHEUS F. ; FERNANDES, MARCELO A. C. . Comparison of binary and fuzzy logic in feedback control of dynamic systems. International Journal of Dynamics and Control , v. 1, p. 1, 2018."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Platform for Real-Time Simulation of Dynamic Systems and Hardware-in-the-Loop for Control Algorithms",
+          "autores": "DE SOUZA, ISAAC ; NATAN, SERGIO ; TELES, RAFAEL ; FERNANDES, MARCELO",
+          "periodico": "Sensors (Basel) , v. 14, p. 19176-19199, 2014.",
+          "doi": "http://dx.doi.org/10.3390/s141019176",
+          "citacao_completa": "DE SOUZA, ISAAC ; NATAN, SERGIO ; TELES, RAFAEL ; FERNANDES, MARCELO . Platform for Real-Time Simulation of Dynamic Systems and Hardware-in-the-Loop for Control Algorithms. Sensors (Basel) , v. 14, p. 19176-19199, 2014."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Modular Architecture and Intelligent Routing for Chatbots",
+          "autores": "da Silva, Claudiano Leonardo ; de Brito, Bruna Alice Oliveira ; SILVA, SÉRGIO NATAN ; Coelho, João Vítor Venceslau ; de Lima, Jean Mário Moreira ; Gurgel, André Morais ; Filho, Itamir de Morais Barroca",
+          "periodico": "Lecture Notes in Computer Science. 1ed.: Springer Nature Switzerland, 2025, v. , p. 268-284.",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-96997-3_17",
+          "citacao_completa": "da Silva, Claudiano Leonardo ; de Brito, Bruna Alice Oliveira ; SILVA, SÉRGIO NATAN ; Coelho, João Vítor Venceslau ; de Lima, Jean Mário Moreira ; Gurgel, André Morais ; Filho, Itamir de Morais Barroca . Modular Architecture and Intelligent Routing for Chatbots. Lecture Notes in Computer Science. 1ed.: Springer Nature Switzerland, 2025, v. , p. 268-284."
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Plataforma de Simulação em Tempo Real para Sistemas Dinâmicos",
+          "autores": "; SILVA, S. N. ; TELES, R. ; FERNANDES, M. A. C.",
+          "periodico": "Anais do XX Congresso Brasileiro de Automática (CBA 2014), Belo Horizonte, p. 867 - 874, 24 set. 2014.",
+          "doi": "",
+          "citacao_completa": "; SILVA, S. N. ; TELES, R. ; FERNANDES, M. A. C. . Plataforma de Simulação em Tempo Real para Sistemas Dinâmicos. Anais do XX Congresso Brasileiro de Automática (CBA 2014), Belo Horizonte, p. 867 - 874, 24 set. 2014."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Estratégia de Treinamento para Poda Consciente de Modelo de CNN Aplicado a Classificação de Imagens",
+          "autores": "GOLDBARG, MATEUS A. S. DE S. ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C.",
+          "periodico": "In: Encontro Nacional de Inteligência Artificial e Computacional, 2023, Brasil. Anais do XX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2023). p. 1157.",
+          "doi": "http://dx.doi.org/10.5753/eniac.2023.234645",
+          "citacao_completa": "GOLDBARG, MATEUS A. S. DE S. ; SILVA, SÉRGIO N. ; DA SILVA, LUCILEIDE M. D. ; FERNANDES, MARCELO A. C. . Estratégia de Treinamento para Poda Consciente de Modelo de CNN Aplicado a Classificação de Imagens. In: Encontro Nacional de Inteligência Artificial e Computacional, 2023, Brasil. Anais do XX Encontro Nacional de Inteligência Artificial e Computacional (ENIAC 2023). p. 1157."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Lógica Fuzzy Aplicada a Escalonamento Horizontal",
+          "autores": "SILVA, SÉRGIO N. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C.",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2023, Brasil. Anais Estendidos do XIII Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC Estendido 2023). p. 13.",
+          "doi": "http://dx.doi.org/10.5753/sbesc_estendido.2023.235440",
+          "citacao_completa": "SILVA, SÉRGIO N. ; SILVA, LUCILEIDE M. D. DA ; FERNANDES, MARCELO A. C. . Lógica Fuzzy Aplicada a Escalonamento Horizontal. In: Anais Estendidos do Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2023, Brasil. Anais Estendidos do XIII Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC Estendido 2023). p. 13."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Proactive ML-Assisted and Quality-Driven Slice Application Service Management to Keep QoE in 5G Mobile Networks",
+          "autores": "SILVA, FELIPE S. DANTAS ; BESSA, AYURI ; SILVA, SÉRGIO ; FERINO, SAMUEL ; PAIVA, PABLO ; MEDEIROS, MARCOS ; SILVA, LUCAS ; NETO, JOSÉ ; COSTA, KEVIN ; SANTOS, CHARLES ; MACIEL, DOUGLAS ; SILVA, LUCILEIDE ; INOUE, ANDERSON ; IMMICH, ROGER ; ARANHA, EDUARDO ; MARTINS, ALLAN ; SOUSA, VICENTE ; KULESZA, UIRÁ ; FERNANDES, MARCELO ; SALVADOR, MARCOS ; et.al",
+          "periodico": "In: 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFVSDN), 2023, Dresden. 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 2023. p. 182.",
+          "doi": "http://dx.doi.org/10.1109/nfv-sdn59219.2023.10329589",
+          "citacao_completa": "SILVA, FELIPE S. DANTAS ; BESSA, AYURI ; SILVA, SÉRGIO ; FERINO, SAMUEL ; PAIVA, PABLO ; MEDEIROS, MARCOS ; SILVA, LUCAS ; NETO, JOSÉ ; COSTA, KEVIN ; SANTOS, CHARLES ; MACIEL, DOUGLAS ; SILVA, LUCILEIDE ; INOUE, ANDERSON ; IMMICH, ROGER ; ARANHA, EDUARDO ; MARTINS, ALLAN ; SOUSA, VICENTE ; KULESZA, UIRÁ ; FERNANDES, MARCELO ; SALVADOR, MARCOS ; et.al . Proactive ML-Assisted and Quality-Driven Slice Application Service Management to Keep QoE in 5G Mobile Networks. In: 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFVSDN), 2023, Dresden. 2023 IEEE Conference on Network Function Virtualization and Software Defined Networks (NFV-SDN), 2023. p. 182."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Escalonamento Horizontal em Kubernetes com Redes Neurais Artificiais para Predição de Carga",
+          "autores": "SILVA, LUCILEIDE M. D. DA ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "In: Anais Estendidos do Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2023, Brasil. Anais Estendidos do XIII Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC Estendido 2023). p. 7.",
+          "doi": "http://dx.doi.org/10.5753/sbesc_estendido.2023.235886",
+          "citacao_completa": "SILVA, LUCILEIDE M. D. DA ; SILVA, SÉRGIO N. ; FERNANDES, MARCELO A. C. . Escalonamento Horizontal em Kubernetes com Redes Neurais Artificiais para Predição de Carga. In: Anais Estendidos do Simpósio Brasileiro de Engenharia de Sistemas Computacionais, 2023, Brasil. Anais Estendidos do XIII Simpósio Brasileiro de Engenharia de Sistemas Computacionais (SBESC Estendido 2023). p. 7."
+        },
+        {
+          "ano": 2021,
+          "titulo": "FPGA Implementation of the Adaptive Digital Beamforming for Massive Array",
+          "autores": "LOPES, FELIPE F. ; SILVA, SERGIO N. ; FERNANDES, MARCELO A. C.",
+          "periodico": "In: 2021 IEEE 93rd Vehicular Technology Conference (VTC2021Spring), 2021, Helsinki. 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/vtc2021-spring51267.2021.9448715",
+          "citacao_completa": "LOPES, FELIPE F. ; SILVA, SERGIO N. ; FERNANDES, MARCELO A. C. . FPGA Implementation of the Adaptive Digital Beamforming for Massive Array. In: 2021 IEEE 93rd Vehicular Technology Conference (VTC2021Spring), 2021, Helsinki. 2021 IEEE 93rd Vehicular Technology Conference (VTC2021-Spring), 2021. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Proposta de Implementação em FPGA para um Sistema Fuzzy Takagi-Sugeno",
+          "autores": "SILVA, A. E. M. ; SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: 5° Congresso Brasileiro de Sistemas Fuzzy (CBSF 2018), 2018, Fortaleza-CE. Anais do 5° Congresso Brasileiro de Sistemas Fuzzy (CBSF 2018), 2018.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. E. M. ; SILVA, S. N. ; FERNANDES, M. A. C. . Proposta de Implementação em FPGA para um Sistema Fuzzy Takagi-Sugeno. In: 5° Congresso Brasileiro de Sistemas Fuzzy (CBSF 2018), 2018, Fortaleza-CE. Anais do 5° Congresso Brasileiro de Sistemas Fuzzy (CBSF 2018), 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Proposta de um Hardware para o Sistema Fuzzy-PI Takagi-Sugeno em FPGA",
+          "autores": "ANTÔNIO E. M. SILVA ; SÉRGIO S. NATAN ; MARCELO A. C. FERNANDES",
+          "periodico": "In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018.",
+          "doi": "http://dx.doi.org/10.20906/CPS/CBA2018-0475",
+          "citacao_completa": "ANTÔNIO E. M. SILVA ; SÉRGIO S. NATAN ; MARCELO A. C. FERNANDES . Proposta de um Hardware para o Sistema Fuzzy-PI Takagi-Sugeno em FPGA. In: XXII Congresso Brasileiro de Automática, 2018, João Pessoa, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Proposta de um Sistema Fuzzy Takagi-Sugeno para FPGA.",
+          "autores": "SILVA, A. E. M. ; SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: XIII Brazilian Congress on Computational Intelligence, 2017, Niterói - RJ. Anais do XIII CBIC - Brazilian Congress on Computational Intelligence, 2017.",
+          "doi": "",
+          "citacao_completa": "SILVA, A. E. M. ; SILVA, S. N. ; FERNANDES, M. A. C. . Proposta de um Sistema Fuzzy Takagi-Sugeno para FPGA.. In: XIII Brazilian Congress on Computational Intelligence, 2017, Niterói - RJ. Anais do XIII CBIC - Brazilian Congress on Computational Intelligence, 2017."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Proposta de Implementação do Algoritmo MD5 em Hardware.",
+          "autores": "SANTOS JUNIOR, C. E. B. ; SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: X Escola Potiguar de Computação e suas Aplicações, 2017, Natal. Anais da X Escola Potiguar de Computação e suas Aplicações, 2017.",
+          "doi": "",
+          "citacao_completa": "SANTOS JUNIOR, C. E. B. ; SILVA, S. N. ; FERNANDES, M. A. C. . Proposta de Implementação do Algoritmo MD5 em Hardware.. In: X Escola Potiguar de Computação e suas Aplicações, 2017, Natal. Anais da X Escola Potiguar de Computação e suas Aplicações, 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "REAL-TIME SIMULATOR FOR DYNAMIC SYSTEMS USING A FPGA PLATFORM",
+          "autores": "SILVA, S. N. ; FERNANDES, MARCELO",
+          "periodico": "In: XXI CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2016), 2016, Vitória-ES. Anais do XXI CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2016), 2016.",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; FERNANDES, MARCELO . REAL-TIME SIMULATOR FOR DYNAMIC SYSTEMS USING A FPGA PLATFORM. In: XXI CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2016), 2016, Vitória-ES. Anais do XXI CONGRESSO BRASILEIRO DE AUTOMÁTICA (CBA 2016), 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Simulador em tempo real para sistema dinâmicos em FPGA",
+          "autores": "SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: Brazilian Symposium on Computing Systems Engineering (SBESC), 2016, João Pessoa-PB. Anais do SBESC, 2016.",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; FERNANDES, M. A. C. . Simulador em tempo real para sistema dinâmicos em FPGA. In: Brazilian Symposium on Computing Systems Engineering (SBESC), 2016, João Pessoa-PB. Anais do SBESC, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Plataforma para Simulação em Tempo Real de Sistemas Dinâmicos e Hardware-in-the-loop em Sistemas Embarcados do tipo PSOC",
+          "autores": "; SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: DINCON 2015 - Conferência Brasileira de Dinâmica, Controle e Aplicações, 2015, Natal. Anais do DINCON 2015, 2015.",
+          "doi": "",
+          "citacao_completa": "; SILVA, S. N. ; FERNANDES, M. A. C. . Plataforma para Simulação em Tempo Real de Sistemas Dinâmicos e Hardware-in-the-loop em Sistemas Embarcados do tipo PSOC. In: DINCON 2015 - Conferência Brasileira de Dinâmica, Controle e Aplicações, 2015, Natal. Anais do DINCON 2015, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de um Simulador em Tempo Real para Sistemas Dinâmicos em FPGA",
+          "autores": "SILVA, S. N. ; FERNANDES, M. A. C.",
+          "periodico": "In: Conferência Brasileira de Dinâmica, Controle e Aplicações (DINCON), 2015, Natal. Anais do DINCON 2015, 2015.",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; FERNANDES, M. A. C. . Desenvolvimento de um Simulador em Tempo Real para Sistemas Dinâmicos em FPGA. In: Conferência Brasileira de Dinâmica, Controle e Aplicações (DINCON), 2015, Natal. Anais do DINCON 2015, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Plataforma de Simulação em Tempo Real para Sistemas Dinâmicos.",
+          "autores": "; SILVA, S. N. ; TELES, R. ; FERNANDES, M. A. C.",
+          "periodico": "In: XX Congresso Brasileiro de Automática (CBA 2014), 2014, Belo Horizonte. Anais do XX Congresso Brasileiro de Automática (CBA 2014), 2014. v. 1. p. 867-874.",
+          "doi": "",
+          "citacao_completa": "; SILVA, S. N. ; TELES, R. ; FERNANDES, M. A. C. . Plataforma de Simulação em Tempo Real para Sistemas Dinâmicos.. In: XX Congresso Brasileiro de Automática (CBA 2014), 2014, Belo Horizonte. Anais do XX Congresso Brasileiro de Automática (CBA 2014), 2014. v. 1. p. 867-874."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Aprendizagem Baseada em Projetos Aplicada ao Ensino de Sistemas Embarcados",
+          "autores": "SILVA, S. N. ; NEVES, D. G. ; NEVES, D. G. ; ; FERNANDES, M. A. C. ; SILVEIRA, L. F. Q.",
+          "periodico": "In: XLI CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA (COBENGE 2013), 2013, Gramado, RS. Anais do XLI CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA (COBENGE 2013), 2013.",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; NEVES, D. G. ; NEVES, D. G. ; ; FERNANDES, M. A. C. ; SILVEIRA, L. F. Q. . Aprendizagem Baseada em Projetos Aplicada ao Ensino de Sistemas Embarcados. In: XLI CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA (COBENGE 2013), 2013, Gramado, RS. Anais do XLI CONGRESSO BRASILEIRO DE EDUCAÇÃO EM ENGENHARIA (COBENGE 2013), 2013."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Simulação Embarcada e Distribuída de Sistemas Dinâmicos em Tempo Real",
+          "autores": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; TELES, R.",
+          "periodico": "2014. 2014. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; TELES, R. . Simulação Embarcada e Distribuída de Sistemas Dinâmicos em Tempo Real. 2014. 2014. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Platform for Real Time Simulation of Dynamic Systems",
+          "autores": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; TELES, R.",
+          "periodico": "2013. 2013. (Apresentação de Trabalho/Outra).",
+          "doi": "",
+          "citacao_completa": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; TELES, R. . Platform for Real Time Simulation of Dynamic Systems. 2013. 2013. (Apresentação de Trabalho/Outra)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Apredizagem Baseada em Projetos Aplicada ao Ensino de Sistemas Embarcados",
+          "autores": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; NEVES, D. G. ; NEVES, D. G.",
+          "periodico": "2013. 2012. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "FERNANDES, M. A. C. ; SILVA, S. N. ; ; NEVES, D. G. ; NEVES, D. G. . Apredizagem Baseada em Projetos Aplicada ao Ensino de Sistemas Embarcados. 2013. 2012. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de um método para melhoria das imagens ASTER-GDEM II",
+          "autores": "SILVA, S. N.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. . Desenvolvimento de um método para melhoria das imagens ASTER-GDEM II. 2015."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Implementação de Redes Neurais em FPGA",
+          "autores": "SÉRGIO S. NATAN",
+          "periodico": "2018. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SÉRGIO S. NATAN . Implementação de Redes Neurais em FPGA. 2018. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Introdução à plataforma de simulação robótica V-rep",
+          "autores": "SILVA, S. N. ; MEDEIROS, P. R. T. ; SANTOS, D. H.",
+          "periodico": "2016. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; MEDEIROS, P. R. T. ; SANTOS, D. H. . Introdução à plataforma de simulação robótica V-rep. 2016. (Curso de curta duração ministrado/Extensão)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Sistemas Embarcados: Caminhos e alternativas de desenvolvimento.",
+          "autores": "SILVA, S. N. ; DAMASCENO, A. M. P. ; ROZA, S. F. G. ; FERNANDES, M. A. C.",
+          "periodico": "2015. (Curso de curta duração ministrado/Extensão).",
+          "doi": "",
+          "citacao_completa": "SILVA, S. N. ; DAMASCENO, A. M. P. ; ROZA, S. F. G. ; FERNANDES, M. A. C. . Sistemas Embarcados: Caminhos e alternativas de desenvolvimento.. 2015. (Curso de curta duração ministrado/Extensão)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "IMPLEMENTAÇÃO DE MONITORAMENTO INTELIGENTE PARA DETECÇÃO E CLASSIFICAÇÃO DE DEFEITOS SUPERFICIAIS EM PRÉ-FORMAS OBTIDAS POR MANUFATURA ADITIVA POR DEPOSIÇÃO A ARCO",
+          "membros": "LIMA, J. S.; MELO, R. H. F.; CASTRO, W. B.; SÉRGIO S. NATAN",
+          "candidato": "YURI EMANOEL PEREIRA DIAS",
+          "citacao_completa": "LIMA, J. S.; MELO, R. H. F.; CASTRO, W. B.; SÉRGIO S. NATAN . Participação em banca de YURI EMANOEL PEREIRA DIAS. IMPLEMENTAÇÃO DE MONITORAMENTO INTELIGENTE PARA DETECÇÃO E CLASSIFICAÇÃO DE DEFEITOS SUPERFICIAIS EM PRÉ-FORMAS OBTIDAS POR MANUFATURA ADITIVA POR DEPOSIÇÃO A ARCO. 2025. Dissertação (Mestrado em ENGENHARIA MECÂNICA) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Proposta de Navegação Segura em Tempo Real para Robôs Móveis em Ambientes Desconhecidos Usando Meta- Heurísticas",
+          "membros": "FERNANDES, M. A. C.; SÉRGIO S. NATAN ; OLIVEIRA, F. F.; PEDROSA, D. P. F.",
+          "candidato": "MICAEL BALZA",
+          "citacao_completa": "FERNANDES, M. A. C.; SÉRGIO S. NATAN ; OLIVEIRA, F. F.; PEDROSA, D. P. F.. Participação em banca de MICAEL BALZA. Proposta de Navegação Segura em Tempo Real para Robôs Móveis em Ambientes Desconhecidos Usando Meta- Heurísticas. 2025. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Compressão Consciente de Modelos de Redes Neurais Profundas Baseada em Poda Seguida de Quantização",
+          "membros": "FERNANDES, MARCELO; MARTINS, A. M.; NASCIMENTO, F. M. S.; COUTINHO, M. G. F.; SILVA, SÉRGIO N.",
+          "candidato": "MATEUS ARNAUD SANTOS DE SOUSA GOLDBARG",
+          "citacao_completa": "FERNANDES, MARCELO; MARTINS, A. M.; NASCIMENTO, F. M. S.; COUTINHO, M. G. F.; SILVA, SÉRGIO N. . Participação em banca de MATEUS ARNAUD SANTOS DE SOUSA GOLDBARG. Compressão Consciente de Modelos de Redes Neurais Profundas Baseada em Poda Seguida de Quantização. 2024. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Aprendizagem Profunda Aplicada à Classificação e Avaliação do Comportamento do SARS-CoV-2",
+          "membros": "FERNANDES, M. A. C.; OLIVEIRA, L. A. H. G.; SILVA, S. N.",
+          "candidato": "KAROLAYNE SANTOS DE AZEVEDO",
+          "citacao_completa": "FERNANDES, M. A. C.; OLIVEIRA, L. A. H. G.; SILVA, S. N. . Participação em banca de KAROLAYNE SANTOS DE AZEVEDO. Aprendizagem Profunda Aplicada à Classificação e Avaliação do Comportamento do SARS-CoV-2. 2022. Dissertação (Mestrado em Pós-Graduação em Eng. Elétrica e de Computção) - Universidade Federal do Rio Grande do Norte."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Arquitetura de Hardware Reconfigurável para Hashing SHA-256 em Aplicações de Blockchain e IoT",
+          "membros": "MARCELO A. C. FERNANDES; SÉRGIO S. NATAN ; SILVA, L. M. D.; DIAS, L. A.; COUTINHO, M. G. F.",
+          "candidato": "CARLOS EDUARDO DE BARROS SANTOS JÚNIOR",
+          "citacao_completa": "MARCELO A. C. FERNANDES; SÉRGIO S. NATAN ; SILVA, L. M. D.; DIAS, L. A.; COUTINHO, M. G. F.. Participação em banca de CARLOS EDUARDO DE BARROS SANTOS JÚNIOR. Arquitetura de Hardware Reconfigurável para Hashing SHA-256 em Aplicações de Blockchain e IoT. 2024. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Hardware Proposal of Evolutionary Algorithm for Outlier Detection in Streaming Applications",
+          "membros": "FERNANDES, MARCELO A. C.; GENDRIZ, I. S.; OLIVEIRA, L. A. H. G.; DIAS, L. A.; SILVA, S. N.",
+          "candidato": "LUCILEIDE MEDEIROS DANTAS DA SILVA",
+          "citacao_completa": "FERNANDES, MARCELO A. C.; GENDRIZ, I. S.; OLIVEIRA, L. A. H. G.; DIAS, L. A.; SILVA, S. N. . Participação em banca de LUCILEIDE MEDEIROS DANTAS DA SILVA. Hardware Proposal of Evolutionary Algorithm for Outlier Detection in Streaming Applications. 2023. Tese (Doutorado em Pós-Graduação em Eng. Elétrica e de Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Representação Baseada em Autoenconder Empilhado Otimizado Por Enxame de Partículas",
+          "membros": "ARAUJO, F. M. U.; DOREA, C. E. T.; LIMA, J. M. M.; LINHARES, L. L. S.; SILVA, SÉRGIO N.",
+          "candidato": "ALCEMY GABRIEL VITOR SEVERINO",
+          "citacao_completa": "ARAUJO, F. M. U.; DOREA, C. E. T.; LIMA, J. M. M.; LINHARES, L. L. S.; SILVA, SÉRGIO N. . Participação em banca de ALCEMY GABRIEL VITOR SEVERINO. Representação Baseada em Autoenconder Empilhado Otimizado Por Enxame de Partículas. 2023. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": ".Proposta de Plataforma de Simulação para Robótica Móvel com Integração entre Webots e Matlab",
+          "membros": "SILVA, S. N. ; AZEVEDO, K. S.; FERNANDES, M. A. C.",
+          "candidato": "MICAEL BALZA",
+          "citacao_completa": "SILVA, S. N. ; AZEVEDO, K. S.; FERNANDES, M. A. C.. Participação em banca de MICAEL BALZA.Proposta de Plataforma de Simulação para Robótica Móvel com Integração entre Webots e Matlab. 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".ANÁLISE DE TÉCNICAS DE COMPRESSÃO EM REDES NEURAIS PROFUNDAS POR PODA EM DATASET DE IMAGENS",
+          "membros": "JUNIOR, JOSÉ C. V. S.; FERNANDES, M. A. C.; SILVA, SÉRGIO N.",
+          "candidato": "MATEUS ARNAUD SANTOS DE SOUSA GOLDBARG",
+          "citacao_completa": "JUNIOR, JOSÉ C. V. S.; FERNANDES, M. A. C.; SILVA, SÉRGIO N. . Participação em banca de MATEUS ARNAUD SANTOS DE SOUSA GOLDBARG.ANÁLISE DE TÉCNICAS DE COMPRESSÃO EM REDES NEURAIS PROFUNDAS POR PODA EM DATASET DE IMAGENS. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".PLATAFORMA DE TESTE EM TEMPO REAL PARA INTERNET TÁTIL",
+          "membros": "JUNIOR, JOSÉ C. V. S.; FERNANDES, M. A. C.; SILVA, SÉRGIO N.",
+          "candidato": "PEDRO VICTOR ANDRADE ALVES",
+          "citacao_completa": "JUNIOR, JOSÉ C. V. S.; FERNANDES, M. A. C.; SILVA, SÉRGIO N. . Participação em banca de PEDRO VICTOR ANDRADE ALVES.PLATAFORMA DE TESTE EM TEMPO REAL PARA INTERNET TÁTIL. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".PROPOSTA DE UM SISTEMA DE RECOMENDAÇÃO BASEADO EM PREFERÊNCIAS DO USUÁRIO",
+          "membros": "VIEGAS, C. M. D.; PEDROSA, D. P. F.; SILVA, S. N.",
+          "candidato": "RAÍ CARVALHO GONDIM",
+          "citacao_completa": "VIEGAS, C. M. D.; PEDROSA, D. P. F.; SILVA, S. N. . Participação em banca de RAÍ CARVALHO GONDIM.PROPOSTA DE UM SISTEMA DE RECOMENDAÇÃO BASEADO EM PREFERÊNCIAS DO USUÁRIO. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".VOTECHAIN, UMA SOLUÇÃO MAIS SEGURA, ACESSÍVEL E INOVADORA PARA AS ELEIÇÕES, IMPLEMENTADA COM A TECNOLOGIA BLOCKCHAIN",
+          "membros": "VIEGAS, C. M. D.; LIMA FILHO, F. S.; SILVA, S. N.",
+          "candidato": "THÚLIO MATTHEUS PEREIRA DE SOUSA",
+          "citacao_completa": "VIEGAS, C. M. D.; LIMA FILHO, F. S.; SILVA, S. N. . Participação em banca de THÚLIO MATTHEUS PEREIRA DE SOUSA.VOTECHAIN, UMA SOLUÇÃO MAIS SEGURA, ACESSÍVEL E INOVADORA PARA AS ELEIÇÕES, IMPLEMENTADA COM A TECNOLOGIA BLOCKCHAIN. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".SISTEMA DE ACIONAMENTO DE CARGAS POR ACESSO REMOTO UTILIZANDO PROTOCOLO MQTT: AUTOMAÇÃO RESIDENCIAL/PREDIAL DE BAIXO CUSTO",
+          "membros": "GUIMARAES, A. M. F.; FONSECA, D. A. M.; SILVA, S. N.",
+          "candidato": "JOSÉ WADSON OLIVEIRA SILVA",
+          "citacao_completa": "GUIMARAES, A. M. F.; FONSECA, D. A. M.; SILVA, S. N. . Participação em banca de JOSÉ WADSON OLIVEIRA SILVA.SISTEMA DE ACIONAMENTO DE CARGAS POR ACESSO REMOTO UTILIZANDO PROTOCOLO MQTT: AUTOMAÇÃO RESIDENCIAL/PREDIAL DE BAIXO CUSTO. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".WAITZ: UMA APLICAÇÃO WEB PARA FILAS DE ESPERA EM HOSPITAIS E CLÍNICAS MÉDICAS",
+          "membros": "VIEGAS, C. M. D.; ; SILVA, S. N.",
+          "candidato": "ARTHUR VINICIUS DINIZ SANTOS",
+          "citacao_completa": "VIEGAS, C. M. D.; ; SILVA, S. N. . Participação em banca de ARTHUR VINICIUS DINIZ SANTOS.WAITZ: UMA APLICAÇÃO WEB PARA FILAS DE ESPERA EM HOSPITAIS E CLÍNICAS MÉDICAS. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".CONTROL IO, UMA FERRAMENTA PARA FÁCIL CONTROLE E GERENCIAMENTO DE MICROCONTROLADORES VIA PROTOCOLO HTTP",
+          "membros": "VIEGAS, C. M. D.; SILVA, I. M. D.; SILVA, S. N.",
+          "candidato": "VICTOR MARCOLINO COSTA DE LIMA",
+          "citacao_completa": "VIEGAS, C. M. D.; SILVA, I. M. D.; SILVA, S. N. . Participação em banca de VICTOR MARCOLINO COSTA DE LIMA.CONTROL IO, UMA FERRAMENTA PARA FÁCIL CONTROLE E GERENCIAMENTO DE MICROCONTROLADORES VIA PROTOCOLO HTTP. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".IMPLEMENTAÇÃO PARALELA EM FPGA DE MÁQUINA DE VETOR USANDO GRADIENTE ESTOCÁSTICO",
+          "membros": "FERNANDES, M. A. C.; ARAUJO, D. S. A.;",
+          "candidato": "FELIPE FERNANDES LOPES",
+          "citacao_completa": "FERNANDES, M. A. C.; ARAUJO, D. S. A.; . Participação em banca de FELIPE FERNANDES LOPES.IMPLEMENTAÇÃO PARALELA EM FPGA DE MÁQUINA DE VETOR USANDO GRADIENTE ESTOCÁSTICO. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PROPOSTA DE IMPLEMENTAÇÃO DE REDES NEURAIS ARTIFICIAIS EM SISTEMAS EMBARCADOS BASEADOS EM MICROCONTROLADORES",
+          "membros": "FERNANDES, M. A. C.; SILVA, C. A. D.;",
+          "candidato": "CAIO JOSÉ BORBA VILAR GUIMARÃES",
+          "citacao_completa": "FERNANDES, M. A. C.; SILVA, C. A. D.; . Participação em banca de CAIO JOSÉ BORBA VILAR GUIMARÃES.PROPOSTA DE IMPLEMENTAÇÃO DE REDES NEURAIS ARTIFICIAIS EM SISTEMAS EMBARCADOS BASEADOS EM MICROCONTROLADORES. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PROPOSTA DE UMA FERRAMENTA DE BAIXO CUSTO PARA MONITORAMENTO DE ENERGIA RESIDENCIAL",
+          "membros": "VIEGAS, C. M. D.; SOUZA, D. C.;",
+          "candidato": "JONATHAN DA SILVA BRAGA",
+          "citacao_completa": "VIEGAS, C. M. D.; SOUZA, D. C.; . Participação em banca de JONATHAN DA SILVA BRAGA.PROPOSTA DE UMA FERRAMENTA DE BAIXO CUSTO PARA MONITORAMENTO DE ENERGIA RESIDENCIAL. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Mecatrônica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".CENTRAIS TELEFÔNICAS",
+          "membros": "VIEGAS, C. M. D.; SILVEIRA, L. F. Q.; SÉRGIO S. NATAN",
+          "candidato": "MARCO ANTONIO MOREIRA CARUJO",
+          "citacao_completa": "VIEGAS, C. M. D.; SILVEIRA, L. F. Q.; SÉRGIO S. NATAN . Participação em banca de MARCO ANTONIO MOREIRA CARUJO.CENTRAIS TELEFÔNICAS. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".ESTUDO DE UMA FERRAMENTA PARA AUXÍLIO EM TESTES DE SOFTWARE",
+          "membros": "VIEGAS, C. M. D.; PEDROSA, D. P. F.; SÉRGIO S. NATAN",
+          "candidato": "SAMUEL ALVES DA COSTA",
+          "citacao_completa": "VIEGAS, C. M. D.; PEDROSA, D. P. F.; SÉRGIO S. NATAN . Participação em banca de SAMUEL ALVES DA COSTA.ESTUDO DE UMA FERRAMENTA PARA AUXÍLIO EM TESTES DE SOFTWARE. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PROPOSTA DE IMPLEMENTAÇÃO EM HARDWARE DE UM SISTEMA DE DETECÇÃO DE CÂNCER DE PELE BASEADO EM REDES NEURAIS ARTIFICIAIS",
+          "membros": "FERNANDES, MARCELO A. C.; SILVA, L. M. D.; SÉRGIO S. NATAN",
+          "candidato": "WYSTERLANYA KYURY PEREIRA BARROS,",
+          "citacao_completa": "FERNANDES, MARCELO A. C.; SILVA, L. M. D.; SÉRGIO S. NATAN . Participação em banca de WYSTERLANYA KYURY PEREIRA BARROS,.PROPOSTA DE IMPLEMENTAÇÃO EM HARDWARE DE UM SISTEMA DE DETECÇÃO DE CÂNCER DE PELE BASEADO EM REDES NEURAIS ARTIFICIAIS. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Desenvolvimento de Algoritmos Genéticos em Sistemas Micro controlados",
+          "membros": "FERNANDES, M. A. C.; ; FLORENCIO, H. M.",
+          "candidato": "José Radson da Cunha",
+          "citacao_completa": "FERNANDES, M. A. C.; ; FLORENCIO, H. M.. Participação em banca de José Radson da Cunha.Desenvolvimento de Algoritmos Genéticos em Sistemas Micro controlados. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".OPENFZ, Uma Plataforma para Gerenciamento de Máquinas Fuzzy",
+          "membros": "FERNANDES, M. A. C.; ; SILVA JUNIOR, J. C. V",
+          "candidato": "Sérgio Felipe Gadelha Roza",
+          "citacao_completa": "FERNANDES, M. A. C.; ; SILVA JUNIOR, J. C. V. Participação em banca de Sérgio Felipe Gadelha Roza.OPENFZ, Uma Plataforma para Gerenciamento de Máquinas Fuzzy. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Proposta de Implementação Paralela em FPGA de um Sistema Fuzzy",
+          "membros": "FERNANDES, M. A. C.; SOUSA, T. F. B.;",
+          "candidato": "Petros Daniel Fernandes de Medeiros Félix",
+          "citacao_completa": "FERNANDES, M. A. C.; SOUSA, T. F. B.; . Participação em banca de Petros Daniel Fernandes de Medeiros Félix.Proposta de Implementação Paralela em FPGA de um Sistema Fuzzy. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia da Computação) - Universidade Federal do Rio Grande do Norte."
+        }
+      ]
+    }
+  ]
+}

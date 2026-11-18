@@ -1,0 +1,46 @@
+{
+  "name": "Henderson Gomes e Souza",
+  "lattes_id": "6376593063953250",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Partitioning approach based on convex hull and multiple choice for solving hydro unit-commitment problems",
+          "autores": "GOMES E SOUZA, HENDERSON ; ; ;",
+          "periodico": "ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108285, 2022.",
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2022.108285",
+          "citacao_completa": "GOMES E SOUZA, HENDERSON ; ; ; . Partitioning approach based on convex hull and multiple choice for solving hydro unit-commitment problems. ELECTRIC POWER SYSTEMS RESEARCH , v. 211, p. 108285, 2022."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "DESPACHO ÓTIMO DAS UNIDADES GERADORAS DA USINA HIDRELÉTRICA LUIS EDUARDO MAGALHÃES",
+          "autores": "Souza, Henderson Gomes e ; ; ;",
+          "periodico": "In: Helenton Carlos da Silva. (Org.). Estudos (Inter) Multidisciplinares nas Engenharias. 1ed.Ponta Grossa - Paraná: Atena Editora, 2019, v. I, p. 157-169.",
+          "doi": "http://dx.doi.org/10.22533/at.ed.97319091013",
+          "citacao_completa": "Souza, Henderson Gomes e ; ; ; . DESPACHO ÓTIMO DAS UNIDADES GERADORAS DA USINA HIDRELÉTRICA LUIS EDUARDO MAGALHÃES. In: Helenton Carlos da Silva. (Org.). Estudos (Inter) Multidisciplinares nas Engenharias. 1ed.Ponta Grossa - Paraná: Atena Editora, 2019, v. I, p. 157-169."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "DESPACHO ÓTIMO DAS UNIDADES GERADORAS DA USINA HIDRELÉTRICA LUIS EDUARDO MAGALHÃES",
+          "autores": "SOUZA, H. G. ; ; ;",
+          "periodico": "In: Simpósio de Estudos em Engenharia Elétrica do Tocantins ? SEELTO, 2017, Palmas - TO. Anais do I Simpósio de Estudos em Engenharia Elétrica do Tocantins ? SEELTO, 2017. v. I. p. 34-41.",
+          "doi": "",
+          "citacao_completa": "SOUZA, H. G. ; ; ; . DESPACHO ÓTIMO DAS UNIDADES GERADORAS DA USINA HIDRELÉTRICA LUIS EDUARDO MAGALHÃES. In: Simpósio de Estudos em Engenharia Elétrica do Tocantins ? SEELTO, 2017, Palmas - TO. Anais do I Simpósio de Estudos em Engenharia Elétrica do Tocantins ? SEELTO, 2017. v. I. p. 34-41."
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

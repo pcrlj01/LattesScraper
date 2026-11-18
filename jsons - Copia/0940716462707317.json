@@ -1,0 +1,388 @@
+{
+  "name": "Murilo Reolon Scuzziato",
+  "lattes_id": "0940716462707317",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "FIGUEIREDO, R.T. ; ABREU, D. L. DOS S. ; ; SCUZZIATO, M. R. ; MARCATO, A.L.M. ; PAZDZIORNY, G.F.DA S. . A hybrid modeling approach for approximating the hydro unit commitment constraints in a large-scale day-ahead dispatch model in Brazil. ELECTRIC POWER SYSTEMS RESEARCH , v. 1, p. 113575, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2026.113575"
+        },
+        {
+          "texto": "LEHMKUHL, MATHEUS ; REOLON SCUZZIATO, MURILO . Estudo de caso para aplicação de mecanismos de capacidade em um sistema de energia simplificado. Revista Brasileira de Energia , v. 30, p. 62-82, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.47168/rbe.v30i2.868"
+        },
+        {
+          "texto": "; Rocha, C. ; SCUZZIATO, M. R. . Assessing constructive heuristics for solving hydro unit commitment and loading problem. Computers and Informatics , v. 3, p. 26-34, 2023.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "POZZATTI, LUIS FELIPE ; ; SCUZZIATO, MURILO REOLON . Avaliação de uma central geradora associada, formada pela integração de uma usina fotovoltaica a um parque eólico, na região Sul do Brasil. PEER REVIEW , v. 5, p. 63-87, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.53660/239.prw416"
+        },
+        {
+          "texto": "Sakagami, Y. ; FOLGANES, V. N. ; PENZ, C. A. ; SCUZZIATO, M. R. ; . Use of self organizing map to identify precipitation patterns and assess their impact on hydrographic basins in Brazil. REVISTA BRASILEIRA DE RECURSOS HÍDRICOS , v. 27, p. 1-9, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1590/2318-0331.272220220051"
+        },
+        {
+          "texto": "REOLON SCUZZIATO, MURILO ; CRISTIAN FINARDI, ERLON ; . Solving stochastic hydrothermal unit commitment with a new primal recovery technique based on Lagrangian solutions. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 127, p. 106661, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2020.106661"
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. ; ; . A Mathematical Modeling for Contract Flexibility Optimization by Brazilian Free Consumers. IEEE Latin America Transactions , v. 18, p. 1530-1537, 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; . Comparing Spatial and Scenario Decomposition for Stochastic Hydrothermal Unit Commitment Problems. IEEE Transactions on Sustainable Energy , v. 9, p. 1-1, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/tste.2017.2781908"
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. . A comparative analysis of different dual problems in the Lagrangian Relaxation context for solving the Hydro Unit Commitment problem. ELECTRIC POWER SYSTEMS RESEARCH , v. 107, p. 221-229, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2013.10.015"
+        },
+        {
+          "texto": "; ; RIBAS, F.A.C. ; ; SCUZZIATO, M. R. . Performance evaluation and energy production optimization in the real-time operation of hydropower plants. Electric Power Systems Research (Print) , v. 116, p. 201-207, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.06.012"
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. . Hydro unit commitment and loading problem for day-ahead operation planning problem. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 44, p. 7-16, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2012.07.023"
+        },
+        {
+          "texto": "CORDOVA, M. M. ; ; SCUZZIATO, M. R. ; MATOS, VITOR LUIZ ; RIBAS, F. A. C. ; COUTTO, F. A. B. . A System to Optimize Plant Production. Hydro Review Worldwide , v. 32, p. 30-38, 2013.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "TURANO, R. ; ; SCUZZIATO, M. R. ; ABREU, D. S. ; SANTANA, A. ; SILVA, J. ; MOROSO, T. ; PAZDZIORNY, G. F. S. . Uma abordagem híbrida entre a agregação por usina e a modelagem individualizada da função de produção hidrelétrica na programação diária do Sistema Interligado Nacional.. In: Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica (SEPOPE), 2026, Foz do Iguaçu. XVI SEPOPE, 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; Rocha, C. ; SCUZZIATO, M. R. ; Galassi, P. ; De Andrade, R. J. ; FAVORETO, R. S. . Análise da modulação diária de geração como serviço ancilar para usinas hidrelétricas. In: Congresso Brasileiro de Planejamento Energético, 2022, Evento híbrido. Os desafios do Planejamento Energético, 2022. v. XIII.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "BARAN, L. B. T. ; ; SCUZZIATO, M. R. . Avaliação da Formação de Pool de Contratos de Energia no Segmento de Distribuição. In: Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022, Foz do Iguaçu. XV Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Pozzatti, L. F. ; ; SCUZZIATO, M.R. . Avaliação de uma Central Geradora Associada, Formada pela Integração de uma Usina Fotovoltaica a um Parque Eólico, na Região Sul do Brasil. In: BRAZIL WINDPOWER 2022, 2022, São Paulo. BRAZIL WINDPOWER PAPERS 2022, 2022. v. 1. p. 236-255.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MATTOS, J. N. ; ; Orsi, G. C. ; SCUZZIATO, M. R. ; . Analysis Of Blockchain Applications In Energy Transactions And Smart Networks. In: Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 2022, 2022, Rio de Janeiro. Book of Abstracts and Proceedings of 14th Latin-American Congress on Electricity Generation and Transmission: CLAGTEE 2022. Guaratinguetá: Câmara Brasileira do Livro, 2022. v. 1. p. 56.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Pozzatti, L. F. ; ; SCUZZIATO, M. R. . Evaluation of an Associated Project by Integrating a Photovoltaic Power Plant with a Wind Complex in Southern Brazil. In: Latin-American Congress on Electricity Generation and Transmission, 2022, Rio de Janeiro. Book of Abstracts and Proceedings of The 14th Latin-American Congress on Electricity Generation and Transmission ? CLAGTEE 2022. Guaratinguetá: Câmara Brasileira do Livro, 2022. v. 1. p. 32.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; Rocha, C. ; SCUZZIATO, M. R. . Assessing constructive heuristics for solving hydro unit commitment and loading problem. In: Interdisciplinary Conference on Mechanics, Computers and Electrics, 2022, Barcelona. Proc. of the Interdisciplinary Conference on Mechanics, Computers and Electrics, 2022. v. 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MUHLEN, G. V. ; ; SCUZZIATO, M. R. . Impacto da modelagem da função de produção hidrelétrica no problema da programação diária da operação eletroenergética. In: SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2019, Belo Horizonte. XXV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2019.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "LIMA, M. N. S. M. ; ; SCUZZIATO, M. R. ; . A disponibilidade da ferramenta web preço de indiferença (pi) para cursos de graduação. In: Congresso Internacional de Distribuição Elétrica - CIDEL, 2018, Buenos Aires. Congresso Internacional de Distribuição Elétrica - CIDEL 2018, 2018.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. . A Model to Accounting for Losses in the Unit Commitment Problem at Brazilian Hydro Plants. In: 17th Power Systems Computation Conference, 2011, Estocolmo. 17th Power Systems Computation Conference, 2011.",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; ; ; SCUZZIATO, M. R. ; RIBAS, F. A. C. ; OLIVEIRA, G. A. D. ; PASE, C. D. ; MARTINS, F. R. ; AZEVEDO, H. R. T. D. ; COUTTO, F. A. B. D. . Sistema de Gestão em Tempo Real para Avaliação da Performance e Otimização da Produção de Energia na Usina Hidrelétrica de Itá. In: XXII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013, Brasilia. Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2013.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; SCUZZIATO, M.R. ; . Hydrothermal Unit Commitment Subject to Uncertain Demand and Water Inflows. In: International Conference on Stochastic Programming, 2016, Búzios. XIV International Conference on Stochastic Programming, 2016. v. XIV.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. ; . Hydrothermal Unit Commitment Subject to Uncertain Demand and Water Inflows. In: International Symposium on Mathematical Programming, 2015, Pittsburgh. 22nd International Symposium on Mathematical Programming, 2015. v. 22.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RIBAS, F. A. C. ; PASE, C. D. ; ; Murilo Reolon Scuzziato ; MARTINS, F. R. ; COUTTO, F. A. B. D. . A Support System for Real-Time Performance Evaluation and Production Optimization in a Hydro Power Plant in the Brazilian System. In: HydroVision International 2013, 2013, Colorado. HydroVision International, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M.R. ; . Hydrothermal unit commitment subject to uncertain demand and water inflows. In: International Conference on Stochastic Programming, 2013, Bergamo, Itália. XIII International Conference on Stochastic Programming, 2013. v. XIII.",
+          "ano": 2013,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "SILVEIRA, P. J. ; VIEIRA, B. I. L. ; SCUZZIATO, M. R. ; Orsi, G. C. ; . Análise do consumo de energia elétrica do IFSC - Campus São Miguel. 2025. (Apresentação de Trabalho/Seminário).",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "Pozzatti, L. F. ; ; SCUZZIATO, M. R. . Evaluation of an Associated Project by Integrating a Photovoltaic Power Plant with a Wind Complex in Southern Brazil. 2022. (Apresentação de Trabalho/Congresso).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "MATTOS, J. N. ; ; Orsi, G. C. ; SCUZZIATO, M. R. ; . Analysis Of Blockchain Applications In Energy Transactions And Smart Networks. 2022. (Apresentação de Trabalho/Congresso).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. ; . Hydrothermal Unit Commitment Subject to Uncertain Demand and Water Inflows. 2016. (Apresentação de Trabalho/Congresso).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; SCUZZIATO, M. R. ; . Hydrothermal Unit Commitment Subject to Uncertain Demand and Water Inflows. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; . Hydrothermal unit commitment subject to uncertain demand and water inflows. 2013. (Apresentação de Trabalho/Congresso).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; Suzana Mensch de Carvalho ; Jonas Roberto Pesente ; Robson Almir de Oliveira ; SANTOS, J. L. P. . Características e Aplicação de Sistemas de Medição Fasorial Sincronizada. 2008. (Apresentação de Trabalho/Congresso).",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "M. R. Scuzziato . Modelo de Otimização Estocástica de Dois Estágios para o Problema da Programação Diária da Operação Eletroenergética. 2016.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "; M. R. Scuzziato . Regulação e legislação do setor elétrico brasileiro. 2018. (Desenvolvimento de material didático ou instrucional - Apostila de mestrado profissional).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato ; . Análise da Operação de Sistemas de Energia. 2018. (Desenvolvimento de material didático ou instrucional - Apostila de mestrado profissional).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato ; . Planejamento e Formação de Preços em Sistemas de Energia. 2018. (Desenvolvimento de material didático ou instrucional - Apostila de mestrado profissional).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato . Regulação e Mercados de Energia Elétrica. 2017. (Desenvolvimento de material didático ou instrucional - Apostila para o curso de graduação em engenharia elétrica).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato ; ; . Different Decomposition Strategies to Solve Stochastic Hydrothermal Unit Commitment Problems. 2017. (Relatório de pesquisa).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; SCUZZIATO, M. R. ; . Curso Superior de Tecnologia em Sistemas de Energia. 2017. (PROJETO PEDAGÓGICO DE CURSO SUPERIOR).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato . Stochastic Unit Commitment Instances. 2016. (Banco de dados e tutorial para problemas de planejamento da operação).",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "SCUZZIATO, M. R. ; ; ; ORTMANN, M. S.; NERI, T. F.. Participação em banca de Matheus Varela Branco. ANÁLISE DE PERTURBAÇÕES EM LINHAS DE TRANSMISSÃO: UMA PROPOSTA DE PROCEDIMENTO OPERACIONAL PARA AGENTES NO SIN. 2026. Dissertação (Mestrado em Mestrado Profissional em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; SENA, F.; SANTIAGO, V. E.. Participação em banca de Renan Batista Siqueira. Comunidades Energéticas - Análise de Modelos de Rateio do Benefício. 2025. Dissertação (Mestrado em Mestrado Profissional em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; RAMALHO, G. M.; DINIZ, A. L.; . Participação em banca de Taís Dahleni Kraemer. Modelagem das restrições de faixa operativa, limites elétricos de transmissão e taxa máxima de variação de defluência na alocação da reserva de potência operativa em problemas de otimização da programação hidrotérmica de curto prazo. 2024. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "POSSAGNOLO, L. M.; M. R. Scuzziato ; . Participação em banca de Kauan Felipe Campana. OTIMIZAÇÃO DESCENTRALIZADA DE AGREGADORES DE VEÍCULOS ELÉTRICOS EM AMBIENTE DE MERCADO COMPETITIVO. 2023. Dissertação (Mestrado em Engenharia Eletrotécnica) - Instituto Superior de Engenharia do Porto.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "RAMALHO, G. M.; M. Reolon Scuzziato ; . Participação em banca de Gabriel Augusto Naves Teixeira. AVALIAÇÃO DO IMPACTO DE PENALIDADES DE FOLGA E DA CONSIDERAÇÃO DE CENÁRIOS DE VAZÃO A PARTIR DA SEGUNDA SEMANA NO PLANEJAMENTO ENERGÉTICO DE CURTO PRAZO. 2023. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; AQUINO, A. F. C.; . Participação em banca de Rodrigo Vaz Pina Cabral Silva. Aplicação de Analytical Target Cascading para solução de problemas de Unit Commitment hidrotérmico. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; Rocha, C.; PORTILHO JUNIOR, E. S.; . Participação em banca de Daniel Firmo Kazay. Modelo para Otimização da Programação Diária da Operação de Usinas Hidrelétricas em Cascata com a Consideração das Incertezas Hidrológicas. 2022. Dissertação (Mestrado em Engenharia Elétrica e Computação) - Universidade Estadual do Oeste do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; SILVA, T. L.; . Participação em banca de David Lucas dos Santos Abreu. Aproximações Lineares por Partes da Função de Produção Hidrelétrica para Aplicação em Problemas de Planejamento da Operação Energética. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "; GONCALVES, R. E. C.; ; SCUZZIATO, M.R. ; VIEIRA, R.. Participação em banca de Marcos R. Schmitt. PROPOSTA PARA REPROGRAMAÇÃO DA GERAÇÃO HIDRELÉTRICA DA REGIÃO SUL. 2020. Dissertação (Mestrado em Mestrado Profissional em Sistemas de Energia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; . Participação em banca de Marcelo Zapella. Clustered Unit Commitment Applied to the Brazilian Hydrothermal Power System. 2019. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; . Participação em banca de Victor Victor da Silva Sierra Fernandez. Análise do Impacto Financeiro da transição dos modelos de formação de preço DECOMP para o DESSEM nos contratos do ACL. 2019. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M.R. ; ; . Participação em banca de Rafael Freitas Ferreira. Programação de despacho de geração de unidades hidrelétricas via programação linear inteira mista. 2018. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ZANELLA, A.; . Participação em banca de Thiago de Alencar Sousa. Handling the stochastic hydrothermal unit commitment with different models of piecewise linear hydropower production functions. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "SCUZZIATO, M. R. ; MARCATO, A.; SANTANA, A.; AQUINO, A. F. C.. Participação em banca de Brunno Henrique Brito. Estratégia Baseada em Particionamento e Simetria para Resolver o Problema da Programação da Operação de Usinas Hidrelétricas. 2023. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "SCUZZIATO, M. R. ; MARCATO, A.; LOBATO, R. D.. Participação em banca de David Lucas dos Santos Abreu. Sistema de Definição de Representação de Funções de Produção Hidrelétrica no Contexto de Problemas da Programação Diária da Operação. 2026. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "M. R. Scuzziato ; ; ; SILVA, P. J. S. E.. Participação em banca de Marcelo Marcel Cordova. Hydrothermal Unit Commitment via Generalized Augmented Lagrangians. 2017. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "items": [
+        {
+          "texto": "SCUZZIATO, M. R. ; Rocha, C.; MOTTER, D.. Participação em banca de Daniel Firmo Kazay. MODELO PARA OTIMIZAÇÃO DA PROGRAMAÇÃO DIÁRIA DA OPERAÇÃO DE USINAS HIDRELÉTRICAS EM CASCATA COM A CONSIDERAÇÃO DAS INCERTEZAS HIDROLÓGICAS. 2021. Exame de qualificação (Mestrando em Engenharia Elétrica e Computação) - Universidade Estadual do Oeste do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; SCUZZIATO, M. R. ; ZEITUNE, A.. Participação em banca de Thiago Pedro Florindo.ESTUDO DE CASO BASEADO NOS ESQUEMAS ESPECIAIS DE PROTEÇÃO DO PROCEDIMENTO DE REDE (CONTROLE DE EMERGÊNCIA NO SUL DO RIO GRANDE DO SUL PARA CONTINGÊNCIA DA LT 525 KV NOVA SANTA RITA / POVO NOVO). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; DUPCZAK, B. S.; SOUZA, F. L.. Participação em banca de Matheus Varela Branco.Estudo sobre o Uso de STATCOM para a Melhoria no Controle e Estabilidade de Tensão em Sistemas Eólicos de Geração. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Instituto Federal de Santa Catarina.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; BUDAL, L. P.. Participação em banca de Andréia Almeida.Abordagem sobre o comercializador varejista no mercado brasileiro de energia elétrica. 2018. Trabalho de Conclusão de Curso (Graduação em Sistemas de Energia) - Instituto Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; BUDAL, L. P.. Participação em banca de Renata Nascimento Manicardi.Análise econômica de uma pequena central hidrelétrica participando do mecanismo de realocação de energia e mercado de curto prazo. 2017. Trabalho de Conclusão de Curso (Graduação em Sistemas de Energia) - Instituto Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SCUZZIATO, M. R. ; ; NATALI, H. S.; PAGANI, M.. Participação em banca de Kelly Patricio Duarte.Tarifação dinâmica no mercado brasileiro de energia. 2016. Trabalho de Conclusão de Curso (Graduação em Sistemas de Energia) - Instituto Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

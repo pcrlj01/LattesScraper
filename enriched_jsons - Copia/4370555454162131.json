@@ -1,0 +1,1169 @@
+{
+  "name": "Gélson da Cruz Júnior",
+  "lattes_id": "4370555454162131",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Methodology for the Optimization of Water Pumping Operations with Energy Cost Reduction and High-Efficiency Region Prioritization",
+          "autores": "CHAVES, ROBERTO C. P. ; DA CRUZ, GÉLSON ; VINHAL, CÁSSIO D. N. ; CALIXTO, WESLEY P.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2026.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3703360",
+          "citacao_completa": "CHAVES, ROBERTO C. P. ; DA CRUZ, GÉLSON ; VINHAL, CÁSSIO D. N. ; CALIXTO, WESLEY P. . Methodology for the Optimization of Water Pumping Operations with Energy Cost Reduction and High-Efficiency Region Prioritization. IEEE Access , v. 1, p. 1-1, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "APPLICATION OF RECURRENT NEURAL NETWORKS IN FRUIT PRICE PREDICTION IN THE AGRICULTURAL SECTOR OF BAHIA",
+          "autores": "SILVA, IARA FÁBIA CASTRO VIANA ; CARVALHO, CAIO HENRIQUE RODRIGUES ; NOGUEIRA, TIAGO DO CARMO ; SANTANA, DANYELE DE OLIVEIRA ; DA CRUZ JUNIOR, GELSON ; VINHAL, CÁSSIO DENER NORONHA ; ULLMANN, MATHEUS RUDOLFO DIEDRICH",
+          "periodico": "ARACÊ - DIREITOS HUMANOS EM REVISTA , v. 7, p. 1197-1220, 2025.",
+          "doi": "http://dx.doi.org/10.56238/arev7n1-073",
+          "citacao_completa": "SILVA, IARA FÁBIA CASTRO VIANA ; CARVALHO, CAIO HENRIQUE RODRIGUES ; NOGUEIRA, TIAGO DO CARMO ; SANTANA, DANYELE DE OLIVEIRA ; DA CRUZ JUNIOR, GELSON ; VINHAL, CÁSSIO DENER NORONHA ; ULLMANN, MATHEUS RUDOLFO DIEDRICH . APPLICATION OF RECURRENT NEURAL NETWORKS IN FRUIT PRICE PREDICTION IN THE AGRICULTURAL SECTOR OF BAHIA. ARACÊ - DIREITOS HUMANOS EM REVISTA , v. 7, p. 1197-1220, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Deep Learning For Detection of Foliar Diseases in Soybeans Based on the Mask R-CNN Model",
+          "autores": "CRUZ, UALACE VIEIRA GONÇALVES DA ; NOGUEIRA, TIAGO DO CARMO ; CRUZ JÚNIOR, G. ; ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; CARVALHO, CAIO HENRIQUE RODRIGUES ; SANTANA, DANYELE DE OLIVEIRA",
+          "periodico": "RGSA (ANPAD) , v. 19, p. e011121, 2025.",
+          "doi": "http://dx.doi.org/10.24857/rgsa.v19n1-185",
+          "citacao_completa": "CRUZ, UALACE VIEIRA GONÇALVES DA ; NOGUEIRA, TIAGO DO CARMO ; CRUZ JÚNIOR, G. ; ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; CARVALHO, CAIO HENRIQUE RODRIGUES ; SANTANA, DANYELE DE OLIVEIRA . Deep Learning For Detection of Foliar Diseases in Soybeans Based on the Mask R-CNN Model. RGSA (ANPAD) , v. 19, p. e011121, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "CNN-LSTM-BASED DEEP LEARNING FOR AUTOMATIC IMAGE CAPTIONING",
+          "autores": "RIBEIRO, MARIA VITÓRIA SOUSA ; NOGUEIRA, TIAGO DO CARMO ; DA CRUZ JUNIOR, GELSON ; VINHAL, CÁSSIO DENER NORONHA ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; FERREIRA, DELLER JAMES ; CARVALHO, CAIO HENRIQUE RODRIGUES ; SANTANA, DANYELE DE OLIVEIRA",
+          "periodico": "ARACÊ - DIREITOS HUMANOS EM REVISTA , v. 6, p. 6725-6749, 2024.",
+          "doi": "http://dx.doi.org/10.56238/arev6n3-145",
+          "citacao_completa": "RIBEIRO, MARIA VITÓRIA SOUSA ; NOGUEIRA, TIAGO DO CARMO ; DA CRUZ JUNIOR, GELSON ; VINHAL, CÁSSIO DENER NORONHA ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; FERREIRA, DELLER JAMES ; CARVALHO, CAIO HENRIQUE RODRIGUES ; SANTANA, DANYELE DE OLIVEIRA . CNN-LSTM-BASED DEEP LEARNING FOR AUTOMATIC IMAGE CAPTIONING. ARACÊ - DIREITOS HUMANOS EM REVISTA , v. 6, p. 6725-6749, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Detecção de sigatoka amarela em folhas de banana com redes neurais convolucionais (CNN) e aprendizagem por transferência profunda (DTL)",
+          "autores": "SILVA, VINICIOS MATHEUS OLIVEIRA DA ; NOGUEIRA, TIAGO DO CARMO ; CRUZ JÚNIOR, GÉLSON DA ; VINHAL, CÁSSIO DENER NORONHA ; SANTANA, DANYELE DE OLIVEIRA ; CARVALHO, CAIO HENRIQUE RODRIGUES",
+          "periodico": "OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 22, p. e5280, 2024.",
+          "doi": "http://dx.doi.org/10.55905/oelv22n6-146",
+          "citacao_completa": "SILVA, VINICIOS MATHEUS OLIVEIRA DA ; NOGUEIRA, TIAGO DO CARMO ; CRUZ JÚNIOR, GÉLSON DA ; VINHAL, CÁSSIO DENER NORONHA ; SANTANA, DANYELE DE OLIVEIRA ; CARVALHO, CAIO HENRIQUE RODRIGUES . Detecção de sigatoka amarela em folhas de banana com redes neurais convolucionais (CNN) e aprendizagem por transferência profunda (DTL). OBSERVATORIO DE LA ECONOMÍA LATINOAMERICANA , v. 22, p. e5280, 2024."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A reference-based model using deep learning for image captioning",
+          "autores": "DO CARMO NOGUEIRA, TIAGO ; ; CRUZ JÚNIOR, G. ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; MARQUES, THYAGO CARVALHO",
+          "periodico": "MULTIMEDIA SYSTEMS , v. 28, p. 1-17, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s00530-022-00937-3",
+          "citacao_completa": "DO CARMO NOGUEIRA, TIAGO ; ; CRUZ JÚNIOR, G. ; ULLMANN, MATHEUS RUDOLFO DIEDRICH ; MARQUES, THYAGO CARVALHO . A reference-based model using deep learning for image captioning. MULTIMEDIA SYSTEMS , v. 28, p. 1-17, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "A hyper-heuristic guided by a probabilistic graphical model for single-objective real-parameter optimization",
+          "autores": "OLIVA, DIEGO ; MARTINS, MARCELLA S. R. ; HINOJOSA, SALVADOR ; ELAZIZ, MOHAMED ABD ; DOS SANTOS, PAULO VICTOR ; DA CRUZ, GELSON ; MOUSAVIRAD, SEYED JALALEDDIN",
+          "periodico": "International Journal of Machine Learning and Cybernetics , v. 13, p. 3743-3772, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s13042-022-01623-6",
+          "citacao_completa": "OLIVA, DIEGO ; MARTINS, MARCELLA S. R. ; HINOJOSA, SALVADOR ; ELAZIZ, MOHAMED ABD ; DOS SANTOS, PAULO VICTOR ; DA CRUZ, GELSON ; MOUSAVIRAD, SEYED JALALEDDIN . A hyper-heuristic guided by a probabilistic graphical model for single-objective real-parameter optimization. International Journal of Machine Learning and Cybernetics , v. 13, p. 3743-3772, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Design Approach for Additive Manufacturing in Spare Part Supply Chains",
+          "autores": "MARINHO DE BRITO, FILIPE ; JUNIOR, GELSON DA CRUZ ; FRAZZON, ENZO MOROSINI ; BASTO, JOAO PEDRO TAVARES VIEIRA ; ALCALA, SYMONE GOMES SOARES",
+          "periodico": "IEEE Transactions on Industrial Informatics , v. 17, p. 757-765, 2021.",
+          "doi": "http://dx.doi.org/10.1109/tii.2020.3029541",
+          "citacao_completa": "MARINHO DE BRITO, FILIPE ; JUNIOR, GELSON DA CRUZ ; FRAZZON, ENZO MOROSINI ; BASTO, JOAO PEDRO TAVARES VIEIRA ; ALCALA, SYMONE GOMES SOARES . Design Approach for Additive Manufacturing in Spare Part Supply Chains. IEEE Transactions on Industrial Informatics , v. 17, p. 757-765, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A review of digital image forensics",
+          "autores": "FERREIRA, WILLIAM D. ; FERREIRA, CRISTIANE B.R. ; DA CRUZ JÚNIOR, GELSON ; SOARES, FABRIZZIO",
+          "periodico": "COMPUTERS & ELECTRICAL ENGINEERING , v. 85, p. 106685, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.compeleceng.2020.106685",
+          "citacao_completa": "FERREIRA, WILLIAM D. ; FERREIRA, CRISTIANE B.R. ; DA CRUZ JÚNIOR, GELSON ; SOARES, FABRIZZIO . A review of digital image forensics. COMPUTERS & ELECTRICAL ENGINEERING , v. 85, p. 106685, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Reference-based model using multimodal gated recurrent units for image captioning",
+          "autores": "DO CARMO NOGUEIRA, TIAGO ; VINHAL, CÁSSIO DENER NORONHA ; DA CRUZ JÚNIOR, GÉLSON ; ULLMANN, MATHEUS RUDOLFO DIEDRICH",
+          "periodico": "MULTIMEDIA TOOLS AND APPLICATIONS , v. 79, p. 1-21, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s11042-020-09539-5",
+          "citacao_completa": "DO CARMO NOGUEIRA, TIAGO ; VINHAL, CÁSSIO DENER NORONHA ; DA CRUZ JÚNIOR, GÉLSON ; ULLMANN, MATHEUS RUDOLFO DIEDRICH . Reference-based model using multimodal gated recurrent units for image captioning. MULTIMEDIA TOOLS AND APPLICATIONS , v. 79, p. 1-21, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Study of Dimensionality Reduction Impact on an Approach to People Detection in Gigapixel Images",
+          "autores": "FERREIRA, CRISTIANE B. R. ; SOARES, FABRIZZIO A. A. M. N. ; PEDRINI, HELIO ; BRUCE, NEIL ; FERREIRA, WILLIAM D. ; DA CRUZ, GELSON",
+          "periodico": "CANADIAN JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING-REVUE CANADIENNE DE GENIE ELECTRIQUE ET INFORMATIQUE , v. 43, p. 122-128, 2020.",
+          "doi": "http://dx.doi.org/10.1109/cjece.2019.2925780",
+          "citacao_completa": "FERREIRA, CRISTIANE B. R. ; SOARES, FABRIZZIO A. A. M. N. ; PEDRINI, HELIO ; BRUCE, NEIL ; FERREIRA, WILLIAM D. ; DA CRUZ, GELSON . A Study of Dimensionality Reduction Impact on an Approach to People Detection in Gigapixel Images. CANADIAN JOURNAL OF ELECTRICAL AND COMPUTER ENGINEERING-REVUE CANADIENNE DE GENIE ELECTRIQUE ET INFORMATIQUE , v. 43, p. 122-128, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Deep neural annealing model for the semantic representation of documents",
+          "autores": "DE MENDONÇA, LEANDRO R.C. ; DA CRUZ JÚNIOR, GELSON",
+          "periodico": "ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE , v. 96, p. 103982, 2020.",
+          "doi": "http://dx.doi.org/10.1016/j.engappai.2020.103982",
+          "citacao_completa": "DE MENDONÇA, LEANDRO R.C. ; DA CRUZ JÚNIOR, GELSON . Deep neural annealing model for the semantic representation of documents. ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE , v. 96, p. 103982, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Fast and Accurate SSVEP Brain Machine Interface Using Dry Electrodes and High Frequency Stimuli by Employing Ensemble Learning",
+          "autores": "DAMIAN DA SILVA, ANDREI ; DA CRUZ JUNIOR, GELSON ; GALVAO PINHEIRO JUNIOR, CARLOS",
+          "periodico": "IEEE Latin America Transactions , v. 18, p. 1000-1007, 2020.",
+          "doi": "http://dx.doi.org/10.1109/tla.2020.9099676",
+          "citacao_completa": "DAMIAN DA SILVA, ANDREI ; DA CRUZ JUNIOR, GELSON ; GALVAO PINHEIRO JUNIOR, CARLOS . A Fast and Accurate SSVEP Brain Machine Interface Using Dry Electrodes and High Frequency Stimuli by Employing Ensemble Learning. IEEE Latin America Transactions , v. 18, p. 1000-1007, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Web Crawler for Social Network User Data Prediction Using Soft Computing Methods",
+          "autores": "VIEIRA SOBRINHO, J. L. ; CRUZ JÚNIOR, G. ; NORONHA VINHAL, CÁSSIO DENER",
+          "periodico": "INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY , v. 11, p. 79-88, 2019.",
+          "doi": "http://dx.doi.org/10.5121/ijcsit.2019.11207",
+          "citacao_completa": "VIEIRA SOBRINHO, J. L. ; CRUZ JÚNIOR, G. ; NORONHA VINHAL, CÁSSIO DENER . Web Crawler for Social Network User Data Prediction Using Soft Computing Methods. INTERNATIONAL JOURNAL OF COMPUTER SCIENCE AND INFORMATION TECHNOLOGY , v. 11, p. 79-88, 2019."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Performance analysis for a novel adaptive algorithm for real-time point cloud ground segmentation",
+          "autores": "DOS SANTOS, GILBERTO ANTONIO MARCON ; FERRÃO, VICTOR TERRA ; VINHAL, CÁSSIO ; DA CRUZ JÚNIOR, GÉLSON",
+          "periodico": "International Journal of Hybrid Intelligent Systems , v. 12, p. 229-243, 2016.",
+          "doi": "http://dx.doi.org/10.3233/his-160218",
+          "citacao_completa": "DOS SANTOS, GILBERTO ANTONIO MARCON ; FERRÃO, VICTOR TERRA ; VINHAL, CÁSSIO ; DA CRUZ JÚNIOR, GÉLSON . Performance analysis for a novel adaptive algorithm for real-time point cloud ground segmentation. International Journal of Hybrid Intelligent Systems , v. 12, p. 229-243, 2016."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Fast algorithm for real-time ground extraction from unorganized stereo point clouds",
+          "autores": "MARCON DOS SANTOS, GILBERTO ANTONIO ; TERRA FERRÃO, VICTOR ; NORONHA VINHAL, CASSIO DENER ; CRUZ JUNIOR, GELSON DA",
+          "periodico": "Pattern Recognition Letters , v. 84, p. 192-198, 2016.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2016.10.002",
+          "citacao_completa": "MARCON DOS SANTOS, GILBERTO ANTONIO ; TERRA FERRÃO, VICTOR ; NORONHA VINHAL, CASSIO DENER ; CRUZ JUNIOR, GELSON DA . Fast algorithm for real-time ground extraction from unorganized stereo point clouds. Pattern Recognition Letters , v. 84, p. 192-198, 2016."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Studying the Emergence of Money by Means of Swarm Multi-Agent Simulation",
+          "autores": "RODOVALHO, W. M. ; ; CRUZ JR, G",
+          "periodico": "Lecture Notes in Computer Science , v. 6433, p. 296-305, 2010.",
+          "doi": "",
+          "citacao_completa": "RODOVALHO, W. M. ; ; CRUZ JR, G . Studying the Emergence of Money by Means of Swarm Multi-Agent Simulation. Lecture Notes in Computer Science , v. 6433, p. 296-305, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "The impact of water quality as an environmental constraint on operation planning of a hydro-thermal power system",
+          "autores": "VALLE, A ; ; CRUZ JÚNIOR, G.",
+          "periodico": "Renewable Energy , v. 34, p. 655-659, 2009.",
+          "doi": "http://dx.doi.org/10.1016/j.renene.2008.05.024",
+          "citacao_completa": "VALLE, A ; ; CRUZ JÚNIOR, G. . The impact of water quality as an environmental constraint on operation planning of a hydro-thermal power system. Renewable Energy , v. 34, p. 655-659, 2009."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Non-Uniform Composite Representation of Hydroelectric Systems for Long-Term Hydrothermal Scheduling",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "IEEE Transactions on Power Systems , USA, v. 11, n.2, p. 702-707, 1996.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Non-Uniform Composite Representation of Hydroelectric Systems for Long-Term Hydrothermal Scheduling. IEEE Transactions on Power Systems , USA, v. 11, n.2, p. 702-707, 1996."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Uma abordagem Estocástica para o Planejamento a Longo Prazo da Operação de Sistemas Hidrotérmicos",
+          "autores": "ANDRADE, M. G. ; ; CRUZ JÚNIOR, G. ;",
+          "periodico": "Notas do Icmsc Usp São Carlos , São Carlos - SP, v. 23, p. 1-9, 1996.",
+          "doi": "",
+          "citacao_completa": "ANDRADE, M. G. ; ; CRUZ JÚNIOR, G. ; . Uma abordagem Estocástica para o Planejamento a Longo Prazo da Operação de Sistemas Hidrotérmicos. Notas do Icmsc Usp São Carlos , São Carlos - SP, v. 23, p. 1-9, 1996."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "PROPOSTA DE METODOLOGIA HÍBRIDA PARA GERENCIAMENTO DE PROJETOS",
+          "autores": "SILVA, M. R. ; DA CRUZ JÚNIOR, GELSON ; PIRES, D. G. F.",
+          "periodico": "In: Simpósio de Engenharia de Produção - SIMEP 2023, 2023, CAMPINA GRANDE. ANAIS DO XI SIMEP, 2023. v. 1. p. 1-15.",
+          "doi": "",
+          "citacao_completa": "SILVA, M. R. ; DA CRUZ JÚNIOR, GELSON ; PIRES, D. G. F. . PROPOSTA DE METODOLOGIA HÍBRIDA PARA GERENCIAMENTO DE PROJETOS. In: Simpósio de Engenharia de Produção - SIMEP 2023, 2023, CAMPINA GRANDE. ANAIS DO XI SIMEP, 2023. v. 1. p. 1-15."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Tuning of PI Controllers for Electric Drives using Evolutionary Multi-Objective Optimization Algorithm",
+          "autores": "DOS SANTOS, GUILHERME F. ; DA SILVA, WANDER G. ; JUNIOR, GELSON DA CRUZ",
+          "periodico": "In: 2022 IEEE Latin American Conference on Computational Intelligence (LACCI), 2022, Montevideo. 2022 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2022. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/la-cci54402.2022.9981222",
+          "citacao_completa": "DOS SANTOS, GUILHERME F. ; DA SILVA, WANDER G. ; JUNIOR, GELSON DA CRUZ . Tuning of PI Controllers for Electric Drives using Evolutionary Multi-Objective Optimization Algorithm. In: 2022 IEEE Latin American Conference on Computational Intelligence (LACCI), 2022, Montevideo. 2022 IEEE Latin American Conference on Computational Intelligence (LA-CCI), 2022. p. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Computational Intelligence Platform for Hydrothermal Power System Auction Models",
+          "autores": "CARVALHO, FABIANO S. ; CRUZ, GELSON ; FELIX, JULIANA ; SOARES, FABRIZZIO",
+          "periodico": "In: 2020 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2020, London. 2020 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2020. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ccece47787.2020.9255804",
+          "citacao_completa": "CARVALHO, FABIANO S. ; CRUZ, GELSON ; FELIX, JULIANA ; SOARES, FABRIZZIO . Computational Intelligence Platform for Hydrothermal Power System Auction Models. In: 2020 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2020, London. 2020 IEEE Canadian Conference on Electrical and Computer Engineering (CCECE), 2020. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "An adaptive algorithm for embedded real-time point cloud ground segmentation.",
+          "autores": "MARCON, G. A. ; FERRAO, V. T. ; ; CRUZ JÚNIOR, G.",
+          "periodico": "In: 2015 7th International Conference of Soft Computing and Pattern Recognition (SoCPaR), 2015, Fukuoka. 2015 7th International Conference of Soft Computing and Pattern Recognition (SoCPaR), 2015. v. 1. p. 76-83.",
+          "doi": "",
+          "citacao_completa": "MARCON, G. A. ; FERRAO, V. T. ; ; CRUZ JÚNIOR, G. . An adaptive algorithm for embedded real-time point cloud ground segmentation.. In: 2015 7th International Conference of Soft Computing and Pattern Recognition (SoCPaR), 2015, Fukuoka. 2015 7th International Conference of Soft Computing and Pattern Recognition (SoCPaR), 2015. v. 1. p. 76-83."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Base de Conhecimento em Agentes Inteligentes Mapeada por Meio de Diagrama de Estados",
+          "autores": "DINIZ, S. T. ; CRUZ JÚNIOR, G. ; Pires, S.R.",
+          "periodico": "In: XII Encontro Nacional de Inteligência Artificial e Computacional, 2015, Natal - RN. Anais do XII Encontro Nacional de Inteligência Artificial e Computacional, 2015. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "DINIZ, S. T. ; CRUZ JÚNIOR, G. ; Pires, S.R. . Base de Conhecimento em Agentes Inteligentes Mapeada por Meio de Diagrama de Estados. In: XII Encontro Nacional de Inteligência Artificial e Computacional, 2015, Natal - RN. Anais do XII Encontro Nacional de Inteligência Artificial e Computacional, 2015. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A New Approach for the Differential Spectrum Using the Frobenius Norm",
+          "autores": "; ; ; ; FERREIRA, Y. R. ; Cruz Jr., G.",
+          "periodico": "In: Second International Conference on Artificial Intelligence, Modelling and Simulation, 2014, Madrid. Proceedings of AIMS 2014, 2014. v. 1.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; FERREIRA, Y. R. ; Cruz Jr., G. . A New Approach for the Differential Spectrum Using the Frobenius Norm. In: Second International Conference on Artificial Intelligence, Modelling and Simulation, 2014, Madrid. Proceedings of AIMS 2014, 2014. v. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Authentication system using behavioral biometrics through keystroke dynamics",
+          "autores": "ALVES, D. D. ; CRUZ, G. ; VINHAL, C.",
+          "periodico": "In: 2014 IEEE Symposium on Computational Intelligence in Biometrics and Identity Management (CIBIM), 2014, Orlando. 2014 IEEE Symposium on Computational Intelligence in Biometrics and Identity Management (CIBIM), 2014. p. 181.",
+          "doi": "http://dx.doi.org/10.1109/CIBIM.2014.7015461",
+          "citacao_completa": "ALVES, D. D. ; CRUZ, G. ; VINHAL, C. . Authentication system using behavioral biometrics through keystroke dynamics. In: 2014 IEEE Symposium on Computational Intelligence in Biometrics and Identity Management (CIBIM), 2014, Orlando. 2014 IEEE Symposium on Computational Intelligence in Biometrics and Identity Management (CIBIM), 2014. p. 181."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Comparing MOPSO Approaches for Hydrothermal Systems Operation Planning",
+          "autores": "Silva, J.C. ; Cruz Jr., G. ; ; ;",
+          "periodico": "In: 1st BRICS Countries Congress on Computational Intelligence (BRICS-CCI), 2013, Porto de Galinhas. Proceedings of 1st BRICS Countries Congress on Computational Intelligence (BRICS-CCI). Recife - Pernambuco: Comitê Organizador do BRICS-CCI, 2013. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "Silva, J.C. ; Cruz Jr., G. ; ; ; . Comparing MOPSO Approaches for Hydrothermal Systems Operation Planning. In: 1st BRICS Countries Congress on Computational Intelligence (BRICS-CCI), 2013, Porto de Galinhas. Proceedings of 1st BRICS Countries Congress on Computational Intelligence (BRICS-CCI). Recife - Pernambuco: Comitê Organizador do BRICS-CCI, 2013. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Aplicação de Otimização Multiobjetivo por Enxame de Partículas no Planejamento Energético de Sistemas Hidrotérmicos",
+          "autores": "Silva, J.C. ; Cruz Jr., G. ;",
+          "periodico": "In: Computer on the Beach 2013, 2013, Florianópolis. Anais do Computer on the Beach 2013. São José, Santa Catarina: Comitê Organizador do COTB 2013, 2013. v. 1. p. 148-157.",
+          "doi": "",
+          "citacao_completa": "Silva, J.C. ; Cruz Jr., G. ; . Aplicação de Otimização Multiobjetivo por Enxame de Partículas no Planejamento Energético de Sistemas Hidrotérmicos. In: Computer on the Beach 2013, 2013, Florianópolis. Anais do Computer on the Beach 2013. São José, Santa Catarina: Comitê Organizador do COTB 2013, 2013. v. 1. p. 148-157."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Um Modelo de Simulação Dinâmico e Individualizado com Interface Web",
+          "autores": "RAMOS, E. S. ; BRITO, F. M. ; CRUZ JR, G ; ; FREITAS, E. N. A.",
+          "periodico": "In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIANIA: EDITORA DA UFG, 2012. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "RAMOS, E. S. ; BRITO, F. M. ; CRUZ JR, G ; ; FREITAS, E. N. A. . Um Modelo de Simulação Dinâmico e Individualizado com Interface Web. In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIANIA: EDITORA DA UFG, 2012. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Comparing PSO Approaches for Hydrothermal Systems Operation Planning",
+          "autores": "GOMIDES, L. R. ; CRUZ JR, G ; ; OLIVEIRA, M. A. A. ;",
+          "periodico": "In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIÂNIA, GOIÁS: EDITORA DA UFG, 2012. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "GOMIDES, L. R. ; CRUZ JR, G ; ; OLIVEIRA, M. A. A. ; . Comparing PSO Approaches for Hydrothermal Systems Operation Planning. In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIÂNIA, GOIÁS: EDITORA DA UFG, 2012. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estudo Comparativo de Modelos de Previsão de Vazões Baseados em Redes MLP e NSRBN",
+          "autores": "; CRUZ JR, G ; ; OLIVEIRA, M. A. A.",
+          "periodico": "In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIÂNIA, GOIÁS: EDITORA DA UFG, 2012. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; ; OLIVEIRA, M. A. A. . Estudo Comparativo de Modelos de Previsão de Vazões Baseados em Redes MLP e NSRBN. In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, GOIÂNIA, GOIÁS. ANAIS DO IV SBSE. GOIÂNIA, GOIÁS: EDITORA DA UFG, 2012. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Previsão de Vazões Naturais Diárias Afluentes ao Reservatório da UHE Tucuruí Utilizando a Técnica de Redes Neurais.",
+          "autores": "; CRUZ JR, G ;",
+          "periodico": "In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, Goiânia, Goiás. Anais do IV SBSE. Goiânia: Editora da UFG, 2012. v. 1.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; . Previsão de Vazões Naturais Diárias Afluentes ao Reservatório da UHE Tucuruí Utilizando a Técnica de Redes Neurais.. In: IV SIMPÓSIO BRASILEIRO DE SISTEMAS ELÉTRICOS - SBSE, 2012, Goiânia, Goiás. Anais do IV SBSE. Goiânia: Editora da UFG, 2012. v. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "O Modelo de Excelência em Gestão da FNQ Aplicado à Comercialização de Energia Elétrica: Estratégias de Conhecimento de Mercado e Avaliação da Satisfação do Cliente a Partir de Estudo de Caso na ELETROBRAS ELETRONORTE",
+          "autores": "DETONI, G. ; CRUZ JR, G ;",
+          "periodico": "In: VII Congresso Nacional de Excelência em Gestão, 2011, Rio de Janeiro. Congresso Nacional de Excelência em Gestão. Rio de Janeiro: Comite CNEG, 2011. v. 1.",
+          "doi": "",
+          "citacao_completa": "DETONI, G. ; CRUZ JR, G ; . O Modelo de Excelência em Gestão da FNQ Aplicado à Comercialização de Energia Elétrica: Estratégias de Conhecimento de Mercado e Avaliação da Satisfação do Cliente a Partir de Estudo de Caso na ELETROBRAS ELETRONORTE. In: VII Congresso Nacional de Excelência em Gestão, 2011, Rio de Janeiro. Congresso Nacional de Excelência em Gestão. Rio de Janeiro: Comite CNEG, 2011. v. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Comercialização de Energia Elétrica por Agentes de Geração na Perspectiva da Excelência em Gestão, com Foco no Cliente",
+          "autores": "DETONI, G. ; CRUZ JR, G ;",
+          "periodico": "In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "DETONI, G. ; CRUZ JR, G ; . Comercialização de Energia Elétrica por Agentes de Geração na Perspectiva da Excelência em Gestão, com Foco no Cliente. In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Desenvolvimento de Programa Computacional Para Gestão de Contratos de Compra e Venda de Energia Elétrica e Auxílio para a Tomada de Decisão",
+          "autores": "QUINTANILHA, A. L. S. ; CRUZ JR, G ;",
+          "periodico": "In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1.",
+          "doi": "",
+          "citacao_completa": "QUINTANILHA, A. L. S. ; CRUZ JR, G ; . Desenvolvimento de Programa Computacional Para Gestão de Contratos de Compra e Venda de Energia Elétrica e Auxílio para a Tomada de Decisão. In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Modelo de Simulação de Usinas Hidrelétricas com Mais de Uma Casa de Força no Mesmo Reservatório",
+          "autores": "SOEIRO, A. F. O. ; CRUZ JR, G ;",
+          "periodico": "In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "SOEIRO, A. F. O. ; CRUZ JR, G ; . Modelo de Simulação de Usinas Hidrelétricas com Mais de Uma Casa de Força no Mesmo Reservatório. In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Previsão de Vazões Naturais Diárias Afluentes ao Reservatório da UHE Tucuruí Utilizando a Técnica de Redes Neurais",
+          "autores": "; CRUZ JR, G ;",
+          "periodico": "In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; . Previsão de Vazões Naturais Diárias Afluentes ao Reservatório da UHE Tucuruí Utilizando a Técnica de Redes Neurais. In: IX CONGRESSO LATINO AMERICANO DE GERAÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA - CLAGTEE, 2011, MAR DEL PLATA, ARGENTINA. ANAIS DO IX CLAGTEE, 2011. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Estudo Comparativo de Modelos de Previsão de Vazões Baseados dm Redes MLP e NSRBN",
+          "autores": "; CRUZ JR, G ; ; OLIVEIRA, M. A. A.",
+          "periodico": "In: XVIII SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO - SIMPEP 2011, 2011, BAURU, SÃO PAULO. Anais - SIMPEP, 2011. v. 1.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; ; OLIVEIRA, M. A. A. . Estudo Comparativo de Modelos de Previsão de Vazões Baseados dm Redes MLP e NSRBN. In: XVIII SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO - SIMPEP 2011, 2011, BAURU, SÃO PAULO. Anais - SIMPEP, 2011. v. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Estudo de Técnicas de Otimização de Sistemas Hidrotérmicos por Enxame de Partículas",
+          "autores": "GOMIDES, L. R. ; CRUZ JR, G ; ; OLIVEIRA, M. A. A.",
+          "periodico": "In: XVIII SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO - SIMPEP 2011, 2011, BAURU, SÃO PAULO. Anais - SIMPEP, 2011. v. 1.",
+          "doi": "",
+          "citacao_completa": "GOMIDES, L. R. ; CRUZ JR, G ; ; OLIVEIRA, M. A. A. . Estudo de Técnicas de Otimização de Sistemas Hidrotérmicos por Enxame de Partículas. In: XVIII SIMPÓSIO DE ENGENHARIA DE PRODUÇÃO - SIMPEP 2011, 2011, BAURU, SÃO PAULO. Anais - SIMPEP, 2011. v. 1."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Programação Genética Aplicada à Classificação em Processos de Descoberta do Conhecimento em Bases de Dados de Redes de Pesquisa",
+          "autores": "DUARTE, K. B. ; ; GUEDES, L. G. R. ; CRUZ JR, G ; BEZERRA, J. C. B.",
+          "periodico": "In: XVIII SIMPEP - Simpósio de Engenharia de Produção, 2010, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2010. v. 1. p. 1-15.",
+          "doi": "",
+          "citacao_completa": "DUARTE, K. B. ; ; GUEDES, L. G. R. ; CRUZ JR, G ; BEZERRA, J. C. B. . Programação Genética Aplicada à Classificação em Processos de Descoberta do Conhecimento em Bases de Dados de Redes de Pesquisa. In: XVIII SIMPEP - Simpósio de Engenharia de Produção, 2010, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2010. v. 1. p. 1-15."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Proposta de Metodologia para Descoberta Automatizada de Associações em Bases de Dados, Aplicando o Processo de Mineração de Dados: Um Estudo de Caso em uma Unidade Pública de Saúde",
+          "autores": "ALMEIDA, D. C. ; ; GUEDES, L. G. R. ; CRUZ JR, G",
+          "periodico": "In: XVIII SIMPEP - Simpósio de Engenharia de Produção, 2010, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2010. v. 1. p. 1-15.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, D. C. ; ; GUEDES, L. G. R. ; CRUZ JR, G . Proposta de Metodologia para Descoberta Automatizada de Associações em Bases de Dados, Aplicando o Processo de Mineração de Dados: Um Estudo de Caso em uma Unidade Pública de Saúde. In: XVIII SIMPEP - Simpósio de Engenharia de Produção, 2010, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2010. v. 1. p. 1-15."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Um Sistema Baseado em Regras Para Detecção de Fraudes de Consumidores em Empresas de Distribuição de Energia Elétrica",
+          "autores": "QUEIROS, N. R. ; CRUZ JR, G ; ; ATAIDE, R. F.",
+          "periodico": "In: IEEE/PES T&D 2010 - Latin America, 2010, São Paulo - SP - Brasil. Proceedings of IEEE/PES T&D 2010 - Latin America. São Paulo - SP - Brasil: Institute of Electrical and Electronics Engineers ( IEEE ), 2010. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "QUEIROS, N. R. ; CRUZ JR, G ; ; ATAIDE, R. F. . Um Sistema Baseado em Regras Para Detecção de Fraudes de Consumidores em Empresas de Distribuição de Energia Elétrica. In: IEEE/PES T&D 2010 - Latin America, 2010, São Paulo - SP - Brasil. Proceedings of IEEE/PES T&D 2010 - Latin America. São Paulo - SP - Brasil: Institute of Electrical and Electronics Engineers ( IEEE ), 2010. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Um Avaliação da Disponibilidade Energética em Sistemas Hidrelétricos de Potência",
+          "autores": "; CRUZ JR, G ;",
+          "periodico": "In: XVIII Congresso Brasileiro de Automática - CBA 2010, 2010, Bonito - MS - Brasil. Anais do XVIII Congresso Brasileiro de Automática - CBA 2010. Ilha Solteira - SP - Brasil: Faculdade de Engenharia de Ilha Solteira, 2010. v. '. p. '-6.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; . Um Avaliação da Disponibilidade Energética em Sistemas Hidrelétricos de Potência. In: XVIII Congresso Brasileiro de Automática - CBA 2010, 2010, Bonito - MS - Brasil. Anais do XVIII Congresso Brasileiro de Automática - CBA 2010. Ilha Solteira - SP - Brasil: Faculdade de Engenharia de Ilha Solteira, 2010. v. '. p. '-6."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Uma Nova Políitca Operativa a Usinas Individualizadas Para o Planejamento da Operação Energética",
+          "autores": "; CRUZ JR, G ;",
+          "periodico": "In: 9th IEEE/IAS international conference on industry applications: Induscon 2010, 2010, São Paulo - SP - Brasil. Proceedings of the 9th IEEE/IAS international conference on industry applications: Induscon 2010. São Paulo - SP - Brasil: IEEE Sul Brasil, 2010. v. 1.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JR, G ; . Uma Nova Políitca Operativa a Usinas Individualizadas Para o Planejamento da Operação Energética. In: 9th IEEE/IAS international conference on industry applications: Induscon 2010, 2010, São Paulo - SP - Brasil. Proceedings of the 9th IEEE/IAS international conference on industry applications: Induscon 2010. São Paulo - SP - Brasil: IEEE Sul Brasil, 2010. v. 1."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Proposta de metodologia para descoberta automatizada de associações em bases de dados, aplicando o processo de mineração de dados: um estudo de caso em uma unidade pública de saúde.",
+          "autores": "ALMEIDA, D. C. ; ; GUEDES, L. G. R. ; CRUZ JR, G",
+          "periodico": "In: SIMPAD Simpósio de Administração 2010, 2010, Bananeiras, PB. Anais do SIMPAD Simpósio de Administração 2010, 2010. v. 1.",
+          "doi": "",
+          "citacao_completa": "ALMEIDA, D. C. ; ; GUEDES, L. G. R. ; CRUZ JR, G . Proposta de metodologia para descoberta automatizada de associações em bases de dados, aplicando o processo de mineração de dados: um estudo de caso em uma unidade pública de saúde.. In: SIMPAD Simpósio de Administração 2010, 2010, Bananeiras, PB. Anais do SIMPAD Simpósio de Administração 2010, 2010. v. 1."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estudos Comparativos Entre Modelos de Previsão de Vazões Utilizando Séries Temporais",
+          "autores": "XAVIER, P. B. ; CRUZ JÚNIOR, G. ; ; ; CUNHA, A. L. A.",
+          "periodico": "In: XVI Simpósio de Engenharia de Produção ? XVI SIMPEP, 2009, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2009. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "XAVIER, P. B. ; CRUZ JÚNIOR, G. ; ; ; CUNHA, A. L. A. . Estudos Comparativos Entre Modelos de Previsão de Vazões Utilizando Séries Temporais. In: XVI Simpósio de Engenharia de Produção ? XVI SIMPEP, 2009, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da Unesp, 2009. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Fuzzy model to assess the water quality in the Meia Ponte river watershed under different standpoints",
+          "autores": "; Cruz Jr., G. ; BINI, L. M. ; OLIVEIRA, M. A. A.",
+          "periodico": "In: WCAMA - I Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2009, Bento Gonçalves - RS. Anais do XXIX CSBC - WCAMA - I Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2009. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "; Cruz Jr., G. ; BINI, L. M. ; OLIVEIRA, M. A. A. . Fuzzy model to assess the water quality in the Meia Ponte river watershed under different standpoints. In: WCAMA - I Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2009, Bento Gonçalves - RS. Anais do XXIX CSBC - WCAMA - I Workshop de Computação Aplicada à Gestão do Meio Ambiente e Recursos Naturais, 2009. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Uma Avaliação entre Modelos Paramétricos e Não Paramétricos para Previsão de Vazões Afluentes",
+          "autores": "Cruz Jr., G. ; ;",
+          "periodico": "In: The 8Th Latin American Congress On Eletricity Generation and Transmission - CLAGTEE 2009, 2009, Ubatuba - SP. Proceedings of the 8Th Latin American Congress On Eletricity Generation and Transmission - CLAGTEE 2009, 2009. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "Cruz Jr., G. ; ; . Uma Avaliação entre Modelos Paramétricos e Não Paramétricos para Previsão de Vazões Afluentes. In: The 8Th Latin American Congress On Eletricity Generation and Transmission - CLAGTEE 2009, 2009, Ubatuba - SP. Proceedings of the 8Th Latin American Congress On Eletricity Generation and Transmission - CLAGTEE 2009, 2009. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Uma Modelagem a Usinas Individualizadas para o Planejamento da Operação Energética do Sistema Interligado Nacional",
+          "autores": "Cruz Jr., G. ; ;",
+          "periodico": "In: The 8th Latin American Congress on Eletricity Generation and Transmission - CLAGTEE 2009, 2009, Ubatuba - SP. Proceedings of the 8th Latin American Congress on Eletricity Generation and Transmission - CLAGTEE 2009, 2009. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "Cruz Jr., G. ; ; . Uma Modelagem a Usinas Individualizadas para o Planejamento da Operação Energética do Sistema Interligado Nacional. In: The 8th Latin American Congress on Eletricity Generation and Transmission - CLAGTEE 2009, 2009, Ubatuba - SP. Proceedings of the 8th Latin American Congress on Eletricity Generation and Transmission - CLAGTEE 2009, 2009. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Análise e Comparação do Modelo de Previsão de Vazões do Sistema de Apoio ao Planejamento Energético, Utilizando Séries Temporais",
+          "autores": "XAVIER, P. B. ; CRUZ JÚNIOR, G.",
+          "periodico": "In: XV Simpósio de Engenharia de Produção ? XVI SIMPEP, 2008, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da UNESP, 2008. v. 1. p. 1-12.",
+          "doi": "",
+          "citacao_completa": "XAVIER, P. B. ; CRUZ JÚNIOR, G. . Análise e Comparação do Modelo de Previsão de Vazões do Sistema de Apoio ao Planejamento Energético, Utilizando Séries Temporais. In: XV Simpósio de Engenharia de Produção ? XVI SIMPEP, 2008, Bauru - São Paulo - Brasil. Anais - SIMPEP. Bauru: Editora da UNESP, 2008. v. 1. p. 1-12."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Insolvency Analysis on Electricity Billing Databases Using Bayesian Classifiers",
+          "autores": "Cruz Jr., G. ; ; NOGUEIRA, R. G. ; RESENDE, E. C. ; ; BERRETTA, L. O.",
+          "periodico": "In: CBA 2008 - XVII Congresso Brasileiro de Automática, 2008, Juiz de Fora - Minas Gerais. Anais do CBA 2008 - XVII Congresso Brasileiro de Automática, 2008. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "Cruz Jr., G. ; ; NOGUEIRA, R. G. ; RESENDE, E. C. ; ; BERRETTA, L. O. . Insolvency Analysis on Electricity Billing Databases Using Bayesian Classifiers. In: CBA 2008 - XVII Congresso Brasileiro de Automática, 2008, Juiz de Fora - Minas Gerais. Anais do CBA 2008 - XVII Congresso Brasileiro de Automática, 2008. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Taxa Interna de Retorno Modificada Aplicada a Avaliação de Investimentos no Setor Elétrico Brasileiro",
+          "autores": "CRUZ JÚNIOR, G. ; ;",
+          "periodico": "In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005, Curitiba - Paraná. Anais do XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2005. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; ; . Taxa Interna de Retorno Modificada Aplicada a Avaliação de Investimentos no Setor Elétrico Brasileiro. In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005, Curitiba - Paraná. Anais do XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2005. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Neural and Fuzzy Cluster Techniques Applied to Substation Load Characterization",
+          "autores": "CRUZ JÚNIOR, G. ; ; MARQUES, Daniela Zanon",
+          "periodico": "In: IEEE Transmission and Distribution Latin American Congress 2004, 2004, São Paulo - SP - Brasil. Proceedings of the IEEE Transmission and Distribution Latin American Congress 2004, 2004.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; ; MARQUES, Daniela Zanon . Neural and Fuzzy Cluster Techniques Applied to Substation Load Characterization. In: IEEE Transmission and Distribution Latin American Congress 2004, 2004, São Paulo - SP - Brasil. Proceedings of the IEEE Transmission and Distribution Latin American Congress 2004, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "A Time Series Decomposition Forecasting Model for Water Inflows Forecasting",
+          "autores": "CRUZ JÚNIOR, G. ; QUERIDO, Luciano Brito",
+          "periodico": "In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; QUERIDO, Luciano Brito . A Time Series Decomposition Forecasting Model for Water Inflows Forecasting. In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Investigation of a Forecasting Model Based on PPS Neural Networks",
+          "autores": "MAIA, Renato Junqueira ; CRUZ JÚNIOR, G.",
+          "periodico": "In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000.",
+          "doi": "",
+          "citacao_completa": "MAIA, Renato Junqueira ; CRUZ JÚNIOR, G. . Investigation of a Forecasting Model Based on PPS Neural Networks. In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Heuristic Approach to Long Term Load Forecasting Based in Artificial Neural Networks",
+          "autores": "CUER, Andreia Oliveira ; CRUZ JÚNIOR, G.",
+          "periodico": "In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000.",
+          "doi": "",
+          "citacao_completa": "CUER, Andreia Oliveira ; CRUZ JÚNIOR, G. . Heuristic Approach to Long Term Load Forecasting Based in Artificial Neural Networks. In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Classification of Substation Single-Line Diagram Based on Fuzzy Logic",
+          "autores": "; CRUZ JÚNIOR, G.",
+          "periodico": "In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP - Brasil. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JÚNIOR, G. . Classification of Substation Single-Line Diagram Based on Fuzzy Logic. In: 5o Latin-American Congress: Electricity Generation And Transmission, 2003, São Pedro - SP - Brasil. Proceedings of the 5o Latin-American Congress: Electricity Generation And Transmission. Guaratinguetá - SP: Editora da Unesp, 2003. v. 1. p. 1-1000."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Classification of Substation Single-line Diagrams Based on Fuzzy Systems",
+          "autores": "; CRUZ JÚNIOR, G.",
+          "periodico": "In: NAFIPS ?2003 - 22nd International Conference of the North American Fuzzy Information Society, 2003, Chicago - Illinois - USA. Proceedings of the 22nd International Conference of the North American Fuzzy Information Society. Chicago - USA: Hiram, 2003. v. 1. p. 1-1000.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JÚNIOR, G. . Classification of Substation Single-line Diagrams Based on Fuzzy Systems. In: NAFIPS ?2003 - 22nd International Conference of the North American Fuzzy Information Society, 2003, Chicago - Illinois - USA. Proceedings of the 22nd International Conference of the North American Fuzzy Information Society. Chicago - USA: Hiram, 2003. v. 1. p. 1-1000."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Data Mining on Pattern Recognition of the Optimal Hydrothermal Systems Operation",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "In: SCI 2001/ISAS 2001 International Conference on Information Systems, Analysis and Synthesis, 2001, Orlando - Florida - USA. Proceedings of the SCI 2001/ISAS 2001 International Conference on Information Systems, Analysis and Synthesis, 2001.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Data Mining on Pattern Recognition of the Optimal Hydrothermal Systems Operation. In: SCI 2001/ISAS 2001 International Conference on Information Systems, Analysis and Synthesis, 2001, Orlando - Florida - USA. Proceedings of the SCI 2001/ISAS 2001 International Conference on Information Systems, Analysis and Synthesis, 2001."
+        },
+        {
+          "ano": 1999,
+          "titulo": "General Composite Representation of Hydroelectric Systems",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "In: 1999 IEEE PICA - Power Industry Computer Applications Conference, 1999, Santa Clara - CA. Proceedings of the 1999 IEEE Power Industry Computer Applications Conference, 1999. v. I.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . General Composite Representation of Hydroelectric Systems. In: 1999 IEEE PICA - Power Industry Computer Applications Conference, 1999, Santa Clara - CA. Proceedings of the 1999 IEEE Power Industry Computer Applications Conference, 1999. v. I."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Comparações Entre os Modelos Equivalentes Linear e Não-Linear no Planejamento a Longo Prazo de Sistemas Hidrotérmicos de Geração",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "In: XII Brazilian Automatic Control Conference - XII CBA, 1998, Uberlândia - MG. Proceedings of XII Brazilian Automatic Control Conference, 1998. v. II. p. 519-524.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Comparações Entre os Modelos Equivalentes Linear e Não-Linear no Planejamento a Longo Prazo de Sistemas Hidrotérmicos de Geração. In: XII Brazilian Automatic Control Conference - XII CBA, 1998, Uberlândia - MG. Proceedings of XII Brazilian Automatic Control Conference, 1998. v. II. p. 519-524."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Uma Comparação entre as Abordagens Determinística e Estocástica no Planejamento da Operação de uma Usin Hidroelétrica",
+          "autores": "CRUZ JÚNIOR, G. ; ; ; FARIA, A. ; ANDRADE FILHO, M. G. ; BARBOSA, P.",
+          "periodico": "In: XII Simpósio Brasileiro de Recursos Hídricos, 1995, Recife - PE. Anais do XII Simpósio Brasileiro de Recursos Hídricos, 1995.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; ; ; FARIA, A. ; ANDRADE FILHO, M. G. ; BARBOSA, P. . Uma Comparação entre as Abordagens Determinística e Estocástica no Planejamento da Operação de uma Usin Hidroelétrica. In: XII Simpósio Brasileiro de Recursos Hídricos, 1995, Recife - PE. Anais do XII Simpósio Brasileiro de Recursos Hídricos, 1995."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Regras de Operação de Reservatórios para o Planejamento da Operação Energética",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "In: XIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 1995, Camboriú - SC. Anais do XIII SNPTEE, 1995.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Regras de Operação de Reservatórios para o Planejamento da Operação Energética. In: XIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 1995, Camboriú - SC. Anais do XIII SNPTEE, 1995."
+        },
+        {
+          "ano": 1995,
+          "titulo": "Non-Parallel Composite Representation of Hydroelectric Systems for Long-Term Hydrothermal Scheduling",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "In: 1995 IEEE PICA - Power Industry Computer Applications Conference, 1995, Salt Lake City - Utah. Proceedings of the 1995 IEEE Power Industry Computer Applications Conference, 1995. v. I. p. 566-571.",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Non-Parallel Composite Representation of Hydroelectric Systems for Long-Term Hydrothermal Scheduling. In: 1995 IEEE PICA - Power Industry Computer Applications Conference, 1995, Salt Lake City - Utah. Proceedings of the 1995 IEEE Power Industry Computer Applications Conference, 1995. v. I. p. 566-571."
+        },
+        {
+          "ano": 1993,
+          "titulo": "Regras Otimizadas para Operação de Reservatórios em Sistemas Hidroelétricos",
+          "autores": "; CRUZ JÚNIOR, G. ; ; FERREIRA, R. F. ; ; KADOWAKI, M.",
+          "periodico": "In: XXV Simpósio Brasileiro de Pesquisa Operacional, 1993, Campinas - SP. Anais do XXV Simpósio Brasileiro de Pesquisa Operacional, 1993. p. 610-614.",
+          "doi": "",
+          "citacao_completa": "; CRUZ JÚNIOR, G. ; ; FERREIRA, R. F. ; ; KADOWAKI, M. . Regras Otimizadas para Operação de Reservatórios em Sistemas Hidroelétricos. In: XXV Simpósio Brasileiro de Pesquisa Operacional, 1993, Campinas - SP. Anais do XXV Simpósio Brasileiro de Pesquisa Operacional, 1993. p. 610-614."
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Performance analysis for a novel adaptive algorithm for real-time point cloud ground segmentation.",
+          "autores": "MARCON, G. A. ; FERRAO, V. T. ; ; CRUZ JR, G",
+          "periodico": "International Journal of Hybrid Intelligent Systems , 2016.",
+          "doi": "",
+          "citacao_completa": "MARCON, G. A. ; FERRAO, V. T. ; ; CRUZ JR, G . Performance analysis for a novel adaptive algorithm for real-time point cloud ground segmentation.. International Journal of Hybrid Intelligent Systems , 2016."
+        }
+      ]
+    },
+    {
+      "name": "Demais trabalhos",
+      "citations": [
+        {
+          "ano": 2001,
+          "titulo": "Sistema Inteligente para Suporte à Decisão em Projetos de Expansão",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "2001 (Projeto de Pesquisa) .",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Sistema Inteligente para Suporte à Decisão em Projetos de Expansão. 2001 (Projeto de Pesquisa) ."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Um Sistema de Apoio à Decisão Para o Estabelecimento de Contratos de Compra e Venda de Energia",
+          "autores": "CRUZ JÚNIOR, G. ;",
+          "periodico": "2001 (Projeto de Pesquisa) .",
+          "doi": "",
+          "citacao_completa": "CRUZ JÚNIOR, G. ; . Um Sistema de Apoio à Decisão Para o Estabelecimento de Contratos de Compra e Venda de Energia. 2001 (Projeto de Pesquisa) ."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": "Uma Abordagem para a Previsão de Carga Crítica do Sistema Elétrico Brasileiro",
+          "membros": "Cruz Jr., G. ; OHISHI, T.;",
+          "candidato": "Mateus Neves Barreto",
+          "citacao_completa": "Cruz Jr., G. ; OHISHI, T.; . Participação em banca de Mateus Neves Barreto. Uma Abordagem para a Previsão de Carga Crítica do Sistema Elétrico Brasileiro. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Implementação Eficiente de Otimização por Enxame de Partículas em Unidade de Processamento Gráfico Usando Memória de Baixa Latência",
+          "membros": "Cruz Jr., G. ; ; FERNANDES, S. M. M.",
+          "candidato": "Eric Moraes",
+          "citacao_completa": "Cruz Jr., G. ; ; FERNANDES, S. M. M.. Participação em banca de Eric Moraes. Implementação Eficiente de Otimização por Enxame de Partículas em Unidade de Processamento Gráfico Usando Memória de Baixa Latência. 2014. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Estratégia Robusta de Contratação de Energia Elétrica para Distribuidoras no Brasil",
+          "membros": "Cruz Jr., G. ; ; ARAUJO, H. X.; MARTINEZ, L.",
+          "candidato": "Petúnia Bezerra Lopes",
+          "citacao_completa": "Cruz Jr., G. ; ; ARAUJO, H. X.; MARTINEZ, L.. Participação em banca de Petúnia Bezerra Lopes. Estratégia Robusta de Contratação de Energia Elétrica para Distribuidoras no Brasil. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal da Bahia."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Uso de Reservoir Computing para Classificação e Previsão de Eventos Rampa",
+          "membros": "Cruz Jr., G. ; VALENCA, M. J. S.",
+          "candidato": "Tatyana Mendonça Pio dos Santos",
+          "citacao_completa": "Cruz Jr., G. ; VALENCA, M. J. S.. Participação em banca de Tatyana Mendonça Pio dos Santos. Uso de Reservoir Computing para Classificação e Previsão de Eventos Rampa. 2014. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Utilização de Reservoir Computing e Busca Harmônica para previsão de Vazões Médias Diárias",
+          "membros": "Cruz Jr., G. ; VALENCA, M. J. S.",
+          "candidato": "Edgar Wellington Marques de Almeida",
+          "citacao_completa": "Cruz Jr., G. ; VALENCA, M. J. S.. Participação em banca de Edgar Wellington Marques de Almeida. Utilização de Reservoir Computing e Busca Harmônica para previsão de Vazões Médias Diárias. 2014. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Previsão de Séries Financeiras Utilizando Reservoir Computing e Estratégia Evolutiva",
+          "membros": "Cruz Jr., G. ; VALENCA, M. J. S.",
+          "candidato": "Maxwell Queiroz Francisco",
+          "citacao_completa": "Cruz Jr., G. ; VALENCA, M. J. S.. Participação em banca de Maxwell Queiroz Francisco. Previsão de Séries Financeiras Utilizando Reservoir Computing e Estratégia Evolutiva. 2014. Dissertação (Mestrado em Engenharia da Computação) - Universidade de Pernambuco."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Verificação Funcional de Sistemas Digitais Utilizando Algoritmos Genéticos na Geração de Dados Aplicada à Metodologia VeriSC",
+          "membros": "SILVA, K. R. G.; ; Cruz Jr., G.",
+          "candidato": "Ricardo Augusto Pereira Franco",
+          "citacao_completa": "SILVA, K. R. G.; ; Cruz Jr., G. . Participação em banca de Ricardo Augusto Pereira Franco. Verificação Funcional de Sistemas Digitais Utilizando Algoritmos Genéticos na Geração de Dados Aplicada à Metodologia VeriSC. 2014. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Agentes para Suporte à Decisão Multicritério em Gestão Pública Participativa",
+          "membros": "BULCAO NETO, R. F.; ; Cruz Jr., G. ; SENE JUNIOR, I. G.",
+          "candidato": "Leonardo Afonso Amorim",
+          "citacao_completa": "BULCAO NETO, R. F.; ; Cruz Jr., G. ; SENE JUNIOR, I. G.. Participação em banca de Leonardo Afonso Amorim. Agentes para Suporte à Decisão Multicritério em Gestão Pública Participativa. 2014. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Modelo para Previsão de Demanda Ativa e Reativa Utilizando Técnicas de Seleção de Entradas e Redes Neurais Artificiais",
+          "membros": "OHISHI, T.; MENDES, E. L.; SILVA, L. C. P.; Cruz Jr., G.",
+          "candidato": "Edgar Fonseca Franco Junior",
+          "citacao_completa": "OHISHI, T.; MENDES, E. L.; SILVA, L. C. P.; Cruz Jr., G. . Participação em banca de Edgar Fonseca Franco Junior. Modelo para Previsão de Demanda Ativa e Reativa Utilizando Técnicas de Seleção de Entradas e Redes Neurais Artificiais. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Previsão de Cargas Elétricas Através de uma Rede Neural Híbrida Back-ART Fuzzy",
+          "membros": "Cruz Jr., G. ; ; SILVEIRA, M. C. G.",
+          "candidato": "Cícero Marcelo de Oliveira",
+          "citacao_completa": "Cruz Jr., G. ; ; SILVEIRA, M. C. G.. Participação em banca de Cícero Marcelo de Oliveira. Previsão de Cargas Elétricas Através de uma Rede Neural Híbrida Back-ART Fuzzy. 2012. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Rede Bayesiana para Estimação de Falhas Incipientes de Transformadores de Potência Utilizando Dados de Ensaios de Detecção de Descargas Parciais por Emissão Acústica",
+          "membros": "; ; Cruz Jr., G. ;",
+          "candidato": "Pedro Henrique da Silva Palhares",
+          "citacao_completa": "; ; Cruz Jr., G. ; . Participação em banca de Pedro Henrique da Silva Palhares. Rede Bayesiana para Estimação de Falhas Incipientes de Transformadores de Potência Utilizando Dados de Ensaios de Detecção de Descargas Parciais por Emissão Acústica. 2012. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Um Modelo de Pré-Despacho Hidrotérmico para Mercados de Energia",
+          "membros": "CRUZ JR, G ; NEPOMUCENO, L.;",
+          "candidato": "André Henrique Benetton Vergílio",
+          "citacao_completa": "CRUZ JR, G ; NEPOMUCENO, L.; . Participação em banca de André Henrique Benetton Vergílio. Um Modelo de Pré-Despacho Hidrotérmico para Mercados de Energia. 2011. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Descoberta Automatizada de Associações com o Uso do Algoritmo Apriori como Técnica de Mineração de Dados",
+          "membros": "; ; Cruz Jr., G.",
+          "candidato": "Derciley Cunha de Almeida",
+          "citacao_completa": "; ; Cruz Jr., G. . Participação em banca de Derciley Cunha de Almeida. Descoberta Automatizada de Associações com o Uso do Algoritmo Apriori como Técnica de Mineração de Dados. 2011. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Proposta de um Sistema Hipermídia Adaptativo Educacional para a Personalização do Processo de Ensino Através da WEB",
+          "membros": "; ; SILVA, J. C.; Cruz Jr., G.",
+          "candidato": "Alexandre Martins Ferreira Bueno",
+          "citacao_completa": "; ; SILVA, J. C.; Cruz Jr., G. . Participação em banca de Alexandre Martins Ferreira Bueno. Proposta de um Sistema Hipermídia Adaptativo Educacional para a Personalização do Processo de Ensino Através da WEB. 2011. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Automatização no Planejamento de Rede de Propagação de Sinal de Televisão Digital",
+          "membros": "; DANTAS, M. J. P.; Cruz Jr., G.",
+          "candidato": "Ciro José Almeida Macedo",
+          "citacao_completa": "; DANTAS, M. J. P.; Cruz Jr., G. . Participação em banca de Ciro José Almeida Macedo. Automatização no Planejamento de Rede de Propagação de Sinal de Televisão Digital. 2011. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Desenvolvimento de um Sistema Dinâmico para Predição de Cargas Elétricas por Redes Neurais Através do Paradigma de Programação Orientada a Objeto sob a Linguagem JAVA",
+          "membros": "Cruz Jr., G. ; ; SILVEIRA, M. C. G.",
+          "candidato": "José Roberto Campos",
+          "citacao_completa": "Cruz Jr., G. ; ; SILVEIRA, M. C. G.. Participação em banca de José Roberto Campos. Desenvolvimento de um Sistema Dinâmico para Predição de Cargas Elétricas por Redes Neurais Através do Paradigma de Programação Orientada a Objeto sob a Linguagem JAVA. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Programação Genética Aplicada no Processo de Descoberta de Conhecimento em Bases de Dados de Redes de Pesquisa",
+          "membros": "; OLIVEIRA, L. L. G.; Cruz Jr., G.",
+          "candidato": "Kedma Batista Duarte",
+          "citacao_completa": "; OLIVEIRA, L. L. G.; Cruz Jr., G. . Participação em banca de Kedma Batista Duarte. Programação Genética Aplicada no Processo de Descoberta de Conhecimento em Bases de Dados de Redes de Pesquisa. 2010. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistema Tutor Inteligente Baseado em Aprendizado por Reforço",
+          "membros": "; NALINI, L. E. G.; FLORES, E. L.; Cruz Jr., G.",
+          "candidato": "Ulisses Rodrigues Afonseca",
+          "citacao_completa": "; NALINI, L. E. G.; FLORES, E. L.; Cruz Jr., G. . Participação em banca de Ulisses Rodrigues Afonseca. Sistema Tutor Inteligente Baseado em Aprendizado por Reforço. 2007. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2006,
+          "titulo": "DYNAMIS: Framework de Simulação de Mercados Hidrotérmicos de Energia com Despacho Centralizado Baseado na Tecnologia Multiagentes",
+          "membros": "; NEGRI, J. C.; Cruz Jr., G.",
+          "candidato": "Eduardo Noronha de Andrade Freitas",
+          "citacao_completa": "; NEGRI, J. C.; Cruz Jr., G. . Participação em banca de Eduardo Noronha de Andrade Freitas. DYNAMIS: Framework de Simulação de Mercados Hidrotérmicos de Energia com Despacho Centralizado Baseado na Tecnologia Multiagentes. 2006. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Um Método para Avaliação de Projetos de Tecnologia no Setor Público e no Terceiro Setor",
+          "membros": "GUEDES, L. G. R.; SIQUEIRA, M. V. S.; Cruz Jr., G.",
+          "candidato": "Frederico Siqueira Guedes Coelho",
+          "citacao_completa": "GUEDES, L. G. R.; SIQUEIRA, M. V. S.; Cruz Jr., G. . Participação em banca de Frederico Siqueira Guedes Coelho. Um Método para Avaliação de Projetos de Tecnologia no Setor Público e no Terceiro Setor. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Otimização Inteligente de Controladores Nebulosos",
+          "membros": "; ; Cruz Jr., G.",
+          "candidato": "Estanislau Gonçalves Neto",
+          "citacao_completa": "; ; Cruz Jr., G. . Participação em banca de Estanislau Gonçalves Neto. Otimização Inteligente de Controladores Nebulosos. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Robótica Cooperativa para o Deslocamento de Caixas, sem o Uso da Comunicação",
+          "membros": "OLIVEIRA, M. A. A.; ; Cruz Jr., G.",
+          "candidato": "Karine Silva Matta",
+          "citacao_completa": "OLIVEIRA, M. A. A.; ; Cruz Jr., G. . Participação em banca de Karine Silva Matta. Robótica Cooperativa para o Deslocamento de Caixas, sem o Uso da Comunicação. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Modelo Não-Linear por Fluxo em Redes Aplicado ao Planejamento da Operação de Sistemas Hidrotérmicos de Potência",
+          "membros": "; ; Cruz Jr., G. ; NOGUEIRA, R. G.",
+          "candidato": "Leonardo Silveira de Albuquerque Martins",
+          "citacao_completa": "; ; Cruz Jr., G. ; NOGUEIRA, R. G.. Participação em banca de Leonardo Silveira de Albuquerque Martins. Modelo Não-Linear por Fluxo em Redes Aplicado ao Planejamento da Operação de Sistemas Hidrotérmicos de Potência. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Um Método para Avaliação de Maturidade de Habilidades Gerenciais em Empresas de Tecnologia Através da Teoria da Resposta ao Item",
+          "membros": "GUEDES, L. G. R.; FERREIRA, J. O.; Cruz Jr., G.",
+          "candidato": "Lucília Gomes Ribeiro",
+          "citacao_completa": "GUEDES, L. G. R.; FERREIRA, J. O.; Cruz Jr., G. . Participação em banca de Lucília Gomes Ribeiro. Um Método para Avaliação de Maturidade de Habilidades Gerenciais em Empresas de Tecnologia Através da Teoria da Resposta ao Item. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Sistema de Apoio à Composição de Dietas para Insuficientes Renais Utilizando Algoritmos Genéticos",
+          "membros": "; BARIONI, L. G.; Cruz Jr., G.",
+          "candidato": "Renata Luiza da Costa",
+          "citacao_completa": "; BARIONI, L. G.; Cruz Jr., G. . Participação em banca de Renata Luiza da Costa. Sistema de Apoio à Composição de Dietas para Insuficientes Renais Utilizando Algoritmos Genéticos. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Sistema Computacional para Cálculo de Perdas e Níveis de Tensão de Atendimento Utilizando Perfis Semanais",
+          "membros": "; FRANCO, P. E. C.; Cruz Jr., G. ;",
+          "candidato": "Luz Fernando da Cruz",
+          "citacao_completa": "; FRANCO, P. E. C.; Cruz Jr., G. ; . Participação em banca de Luz Fernando da Cruz. Sistema Computacional para Cálculo de Perdas e Níveis de Tensão de Atendimento Utilizando Perfis Semanais. 2005. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Sistemas Tutores Inteligentes Baseados em Redes MLP",
+          "membros": "; MARTELLI, I.; Cruz Jr., G.",
+          "candidato": "Marcelo Almeida Gonzaga",
+          "citacao_completa": "; MARTELLI, I.; Cruz Jr., G. . Participação em banca de Marcelo Almeida Gonzaga. Sistemas Tutores Inteligentes Baseados em Redes MLP. 2004. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Modelos de Inferência Nebulosa e Redes Neurais Aplicados ao Planejamento da Operação de Sistemas Hidrotérmicos de Potência",
+          "membros": "; ; ; Cruz Jr., G.",
+          "candidato": "Érica de Oliveira Carvalho",
+          "citacao_completa": "; ; ; Cruz Jr., G. . Participação em banca de Érica de Oliveira Carvalho. Modelos de Inferência Nebulosa e Redes Neurais Aplicados ao Planejamento da Operação de Sistemas Hidrotérmicos de Potência. 2004. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Sistemas Tutores Inteligentes Híbridos com Aprendizagem Cooperativa",
+          "membros": "; NALINI, L. E. G.; ; Cruz Jr., G.",
+          "candidato": "André Luiz Barreto Esperidião",
+          "citacao_completa": "; NALINI, L. E. G.; ; Cruz Jr., G. . Participação em banca de André Luiz Barreto Esperidião. Sistemas Tutores Inteligentes Híbridos com Aprendizagem Cooperativa. 2004. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Uso de Redes GSN para Ponderação das Variáveis de Entrada em Classificadores",
+          "membros": "; ; Cruz Jr., G.",
+          "candidato": "Luciano de Souza Miguel",
+          "citacao_completa": "; ; Cruz Jr., G. . Participação em banca de Luciano de Souza Miguel. Uso de Redes GSN para Ponderação das Variáveis de Entrada em Classificadores. 2004. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Sistema Inteligente Baseado em Regras para o Suporte à Análise de Alternativas Econômicas em Projetos de Expansão da Transmissão",
+          "membros": "; PINTO, J. O. P.; Cruz Jr., G.",
+          "candidato": "Márcio Giovane Cunha Fernandes",
+          "citacao_completa": "; PINTO, J. O. P.; Cruz Jr., G. . Participação em banca de Márcio Giovane Cunha Fernandes. Sistema Inteligente Baseado em Regras para o Suporte à Análise de Alternativas Econômicas em Projetos de Expansão da Transmissão. 2003. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Mineração de Dados Aplicada à Análise de Curvas de Carga",
+          "membros": "; OHISHI, T.; Cruz Jr., G.",
+          "candidato": "Daniela Zanon Marques",
+          "citacao_completa": "; OHISHI, T.; Cruz Jr., G. . Participação em banca de Daniela Zanon Marques. Mineração de Dados Aplicada à Análise de Curvas de Carga. 2003. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Mapas Auto-Organizáveis Aplicados a Sistemas Tutores Inteligentes",
+          "membros": "; GIRAFFA, L. M. M.; Cruz Jr., G.",
+          "candidato": "Sirlon Diniz de Carvalho",
+          "citacao_completa": "; GIRAFFA, L. M. M.; Cruz Jr., G. . Participação em banca de Sirlon Diniz de Carvalho. Mapas Auto-Organizáveis Aplicados a Sistemas Tutores Inteligentes. 2002. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Combinação de Melhoramentos em Classificadores Neurais Baseadas em Goal Seeking Neuron",
+          "membros": "; CARVALHO FILHO, E. C. B.; Cruz Jr., G.",
+          "candidato": "Carlos Galvão Pinheiro Júnior",
+          "citacao_completa": "; CARVALHO FILHO, E. C. B.; Cruz Jr., G. . Participação em banca de Carlos Galvão Pinheiro Júnior. Combinação de Melhoramentos em Classificadores Neurais Baseadas em Goal Seeking Neuron. 2001. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Ranking Baseado em Redes GSN",
+          "membros": "; VIEIRA, S. L.; Cruz Jr., G.",
+          "candidato": "Júnio César da Silva",
+          "citacao_completa": "; VIEIRA, S. L.; Cruz Jr., G. . Participação em banca de Júnio César da Silva. Ranking Baseado em Redes GSN. 2001. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Investigações em Sistemas Tutoriais Inteligentes Baseados em Redes Neurais Artifciais",
+          "membros": "; VICCARI, R. M.; Cruz Jr., G.",
+          "candidato": "Wilton Souza Alencar",
+          "citacao_completa": "; VICCARI, R. M.; Cruz Jr., G. . Participação em banca de Wilton Souza Alencar. Investigações em Sistemas Tutoriais Inteligentes Baseados em Redes Neurais Artifciais. 2001. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Redes Neurais Artificiais Aplicadas na Análise e Determinação do Estado de Veículo Acidentado",
+          "membros": "; LAMOUNIER JUNIOR, E. A.; Cruz Jr., G.",
+          "candidato": "Walter Xanthopulo",
+          "citacao_completa": "; LAMOUNIER JUNIOR, E. A.; Cruz Jr., G. . Participação em banca de Walter Xanthopulo. Redes Neurais Artificiais Aplicadas na Análise e Determinação do Estado de Veículo Acidentado. 2000. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Identificação de Tumores em Mamogramas através de Representações Wavelets",
+          "membros": "; CESAR JUNIOR, R. M.; Cruz Jr., G. ;",
+          "candidato": "Rubens de Castro Pereira",
+          "citacao_completa": "; CESAR JUNIOR, R. M.; Cruz Jr., G. ; . Participação em banca de Rubens de Castro Pereira. Identificação de Tumores em Mamogramas através de Representações Wavelets. 1999. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Identificação de Características Visuais Salientes em Imagens de Multirresolução",
+          "membros": "; MARAR, J. F.; Cruz Jr., G.",
+          "candidato": "Sandrerley Ramos Pires",
+          "citacao_completa": "; MARAR, J. F.; Cruz Jr., G. . Participação em banca de Sandrerley Ramos Pires. Identificação de Características Visuais Salientes em Imagens de Multirresolução. 1999. Dissertação (Mestrado em Engenharia Elétrica e de Computação) - Universidade Federal de Goiás."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "Análise de Clusters na Avaliação de Bancos",
+          "membros": "OHISHI, T.; LUNA, H. P. L.; FERREIRA, L. M.; ; Cruz Jr., G.",
+          "candidato": "José Leite da Silva Júnior",
+          "citacao_completa": "OHISHI, T.; LUNA, H. P. L.; FERREIRA, L. M.; ; Cruz Jr., G. . Participação em banca de José Leite da Silva Júnior. Análise de Clusters na Avaliação de Bancos. 2013. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Sistema Inteligente para Previsão de Carga Multinodal em Sistemas Elétricos de Potência",
+          "membros": "Cruz Jr., G. ; ; ; SILVEIRA, M. C. G.; BELATI, E. A.",
+          "candidato": "Alessandra Bonato Altran",
+          "citacao_completa": "Cruz Jr., G. ; ; ; SILVEIRA, M. C. G.; BELATI, E. A.. Participação em banca de Alessandra Bonato Altran. Sistema Inteligente para Previsão de Carga Multinodal em Sistemas Elétricos de Potência. 2010. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": ".Plano de Negócio em Engenharia: Estudo de Caso em Viabilidade de Implementação de uma Empresa no Ramo de Construção Civil",
+          "membros": "; Cruz Jr., G. ;",
+          "candidato": "Luciano Terencio Brito Xavier",
+          "citacao_completa": "; Cruz Jr., G. ; . Participação em banca de Luciano Terencio Brito Xavier.Plano de Negócio em Engenharia: Estudo de Caso em Viabilidade de Implementação de uma Empresa no Ramo de Construção Civil. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Compartilhamento de Recursos Multimídia",
+          "membros": "CASTRO, M. S.; Cruz Jr., G.",
+          "candidato": "Guilherme Rezende Deus",
+          "citacao_completa": "CASTRO, M. S.; Cruz Jr., G. . Participação em banca de Guilherme Rezende Deus.Compartilhamento de Recursos Multimídia. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Análise comportamental dos Investimentos de uma Distribuidora de Energia Elétrica no Contexto Atual do Sistema de Energia Elétrica Brasileiro",
+          "membros": "; Cruz Jr., G. ; VALLE, P. A. M.",
+          "candidato": "Ana Augusta Pereira Moura e Leonardo Gonçalves Cardoso",
+          "citacao_completa": "; Cruz Jr., G. ; VALLE, P. A. M.. Participação em banca de Ana Augusta Pereira Moura e Leonardo Gonçalves Cardoso.Análise comportamental dos Investimentos de uma Distribuidora de Energia Elétrica no Contexto Atual do Sistema de Energia Elétrica Brasileiro. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Sobrinho e Silvio Rodrigues F",
+          "membros": "; VALLE, P. A. M.; Cruz Jr., G.",
+          "candidato": "Cleverson Ezequiel S",
+          "citacao_completa": "; VALLE, P. A. M.; Cruz Jr., G. . Participação em banca de Cleverson Ezequiel S. Sobrinho e Silvio Rodrigues F. Júnior.Nova Tarifação e o Mercado de Energia em Bela Vista de Goiás. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Plano de Negócio - Martelo de Ouro",
+          "membros": "GUEDES, L. G. R.; Cruz Jr., G. ; OLIVEIRA, B. A. P.",
+          "candidato": "Caio César Amorim Borges e Murilo Correia de Oliveira",
+          "citacao_completa": "GUEDES, L. G. R.; Cruz Jr., G. ; OLIVEIRA, B. A. P.. Participação em banca de Caio César Amorim Borges e Murilo Correia de Oliveira.Plano de Negócio - Martelo de Ouro. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Uma Inferência Estatística Para o Preço Spot no Mercado de Energia Brasileiro",
+          "membros": "; Cruz Jr., G. ; MELO, F. F.",
+          "candidato": "Jairo Gomes Ribeiro Júnior",
+          "citacao_completa": "; Cruz Jr., G. ; MELO, F. F.. Participação em banca de Jairo Gomes Ribeiro Júnior.Uma Inferência Estatística Para o Preço Spot no Mercado de Energia Brasileiro. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Barbosa e Rony Barbosa Tomaz.Negócio em Tecnologia - TI",
+          "membros": "GUEDES, L. G. R.; Cruz Jr., G. ; ANDRADE, L. R.",
+          "candidato": "Alberto Paulo R",
+          "citacao_completa": "GUEDES, L. G. R.; Cruz Jr., G. ; ANDRADE, L. R.. Participação em banca de Alberto Paulo R. Barbosa e Rony Barbosa Tomaz.Negócio em Tecnologia - TI. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Plano de Negócio em Tecnologia - Fácil de Comprar",
+          "membros": "GUEDES, L. G. R.; Cruz Jr., G. ; ANDRADE, L. R.",
+          "candidato": "Raynner Ribeiro Silva",
+          "citacao_completa": "GUEDES, L. G. R.; Cruz Jr., G. ; ANDRADE, L. R.. Participação em banca de Raynner Ribeiro Silva.Plano de Negócio em Tecnologia - Fácil de Comprar. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Automação de Instalações Elétricas via WEB usando Micro Controlador",
+          "membros": "; OLIVEIRA, M. A. A.; Cruz Jr., G.",
+          "candidato": "Danilo Rodrigues Carvalho e Marcelo de Oliveira Neves",
+          "citacao_completa": "; OLIVEIRA, M. A. A.; Cruz Jr., G. . Participação em banca de Danilo Rodrigues Carvalho e Marcelo de Oliveira Neves.Automação de Instalações Elétricas via WEB usando Micro Controlador. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Plano de Negócios em Tecnologia - MAPES",
+          "membros": "GUEDES, L. G. R.; Cruz Jr., G. ; SANTOS JUNIOR, P. R.",
+          "candidato": "Breno Antonelli Parreira de Oliveira",
+          "citacao_completa": "GUEDES, L. G. R.; Cruz Jr., G. ; SANTOS JUNIOR, P. R.. Participação em banca de Breno Antonelli Parreira de Oliveira.Plano de Negócios em Tecnologia - MAPES. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Análise do Problema de Previsão do Preço Spot no Mercado de Energia Elétrica no Brasil",
+          "membros": "; Cruz Jr., G. ;",
+          "candidato": "Larissa Luize de Faria e Renato Oliveira Lustosa",
+          "citacao_completa": "; Cruz Jr., G. ; . Participação em banca de Larissa Luize de Faria e Renato Oliveira Lustosa.Análise do Problema de Previsão do Preço Spot no Mercado de Energia Elétrica no Brasil. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2010,
+          "titulo": "da Cruz Lima e Maurício Barros de Jesus.Sistemas de Segurança com Webcam - Siscam",
+          "membros": "; SILVA, K. R. G.; Cruz Jr., G.",
+          "candidato": "Pablo Leonardo M",
+          "citacao_completa": "; SILVA, K. R. G.; Cruz Jr., G. . Participação em banca de Pablo Leonardo M. da Cruz Lima e Maurício Barros de Jesus.Sistemas de Segurança com Webcam - Siscam. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Análise de Desempenho da Execução de Aplicativos em Clusters",
+          "membros": "CASTRO, M. S.; Cruz Jr., G. ;",
+          "candidato": "Guaracy Cunha de Souza e Wesley José Brasil",
+          "citacao_completa": "CASTRO, M. S.; Cruz Jr., G. ; . Participação em banca de Guaracy Cunha de Souza e Wesley José Brasil.Análise de Desempenho da Execução de Aplicativos em Clusters. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Um Framework para Avaliação de Estratégias de Investimentos no Mercado Acionário Brasileiro",
+          "membros": "; Cruz Jr., G.",
+          "candidato": "Lauro Ramos Gomide e Alan Caio Rodrigues",
+          "citacao_completa": "; Cruz Jr., G. . Participação em banca de Lauro Ramos Gomide e Alan Caio Rodrigues.Um Framework para Avaliação de Estratégias de Investimentos no Mercado Acionário Brasileiro. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Uma Implementação de um Simulador a Usinas Individualizadas do Setor Elétrico Brasileiro",
+          "membros": "; Cruz Jr., G.",
+          "candidato": "Eduardo Francisco Barbosa",
+          "citacao_completa": "; Cruz Jr., G. . Participação em banca de Eduardo Francisco Barbosa.Uma Implementação de um Simulador a Usinas Individualizadas do Setor Elétrico Brasileiro. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Sistema e Estimativa do Consumo de Energia Elétrica e Água",
+          "membros": "NERYS, J. W. L.; SANTOS, E. B.; Cruz Jr., G.",
+          "candidato": "Gustavo Lopes Fernandes Godoi e Marcos Vinícius Dias Nunes",
+          "citacao_completa": "NERYS, J. W. L.; SANTOS, E. B.; Cruz Jr., G. . Participação em banca de Gustavo Lopes Fernandes Godoi e Marcos Vinícius Dias Nunes.Sistema e Estimativa do Consumo de Energia Elétrica e Água. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".FATSIM - Sistema para Processamento de Arquivos da SANEAGO",
+          "membros": "OLIVEIRA, J. L.; ; Cruz Jr., G.",
+          "candidato": "Tiago Lopes de Aguiar",
+          "citacao_completa": "OLIVEIRA, J. L.; ; Cruz Jr., G. . Participação em banca de Tiago Lopes de Aguiar.FATSIM - Sistema para Processamento de Arquivos da SANEAGO. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Palhares.Acesso a Internet em Sistemas Micro controlados",
+          "membros": "ARAUJO, S. G.; Cruz Jr., G. ; CARNEIRO, M. L.",
+          "candidato": "Pedro Henrique da S",
+          "citacao_completa": "ARAUJO, S. G.; Cruz Jr., G. ; CARNEIRO, M. L.. Participação em banca de Pedro Henrique da S. Palhares.Acesso a Internet em Sistemas Micro controlados. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Algoritmo de Busca Tabu Aplicado na Alocação e Realocação de Chaves de Manobras em Redes de Distribuição de Energia Elétrica",
+          "membros": "; Cruz Jr., G. ; SILVA, L. G. W.",
+          "candidato": "Ruarc Douglas Ferreira Fonseca",
+          "citacao_completa": "; Cruz Jr., G. ; SILVA, L. G. W.. Participação em banca de Ruarc Douglas Ferreira Fonseca.Algoritmo de Busca Tabu Aplicado na Alocação e Realocação de Chaves de Manobras em Redes de Distribuição de Energia Elétrica. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Alarme Inteligente Para Veículos Automotores",
+          "membros": "NOGUEIRA, R. G.; Cruz Jr., G. ;",
+          "candidato": "Ricardo Pereira Estrela",
+          "citacao_completa": "NOGUEIRA, R. G.; Cruz Jr., G. ; . Participação em banca de Ricardo Pereira Estrela.Alarme Inteligente Para Veículos Automotores. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia de Computação) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Algorítimo Genético Aplicado na Alocação e Realocação de Chaves de Manobras em Redes de Distribuição de Energia Elétrica",
+          "membros": "; SILVA, L. G. W.; Cruz Jr., G.",
+          "candidato": "Leandro Augusto Ribeiro Machado",
+          "citacao_completa": "; SILVA, L. G. W.; Cruz Jr., G. . Participação em banca de Leandro Augusto Ribeiro Machado.Algorítimo Genético Aplicado na Alocação e Realocação de Chaves de Manobras em Redes de Distribuição de Energia Elétrica. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Otimização Aplicada a Logística Empresarial",
+          "membros": "FARIA, K. A. C.; Cruz Jr., G. ;",
+          "candidato": "Rodrigo César Arantes de Oliveira e Jean Barros e Silva",
+          "citacao_completa": "FARIA, K. A. C.; Cruz Jr., G. ; . Participação em banca de Rodrigo César Arantes de Oliveira e Jean Barros e Silva.Otimização Aplicada a Logística Empresarial. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Técnicas Computacionais Aplicadas ao Controle da Infestação Localizadas de Plantas Daninhas",
+          "membros": "; Cruz Jr., G. ; FARIA, K. A. C.",
+          "candidato": "Domingos da Silva Chaves Júnior e Marlos Alevy Brito Melo",
+          "citacao_completa": "; Cruz Jr., G. ; FARIA, K. A. C.. Participação em banca de Domingos da Silva Chaves Júnior e Marlos Alevy Brito Melo.Técnicas Computacionais Aplicadas ao Controle da Infestação Localizadas de Plantas Daninhas. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Identificação de Comportamentos Dinâmicos Através de Simulações no Simulink/Matlab usando o C++",
+          "membros": "NOGUEIRA, R. G.; OLIVEIRA, M. A. A.; Cruz Jr., G.",
+          "candidato": "Gildésio Brandão dos Santos",
+          "citacao_completa": "NOGUEIRA, R. G.; OLIVEIRA, M. A. A.; Cruz Jr., G. . Participação em banca de Gildésio Brandão dos Santos.Identificação de Comportamentos Dinâmicos Através de Simulações no Simulink/Matlab usando o C++. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Implementação de Agentes Móveis Para o Controle de Tráfego num LSP",
+          "membros": "; Cruz Jr., G. ; DEUS JUNIOR, G. A.",
+          "candidato": "Bruno Pereira Rios",
+          "citacao_completa": "; Cruz Jr., G. ; DEUS JUNIOR, G. A.. Participação em banca de Bruno Pereira Rios.Implementação de Agentes Móveis Para o Controle de Tráfego num LSP. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Monteiro.Controle de Tráfego Urbano Usando Inteligência Artificial",
+          "membros": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G.",
+          "candidato": "Luiz Humberto Sousa Rezende e Breyner Jackson R",
+          "citacao_completa": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G. . Participação em banca de Luiz Humberto Sousa Rezende e Breyner Jackson R. Monteiro.Controle de Tráfego Urbano Usando Inteligência Artificial. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Construção de um Periférico para Transposição de Slides Utilizando Ondas de Rádio",
+          "membros": "NOGUEIRA, R. G.; ; Cruz Jr., G.",
+          "candidato": "Clerismar Duarte Mota e Elvis Rodrigues Ribeiro Silva",
+          "citacao_completa": "NOGUEIRA, R. G.; ; Cruz Jr., G. . Participação em banca de Clerismar Duarte Mota e Elvis Rodrigues Ribeiro Silva.Construção de um Periférico para Transposição de Slides Utilizando Ondas de Rádio. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Automação do Processo de Análise e Controle do Diferencial de Pressão de Selos Mecânicos",
+          "membros": "NOGUEIRA, R. G.; ; Cruz Jr., G.",
+          "candidato": "Igor Barbosa Araújo e Ygor Luiz Nunes Braga",
+          "citacao_completa": "NOGUEIRA, R. G.; ; Cruz Jr., G. . Participação em banca de Igor Barbosa Araújo e Ygor Luiz Nunes Braga.Automação do Processo de Análise e Controle do Diferencial de Pressão de Selos Mecânicos. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Ambiente de Simulação de Robôs",
+          "membros": "NOGUEIRA, R. G.; ; Cruz Jr., G.",
+          "candidato": "Gustavo Gondin Peixoto Pinheiro e Rafael Ferreira Berquó",
+          "citacao_completa": "NOGUEIRA, R. G.; ; Cruz Jr., G. . Participação em banca de Gustavo Gondin Peixoto Pinheiro e Rafael Ferreira Berquó.Ambiente de Simulação de Robôs. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2005,
+          "titulo": ".Um Framework para o Mapeamento Objeto-Relacional",
+          "membros": "FARIA, K. A. C.; Cruz Jr., G. ;",
+          "candidato": "Diogo Pereira Veloso e Saymonn Flitz de Souza Santos",
+          "citacao_completa": "FARIA, K. A. C.; Cruz Jr., G. ; . Participação em banca de Diogo Pereira Veloso e Saymonn Flitz de Souza Santos.Um Framework para o Mapeamento Objeto-Relacional. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Desenvolvimento de um Time de Futebol de Robôs Categoria Mirosot - Time 02",
+          "membros": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G.",
+          "candidato": "Breno Rangel Borges Marchetti",
+          "citacao_completa": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G. . Participação em banca de Breno Rangel Borges Marchetti.Desenvolvimento de um Time de Futebol de Robôs Categoria Mirosot - Time 02. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Desenvolvimento de um Time de Futebol de Robôs Categoria Mirosot - Time 01",
+          "membros": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G.",
+          "candidato": "José Roberto Del Bianco e Luzia Moreira de Abreu Dourado",
+          "citacao_completa": "OLIVEIRA, M. A. A.; NOGUEIRA, R. G.; Cruz Jr., G. . Participação em banca de José Roberto Del Bianco e Luzia Moreira de Abreu Dourado.Desenvolvimento de um Time de Futebol de Robôs Categoria Mirosot - Time 01. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Análise de Protocolos na Área de Gerência de Redes (SNMP e RMON)",
+          "membros": "; Cruz Jr., G. ; ROSA, A.",
+          "candidato": "João Wesley Monteiro e Clayton Araújo Freitas",
+          "citacao_completa": "; Cruz Jr., G. ; ROSA, A.. Participação em banca de João Wesley Monteiro e Clayton Araújo Freitas.Análise de Protocolos na Área de Gerência de Redes (SNMP e RMON). 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Processamento Paralelo em Ambiente Linux",
+          "membros": "; OLIVEIRA, M. A. A.; Cruz Jr., G.",
+          "candidato": "Giscar Fernandes Vicente de Paiva e Raphael Paiva Justo",
+          "citacao_completa": "; OLIVEIRA, M. A. A.; Cruz Jr., G. . Participação em banca de Giscar Fernandes Vicente de Paiva e Raphael Paiva Justo.Processamento Paralelo em Ambiente Linux. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Programa Computacional Reutilizável para Suporte às Atividades de Planejamento da Operação de Sistemas Hidrotérmicos de Potência",
+          "membros": "; ; Cruz Jr., G.",
+          "candidato": "Thiago Rodrigues Miranda",
+          "citacao_completa": "; ; Cruz Jr., G. . Participação em banca de Thiago Rodrigues Miranda.Programa Computacional Reutilizável para Suporte às Atividades de Planejamento da Operação de Sistemas Hidrotérmicos de Potência. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Gestão Sistêmica de Propriedades de Produção de Gado de Corte",
+          "membros": "; Cruz Jr., G. ;",
+          "candidato": "Alexandre Martins Ferreira Bueno",
+          "citacao_completa": "; Cruz Jr., G. ; . Participação em banca de Alexandre Martins Ferreira Bueno.Gestão Sistêmica de Propriedades de Produção de Gado de Corte. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Introdução a Bio Informática",
+          "membros": "OLIVEIRA, M. A. A.; Cruz Jr., G. ; CASTRO, M. S.",
+          "candidato": "Weslley Francisco Machado de Nápoli",
+          "citacao_completa": "OLIVEIRA, M. A. A.; Cruz Jr., G. ; CASTRO, M. S.. Participação em banca de Weslley Francisco Machado de Nápoli.Introdução a Bio Informática. 2003. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Data Ware House e as Outras Tecnologias do CRM",
+          "membros": "NOGUEIRA, R. G.; ; Cruz Jr., G.",
+          "candidato": "Marco José Marqui e Rogério Jesus Alves de Oliveira",
+          "citacao_completa": "NOGUEIRA, R. G.; ; Cruz Jr., G. . Participação em banca de Marco José Marqui e Rogério Jesus Alves de Oliveira.Data Ware House e as Outras Tecnologias do CRM. 2003. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Desenvolvimento de um Site para Acompanhamento de Estágio e Projetos Finais Utilizando PHP",
+          "membros": "; QUEIROZ, L. R.; Cruz Jr., G.",
+          "candidato": "Jader Ferreira das Neves",
+          "citacao_completa": "; QUEIROZ, L. R.; Cruz Jr., G. . Participação em banca de Jader Ferreira das Neves.Desenvolvimento de um Site para Acompanhamento de Estágio e Projetos Finais Utilizando PHP. 2003. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2002,
+          "titulo": ".IP e Telefonia: Métricas Comumente Utilizadas e Efeitos na Qualidade de Serviço",
+          "membros": "; Cruz Jr., G. ; OLIVEIRA, M. A. A.",
+          "candidato": "João Gustavo Goiano Dantas",
+          "citacao_completa": "; Cruz Jr., G. ; OLIVEIRA, M. A. A.. Participação em banca de João Gustavo Goiano Dantas.IP e Telefonia: Métricas Comumente Utilizadas e Efeitos na Qualidade de Serviço. 2002. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".WAP - Introdução à Tecnologia, Funcionamento, Aplicações, Perspectivas",
+          "membros": "; Cruz Jr., G. ; PRUDENTE, H. A.",
+          "candidato": "Alcides Robson Ferreira e Marcel Cavalcanti Castro",
+          "citacao_completa": "; Cruz Jr., G. ; PRUDENTE, H. A.. Participação em banca de Alcides Robson Ferreira e Marcel Cavalcanti Castro.WAP - Introdução à Tecnologia, Funcionamento, Aplicações, Perspectivas. 2001. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Goiás."
+        }
+      ]
+    }
+  ]
+}

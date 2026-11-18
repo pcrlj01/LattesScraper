@@ -1,0 +1,575 @@
+{
+  "name": "Luciano de Macedo Barros",
+  "lattes_id": "6073167191737882",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Open-End Unidirectional Topologies with Reduced Controlled Switch Count",
+          "autores": "REZENDE DE SOUSA, REUBEN PALMER ; JACOBINA, CURSINO BRANDAO ; DA COSTA BAHIA, FILIPE ANTONIO ; BARROS, LUCIANO DE MACEDO",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. 1, p. 1-1, 2018.",
+          "doi": "http://dx.doi.org/10.1109/tia.2018.2889839",
+          "citacao_completa": "REZENDE DE SOUSA, REUBEN PALMER ; JACOBINA, CURSINO BRANDAO ; DA COSTA BAHIA, FILIPE ANTONIO ; BARROS, LUCIANO DE MACEDO . Open-End Unidirectional Topologies with Reduced Controlled Switch Count. IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. 1, p. 1-1, 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Carrier Based PWM Technique for Capacitor Voltage Balancing of Single-Phase Three-level Neutral-Point-Clamped Converters",
+          "autores": "DE FREITAS, ISAAC SOARES ; BANDEIRA, MARCOS MOURA ; BARROS, LUCIANO DE MACEDO ; JACOBINA, CURSINO BRANDAO ; SANTOS, EUZELI ; SALVADORI, FABIANO ; DA SILVA, SIMPLICIO A",
+          "periodico": "IEEE Transactions on Industry Applications , v. PP, p. 1-1, 2015.",
+          "doi": "http://dx.doi.org/10.1109/tia.2014.2387473",
+          "citacao_completa": "DE FREITAS, ISAAC SOARES ; BANDEIRA, MARCOS MOURA ; BARROS, LUCIANO DE MACEDO ; JACOBINA, CURSINO BRANDAO ; SANTOS, EUZELI ; SALVADORI, FABIANO ; DA SILVA, SIMPLICIO A . A Carrier Based PWM Technique for Capacitor Voltage Balancing of Single-Phase Three-level Neutral-Point-Clamped Converters. IEEE Transactions on Industry Applications , v. PP, p. 1-1, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Three-Phase to Three-Phase AC/AC DC-Link Five-Leg Converters Based on Three- and Two-Level Legs",
+          "autores": "L. de M. Barros ; Jacobina, Cursino B. ; OLIVEIRA, A. C. ; DE FREITAS, ISAAC SOARES ;",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. PP, p. 521-530, 2015.",
+          "doi": "",
+          "citacao_completa": "L. de M. Barros ; Jacobina, Cursino B. ; OLIVEIRA, A. C. ; DE FREITAS, ISAAC SOARES ; . Three-Phase to Three-Phase AC/AC DC-Link Five-Leg Converters Based on Three- and Two-Level Legs. IEEE TRANSACTIONS ON INDUSTRY APPLICATIONS , v. PP, p. 521-530, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Phase-Controlled Three-Phase Rectifiers Without Grid Synchronization: A New Approach",
+          "autores": "DE LIRA, JARLISSON ; SOUZA, MARCOS ; CARVALHO, ELYSON ; BARROS, LUCIANO",
+          "periodico": "In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/inscit62583.2024.10693415",
+          "citacao_completa": "DE LIRA, JARLISSON ; SOUZA, MARCOS ; CARVALHO, ELYSON ; BARROS, LUCIANO . Phase-Controlled Three-Phase Rectifiers Without Grid Synchronization: A New Approach. In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1."
+        },
+        {
+          "ano": 2024,
+          "titulo": "A Filtering Perspective to SAPF Control for Current Harmonic Mitigation",
+          "autores": "SANTOS, ERIK ; BASTOS, GABRIEL ; CARVALHO, ELYSON ; MACIEL, ALVARO ; BARROS, LUCIANO",
+          "periodico": "In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/inscit62583.2024.10693414",
+          "citacao_completa": "SANTOS, ERIK ; BASTOS, GABRIEL ; CARVALHO, ELYSON ; MACIEL, ALVARO ; BARROS, LUCIANO . A Filtering Perspective to SAPF Control for Current Harmonic Mitigation. In: 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024, Joao Pessoa. 2024 8th International Symposium on Instrumentation Systems, Circuits and Transducers (INSCIT), 2024. p. 1."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Comparative analysis of cascaded inverters based on 5-level and 3-level H-bridges",
+          "autores": "SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; BAHIA, FILIPE A. C. ; Barros, Luciano M.",
+          "periodico": "In: 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017, Cincinnati. 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017. p. 2161.",
+          "doi": "http://dx.doi.org/10.1109/ecce.2017.8096426",
+          "citacao_completa": "SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; BAHIA, FILIPE A. C. ; Barros, Luciano M. . Comparative analysis of cascaded inverters based on 5-level and 3-level H-bridges. In: 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017, Cincinnati. 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017. p. 2161."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Series connected three-phase AC-DC power converters",
+          "autores": "SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; Barros, Luciano M.",
+          "periodico": "In: 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017, Cincinnati. 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017. p. 2787.",
+          "doi": "http://dx.doi.org/10.1109/ecce.2017.8096520",
+          "citacao_completa": "SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; Barros, Luciano M. . Series connected three-phase AC-DC power converters. In: 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017, Cincinnati. 2017 IEEE Energy Conversion Congress and Exposition (ECCE), 2017. p. 2787."
+        },
+        {
+          "ano": 2017,
+          "titulo": "A control technique to balance the voltage of DC-link for three-level NPC converter",
+          "autores": "ANDRADE, A. S. ; MACIEL, A. M. ; Barros, L. de M. ; VIEIRA, M. A. DO N. ; DE SOUSA, R. P. R.",
+          "periodico": "In: 2017 Brazilian Power Electronics Conference (COBEP), 2017, Juiz de Fora. 2017 Brazilian Power Electronics Conference (COBEP), 2017. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/cobep.2017.8257252",
+          "citacao_completa": "ANDRADE, A. S. ; MACIEL, A. M. ; Barros, L. de M. ; VIEIRA, M. A. DO N. ; DE SOUSA, R. P. R. . A control technique to balance the voltage of DC-link for three-level NPC converter. In: 2017 Brazilian Power Electronics Conference (COBEP), 2017, Juiz de Fora. 2017 Brazilian Power Electronics Conference (COBEP), 2017. p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Modulação Vetorial Algébrica para Inversor de Quatro-Níveis do Tipo Neutro Grampeado",
+          "autores": "Andrade, Abinadabe S. ; ; BARROS, LUCIANO DE M.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2016, Vitória/ES. Congresso Brasileiro de Automática, 2016.",
+          "doi": "",
+          "citacao_completa": "Andrade, Abinadabe S. ; ; BARROS, LUCIANO DE M. . Modulação Vetorial Algébrica para Inversor de Quatro-Níveis do Tipo Neutro Grampeado. In: Congresso Brasileiro de Automática, 2016, Vitória/ES. Congresso Brasileiro de Automática, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "DVR with five-level converter based on three-and two-level legs connections",
+          "autores": "CARLOS, GREGORY A. A. ; DOS SANTOS, EUZELI C. ; SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; Barros, Luciano M. ; OLIVEIRA, ALEXANDRE C.",
+          "periodico": "In: 2015 IEEE Energy Conversion Congress and Exposition, 2015, Montreal. 2015 IEEE Energy Conversion Congress and Exposition (ECCE), 2015. p. 5474.",
+          "doi": "http://dx.doi.org/10.1109/ecce.2015.7310430",
+          "citacao_completa": "CARLOS, GREGORY A. A. ; DOS SANTOS, EUZELI C. ; SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; Barros, Luciano M. ; OLIVEIRA, ALEXANDRE C. . DVR with five-level converter based on three-and two-level legs connections. In: 2015 IEEE Energy Conversion Congress and Exposition, 2015, Montreal. 2015 IEEE Energy Conversion Congress and Exposition (ECCE), 2015. p. 5474."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Three-phase drive systems based on OEW configurations with reduced controlled switch count",
+          "autores": "CARLOS, GREGORY A. A. ; SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; MELLO, JOAO P. R. A. ; Barros, Luciano M. ; OLIVEIRA, ALEXANDRE C.",
+          "periodico": "In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/cobep.2015.7420110",
+          "citacao_completa": "CARLOS, GREGORY A. A. ; SOUSA, REUBEN P. R. ; JACOBINA, CURSINO B. ; MELLO, JOAO P. R. A. ; Barros, Luciano M. ; OLIVEIRA, ALEXANDRE C. . Three-phase drive systems based on OEW configurations with reduced controlled switch count. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Three-phase/four-wire dc/ac converters based on three- and two-level legs",
+          "autores": "BARROS, LUCIANO DE M. ; JACOBINA, CURSINO B. ; OLIVEIRA, ALEXANDRE C. ; CARLOS, GREGORY A. A. ; SOUSA, REUBEN P. R.",
+          "periodico": "In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/cobep.2015.7420258",
+          "citacao_completa": "BARROS, LUCIANO DE M. ; JACOBINA, CURSINO B. ; OLIVEIRA, ALEXANDRE C. ; CARLOS, GREGORY A. A. ; SOUSA, REUBEN P. R. . Three-phase/four-wire dc/ac converters based on three- and two-level legs. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A carrier based PWM technique for capacitor voltage balancing of single-phase three-level neutral-point-clamped converters",
+          "autores": "FREITAS, ISAAC S. ; BANDEIRA, MARCOS M. ; SALVADORI, FABIANO ; DA SILVA, SIMPLICIO A. ; BARROS, LUCIANO ; JACOBINA, CURSINO B. ; DOS SANTOS, EUZELI C.",
+          "periodico": "In: 2014 IEEE Applied Power Electronics Conference and Exposition APEC 2014, 2014, Fort Worth. 2014 IEEE Applied Power Electronics Conference and Exposition - APEC 2014, 2014. p. 2762.",
+          "doi": "http://dx.doi.org/10.1109/APEC.2014.6803695",
+          "citacao_completa": "FREITAS, ISAAC S. ; BANDEIRA, MARCOS M. ; SALVADORI, FABIANO ; DA SILVA, SIMPLICIO A. ; BARROS, LUCIANO ; JACOBINA, CURSINO B. ; DOS SANTOS, EUZELI C. . A carrier based PWM technique for capacitor voltage balancing of single-phase three-level neutral-point-clamped converters. In: 2014 IEEE Applied Power Electronics Conference and Exposition APEC 2014, 2014, Fort Worth. 2014 IEEE Applied Power Electronics Conference and Exposition - APEC 2014, 2014. p. 2762."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Three-phase to three-phase AC/AC De-link converters based on three-level and two-level legs",
+          "autores": "BARROS, L. M. ; JACOBINA, C. B. ; OLIVEIRA, A. C. ; DE FREITAS, I. S. ; DA SILVA, E. R. C.",
+          "periodico": "In: 2013 IEEE Energy Conversion Congress and Exposition (ECCE), 2013, Denver. 2013 IEEE Energy Conversion Congress and Exposition. p. 5320.",
+          "doi": "http://dx.doi.org/10.1109/ECCE.2013.6647422",
+          "citacao_completa": "BARROS, L. M. ; JACOBINA, C. B. ; OLIVEIRA, A. C. ; DE FREITAS, I. S. ; DA SILVA, E. R. C. . Three-phase to three-phase AC/AC De-link converters based on three-level and two-level legs. In: 2013 IEEE Energy Conversion Congress and Exposition (ECCE), 2013, Denver. 2013 IEEE Energy Conversion Congress and Exposition. p. 5320."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Pulse width modulation for reduction of power losses in three-phase neutral point clamped inverters",
+          "autores": "ANDRADE, ABINADABE S. ; Barros, Luciano M. ; DA SILVA, EDISON R. C. ; JACOBINA, CURSINO B.",
+          "periodico": "In: 2012 IEEE Energy Conversion Congress and Exposition (ECCE), 2012, Raleigh. 2012 IEEE Energy Conversion Congress and Exposition (ECCE).",
+          "doi": "http://dx.doi.org/10.1109/ECCE.2012.6342601",
+          "citacao_completa": "ANDRADE, ABINADABE S. ; Barros, Luciano M. ; DA SILVA, EDISON R. C. ; JACOBINA, CURSINO B. . Pulse width modulation for reduction of power losses in three-phase neutral point clamped inverters. In: 2012 IEEE Energy Conversion Congress and Exposition (ECCE), 2012, Raleigh. 2012 IEEE Energy Conversion Congress and Exposition (ECCE)."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Modulação Híbrida para Balanceamento da Tensão nos Capacitores do Barramento CC de um Inversor de Três Níveis do Tipo NPC",
+          "autores": "BARROS, L. M. ; Andrade, Abinadabe S. ; ; Jacobina, Cursino B.",
+          "periodico": "In: Congresso Brasileiro de Automática - CBA, 2012, Campina Grande. XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "BARROS, L. M. ; Andrade, Abinadabe S. ; ; Jacobina, Cursino B. . Modulação Híbrida para Balanceamento da Tensão nos Capacitores do Barramento CC de um Inversor de Três Níveis do Tipo NPC. In: Congresso Brasileiro de Automática - CBA, 2012, Campina Grande. XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Análise do Desempenho do Inversor de 3 Níveis do Tipo NPC para Vários Pontos de Operação",
+          "autores": "Andrade, Abinadabe S. ; BARROS, L. M. ; ; Jacobina, Cursino B.",
+          "periodico": "In: Congresso Brasileiro de Automática - CBA, 2012, Campina Grande. XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "Andrade, Abinadabe S. ; BARROS, L. M. ; ; Jacobina, Cursino B. . Análise do Desempenho do Inversor de 3 Níveis do Tipo NPC para Vários Pontos de Operação. In: Congresso Brasileiro de Automática - CBA, 2012, Campina Grande. XIX Congresso Brasileiro de Automática, 2012."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "Modulação Híbrida para Balanceamento da Tensão nos Capacitores do Barramento CC de um Inversor de Três Níveis do Tipo NPC",
+          "autores": "Barros, Luciano M. ; Andrade, Abinadabe S. ; DA SILVA, EDISON R. C. ; JACOBINA, CURSINO B.",
+          "periodico": "2012. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Barros, Luciano M. ; Andrade, Abinadabe S. ; DA SILVA, EDISON R. C. ; JACOBINA, CURSINO B. . Modulação Híbrida para Balanceamento da Tensão nos Capacitores do Barramento CC de um Inversor de Três Níveis do Tipo NPC. 2012. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Modulação Universal",
+          "autores": "BARROS, L. M. ; OLIVEIRA, A. C.",
+          "periodico": "2008. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "BARROS, L. M. ; OLIVEIRA, A. C. . Modulação Universal. 2008. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Geração fotovoltaica ongrid com compensação de harmônicos e correção do fator de potência",
+          "membros": "R. R. Matias; ALEXANDRE, F. M.; L. de M. Barros",
+          "candidato": "Marcelo Lopes Vieira Bezerra",
+          "citacao_completa": "R. R. Matias; ALEXANDRE, F. M.; L. de M. Barros . Participação em banca de Marcelo Lopes Vieira Bezerra. Geração fotovoltaica ongrid com compensação de harmônicos e correção do fator de potência. 2022. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Piauí."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Identificação de distúrbios em sistemas de distribuição exclusivamente baseada nos sinais de corrente",
+          "membros": "FERREIRA, T. V.; CARDOSO, C. A. V.; Brito, N. S. D.; de M. Barros, L.",
+          "candidato": "Talita Santos Alves",
+          "citacao_completa": "FERREIRA, T. V.; CARDOSO, C. A. V.; Brito, N. S. D.; de M. Barros, L. . Participação em banca de Talita Santos Alves. Identificação de distúrbios em sistemas de distribuição exclusivamente baseada nos sinais de corrente. 2020. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "APLICAÇÃO E COMPARAÇÃO DE TÉCNICAS DE DIAGNÓSTICO E DETECÇÃO DE FALHAS EM MOTORES ELÉTRICOS DE INDUÇÃO BASEADOS EM ASSINATURA DE CORRENTE",
+          "membros": "A. S. Fontes; CARDOSO, C. A. V.; A. A. Souza; de M. Barros, L. ; F. Salvadori",
+          "candidato": "Abrahão da Silva Fontes",
+          "citacao_completa": "A. S. Fontes; CARDOSO, C. A. V.; A. A. Souza; de M. Barros, L. ; F. Salvadori. Participação em banca de Abrahão da Silva Fontes. APLICAÇÃO E COMPARAÇÃO DE TÉCNICAS DE DIAGNÓSTICO E DETECÇÃO DE FALHAS EM MOTORES ELÉTRICOS DE INDUÇÃO BASEADOS EM ASSINATURA DE CORRENTE. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Geração fotovoltaica ongrid com compensação de harmônicos e correção do fator de potência",
+          "membros": "R. R. Matias; BARROS, L. M. ; ALEXANDRE, F. M.",
+          "candidato": "Marcelo Lopes Vieira Bezerra",
+          "citacao_completa": "R. R. Matias; BARROS, L. M. ; ALEXANDRE, F. M.. Participação em banca de Marcelo Lopes Vieira Bezerra. Geração fotovoltaica ongrid com compensação de harmônicos e correção do fator de potência. 2022. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal do Piauí."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Predictive digital control strategy for three-phase vienna rectifier",
+          "membros": "R. R. Matias; BARROS, L. M. ; ALEXANDRE, F. M.; Almeida, O. M.",
+          "candidato": "Gerson Emerson da Cruz Gomes",
+          "citacao_completa": "R. R. Matias; BARROS, L. M. ; ALEXANDRE, F. M.; Almeida, O. M.. Participação em banca de Gerson Emerson da Cruz Gomes. Predictive digital control strategy for three-phase vienna rectifier. 2021. Exame de qualificação (Mestrando em Engenharia Elétrica) - Universidade Federal do Piauí."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": ".Modelo Térmico para Máquinas Elétricas (TCC 1)",
+          "membros": "OLIVEIRA, L. P. B.; Riffel, D. B.; BARROS, L. M.",
+          "candidato": "Juliana Almeida de Lira Lins",
+          "citacao_completa": "OLIVEIRA, L. P. B.; Riffel, D. B.; BARROS, L. M. . Participação em banca de Juliana Almeida de Lira Lins.Modelo Térmico para Máquinas Elétricas (TCC 1). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Desenvolvimento de um sistema de medição de corrente para motores trifásicos (TCC)",
+          "membros": "E. A. N. Carvalho; BARROS, L. M. ; Carvalho Filho, J. G. N.",
+          "candidato": "Aclécio de Jesus dos Santos",
+          "citacao_completa": "E. A. N. Carvalho; BARROS, L. M. ; Carvalho Filho, J. G. N.. Participação em banca de Aclécio de Jesus dos Santos.Desenvolvimento de um sistema de medição de corrente para motores trifásicos (TCC). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": ".Kit educacional ESP32 (TCC)",
+          "membros": "HIDALGO, A. R.; R. B. Rocha; BARROS, L. M.",
+          "candidato": "Rafael Aguiar de Santana",
+          "citacao_completa": "HIDALGO, A. R.; R. B. Rocha; BARROS, L. M. . Participação em banca de Rafael Aguiar de Santana.Kit educacional ESP32 (TCC). 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Estudo da viabilidade técnico-econômica para sistemas fotovoltaicos aplicados em condomínios residenciais verticais (TCC 2)",
+          "membros": "M. S. silva; BARROS, L. M. ; A. A. Souza",
+          "candidato": "Lázaro Silva de Castro",
+          "citacao_completa": "M. S. silva; BARROS, L. M. ; A. A. Souza. Participação em banca de Lázaro Silva de Castro.Estudo da viabilidade técnico-econômica para sistemas fotovoltaicos aplicados em condomínios residenciais verticais (TCC 2). 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Análise técnico-econômica da geração eólica offshore no brasil",
+          "membros": "M. S. silva; BARROS, L. M. ; FERREIRA, T. V.",
+          "candidato": "Douglas Bernardo Alvesdos Santos",
+          "citacao_completa": "M. S. silva; BARROS, L. M. ; FERREIRA, T. V.. Participação em banca de Douglas Bernardo Alvesdos Santos.Análise técnico-econômica da geração eólica offshore no brasil. Estudo de caso: litoral do ceará (TCC 2). 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Emulador de cargas mecânicas para motores elétricos (TCC 1)",
+          "membros": "OLIVEIRA, L. P. B.; BARROS, L. M. ; FERREIRA, T. V.",
+          "candidato": "Carla Maile de Oliveira Almeida",
+          "citacao_completa": "OLIVEIRA, L. P. B.; BARROS, L. M. ; FERREIRA, T. V.. Participação em banca de Carla Maile de Oliveira Almeida.Emulador de cargas mecânicas para motores elétricos (TCC 1). 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": ".Emulador de cargas mecânicas para motores elétricos (TCC 2)",
+          "membros": "OLIVEIRA, L. P. B.; BARROS, L. M. ; FERREIRA, T. V.",
+          "candidato": "Carla Maile de Oliveira Almeida",
+          "citacao_completa": "OLIVEIRA, L. P. B.; BARROS, L. M. ; FERREIRA, T. V.. Participação em banca de Carla Maile de Oliveira Almeida.Emulador de cargas mecânicas para motores elétricos (TCC 2). 2022. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Lâmpadas LED e Distorção Harmônica: Uma avaliação do cenário brasileiro (TCC 2)",
+          "membros": "FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Bruno Vinícius Silveira Araújo",
+          "citacao_completa": "FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Bruno Vinícius Silveira Araújo.Lâmpadas LED e Distorção Harmônica: Uma avaliação do cenário brasileiro (TCC 2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Avaliação do impacto da inserção de bancos de capacitores nas Redes elétricas com presença de geração distribuída (TCC 2)",
+          "membros": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gabriel Delian Silva Valadares",
+          "citacao_completa": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gabriel Delian Silva Valadares.Avaliação do impacto da inserção de bancos de capacitores nas Redes elétricas com presença de geração distribuída (TCC 2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Desenvolvimento de sistema automático de tracking solar Biaxial para módulos fotovoltaicos (TCC 2)",
+          "membros": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gabriel Phillipe de Oliveira Lima",
+          "citacao_completa": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gabriel Phillipe de Oliveira Lima.Desenvolvimento de sistema automático de tracking solar Biaxial para módulos fotovoltaicos (TCC 2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise comparativa das perdas de potência em um sistema gerador fotovoltaico residencial on-grid (TCC 1)",
+          "membros": "M. S. silva; BARROS, L. M. ; ALVAREZ, G. P.",
+          "candidato": "Vinicius Alcântara Oliveira",
+          "citacao_completa": "M. S. silva; BARROS, L. M. ; ALVAREZ, G. P.. Participação em banca de Vinicius Alcântara Oliveira.Análise comparativa das perdas de potência em um sistema gerador fotovoltaico residencial on-grid (TCC 1). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise técnico-econômica da geração eólica offshore no brasil",
+          "membros": "M. S. silva; BARROS, L. M. ; FERREIRA, T. V.",
+          "candidato": "Douglas Bernardo Alvesdos Santos",
+          "citacao_completa": "M. S. silva; BARROS, L. M. ; FERREIRA, T. V.. Participação em banca de Douglas Bernardo Alvesdos Santos.Análise técnico-econômica da geração eólica offshore no brasil. Estudo de caso: litoral do ceará (TCC 1). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Proposta e avaliação de guias experimentais por simulação para motivação e preparação de ingressantes nos cursos de engenharia elétrica e eletrônica (TCC)",
+          "membros": "E. A. N. Carvalho; BARROS, L. M. ; L. Molina",
+          "candidato": "Jonilson José Demetino Júnior",
+          "citacao_completa": "E. A. N. Carvalho; BARROS, L. M. ; L. Molina. Participação em banca de Jonilson José Demetino Júnior.Proposta e avaliação de guias experimentais por simulação para motivação e preparação de ingressantes nos cursos de engenharia elétrica e eletrônica (TCC). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2021,
+          "titulo": ".Análise comparativa das perdas de potência em um sistema gerador fotovoltaico residencial on-grid (TCC 2)",
+          "membros": "M. S. silva; BARROS, L. M. ; A. A. Souza",
+          "candidato": "Vinicius Alcântara Oliveira",
+          "citacao_completa": "M. S. silva; BARROS, L. M. ; A. A. Souza. Participação em banca de Vinicius Alcântara Oliveira.Análise comparativa das perdas de potência em um sistema gerador fotovoltaico residencial on-grid (TCC 2). 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Lâmpadas LED: Uma avaliação do mercado brasileiro (TCC 1)",
+          "membros": "Araújo, B. V. S.; FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Bruno Vieira Silveira Araújo",
+          "citacao_completa": "Araújo, B. V. S.; FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Bruno Vieira Silveira Araújo.Lâmpadas LED: Uma avaliação do mercado brasileiro (TCC 1). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Avaliação do impacto da inserção de bancos de capacitores nas redes elétricas de distribuição com presença de geração distribuída (TCC 1)",
+          "membros": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gabriel Delian Silva Valadares",
+          "citacao_completa": "M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gabriel Delian Silva Valadares.Avaliação do impacto da inserção de bancos de capacitores nas redes elétricas de distribuição com presença de geração distribuída (TCC 1). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Desenvolvimento de sistema automático de rastreamento solar biaxial para módulos fotovoltaicos (TCC 1)",
+          "membros": "Lima, G. P. O.; M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gabriel Philippe de Oliveira Lima",
+          "citacao_completa": "Lima, G. P. O.; M. S. silva; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gabriel Philippe de Oliveira Lima.Desenvolvimento de sistema automático de rastreamento solar biaxial para módulos fotovoltaicos (TCC 1). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Análise econômica do uso de drones para inspeção de linhas de transmissão (TCC 2)",
+          "membros": "FERREIRA, T. V.; de M. Barros, L. ; FREIRE, E. O.; Ferreira, D. V.",
+          "candidato": "Leila Yoko de Moura Tsuha",
+          "citacao_completa": "FERREIRA, T. V.; de M. Barros, L. ; FREIRE, E. O.; Ferreira, D. V.. Participação em banca de Leila Yoko de Moura Tsuha.Análise econômica do uso de drones para inspeção de linhas de transmissão (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Análise harmônica no hospital universitário de Sergipe (TCC 2)",
+          "membros": "G. P. Colnago; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Maria Alícia Gomes Santos",
+          "citacao_completa": "G. P. Colnago; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Maria Alícia Gomes Santos.Análise harmônica no hospital universitário de Sergipe (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Aplicação do método dos elementos finitos no mapeamento térmico de transformadores (TCC 2)",
+          "membros": "FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gustavo Aragão Rodrigues",
+          "citacao_completa": "FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gustavo Aragão Rodrigues.Aplicação do método dos elementos finitos no mapeamento térmico de transformadores (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Estudo da injeção de distorção harmônica por lâmpada LED (TCC 2)",
+          "membros": "Araújo, L. A. C.; FERREIRA, T. V.; de M. Barros, L. ; E. A. N. Carvalho",
+          "candidato": "Luísa Andrade Cândia Araújo",
+          "citacao_completa": "Araújo, L. A. C.; FERREIRA, T. V.; de M. Barros, L. ; E. A. N. Carvalho. Participação em banca de Luísa Andrade Cândia Araújo.Estudo da injeção de distorção harmônica por lâmpada LED (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2020,
+          "titulo": ".Avaliação técnico-econômica do uso de microinversores em sistemas fotovoltaicos no Brasil (TCC 2)",
+          "membros": "Leite, R. F.; M. S. silva; de M. Barros, L. ; FERREIRA, T. V.",
+          "candidato": "Renata Figueiredo Leite",
+          "citacao_completa": "Leite, R. F.; M. S. silva; de M. Barros, L. ; FERREIRA, T. V.. Participação em banca de Renata Figueiredo Leite.Avaliação técnico-econômica do uso de microinversores em sistemas fotovoltaicos no Brasil (TCC 2). 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Vantagens da geração fotovoltaica conectada a um barramento CC",
+          "membros": "BARROS, L. M. ; M. S. silva; FERREIRA, T. V.",
+          "candidato": "Marilaine Oliveira Souza",
+          "citacao_completa": "BARROS, L. M. ; M. S. silva; FERREIRA, T. V.. Participação em banca de Marilaine Oliveira Souza.Vantagens da geração fotovoltaica conectada a um barramento CC. (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Módulo de potência e medição de temperatura aplicada à planta didática",
+          "membros": "CARDOSO, C. A. V.; BARROS, L. M. ; HIDALGO, A. R.",
+          "candidato": "Lucas Castro Silveira",
+          "citacao_completa": "CARDOSO, C. A. V.; BARROS, L. M. ; HIDALGO, A. R.. Participação em banca de Lucas Castro Silveira.Módulo de potência e medição de temperatura aplicada à planta didática. (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Estudo da injeção de distorção harmônica por lâmpadas de LED",
+          "membros": "FERREIRA, T. V.; E. A. N. Carvalho; BARROS, L. M.",
+          "candidato": "Luisa Andrade Candia Araújo",
+          "citacao_completa": "FERREIRA, T. V.; E. A. N. Carvalho; BARROS, L. M. . Participação em banca de Luisa Andrade Candia Araújo.Estudo da injeção de distorção harmônica por lâmpadas de LED. (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Desenvolvimento de um sistema de monitoramento do consumo de energia elétrica",
+          "membros": "L. Molina; E. A. N. Carvalho; BARROS, L. M.",
+          "candidato": "João Lucas de Castro Lisboa",
+          "citacao_completa": "L. Molina; E. A. N. Carvalho; BARROS, L. M. . Participação em banca de João Lucas de Castro Lisboa.Desenvolvimento de um sistema de monitoramento do consumo de energia elétrica. (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Gerenciamento de curva de demanda de um sistema elétrico através do controle do fator de potência (TCC 2)",
+          "membros": "ALVAREZ, G. P.; BARROS, L. M. ; R. B. Rocha",
+          "candidato": "Lúcio Fernando da Silva Santos",
+          "citacao_completa": "ALVAREZ, G. P.; BARROS, L. M. ; R. B. Rocha. Participação em banca de Lúcio Fernando da Silva Santos.Gerenciamento de curva de demanda de um sistema elétrico através do controle do fator de potência (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Avaliação das correntes de arco secundário no religamento monopolar de linhas de transmissão",
+          "membros": "ALVAREZ, G. P.; BARROS, L. M. ; R. B. Rocha",
+          "candidato": "Juliene Monique Silva de Oliveira",
+          "citacao_completa": "ALVAREZ, G. P.; BARROS, L. M. ; R. B. Rocha. Participação em banca de Juliene Monique Silva de Oliveira.Avaliação das correntes de arco secundário no religamento monopolar de linhas de transmissão. (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Projeto e Construção de Módulo Didático para Mapeamento de Tensão em Cadeia de Isoladores",
+          "membros": "FERREIRA, T. V.; ALMEIDA, A. M. F.; BARROS, L. M.",
+          "candidato": "Gregory Medeiros Melgaço Pereira",
+          "citacao_completa": "FERREIRA, T. V.; ALMEIDA, A. M. F.; BARROS, L. M. . Participação em banca de Gregory Medeiros Melgaço Pereira.Projeto e Construção de Módulo Didático para Mapeamento de Tensão em Cadeia de Isoladores. (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Aplicação do MEF no mapeamento técnico de transformadores (TCC 1)",
+          "membros": "RODRIGUES, G. A.; FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Gustavo Aragão Rodrigues",
+          "citacao_completa": "RODRIGUES, G. A.; FERREIRA, T. V.; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Gustavo Aragão Rodrigues.Aplicação do MEF no mapeamento técnico de transformadores (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Avaliação técnico-econômica do uso de microinversores em sistemas fotovoltaicos no Brasil (TCC 1)",
+          "membros": "Leite, R. F.; M. S. silva; FERREIRA, T. V.; de M. Barros, L.",
+          "candidato": "Renata Figueiredo Leite",
+          "citacao_completa": "Leite, R. F.; M. S. silva; FERREIRA, T. V.; de M. Barros, L. . Participação em banca de Renata Figueiredo Leite.Avaliação técnico-econômica do uso de microinversores em sistemas fotovoltaicos no Brasil (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Avaliação econômica do uso de drones para inspeção de linhas de transmissão (TCC 1)",
+          "membros": "Tshua, L. Y. M.; FERREIRA, T. V.; de M. Barros, L. ; FREIRE, E. O.; Ferreira, D. V.",
+          "candidato": "Leila Yoko de Moura Tshua",
+          "citacao_completa": "Tshua, L. Y. M.; FERREIRA, T. V.; de M. Barros, L. ; FREIRE, E. O.; Ferreira, D. V.. Participação em banca de Leila Yoko de Moura Tshua.Avaliação econômica do uso de drones para inspeção de linhas de transmissão (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Análise das distorções harmônicas no sistema elétrico do HU-SE (TCC 1)",
+          "membros": "SANTOS, M. A. G.; G. P. Colnago; de M. Barros, L. ; ALMEIDA, A. M. F.",
+          "candidato": "Maria Alicia Gomes Santos",
+          "citacao_completa": "SANTOS, M. A. G.; G. P. Colnago; de M. Barros, L. ; ALMEIDA, A. M. F.. Participação em banca de Maria Alicia Gomes Santos.Análise das distorções harmônicas no sistema elétrico do HU-SE (TCC 1). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Vantagens da geração fotovoltaica conectada a um barramento CC (TCC 2)",
+          "membros": "Souza, M. O.; M. S. silva; FERREIRA, T. V.; de M. Barros, L.",
+          "candidato": "Marilaine Oliveira Souza",
+          "citacao_completa": "Souza, M. O.; M. S. silva; FERREIRA, T. V.; de M. Barros, L. . Participação em banca de Marilaine Oliveira Souza.Vantagens da geração fotovoltaica conectada a um barramento CC (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2019,
+          "titulo": ".Simulação e análise de uma falta de alta impedância em uma rede de distribuição",
+          "membros": "BARROS, L. M. ; ALVAREZ, G. P.; R. B. Rocha",
+          "candidato": "Cássia Rejane dos Santos Silva",
+          "citacao_completa": "BARROS, L. M. ; ALVAREZ, G. P.; R. B. Rocha. Participação em banca de Cássia Rejane dos Santos Silva.Simulação e análise de uma falta de alta impedância em uma rede de distribuição. (TCC 2). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".PROJETO, OTIMIZAÇÃO E CONSTRUÇÃO DE UM DIVISOR RESISTIVO PARA MEDIÇÃO DE ALTA TENSÃO São Cristóvão 2018",
+          "membros": "FERREIRA, T. V.; A. A. Souza; BARROS, L. M.",
+          "candidato": "LUCAS EMANOEL DE JESUS OLIVEIRA",
+          "citacao_completa": "FERREIRA, T. V.; A. A. Souza; BARROS, L. M. . Participação em banca de LUCAS EMANOEL DE JESUS OLIVEIRA.PROJETO, OTIMIZAÇÃO E CONSTRUÇÃO DE UM DIVISOR RESISTIVO PARA MEDIÇÃO DE ALTA TENSÃO São Cristóvão 2018. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".UMA PROPOSTA DE KIT DIDÁTICO PARA EXECUÇÃO DE ENSAIOS DE RUPTURA DE DIELÉTRICO EM GASES",
+          "membros": "FERREIRA, T. V.; A. A. Souza; BARROS, L. M.",
+          "candidato": "LEONARDO RODRIGUES FERREIRA",
+          "citacao_completa": "FERREIRA, T. V.; A. A. Souza; BARROS, L. M. . Participação em banca de LEONARDO RODRIGUES FERREIRA.UMA PROPOSTA DE KIT DIDÁTICO PARA EXECUÇÃO DE ENSAIOS DE RUPTURA DE DIELÉTRICO EM GASES. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".COMPARATIVO FINANCEIRO DA APLICAÇÃO DE DIFERENTES TECNOLOGIAS DE SISTEMAS SOLAR FOTOVOLTAICOS INSTALADOS EM UMA MESMA REGIÃO",
+          "membros": "M. S. silva; A. A. Souza; BARROS, L. M.",
+          "candidato": "DANIEL RODRIGO DE OLIVEIRA FORTES",
+          "citacao_completa": "M. S. silva; A. A. Souza; BARROS, L. M. . Participação em banca de DANIEL RODRIGO DE OLIVEIRA FORTES.COMPARATIVO FINANCEIRO DA APLICAÇÃO DE DIFERENTES TECNOLOGIAS DE SISTEMAS SOLAR FOTOVOLTAICOS INSTALADOS EM UMA MESMA REGIÃO. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Impacto da geração distribuída no sistema de distribuição de energia elétrica",
+          "membros": "L. de M. Barros",
+          "candidato": "Gabriela Cavalcante de Souza",
+          "citacao_completa": "L. de M. Barros . Participação em banca de Gabriela Cavalcante de Souza.Impacto da geração distribuída no sistema de distribuição de energia elétrica. (TCC 2). 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".IMPACTO DA UTILIZAÇÃO DE GERAÇÃO DISTRIBUÍDA NA QUALIDADE DA ENERGIA FORNECIDA",
+          "membros": "G. C. de Souza; M. S. silva; de M. Barros, L. ; R. F. A. Menezes",
+          "candidato": "Gabriela Cavalcante de Souza",
+          "citacao_completa": "G. C. de Souza; M. S. silva; de M. Barros, L. ; R. F. A. Menezes. Participação em banca de Gabriela Cavalcante de Souza.IMPACTO DA UTILIZAÇÃO DE GERAÇÃO DISTRIBUÍDA NA QUALIDADE DA ENERGIA FORNECIDA. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".SISTEMAS DE GERAÇÃO DE ENERGIA SOLAR CONCENTRADA",
+          "membros": "R. L. G. de Mello; M. S. silva; de M. Barros, L. ; FERREIRA, T. V.",
+          "candidato": "Rafael Luis Gois de Mello",
+          "citacao_completa": "R. L. G. de Mello; M. S. silva; de M. Barros, L. ; FERREIRA, T. V.. Participação em banca de Rafael Luis Gois de Mello.SISTEMAS DE GERAÇÃO DE ENERGIA SOLAR CONCENTRADA. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Controle por Orientação de Fluxo do Gerador de Indução Utilizado na Geração Eólica",
+          "membros": "R. A. P. Silva; M. S. silva; de M. Barros, L. ; O. A. Z. Sotomayor",
+          "candidato": "Ricardo André Pereira Silva",
+          "citacao_completa": "R. A. P. Silva; M. S. silva; de M. Barros, L. ; O. A. Z. Sotomayor. Participação em banca de Ricardo André Pereira Silva.Controle por Orientação de Fluxo do Gerador de Indução Utilizado na Geração Eólica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".AFUNDAMENTOS DE TENSÃO DE CURTA DURAÇÃO - ESTUDO DE CASO EM UM DISPOSITIVO ELETRÔNICO",
+          "membros": "W. L. F. Silva; G. P. Colnago; A. A. Souza; de M. Barros, L.",
+          "candidato": "WAGNER LUIZ FREITAS SILVA",
+          "citacao_completa": "W. L. F. Silva; G. P. Colnago; A. A. Souza; de M. Barros, L. . Participação em banca de WAGNER LUIZ FREITAS SILVA.AFUNDAMENTOS DE TENSÃO DE CURTA DURAÇÃO - ESTUDO DE CASO EM UM DISPOSITIVO ELETRÔNICO. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".Gerenciamento da curva de demanda de um sistema elétrico através do controle do fator de carga.",
+          "membros": "R. B. Rocha; BARROS, L. M. ; ALVAREZ, G. P.",
+          "candidato": "Lúcio Fernando da Silva Santos",
+          "citacao_completa": "R. B. Rocha; BARROS, L. M. ; ALVAREZ, G. P.. Participação em banca de Lúcio Fernando da Silva Santos.Gerenciamento da curva de demanda de um sistema elétrico através do controle do fator de carga.. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".DESENVOLVIMENTO DE UM SISTEMA DE MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA",
+          "membros": "L. Molina; E. A. N. Carvalho; BARROS, L. M.",
+          "candidato": "JOÃO LUCAS DE CASTRO LISBOA",
+          "citacao_completa": "L. Molina; E. A. N. Carvalho; BARROS, L. M. . Participação em banca de JOÃO LUCAS DE CASTRO LISBOA.DESENVOLVIMENTO DE UM SISTEMA DE MONITORAMENTO DO CONSUMO DE ENERGIA ELÉTRICA. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".ESTUDO E PROTEÇÃO DE FALTAS DE ALTA IMPEDÂNCIA",
+          "membros": "ALVAREZ, G. P.; R. B. Rocha; BARROS, L. M.",
+          "candidato": "Cássia Rejane dos Santos Silva",
+          "citacao_completa": "ALVAREZ, G. P.; R. B. Rocha; BARROS, L. M. . Participação em banca de Cássia Rejane dos Santos Silva.ESTUDO E PROTEÇÃO DE FALTAS DE ALTA IMPEDÂNCIA. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".AVALIAÇÃO DAS CORRENTES DE ARCO SECUNDÁRIO NO RELIGAMENTO DE LINHAS DE TRANSMISSÃO",
+          "membros": "ALVAREZ, G. P.; R. B. Rocha; BARROS, L. M.",
+          "candidato": "JULIENE MONIQUE SILVA DE OLIVEIRA",
+          "citacao_completa": "ALVAREZ, G. P.; R. B. Rocha; BARROS, L. M. . Participação em banca de JULIENE MONIQUE SILVA DE OLIVEIRA.AVALIAÇÃO DAS CORRENTES DE ARCO SECUNDÁRIO NO RELIGAMENTO DE LINHAS DE TRANSMISSÃO. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": ".DETECÇÃO DE FALHAS EM MOTORES DE INDUÇÃO TRIFÁSICOS UTILIZANDO REDES NEURAIS ARTIFICIAIS",
+          "membros": "CARDOSO, C. A. V.; BARROS, L. M. ; A. S. Fontes",
+          "candidato": "MATHEUS ALVARENGA NOGUEIRA DA GAMA",
+          "citacao_completa": "CARDOSO, C. A. V.; BARROS, L. M. ; A. S. Fontes. Participação em banca de MATHEUS ALVARENGA NOGUEIRA DA GAMA.DETECÇÃO DE FALHAS EM MOTORES DE INDUÇÃO TRIFÁSICOS UTILIZANDO REDES NEURAIS ARTIFICIAIS. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".AVALIAÇÃO DO COMPORTAMENTO DAS REDES DE DISTRIBUIÇÃO NO FORNECIMENTO DE ENERGIA",
+          "membros": "TEIXEIRA FILHO, J. E.; ALVAREZ, G. P.; CARTAXO, E. F.; BARROS, L. M.",
+          "candidato": "JOSÉ EDIVALDO TEIXEIRA FILHO",
+          "citacao_completa": "TEIXEIRA FILHO, J. E.; ALVAREZ, G. P.; CARTAXO, E. F.; BARROS, L. M. . Participação em banca de JOSÉ EDIVALDO TEIXEIRA FILHO.AVALIAÇÃO DO COMPORTAMENTO DAS REDES DE DISTRIBUIÇÃO NO FORNECIMENTO DE ENERGIA. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Projeto, Simulação e Montagem de uma Fonte Chaveada de 600 W",
+          "membros": "RESENDE, H. T.; OLIVEIRA, L. P. B.; HIDALGO, A. R.; BARROS, L. M.",
+          "candidato": "Helber Teles Resende",
+          "citacao_completa": "RESENDE, H. T.; OLIVEIRA, L. P. B.; HIDALGO, A. R.; BARROS, L. M. . Participação em banca de Helber Teles Resende.Projeto, Simulação e Montagem de uma Fonte Chaveada de 600 W. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        }
+      ]
+    }
+  ]
+}

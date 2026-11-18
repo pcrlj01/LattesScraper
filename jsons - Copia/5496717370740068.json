@@ -1,0 +1,988 @@
+{
+  "name": "Vinícius Jacques Garcia",
+  "lattes_id": "5496717370740068",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "BROMBERGER, DANI ANTONINI ; Garcia, Vinicius Jacques ; RODRIGUES, STÉFANE DIAS ; NEVES, LUCIANE SILVA . A taxonomy for extreme weather events and their impacts on power systems: A comprehensive review of classification, effects, and mitigation strategies. RENEWABLE & SUSTAINABLE ENERGY REVIEWS , v. 227, p. 116498, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.rser.2025.116498"
+        },
+        {
+          "texto": "BROMBERGER, DANI ; NEUENFELDT JÚNIOR, ALVARO ; Garcia, Vinícius ; FRANCESCATTO, MATHEUS . Interpretable machine learning in industrial water pump failure prediction: the role of Shapley additive explanations values and data sampling techniques. ENGINEERING APPLICATIONS OF ARTIFICIAL INTELLIGENCE , v. 165, p. 113558, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1016/j.engappai.2025.113558"
+        },
+        {
+          "texto": "KAMINSKI, ANTÔNIO M. ; CARLOTO, FILIPE G. ; JACQUES, MATHEUS M. ; GARCIA, VINÍCIUS J. ; FILHO, OTACÍLIO C. ; BARRIQUELLO, CARLOS H. . Prospecting electricity theft through assignment of AI detected buildings to registered consumer units. Sustainable Energy Grids & Networks , v. 41, p. 101609, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1016/j.segan.2024.101609"
+        },
+        {
+          "texto": "RODRIGUES, STÉFANE DIAS ; MOREIRA, G. R. ; GARCIA, V. J. ; . Demand Response to Price Signals in Microgrids: Insights and Future Directions from a Systematic Literature Review. Power System Technology , v. 49, p. 1511-1547, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "GOMES, THIAGO ELIANDRO DE OLIVEIRA ; GARCIA, V. J. ; BORNIATTI, ANDRÉ ROSS ; SILVA, L. N. F. . Reliability Improvement on Power Distribution Systems by Network Reconfiguration: A Matheuristic Approach to Clustering Electrical Consumers. Power System Technology , v. 49, p. 676-708, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, M. L. P. ; RODRIGUES, STEFANE DIAS ; GARCIA, V. J. . Planning and Operation of Renewable Energy Community Using Multi-Energy Systems: A systematic review. Power System Technology , v. 49, p. 1591-1621, 2025.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "KONRAD, C. ; BERNARDON, D.P. ; GARCIA, V. J. ; FEIL, D. L. P. ; SANTOS, L. L. C. ; SCHNORR, A. ; FABRIN, F. G. ; CORREA, C. H. ; FONTOURA, H. C. ; BITENCOURT, V. B. . Drones-Based Transmission Line Inspection Planning: A Study Case of TRP Heuristic Approaches. IEEE Access , v. 1, p. 1-1, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/access.2025.3640624"
+        },
+        {
+          "texto": "CARVALHO, PATRICIA STEFAN DE ; SILUK, JULIO CEZAR MAIRESSE ; OLIVEIRA, HENRIQUE LUÍS SAUER ; Garcia, Vinicius Jacques ; SCHAEFER, JONES LUÍS ; CASSEL, RICARDO AUGUSTO ; PINHEIRO, JOSÉ RENES . Diagnosis of the Energy Regulatory Scenario with Emphasis on Smart Energy. INTERNATIONAL JOURNAL OF ENERGY ECONOMICS AND POLICY , v. 14, p. 11-26, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.32479/ijeep.15153"
+        },
+        {
+          "texto": "PEDRA MEDEIROS, AÉRTON ; NEVES CANHA, LUCIANE ; JACQUES GARCIA, VINÍCIUS ; RANGEL, CAMILO ALBERTO SEPÚLVEDA . A matheuristic for active flexibility management of battery energy storage systems in the context of local flexibility markets. JOURNAL OF ENERGY STORAGE , v. 95, p. 112625, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.est.2024.112625"
+        },
+        {
+          "texto": "RODRIGUES, STEFANE DIAS ; Garcia, Vinicius Jacques . Transactive energy in microgrid communities: A systematic review. RENEWABLE & SUSTAINABLE ENERGY REVIEWS , v. 171, p. 112999, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1016/j.rser.2022.112999"
+        },
+        {
+          "texto": "GOMES, THIAGO ELIANDRO DE OLIVEIRA ; BORNIATTI, ANDRÉ ROSS ; Garcia, Vinícius Jacques ; SANTOS, LAURA LISIANE CALLAI DOS ; KNAK NETO, NELSON ; GARCIA, RUI ANDERSON FERRAREZI . Clustering Electrical Customers with Source Power and Aggregation Constraints: A Reliability-Based Approach in Power Distribution Systems. Energies , v. 16, p. 2485, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16052485"
+        },
+        {
+          "texto": "EICHKOFF, HENRIQUE S. ; ; BITENCOURT, JULIO A. ; GARCIA, VINÍCIUS J. ; SILVA, DAIANA W. ; CHIARA, LUCAS M. ; BUTTO, SEBASTIAN A. ; BARBOSA, SOLANGE M. K. ; POSE, ALEJANDRE C. A. . Tolerance-Based Demand-Side Management for Load Shifting in Rural Areas of Southern Brazil. Energies , v. 16, p. 3395, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16083395"
+        },
+        {
+          "texto": "DE BITENCOURT, JULIO A. ; ; EICHKOFF, HENRIQUE S. ; GARCIA, VINICIUS J. ; SILVA, DAIANA W. ; CHIARA, LUCAS M. ; GOMES, RENAN L. B. ; BUTTO, SEBASTIAN A. ; BARBOSA, SOLANGE M. K. ; POSE, ALEJANDRE C. A. . An Alternative Regulation of Compensation Mechanisms for Electric Energy Transgressions of Service Quality Limits in Dispersed and Seasonal Areas. Energies , v. 16, p. 5588, 2023.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.3390/en16155588"
+        },
+        {
+          "texto": "LAUTERT, RENATA RODRIGUES ; BRIGNOL, WAGNER DA SILVA ; ; Adeyanju, Olatunji Matthew ; GARCIA, V. J. . A Flexible-Reliable Operation Model of Storage and Distributed Generation in a Biogas Power Plant. Energies , v. 15, p. 3154, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15093154"
+        },
+        {
+          "texto": "Azevedo, R. M. ; ; GARCIA, V. J. ; RANGEL, C. A. S. ; SANTANA, T. A. S. ; NADAL, Z. I. . Dynamic and proactive matheuristic for AC/DC hybrid smart home energy operation considering load, energy resources and price uncertainties. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 137, p. 107463, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107463"
+        },
+        {
+          "texto": "Schmitz, Magdiel ; BERNARDON, D.P. ; GARCIA, V. J. ; SCHMITZ, WILLIAM ISMAEL ; WOLTER, MARTIN ; PFITSCHER, LUCIANO LOPES . Price-Based Dynamic Optimal Power Flow With Emergency Repair. IEEE Transactions on Smart Grid , v. 12, p. 324-337, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/tsg.2020.3018640"
+        },
+        {
+          "texto": "SCHMITZ, WILLIAM ISMAEL ; SCHMITZ, MAGDIEL ; ; GARCIA, V. J. . Proactive home energy storage management system to severe weather scenarios. APPLIED ENERGY , v. 279, p. 115797, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.apenergy.2020.115797"
+        },
+        {
+          "texto": "GUIMARÃES, IOCHANE GARCIA ; BERNARDON, D.P. ; GARCIA, V. J. ; Schmitz, Magdiel ; PFITSCHER, Luciano Lopes . A decomposition heuristic algorithm for dynamic reconfiguration after contingency situations in distribution systems considering island operations. ELECTRIC POWER SYSTEMS RESEARCH , v. 192, p. 106969, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2020.106969"
+        },
+        {
+          "texto": "Schmitz, Magdiel ; Garcia, Vincius Jacques ; . Matheuristic for emergency response in the electric distribution system with unforeseen islanding. ELECTRIC POWER SYSTEMS RESEARCH , v. 169, p. 1-17, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2018.12.013"
+        },
+        {
+          "texto": "JACQUES GARCIA, VINÍCIUS ; FALAVIGNA BRAGHIROLLI, LYNCEO ; HENRIQUE BARRIQUELLO, CARLOS ; PINHEIRO BERNARDON, DANIEL . A computational intelligence approach to improve the efficiency of repair services in the smart grid context. COMPUTERS & ELECTRICAL ENGINEERING , v. 70, p. 37-52, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.compeleceng.2018.05.016"
+        },
+        {
+          "texto": "GARCIA, VINICIUS J. ; ; ; BASSI, OLINTO A. ; . Reliability Assessment by Coordinating Maintenance Vehicles in Electric Power Distribution Systems. Procedia: Social and Behavioral Sciences , v. 111, p. 1045-1053, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1016/j.sbspro.2014.01.139"
+        },
+        {
+          "texto": "; ; Canha, L.N. ; ; Garcia, V.J. ; . Intelligent system for automatic reconfiguration of distribution network in real time. Electric Power Systems Research (Print) , v. 97, p. 84-92, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2012.12.007"
+        },
+        {
+          "texto": "; Garcia, Vinícius Jacques ; ; ; Daza, Eric Fernando Boeck ; COMASSETTO, L. . Uso dos conceitos de smart grid no processo de restabelecimento automático de energia. O Setor Elétrico , v. 1, p. 26-33, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Garcia, V.J. ; ; Canha, L.N. ; ; Daza, E.F.B. . Methodology for allocation of remotely controlled switches in distribution networks based on a fuzzy multi-criteria decision making algorithm. Electric Power Systems Research (Print) , v. 81, p. 414-420, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2010.10.010"
+        },
+        {
+          "texto": "BERNARDON, D.P. ; ; GARCIA, V. J. ; ; DA ROSA ABAIDE, ALZENIRA ; DAZA, E. F. B. . AHP Decision-Making Algorithm to Allocate Remotely Controlled Switches in Distribution Networks. IEEE TRANSACTIONS ON POWER DELIVERY , v. 26, p. 1884-1892, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/tpwrd.2011.2119498"
+        },
+        {
+          "texto": "; BERNARDON, D.P. ; GARCIA, V. J. ; ; . Despacho Automático de Pequenas Centrais Hidrelétricas para Otimização do Valor de Demanda. Eletroevolução (Rio de Janeiro) , v. 65, p. 41-47, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; Ferreira, Adriana Scheffer Quintela ; Canha, Luciane Neves . Multicriteria Distribution Network Reconfiguration Considering Subtransmission Analysis. IEEE Transactions on Power Delivery , v. PP, p. 1-1, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/TPWRD.2010.2041013"
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; . Electric distribution network reconfiguration based on a fuzzy multi-criteria decision making algorithm. ELECTRIC POWER SYSTEMS RESEARCH , v. 79, p. 1400-1407, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2009.04.012"
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Multiobjective service restoration in electric distribution networks using a local search based heuristic. EUROPEAN JOURNAL OF OPERATIONAL RESEARCH , v. 189, p. 694-705, 2008.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.1016/j.ejor.2006.07.048"
+        },
+        {
+          "texto": "MENDES, A. S. ; C. Cotta ; GARCIA, V. J. ; ; MOSCATO, P. . Applying Memetic Algorithms to the Analysis of Microarray Data. Lecture Notes in Computer Science , v. 2611, p. 22-32, 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "MENDES, A. S. ; ; MOSCATO, P. ; GARCIA, V. J. . Population Studies for the Gate Matrix Layout Problem. Lecture Notes in Computer Science , v. 2527, p. 319-328, 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "; GARCIA, V. J. . Smart Operation for Power Distribution Systems: concepts and applications. 1a. ed. Cham: Springer, 2018. 163p .",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "(Org.) ; (Org.) ; (Org.) ; MELLO, A. P. C. (Org.) ; (Org.) ; (Org.) ; Garcia, Vinicius Jacques (Org.) ; RAMOS, M. (Org.) . Sistemas de Distribuição no Contexto das Redes Elétricas Inteligentes: uma abordagem para reconfiguração de redes. 1. ed. , 2015. v. 1. 200p .",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "MEDEIROS, A. ; Canha, L.N. ; GARCIA, V. J. ; Azevedo, R. M. ; SANTOS, R. . Demand side and flexible energy resource management when operating smart electric vehicle charging stations. In: Vijayakumar Gali; Luciane Neves Canha; Mariana Resener; Bibiana Ferraz; Madisa V.G. Varaprasad. (Org.). Advanced Technologies in Electric Vehicles. 1aed.: Academic Press, 2024, v. , p. 521-534.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Schmitz, Magdiel ; Silva, Maria Clara Ferreira Almeida da ; Garcia, Vinícius Jacques ; Bernardon, Daniel ; Braghirolli, Lynceo Favigna ; Fonini, Júlio . Resource Planning to Service Restoration in Power Distribution Systems. System Reliability. 1ed.: InTech, 2017, v. , p. 317-333.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.5772/intechopen.69573"
+        },
+        {
+          "texto": "Barriquello, Carlos Henrique ; Garcia, Vinícius Jacques ; Schmitz, Magdiel ; ; Fonini, Júlio Schenato . A Decision Support System for Planning and Operation of Maintenance and Customer Services in Electric Power Distribution Systems. System Reliability. 1ed.: InTech, 2017, v. , p. 356-370.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.5772/intechopen.69721"
+        },
+        {
+          "texto": "Garcia, Vincius Jacques ; Bernardon, Daniel ; Guimarães, Iochane ; Fonini, Júlio . Multi\"Objective Real\"Time Dispatching Problem in Electric Utilities: An Application to Emergency Service Routing. Real-time Systems. 1ed.: InTech, 2016, v. , p. 71-92.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.5772/62849"
+        },
+        {
+          "texto": "Bernardon, Daniel ; ; Garcia, Vincius ; Pfitscher, Luciano ; Reck, Wagner . Automatic Restoration of Power Supply in Distribution Systems by Computer-Aided Technologies. Automation. 1eded.: InTech, 2012, v. 1, p. 45-60.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.5772/45734"
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "items": [
+        {
+          "texto": "; GARCIA, V. J. ; ; ; . Reconfiguração das Redes de Distribuição a partir de Métodos de Tomada de Decisão Multicriterial. CREA-RS Revista do Conselho Regional de Engenharia, Arquitetura e Agronomia do Rio Grande do Sul, Porto Alegre, Porto Alegre, p. 30 - 30, 01 abr. 2009.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; ; ; ; GARCIA, V. J. ; KNAK NETO, N. ; PRESSI, R. . Allocation of Remotely Controlled Switches for Reliability Assessment in Distribution Networks. In: 50th International Universities Power Engineering Conference, 2015, Stoke-on-Trent. UPEC 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "GUIMARAES, I. G. ; GARCIA, V. J. ; . Stochastic methodology for service management modeling in electric power utilities. In: 50th International Universities Power Engineering Conference, 2015, Stoke-on-Trent. UPEC 2015, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "MELLO, A. P. C. ; ; ; GARCIA, V. J. ; RAMOS, M. ; COMASSETTO, L. . Sistemas Inteligentes para Reconfiguração Automática de Redes de Distribuição com Geração Distribuída em Tempo Real com o uso de Equipamentos Telecomandados. In: XXI Seminário Nacional de Distribuição de Energia Elétrica, 2014, Santos. SENDI 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; . Evaluating multicriteria scenarios to schedule emergency orders in electric distribution utilities. In: 49th Universities' Power Engineering Conference, 2014, Cluj-Napoca. UPEC 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; GARCIA, V. J. ; ; . Smart Grid Concepts Applied to Self-Healing in Distribution System. In: 49th Universities' Power Engineering Conference, 2014, Cluj-Napoca. UPEC 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, R. W. ; GARCIA, V. J. . Estudo comparativo de modelos matemáticos para o problema de roteamento de veículos capacitado. In: 8o SEPOC - Seminário de Eletrônica de Potência e Controle e 2o SESP - Seminário de Energia e Sistemas de Potência, 2014, Santa Maria. 8o SEPOC + 2o SESP - 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "FORTES, B. J. ; GUIMARAES, I. G. ; GARCIA, V. J. . O problema de roteamento de veículos: um estudo de caso para o atendimento de serviços em concessionárias de distribuição de energia elétrica. In: 8o SEPOC - Seminário de Eletrônica de Potência e Controle e 2o SESP - Seminário de Energia e Sistemas de Potênciao SEPOC - Seminário de Eletrônica de Potência e Controle e 2o SESP - Seminário de Energia e Sistemas de Potência, 2014, Santa Maria. 8o SEPOC + 2o SESP - 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; . Multi-Criteria Approach for Emergency Service Orders in Electric Utilities. In: 28th EUROPEAN Conference on Modelling and Simulation, 2014, Brescia. ECMS 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; RAMOS, M. ; ; GARCIA, V. J. . Intelligent System for Automatic Reconfiguration of Distribution Network in Real-Time. In: CIRED 2014 - International Conference on Electricity Distribution, 2014, Roma. CIRED 2014, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, M. ; MALYSZ, E. R. ; COMASSETTO, L. ; ; ; GARCIA, V. J. ; Canha, Luciane Neves ; . Reconfiguração Dinâmica das Redes de Distribuição por meio do Uso de Equipamentos Automatizados. In: VII Congresso de Inovação Tecnológica em Energia Elétrica, 2013, Rio de Janeiro. CITENEL 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; Daza, Eric Fernando Boeck ; Garcia, Vinícius Jacques ; ; ; BASSI, O. A. ; . Sistema de Apoio à Decisão para Despacho Automático e Integrado de Ordens de Serviços Emergenciais. In: VII Congresso de Inovação Tecnológica em Energia Elétrica, 2013, Rio de Janeiro. CITENEL 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; Canha, Luciane Neves ; ; GARCIA, V. J. ; ; ; ; POSSEBON, E. . Automatic Restoration of Power Supply considering Islanded Operation of Distribution Network. In: 4th International Conference on Power Engineering, Energy and Electrical Drives, 2013, Istambul. IEEE POWERENG 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, V.J. ; BASSI, O. A. ; ; ; . Proposta de modelo matemático para o problema do despacho de ordens de serviço emergenciais em concessionária de distribuição de energia elétrica. In: XLV Simpósio Brasileiro de Pesquisa Operacional, 2013, Natal. XLV SBPO 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, V.J. ; ; ; BASSI, O. A. ; . Reliability assessment by coordinating maintenance vehicles in electric power distribution systems. In: 16th Euro Working Group on Transportation, 2013, Porto. EWGT 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, V.J. ; ; ; BASSI, O. A. ; ; KUMMER NETO, A. F. ; ; Daza, Eric Fernando Boeck . Multitasked maintenance crews to serve emergency scenarios in electric distribution utilities. In: 48th International Universities' Power Engineering Conference, 2013, Dublin. UPEC 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "MELLO, A. P. C. ; ; ; ; GARCIA, V. J. ; . Reconfiguration of Distribution Network considering Distributed Generation and Multivariables Criteria. In: 48th International Universities' Power Engineering Conference, 2013, Dublin. UPEC 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "RAMOS, M. ; MALYSZ, E. R. ; COMASSETTO, L. ; ; ; ; GARCIA, V. J. ; ; . Reconfiguração Dinâmica das Redes de Distribuição por meio do Uso de Equipamentos Automatizados. In: VII Congresso de Inovação Tecnológica em Energia Elétrica, 2013, Rio de Janeiro. CITENEL 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; ; BASSI, O. A. ; . Sistema de Apoio à Decisão para Despacho Automático e Integrado de Ordens de Serviços Emergenciais. In: VII Congresso de Inovação Tecnológica em Energia Elétrica, 2013, Rio de Janeiro. CITENEL 2013, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Canha, Luciane Neves ; ; GARCIA, V. J. ; ; COMASSETTO, L. ; RAMOS, M. . Automatic Reconfiguration of Distribution Networks using Smart Grid Concepts. In: INDUSCON, 2012, Fortaleza. INDUSCON 2012 - 10th IEEE/IAS International Conference on Industry Applications, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinícius Jacques ; BASSI, O. A. ; ; ; . Problema de Roteamento de Veículos para Atendimento de Ordens Emergenciais em Concessionária de Distribuição de Energia Elétrica. In: XLIV SBPO - Simpósio Brasileiro de Pesquisa Operacional, 2012, Rio de Janeiro. SBPO 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Canha, Luciane Neves ; GARCIA, V. J. ; ; RAMOS, M. . Smart Grid Concepts Applied to Distribution Network Reconfiguration. In: 47th International Universities' Power Engineering Conference, 2012, Londres. UPEC 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinícius Jacques ; ; BASSI, O. A. ; ; ; GUNDEL, M. ; FERNANDES, J. . Emergency work orders in electric distribution utilities: from business process definition to quantitative improvements. In: 47th International Universities' Power Engineering Conference, 2012, Londres. UPEC 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Canha, Luciane Neves ; Garcia, Vinícius Jacques ; ; COMASSETTO, L. ; RAMOS, M. . Desenvolvimento de Sistemas Inteligentes para Reconfiguração Automática de Redes de Distribuição. In: XII SEPOPE Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro. SEPOPE 2012, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; ; COMASSETTO, L. . Uso dos Conceitos de Smart Grid no Processo de Restabelecimento Automático de Energia Elétrica. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2011, Florianópolis. XXI SNPTEE 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; VALE, C. . Integrated and centralized management of electrical services in power distribution utilities. In: 46th International Universities Power Engineering Conference, 2011, Soest, Germany. UPEC 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; . Despacho automático de pequenas centrais hidrelétricas para otimização do valor de demanda contratada com a supridora. In: IX Simpósio de Automação de Sistemas Elétricos, 2011, Curitiba. IX SIMPASE 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "COMASSETTO, L. ; RAMOS, M. ; ; ; GARCIA, V. J. ; . Desenvolvimento de Sistemas Inteligentes para Operação de Equipamentos Telecomandados. In: Congresso de Inovação Tecnológica em Energia Elétrica, 2011, Fortaleza. VI Citenel 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; GARCIA, V. J. ; . Desenvolvimento de algoritmos e software para previsão de carga na área de concessão da Mux Energia ­ horizonte de curtíssimo prazo. In: Congresso de Inovação Tecnológica em Energia Elétrica ­ CITENEL, 2011, 2011, Fortaleza. VI Citenel 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; . Automatic Reestablishment of Power Supply in Distribution Systems using AHP Method. In: III IEEE International Conference on Power Engineering, Energy and Electrical Drives, 2011, Málaga. III PowerEng, 2011, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; COMASSETTO, L. ; . Metodologia para Restabelecimento de Energia Elétrica a partir de Chaves Telecomandadas. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém. SBSE 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; LOSER, G. ; VALE, C. ; FERNANDES, J. . Gestão estratégica das ordens de serviço: uma abordagem para despacho centralizado. In: XIX Seminário Nacional de Distribuição de Energia Elétrica, 2010, São Paulo. XIX Sendi, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; COMASSETTO, L. . Operação Automática de Chaves Telecomandadas para Restabelecimento de Energia Elétrica. In: XIX Seminário Nacional de Distribuição Energia Elétrica, 2010, São Paulo. XIX SENDI, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; ; COMASSETTO, L. . Automatic Reestablishment of Power Supply in Distribution Systems using Smart Grid Concepts. In: IEEE/PES 2010 Transmition & Distribution Conference and Exposition Latin America, 2010, São Paulo. IEEE/PES T&D 2010 Latin América, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; . Emprego de Redes Inteligentes para Restabelecimento Automático de Energia. In: Congresso Internacional de Distribuição de Energia Elétrica, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; ; . Variáveis climáticas aplicadas à previsão de demanda em curtíssimo prazo. In: Congresso Internacional de Energia Elétrica, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; . Alocação Multicriterial de Chaves Telecomandadas. In: Congresso Internacional de Distribuição de Energia Elétrica, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; GARCIA, V. J. . Definição do Perfil de Tensão Ideal para Operação de Redes de Distribuição. In: Congresso Internacional de Distribuição de Energia Elétrica, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "MASCIA, A. R. ; GARCIA, V. J. ; ; . Algoritmo heurístico para agrupamento de ordens de serviço em concessionárias de distribuição de energia elétrica. In: Congresso Internacional de Distribuição de Energia Elétrica, 2010, Buenos Aires. CIDEL 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; . Construção de um modelo probabilístico para previsão de demanda a partir de mapas auto-organizáveis. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito. CBA 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. . Building Forecasting Markov Models with Self-Organizing Maps. In: 45th International Universities' Power Engineering Conference, 2010, Cardiff. UPEC 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; ; COMASSETTO, L. . Smart Grid Concepts Applied to Distribution Networks Operation. In: 45th International Universities' Power Engineering Conference, 2010, Cardiff. UPEC 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; . Service Order Dispatching in Electric Utilities. In: 45th International Universities' Power Engineering Conference, 2010, Cardiff. UPEC 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; COMASSETTO, L. ; . Metodologia para Restabelecimento de Energia Elétrica a partir de Chaves Telecomandadas. In: Simpósio Brasileiro de Sistemas Elétricos, 2010, Belém. SBSE 2010, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; . Distribution Network Reconfiguration starting from Fuzzy Multicriteria Decision Making Algorithms. In: Electronics, Robotics and Automotive Mechanics Conference, 2009, Cuernavaca. CERMA 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. . Power flow solution with controls and limits represented by non linear programming techniques. In: The 44th International Universities' Power Engineering Conference, 2009, gLASGOW. UPEC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; . On the efficiency of alternative codifications for multiobjective service restoration in electric distribution networks. In: The 44th International Universities' Power Engineering Conference, 2009, Glasgow. UPEC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; . ew Fuzzy Multicriteria Decision Making Algorithm to Distribution Network Reconfiguration. In: The 44th International Universities' Power Engineering Conference, 2009, Glasgow. UPEC 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; ; . Algoritmos de Tomada de Decisão Multicriterial Fuzzy para Reconfiguração das Redes de Distribuição. In: Congresso Brasileiro de Qualidade de Energia Elétrica, 2009, Blumenau. CBQEE 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; GARCIA, V. J. ; ; ; ; CARDOSO JUNIOR, G. ; COMASSETTO, L. . Alocação Ótima de Chaves Telecomandadas nas Redes de Distribuição para Aumento da Confiabilidade dos Sistemas. In: Congresso Brasileiro de Qualidade de Energia Elétrica, 2009, Blumenau. CBQEE 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; RITT, M. ; . Melhoria da confiabilidade da rede de distribuição de energia elétrica. In: XL Simpósio Brasileiro de Pesquisa Operacional, 2008, João Pessoa. Anais XL Simpósio Brasileiro de Pesquisa Operacional, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Restauração de Redes de Distribuição de Energia Elétrica com o uso de Algoritmo Evolutivo Multiobjetivo. In: XL Simpósio Brasileiro de Pesquisa Operacional, 2008, João Pessoa. Anais XL Simpósio Brasileiro de Pesquisa Operacional, 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; GARCIA, V. J. ; ; ; ALMEIDA, J. . Decision Support System to Design Distribution Networks. In: International Conference on Electricity Distribution, 2007, Viena. 19 th International Conference on Electricity Distribution CIRED, 2007. p. 1-4.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Considering a hybrid SPEA2-based algorithm for multiobjective restoration in electric power distribution networks. In: 8th EU/MEeting on Metaheuristics in the Service Industry, 2007, Stuttgart. Proceedings of EU/ME 2007 ?Metaheuristics in the Service Industry?, 2007. p. 102-106.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; RITT, M. ; ; GARCIA, V. J. . Alocação de chaves para melhoria da confiabilidade da rede de distribuição de energia eltrica. In: XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007, Fortaleza. Anais do XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007. v. 1. p. 445-455.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; . Multi-chaveamento para restauração do serviço e balanceamento de carga em redes de disribuição de energia elétrica. In: XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007, Fortaleza. Anais do XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007. p. 1913-1924.",
+          "ano": 1924,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; . Enfoque multicritério para o problema de redistritamento capacitado. In: XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007, Fortaleza. Anais do XXXIX Simpósio Brasileiro de Pesquisa Operacional, 2007. v. 1. p. 1272-1283.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; GARCIA, V. J. . Algoritmos para Roteamento de Leituristas. In: Congresso Nacional de Matemática Aplicada e Computacional, 2007, Florianópolis. Anais do XXX Congresso Nacional de Matemática Aplicada e Computacional, 2007. v. 1. p. 1-7.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; MENDES, A. S. ; MOSCATO, P. . A Parallel Memetic Algorithm Applied to the Total Tardiness Machine Scheduling Problem. In: 20th International IEEE Parallel and Distributed Processing Symposium, 2006, Rhodes. Proceedings of the 9th International Workshop on Nature Inspired Distributed Computing, 2006. p. 1-8.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; ALMEIDA, J. ; ; ; . Metodologia para automação de projetos de redes de distribuição de energia elétrica. In: XVI Congresso Brasileiro de Automática, 2006, Salvador. Anais do XVI Congresso Brasileiro de Automática, 2006. p. 2566-2571.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; ALMEIDA, J. ; ; ; . Sistema para Automação de Projetos de Redes de Distribuição de Energia Elétrica. In: Congreso Internacional de Distribución Eléctrica, 2006, Buenos Aires. Congreso Internacional de Distribución Eléctrica, CIDEL 2006, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Multiobjective Heuristic Search for Service Restoration in Electric Distribution Networks. In: Proceedings of the 16th IFAC World Congress, 2005, Prague. Proceedings of the 16th IFAC World Congress, 2005. p. 6 pag.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Multiobjective Tabu Search for Service Restoration in Electric Distribution Networks. In: 2005 IEEE St.Petersburg PowerTech, 2005, St. Petersburg. Proceedings of the 2005 IEEE St.Petersburg PowerTech, 2005. p. 7 pag.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Multiobjective service restoration in electric distribution networks using a local search based heuristic. In: Operational Research Peripatetic Postgraduate Programme ORP3, 2005, Valencia. Proceedings Book 3rd. Edition, 2005. p. 35-44.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Busca local multiobjetivo para o problema de restauração do serviço em redes de distribuição de energia elétrica. In: Simpósio Brasileiro de Pesquisa Operacional, 2005, Gramado-RS. Anais do XXXVII Simpósio Brasileiro de Pesquisa Operacional, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MENDES, A. S. ; C. Cotta ; GARCIA, V. J. ; ; MOSCATO, P. . Parallel Memetic Algorithms for Gene Ordering in Microarray Data. In: International Conference on Parallel Processing Workshops, 2005, Oslo. Proceedings of the 2005 International Conference on Parallel Processing Workshops, 2005. p. 604-611.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; GARCIA, V. J. ; ; . A New Method for Planning Secondary Distribution Networks. In: Fourth IASTED International Conference Power and Energy Systems, 2004, Rhodes. Proceedings of the Fourth IASTED International Conference Power and Energy Systems, 2004. v. 6 pag..",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Abordagem Multicritério para Resolução do Problema de Restauração do Serviço em Redes de Distribuição de Energia Elétrica. In: XV Congresso Brasileiro de Automática, 2004, Gramado. Anais do XV Congresso Brasileiro de Automática, 2004. v. 6 pág..",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; ; . Consideração das Perdas Técnicas no Planejamento de Redes Secundárias de Distribuição de Energia Elétrica. In: XV Congresso Brasileiro de Automática, 2004, Gramado. Anais do XV Congresso Brasileiro de Automática, 2004. v. 6 pág..",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; ; ; . GRASP para o Problema de Planejamento de Redes Secundárias de Distribuição de Energia Elétrica. In: XXXV Simpósio Brasileiro de Pesquisa Operacional, 2003, Natal. Anais do XXXV Simpósio Brasileiro de Pesquisa Operacional. p. 1427-1437.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Um modelo de algoritmo mestre-escravo aplicado ao problema de seqüenciamento de tarefas em máquinas paralelas. In: XIV CBA - Congresso Brasileiro de Automática, 2002, Natal, RN. Anais do XIV CBA - Congresso Brasileiro de Automática, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; MENDES, A. S. ; . Algoritmo Memético Paralelo aplicado a problemas de Seqüenciamento em Máquina Simples. In: XXXIII Simpósio Brasileiro de Pesquisa Operacional, 2001, Campos do Jordão. Anais do XXXIII Simpósio Brasileiro de Pesquisa Operacional, 2001. p. 971-981.",
+          "ano": 2001,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "GARCIA, V. J. ; ; BARAN, M. E. . SPEA2-based Algorithm for Service Restoration in Electric Power Distribution Networks. In: 7th International Conference on Multi-Objective Programming and Goal Programming, 2006, Tours. Proceedings of the 7th MOPGP. p. 1-4.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SA, J. E. ; ; ALMEIDA, J. ; ; ; GARCIA, V. J. . Sistema para Automação de Projetos de Redes de Distribuição de Energia Elétrica. In: Encontro Pesquisadores em Sistemas de Potência, 2005, Campinas. Anais do SisPot 2005. p. 39-40.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; GARCIA, V. J. ; . Reconfiguração de Rede por Balanceamento de Carga em Sistemas de Distribuição de Energia Elétrica. In: Encontro Pesquisadores em Sistemas de Potência, 2006, Campinas. Anais do SISPOT 2006. p. 37-38.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Restauração do Serviço através de Algoritmo Genético Multiobjetivo. In: Encontro Pesquisadores em Sistemas de Potência, 2006, Campinas. Anais do SisPot 2006. p. 31-32.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Busca Tabu Multiobjetivo Aplicada ao Problema de Restauração do Serviço em Redes de Distribuição de Energia Elétrica. In: Encontro Pesquisadores em Sistemas de Potência, 2005, Campinas. Anais do SisPot 2005. p. 71-72.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; ; ; . Algoritmo de múltiplos reinícios para o problema planejamento de redes secundárias de distribuição de energia elétrica. In: Encontro de Pesquisadores em Sistemas de Potência, 2004, Campinas. Anais SisPot 2004, 2004. v. 1. p. 41-41.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Algoritmo construtivo bicritério para o problema de restauração do serviço em redes de distribuição de energia elétrica. In: Encontro de Pesquisadores em Sistemas de Potência, 2004, Campinas. Anais SisPot 2004, 2004. v. 1. p. 61-61.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "MATHIAS, E. N. ; PINTO, M. C. ; GARCIA, V. J. . Implantação e administração da rede PET-Informática: um estudo de caso. In: III Ciclo de Palestras em Informática, 1999, Santa Maria. Anais da III CPI, 1999. p. 26-28.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMERMANN, F. L. ; VIEIRA, V. G. ; GARCIA, V. J. . Enterprise JavaBeans. In: III Ciclo de Palestras em Informática, 1999, Santa Maria. Anais da III CPI. p. 13-16.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "VIEIRA, V. G. ; BECK FILHO, A. C. S. ; CAMOZZATO, M. M. ; GARCIA, V. J. ; ; SANTOS, H. G. ; STAGGEMEIER, A. T. . Timetabling e algoritmos genéticos: um modelo orientado a objetos. In: XIV Jornada Acadêmica Integrada, 1999, Santa Maria. Anais da XIV JAI. p. 1315.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; . Solução do problema de geração de quadros de horários para escolas de 2o. grau. In: XIV Jornada Acadêmica Integrada, 1999, Santa Maria. Anais da XIV JAI. p. 1247.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; BECK FILHO, A. C. S. ; CAMOZZATO, M. M. ; ; SANTOS, H. G. ; STAGGEMEIER, A. T. ; VIEIRA, V. G. . Solução do problema de timetabling usando algoritmos genéticos. In: XIV Jornada Acadêmica Integrada, 1999, Santa Maria. Anais da XIV JAI. p. 1246.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; CAMOZZATO, M. M. ; CAMPOS, T. J. ; ; TONIOLO, A. M. ; VIEIRA, V. G. . Implementações do Problema da Mochila. In: XIII Jornada Acadêmica Integrada - UFSM, 1998, Santa Maria. Anais da XIII Jornada Acadêmica Integrada - UFSM, 1998. p. 1278.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; TONIOLO, A. M. ; ; CAMOZZATO, M. M. ; CAMPOS, T. J. ; VIEIRA, V. G. . Framework para Problemas de Otimização Combinatorial: uma Implementação Orientada a Objetos para o Problema da Mochila. In: XIII Jornada Acadêmica Integrada - UFSM, 1998, Santa Maria. Anais da XIII Jornada Acadêmica Integrada - UFSM, 1998. p. 1275.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; COLETTI, J. A. R. ; ; ZIMMERMANN, F. L. . Métodos Heurísticos e Metaheurísticas. In: IV Jornada Integrada de Pesquisa, Extensão e Ensino (JIPEE), UFSM, 1997, Santa Maria. Anais da IV Jornada Integrada de Pesquisa, Extensão e Ensino (JIPEE), UFSM, 1997. p. 1383.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "GARCIA, V. J. ; ; AMARAL, J. B. ; ; VIEIRA, V. G. . Heurísticas para Solução do Problema do Caixeiro Viajante. In: IV Jornada Integrada de Pesquisa, Extensão e Ensino (JIPEE) - UFSM, 1997, Santa Maria. Anais da IV Jornada Integrada de Pesquisa, Extensão e Ensino (JIPEE) - UFSM, 1997. p. 1382.",
+          "ano": 1997,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "GARCIA, V. J. ; . Restauração de Redes de Distribuição de Energia Elétrica com o uso de Algoritmo Evolutivo Multiobjetivo. 2008. (Apresentação de Trabalho/Comunicação).",
+          "ano": 2008,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "items": [
+        {
+          "texto": "; ; SA, J. E. ; ; ALMEIDA, J. ; ; ; GARCIA, V. J. . Automação de Projetos de Redes de Distribuição de Energia Elétrica - Versão experimental do programa computacional de automação. CPFL/UNICAMP, RT4-CPFL-PD116, 2004 (Relatório Técnico).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SA, J. E. ; ; ALMEIDA, J. ; ; ; GARCIA, V. J. . Automação de Projetos de Redes de Distribuição de Energia Elétrica - Especificação do sistema de apoio à decisão. CPFL/UNICAMP, RT3-CPFL-PD116, 2004 (Relatório Técnico).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SA, J. E. ; ALMEIDA, J. ; ; GARCIA, V. J. . Automação de Projetos de Redes de Distribuição de Energia Elétrica - Levantamento do estado do conhecimento. CPFL/UNICAMP, RT1-CPFL-PD116, 2004 (Relatório Técnico).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SA, J. E. ; ; ALMEIDA, J. ; ; GARCIA, V. J. . Automação de Projetos de Redes de Distribuição de Energia Elétrica - Definição das técnicas e algoritmos de automação. CPFL/UNICAMP, RT2-CPFL-PD116, 2004 (Relatório Técnico).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; SA, J. E. ; ; ; GARCIA, V. J. . Planejamento da Rede Secundária de Distribuição de Energia Elétrica. CPFL/UNICAMP, RT7-CPFL-PD08, 2003 (Relatório Técnico).",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "GARCIA, V. J. . Despacho de ordens de serviço emergenciais em concessionárias de distribuição de energia elétrica. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinícius Jacques . Otimização do despacho de ordens de serviço em concessionárias de energia elétrica. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; ; . Sistema computacional para simulação de redes de distribuição de energia elétrica. 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; ; ; . Reagrupamento capacitado e multicritério para a definição de lotes de leitura em companhias de distribuição de energia elétrica. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; . Multiobjective metaheuristics for service restoration in electric distribution networks. 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; ALMEIDA, J. ; ; ; ; . Ferramentas computacionais para a automação do projeto de redes secundárias de distribuição de energia elétrica. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; ; . Heuristics for planning secondary distribution networks. 2003.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques . NpOpt Automatic: a framework of heuristics and tools to parallel optimization. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "Garcia, Vinicius Jacques ; . Parallel memetic algorithms for scheduling on single and parallel machines. 2002.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "items": [
+        {
+          "texto": "GARCIA, V. J. . Linkedin. 2025. (Rede social).",
+          "ano": 2025,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "; ; BRAGHIROLLI, L. F.. Participação em banca de Iochane Garcia Guimarães. METODOLOGIA ESTOCÁSTICA PARA PREVISÃO DE DEMANDA DE SERVIÇOS EMERGENCIAIS EM CONCESSIONÁRIAS DE ENERGIA ELÉTRICA. 2016. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; PEREIRA, P. R. S.; . Participação em banca de Francisco Diuner Veiga. Metodologia para Classificação e Tratamento de Eventos Especiais. 2015. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SIMONETTO, E. O.; . Participação em banca de Bianca Jupiara Fortes. Análise e modelagem das ordens emergenciais das concessionárias de energia elétrica. 2015. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Guilherme Stivanin. Reconfiguração de Redes de Distribuição em Situações de Contingências Considerando Operação Ilhada de PCH. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Daniel Luis Sechi. Planejamento da Expansão da Transmissão considerando a Conexão de uma Permissionária através de um Método de Apoio à Decisão. 2014. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Ana Paula Carboni de Mello. Reconfiguração de Redes de Distribuição Considerando Multivariáveis e Geração Distribuída. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Wagner de Melo Reck. Emprego de sistemas inteligentes para restabelecimento automático de energia elétrica a partir do uso de equipamentos telecomandados. 2012. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal do Pampa.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; NUNES, R. C.; . Participação em banca de Evandro Dotto Dias. Derca on-line: gestão acadêmica corporativa e processamento colaborativo de informações acadêmicas. 2010. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Gustavo Dorneles Ferreira. Otimização da confiabilidade de sistemas elétricos de distribuição: uma abordagem considerando a seleção e alocação de dispositivos de proteção e manobra. 2009. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; NUNES, R. C.; . Participação em banca de Gédson Mário Borges Dal Forno. Modelo de sistematização de uso de ferramentas para desenvolvimento de sistemas informatizados em empresas de pequeno porte. 2007. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Joselaine de Almeida. Sistema de apoio à decisão para elaboração de projetos de redes aéreas de distribuição de energia elétrica. 2007. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "; ; ; ; PEREIRA, P. R. S.; . Participação em banca de Rafael Gressler Milbradt. Novos Métodos Aplicados à Estimação de Estado Multi-Área considerando as Tecnologias Smart Grid. 2015. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; SIQUEIRA, I. P.; ; ZUBEN, F. J. V.; MENDES, R. S.. Participação em banca de Eduardo Tadeu Bacalhau. Otimização de políticas de manutenção em redes de distribuição de energia elétrica por estratégias híbridas baseadas em programação dinâmica. 2015. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; ; ; ; KAEHLER, J. W. M.; . Participação em banca de Adir Alexandre Bibiana Ferreira. Metodologia para Alocação de Centrais Eólicas Considerando o Impacto na Operação de Sistemas de Distribuição de Energia Elétrica. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; FARRET, F. A.; ANDRADE, M. A. N.; . Participação em banca de Wagner da Silva Brignol. Modelo Técnico Comercial para Viabilização da Mini e Microgeração Distribuída a Biogás em Sistemas de Distribuição. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; FALCAO, D. M.; RECH, C.; ; . Participação em banca de Elaine Aparecida de Lima Vianna. Estratégia para priorização de ações de manutenção em subestações de transmissão através de um sistema multicritério, com foco na confiabilidade de equipamentos e na remuneração de funções de transmissão. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MAGNAGO, K. F.; ; . Participação em banca de Nelson Knak Neto. Sistema Integrado para Planejamento da Expansão dos Sistemas de Distribuição Considerando Aspectos das Redes Inteligentes. 2014. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; POPOV, W.. Participação em banca de Rafael Gressler Milbradt. Contribuições aos Algoritmos para Estimação de Estado em Sistemas de Distribuição Considerando as Tecnologias Smart Grid. 2013. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; BORDIN, G.; . Participação em banca de Luciano Lopes Pfitscher. Reconfiguração automática de redes de distribuição em tempo real. 2012. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2012,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; ; GUIMARAES, I. G.. Participação em banca de Rafael Wojciechowski Barbosa.HEURÍSTICAS HÍBRIDAS PARA ROTEIRIZAÇÃO DE EQUIPES DE ATENDIMENTO EM DISTRIBUIDORAS DE ENERGIA ELÉTRICA. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BATTESINI, M.; ; RABENSCHLAG, D. R.. Participação em banca de Francelli Ignacio Gonçalves Zart.Leiaute industrial: estudo de caso em uma empresa de confecções. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F.. Participação em banca de Luiz Fernando Kucera Miorando.Dimensionamento e análise do sistema de atendimento de serviços em concessionária de distribuição de energia elétrica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; RABENSCHLAG, D. R.; BRAGHIROLLI, L. F.. Participação em banca de Flavia Wessheimer Vey..Aplicação de um problema de coleta e entrega em uma transportadora. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; HOSS, M.; RABENSCHLAG, D. R.. Participação em banca de João Paulo Guex Falcão.Desenvolvimento e implantação de software de controle de estoque em uma indústria do ramo de cosméticos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "WEISE, A. D.; ; BRAGHIROLLI, L. F.. Participação em banca de Patrícia Luana Jung.Identificação do custo de retrabalho no desenvolvimento de software: estudo de caso. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CAIRES, L. M.; GUIMARAES, I. G.. Participação em banca de Alan Mateus de Oliveira Padilha.PROBLEMA DE ROTEAMENTO DE VEÍCULOS DINÂMICO COM JANELA DE TEMPO APLICADO AO ATENDIMENTO DE ORDENS EMERGENCIAIS DE UMA CONCESSIONÁRIA DE ENERGIA ELÉTRICA. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CAIRES, L. M.; GUIMARAES, I. G.. Participação em banca de André Luis Manfron.METODOLOGIA PARA GERENCIAMENTO DE SERVIÇOS PENDENTES EM UMA CONCESSIONÁRIA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CAIRES, L. M.; GUIMARAES, I. G.. Participação em banca de Gustavo Rocha Stamm.DESPACHO DE ORDENS EMERGÊNCIAIS EM UMA COMPANHIA DE DISTRIBUIÇÃO DE ENERGIA ELÉTRICA. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "RABENSCHLAG, D. R.; ; GODOY, L. P.. Participação em banca de Guilherme Arreal.Aplicação de modelo de lote econômico de compra em uma empresa de máquinas para cassinos de Guadalajara México. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; CAIRES, L. M.; GUIMARAES, I. G.. Participação em banca de Rodrigo Follmer.Sistema de banco de dados para o gerenciamento de serviços em concessionárias de distribuição de energia elétrica. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia de Produção) - Universidade Federal de Santa Maria.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Daniel Luis Sechi.Localização de Falhas em Redes Aéreas de Distribuição via Mapas Auto-Organizáveis. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal do Pampa.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "PINTO, M. C.; BILLA, C.; . Participação em banca de Tatiana Cartagena de Oliveira.Simulação e Visualização de Sistemas Biológicos. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; PINTO, M. C.; BILLA, C.. Participação em banca de Wagner de Melo Reck.Algoritmos de Agrupamento Capacitado aplicado ao Problema de Despacho de Ordens de Serviço. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; PINTO, M. C.. Participação em banca de Rodrigo da Rosa Gomes.Previsão de Carga no Curtíssimo Prazo utilizando Redes Neurais Artificiais. 2010. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Federal do Pampa.",
+          "ano": 2010,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "; BEDER, D.; SACCOL, D. B.. Professor adjunto, Projeto e construção de software. 2010. Universidade Federal do Pampa.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; STEIN, B.; . Concurso público para professor adjunto no Centro de Tecnologia de Alegrete. 2008. Universidade Federal do Pampa.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; MARTINS, G.; . Concurso público para professor adjunto no Centro de Tecnologia de Alegrete. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "SOARES, J. M. D.; ; GOULART, A. G. O.. Concurso público para professor adjunto no Centro de Tecnologia de Alegrete. 2007. Universidade Federal de Santa Maria.",
+          "ano": 2007,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

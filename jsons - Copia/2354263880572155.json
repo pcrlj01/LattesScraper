@@ -1,0 +1,1498 @@
+{
+  "name": "Ildemar Cassana Decker",
+  "lattes_id": "2354263880572155",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "ZANELLA, L. ; AMBRÓSIO, B.A.S. ; MORAES, G.R. ; DECKER, I.C. ; AQUINO, A.F.C. ; ISSICABA, D. . Design of a machine learning model to enhance the arming of the system integrity protection scheme of the Brazilian North-Southeast HVDC Bipoles. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110647, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110647"
+        },
+        {
+          "texto": "DA SILVA, DANIEL S. ; MORAES, GUIDO R. ; PENNA, LEANDRO D. ; Decker, Ildemar C. ; AQUINO, ANTONIO F.C. ; ISSICABA, DIEGO . Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure. ELECTRIC POWER SYSTEMS RESEARCH , v. 235, p. 110821, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2024.110821"
+        },
+        {
+          "texto": "SANTOS, ORLEM L.D. ; Dotta, Daniel ; WANG, MENG ; CHOW, JOE H. ; Decker, Ildemar C. . Performance analysis of a DNN classifier for power system events using an interpretability method. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 136, p. 107594, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107594"
+        },
+        {
+          "texto": "ALBERTO, MATHEUS ; SOARES, GUILHERME M. ; SILVA, LEANDRO R.M. ; DUQUE, CARLOS A. ; Decker, Ildemar C. ; RIBEIRO, PAULO F. ; JUNIO, EDEN L.C. ; FVARO, ALEXANDRE D. ; PASSOS, LUIS FERNANDO . Newly Implemented Real-Time PQ Monitoring for Transmission 4.0 Substations. ELECTRIC POWER SYSTEMS RESEARCH , v. 204, p. 107709, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2021.107709"
+        },
+        {
+          "texto": "MORAES, GUIDO R. ; AMBRÓSIO, BRYAN A.S. ; PEREIRA, JULIANA L. ; ISSICABA, DIEGO ; AQUINO, ANTONIO F.C. ; Decker, Ildemar C. . Impact analysis of COVID-19 pandemic on the electricity demand, frequency control and electromechanical oscillation modes of the Brazilian Interconnected Power System using low voltage WAMS data. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 142, p. 108266, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2022.108266"
+        },
+        {
+          "texto": "PEREIRA, JULIANA LUIZA ; LEANDRO, RODOLFO BIALECKI ; DECKER, ILDEMAR CASSANA ; MORAES, GUIDO ROSSETTO . A Cross-Validation Strategy for the Identification of Electromechanical Oscillations in Real Ambient Data. JOURNAL OF CONTROL, AUTOMATION AND ELECTRICAL SYSTEMS , v. 1, p. 1, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00843-5"
+        },
+        {
+          "texto": "VAZ, RODRIGO ; MORAES, GUIDO R. ; ARRUDA, EDUARDO H.Z. ; TERCEIRO, JYVAGO C.B.S. ; AQUINO, ANTONIO F.C. ; Decker, Ildemar C. ; ISSICABA, DIEGO . Event detection and classification through wavelet-based method in low voltage wide-area monitoring systems. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 130, p. 106919, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.106919"
+        },
+        {
+          "texto": "MIRANDA, VLADIMIRO ; A. CARDOSO, PEDRO ; BESSA, RICARDO J. ; DECKER, ILDEMAR . Through the looking glass: Seeing events in power systems dynamics. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 106, p. 411-419, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2018.10.024"
+        },
+        {
+          "texto": "ZIMMER, V. ; DECKER, I. C. ; . A Robust approach for the identification of synchronous machine parameters and dynamic states based on PMU data. ELECTRIC POWER SYSTEMS RESEARCH , v. 165, p. 167-178, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2018.09.008"
+        },
+        {
+          "texto": "GÓMEZ, J.E. ; DECKER, I.C. . A novel model validation methodology using synchrophasor measurements. Electric Power Systems Research (Print) , v. 119, p. 207-217, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1016/j.epsr.2014.09.024"
+        },
+        {
+          "texto": "LEANDRO, R. B. ; ; DECKER, I. C. ; AGOSTINI, M. N. . Identification of the Oscillation Modes of a Large Power System Using Ambient Data. Journal of Control, Automation and Electrical Systems , v. 1, p. 1-13, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1007/s40313-015-0187-1"
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; BENETTI, M. A. ; BASTOS, M. R. ; . Protótipo de Sistema de Medição Fasorial Sincronizada: Desenvolvimentos e Implementação no Sistema de Transmissão da CTEEP. P&D: Revista Pesquisa e Desenvolvimento da Aneel , v. 5, p. 35-38, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; e Silva, Aguinaldo S. ; Agostini, Marcelo N. ; Prioste, Fernando B. ; Mayer, Breno T. ; Dotta, Daniel . Experience and applications of phasor measurements to the Brazilian interconnected power system. European Transactions on Electrical Power , v. 21, p. 1557-1573, 2011.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1002/etep.537"
+        },
+        {
+          "texto": "DECKER, I. C. ; ; Mayer, Breno T. ; Teodoro, F. H. ; ; . Estudo e Avaliação do Desempenho de um Protótipo de Sistema de Medição Fasorial Sincronizada Instalado no Sistema de Transmissão da Eletrosul. EletroEvolução (Rio de Janeiro) , v. 59, p. 16-23, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "PESENTE, J. R. ; DECKER, I. C. ; . Estudo da utilização da medição fasorial sincronizada para o esquema de controle de emergência do sistema de transmissão de Itaipu 60 Hz. EletroEvolução (Rio de Janeiro) , v. 58, p. 45-52, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DECKER, I. C. . Wide-Area Measurements-Based Two-Level Control Design Considering Signal Transmission Delay. IEEE Transactions on Power Systems , v. 24, p. 208-216, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; . A New Approach for the Design of Electric Power System Software Using Object Oriented Modeling.. International Journal of Electrical Power & Energy Systems , v. 29, p. 505-513, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; . Sistema de Medição Fasorial Sincronizada: Desenvolvimentos e Aplicação na Monitoração de Freqüência do Sistema Elétrico Brasileiro.. EletroEvolução (Rio de Janeiro) , v. 44, p. 38-47, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; . Desenvolvimento e Implementação de uma Base Computacional Orientada a Objetos para Aplicações em Sistemas de Energia Elétrica. Controle & Automação , Campinas - SP, v. 13, n.2, p. 181-189, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; . Discussion of: Design of Generic Direct Sparse Linear System Solver in C++ for Power System Analysis. IEEE Transactions on Power Systems , New York, v. 17, n.3, p. 926-927, 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; . Power Systems Dynamic Simulation Using Object-Oriented Programming. IEEE Transactions on Power Systems , USA, v. 14, n.1, p. 249-255, 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Conjugate Gradient Methods For Power System Dynamic Simulation In Paralllel Computers. IEEE Transactions on Power Systems , USA, v. 11, p. 1218-1227, 1996.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Parallel Implementation Of Power System Dynamic Simulation Methodology Using The Conjugate Gradient Method. IEEE Transactions on Power Systems , USA, v. 7, p. 458-465, 1992.",
+          "ano": 1992,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Textos em jornais de notícias/revistas",
+      "items": [
+        {
+          "texto": "BASTOS, M. R. ; ; DECKER, I. C. ; ; ; LEANDRO, R. B. ; BENETTI, M. A. ; ZIMMER, V. . CTEEP Transmission System - Developments and Applications of Synchronized Phasor Measurement.. PAC World Magazine: Protection, Automation & Control World.",
+          "ano": 0,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ZANELLA, L. ; AMBRÓSIO, B.A.S. ; MORAES, GUIDO R. ; DECKER, I.C. ; AQUINO, A.F.C. ; ISSICABA, D. . Design of a Machine Learning Model to Enhance the Arming of the System Integrity Protection Scheme of the Brazilian North-Southeast HVDC Bipoles. In: Power Systems Computation Conference, 2024, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "DA SILVA, DANIEL S. ; MORAES, G.R. ; PENNA, LEANDRO D. ; DECKER, I. C. ; AQUINO, A.F.C. ; ISSICABA, D. . Monitoring systemic dynamic effects following disturbances affecting HVDC power transmission in the BIPS using WAMS infrastructure. In: Power Systems Computation Conference, 2024, 2024, Paris. Proceedings of the Power Systems Computation Conference 2024, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; DECKER, I. C. ; . ESTIMAÇÃO DE PARÂMETROS DE MÁQUINAS SÍNCRONAS USANDO SINCROFASORES. In: XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017, Curitiba. XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "LEANDRO, R. B. ; DECKER, I. C. ; ; Agostini, Marcelo N. . Monitoramento on-line dos principais modos interárea do SIN utilizando sincrofasores. In: XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017, Curitiba. XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "MANTELLI, F. M. ; DECKER, I. C. ; SILVA, P. A. S. ; LEANDRO, R. B. ; ZIMMER, V. ; VIEIRA, P. C. C. ; . Operação e Manutenção de um Sistema de Medição Sincronizada de Fasores ? Experiência do Projeto MedFasee. In: XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017, Curitiba. XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, P. A. S. ; ; DECKER, I. C. ; JARDIM, J. L. A. . VALIDAÇÃO DE MODELOS DE SIMULAÇÃO DA DINÂMICA DO SISTEMA INTERLIGADO NACIONAL UTILIZANDO SINCROFASORES. In: XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017, Curitiba. XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, F. L. ; GRILLO, L. O. S. ; ; DECKER, I. C. . DIAGNÓSTICO DE FALHAS POR MONITORAMENTO DE PARÂMETROS DA FUNÇÃO GERAÇÃO EM HIDROGERADOR DA UHE CANASTRA: INOVAÇÃO EM HARDWARE E SOFTWARE, APLICAÇÕES E TESTES PRELIMINARES. In: XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017, Curitiba. XXIV SNPTEE SEMINÁRIO NACIONAL DE PRODUÇÃO E TRANSMISSÃO DE ENERGIA ELÉTRICA, 2017.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "LEANDRO, R. B. ; DECKER, I. C. ; ; ; JEREMIAS, T. . Identificação em tempo real de oscilações eletromecânicas utilizando sincrofasores.. In: XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "BENETTI, M. A. ; DECKER, I. C. ; ; . Emprego de um Esquema para Aumento da Segurança Dinâmica de Sistemas Elétricos de Potência usando Dados Fasoriais.. In: XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; VIEIRA, P. C. C. ; ZARZOSA, M. A. D. ; DECKER, I.C. ; . Aplicativo Computacional para a Caracterização de Eventos em Sistemas Elétricos Usando Sincrofasores.. In: XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015, Foz do Iguaçu. XXIII SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2015.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; LEANDRO, R. B. ; SILVA, P. A. S. ; JEREMIAS, T. ; VIEIRA, P. C. C. ; BENETTI, M. A. ; MANTELLI, F. M. ; DECKER, I. C. ; ; . Análise do Desempenho Dinâmico do SIN durante Grandes Perturbações Utilizando Sincrofasores. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; VIEIRA, P. C. C. ; DECKER, I. C. ; ; . Caracterização On-line de Eventos no SIN utilizando Sincrofasores. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "QUINTAO, P. E. M. ; SOARES, N. H. ; GIOVANINI, R. ; NOHARA, A. A. ; BARBOSA, A. A. ; ROCHA, G. F. C. ; MUNIZ, M. P. ; AQUINO, A. F. C. ; MASSAUD, A. G. ; DECKER, I. C. ; ; ZIMMER, V. . Detecção e Mitigação de Oscilações Mal Amortecidas no Sistema Interligado Nacional - Exploração de Medição Fasorial Sincronizada e Ferramentas de Análise Linear. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "GOMEZ, J. E. ; AMADOR, W. E. ; DECKER, I. C. . Validação dos modelos de uma usina hidrelétrica de grande porte utilizando PMUs instaladas em baixa tensão na caverna. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "LEANDRO, R. B. ; JEREMIAS, T. ; DECKER, I. C. ; ; . Monitoramento on-line de oscilações eletromecânicas no SIN utilizando sincrofasores. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "BENETTI, M. A. ; DECKER, I. C. ; ; . Avaliação e Melhoria da Segurança Dinâmica de Sistemas Elétricos de Potência Utilizando Sincrofasores. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, B. P. S. ; ASSIS, T. M. L. ; TARANTO, G. N. ; DECKER, I. C. ; BARBOSA, A. A. ; AQUINO, A. F. C. . Reprodução de Perturbações a Partir de Dados de Medição Fasorial Sincronizada. In: XIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2014, Foz do Iguaçu. Anais do XIII SEPOPE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; DECKER, I. C. ; . Disturbance location in the Brazilian electric power system using synchrophasors. In: 2013 IEEE PES Conference on Innovative Smart Grid Technologies (ISGT Latin America), 2013, Sao Paulo. 2013 IEEE PES Conference on Innovative Smart Grid Technologies (ISGT Latin America), 2013. p. 1.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2013.6554415"
+        },
+        {
+          "texto": "ZIMMER, V. ; TENFEN, D. ; DECKER, I. C. ; LEMOS, F. A. B. . Three-phase newton raphson power flow considering microgeneration. In: 2013 IEEE PES Conference on Innovative Smart Grid Technologies (ISGT Latin America), 2013, Sao Paulo. 2013 IEEE PES Conference on Innovative Smart Grid Technologies (ISGT Latin America), 2013. p. 1.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2013.6554423"
+        },
+        {
+          "texto": "VIEIRA, P. C. C. ; DECKER, I. C. ; ; ZIMMER, V. . Análise de Erros Associados aos Circuitos de Instrumentação na Medição Fasorial Sincronizada. In: X Simpósio de Automação de Sistemas Elétricos - SIMPASE, 2013, Belo Horizonte, MG, Brasil. Anais do X SIMPASE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, P. A. S. ; ZIMMER, V. ; DECKER, I. C. ; ; MANTELLI, F. M. . Análise do Desempenho Dinâmico da Interligação AC-RO/SIN com a Inserção da UHE Santo Antônio Usando Sincrofasores. In: XXII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2013, Brasília. Anais do XXII SNPTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "LEANDRO, R. B. ; ZIMMER, V. ; JEREMIAS, T. ; DECKER, I. C. ; . Ambiente Computacional de Análise do Desempenho Dinâmico de Sistemas Elétricos Usando Sincrofasores. In: XXII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2013, Brasília. Anais do XXII SNPTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BENETTI, M. A. ; DECKER, I. C. ; ; ; JEREMIAS, T. . Aplicação de Dados de Medição Fasorial Sincronizada na Avaliação da Segurança Dinâmica de Sistemas Elétricos de Potência. In: XXII Seminário Nacional de Produção e Transmissão de Energia Elétrica (SNPTEE), 2013, Brasília. Anais do XXII SNPTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "TENFEN, D. ; LEMOS, F. A. B. ; FERNANDES, R. C. ; DECKER, I. C. . Microgrids and Microgeneration in Brazilian Energy Market: a Discussion of Regulatory and Comercial Aspects. In: 9º Latin-American Congress on Electricity Generation and Transmission (CLAGTEE ), 2013, Viña del Mar, Chile. Anais do 9º CLAGTEE, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "BENETTI, M. A. ; DECKER, I. C. ; ; BASTOS, M. R. . Estudo da Influência dos Canais de Instrumentação na Exatidão de Medidas Fasoriais Sincronizadas e seus Efeitos em Aplicações. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro - RJ. Anais do XII SEPOPE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "JEREMIAS, T. ; ZIMMER, V. ; DECKER, I. C. ; ; . Ambiente de Desenvolvimento de aplicativos para o Processamento de Dados Fasoriais Sincronizados do Sistema Elétrico Brasileiro. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro - RJ. Anais do XII SEPOPE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "GAVIOLI, G. A. ; CAPANO JR, J. M. M. ; DECKER, I. C. ; MEDEIROS, A. D. ; ; ZIMMER, V. . Utilização de medição fasorial sincronizada na validação de modelos do Sistema Interligado Nacional. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro - RJ. Anais do XII SEPOPE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "GOMEZ, J. E. ; Leon, R.A. ; CASTRILLON, N. J. ; DECKER, I. C. . Validação de Modelos de Unidades Geradoras do Sistema Interligado Colombiano usando Dados de Medição Fasorial Sincronizada. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro - RJ. Anais do XII SEPOPE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "PRIOSTE, F. B. ; ; DECKER, I. C. . Desempenho de algoritmos de subespaço de espaço de estados na monitoração contínua de oscilações eletromecânicas de sistemas elétricos de potência. In: XII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2012, Rio de Janeiro - RJ. Anais do XII SEPOPE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; JEREMIAS, T. ; ; DECKER, I. C. . Aplicação de Dados de Medição Fasorial Sincronizada na Análise do Desempenho da Interligação AC-RO/SIN. In: IV Simpósio Brasileiro de Sistemas Elétricos, 2012, Goiânia - GO. Anais do IV SBSE, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "JEREMIAS, T. ; ZIMMER, V. ; DECKER, I. C. ; ; . Estudo de Oscilações Eletromecânicas no Sistema Elétrico Brasileiro Utilizando Medidas Fasoriais Sincronizadas. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande - PB. Anais do XIX CBA, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "ZIMMER, V. ; JEREMIAS, T. ; DECKER, I. C. ; . Detecção de Perturbações Sistêmicas Usando Dados de Medição Fasorial Sincronizada. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande - PB. Anais do XIX CBA, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "JEREMIAS, T. ; ZIMMER, V. ; DECKER, I. C. ; ; . Estudo do Desempenho de Metodologias para o Monitoramento em Tempo Real dos Modos de Oscilações Eletromecânicas do SIN utilizando Medição Fasorial Sincronizada. In: XI - Seminário Técnico de Proteção e Controle, 2012, Florianópolis, SC, Brasil. Anais do XI - STPC, 2012.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "PRIOSTE, F. B. ; ; DECKER, I. C. . Monitoring oscillations modes of the Brazilian Interconnected Power System using ambient data. In: PowerTech, 2011 IEEE Trondheim, 2011, Trondheim. PowerTech, 2011 IEEE Trondheim, 2011. p. 1-7.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/PTC.2011.6019317"
+        },
+        {
+          "texto": "DECKER, I. C. ; ; PRIOSTE, F. B. ; ; . Experience ofWAMS Development and Applications in Brazil. In: 17th Power Systems Computation Conference, 2011, Stockholm. 17th Power Systems Computation Conference, 2011. p. 1-7.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "GAVIOLI, G. A. ; CAPANO JR, J. M. M. ; MEDEIROS, A. D. ; DECKER, I. C. ; . Utilização de Medição Fasorial Sincronizada na Validação de Modelos em Sistemas de E-nergia Elétrica: Princípios, Práticas Atuais e Desafios para sua Incorporação às Práticas de Análise do Sistema Interligado Nacional.. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011, Florianópolis, SC. XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; BASTOS, M. R. ; . Desenvolvimento e Implementação de um Protótipo de Sistema de Medição Fasorial Sincronizada no Sistema de Transmissão de 440 kV da CTEEP. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011, Florianópolis, SC. XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "TREVISAN, F. ; DECKER, I. C. ; ; SILVA, J. L. J. . Validação de Parâmetros de Unidades Geradoras Usando Dados de Medição Fasorial Sincronizada e Simulação Dinâmica Híbrida.. In: XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011, Florianópolis, SC. XXI Seminário Nacional de Produção e Transmissão de Energia Elétrica ? SNPTEE, 2011.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "GOMEZ, J. E. ; DECKER, I. C. ; Leon, R.A. . Hybrid simulations, a smart way to perform parameter validation in power systems. In: ISGT Latin America Conference, 2011, Medellin. Innovative Smart Grid Technologies (ISGT Latin America), 2011 IEEE PES Conference on, 2011. p. 1-7.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/ISGT-LA.2011.6083184"
+        },
+        {
+          "texto": "DECKER, I. C. ; ; SILVA, R. J. G. ; ; MARTINS, N. ; PRIOSTE, F. B. . System wide model validation of the Brazilian Interconnected Power System. In: Power and Energy Society General Meeting, 2010 IEEE, 2010, Minneapolis, MN. Power and Energy Society General Meeting, 2010 IEEE, 2011. p. 1-8.",
+          "ano": 2011,
+          "doi": "http://dx.doi.org/10.1109/PES.2010.5590023"
+        },
+        {
+          "texto": "PRIOSTE, F. B. ; ; DECKER, I. C. . Avaliação de Métodos de Identificação de Modos Eletromecânicos em Sistemas Elétricos de Potência. In: XVIII Congresso Brasileiro de Automática, 2010, Bonito - MS. XVIII Congresso Brasileiro de Automática, 2010. p. 1-8.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; . Monitoring of a large scale event in the Brazilian Power System by WAMS. In: Bulk Power System Dynamics and Control (iREP) - VIII (iREP), 2010 iREP Symposium, 2010, Rio de Janeiro. Bulk Power System Dynamics and Control (iREP) - VIII (iREP), 2010 iREP Symposium, 2010. p. 1-8.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1109/IREP.2010.5563249"
+        },
+        {
+          "texto": "LIRA, Ricardo ; DECKER, I. C. ; ; MEYER, B. T. . Influência dos Canais de Instrumentação na Exatidão da Medição Sincronizada de Fasores. In: Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2010, Belém, PA. Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, M. M. ; DECKER, I. C. ; . Análise de Fatores de Participação e Mode Shapes Usando Dados de Medição Sincronizada de Fasores. In: Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2010, Belém, PA. Simpósio Brasileiro de Sistemas Elétricos - SBSE, 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DECKER, I. C. . Design of Power System Controllers by Nonsmooth, Nonconvex Optimization. In: IEEE PES General Meeting, 2009, Calgary, AB. Proceedings of the PES GM 2009, 2009. p. 1-7.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "PRIOSTE, F. B. ; ; DECKER, I. C. . Power System Control based on the Identification of Oscillation Modes. In: IEEE PowerTech, 2009, Bucharest. Proceedings of the IEEE PowerTech 2009, 2009. p. 1-6.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "PRIOSTE, F. B. ; ; DECKER, I. C. . Identificação de Oscilações Eletromecânicas a partir de Dados de Sistemas de Medição Fasorial Sincronizada. In: THE 8TH LATIN-AMERICAN CONGRESS ON ELECTRICITY GENERATION AND TRANSMISSION - CLAGTEE 2009, 2009, Ubatuba, SP. Anais do CLAGTEE 2009, 2009. p. 1-9.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; MEYER, B. T. ; Teodoro, F. H. ; ; . Estudo e Avaliação do Desempenho de um Protótipo de Sistema de Medição Fasorial Sincronizada Instalado no Sistema de Transmissão da Eletrosul. In: XX SNPTEE- Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife, PE. Anais do XX SNPTEE, 2009. p. 1-10.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DECKER, I. C. ; . Melhoria da Estabilidade Angular usando Sinais de Medição Fasorial Sincronizada. In: XX SNPTEE - Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2009, Recife, PE. Anais do XX SNPTEE, 2009. p. 1-8.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; ; MEYER, B. T. ; . Installation and Monitoring Experiences of the First Synchronized Measurement System in the Brazilian National Grid. In: IEEE Transmission and Distribution Conference and Exposition: Latin America,, 2008, Bogotá. Proceedings of the IEEE T & D 2008, 2008. p. 1-7.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; MEYER, B. T. ; DECKER, I. C. . Análise dos Benefícios de Medições Fasoriais Sincronizadas Quanto ao Desempenho da Estimação de Estados em Sistemas de Potência. In: XVII CBA - Congresso Brasileiro de Automática, 2008, Juiz de Fora, MG. Anais do XVII CBA 2008, 2008. p. 1-6.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "SANTOS, M. M. ; DECKER, I. C. ; . Análise de Oscilações Eletromecânicas Usando Dados de Medição Fasorial Sincronizada. In: SBSE 2008 - Simpósio Brasileiro de Sistemas Elétricos, 2008, Belo Horizonte, MG. Anais do SBSE 2008, 2008. p. 1-6.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; MEYER, B. T. ; ; LIRA, Ricardo ; . Experiências da Instalação e Monitoramento do Primeiro Sistema de Medição Fasorial Sincronizada Instalado no Sistema Interligado Nacional. In: IX STPC - Seminário Técnico de Proteção e Controle, 2008, Belo Horizonte. Anais do IX STPC, 2008. p. 1-9.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DECKER, I. C. . Power System Small-Signal Angular Stability Enhancement using Synchonized Phasor Measurement. In: IEEE PES General Meeting, 2007, 2007, Tampa. Proceedings, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; ; . Performance of a Synchronized Phasor Measurements System in the Brazilian Power System. In: IEEE PES General Meeting, 2006, 2006, Montreal. Proceedings, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; ; BETTIOL, A. L. ; . Applications of a Synchronized Phasor Measurements System in Southern Brazil. In: X Symposium of Specialists in Electric Operational and Expansion Planning - SEPOPE, 2006, 2006, Florianópolis. Proceedings, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; ; BETTIOL, A. L. ; . Development and Experimental use of a Wide Area Measurement System. In: VII Conferência Internacional de Aplicações Industriais - INDUSCON, 2006, 2006, Recife. Anais, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; ; ; BETTIOL, A. L. ; MARINI, Robson ; LIRA, Ricardo . Phasor Measurement Development and Aplications in Brazil. In: 1st International Conference on Electrical Engineering - CEE 2005, 2005, Coimbra, Pt. Proceedings of the 1st International Conference on Electrica Engineering - CEE 2005, 2005. p. 1-8.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; . Sistema de Medição Fasorial Sincronizada: Desenvolvimentos e Aplicação na Monitoração de Frequência do Sistema Elétrico Brasileiro. In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005, Curitiba, PR. Anais do XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005. p. 1-8.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "MARINI, Robson ; ; ; DECKER, I. C. . Melhoria da Estabilidade Angular de Sistemas Elétricos usando Medição Fasorial. In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005, Curitiba, PR. Anais do XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica, 2005. v. 1. p. 1-8.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "BETTIOL, A. L. ; LIRA, Ricardo ; DECKER, I. C. . Localização de Faltas em Linhas de Transmissão Usando Medição Fasorial Sincronizada. In: XVIII Seminário Nacional de Produção e Transmissão de Energia Elétrica - SNPTEE, 2005, Curitiba. Anais do XVIII SNPTEE, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; EHRENSPERGER, J. G. ; ; ; BETTIOL, A. L. ; UTURBEY, W. . Synchronized Phasor Measurement System: Development and Applications. In: IX Symposium of Specialists in Electric Operational and Expansion Planning, 2004, Rio de Janeiro. IX Symposium of Specialists in Electric Operational and Expansion Planning, 2004. v. 1.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; EHRENSPERGER, J. G. ; . Desenvolvimento de um Simulador de Sistemas de Medição Fasorial. In: Congresso Brasileiro de Automática - CBA 2004, 2004, Gramado, RS. Anais do Congresso Brasileiro de Automática - CBA 2004, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; ; SOUZA, A. . Modelagem Orientada a Objetos para a Análise da Segurança Dinâmica. In: IX Simpósio de Especialistas em Operação e Planejamento da Expansão, 2004, Rio de Janeiro - RJ. Anais do IX SEPOPE, 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ZUCARATO, A. N. ; FERNANDES, R. C. ; SILVA, E. L. ; SILVEIRA, F. S. V. . Identificação da Viabilidade Prática de Modelos Loose-Pool em Sistemas Hidrotérmicos. In: II Citenel - Congresso de Inovação Tecnológica em Energia Elétrica, 2003, Salvador. Anais do II Citenel, Vols. I e II, 2003. v. II. p. 679-687.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; HAAS, Reinaldo ; ; REGINA, J. V. M. . Validação de um Sistema para Previsão Quantitativa de Chuva para o Sul do Brasil. In: II Citenel - Congresso de Inovação Tecnológica em Energia Elétrica, 2003, Salvador - BA. Anais do II Citenel, Vol. I e II, 2003. v. I. p. 445-451.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; . Nova Filosofia para o Projeto de Softwares na Área de Sistemas de Energia Elétrica Utilizando Modelagem Orientada A Objetos. In: XIV Congresso Brasileiro de Automática, 2002, Natal, RN. Anais do XIV Congresso Brasileiro de Automática, 2002. v. 1. p. 1555-1561.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. ; DECKER, I. C. . Serviços Ancilares no Mercado de Energia Elétrica Brasileiro. In: XIV Congresso Brasileiro de Automática, 2002, Natal, RN. Anais do XIV Congresso Brasileiro de Automática, 2002. v. 1. p. 1-6.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; SOUZA, A. ; ; DECKER, I. C. . Simulação Dinâmica de Sistemas de Energia Elétrica Utilizando o PSPICE. In: XIV Congresso Brasileiro de Automática, 2002, Natal, RN. Anais do XIV Congresso Brasileiro de Automática, 2002. v. 1. p. 1-6.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "SOUZA, A. ; DECKER, I. C. ; ; BETTIOL, A. L. . Sistema Computacional Baseado em Cluster de Microcomputadores para Avaliação e Melhoria da Segurança Dinâmica On-line. In: VIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2002, Brasília, DF. Anais do VIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica, 2002. v. 1. p. 1-6.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; FERREIRA, J. M. F. ; DECKER, I. C. . Object Oriented Matrix Structure for the Development of Computing Tools in Electric Power Systems. In: VIII SEPOPE, 2002, Brasília, DF. Anais do VIII Simpósio de Especialistas em Planejamento da Operação e Expansão Elétrica. v. 1. p. 1-6.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "HAAS, Reinaldo ; DECKER, I. C. ; . Avaliação do Desempenho do Modelo ARPS em um Cluster de Microcomputadores para Previsão Quantitativa de Chuva no Sul do Brasil. In: XII CBM, 2002, Foz do Iguaçu, PR. Anais do XII Congresso Brasileiro de Meteorologia. v. 1. p. 1-6.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; . Desenvolvimento e Implementação de uma Base Computacional Orientada a Objetos para Aplicações em Sistemas de Energia Eétrica. In: XIII Congersso Mrasileiro de Autoática, 2000, Florianópolis. Anais do XIII CBA, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; SOUZA, A. . Avaliação da Segurança Dinâmica Usando Modelos Detalhados e Processamento Paralelo. In: XIII Congresso Brasileiro de Autoática, 2000, Florianópolis/SC. Anais do XIII CBA, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; FERREIRA, J. M. F. . Avaliação da Confiabilidade Composta Considerando a Análise da ERstabilidade Transitória. In: XIII Congresso Brasileiro de Automática, 2000, Florianópolis/SC. Anais do XIII CBA, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; VANTI, M.V. . Análise da Segurança Dinâmica com Controle Preventivo Através de Fluxo de Potência Ótimo. In: XIII Congresso Brasileiro de Autoática, 2000, Florianópolis/SC. Anais do XIII CBA, 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; CASTRO, M. C. A. ; VANTI, M.V. . Melhoria da Segurança Dinâmica de Sistemas de Energia Elétrica Utilizando Processamento Distribuído. In: X SBAC-PAD, 1998, Búzios/RJ. Anais do X SBAC-PAD, 1998. p. 20-30.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; ; DECKER, I. C. . Simulação da Dinâmica de Sistemas de Potência Usando Programação Orientada A Objetos. In: XI Congresso Brasileiro de Automática (CBA), 1996. Anais do XI CBA. são Paulo, SP. v. II. p. 1303-1308.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; CASTRO, J. E. G. . Melhoria da Segurança Dinâmica de Sistemas de Energia Elétrica Usando Otimização. In: XI Congresso Brasileiro de Automática (CBA), 1996. Anais do XI CBA. São Paulo, SP. v. I. p. 191-196.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Conjugate Gradient Methods For Power System Dynamic Simulation In Parallel Computers. In: IEEE PES Summer Meeting, 1995. IEEE PES Summer Meeting. Portland, OR. v. 506.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Parallel Implementationof Power Systems Dynamic Simulation Methodology Using the Conjugate Gradient method. In: IEEE Power Industry Computer Applications Conference, 1991, Baltimore. Proceedings of IEEE Power Industry Computer Applications Conference, 1991. p. 245-252.",
+          "ano": 1991,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . An Efficient Parallel Method for Transient Stability Analysis. In: 10th Power Systems Computation Conference, 1990, Graz. Proc. 10th PSCC, 1990. p. 509-516.",
+          "ano": 1990,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; FONSECA, L. G. S. . Iterative Algorithm for Critical Energy Determination in Transient Stability of Power Systems. In: IFAC - Symposium of Planning and Operation of Electrical Energy Systems, 1985, Rio de Janeiro/RJ. IFAC - Symposium of Planning and Operation of Electrical Energy Systems, 1985. p. 483-489.",
+          "ano": 1985,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "DECKER, I. C. . Slep - Análise de Estabilidade Transitória Em Sistema de Potência Usando O Conceito de Superfície Limite de Energia Potencial. 1984.",
+          "ano": 1984,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica do Serviços de Transmissão de Energia Elétrica - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária CEMIG. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão de Energia Elétrica referente à SE Adrianópolis - Concessionário FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão de Energia Elétrica referente à SE Tijuco Preto - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão de Energia Elétrica referente à SE Mogi das Cruzes - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão deEnergia Elétrica referente a SE Poços de Caldas - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão de Energia Elétrica referente à SE Guarulhos - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica de Serviços de Transmissão de Energia Elétrica referente à SE Vitória - Concessionária FURNAS. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica do Serviços de Distribuição de Energia Elétrica - Concessionária AES SUL. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária RGE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Análise dos Relatórios da Ocorrência do dia 21/01/2002 e das Manifestações do ONS e da CTEEP. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão SE Erechim 1 (DITS) - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão SE Cruz Alta 1 (DITS) - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão Canastra (DITS) - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão Bugres (DITS) - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão Cachoeirinha 1 (DITS) - Concessionária CEEE. 2002.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária LIGHT/RJ. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária AES SUL. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalizaçao Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária CEEE. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessinária ELETROCAR. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária DEMEI. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão SE Ijui (DITS) - Concessionária CEEE. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão SE Cachoeirinha (DITS) - Concessionária CEEE. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica da subestação de conexão SE Alegrete 1 (DITS) - Concessionária ELETROSUL. 2001.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica do Serviços de Transmissão de Energia Elétrica - Concessionária CEEE. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Transmissão de Energia Elétrica - Concessionária COELBA. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Procedimentos de Fiscalização de Empresas de Transmissão de Energai Elétrica - Colaborador. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Metodologia para a Fiscalização Técnica do Operador Nacional do Sistema Elétrico (ONS) - Co-autor. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica do Operador Nacional do Sistema Elétrico (ONS).. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Distribuição de Energia Elétrica - Concessionária AES SUL. 2000.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Transmissão de Energia Elétrica - Concessionária CTEEP. 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. . Fiscalização Técnica dos Serviços de Transmissão de Energia Elétrica - Concessionária CEMIG. 1999.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Esquema Alternado Entrelaçado Implícito Paralelo - Aplicçaõ do Método Gradiente Conjugado pré-Condicionado às Equações da rtede Elétrica. 1993.",
+          "ano": 1993,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Esquema Simultâneo Implícito Paralelo no Tempo - Aplicação dos Métodos gradiente Biconjugado e Bi-GSTAB. 1993.",
+          "ano": 1993,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; . Simulação da Dinâmica de Sistemas de Energia Elétrica Usando Técnicas de Processamento Paralelo. 1991.",
+          "ano": 1991,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "BATISTELA, N. J.; DECKER, I.C. ; MORETO, M.. Participação em banca de Luis Otávio Steffenmunsberg Grillo. Métodos para a Estimação On-line de um Subconjunto de Parâmetros Fundamentais de Geradores Síncronos. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "ISSICABA, D.; MORETO, M.; ZÜRN, H. H.; DECKER, I.C. . Participação em banca de Eduardo Henrique Zanella de Arruda. Análise de Eventos em Sistemas Elétricos de Potência em Tempo Real Utilizando Sincrofasores e a Transformada Wavelet Discreta. 2017. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ZÜRN, H. H.; MORETO, M.; SALGADO, R. S.; DECKER, I.C. . Participação em banca de Marco Antonio Delgado Zarzosa. Análise de Eventos em Sistemas de Energia Elétrica usando Sincrofasores. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ISSICABA, D.; DECKER, I.C. ; MORETO, M.. Participação em banca de Fernando Bereta dos Reis. Sistema Multiagente para Proteção Adaptativa de Retaguarda de Linhas de Distribuição Aplicado em Ambiente de Microrredes. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ZÜRN, H. H.; DECKER, I.C. ; MORETO, M.. Participação em banca de Antonio Adrian Martinez Gavilan. Despacho de Potência Ativa com Restrições de Controle Secundário de Tensão. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "ISSICABA, D.; DECKER, I.C. ; FINARDI, E. C.. Participação em banca de Andrés Mauricio Martinez. Avaliação Multiárea do Sistema de Geração Brasileiro com Adição de Produção Eólica: Reserva Estática e Operacional. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I.C. ; MORETO, M.; SALGADO, R. S.; ZÜRN, H. H.. Participação em banca de Rodolfo Mussiato Gonçalves. Processamento de Erros Grosseiros Associado a Métodos de Fusão de Estimativas em Sistemas de Potência Monitorados por Medidas Convencionais e Fasoriais. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; LOURENCO, E. M.; DECKER, I. C. ; SALGADO, R. S.; . Participação em banca de Ciro José Froncek Eder. Métodos de fusão de estimativas para agregação de múltiplas fontes de informação à estimação de estados em sistemas de potência. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ALVES, J. E. R.; ; ; . Participação em banca de Pedro César Cordeiro Vieira. Estudo do Desempenho de Canais de Instrumentação para a Medição Sincronizada de Fasores. 2014. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; MENDES, P. P. C.; MACHADO JUNIOR, Z. S.; PIRES, R. C.. Participação em banca de André Pagani Tochetto. Utilização de Medição Fasorial Sincronizada no Monitoramento em Tempo Real da Segurança da Operação da UHE-ITAIPU 60Hz. 2014. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Itajubá.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; MEDEIROS, A. D.; JARDIM, J. L. A.; SILVA, R. J. G.; ZÜRN, H. H.. Participação em banca de George Arthur Gavioli. Validação de modelos de simulação de sistemas de energia elétrica utilizando dados fasoriais sincronizados. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; ALBERTO, L. F. C.; ; DECKER, I. C. ; ALMEIDA, K. C.. Participação em banca de Daniel Martins Bez. Estratégia de dois estágios utilizando rotações de givens em blocos para a inclusão de medidas fasoriais na estimação de estados em sistemas de potência. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; DECKER, I. C. ; ; DALCASTAGNE, A. L.; MORETO, M.; TEIVE, R. C. G.. Participação em banca de Geyson Brustolin. Detecção de Eventos de Ilhamento Utilizando Dados Fasoriais Sincronizados e a Transformada Wavelet Discreta. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; LEMOS, F. A. B.; ; . Participação em banca de Valmor Zimmer. Detecção, Identificação e Localização de Eventos Usando Sincrofasores. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "FINARDI, E. C.; RODRIGUES, R. N.; GONCALVES, R. E. C.; ZÜRN, H. H.; DECKER, I. C. . Participação em banca de Juliane Silva de Almeida. Análise de diferentes abordagens de técnicas de progressive hedging ao problema de planejamento da operação energética. 2013. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; TARANTO, G. N.; LEMOS, F. A. B.; SALGADO, R. S.. Participação em banca de Thiago Jeremias. Ambiente de desenvolvimento de aplicativos para o processamento de sincrofasores. 2012. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; FREITAS, F. D.; ; ; FINARDI, E. C.. Participação em banca de Felipe Trevisan. Validação de Modelos de Unidades Geradoras Usando Dados de Medição Sincronizada de Fasores. 2011. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; MIRANDA, V. H. B. P.; SALGADO, R. S.; DECKER, I. C. ; ROLIM, J. G.. Participação em banca de André Nascimento Cavalcanti de Albuquerque. Estratégia de dois estágios para Incorporar Medidas Fasoriais Sincronizadas na Estimação de Estados em Sistemas de Potência. 2011. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "TARANTO, G. N.; ALVES, J. E. R.; OLIVEIRA, S. E. M.; DECKER, I. C. ; SOUZA, L. F. W.. Participação em banca de Luiz Carlos Grillo de Brito. Avaliação dos Erros dos Transformadores de Corrente em Medição de Sincrofasores e em suas Aplicações. 2011. Dissertação (Mestrado em UFRJ COPPE-PEE Programa de Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; SALGADO, R. S.; ZÜRN, H. H.; . Participação em banca de Renan Augusto da Costa Leites. Processamento de Medidas Fasoriais de Tensão e Corrente na Estimação de Estados em Sistemas de Potência. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ALVES, J. E. R.; Mariotto, L.. Participação em banca de Ricardo Lira. Influência dos Canais de Instrumentação na Exatidão da Medição Fasorial Sincronizada. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; LEMOS, F. A. B.; . Participação em banca de Alexandre Fürstenberger. Desenvolvimento de um Sistema de Concentração de Dados de Medição Fasorial Sincronizada. 2010. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; Mariotto, L.; ROLIM, J. G.; ZÜRN, H. H.. Participação em banca de Marcelo Azevedo Benetti. Utilização de Medição Fasorial Sincronizada em Metodologias de Localização de Faltas em Linhas de Transmissão. 2009. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; ZÜRN, H. H.; ; . Participação em banca de Everton Paulo Lenz. Avaliação do Desempenho de Relés Digitais de Proteção de Unidades Geradoras Utilizando Registros de Oscilografia e Sequência de Eventos. 2009. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; da Silva, R. J. G.; ZÜRN, H. H.; FERREIRA, J. M. F.. Participação em banca de Jonas Roberto Pesente. Estudo da Utilização de Medição Sincronizada de Fasores para o Esquema de Controle de Emergência do Sistema de Transmissão de Itaipu em 60 Hz. 2009. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "SALGADO, R. S.; ZÜRN, H. H.; ; . Participação em banca de Anésio Felipe Zeitune. Estudo de Soluções de Fluxo de Potência em Coordenadas Cartesianas. 2008. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; FINARDI, E. C.; SALGADO, R. S.; DECKER, I. C. . Participação em banca de Rodrigo Vieira Sória. Uma Proposta para Mitigação do Risco de Congestionamento da Transmissão em Sistemas Hidrotérmicos. 2008. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; CAMPAGNOLO, J. M.. Participação em banca de Moisés Machado Santos. Análise da Dinâmica de Sistemas Elétricos de Potência Usando Dados de Medição Fasorial Sincronizada. 2008. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; COSTA, A. L.; ; ALMEIDA, K. C.. Participação em banca de Juliano Schier. Análise Comparativa de Metodologia de Alocação de Serviços Ancilares de Reserva em Mercados de Energia Elétrica. 2007. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "ZÜRN, H. H.; ALMEIDA, K. C.; ; . Participação em banca de Ricardo Hinnig da Silva. Metodologia de Análise para um Mercado Competitivo de Potência Reativa do Ponto de Vista de uma Concessionária de Distribuição. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CAMARGO, C. C. B.; COELHO, J.; TEIVE, R. C. G.; . Participação em banca de Edson Marcelo Valter. Tarifas de Energia Elétrica: Custos Marginais Aplicados às Classes de Consumidores. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; BETTIOL, A. L.. Participação em banca de Robson Luis Valim Marini. Uso de Unidades de Medição Fasorial Sincronizada Visando a Melhoria da Estabilidade para Pequenas Perturbações em Sistemas Elétricos de Potência. 2005. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SALGADO, R. S.; UTURBEY, W.. Participação em banca de Alexandre Bittencourt de Marco. Gerenciamento de Carga via Fluxo de Potência Ótimo para Concessionárias de Distribuição de Energia Elétrica. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, E. L.; ; FINARDI, E. C.. Participação em banca de Marcelo Luís Loureiro dos Santos. Aplicação de Modelagem Orientada a Objetos ao Problema do Planejamento de Sistemas Hidrotérmicos. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; BETTIOL, A. L.. Participação em banca de Juliana Gubert Ehrensperger. Sistemas de Medição Fasorial Sincronizada: Análise do Estado da Arte e Aplicações no Monitoramento de Sistemas de Energia Elétrica. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; BETTIOL, A. L.; ; . Participação em banca de Daniel Dotta. Modelagem e Implementação de Aplicações Usando uma Base Computacional Orientada a Objetos para Sistemas de Energia Elétrica. 2003. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, E. L.; SANTANA, E. A.; SILVEIRA, F. S. V.. Participação em banca de Alexandre Nunes Zucarato. Simulação de Mercados de Energia Elétrica com Predominância de Geração Hidrelétrica. 2003. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; ; ZÜRN, H. H.. Participação em banca de Leandro César Xavier de Carvalho. Planejamento de Sistemas Hidrotérmicos: Uma Análise Comparativa entre as Representações a Usinas Individualizadas e a Reservatórios Equivalentes de Energia. 2002. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "COLVARA, L. D.; FELTRIN, A. P.; . Participação em banca de Ednilton Bressan Festraits. Consideração da ação de dispositivos FACTS em um Método Automático de Análise de Estabilidade de Sistemas de Energia Elétrica. 2002. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; SALGADO, R. S.; . Participação em banca de Marcos Keller Amboni. Alocação do Sobrecusto Operativo via Teoria dos Jogos Cooperativos. 2001. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, J.; ; ROLIM, J. G.. Participação em banca de Ederson Silveira Costa. Freqüência e Duração de Violações de Limites de Tensão em Sistemas de Distribuição de Energia Elétrica. 2001. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, E. L.; ZÜRN, H. H.; CAMARGO, C. C. B.; COELHO, J.. Participação em banca de João Marco Francischetti Ferreira. Avaliação da Confiabilidade Composta Considerando Aspectos Dinâmicos. 2000. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, J. L. R.; ; VINAGRE, M. P.; da COSTA, V. M.. Participação em banca de Leandro Ramos de Araújo. Aplicação de Técnicas de Modelagem Orientada a Objetos a Sistemas Lineares Esparsos. 2000. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Juiz de Fora.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; VIANA, A. N. C.; HADDAD, J.. Participação em banca de Álvaro Afonso Furtado Leite. Avaliação de Implantação de Programas de Gerenciamento pelo Lado da Demanda. 2000. Dissertação (Mestrado em Engenharia de Energia) - Universidade Federal de Itajubá.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, E. L.; CAMPAGNOLO, J. M.. Participação em banca de Adriano de Souza. Avaliação da Segurança Dinâmica Usando Modelos Detalhados e Processamento Distribuído. 1999. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; ; ZÜRN, H. H.; MACEIRA, M. E. P.. Participação em banca de Erlon Cristian Finardi. Planejamento da Operação de Sistemas de Energia Elétrica Utilizando Processamento de Alto Desempenho. 1999. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, J.; ; CAMARGO, C. C. B.. Participação em banca de Franz Henry Pereyra Zamora. Um Programa Computacional de Apoio ao Planejamento de Sistemas de Distribuição. 1998. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, E. L.; ; CAMPAGNOLO, J. M.. Participação em banca de Maria Cláudia de Almeida Castro. Avaliação e Melhoria da Segurança Dinâmica Utilizando Computação de Alto Desempenho. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; ALMEIDA, K. C.; MOROZOWSKI FILHO, M.; . Participação em banca de Jorge Mauricio Areiza Ortiz. Metodologia de Expansão Automática da Transmissão Utilizando um Algoritmo de Busca Tabu. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "MOROZOWSKI FILHO, M.; DRAMONT, P. P. B.; ; SILVA, E. L.. Participação em banca de Andriano Felipe Alves. Construção de Cenários de Demanda no Setor Residencial - Uma Abordagem Baseda em Dinâmica de Sistemas. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; SILVA, E. L.; ; SALGADO, R. S.. Participação em banca de Luciene Costa. Melhoria da Segurança Dinâmica Utilizando Técnicas de Otimização. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "PETERS, S.; SZEREMETA, J. F.; CAMPAGNOLO, J. M.; . Participação em banca de Viviani Cocco Mariani. Resolução de Sistemas Lineares Gerados na Discretização das Equações de Navier-Stokes em Malhas de Voronoi,. 1997. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "ANSUJ, S.; ; POPOV, V.. Participação em banca de Leony Trevisan. Eficiência Econômica com o Uso de Capacitores em Alimentadores de Distribuição. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "BRETAS, N. G.; COLVARA, L. D.; . Participação em banca de LUís Fernando Costa Alberto. Análise de Estabilidade Transitória: Estudos do Método BCU; Proposta de Estimativa de Amortecimento para Estabilidade Absoluta em OMIBS. 1997. Dissertação (Mestrado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; COELHO, J.; ZÜRN, H. H.; . Participação em banca de Manuel Camela Rafael. Programacao da Manutencao de Unidades Geradoras Com Restricoes de Fluxo de Potencia DC. 1996. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; ; MELLO, J. C.; MOROZOWSKI FILHO, M.. Participação em banca de Silvia Elena Cossio Mesa. Uma Nova Metodologia Para Valorizacao do Custo de Acesso A Transmissao Considerando Aspectos de Confiabilidade. 1996. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "; ; MACHADO, L. J. B.; PEREIRA, J. L. R.. Participação em banca de Alessandro Manzoni. Desenvolvimento de um Módulo Dinâmico para Simuladores de Ensino e Treinamento em Sistemas de Energia Elétrica usando Programação Orientada a Objetos. 1996. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, J.; ZÜRN, H. H.; ; SILVA, E. L.. Participação em banca de Ludwig Dadier Becerra. Análise de Contingências em Sistemas de Distribuição. 1996. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "; ; CAMPAGNOLO, J. M.; SILVA, E. L.. Participação em banca de José Luiz Lima de Azevedo. Um Estudo da Simulação da Dinâmica de Sistemas de Energia Elétrica Usando Computadores Paralelos de Alto Desempenho. 1996. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SILVA, E. L.; SALGADO, R. S.; FONSECA, L. G. S.. Participação em banca de Jorge Enrique Gomez Castro. Metodologia para o Estudo da Segurança Dinâmica de Sistemas de Energia Elétrica Usando os Métodos Slep Iterativo e das Áreas Iguais Estendido. 1995. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "; ZÜRN, H. H.; SALGADO, R. S.; ; da COSTA, V. F.. Participação em banca de André Arthur Perleberg Lerm. Analise Modal Aplicada a Estabilidade de Tensão com a Inclusão de Modelos Dinâmicos de Cargas.. 1995. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "COLVARA, L. D.; MINUSSI, C. R.; . Participação em banca de Fernando Eduardo Lourenço. Melhoria de Modelos Considerados em Análise de Estabilidade Transitória por Método Direto pela Consideração dos Reguladores de Velocidade. 1995. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Estadual Paulista Júlio de Mesquita Filho.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "COELHO, J.; ZÜRN, H. H.; ; SALGADO, R. S.. Participação em banca de Edward Gauche. Uma Metodologia para o Planejamento da Expansão de Sistemas de Distribuição.. 1994. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "MOROZOWSKI FILHO, M.; ZÜRN, H. H.; ; FREITAS, P.. Participação em banca de Hercidio de Paula Silveira Neto. Planejamento da Expansão de Sistemas de Transmissão Assistido Por Sistemas Baseados No Conhecimento.. 1994. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "; MACHADO, L. J. B.; ; PEREIRA, J. L. R.. Participação em banca de Márcia Vianna Vanti. Implementação Orientada para Objeto de um Simulador para a Dinâmica Lenta de um Sistema de Energia elétrica.. 1994. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "; CASTELAN NETO, E. B.; ; . Participação em banca de Francisco Javier Vargas Morin. Avaliação da Estrutura e Ordem de Controladores de Sistemas de Potência em um Algoritmo de Posicionamento de Polos.. 1994. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; de PIERI, E. R.. Participação em banca de David Emilio Ismael Rojas. Métodos de Redução de Ordem Aplicados a Sistemas de Potência.. 1994. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "MARTINI, J. S. C.; HIRAKAWA, A. R.; JARDINI, J. A.; DECKER, I. C. ; BORTONI, E. C.. Participação em banca de Mário Roberto Bastos. Metodologia Model Free para Consciência Situacional Evolutiva da Estabilidade de Tensão de Sistemas Elétricos de Potência. 2018. Tese (Doutorado em Doutorado em Engenharia Elétrica) - Universidade de São Paulo.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS, F. D.; ALBERTO, L. F. C.; SALGADO, R. S.; DECKER, I.C. . Participação em banca de Valmor Zimmer. Identificação On-line de Parâmetros da Máquina Síncrona usando Medição Sincronizada de Fasores. 2018. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "COLOME, D. G.; SERNA, J. A. L. O.; DECKER, I.C. . Participação em banca de MOISÉS ROLANDO MARTÍNEZ HERNÁNDEZ. NUEVO ALGORITMO DE ESTIMACIÓN FASORIAL PARA MEJORAR EL DESEMPEÑO DE LOS SISTEMAS DE MEDICIÓN DE ÁREA AMPLIA EN LOS SISTEMAS ELÉCTRICOS. 2018. Tese (Doutorado em Ingeniería Eléctrica) - Universidad Nacional de San Juan.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BARRA JUNIOR, W.; BEZERRA, U. H.; BARREIROS, J. A. L.; NUNES, M. V. A.; DECKER, I. C. ; CASAS, V. L. P.. Participação em banca de José Adolfo da Silva Sena. Desenvolvimento de Framework para Análise e Simulação Dinâmica de Sistemas Elétricos de Potência. 2013. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Pará.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "NEVES, W. L. A.; FERNANDES JUNIOR, D.; SOUZA, B. A.; DECKER, I. C. ; MOTA, W. S.. Participação em banca de Eubis Pereira Machado. Compensação Dinâmica dos Transitórios de Baixa Frequência de Transformadores de Potencial Capacitivos para Otimização da Proteção de Linhas de Transmissão. 2013. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; SOUZA, B. A.; BRETAS, A. S.; DECKER, I. C. ; ZÜRN, H. H.. Participação em banca de Miguel Moreto. Análise automática de registros digitais de perturbações em unidades geradoras. 2011. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "SILVA, E. L.; ZÜRN, H. H.; MOROZOWSKI FILHO, M.; CORREIA, P. B.; TEIVE, R. C. G.; DECKER, I. C. . Participação em banca de Alexandre Nunes Zucarato. Mecanismos de Capacidade em Sistemas de Energia Elétrica com Predominância de Geração Hidrelétrica. 2009. Tese (Doutorado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; ; TARANTO, G. N.; ZANETTA JUNIOR, L. C.; ; TROFINO, A.. Participação em banca de Daniel Dotta. Controle Hierárquico usando Sinais de Medição Fasorial Sincronizada. 2009. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Pinheiro, H.; ; SALGADO, R. S.; Campos, A.; Cardoso Jr., G.. Participação em banca de Lenóis Mariotto. Avaliação da Segurança da Operação de Sistemas Elétricos de Potência Considerando os Limites de Estabilidade Angular e de Tensão. 2008. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; COURY, D. V.; PEREIRA, E. T.; ROISENBERGER, M.; . Participação em banca de Joni Coser. Contribuições aos Métodos para Localização de Faltas em Alimentadores de Distribuição. 2006. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; TARANTO, G. N.; ; PEREIRA, J. L. R.; MARTINS, N.; JARDIM, J. L. A.. Participação em banca de Alessandro Manzoni. Desenvolvimento de um Sistema Computacional Orientado a Objetos para Sistemas Elétricos de Potência: Aplicação a Simulação Rápida e Análise da Estabilidade de Tensão. 2005. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; OLIVEIRA, S. E. M.; MARTINS, N.; CARNEIRO JUNIOR, S.; PRADA, R. B.; GOMES, Paulo. Participação em banca de Carlos Henrique Costa Guimarães. Simulação da Dinâmica de Sistemas Elétricos de Potência Considerando os Fenômenos de Longa Duração. 2003. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio de Janeiro.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; GONZAGA, C. C.; ; SANTOS, S. A.; SALGADO, R. S.; SILVA, E. L.. Participação em banca de Márcia Regina Vianna Vanti. Melhoria da Segurança Dinâmica por Otimização e Algoritmos para Programação Não-Linear. 2003. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; ; PEREIRA, J. L. R.; PEREIRA, C. E.; BETTIOL, A. L.. Participação em banca de Marcelo Neujahs Agostini. Nova Filosofia para o Projeto de Software para Sistema de Energia Elétrica Usando Modelagem Orientada a Objetos. 2002. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "SALGADO, R. S.; CAMPAGNOLO, J. M.; ; PEREIRA, J. L. R.; ; . Participação em banca de Edgardo Daniel Castronuovo. Aplicação de Métodos de Pontos Interiores Não-Lineares no Fluxo de Potência Ótimo, com Utilização de Processamento de Alto Desempenho. 2001. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "; CAMPAGNOLO, J. M.; ; de PIERI, E. R.; ZÜRN, H. H.; TARANTO, G. N.; FREITAS, F. D.. Participação em banca de André Arthur Perleberg Lerm. Análise de Bifurcações Locais em Sistemas Elétricos de Potência. 2000. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; CAMPAGNOLO, J. M.; ; ROA-SEPULVEDA, C.; da COSTA, V. F.. Participação em banca de Flávio Antonio Becon Lemos. Determinação da Instabilidade de Tensão Associada a Bifurcação Sela-nó. 2000. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": ". Participação em banca de Vicente Leonardo Páucar Casas. Métodos Computacionais Baseados na Função de Energia. 1998. Tese (Doutorado em Engenharia Elétrica) - Universidade Estadual de Campinas.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "FONSECA, L. G. S.; PEDROSO, A. S.; SOUZA, E. J. S. P.; COELHO, J.; ; ZÜRN, H. H.. Participação em banca de Eduardo Nohme Cardoso. ALTERACOES TOPOLOGICAS DA REDE COMO UMA ACAO DE CORRECAO DA SEGURANCA DINAMICA EM SISTEMAS DE ENERGIA ELETRICA. 1994. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1994,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; ; DECKER, I.C. ; BAZANELLA, A. S.. Participação em banca de João Carlos Yokoyama Menezes. Identificação de Modos de Oscilação em Sistemas de Potência e Métodos de Detecção de Modos Espúrios. 2017. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I.C. ; ALBERTO, L. F. C.; FREITAS, F. D.; SALGADO, R. S.; ZÜRN, H. H.. Participação em banca de Valmor Zimmer. EStimação On-line de Parâmetros da Máquina Síncrona usando Medição Sincronizada de Fasores. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; FREITAS, F. D.; ; . Participação em banca de Jorge Henrique Gómez Castro. Validação de Modelos de Simulação em Sistemas Elétricos Utilizando Medição Fasorial Sincronizada. 2013. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "UCHOA FILHO, B. F.; SILVA, D.; PIMENTEL, C. J. L.; NORONHA NETO, M.; ROCHA, C. A. F.; DECKER, I. C. . Participação em banca de Maria Cláudia de Almeida Castro. Técnicas de decodificação de canal integrada a codificação de redes físicas. 2013. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ; TARANTO, G. N.; JARDIM, J. L. A.; ; MARQUES, J. L. B.. Participação em banca de Marcelo Azevedo Benetti. Aplicação de dados de medição fasorial sincronizada na supervisão e no controle de sistemas de energia elétrica: Avaliação automática da segurança dinâmica. 2013. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; MARTINS, N.; ; COUTINHO, D.; DECKER, I. C. ; MORAES, R.. Participação em banca de Gustavo Kaefer Dill. Projeto de Controladores para Sistemas de Potência Utilizando Otimização Paramétrica. 2011. Exame de qualificação (Doutorando em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "; SALGADO, R. S.; LEMOS, F. A. B.; DECKER, I. C. ; ALMEIDA, K. C.; ZÜRN, H. H.; CARPES JUNIOR, W. P.. Participação em banca de Vera Lucia de Castro Soares. Método para Especificação e Ajuste do Controle Secundário de Tensão. 2010. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Pinheiro, H.; ; Campos, A.; Cardoso Jr., G.. Participação em banca de Lenóis Mariotto. Avaliação da Segurança da Operação de Sistemas Elétricos de Potência Considerando os Limites de Estabilidade Angular e de Tensão. 2007. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Maria.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; TROFINI NETO, A.; TARANTO, G. N.. Participação em banca de Daniel Dotta. Investigação do Uso de Medição Fasorial Sincronizada para a Melhoria da Estabilidade Angular. 2007. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; SOUZA, B. A.; BETTIOL, A. L.; ; ZÜRN, H. H.. Participação em banca de Miguel Moreto. Metodologia de Análise Automática de Oscilografias Voltadas para Sistemas de Geração. 2007. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "BARRA JUNIOR, W.; BARREIROS, J. A. L.; NUNES, M. V. A.; COSTA JUNIOR, C. T.; REIS, R. Q.; MENDEZ, O. R. S.; . Participação em banca de José Adolfo da Silva Sena. Desenvolvimento de Framework para Análise e Simulação de Sistemas Elétricos de Potência. 2006. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Pará.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "FRAGA, J. S.; LUNG, L. C.; CORREIA, M. P.; DANTAS, M.; FARINES, J. M.; BECKER, L. B.; OLIVEIRA, R. S.; . Participação em banca de Fábio Favarim. Espaço de Tuplas como Suporte de Serviços em Grids Computacionais. 2005. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; COURY, D. V.; PEREIRA, E. T.; ROISENBERGER, M.; ; TROFINI NETO, A.. Participação em banca de Joni Coser. Diagnóstico de Faltas em Sistemas de Distribuição. 2004. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "KUO-PENG, P.; SADOWISK, N.; MESQUITA, R. C.; ; BASTOS, J. P. A.; CARLSON, R.; MARQUES, J. B.. Participação em banca de Marcos Fiscchborn. Computação de Alto Desempenho Aplicada à Análise de Dispositivos Eletromagnéticos. 2004. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "BARBI, I.; COLLING, I. E.; DUARTE, C. M. C.; PERIN, A. J.; MOHR, H. B.; . Participação em banca de Deivis Borgonovo. Modelagem e Controle de Retificadores PWM Trifásicos. 2004. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "FREITAS FILHO, P. J.; ; SPECIALSKI, E. S.; DANTAS, M.. Participação em banca de Solange Teresinha Sari. Modelo de Gerenciamento de Nível de Serviço Baseado na Qualidade de Serviço Esperada pelo Usuário e Aplicado em Aplicações Distribuídas Suportadas por uma Plataforma Grid. 2003. Exame de qualificação (Doutorando em Engenharia de Produção) - Universidade Federal de Santa Catarina.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "; ZÜRN, H. H.; PEREIRA, J. L. R.; SILVA, E. L.; TROFINI NETO, A.. Participação em banca de Adriano de Souza. Segurança Dinâmica de Sistemas de Energia sob o Paradigma de Serviços Ancilares. 2002. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "KASSICK, E. V.; ; SILVA, E. L.; SCHILLING, M. T.; COELHO, J.; ZÜRN, H. H.. Participação em banca de João Marco Francischetti Ferreira. Avaliação da Confiabilidade Composta Considerando a Análise da Estabilidade Transitória. 2002. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2002,
+          "doi": ""
+        },
+        {
+          "texto": "; SADOWISK, N.; ; PEREIRA, C. E.; PEREIRA, J. L. R.; BETTIOL, A. L.. Participação em banca de Marcelo Neujahr Agostini. Desenvolvimento e Implementação de uma Base Computacional Orientada a Objetos para Aplicações em Sistemas de Energia Elétrica. 2000. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBI, I.; KUO-PENG, P.; ROJAS, R.; KASSICK, E. V.; PERIN, A. J.. Participação em banca de Domingo Antonio Ruiz Caballero. Novos Conversores CC-CC Isolados para Operação com Razão Cíclica entre Zero e Um. 1997. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1997,
+          "doi": ""
+        },
+        {
+          "texto": "; CASTELAN NETO, E. B.; CAMPAGNOLO, J. M.; ; de PIERI, E. R.; ZÜRN, H. H.; SOUZA, A. C. Z.. Participação em banca de André Arthur Perleberg Lerm. Análise de Bifurcações Locais em Sistemas Elétricos de Potência.. 1996. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SALGADO, R. S.; MONTICELLI, A.; MACHADO, L. J. B.; CAMPAGNOLO, J. M.. Participação em banca de José Paulo da Silva Gouvêa. Estimadores de Estado Ortogonais com Restrições de Igualdade e Desigualdade para a Modelagem Não-Reduzida da Rede Externa.. 1995. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 1995,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Monografias de cursos de aperfeiçoamento/especialização",
+      "items": [
+        {
+          "texto": "SALGADO, R. S.; ALMEIDA, K. C.; DECKER, I. C. . Participação em banca de Glaucio André Primo. Estudo da Aplicação do Fluxo de Potência Ótimo no Sistema Elétrico do Estado do Paraná. 2010. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "TEIVE, R. C. G.; ALMEIDA, K. C.; DECKER, I. C. . Participação em banca de Aline Ribeiro Souza. Manutenção Baseada na Condição para Transmissão de Energia Elétrica: Situação Atual e Perspectivas na Eletrobras Eletrosul. 2010. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ZÜRN, H. H.; DECKER, I. C. . Participação em banca de Guilherme Miranda Martins. Dinâmica de Áreas com Geração Distribuída. 2010. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; SALGADO, R. S.; . Participação em banca de Giuliano Pires. Estudo da Aplicação do Software Organon como Ferramenta de Apoio a Recomposições no Sistema Elétrico. 2010. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; SALGADO, R. S.; ZÜRN, H. H.. Participação em banca de Fábio Ornellas de Araújo. Estudo da Aplicação do Software Organon no Planejamento da Operação dos Sistemas Elétricos.. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Fernando Henrique Teodoro. Estudo e Avaliação do Desempenho de Sistemas de Medição Fasorial Sincronizada. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; SALGADO, R. S.; . Participação em banca de Janio Leonardo Los. Avaliação da Segurança Dinâmica de Sistemas Elétricos em Tempo Real.. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Adinã Martins Pena. Métodos para Identificação e Validação de Modelos para Controle de Excitação e Velocidade de Unidades Geradoras Hidrelétricas.. 2007. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Breno Torres Meyer. Estudo da Tecnologia de Medição Fasorial Sincronizada e dos Impactos no Sistema Elétrico da Eletrosul. 2006. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Pedro Javier Granda Vargas. Identificação e Validação de Modelos para Malhas de Controle de Velocidade e Excitação em Unidades Hidráulicas. 2006. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "TEIVE, R. C. G.; ; COELHO, J.. Participação em banca de Antônio Vieira de Melo Neto. Avaliação Técnico-Econômica da Aplicação de Linha de Transmissão Não-Convencional.. 2006. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "SALGADO, R. S.; ; . Participação em banca de Luiz Fábio Fraporti da Silva. Estudo da Estabilidade de Tensão no Sistema Elétrico do Mato Grosso do Sul. 2004. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Alceu Saldanha Neto. Análise Comparativa do Desempenho do SIN: Configurações de Planejamento e Operação em Tempo Real. 2004. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Antonio Mauro Martins. Simulador de Treinamento de Operadores como Ferramenta de Análise de Condições Operativas do SIN. 2004. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "; ; SALGADO, R. S.. Participação em banca de Nelson Antonio Cuquel. Análise de Segurança dos Anéis de 69kV e 230kV da Região Metropolitana de Curitiba Através da Análise Estática de Contingências. 2004. Monografia (Aperfeiçoamento/Especialização em Sistemas de Energia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "MORETO, M.; DECKER, I.C. ; . Participação em banca de Marina Pinto Fortkamp.Análise Automática de Registros Digitais de Perturbação em Linhas de Transmissão de Energia Elétrica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; DECKER, I.C. ; ISSICABA, D.; FRANSCISCO, R. P.. Participação em banca de Marcos Aurelio Paes Soares.Estudo de Rotinas e de Técnicas de Programação Desenvolvidas para as Atividades da Pré-operação de Sistemas de Energia Elétrica e seus Efeitos na Opreação em Tempo Real. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "ROSA, M. A.; DECKER, I.C. ; ISSICABA, D.; FRANSCISCO, R. P.. Participação em banca de Vitor Cassol.Análise da Inserção da Medição Fasorial Sincronizada na Pós-operação dos Sistemas de Energia Elétrica. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; ZIMMER, V.. Participação em banca de Lucas Eduardo Zandonai.Desenvolvimento de uma Metodologia de Detecção de Eventos no Sistema Interligado Nacional usando Medição Fasorial Sincronizada. 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ROLIM, J. G.; OLIVEIRA, G. A.. Participação em banca de Daniel Mahl.Desenvolvimento de uma Arquitetura Padrão para Integração dos Dados Operacionais de Usinas de Geração de Energia Elétrica. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; BATISTELA, N. J.. Participação em banca de Lucas Manso da Silva.Obtenção e Validação de Parâmetros de Máquina Síncrona. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "; DECKER, I. C. ; HELDWEIN, M. L.. Participação em banca de Mateus Bodanese.Estudo de desempenho de um sistema de potência submarino alimentado a partir do continente. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; DECKER, I. C. ; CARPES JUNIOR, W. P.. Participação em banca de Willian Luz Grudtner.Aspectos Particulares da Proteção de Linhas de Transmissão em Circuito Duplo. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "ROLIM, J. G.; DECKER, I. C. ; PEREIRA JUNIOR, W. C.. Participação em banca de Paulo Renato Freire de Souza.Análise Automática do Desempenho do Religamento Automático em Linhas de Transmissão. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SALGADO, R. S.; DECKER, I. C. ; CARPES JUNIOR, W. P.. Participação em banca de Rafael Eduardo Brenner.A Operação do SIN pelo ONS: Descrição de uma contingência analisada com o auxílio de medição fasorial. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ZÜRN, H. H.. Participação em banca de Rodolfo Bialecki Leandro.Aplicativo para processamento e análise de dados de sistemas de medição fasorial sincronizada. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; ; ROLIM, J. G.. Participação em banca de Thales Rodrigues Fonseca.Desenvolvimento de Soluções para a Gestão de Sistemas de Medição para Faturamento de Energia Elétrica. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "DECKER, I. C. ; . Participação em banca de Thiago Jeremias.Estudo, Manutenção e Desenvolvimento de Aplicações de Medição Fasorial Sincronizada em Sistemas de Energia Elétrica. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "DECKER, I. C. ; ROSA, M. A.; HOMRICH, R. P.. Professor Adjunto A - Engenharia Elétrica, Subárea: Circuitos, Máquina Elétricas e Sistemas Elétricos de Potência. 2018. Universidade Federal do Rio Grande do Sul.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "BAZANELLA, A. S.; DECKER, I. C. ; ALBERTO, L. F. C.. Professor Adjunto A - Sistemas Elétricos de Potência. 2017. Universidade Federal do Rio Grande do Sul.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "PIRES, R. C.; FREITAS, F. D.; DECKER, I. C. . Professor Auxiliar nível 1 - Análise de Sistemas Elétricos e Eletrotécnica Geral. 2013. Universidade Federal de Itajubá.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "PIRES, R. C.; FREITAS, F. D.; DECKER, I. C. . Professor Auxiliar - Análise de Sistemas Elétricos e Eletrotécnica Geral. 2012. Universidade Federal de Itajubá.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "PEREIRA, J. L. R.; DECKER, I. C. ; FERREIRA, A. C.. Professor Adjunto - Sistemas de Energia. 2012. Universidade Federal de Juiz de Fora.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "SADOWISK, N.; DECKER, I. C. ; PERES, A.; NIEDE, A.; PEREIRA, L. A.. Professor Adjunto - Máquinas Elétricas e Dispositivos de Potência. 2010. Universidade Federal de Santa Catarina.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": ". Professor Adjunto - Sistemas de Energia Elétrica. 2002. Universidade Federal do Rio Grande do Sul.",
+          "ano": 2002,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

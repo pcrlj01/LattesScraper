@@ -1,0 +1,988 @@
+{
+  "name": "Bruno Motta de Carvalho",
+  "lattes_id": "0330924133337698",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "MARQUES, JULLIANA GONÇALVES ; Carvalho, Bruno Motta de ; GUEDES, LUIZ AFFONSO ; COSTA-ABREU, MÁRJORY DA . Pattern recognition in SARS cases: insights from t-SNE and k-means clustering applied to COVID-19 symptomatology. Frontiers In Artificial Intelligence , v. 8, p. 1-12, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.3389/frai.2025.1536486"
+        },
+        {
+          "texto": "DANTAS DE OLIVEIRA, ALLISSON ; RUBIO MATURANA, CARLES ; ZARZUELA SERRAT, FRANCESC ; CARVALHO, BRUNO MOTTA ; SULLEIRO, ELENA ; PRATS, CLARA ; VEIGA, ANNA ; BOSCH, MERCEDES ; ZULUETA, JAVIER ; ABELLÓ, ALBERTO ; SAYROL, ELISA ; JOSEPH-MUNNÉ, JOAN ; LÓPEZ-CODINA, DANIEL . Development of a low-cost robotized 3D-prototype for automated optical microscopy diagnosis: An open-source system. PLoS One , v. 19, p. 1-21, 2024.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "MARQUES, JULLIANA GONÇALVES ; Carvalho, Bruno Motta de ; GUEDES, LUIZ AFFONSO ; DA COSTA-ABREU, MÁRJORY . Using Association Rules to Obtain Sets of Prevalent Symptoms throughout the COVID-19 Pandemic: An Analysis of Similarities between Cases of COVID-19 and Unspecified SARS in SÃ£o Paulo-Brazil. International Journal of Environmental Research and Public Health , v. 21, p. 1164, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.3390/ijerph21091164"
+        },
+        {
+          "texto": "MEIRA, MARCILIO DE OLIVEIRA ; CANUTO, ANNE MAGALY DE PAULA ; Carvalho, Bruno Motta de ; JALES, ROBERTO LEVI CAVALCANTI . Comparison of Machine Learning predictive methods to diagnose the Attention Deficit/Hyperactivity Disorder levels using SPECT. RESEARCH, SOCIETY AND DEVELOPMENT , v. 11, p. e54811831258, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.33448/rsd-v11i8.31258"
+        },
+        {
+          "texto": "Ceja, C. ; Rascon, C. ; GARDUÑO, E. ; CARVALHO, B. M. ; HERMAN, Gabor T. . Smooth normals with blobs for surfaces from 3D binary images. Topology Proceedings , v. 61, p. 239-267, 2022.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "Silva, Iaslan ; DO VALLE, JOÃO MARCOS ; Souza, Gabriel ; Budke, Jaine ; ARAÚJO, DANIEL ; CARVALHO, BRUNO ; Cacho, Nélio ; Sales, Henrique ; Lopes, Frederico ; SILVA JÚNIOR, RIVALDO . Using micro-services and artificial intelligence to analyze images in criminal evidences. Forensic Science International: Digital Investigation , v. 37, p. 301197, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.fsidi.2021.301197"
+        },
+        {
+          "texto": "OLIVEIRA, SAMUEL DA SILVA ; Carvalho, Bruno Motta de ; KREUTZ, MÁRCIO EDUARDO . Network-on-Chip Irregular Topology Optimization for Real-Time and Non-Real-Time Applications. Micromachines , v. 12, p. 1196, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.3390/mi12101196"
+        },
+        {
+          "texto": "LEANDRO, WALDSON P.N. ; SANTANA, FLÁVIO L. ; Carvalho, Bruno M. ; DO NASCIMENTO, ADERSON F. . Parallel Source Scanning Algorithm using GPUs. COMPUTERS & GEOSCIENCES , v. 140, p. 104497, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1016/j.cageo.2020.104497"
+        },
+        {
+          "texto": "DE LUCENA, LEANDSON R.F. ; DA SILVA, LUIS R.D. ; VIEIRA, MARCELA M. ; Carvalho, Bruno M. ; XAVIER JÚNIOR, MILTON M. . Estimating hydraulic parameters of the Açu-Brazil aquifer using the computer analysis of micrographs. Journal of Hydrology (Amsterdam) , v. 535, p. 61-70, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1016/j.jhydrol.2016.01.025"
+        },
+        {
+          "texto": "SIEBRA, HÉLIO ; CARVALHO, BRUNO M ; GARDUÑO, EDGAR . Fuzzy Clustering of Color Textures using Skew Divergence and Compact Histograms: Segmenting Thin Rock Sections. Journal of Physics. Conference Series (Online) , v. 574, p. 012116, 2015.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1088/1742-6596/574/1/012116"
+        },
+        {
+          "texto": "CARVALHO, BRUNO M ; GARDUÑO, EDGAR ; . Skew Divergence-Based Fuzzy Segmentation of Rock Samples. Journal of Physics. Conference Series (Online) , v. 490, p. 012010, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1088/1742-6596/490/1/012010"
+        },
+        {
+          "texto": "; Motta de Carvalho, Bruno ; VALENTIM, R. ; ; ALVES, R. . Uma Solução para Renderização Remota de Imagens Médicas Tridimensionais: Análise de Desempenho. Revista Brasileira de Inovação Tecnologica em Saúde , v. 4, p. 11, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Carvalho, Bruno M. ; GARDUÑO, EDGAR ; ; ; . Fuzzy segmentation of video shots using hybrid color spaces and motion information. Pattern Analysis and Applications (Print) , v. 17, p. 013-0359-1, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1007/s10044-013-0359-1"
+        },
+        {
+          "texto": "; Motta de Carvalho, Bruno ; MARCOS GARCIA GONÇALVES, LUIZ . Visual attention guided features selection with foveated images. Neurocomputing (Amsterdam) , v. 120, p. 34-44, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1016/j.neucom.2012.10.033"
+        },
+        {
+          "texto": "; ; ; ; ; CARVALHO, B. M. ; . Producing stylized videos using the AnimVideo rendering tool. International Journal of Imaging Systems and Technology (Print) , v. 19, p. 100-110, 2009.",
+          "ano": 2009,
+          "doi": "http://dx.doi.org/10.1002/ima.20180"
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. . Low-dose, large-angled cone-beam helical CT data reconstruction using algebraic reconstruction techniques. Image and Vision Computing , v. 25, p. 78-94, 2007.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1016/j.imavis.2006.03.003"
+        },
+        {
+          "texto": "; ; CARVALHO, B. M. . Coerência Temporal Intra-Objeto para NPR utilizando Fluxo Optico Restrito. REIC. Revista Eletrônica de Iniciação Científica , v. 7, p. 2007205, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "FU, X ; KNUDSEN, e ; POULSEN, H F ; HERMAN, Gabor T. ; CARVALHO, B. M. ; LIAO, Hstau Y . An optimized algebraic reconstruction technique for generation of grain maps based on Three-Dimensional X-ray Diffraction (3DXRD). Optical Engineering (Bellingham) , v. 45, p. 116501, 2006.",
+          "ano": 2006,
+          "doi": "http://dx.doi.org/10.1117/1.2390680"
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. ; KONG, T. Yung . Simultaneous fuzzy segmentation of multiple objects. Discrete Applied Mathematics , v. 151, n.1-3, p. 55-77, 2005.",
+          "ano": 2005,
+          "doi": "http://dx.doi.org/10.1016/j.dam.2005.02.031"
+        },
+        {
+          "texto": "CARVALHO, B. M. ; Dihn, Q. H. . Visualization of Treatment Evolution Using Hardware‐Accelerated Morphs. Studies in Health Technology and Informatics , v. 111, p. 83-86, 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "HERMAN, Gabor T. ; CARVALHO, B. M. . Multiseeded segmentation using fuzzy connectedness. IEEE Transactions on Pattern Analysis and Machine Intelligence , Piscataway, v. 23, p. 460-474, 2001.",
+          "ano": 2001,
+          "doi": "http://dx.doi.org/10.1109/34.922705"
+        },
+        {
+          "texto": "CARVALHO, B. M. ; GAU, C. J. ; HERMAN, Gabor T. ; KONG, T. Yung . Algorithms for Fuzzy Segmentation. Pattern Analysis and Applications , London, UK, v. 2, p. 73-81, 1999.",
+          "ano": 1999,
+          "doi": "http://dx.doi.org/10.1007/s100440050016"
+        },
+        {
+          "texto": "MAKI, D. D. ; BIRNBAUM, B. A. ; CHAKRABORTY, D. P. ; JACOBS, J. A. ; CARVALHO, B. M. ; HERMAN, Gabor T. . Renal Cyst Pseudoenhancement: Beam Hardening Effects on CT Attenuation Values. Radiology , Oak Brook, v. 213, n.2, p. 468-472, 1999.",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Livros publicados/organizados ou edições",
+      "items": [
+        {
+          "texto": "CARVALHO, B. M. ; J. Cavalcante-Neto (Org.) . The 24th SIBGRAPI Conference on Graphics, Patterns, and Images - Tutorials. Los Alamitos, CA: IEEE CS - CPS, 2011. v. 1. 64p .",
+          "ano": 2011,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "F. DA ROCHA, CARLOS ; SILVA, B. S. ; CARVALHO, BRUNO . Uma Revisão da Literatura Sobre Sistemas Computacionais de Apoio ao Tratamento De Feridas. In: Inaldo Moraes; Patrícia Freitas. (Org.). Pesquisas Aplicadas no Panorama das Ciências da Saúde no Brasil. 1ed.Rio de Janeiro: e-Publicar, 2021, v. 1, p. 69-88.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "OLIVEIRA, J. C. ; Selan R. dos Santos ; CARVALHO, B. M. ; MACHADO, L. S. ; MORAES, R. M. ; COSTA, R. M. E. M. ; WERNECK, V. M. B. ; PINHO, M. S. ; NUNES, F. L. S. ; Hélio Pedrini ; Ildeberto Rodello ; DELAMARO, M. E. ; Romero Tori . Virtual Reality Applied to Medicine. In: Raúl Feijóo; Artur Ziviani; Pablo J. Blanco. (Org.). Scientific Computing Applied to Medicine and Healthcare. 1ed.Petrópolis, RJ: INCT-MACC/LNCC, 2012, v. 1, p. 276-313.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "; GARDIMAN, R. Q. ; Leite, L. E. C. ; CARVALHO, B. M. ; . Towards Real Time Data Reduction and Feature Abstraction for Robotics Vision. In: Ales Ude. (Org.). Robot Vision. : InTech, 2010, v. , p. 345-362.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "HERMAN, Gabor T. ; CARVALHO, B. M. . Simultaneous Fuzzy Segmentation of Medical Images. In: Jasjit Suri; David L. Wilson; Swamy Laximinarayan. (Org.). Handbook of Medical Image Analysis: Advanced Segmentation and Registration Models. New York: Springer-Verlag, 2005, v. 2, p. 661-705.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "HERMAN, Gabor T. ; MATEJ, S. ; CARVALHO, B. M. . Algebraic Reconstruction Techniques Using Smooth Basis Functions for Helical Cone-Beam Tomography. In: Butnariu, D.; Censor, Y.; Reich, S.. (Org.). Inherently Parallel Algorithms in Feasibility and Optimization and their Applications. Amsterdam: Elsevier Science, 2001, v. , p. 307-324.",
+          "ano": 2001,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "ALVES, ALAN ; Motta de Carvalho, Bruno . Counting Red Blood Cells in Thin Blood Films: A Comparative Study. In: 17th International Conference on Health Informatics, 2024, Rome. Proceedings of the 17th International Joint Conference on Biomedical Engineering Systems and Technologies, 2024. p. 687-694.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.5220/0012455000003657"
+        },
+        {
+          "texto": "Freitas, D. ; Nagem, D. ; Carvalho, Bruno M. ; SANCHEZ-GENDRIZ, I. . Análise de Vibrações Mecânicas Sutis Utilizando Técnicas de Visão Computacional e Processamento Digital de Vídeo - Revisão. In: Congresso Nacional de Engenharia Mecânica, 2024, Natal. Congresso Nacional de Engenharia Mecânica, 2024. v. 1. p. 1.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "ANTHONY DA CUNHA ROMÃO E SILVA, ARTHUR ; Motta de Carvalho, Bruno ; FARIAS DO NASCIMENTO, ADERSON . Hypocentral Parameter Inversion using Hybrid Grey Wolf Optimizer. In: ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2024, Fortaleza, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2024-193823"
+        },
+        {
+          "texto": "ANTHONY DA CUNHA ROMÃO E SILVA, ARTHUR ; Motta de Carvalho, Bruno . Automated Picking of Time-Velocity Pairs Using a Hybrid Grey Wolf Optimizer. In: ANAIS DO LVI SIMPóSIO BRASILEIRO DE PESQUISA OPERACIONAL, 2024, 2024.",
+          "ano": 2024,
+          "doi": "http://dx.doi.org/10.59254/sbpo-2024-193821"
+        },
+        {
+          "texto": "Coutinho, Edson A. G. ; Carvalho, Bruno M. ; Selan R. dos Santos ; AXEL, L. . VisHeart: A Visualization and Analysis Tool for Multidimensional Data. In: Functional Imaging and Modeling of the Heart, 2023, Lyon. Functional Imaging and Modeling of the Heart. LNCS 13958, 2023. p. 403-411.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "SOUTO, J. R. A. ; Barbosa, F. M. C. ; Carvalho, Bruno M. . Three-Dimensional Wound Reconstruction using Point Descriptors: A Comparative Study. In: 36th International Symposium on Computer-Based Medical Systems, 2023, L'Áquila. 36th International Symposium on Computer-Based Medical Systems (CBMS). Piscataway, NJ: IEEE, 2023. p. 41-46.",
+          "ano": 2023,
+          "doi": "http://dx.doi.org/10.1109/CBMS58004.2023.00017"
+        },
+        {
+          "texto": "DE OLIVEIRA MEIRA, MARCILIO ; DE PAULA CANUTO, ANNE MAGALY ; de Carvalho, Bruno Motta ; CAVALCANTI JALES, ROBERTO LEVI . Evaluating Brain Regions That Characterize Attention Deficit/Hyperactivity Disorder Based on SPECT Images and Machine Learning Models. In: 2022 International Joint Conference on Neural Networks (IJCNN), 2022, Padua. 2022 International Joint Conference on Neural Networks (IJCNN), 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/IJCNN55064.2022.9892968"
+        },
+        {
+          "texto": "OLIVEIRA, S. S. ; LIMA, GUILHERME EGLE P. ; Bezerra, André F. R. ; ; Carvalho, Bruno M. . Performance Comparison and Evaluation of HybridWired-Wireless Networks-on-Chip. In: IBERCHIP, 2021, Arequipa. Workshop IBERCHIP, 2021.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "DA SILVA OLIVEIRA, SAMUEL ; PEREIRA, MONICA MAGALHAES ; KREUTZ, MARCIO EDUARDO ; de Carvalho, Bruno Motta . Using Machine Learning to Estimate Latency and Delivered Packets in Hybrids NoCs. In: 2021 XI Brazilian Symposium on Computing Systems Engineering (SBESC), 2021, Florianopolis. 2021 XI Brazilian Symposium on Computing Systems Engineering (SBESC), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/sbesc53686.2021.9628340"
+        },
+        {
+          "texto": "MARQUES, VÍTOR ; CARVALHO, BRUNO ; SILVA, BRUNO ; F. DA ROCHA, CARLOS . WoundArch: A Hybrid Architecture System for Segmentation and Classification of Chronic Wounds. In: 14th International Conference on Health Informatics, 2021, Online Streaming. Proceedings of the 14th International Joint Conference on Biomedical Engineering Systems and Technologies, 2021. p. 651.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.5220/0010341406510658"
+        },
+        {
+          "texto": "OLIVEIRA, SAMUEL DA S. ; CANUTO, ANNE M. P. ; Carvalho, Bruno M. ; KREUTZ, MARCIO E. . Machine Learning Based Seismic Region Classification. In: 2020 International Joint Conference on Neural Networks (IJCNN), 2020, Glasgow. 2020 International Joint Conference on Neural Networks (IJCNN), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/ijcnn48605.2020.9206961"
+        },
+        {
+          "texto": "A. G. COUTINHO, EDSON ; M. CARVALHO, BRUNO . Evaluation of Real-Time Remote 3D Rendering of Medical Images using GPUs. In: 2020 IEEE 33rd International Symposium on ComputerBased Medical Systems (CBMS), 2020, Rochester. 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), 2020. p. 19.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/cbms49503.2020.00011"
+        },
+        {
+          "texto": "M. C. BARBOSA, FELLIPE ; Carvalho, Bruno M. ; GOMES, RAFAEL B. . Accurate Chronic Wound Area Measurement using Structure from Motion. In: 2020 IEEE 33rd International Symposium on ComputerBased Medical Systems (CBMS), 2020, Rochester. 2020 IEEE 33rd International Symposium on Computer-Based Medical Systems (CBMS), 2020. p. 208.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/cbms49503.2020.00047"
+        },
+        {
+          "texto": "DA SILVA OLIVEIRA, SAMUEL ; SILVA, GUILHERME EGLE P. LIMA ; GORGONIO, ARTHUR C. ; BARRETO, CEPHAS A. S. ; CANUTO, ANNE M. P. ; Carvalho, Bruno M. . Team Recommendation for the Pokémon GO Game Using Optimization Approaches. In: 2020 19th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames), 2020, Recife. 2020 19th Brazilian Symposium on Computer Games and Digital Entertainment (SBGames), 2020. p. 163.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/sbgames51465.2020.00030"
+        },
+        {
+          "texto": "DA S. OLIVEIRA, SAMUEL ; LIMA, GUILHERME EGLE P. ; PEREIRA, MONICA M. ; KREUTZ, MARCIO E. ; Carvalho, Bruno M. . Mapping Wired Links in a Hybrid Wired-Wireless Network-on-Chip. In: 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020, Florianopolis. 2020 X Brazilian Symposium on Computing Systems Engineering (SBESC), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/sbesc51047.2020.9277850"
+        },
+        {
+          "texto": "AMORIM, V. H. M. ; CARVALHO, BRUNO M ; THOME, A. C. G. . A Modified Viola-Jones Detector for Low-Cost Localization of Car Plates. In: International Symposium on Visual Computing, 2019, Lake Tahoe. Advances in Visual Computing, 2019. v. 1. p. 529-540.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "MARQUES, VITOR G. ; DA SILVA, LUIS R. D. ; Carvalho, Bruno M. ; DE LUCENA, LEANDSON R. F. ; VIEIRA, MARCELA M. . Deep Learning-Based Pore Segmentation of Thin Rock Sections for Aquifer Characterization Using Color Space Reduction. In: 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019, Osijek. 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019. p. 235-240.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/iwssip.2019.8787327"
+        },
+        {
+          "texto": "SILVA, LUIS F. V. ; BANDEIRA, DANILO R. C. ; Carvalho, Bruno M. . A Low-Budget Approach for Vehicle Detection and Occlusion Removal on Traffic Videos. In: 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019, Osijek. 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019. p. 77-82.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/iwssip.2019.8787304"
+        },
+        {
+          "texto": "NETO, JOSE SILVA ; LEANDRO, WALDSON ; GADELHA, MATHEUS ; SANTOS, TIAGO ; Carvalho, Bruno M. ; GARDUNO, EDGAR . Automatic Fuzzy Segmentation of Textural Images Using Adaptive Divergence Affinity Functions. In: 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019, Osijek. 2019 International Conference on Systems, Signals and Image Processing (IWSSIP), 2019. p. 51-56.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/IWSSIP.2019.8787247"
+        },
+        {
+          "texto": "GODEIRO, VITOR ; NETO, JOSE SILVA ; CARVALHO, BRUNO ; SANTANA, BRUNO ; FERRAZ, JULIANNY ; GAMA, RENATA . CHRONIC WOUND TISSUE CLASSIFICATION USING CONVOLUTIONAL NETWORKS AND COLOR SPACE REDUCTION. In: 2018 IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP), 2018, Aalborg. 2018 IEEE 28th International Workshop on Machine Learning for Signal Processing (MLSP), 2018. p. 1.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1109/mlsp.2018.8517026"
+        },
+        {
+          "texto": "OLIVEIRA, A. D. ; CARVALHO, B. M. ; PRATS, C. ; ESPASA, M. ; PRAT, J. G. I. ; CODINA, D. L. ; ALBUQUERQUE, J. . An Automatic System for Computing Malaria Parasite Density in Thin Blood Films. In: 22nd Iberoamerican Congress, CIARP, 2017, Valparaiso. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications - LNCS. Cham: Springer, 2017. v. 10657. p. 186-193.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "Marques, V. G. ; CARVALHO, B. M. ; SILVA, B. S. ; FERRAZ, J. B. ; GAMA, R. A. . Segmentação Semi-Automática de Úlceras para Terapia Larval. In: Workshop de Informática Médica, 2017, São Paulo. XXXVII Congresso da Sociedade Brasileira de Computação. Porto Alegre: Sociedade Brasileira de Computação, 2017. p. 1951-1954.",
+          "ano": 1954,
+          "doi": ""
+        },
+        {
+          "texto": "COSTA, A. ; CARVALHO, B. M. . SALSA - A Simple Automatic Lung Segmentation Algorithm. In: Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications - 20th Iberoamerican Congress, CIARP 2015, 2015, Montevideo. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications - 20th Iberoamerican Congress, CIARP 2015. Heidelberg: Springer International Publishing, 2015. v. 9423. p. 501-508.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; Carvalho, Bruno M. . Generalized Preemptive RANSAC - Making Preemptive RANSAC Feasible even in Low Resources Devices. In: 9th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2014, Lisboa. 9th International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications, 2014. v. 1. p. 406-415.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; Carvalho, Bruno M. . Discrete Robust INvariante Keypoints. In: 22nd International Conference on Pattern Recognition, 2014, Stockholm. 22nd International Conference on Pattern Recognition. Los Alamitos, CA: IEEE, 2014.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; Carvalho, Bruno M. . MUGEN RANSAC - MUltiple GENerator Applied to Motion Estimation. In: CIARP - Iberoamerican Congress on Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications, 2014, Puerto Vallarta. Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications. Berlin: Springer, 2014. v. 8827. p. 876-883.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Carvalho, Bruno M. ; SOUZA, TIAGO S. ; GARDUÑO, EDGAR . Texture fuzzy segmentation using adaptive affinity functions. In: the 27th Annual ACM Symposium, 2012, Trento. Proceedings of the 27th Annual ACM Symposium on Applied Computing - SAC '12. New York: ACM Press. v. 1. p. 51-53.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1145/2245276.2245288"
+        },
+        {
+          "texto": "; ; Carvalho, Bruno Motta de ; GONCALVES, LUIZ MARCOS GARCIA . Real Time Interactive Image Segmentation Using User Indicated Real-World Seeds. In: 2012 XXV SIBGRAPI Conference on Graphics, Patterns and Images (SIBGRAPI), 2012, Ouro Preto. 2012 25th SIBGRAPI Conference on Graphics, Patterns and Images. v. 1. p. 182-189.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/SIBGRAPI.2012.33"
+        },
+        {
+          "texto": "; LOPES, ALBA S. B. ; Carvalho, Bruno M. ; ; . H.264/AVC motion estimation on FPGAs and GPUs: A comparative study. In: 2012 NORCHIP, 2012, Copenhagen. NORCHIP 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/NORCHP.2012.6403101"
+        },
+        {
+          "texto": "; CARVALHO, B. M. . BRUMA: Generalizing All Preemption Functions. In: 17h International Conference on Systems, Signals and Image Processing, 2010, Rio de Janeiro. 17h International Conference on Systems, Signals and Image Processing. Niteroi, Brazil: EdUFF, 2010. p. 380-383.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; ; CARVALHO, B. M. . Producing Stylized Renderings using the AVP Rendering Tool. In: 12th International Workshop on Combinatorial Image Analysis, 2008, Buffalo. Image Analysis - From Theory to Applications. Singapore: Research Publishing, 2008. v. 1. p. 55-64.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; GONALVES, LUIZ MARCOS GARCIA ; de Carvalho, Bruno Motta . Real time vision for robotics using a moving fovea approach with multi resolution. In: 2008 IEEE International Conference on Robotics and Automation (ICRA), 2008, Pasadena. 2008 IEEE International Conference on Robotics and Automation. v. 1. p. 2404-2409.",
+          "ano": 2008,
+          "doi": "http://dx.doi.org/10.1109/ROBOT.2008.4543573"
+        },
+        {
+          "texto": "NETO, LAURINDO S. BRITTO ; Carvalho, Bruno M. . Message in a Bottle: Stylized Rendering of Sand Movies. In: XX Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI 2007), 2007, Minas Gerais. XX Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI 2007). p. 11-18.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/SIBGRAPI.2007.32"
+        },
+        {
+          "texto": "; ; Carvalho, Bruno M. ; CANUTO, ANNE M.P. ; DE SOUTO, MARCILIO C.P. . Particle Detection on Election Microscopy Micrographs Using Multi-Classifier Systems. In: 7th International Conference on Hybrid Intelligent Systems (HIS 2007), 2007, Kaiserslautern. 7th International Conference on Hybrid Intelligent Systems (HIS 2007). p. 216-221.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/HIS.2007.51"
+        },
+        {
+          "texto": "; ; CARVALHO, B. M. . Mosaic Animations from Video Inputs. In: IEEE Pacific-Rim Symposium on Image and Video Tecnology, 2007, Santiago. Pacific Rim Symposium on Image Video and Technology 2007, 2007. v. 4872. p. 87-99.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; . Construção de Mosaicos Georreferenciados Usando Imagens Aéreas de Pequeno Formato para SIG. In: GEOINFO, 2007, Campos do Jordão. IX Simpósio Brasileiro de Geoinformática, 2007. p. 209-214.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; ; GARDUÑO, E. . Semi-Automatic Single Particle Segmentation on electron Micrographs. In: 2006 IEEE International Symposium on Biomedical Imaging: From Nano to Macro, 2006, Arlington. Proceedings of the 2006 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. Los Alamitos, CA: IEEE, 2006. v. 1. p. 1024-1027.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; ; . Bottled Sand Movies. In: 3rd International Conference on Computer Graphics, Imaging and Visualisation (CGIV'06), 2006, Sydney. 3rd International Conference on Computer Graphics, Imaging and Visualisation (CGIV'06). Los alamitos, CA: IEEE, 2006. p. 402-407.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; ; . Fuzzy Segmentation of Color Video Shots. In: 13th International Conference on Discrete Geometry for Computer Imagery, 2006, Szeged. 13th International Conference on Discrete Geometry for Computer Imagery (LNCS). Berlin: Springer, 2006. v. 4245. p. 494-505.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; ; CARVALHO, B. M. . Coerência Temporal Intra-objeto para NPR utilizando Fluxo Ótico Restrito. In: Workshop de Iniciação Científica do SIBGRAPI, 2006, Manaus. Workshop de Iniciação Científica do SIBGRAPI. Manaus: UFAM-CEFET-AM, 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; ; ; . Segmentação Fuzzy de Seqüências de Vídeo Utilizando Espaços de Cores Híbridos. In: II Workshop de Visão computacional, 2006, São Carlos. II Workshop de Visão computacional. São Carlos: EECS-USP, 2006. v. 1. p. 217-222.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. . A Segmentation-Based Automatic Navigation Technique for Virtual Endoscopy. In: ISBI 2004, 2004, Arlington, VA, USA. Proceedings of the 2004 IEEE International Symposium on Biomedical Imaging: From Nano to Macro. Piscataway, NJ, USA: IEEE, 2004. v. 1. p. 1541-1544.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "FU, XIAOWEI ; KNUDSEN, ERIK ; POULSEN, HENNING F. ; HERMAN, Gabor T. ; Carvalho, Bruno M. ; LIAO, HSTAU Y. ; BONSE, ULRICH . <title>Optimization of an algebraic reconstruction technique for generation of grain maps based on diffraction data</title>. In: Optical Science and Technology, the SPIE 49th Annual Meeting, 2004, Denver. v. 5535. p. 261-273.",
+          "ano": 2004,
+          "doi": "http://dx.doi.org/10.1117/12.559602"
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. ; KONG, T. Yung . Simultaneous Fuzzy Segmentation of Multiple Objects. In: IWCIA, 2003, Palermo. Electronic Notes in Discrete Mathematics, 2003. v. 12.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. . Helical CT Reconstruction from Wide Cone-Beam Angle Data using ART. In: Brazilian Simposium on Computer Graphics and Image Processing, 2003, Sao Carlos. XVI Brazilian Symposium on Computer Graphics and Image Processing (SIBGRAPI'03). Los Alamitos, CA, USA: IEEE, 2003. p. 363-370.",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. ; GARDUÑO, E. . Multiseeded Fuzzy Segmentation on the Face Centered Cubic Grid. In: ICAPR'2001, 2001, Rio de Janeiro. ICAPR'2001. London: Springer, 2001. p. 339-348.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. ; MATEJ, S. . ART for Helical Cone-Beam CT Reconstruction. In: The Sixth International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Meeting, 2001, Pacific Grove. The Sixth International Meeting on Fully Three-Dimensional Image Reconstruction in Radiology and Nuclear Meeting, 2001. p. 249-252.",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; HERMAN, Gabor T. ; MATEJ, S. ; SALZBERG, C. ; VARDI, E. . Binary Tomography for Triplane Cardiography. In: Information Processing in Medical Imaging (IPMI'99), 1999, Visegrad. Information Processing in Medical Imaging (IPMI'99). Berlin: Spriger-Verlag, 1999. p. 29-41.",
+          "ano": 1999,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; GAU, C. J. ; HERMAN, Gabor T. ; KONG, T. Yung . Algorithms for Fuzzy Segmentation. In: ICAPR'98, 1998, Plymouth. ICAPR'98. London: Springer, 1998. p. 154-163.",
+          "ano": 1998,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; . Extraindo Curvaturas de Superfícies a partir do Estéreo Fotométrico Baseado em Disparidades. In: XVI Congresso da Sociedade Brasileira de Computacao (SBC'96), 1996, Recife. XVI Congresso da Sociedade Brasileira de Computacao (SBC'96), 1996. p. 59-70.",
+          "ano": 1996,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. . Analysing the Optical Flow of Photometric-Stereo Images. In: 5th International Conference on Image Processing and its Aplicattions, 1995, Edinburgh. 5th International Conference on Image Processing and its Aplicattions, 1995. p. 360-364.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. . Binocular Fusion of Photometric Stereo Images. In: Second Asian Conference on Computer Vision (ACCV'95), 1995, Singapore. Second Asian Conference on Computer Vision (ACCV'95), 1995. v. 2. p. 336-340.",
+          "ano": 1995,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. . Linear Disparity-Based Photometric Stereo. In: VII SIBGRAPI, 1994, Curitiba. Anais do VII SIBGRAPI, 1994. v. 1. p. 61-67.",
+          "ano": 1994,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "Leandson R. F. de Lucena ; Carvalho, Bruno M. ; Marcelo F. Siqueira ; LIMA, S. A. ; Klein, V. . Obtaining Hydraulic Parameters of Aquifers from Thin Sections - A Methodological Proposal. In: 42nd IAH Congress, 2015, Rome. 42nd IAH Congress, 2015. p. 1.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "Marques, V. G. ; ; CARVALHO, B. M. ; SILVA, B. S. ; FERRAZ, J. B. ; GAMA, R. A. . Chronic Wound Tissue Classification Using Convolutional Networks And Color Space Reduction. 2018. (Apresentação de Trabalho/Congresso).",
+          "ano": 2018,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "CARVALHO, B. M. . Snark05Input. 2004.",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; SARIOZ, Deniz . Snark05Display. 2004.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do EMBC. 2024. (Comitê de programa).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do ISBI. 2024. (Comitê de programa).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do VISAPP. 2024. (Comitê de programa).",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do SIBGRAPI. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do CBMS. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do CTIC-CSBC. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do EMBC. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do ISBI. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2023. (Revisão de artigo).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do VISAPP. 2023. (Comitê de programa).",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do SIBGRAPI. 2022. (Comitê de programa).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do VISAPP. 2022. (Comitê de programa).",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do ISBI. 2021. (Comitê de programa).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico TEMA. 2021. (Revisão de artigo).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do VISAPP. 2021. (Comitê de programa).",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do AICSSA. 2020. (Comitê de programa).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do CTIC-CSBC. 2020. (Comitê de programa).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do ISVC. 2020. (Comitê de programa).",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do CTIC-CSBC. 2018. (Comitê de programa).",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2017. (Revisão de artigo).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Multimedia Tools and Applications. 2017. (Revisão de artigo).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2017. (Revisão de artigo).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Comitê de programa do WVC. 2017. (Comitê de programa).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2016. (Revisão de artigo).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2016. (Revisão de artigo).",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2015. (Revisão de artigo).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2015. (Revisão de artigo).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico TEMA. 2015. (Revisão de artigo).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigos para o CLEI. 2014. (Revisão de artigo).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2014. (Revisão de artigo).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Journal of Electronic Imaging. 2014. (Revisão de artigo).",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2013. (Revisão de artigo).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Journal of Mathematical Imaging and Vision. 2013. (Revisão de artigo).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2013. (Revisão de artigo).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2012. (Revisão de artigo).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Journal of Mathematical Imaging and Vision. 2012. (Revisão de artigo).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Optical Engineering. 2012. (Revisão de artigo).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de Programa do SIBGRAPI. 2009. (Comitê de programa).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2009. (Revisão de artigo).",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do SIBGRAPI 2008. 2008. (Comitê de programa).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do Worshop of Undergraduate Work (WUW) do SIBGRAPI 2007. 2008. (Comitê de programa).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Pattern Recognition. 2008. (Revisão de artigo).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, BRUNO M . Revisão de artigo para o periódico Pattern Recognition Letters. 2008. (Revisão de artigo).",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do SIBGRAPI 2007. 2007. (Comitê de programa).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico IEEE Transactions on Image Processing. 2007. (Revisão de artigo).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do Workshop de Iniciação Científica do SIBGRAPI 2007. 2007. (Comitê de programa).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa da sessão de posters do SIBGRAPI 2007. 2007. (Comitê de programa).",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do SIBGRAPI 2006. 2006. (Comitê de programa).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do Workshop de Iniciação Científica do SIBGRAPI 2006. 2006. (Comitê de programa).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2006. (Revisão de artigo).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Optical Engineering. 2006. (Revisão de artigo).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Journal of the Brazilian Computer Society. 2006. (Revisão de artigo).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2006. (Revisão de artigo).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Journal of the Brazilian Computer Society. 2006. (Revisão de artigo).",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do SIBGRAPI 2005. 2005. (Comitê de programa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do Workshop de Teses e Dissertações - SIBGRAPI. 2005. (Comitê de programa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Comitê de programa do Workshop de Iniciação Científica do SIBGRAPI 2005. 2005. (Comitê de programa).",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo (Optical Engineering). 2004. (Revisão de artigo).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo (Fuzzy Sets and systems). 2004. (Revisão de artigo).",
+          "ano": 2004,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Computerized Medical Imaging and Graphics. 2003. (Revisão de artigo).",
+          "ano": 2003,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico Medical Image Analysis. 2001. (Revisão de artigo).",
+          "ano": 2001,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico IEEE Transactions on Medical Imaging. 2000. (Revisão de artigo).",
+          "ano": 2000,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. . Revisão de artigo para o periódico International Journal of Imaging Systems and Technology. 1999. (Revisão de artigo).",
+          "ano": 1999,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "Vasconcelos, G. C.; Teichrieb, V.; CARVALHO, B. M. . Participação em banca de Kelvin Batista da Cunha. Detecção de objetos em 6-DoF em tempo real utilizando técnicas de aprendizagem profunda. 2019. Dissertação (Mestrado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; Santos, A. M.; CARVALHO, B. M. ; Xavier Júnior, J. C.; Gorgonio, F. L.. Participação em banca de HULIANE MEDEIROS DA SILVA. Otimização de Comitês de Agrupamento Usando o Algoritmo Coral Reefs Optimization. 2016. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; Abreu, M. C. C.; Araújo, D. S. A.; Cavalcanti, G. D. C.. Participação em banca de RAYRON VICTOR MEDEIROS DE ARAÚJO. A probabilistic analysis of the biometrics menagerie existence: a case study in fingerprint data. 2016.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; CARVALHO, B. M. ; Oliveira, R. T. G.; Souza, A. A. S.. Participação em banca de PETRÚCIO RICARDO TAVARES DE MEDEIROS. Multifoveamento em Multirresolução com Fóveas Móveis. 2016. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Pereira, M. M.; CARVALHO, B. M. ; Silva, I. S.. Participação em banca de ELISELMA VIEIRA DOS SANTOS. Mecanismo de tolerância a falhas através de escalonamento para uma arquitetura reconfigurável de grão grosso. 2015. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; Campos, A. M. C.; CARVALHO, B. M. ; OLIVEIRA, J. C.. Participação em banca de ALYSON MATHEUS DE CARVALHO SOUZA. Investigando a compressão da percepção de distância em ambientes virtuais através da comparação entre dispositivos de visualização. 2014. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; CARVALHO, B. M. ; Teichrieb, V.. Participação em banca de MATHEUS ABRANTES GADELHA. An Augmented Reality Pipeline to Create Scenes with Coherent Illumination Using Textured Cuboids. 2014. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; CARVALHO, B. M. ; Machado, L. S.. Participação em banca de EDSON ALYPPYO GOMES COUTINHO. Investigando o Uso do Sentido Háptico na Visualização de Dados Multivariados em Gráficos de Dispersão Bidimensionais. 2014 - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Abreu, M. C. C.; CARVALHO, B. M. ; Lopes, F. A.; Schwartz, W. R.. Participação em banca de GIULIANA SILVA BEZERRA. A framework for investigating the use of face features to identify naturally generated emotion. 2014. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; CARVALHO, B. M. ; Pinho, M. S.. Participação em banca de WALDSON PATRICIO DO NASCIMENTO LEANDRO. Comparação do impacto de técnicas de auxílio à navegação no wayfinding em tarefas de busca em ambientes virtuais. 2013. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; CARVALHO, B. M. ; OLIVEIRA, J. C.. Participação em banca de PHILIP MICHEL DUARTE. Geração Procedural de Cenários Orientada a Objetivos. 2012. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "Selan R. dos Santos; CARVALHO, B. M. ; Farias, R. C.. Participação em banca de ÍTALO MENDES DA SILVA RIBEIRO. Segmentação Vascular com Extração de Centerlines em Paralelo utilizando Height Ridges. 2011. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2011,
+          "doi": ""
+        },
+        {
+          "texto": "Campos, A. M. C.; CARVALHO, B. M. ; Burlamaqui, A. M. F.. Participação em banca de ELIZAMA DAS CHAGAS LEMOS. Plausabilidade Emocional no Desenvolvimento de Chatterbots para o Ensino de Algoritmos. 2010. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; Prudêncio, R. B. C.. Participação em banca de LIGIA MARIA MOURA E SILVA. Selecao de atributos em comites de classificadores: Uma abordagem usando algoritmos geneticos. 2010. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; Cavalcanti, G. D. C.. Participação em banca de Karliane Medeiros Ovídio Vale. Uma Análise de Métodos de Distribuição de Atributos em Comitês de Classificadores. 2009. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "CARVALHO, B. M. ; ; Gomes, H. M.. Participação em banca de Rafael Beserra Gomes. Multi-Resolução com Fóvea Móvel para Redução e Abstração de Dados em Tempo Real. 2009. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "Dória Neto, A. D.; Melo, Jorge D.; Pires, P. S. M.; CARVALHO, B. M. ; Santos, C. A. S.. Participação em banca de Diego de Miranda Gomes. Compressão Seletiva de Imagens Coloridas com Detecção Automática de Regiões de Interesse. 2006. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "ELIAS, G.; CARVALHO, B. M. ; GIMENES, I. M. S.. Participação em banca de Fernando Luiz de Almeida. X-ARM: Um Modelo de Representação de Artefatos de Software. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "Aloise, D. J.; CARVALHO, B. M. ; PINHEIRO, P. R.. Participação em banca de Carlos Heitor Pereira Liberalino. O Problema do Bin Packing Tridimensional em contêineres: Usando Interação com o Usuário. 2005. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "Aloise, D. J.; CARVALHO, B. M. ; Achi, L. S.. Participação em banca de Joseane Alves Pinheiro. Metaheurísticas paralelas para o Problema de Alocação de Sondas de Produção Terrestre: Desenvolvimento e Aplicação. 2005. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "Lyra A.; Morais, R. M.; CARVALHO, B. M. ; Dória Neto, A. D.. Participação em banca de Adriana Takahashi. Extensões Intervalares do Método de segmentação de Imagens digitais por K-Means: Estudos Comparativos e de Caso. 2005. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "ELIAS, G.; CARVALHO, B. M. ; FERRAZ, C. A. G.. Participação em banca de Fernando Luiz de Almeida. X-Conf: Uma Infra-Estrutura de Gerenciamento e Configuração de Serviços de Distribuição de Vídeo Digital. 2005. Dissertação (Mestrado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "COSIO, F. A.; GARDUÑO, E.; CASTANEDA, M. A. P.; STROZZI, A. G.; CARVALHO, B. M. . Participação em banca de César Adrián Victoria Ramírez. Visualización Libre de Mallas por Partículas Suavizadas Optimizada Mediante Octree Dinâmico. 2024. Tese (Doutorado em Ciencia e Ingeniería de la Computación) - Universidad Nacional Autónoma de Mexico.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "Melo, S. B.; Campelo, D. R. S.; Teixeira, J. M. X. N.; CARVALHO, B. M. ; Lepetit, V.. Participação em banca de Francisco Paulo Magalhães Simões. Object Detection and Pose Estimation from Natural Features for Augmented Reality in Complex Scenes. 2016. Tese (Doutorado em Ciências da Computação) - Universidade Federal de Pernambuco.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "Queiroz, J.; Gomes, H. M.; Araújo, J.; Motta de Carvalho, Bruno ; Melcher, E.; Batista, L.. Participação em banca de Francisco de Assis Pereira Vasconcelos de Arruda. Uma Abordagem Híbrida para a Renderização Não Fotorrealística de Vídeos Digitais. 2014. Tese (Doutorado em Ciência da Computação) - Universidade Federal de Campina Grande.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; Carvalho, A. C. P. L. F.; Coelho, A. L. V.; Santos, A. M.. Participação em banca de DIEGO SILVEIRA COSTA NASCIMENTO. Novas Abordagens para Configurações Automáticas dos Parâmetros de Controle em Comitês de Classificadores. 2014. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; CARVALHO, B. M. ; Abreu, M. C. C.; Cavalcanti, G. D. C.; Ludermir, T. B.. Participação em banca de FERNANDO PINTRO. Comitês de Classificadores para o Reconhecimento Multibiométrico em Dados Biométricos Revogáveis. 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "Falcão, A. X.; Costa L. F.; CARVALHO, B. M. ; Rocha, A. R.; Cenders, F.. Participação em banca de Fábio Augusto Menocci Cappabianco. Segmentação de tecidos do cérebro humano em imagens de ressonância magnética e sua avaliação. 2010. Tese (Doutorado em Ciência da Computação) - Universidade Estadual de Campinas.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "Medeiros, A. A. D.; ; CARVALHO, B. M. ; Freire, E. O.; Pereira, G. A. S.. Participação em banca de Kelson Rômulo Teixeira Aires. Sistema de Segmentação de Planos 3D Baseado em Homografia Afim, Fluxo Óptico e Reconstrução Métrica. 2009. Tese (Doutorado em Sistemas e Computação) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2009,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "Dória Neto, A. D.; CARVALHO, B. M. ; Martins, A. M.; BRITO JR, Agostinho M. Participação em banca de Andrezza Cristina da Silva Barros. Sistema Híbrido para Detecção de Carcinomas em Mamografias. 2005. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; BRITO JR, Agostinho M; CARVALHO, B. M. . Participação em banca de Carlos Magno de Lima. Uso de Renderização Volumétrica e Realidade virtual para Problemas de Percolação em Aplicações de Engenharia. 2005. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "Déharbe, David Boris Paul; CARVALHO, B. M. ; Almeida, E. S.. Concurso Público de Provas e Títulos para Professor de Magistério Superior na Classe de Adjunto, na Área de Informática. 2005. Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "items": [
+        {
+          "texto": "Silva, I. S.; CARVALHO, B. M. ; Lopes, A. B.. Processo Seletivo Simplificado para Professores Substituto do Departamento de Informatica e Matematica Aplicada na Área de Software Básico e Redes de Computadores. 2005. Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "Maia, P. F.; Moreira, O. C.; CARVALHO, B. M. . Processo Seletivo Simplificado para Professor Substituto do Departamento de Informatica e Matematica Aplicada na Área de Informática Básica. 2005. Universidade Federal do Rio Grande do Norte.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

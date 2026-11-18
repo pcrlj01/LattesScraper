@@ -1,0 +1,2316 @@
+{
+  "name": "Eduardo Oliveira Freire",
+  "lattes_id": "6140266116057805",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2026,
+          "titulo": "Trajectory Tracking of a WMR Using a Neuro-Adaptive MRAC Control With Dynamic Uncertainties",
+          "autores": "ULIARTE, JORGE ; FREIRE, EDUARDO OLIVEIRA ; VÁZQUEZ, FERNANDO ULLOA ; CAMARGO, FEDERICO ; SECCHI, HUMBERTO ; CARELLI, Ricardo ; ROSSOMANDO, FRANCISCO",
+          "periodico": "IEEE Access , v. 14, p. 37871-37884, 2026.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3670760",
+          "citacao_completa": "ULIARTE, JORGE ; FREIRE, EDUARDO OLIVEIRA ; VÁZQUEZ, FERNANDO ULLOA ; CAMARGO, FEDERICO ; SECCHI, HUMBERTO ; CARELLI, Ricardo ; ROSSOMANDO, FRANCISCO . Trajectory Tracking of a WMR Using a Neuro-Adaptive MRAC Control With Dynamic Uncertainties. IEEE Access , v. 14, p. 37871-37884, 2026."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Monitoring ZnO surge arresters using convolutional neural networks and image processing techniques combined with signal alignment",
+          "autores": "SILVEIRA ARAUJO, BRUNO VINICIUS ; RODRIGUES, GUSTAVO ARAGÃO ; PAIXÃO DE OLIVEIRA, JOHNNY HERBERT ; ROCHA XAVIER, GEORGE VICTOR ; LEBRE, ULISSES DANIEL ENES DE SOUZA ; DE ARAUJO, CHARLES ANTONY CORDEIRO ; FREIRE, EDUARDO OLIVEIRA ; WANDERLEY NETO, ESTÁCIO TAVARES ; FERREIRA, TARSO VILELA",
+          "periodico": "MEASUREMENT , v. 248, p. 116889, 2025.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2025.116889",
+          "citacao_completa": "SILVEIRA ARAUJO, BRUNO VINICIUS ; RODRIGUES, GUSTAVO ARAGÃO ; PAIXÃO DE OLIVEIRA, JOHNNY HERBERT ; ROCHA XAVIER, GEORGE VICTOR ; LEBRE, ULISSES DANIEL ENES DE SOUZA ; DE ARAUJO, CHARLES ANTONY CORDEIRO ; FREIRE, EDUARDO OLIVEIRA ; WANDERLEY NETO, ESTÁCIO TAVARES ; FERREIRA, TARSO VILELA . Monitoring ZnO surge arresters using convolutional neural networks and image processing techniques combined with signal alignment. MEASUREMENT , v. 248, p. 116889, 2025."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Search and Integration of Nodes in Hybrid Wireless Sensor Networks by Exploring the Connectivity Frontier",
+          "autores": "FARIAS, WESLLEY ALVES ; Freire, Raimundo Carlos Silvério ; CARVALHO, Elyson Ádan Nunes ; FILHO, JOSÉ GILMAR NUNES DE CARVALHO ; Molina, Lucas ; FREIRE, E. O.",
+          "periodico": "IEEE Sensors Journal , v. 24, p. 8615-8627, 2024.",
+          "doi": "http://dx.doi.org/10.1109/JSEN.2023.3348069",
+          "citacao_completa": "FARIAS, WESLLEY ALVES ; Freire, Raimundo Carlos Silvério ; CARVALHO, Elyson Ádan Nunes ; FILHO, JOSÉ GILMAR NUNES DE CARVALHO ; Molina, Lucas ; FREIRE, E. O. . Search and Integration of Nodes in Hybrid Wireless Sensor Networks by Exploring the Connectivity Frontier. IEEE Sensors Journal , v. 24, p. 8615-8627, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Modifications of Fully Resampled PSO in the Inverse Kinematics of Robot Manipulators",
+          "autores": "SANTOS, D. O. ; ; CARVALHO FILHO, J. G. N. ; CARVALHO, E. A. N. ; FREIRE, E. O.",
+          "periodico": "IEEE ROBOTICS AND AUTOMATION LETTERS , p. 1-6, 2024.",
+          "doi": "http://dx.doi.org/10.1109/LRA.2024.3349927",
+          "citacao_completa": "SANTOS, D. O. ; ; CARVALHO FILHO, J. G. N. ; CARVALHO, E. A. N. ; FREIRE, E. O. . Modifications of Fully Resampled PSO in the Inverse Kinematics of Robot Manipulators. IEEE ROBOTICS AND AUTOMATION LETTERS , p. 1-6, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection",
+          "autores": "SANTOS, D. O. ; MONTALVAO, J. ; ARAUJO, C. A. C. ; LEBRE, U. D. E. S. ; FERREIRA, T. V. ; FREIRE, E. O.",
+          "periodico": "SENSORS , v. 24, p. 4219, 2024.",
+          "doi": "http://dx.doi.org/10.3390/s24134219",
+          "citacao_completa": "SANTOS, D. O. ; MONTALVAO, J. ; ARAUJO, C. A. C. ; LEBRE, U. D. E. S. ; FERREIRA, T. V. ; FREIRE, E. O. . Performance Assessment of Object Detection Models Trained with Synthetic Data: A Case Study on Electrical Equipment Detection. SENSORS , v. 24, p. 4219, 2024."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Automated monitoring of insulation by ultraviolet imaging employing deep learning",
+          "autores": "ARAGÃO RODRIGUES, GUSTAVO ; VINICIUS SILVEIRA ARAUJO, BRUNO ; HERBERT PAIXÃO DE OLIVEIRA, JOHNNY ; VICTOR ROCHA XAVIER, GEORGE ; DANIEL ENES DE SOUZA LEBRE, ULISSES ; ANTONY CORDEIRO, CHARLES ; OLIVEIRA FREIRE, EDUARDO ; VILELA FERREIRA, TARSO",
+          "periodico": "MEASUREMENT , v. 1, p. 116018, 2024.",
+          "doi": "http://dx.doi.org/10.1016/j.measurement.2024.116018",
+          "citacao_completa": "ARAGÃO RODRIGUES, GUSTAVO ; VINICIUS SILVEIRA ARAUJO, BRUNO ; HERBERT PAIXÃO DE OLIVEIRA, JOHNNY ; VICTOR ROCHA XAVIER, GEORGE ; DANIEL ENES DE SOUZA LEBRE, ULISSES ; ANTONY CORDEIRO, CHARLES ; OLIVEIRA FREIRE, EDUARDO ; VILELA FERREIRA, TARSO . Automated monitoring of insulation by ultraviolet imaging employing deep learning. MEASUREMENT , v. 1, p. 116018, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Fully Automatic Visual Servoing Control for Underwater Vehicle Manipulator Systems Based on a Heuristic Inverse Kinematics",
+          "autores": "SANTOS, PHILLIPE C. ; FREIRE, RAIMUNDO C. S. ; ; ; FREIRE, EDUARDO O. ; SANTOS, MATHEUS C. ; WEIR, ANTHONY ; TRSLIC, PETAR ; OMERDIC, EDIN ; DOOLY, GERARD ; TOAL, DANIEL",
+          "periodico": "JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 107, p. 1-16, 2023.",
+          "doi": "http://dx.doi.org/10.1007/s10846-023-01827-0",
+          "citacao_completa": "SANTOS, PHILLIPE C. ; FREIRE, RAIMUNDO C. S. ; ; ; FREIRE, EDUARDO O. ; SANTOS, MATHEUS C. ; WEIR, ANTHONY ; TRSLIC, PETAR ; OMERDIC, EDIN ; DOOLY, GERARD ; TOAL, DANIEL . Fully Automatic Visual Servoing Control for Underwater Vehicle Manipulator Systems Based on a Heuristic Inverse Kinematics. JOURNAL OF INTELLIGENT & ROBOTIC SYSTEMS , v. 107, p. 1-16, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Two-Layers Workspace: A New Approach to Cooperative Object Transportation With Obstacle Avoidance for Multi-Robot System",
+          "autores": "DE SOUSA, STEPHANIE KAMARRY ALVES ; FREIRE, RAIMUNDO CARLOS SILVERIO ; CARVALHO, ELYSON ADAN NUNES ; ; SANTOS, PHILLIPE CARDOSO ; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "IEEE Access , v. 10, p. 6929-6939, 2022.",
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2022.3140857",
+          "citacao_completa": "DE SOUSA, STEPHANIE KAMARRY ALVES ; FREIRE, RAIMUNDO CARLOS SILVERIO ; CARVALHO, ELYSON ADAN NUNES ; ; SANTOS, PHILLIPE CARDOSO ; FREIRE, EDUARDO OLIVEIRA . Two-Layers Workspace: A New Approach to Cooperative Object Transportation With Obstacle Avoidance for Multi-Robot System. IEEE Access , v. 10, p. 6929-6939, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Intuitiveness Level: Frustration-Based Methodology for Human-Robot Interaction Gesture Elicitation",
+          "autores": "CANUTO, CLEBESON ; FREIRE, EDUARDO O. ; ; ; GIVIGI, SIDNEY N.",
+          "periodico": "IEEE Access , v. 10, p. 1-1, 2022.",
+          "doi": "http://dx.doi.org/10.1109/access.2022.3146838",
+          "citacao_completa": "CANUTO, CLEBESON ; FREIRE, EDUARDO O. ; ; ; GIVIGI, SIDNEY N. . Intuitiveness Level: Frustration-Based Methodology for Human-Robot Interaction Gesture Elicitation. IEEE Access , v. 10, p. 1-1, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Singularity-Free Inverse Kinematics with Joint Prioritization for Manipulators",
+          "autores": "JESUS, RAPHAEL C. O. ; ; ; FREIRE, EDUARDO O.",
+          "periodico": "Journal Of Control Automation And Electrical Systems , v. 1, p. 1-10, 2022.",
+          "doi": "http://dx.doi.org/10.1007/s40313-021-00860-4",
+          "citacao_completa": "JESUS, RAPHAEL C. O. ; ; ; FREIRE, EDUARDO O. . Singularity-Free Inverse Kinematics with Joint Prioritization for Manipulators. Journal Of Control Automation And Electrical Systems , v. 1, p. 1-10, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Modeling of FiO2 delivered by self-inflating ventilation device",
+          "autores": "CARVALHO-FILHO, JOSÉ ; ; BEDENIK, GRAZIELLA ; FREIRE, EDUARDO OLIVEIRA ; CARVALHO, ELYSON ÁDAN NUNES ; FEITOSA, LARISSA A. S. ; BITTENCOURT, SHIRLEY O. S. ; LIMA, TAMIRES C.",
+          "periodico": "Brazilian Journal of Development , v. 8, p. 70825-70845, 2022.",
+          "doi": "http://dx.doi.org/10.34117/bjdv8n11-003r",
+          "citacao_completa": "CARVALHO-FILHO, JOSÉ ; ; BEDENIK, GRAZIELLA ; FREIRE, EDUARDO OLIVEIRA ; CARVALHO, ELYSON ÁDAN NUNES ; FEITOSA, LARISSA A. S. ; BITTENCOURT, SHIRLEY O. S. ; LIMA, TAMIRES C. . Modeling of FiO2 delivered by self-inflating ventilation device. Brazilian Journal of Development , v. 8, p. 70825-70845, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "FABRIK-R: An Extension Developed Based on FABRIK for Robotics Manipulators",
+          "autores": "SANTOS, MATHEUS C. ; ; ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C.",
+          "periodico": "IEEE Access , v. 9, p. 53423-53435, 2021.",
+          "doi": "http://dx.doi.org/10.1109/access.2021.3070693",
+          "citacao_completa": "SANTOS, MATHEUS C. ; ; ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C. . FABRIK-R: An Extension Developed Based on FABRIK for Robotics Manipulators. IEEE Access , v. 9, p. 53423-53435, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "MB-RRT: An Inverse Kinematics Solver of Reduced Dimension",
+          "autores": "SANTOS, MATHEUS C. ; ; ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C.",
+          "periodico": "IEEE Access , v. 9, p. 148558-148573, 2021.",
+          "doi": "http://dx.doi.org/10.1109/access.2021.3123645",
+          "citacao_completa": "SANTOS, MATHEUS C. ; ; ; FREIRE, EDUARDO O. ; CARVALHO, JOSE G. N. ; SANTOS, PHILLIPE C. . MB-RRT: An Inverse Kinematics Solver of Reduced Dimension. IEEE Access , v. 9, p. 148558-148573, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "M-FABRIK: A New Inverse Kinematics Approach to Mobile Manipulator Robots Based on FABRIK",
+          "autores": "CARDOSO, PHILLIPE ; FREIRE, RAIMUNDO C. S. ; ; ; FREIRE, EDUARDO O.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/access.2020.3038424",
+          "citacao_completa": "CARDOSO, PHILLIPE ; FREIRE, RAIMUNDO C. S. ; ; ; FREIRE, EDUARDO O. . M-FABRIK: A New Inverse Kinematics Approach to Mobile Manipulator Robots Based on FABRIK. IEEE Access , v. 1, p. 1-1, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Principal Component Analysis (PCA) and Hough Transform as Tool for Simultaneous Localization and Mapping (SLAM) with Sparse and Noisy Sensors",
+          "autores": "SOUSA, STEPHANIE KAMARRY ; CARVALHO, ELYSON ADAN ; FREIRE, RAIMUNDO CARLOS ; ; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS) , v. 15, p. 1-5, 2020.",
+          "doi": "http://dx.doi.org/10.29292/jics.v15i3.162",
+          "citacao_completa": "SOUSA, STEPHANIE KAMARRY ; CARVALHO, ELYSON ADAN ; FREIRE, RAIMUNDO CARLOS ; ; FREIRE, EDUARDO OLIVEIRA . Principal Component Analysis (PCA) and Hough Transform as Tool for Simultaneous Localization and Mapping (SLAM) with Sparse and Noisy Sensors. JICS. JOURNAL OF INTEGRATED CIRCUITS AND SYSTEMS (ED. PORTUGUÊS) , v. 15, p. 1-5, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "µ-Planner: A Robot Path Planning Approach Based on Language Measure of Unsupervised Automata",
+          "autores": "CARVALHO, ELYSON ; FREIRE, EDUARDO ; ; FILHO, JOSE",
+          "periodico": "International Journal of Robotics and Automation Technology , v. 7, p. 40-49, 2020.",
+          "doi": "http://dx.doi.org/10.31875/2409-9694.2020.07.5",
+          "citacao_completa": "CARVALHO, ELYSON ; FREIRE, EDUARDO ; ; FILHO, JOSE . µ-Planner: A Robot Path Planning Approach Based on Language Measure of Unsupervised Automata. International Journal of Robotics and Automation Technology , v. 7, p. 40-49, 2020."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Analysis of Cross-Cultural Effect on Gesture-Based Human-Robot Interaction",
+          "autores": "BRITO, I. V. ; FREIRE, E. O. ; ;",
+          "periodico": "International Journal of Mechanical Engineering and Robotics Research , v. 8, p. 852-859, 2019.",
+          "doi": "http://dx.doi.org/10.18178/ijmerr.8.6.852-859",
+          "citacao_completa": "BRITO, I. V. ; FREIRE, E. O. ; ; . Analysis of Cross-Cultural Effect on Gesture-Based Human-Robot Interaction. International Journal of Mechanical Engineering and Robotics Research , v. 8, p. 852-859, 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "The Impact of Parametric Uncertainties on Mobile Robots Velocities and Pose Estimation",
+          "autores": "FILHO, JOSE G. N. DE CARVALHO ; ; ; FREIRE, EDUARDO O.",
+          "periodico": "IEEE Access , v. 1, p. 1-1, 2019.",
+          "doi": "http://dx.doi.org/10.1109/access.2019.2919335",
+          "citacao_completa": "FILHO, JOSE G. N. DE CARVALHO ; ; ; FREIRE, EDUARDO O. . The Impact of Parametric Uncertainties on Mobile Robots Velocities and Pose Estimation. IEEE Access , v. 1, p. 1-1, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "SLIDING MODE NEURO-ADAPTIVE CONTROLLER DESIGNED IN DISCRETE TIME FOR MOBILE ROBOTS",
+          "autores": "ROSSOMANDO, F. G. ; SORIA, C. ; FREIRE, E. O. ; CARELLI, R.",
+          "periodico": "Mechatronic Systems and Control (formerly Control and Intelligent Systems) , v. 46, p. 1-11, 2018.",
+          "doi": "http://dx.doi.org/10.2316/Journal.201.2018.2.201-2792",
+          "citacao_completa": "ROSSOMANDO, F. G. ; SORIA, C. ; FREIRE, E. O. ; CARELLI, R. . SLIDING MODE NEURO-ADAPTIVE CONTROLLER DESIGNED IN DISCRETE TIME FOR MOBILE ROBOTS. Mechatronic Systems and Control (formerly Control and Intelligent Systems) , v. 46, p. 1-11, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Self-tuning of a Neuro-Adaptive PID Controller for a SCARA Robot Based on Neural Network",
+          "autores": "FREIRE, E. O. ; ROSSOMANDO, F. G. ; SORIA, C.",
+          "periodico": "IEEE Latin America Transactions , v. 16, p. 1364-1374, 2018.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2018.8408429",
+          "citacao_completa": "FREIRE, E. O. ; ROSSOMANDO, F. G. ; SORIA, C. . Self-tuning of a Neuro-Adaptive PID Controller for a SCARA Robot Based on Neural Network. IEEE Latin America Transactions , v. 16, p. 1364-1374, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "The SimuroSot Strategy Development Kit: a high-level approach to robot soccer coding",
+          "autores": "RABELO, RICARDO ; MACEDO, HENDRIK ; FREIRE, EDUARDO",
+          "periodico": "IEEE Latin America Transactions , v. 16, p. 686-693, 2018.",
+          "doi": "http://dx.doi.org/10.1109/TLA.2018.8327430",
+          "citacao_completa": "RABELO, RICARDO ; MACEDO, HENDRIK ; FREIRE, EDUARDO . The SimuroSot Strategy Development Kit: a high-level approach to robot soccer coding. IEEE Latin America Transactions , v. 16, p. 686-693, 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Heuristics for the Multi-Robot Worst-Case Pursuit-Evasion Problem",
+          "autores": "GREGORIN, LIVIA ; GIVIGI, SIDNEY N. ; FREIRE, EDUARDO ; CARVALHO, ELYSON ;",
+          "periodico": "IEEE Access , v. PP, p. 1-1, 2017.",
+          "doi": "http://dx.doi.org/10.1109/access.2017.2739641",
+          "citacao_completa": "GREGORIN, LIVIA ; GIVIGI, SIDNEY N. ; FREIRE, EDUARDO ; CARVALHO, ELYSON ; . Heuristics for the Multi-Robot Worst-Case Pursuit-Evasion Problem. IEEE Access , v. PP, p. 1-1, 2017."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Contributions to empirical analysis of keystroke dynamics in passwords",
+          "autores": "; FREIRE, EDUARDO O. ; BEZERRA JR., MURILO A. ; GARCIA, RODOLFO",
+          "periodico": "Pattern Recognition Letters , v. 52, p. 80-86, 2015.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2014.09.016",
+          "citacao_completa": "; FREIRE, EDUARDO O. ; BEZERRA JR., MURILO A. ; GARCIA, RODOLFO . Contributions to empirical analysis of keystroke dynamics in passwords. Pattern Recognition Letters , v. 52, p. 80-86, 2015."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Automatic code generation of SIMUROSOT game strategies",
+          "autores": "; ; FREIRE, E. O. ; OLIVEIRA, M. R.",
+          "periodico": "Software Engineering Notes , v. 38, p. 1-8, 2013.",
+          "doi": "http://dx.doi.org/10.1145/2439976.2439983",
+          "citacao_completa": "; ; FREIRE, E. O. ; OLIVEIRA, M. R. . Automatic code generation of SIMUROSOT game strategies. Software Engineering Notes , v. 38, p. 1-8, 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Fault-Tolerant Weld Line Detection Using Image Processing and Fusion of Execution Monitoring Systems",
+          "autores": "; ; FREIRE, E. O. ;",
+          "periodico": "Journal of Control, Automation and Electrical Systems , v. 24, p. 70-80, 2013.",
+          "doi": "http://dx.doi.org/10.1007/s40313-013-0016-3",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Fault-Tolerant Weld Line Detection Using Image Processing and Fusion of Execution Monitoring Systems. Journal of Control, Automation and Electrical Systems , v. 24, p. 70-80, 2013."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Medição de velocidade angular com alta resolução usando enconders de baixa resolução e PLL",
+          "autores": "FREIRE, E. O. ; ; ; ; ;",
+          "periodico": "Controle & Automação (Impresso) , v. 21, p. 616-625, 2010.",
+          "doi": "http://dx.doi.org/10.1590/S0103-17592010000600007",
+          "citacao_completa": "FREIRE, E. O. ; ; ; ; ; . Medição de velocidade angular com alta resolução usando enconders de baixa resolução e PLL. Controle & Automação (Impresso) , v. 21, p. 616-625, 2010."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Clustering with multilayer perceptrons and self-organized (Hebbian) learning",
+          "autores": "; FREIRE, E. O. ;",
+          "periodico": "Journal of Intelligent & Fuzzy Systems , v. 18, p. 501-511, 2007.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. ; . Clustering with multilayer perceptrons and self-organized (Hebbian) learning. Journal of Intelligent & Fuzzy Systems , v. 18, p. 501-511, 2007."
+        },
+        {
+          "ano": 2006,
+          "titulo": "On the equalization of keystroke timing histograms",
+          "autores": "; FREIRE, E. O.",
+          "periodico": "Pattern Recognition Letters , v. 27, n.13, p. 1440-1446, 2006.",
+          "doi": "http://dx.doi.org/10.1016/j.patrec.2006.01.010",
+          "citacao_completa": "; FREIRE, E. O. . On the equalization of keystroke timing histograms. Pattern Recognition Letters , v. 27, n.13, p. 1440-1446, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Stable AGV Corridor Navigation Based on Data and Control Signal Fusion",
+          "autores": "SORIA, C. ; FREIRE, E. O. ; CARELLI, R.",
+          "periodico": "Latin American Applied Research , v. 36, p. 71-78, 2006.",
+          "doi": "",
+          "citacao_completa": "SORIA, C. ; FREIRE, E. O. ; CARELLI, R. . Stable AGV Corridor Navigation Based on Data and Control Signal Fusion. Latin American Applied Research , v. 36, p. 71-78, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A New Mobile Robot Control Approach via Fusion of Control Signals",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R.",
+          "periodico": "IEEE Transactions on Systems, Man and Cybernetics. Part B. Cybernetics , v. 34, n.1, p. 419-429, 2004.",
+          "doi": "http://dx.doi.org/10.1109/TSMCB.2003.817034",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. . A New Mobile Robot Control Approach via Fusion of Control Signals. IEEE Transactions on Systems, Man and Cybernetics. Part B. Cybernetics , v. 34, n.1, p. 419-429, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Corridor navigation and wall-following stable control for sonar-based mobile robots",
+          "autores": "CARELLI, R. ; Freire, E.",
+          "periodico": "Robotics and Autonomous Systems (Print) , v. 45, p. 235-247, 2003.",
+          "doi": "http://dx.doi.org/10.1016/j.robot.2003.09.005",
+          "citacao_completa": "CARELLI, R. ; Freire, E. . Corridor navigation and wall-following stable control for sonar-based mobile robots. Robotics and Autonomous Systems (Print) , v. 45, p. 235-247, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Stable AGV Corridor Navigation With Fused Vision-Based Control Signals",
+          "autores": "CARELLI, R. ; SORIA, C. ; NASISI, O. ; FREIRE, E. O.",
+          "periodico": "Dyna (Medellín) , v. 140, p. 61-69, 2003.",
+          "doi": "",
+          "citacao_completa": "CARELLI, R. ; SORIA, C. ; NASISI, O. ; FREIRE, E. O. . Stable AGV Corridor Navigation With Fused Vision-Based Control Signals. Dyna (Medellín) , v. 140, p. 61-69, 2003."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Reconhecimento de Referências Geométricas por Ultra-Som Utilizando Redes Neurais",
+          "autores": "FREIRE, E. O.",
+          "periodico": "Revista Fragmenta , Aracaju-SE, v. 2, n.4, p. 127-136, 2001.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Reconhecimento de Referências Geométricas por Ultra-Som Utilizando Redes Neurais. Revista Fragmenta , Aracaju-SE, v. 2, n.4, p. 127-136, 2001."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Performance improvement of a mobile robot navigation system through ultrasonic sensors",
+          "autores": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A.",
+          "periodico": "STUD INFORM CONTROL , Romênia, v. 6, n.1, p. 17-23, 1997.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. . Performance improvement of a mobile robot navigation system through ultrasonic sensors. STUD INFORM CONTROL , Romênia, v. 6, n.1, p. 17-23, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "An External Sensing System For a Mobile Robot",
+          "autores": "FREIRE, E. O. ; ; SCHNEEBELI, H. A.",
+          "periodico": "Revista de Ciência Engenharia e Tecnologia, Vitória-ES, n.2, p. 3-8, 1997.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; SCHNEEBELI, H. A. . An External Sensing System For a Mobile Robot. Revista de Ciência Engenharia e Tecnologia, Vitória-ES, n.2, p. 3-8, 1997."
+        },
+        {
+          "ano": 1997,
+          "titulo": "An Agent-Based Ultrasonic Sensing System For Mobile Robots",
+          "autores": "FREIRE, E. O. ; BASTOS FILHO, T. F. ; SCHNEEBELI, H.",
+          "periodico": "Revista de Ciencia, Engenharia e Tecnologia, UFES/Vitória, v. 1, n.2, 1997.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; BASTOS FILHO, T. F. ; SCHNEEBELI, H. . An Agent-Based Ultrasonic Sensing System For Mobile Robots. Revista de Ciencia, Engenharia e Tecnologia, UFES/Vitória, v. 1, n.2, 1997."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Effects of Visual Cortical Stimulation on Functional Muscle Network Efficiency in a Blind Subject: a Pilot Study",
+          "autores": "Albarracín, Ana Lía ; Cano, Leonardo Ariel ; FREIRE, EDUARDO OLIVEIRA ; Escobar, Francisco ; Fernandez, Eduardo ; Farfán, Fernando Daniel",
+          "periodico": "IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1292-1300.",
+          "doi": "http://dx.doi.org/10.1007/978-3-032-06401-1_109",
+          "citacao_completa": "Albarracín, Ana Lía ; Cano, Leonardo Ariel ; FREIRE, EDUARDO OLIVEIRA ; Escobar, Francisco ; Fernandez, Eduardo ; Farfán, Fernando Daniel . Effects of Visual Cortical Stimulation on Functional Muscle Network Efficiency in a Blind Subject: a Pilot Study. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1292-1300."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Motor Reaction Assessment in Multimodal Immersive and Laboratory Settings: A Time-Based Comparison in Athletes",
+          "autores": "Cano, Leonardo Ariel ; Morollón-Ruiz, Roberto ; García, María Soledad ; Gerez, Gonzalo Daniel ; FREIRE, EDUARDO OLIVEIRA ; Fernández, Eduardo ; Farfán, Fernando Daniel",
+          "periodico": "IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1708-1716.",
+          "doi": "http://dx.doi.org/10.1007/978-3-032-06401-1_144",
+          "citacao_completa": "Cano, Leonardo Ariel ; Morollón-Ruiz, Roberto ; García, María Soledad ; Gerez, Gonzalo Daniel ; FREIRE, EDUARDO OLIVEIRA ; Fernández, Eduardo ; Farfán, Fernando Daniel . Motor Reaction Assessment in Multimodal Immersive and Laboratory Settings: A Time-Based Comparison in Athletes. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1708-1716."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Motor Reaction Gestures in Reaching Tasks: A Comparative Analysis of Finger Pointing vs",
+          "autores": "Gerez, Gonzalo Daniel ; Escobar, Francisco Esteban ; Valença, Thauanne ; OLIVEIRA FREIRE, EDUARDO ; Farfán, Fernando Daniel ; Cano, Leonardo Ariel",
+          "periodico": "Open Palm Movements. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1697-1707.",
+          "doi": "http://dx.doi.org/10.1007/978-3-032-06401-1_143",
+          "citacao_completa": "Gerez, Gonzalo Daniel ; Escobar, Francisco Esteban ; Valença, Thauanne ; OLIVEIRA FREIRE, EDUARDO ; Farfán, Fernando Daniel ; Cano, Leonardo Ariel . Motor Reaction Gestures in Reaching Tasks: A Comparative Analysis of Finger Pointing vs. Open Palm Movements. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1697-1707."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Execution of Musical Chords: Electrophysiological Characterization of Motor Planning",
+          "autores": "Tagashira, Celia E. ; Farfán, Fernando Daniel ; FREIRE, EDUARDO OLIVEIRA ; Acosta, Lucas P. ; Padilla, Gerardo L. ; Albarracin, Ana L.",
+          "periodico": "IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1740-1747.",
+          "doi": "http://dx.doi.org/10.1007/978-3-032-06401-1_147",
+          "citacao_completa": "Tagashira, Celia E. ; Farfán, Fernando Daniel ; FREIRE, EDUARDO OLIVEIRA ; Acosta, Lucas P. ; Padilla, Gerardo L. ; Albarracin, Ana L. . Execution of Musical Chords: Electrophysiological Characterization of Motor Planning. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 1740-1747."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Desenvolvimento de um Sistema Automatizado para Calibração de Analisadores de Fração de Água em Óleo",
+          "autores": "COSTA, I. M. ; ; ARAUJO, S. V. ; FREIRE, E. O. ;",
+          "periodico": "In: Flávio Vasconcelos, Raimundo C. S. Freire, Sebastian Y. C. Catunda. (Org.). Metrologia e instrumentação: tópicos selecionados. Campina Grande: EDUFCG, 2010, v. , p. 23-32.",
+          "doi": "",
+          "citacao_completa": "COSTA, I. M. ; ; ARAUJO, S. V. ; FREIRE, E. O. ; . Desenvolvimento de um Sistema Automatizado para Calibração de Analisadores de Fração de Água em Óleo. In: Flávio Vasconcelos, Raimundo C. S. Freire, Sebastian Y. C. Catunda. (Org.). Metrologia e instrumentação: tópicos selecionados. Campina Grande: EDUFCG, 2010, v. , p. 23-32."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Propagação de Incertezas Estruturais no Modelo Cinemático de Robôs Móveis",
+          "autores": "; ; FREIRE, E. O. ; ; ;",
+          "periodico": "In: Flávio Vasconcelos, Raimundo C. S. Freire, Sebastian Y. C. Catunda. (Org.). Metrologia e instrumentação: tópicos selecionados. Campina Grande: EDUFCG, 2010, v. , p. 53-66.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; ; . Propagação de Incertezas Estruturais no Modelo Cinemático de Robôs Móveis. In: Flávio Vasconcelos, Raimundo C. S. Freire, Sebastian Y. C. Catunda. (Org.). Metrologia e instrumentação: tópicos selecionados. Campina Grande: EDUFCG, 2010, v. , p. 53-66."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Automação e Controle de Processos Petrolíferos",
+          "autores": "; FREIRE, E. O.",
+          "periodico": "In: Edilson Divino de Araújo; José Jailton Marques; Rosivânia da Paixão Silva Oliveira. (Org.). Universidade e as Redes Temáticas em Energia. 1ed.São Cristóvão: Editora da Universidade Federal de Sergipe, 2010, v. 1, p. 103-109.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. . Automação e Controle de Processos Petrolíferos. In: Edilson Divino de Araújo; José Jailton Marques; Rosivânia da Paixão Silva Oliveira. (Org.). Universidade e as Redes Temáticas em Energia. 1ed.São Cristóvão: Editora da Universidade Federal de Sergipe, 2010, v. 1, p. 103-109."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "An Extension of the MB-RRT Method to Solve the Inverse Kinematics Problem for Real Robot Manipulators",
+          "autores": "SANTOS, D. O. ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; SANTOS, M. C. ; ; ; FREIRE, E. O.",
+          "periodico": "In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "SANTOS, D. O. ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; SANTOS, M. C. ; ; ; FREIRE, E. O. . An Extension of the MB-RRT Method to Solve the Inverse Kinematics Problem for Real Robot Manipulators. In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Frontier Voronoi-based Algorithm to Expand Coverage and Connectivity in the Internet of Robotic Things",
+          "autores": "FARIAS, WESLLEY ALVES ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; CARVALHO FILHO, J. G. N. ; ; FREIRE, E. O.",
+          "periodico": "In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "FARIAS, WESLLEY ALVES ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; CARVALHO FILHO, J. G. N. ; ; FREIRE, E. O. . Frontier Voronoi-based Algorithm to Expand Coverage and Connectivity in the Internet of Robotic Things. In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A Quantitative Metric for Reproducibility in Human Robot Interaction Experiments",
+          "autores": "TAVARES, B. T. ; FREIRE, E. O. ; ; CARVALHO FILHO, J. G. N. ; CARVALHO, E. A. N.",
+          "periodico": "In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "TAVARES, B. T. ; FREIRE, E. O. ; ; CARVALHO FILHO, J. G. N. ; CARVALHO, E. A. N. . A Quantitative Metric for Reproducibility in Human Robot Interaction Experiments. In: 1st Brazilian Conference on Robotics, 2025, Belo Horizonte. 1st Brazilian Conference on Robotics, 2025. p. 1-6."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Assessing the Relationship Between Gesture Intuitiveness and Muscle Network Efficiency: A Comparison of NMF and Inter-Muscular Coherence Analysis Methods",
+          "autores": "FREIRE, EDUARDO OLIVEIRA ; Cano, Leonardo Ariel ; Gerez, Gonzalo Daniel ; VÍSCIDO, MANUEL PARAJÓN ; Albarracín, Ana Lía ; Farfán, Fernando Daniel",
+          "periodico": "In: International Online Conference on Bioengineering, 2025. The 1st International Online Conference on Bioengineering. Basel Switzerland: MDPI. p. 22.",
+          "doi": "http://dx.doi.org/10.3390/engproc2024081022",
+          "citacao_completa": "FREIRE, EDUARDO OLIVEIRA ; Cano, Leonardo Ariel ; Gerez, Gonzalo Daniel ; VÍSCIDO, MANUEL PARAJÓN ; Albarracín, Ana Lía ; Farfán, Fernando Daniel . Assessing the Relationship Between Gesture Intuitiveness and Muscle Network Efficiency: A Comparison of NMF and Inter-Muscular Coherence Analysis Methods. In: International Online Conference on Bioengineering, 2025. The 1st International Online Conference on Bioengineering. Basel Switzerland: MDPI. p. 22."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Changes in the Intermuscular Coherence of the Multifidus and Its Relationship with Fatigue and Low Back Pain: A Case Series",
+          "autores": "Gerez, Gonzalo Daniel ; CANO, L. A. ; ESCOBAR, F. E. ; FREIRE, EDUARDO O. ; García, María Soledad ; Manuel Pajarón Víscido",
+          "periodico": "In: 1st International Online Conference on Bioengineering, 2025. Proceedings of the 1st International Online Conference on Bioengineering, 2025.",
+          "doi": "http://dx.doi.org/10.3390/engproc2024081023",
+          "citacao_completa": "Gerez, Gonzalo Daniel ; CANO, L. A. ; ESCOBAR, F. E. ; FREIRE, EDUARDO O. ; García, María Soledad ; Manuel Pajarón Víscido . Changes in the Intermuscular Coherence of the Multifidus and Its Relationship with Fatigue and Low Back Pain: A Case Series. In: 1st International Online Conference on Bioengineering, 2025. Proceedings of the 1st International Online Conference on Bioengineering, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "A study on human behavior patterns in social navigation",
+          "autores": "ZAVALLA, E. ; SECCHI, H. ; Freire, E. ; ROSSOMANDO, F.",
+          "periodico": "In: 2025 IEEE International Conference on Advanced Robotics (ICAR), 2025, San Juan. 2025 IEEE International Conference on Advanced Robotics (ICAR), 2025. p. 702.",
+          "doi": "http://dx.doi.org/10.1109/ICAR65334.2025.11338650",
+          "citacao_completa": "ZAVALLA, E. ; SECCHI, H. ; Freire, E. ; ROSSOMANDO, F. . A study on human behavior patterns in social navigation. In: 2025 IEEE International Conference on Advanced Robotics (ICAR), 2025, San Juan. 2025 IEEE International Conference on Advanced Robotics (ICAR), 2025. p. 702."
+        },
+        {
+          "ano": 2024,
+          "titulo": "Voronoi-Based Approach to Increase Connectivity and Coverage in Randomly Deployed Wireless Sensor Networks",
+          "autores": "FARIAS, WESLLEY ALVES ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES ; ; FREIRE, E. O.",
+          "periodico": "In: The 8th International Symposium on Instrumentation Systems, Circuits and Transducers, 2024, João Pessoa. Proceedings of the 8th International Symposium on Instrumentation Systems, Circuits and Transducers, 2024.",
+          "doi": "",
+          "citacao_completa": "FARIAS, WESLLEY ALVES ; FREIRE, Raimundo C. S. ; CARVALHO, E. A. N. ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES ; ; FREIRE, E. O. . Voronoi-Based Approach to Increase Connectivity and Coverage in Randomly Deployed Wireless Sensor Networks. In: The 8th International Symposium on Instrumentation Systems, Circuits and Transducers, 2024, João Pessoa. Proceedings of the 8th International Symposium on Instrumentation Systems, Circuits and Transducers, 2024."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Specification of Robots for the Treatment of Autistic Children",
+          "autores": "VALENÇA, THAUANNE SANTANA FONSECA ; CARVALHO, Elyson Ádan Nunes ; FREIRE, EDUARDO OLIVEIRA ; ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES",
+          "periodico": "In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 672.",
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10333018",
+          "citacao_completa": "VALENÇA, THAUANNE SANTANA FONSECA ; CARVALHO, Elyson Ádan Nunes ; FREIRE, EDUARDO OLIVEIRA ; ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES . Specification of Robots for the Treatment of Autistic Children. In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 672."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Characterisation of EEG activity in stimulation and rest periods by analysis of steady-state visual evoked potentials",
+          "autores": "PADILLA, G. L. ; CANO, L. A. ; LUCIANNA, F. A. ; FREIRE, EDUARDO O. ; TAGASHIRA, C. E. ; ACOSTA, L. P.",
+          "periodico": "In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "PADILLA, G. L. ; CANO, L. A. ; LUCIANNA, F. A. ; FREIRE, EDUARDO O. ; TAGASHIRA, C. E. ; ACOSTA, L. P. . Characterisation of EEG activity in stimulation and rest periods by analysis of steady-state visual evoked potentials. In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Intermuscular Coherence as a promising indicator of fatigue or low back pain?",
+          "autores": "GEREZ, G. D. ; CANO, L. A. ; ESCOBAR, F. E. ; FREIRE, EDUARDO O. ; GARCIA, M. S. ; Manuel Pajarón Víscido",
+          "periodico": "In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "GEREZ, G. D. ; CANO, L. A. ; ESCOBAR, F. E. ; FREIRE, EDUARDO O. ; GARCIA, M. S. ; Manuel Pajarón Víscido . Intermuscular Coherence as a promising indicator of fatigue or low back pain?. In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-5."
+        },
+        {
+          "ano": 2023,
+          "titulo": "First Insights About the Relationship Between Gesture Intuitiveness and Muscle Synergy",
+          "autores": "Eduardo Freire ; CANO, L. A. ; Luciano Rivolta ; ALBARRACIN, A. L. ; ACOSTA, L. P. ; Fernando D. Farfan",
+          "periodico": "In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-12.",
+          "doi": "",
+          "citacao_completa": "Eduardo Freire ; CANO, L. A. ; Luciano Rivolta ; ALBARRACIN, A. L. ; ACOSTA, L. P. ; Fernando D. Farfan . First Insights About the Relationship Between Gesture Intuitiveness and Muscle Synergy. In: XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023, Buenos Aires. XXIV Congreso de Bioingeniería - XII Jornadas de Ingeniería Clínica, 2023. v. 1. p. 1-12."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Worst-Case Pursuit-Evasion using random walk for multiply connected environment",
+          "autores": "FRANCO, DANIEL AUGUSTO SANTOS ; CARVALHO, Elyson Ádan Nunes ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES ; ; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 194.",
+          "doi": "http://dx.doi.org/10.1109/lars/sbr/wre59448.2023.10332994",
+          "citacao_completa": "FRANCO, DANIEL AUGUSTO SANTOS ; CARVALHO, Elyson Ádan Nunes ; DE CARVALHO FILHO, JOSÉ GILMAR NUNES ; ; FREIRE, EDUARDO OLIVEIRA . Worst-Case Pursuit-Evasion using random walk for multiply connected environment. In: 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023, Salvador. 2023 Latin American Robotics Symposium (LARS), 2023 Brazilian Symposium on Robotics (SBR), and 2023 Workshop on Robotics in Education (WRE), 2023. p. 194."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Aplicação da Técnica BoVW para Identificar Falhas em Máquinas Rotativas a Partir de Imagens Termográficas de Baixa Resolução",
+          "autores": "Lins, E. T. ; FREIRE, E. O. ; ;",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente (SBAI) 2021, 2021. Simpósio Brasileiro de Automação Inteligente (SBAI) 2021, 2021.",
+          "doi": "",
+          "citacao_completa": "Lins, E. T. ; FREIRE, E. O. ; ; . Aplicação da Técnica BoVW para Identificar Falhas em Máquinas Rotativas a Partir de Imagens Termográficas de Baixa Resolução. In: Simpósio Brasileiro de Automação Inteligente (SBAI) 2021, 2021. Simpósio Brasileiro de Automação Inteligente (SBAI) 2021, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Aggressive Motion Planning for a Quadrotor System with Slung Load Based on RRT",
+          "autores": "SILVEIRA JUNIOR, J. L. ; GIVIGI, SIDNEY ; FREIRE, E. O. ; ;",
+          "periodico": "In: 2020 IEEE International Systems Conference (SysCon), 2020, Montreal. Proceedings of the 2020 IEEE International Systems Conference (SysCon), 2020. v. 1. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA JUNIOR, J. L. ; GIVIGI, SIDNEY ; FREIRE, E. O. ; ; . Aggressive Motion Planning for a Quadrotor System with Slung Load Based on RRT. In: 2020 IEEE International Systems Conference (SysCon), 2020, Montreal. Proceedings of the 2020 IEEE International Systems Conference (SysCon), 2020. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Comparison Between Fuzzy and Neural Controllers to Cross the Reality Gap in Evolutionary Robotics",
+          "autores": "FARIAS, W. A. ; FREIRE, E. O. ; GIVIGI, SIDNEY N. ; ;",
+          "periodico": "In: 2018 Annual IEEE International Systems Conference (SysCon), 2018, Vancouver. Proceedings of the 2018 Annual IEEE International Systems Conference (SysCon), 2018. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "FARIAS, W. A. ; FREIRE, E. O. ; GIVIGI, SIDNEY N. ; ; . Comparison Between Fuzzy and Neural Controllers to Cross the Reality Gap in Evolutionary Robotics. In: 2018 Annual IEEE International Systems Conference (SysCon), 2018, Vancouver. Proceedings of the 2018 Annual IEEE International Systems Conference (SysCon), 2018. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2018,
+          "titulo": "PROJETO DE UM SENSOR DE TORQUE SEM FIO PARA EIXOS GIRANTES",
+          "autores": "BRITO, I. V. ; HOU, M. ; FREIRE, E. O.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "BRITO, I. V. ; HOU, M. ; FREIRE, E. O. . PROJETO DE UM SENSOR DE TORQUE SEM FIO PARA EIXOS GIRANTES. In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Projeto e Desenvolvimento de um Sistema de Eletromiografia de Superfície",
+          "autores": "SILVEIRA JUNIOR, J. L. ; ; FREIRE, E. O. ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA JUNIOR, J. L. ; ; FREIRE, E. O. ; . Projeto e Desenvolvimento de um Sistema de Eletromiografia de Superfície. In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2018,
+          "titulo": "APLICAÇÃO DE MAPAS DE SALIÊNCIA COMO LIMITADORES DE REGIÃO PARA DETECTORES CLÁSSICOS NA TAREFA DE ODOMETRIA VISUAL",
+          "autores": "CORREIA, A. S. ; FREIRE, E. O. ; ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "CORREIA, A. S. ; FREIRE, E. O. ; ; . APLICAÇÃO DE MAPAS DE SALIÊNCIA COMO LIMITADORES DE REGIÃO PARA DETECTORES CLÁSSICOS NA TAREFA DE ODOMETRIA VISUAL. In: Congresso Brasileiro de Automática, 2018, João Pessoa. Anais do Congresso Brasileiro de Automática, 2018. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2018,
+          "titulo": "The Polarized RRT-Edge Approach",
+          "autores": "CORREIA, A. S. ; FREIRE, E. O. ; ; ; KAMARRY, S.",
+          "periodico": "In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "CORREIA, A. S. ; FREIRE, E. O. ; ; ; KAMARRY, S. . The Polarized RRT-Edge Approach. In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Neural networks with physical meaning: representation of kinematic equations from robot arms using a neural network topology",
+          "autores": "CARDOSO, R. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, R. ; ; ; FREIRE, E. O. . Neural networks with physical meaning: representation of kinematic equations from robot arms using a neural network topology. In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2018,
+          "titulo": "FRPSO: Inverse Kinematics using Fully Resampled Particle Swarm Optimization",
+          "autores": "SILVEIRA JUNIOR, J. L. ; CARDOSO, R. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "SILVEIRA JUNIOR, J. L. ; CARDOSO, R. ; ; ; FREIRE, E. O. . FRPSO: Inverse Kinematics using Fully Resampled Particle Swarm Optimization. In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Solving inverse kinematics of planar manipulators with robustness to singularities by reverse operating neural networks",
+          "autores": "CARDOSO, R. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, R. ; ; ; FREIRE, E. O. . Solving inverse kinematics of planar manipulators with robustness to singularities by reverse operating neural networks. In: Latin-American Robotic Symposium, 2018, João Pessoa. Proceedings of the 2018 Latin-American Robotic Symposium, 2018. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2017,
+          "titulo": "RRT-Edge: A compact approach for path planning of mobile robots",
+          "autores": "DE SANTANA CORREIA, ALANA ; KAMARRY, STEPHANIE ; ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "In: 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017, Curitiba. 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017. v. 1. p. 1-6.",
+          "doi": "http://dx.doi.org/10.1109/sbr-lars-r.2017.8215282",
+          "citacao_completa": "DE SANTANA CORREIA, ALANA ; KAMARRY, STEPHANIE ; ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA . RRT-Edge: A compact approach for path planning of mobile robots. In: 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017, Curitiba. 2017 Latin American Robotics Symposium (LARS) and 2017 Brazilian Symposium on Robotics (SBR), 2017. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Atraindo Jovens para a Ciência Através do Futebol de Robôs",
+          "autores": "FREIRE, E. O. ; ; ;",
+          "periodico": "In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-8.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Atraindo Jovens para a Ciência Através do Futebol de Robôs. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-8."
+        },
+        {
+          "ano": 2017,
+          "titulo": "CABOCLINHOS: An Open Robotic Educational Platform for Engineering Students",
+          "autores": "FARIAS, W. A. ; CORREIA, A. S. ; SILVEIRA JUNIOR, J. L. ; MELO, G. M. B. ; ; ; FREIRE, E. O. ;",
+          "periodico": "In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-9.",
+          "doi": "",
+          "citacao_completa": "FARIAS, W. A. ; CORREIA, A. S. ; SILVEIRA JUNIOR, J. L. ; MELO, G. M. B. ; ; ; FREIRE, E. O. ; . CABOCLINHOS: An Open Robotic Educational Platform for Engineering Students. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-9."
+        },
+        {
+          "ano": 2017,
+          "titulo": "The Importance of Selection Processes in Robotics Research Groups: A Case Study of the Group of Research in Robotics at UFS (GPR-UFS)",
+          "autores": "CARDOSO, R. ; KAMARRY, S. ; CARVALHO, V. ; ; FREIRE, E. O. ; ;",
+          "periodico": "In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, R. ; KAMARRY, S. ; CARVALHO, V. ; ; FREIRE, E. O. ; ; . The Importance of Selection Processes in Robotics Research Groups: A Case Study of the Group of Research in Robotics at UFS (GPR-UFS). In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Caboclinhos: Projeto Aberto do Time de Futebol de Robôs da Universidade Federal de Sergipe",
+          "autores": "SANTOS, M. C. ; ; SANTOS, S. O. C. ; ; FREIRE, E. O. ; ;",
+          "periodico": "In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-10.",
+          "doi": "",
+          "citacao_completa": "SANTOS, M. C. ; ; SANTOS, S. O. C. ; ; FREIRE, E. O. ; ; . Caboclinhos: Projeto Aberto do Time de Futebol de Robôs da Universidade Federal de Sergipe. In: 8th Workshop of Robotics in Education (WRE 2017), 2017, Curitiba. Proceedings of the 8th Workshop of Robotics in Education (WRE 2017), 2017. v. 1. p. 1-10."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Uma abordagem híbrida para navegação em ambientes dinâmicos baseado na DRRT",
+          "autores": "KAMARRY, S. ; ; ; ; FREIRE, E. O.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática, 2016. v. 1. p. 1-1.",
+          "doi": "",
+          "citacao_completa": "KAMARRY, S. ; ; ; ; FREIRE, E. O. . Uma abordagem híbrida para navegação em ambientes dinâmicos baseado na DRRT. In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática, 2016. v. 1. p. 1-1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A Methodology to Implement Subsumption Architecture Based on Discrete Event Systems Formalism",
+          "autores": "; ; ; FREIRE, E. O.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática, 2016. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. . A Methodology to Implement Subsumption Architecture Based on Discrete Event Systems Formalism. In: Congresso Brasileiro de Automática, 2016, Vitória. Anais do Congresso Brasileiro de Automática, 2016. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Evolutionary robotics applied to the multi-robot worst-case pursuit-evasion problem",
+          "autores": "GREGORIN, LIVIA ; FREIRE, EDUARDO ; CARVALHO, ELYSON ; ; GIVIGI, SIDNEY",
+          "periodico": "In: 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016, New York City. 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016. v. 1. p. 1-7.",
+          "doi": "http://dx.doi.org/10.1109/uemcon.2016.7777836",
+          "citacao_completa": "GREGORIN, LIVIA ; FREIRE, EDUARDO ; CARVALHO, ELYSON ; ; GIVIGI, SIDNEY . Evolutionary robotics applied to the multi-robot worst-case pursuit-evasion problem. In: 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016, New York City. 2016 IEEE 7th Annual Ubiquitous Computing, Electronics & Mobile Communication Conference (UEMCON), 2016. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Developing intelligent wheelchairs for serious disabled people based on eye-blinking",
+          "autores": "; ; ; FREIRE, E. O.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. . Developing intelligent wheelchairs for serious disabled people based on eye-blinking. In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2015,
+          "titulo": "DRRT: Uma nova abordagem para aumentar a dispersão dos nós na RRT aplicada à representação do ambiente e planejamento de caminho",
+          "autores": "KAMARRY, S. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "KAMARRY, S. ; ; ; FREIRE, E. O. . DRRT: Uma nova abordagem para aumentar a dispersão dos nós na RRT aplicada à representação do ambiente e planejamento de caminho. In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Problema de perseguição-evasão baseado em random walk",
+          "autores": "GONCALVES, A. R. C. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "GONCALVES, A. R. C. ; ; ; FREIRE, E. O. . Problema de perseguição-evasão baseado em random walk. In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Navegação de robôs móveis em formação líder-seguidor para escolta",
+          "autores": "BISPO, F. S. C. ; ; ; FREIRE, E. O.",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-7.",
+          "doi": "",
+          "citacao_completa": "BISPO, F. S. C. ; ; ; FREIRE, E. O. . Navegação de robôs móveis em formação líder-seguidor para escolta. In: Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015, Natal. Anais do Simpósio Brasileiro de Automação Inteligente - SBAI 2015, 2015. v. 1. p. 1-7."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Simple Visual Odometry Approach Based on Point Clouds",
+          "autores": "SILVEIRA, JEFFERSON DE L. ; FREIRE, EDUARDO O. ; ; CARVALHO, ELYSON A.N.",
+          "periodico": "In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (LARSSBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR). v. 1. p. 204-6.",
+          "doi": "http://dx.doi.org/10.1109/lars-sbr.2015.39",
+          "citacao_completa": "SILVEIRA, JEFFERSON DE L. ; FREIRE, EDUARDO O. ; ; CARVALHO, ELYSON A.N. . A Simple Visual Odometry Approach Based on Point Clouds. In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (LARSSBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR). v. 1. p. 204-6."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Compact RRT: A New Approach for Guided Sampling Applied to Environment Representation and Path Planning in Mobile Robotics",
+          "autores": "KAMARRY, STEPHANIE ; ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (SBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR). v. 1. p. 259-6.",
+          "doi": "http://dx.doi.org/10.1109/LARS-SBR.2015.40",
+          "citacao_completa": "KAMARRY, STEPHANIE ; ; CARVALHO, ELYSON ADAN NUNES ; FREIRE, EDUARDO OLIVEIRA . Compact RRT: A New Approach for Guided Sampling Applied to Environment Representation and Path Planning in Mobile Robotics. In: 2015 12th Latin American Robotics Symposium (LARS) and 2015 3rd Brazilian Symposium on Robotics (SBR), 2015, Uberlandia. 2015 12th Latin American Robotics Symposium and 2015 3rd Brazilian Symposium on Robotics (LARS-SBR). v. 1. p. 259-6."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A geometrical path planning heuristic inspired by elastic networks and C-Space Traversal approaches for mobile robots in unknown environments",
+          "autores": "; FREIRE, EDUARDO OLIVEIRA",
+          "periodico": "In: 2013 16th International Conference on Advanced Robotics (ICAR 2013), 2013, Montevideo. 2013 16th International Conference on Advanced Robotics (ICAR), 2013. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICAR.2013.6766468",
+          "citacao_completa": "; FREIRE, EDUARDO OLIVEIRA . A geometrical path planning heuristic inspired by elastic networks and C-Space Traversal approaches for mobile robots in unknown environments. In: 2013 16th International Conference on Advanced Robotics (ICAR 2013), 2013, Montevideo. 2013 16th International Conference on Advanced Robotics (ICAR), 2013. p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "An algorithm inspired by the deterministic annealing approach to avoid local minima in artificial potential fields",
+          "autores": "; FREIRE, EDUARDO OLIVEIRA ; BASILIO, JOAO CARLOS",
+          "periodico": "In: 2013 16th International Conference on Advanced Robotics (ICAR 2013), 2013, Montevideo. 2013 16th International Conference on Advanced Robotics (ICAR), 2013. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ICAR.2013.6766480",
+          "citacao_completa": "; FREIRE, EDUARDO OLIVEIRA ; BASILIO, JOAO CARLOS . An algorithm inspired by the deterministic annealing approach to avoid local minima in artificial potential fields. In: 2013 16th International Conference on Advanced Robotics (ICAR 2013), 2013, Montevideo. 2013 16th International Conference on Advanced Robotics (ICAR), 2013. p. 1."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Uma Abordagem Inspirada no Recozimento Determinístico para Escapar de Mínimos Locais em Navegação por Campos Potenciais Artificiais",
+          "autores": "; FREIRE, E. O. ;",
+          "periodico": "In: Simpósio Brasileiro de Automação Inteligente - SBAI'2013, 2013, Fortaleza. Anais do Simpósio Brasileiro de Automação Inteligente, 2013. p. 1-6.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. ; . Uma Abordagem Inspirada no Recozimento Determinístico para Escapar de Mínimos Locais em Navegação por Campos Potenciais Artificiais. In: Simpósio Brasileiro de Automação Inteligente - SBAI'2013, 2013, Fortaleza. Anais do Simpósio Brasileiro de Automação Inteligente, 2013. p. 1-6."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Equalização de Intervalos adaptada à Dinâmica da Digitação (Keystroke) de Senhas Curtas",
+          "autores": "; ; FREIRE, E. O.",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. . Equalização de Intervalos adaptada à Dinâmica da Digitação (Keystroke) de Senhas Curtas. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Mapeamento utilizando análise de componentes principais",
+          "autores": "KAMARRY, S. ; ; ; FREIRE, E. O. ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "KAMARRY, S. ; ; ; FREIRE, E. O. ; . Mapeamento utilizando análise de componentes principais. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Desenvolvimento de um Encoder Absoluto Analógico para a Medição de Posição e Velocidade Angular de Motores",
+          "autores": "SOUZA, S. ; ; ; FREIRE, E. O. ;",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "SOUZA, S. ; ; ; FREIRE, E. O. ; . Desenvolvimento de um Encoder Absoluto Analógico para a Medição de Posição e Velocidade Angular de Motores. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Sistema de Auxílio à Comunicação de Usuários Descapacitados Baseado em Movimento Ocular",
+          "autores": "CARDOSO, P. ; ; ; FREIRE, E. O.",
+          "periodico": "In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012.",
+          "doi": "",
+          "citacao_completa": "CARDOSO, P. ; ; ; FREIRE, E. O. . Sistema de Auxílio à Comunicação de Usuários Descapacitados Baseado em Movimento Ocular. In: XIX Congresso Brasileiro de Automática, 2012, Campina Grande. Anais do XIX Congresso Brasileiro de Automática, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "A Methodology to Designing Strategies for Robot Soccer Based on Discrete Event Systems Formalism",
+          "autores": "CARDOSO, PHILLIPE ; ; FREIRE, EDUARDO O. ;",
+          "periodico": "In: 2012 Brazilian Robotics Symposium and Latin American Robotics Symposium (SBRLARS), 2012, Fortaleza. 2012 Brazilian Robotics Symposium and Latin American Robotics Symposium. v. 1.",
+          "doi": "http://dx.doi.org/10.1109/SBR-LARS.2012.30",
+          "citacao_completa": "CARDOSO, PHILLIPE ; ; FREIRE, EDUARDO O. ; . A Methodology to Designing Strategies for Robot Soccer Based on Discrete Event Systems Formalism. In: 2012 Brazilian Robotics Symposium and Latin American Robotics Symposium (SBRLARS), 2012, Fortaleza. 2012 Brazilian Robotics Symposium and Latin American Robotics Symposium. v. 1."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Human Based Benchmark for Robot Navigation Assessment",
+          "autores": "FREIRE, E. O. ; ; ; ;",
+          "periodico": "In: ISSNIP Biosignals and Biorobotics Conference, 2010, Vitoria. Proceedings of the ISSNIP Biosignals and Biorobotics Conference 2010, 2010.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; ; . Human Based Benchmark for Robot Navigation Assessment. In: ISSNIP Biosignals and Biorobotics Conference, 2010, Vitoria. Proceedings of the ISSNIP Biosignals and Biorobotics Conference 2010, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Fault-tolerant Weld Line Detection Based on Distance and Visual Information Fusion",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: ROBOCONTROL'2010 - 4th Workshop on Applied Robotics and Automation, 2010, Bauru-SP. Proceedings of ROBOCONTROL'2010 - 4th Workshop on Applied Robotics and Automation, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Fault-tolerant Weld Line Detection Based on Distance and Visual Information Fusion. In: ROBOCONTROL'2010 - 4th Workshop on Applied Robotics and Automation, 2010, Bauru-SP. Proceedings of ROBOCONTROL'2010 - 4th Workshop on Applied Robotics and Automation, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Desenvolvimento de uma Arquitetura de Navegação Deliberativa para Robôs Móveis Utilizando a Teoria de Controle Supervisório",
+          "autores": "; ; FREIRE, E. O. ;",
+          "periodico": "In: Congresso Brasileiro de Automática - CBA'2010, 2010, Bonito-MS. Anais do Congresso Brasileito de Automática - CBA'2010, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Desenvolvimento de uma Arquitetura de Navegação Deliberativa para Robôs Móveis Utilizando a Teoria de Controle Supervisório. In: Congresso Brasileiro de Automática - CBA'2010, 2010, Bonito-MS. Anais do Congresso Brasileito de Automática - CBA'2010, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Applications of Stochastic Approaches in Mobile Robotics: An Overview of Recent Brazilian Works",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010, São Bernardo do Campo-SP. Proceedings of 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Applications of Stochastic Approaches in Mobile Robotics: An Overview of Recent Brazilian Works. In: 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010, São Bernardo do Campo-SP. Proceedings of 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A Model-Based Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Using Visual Information and Alfa-Beta Filter",
+          "autores": "; ; ; FREIRE, E. O.",
+          "periodico": "In: 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010, São Bernardo do Campo-SP. Proceedings of 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. . A Model-Based Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Using Visual Information and Alfa-Beta Filter. In: 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010, São Bernardo do Campo-SP. Proceedings of 2010 Latin American Robotics Symposium and Intelligent Robotics Meeting, 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos. In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estimação de Posição e Orientação para Robôs Móveis",
+          "autores": "; ; ; ; FREIRE, E. O.",
+          "periodico": "In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; ; ; FREIRE, E. O. . Estimação de Posição e Orientação para Robôs Móveis. In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Utilização de Análise Espectral de Imagens Térmicas para Determinação da Mínima Taxa de Amostragem Espacial Necessária",
+          "autores": "; ; ; FREIRE, E. O. ;",
+          "periodico": "In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; . Utilização de Análise Espectral de Imagens Térmicas para Determinação da Mínima Taxa de Amostragem Espacial Necessária. In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Visual Information and Alfa-Beta Filter",
+          "autores": "; FREIRE, E. O. ; ;",
+          "periodico": "In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. ; ; . Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Visual Information and Alfa-Beta Filter. In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estimação de Posição e Velocidade de Robôs Móveis com Restrições Holonômicas Utilizando Sensores de Fluxo Óptico e Filtro Alfa-Beta",
+          "autores": "; MOURA, M. A. ; ; FREIRE, E. O.",
+          "periodico": "In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009.",
+          "doi": "",
+          "citacao_completa": "; MOURA, M. A. ; ; FREIRE, E. O. . Estimação de Posição e Velocidade de Robôs Móveis com Restrições Holonômicas Utilizando Sensores de Fluxo Óptico e Filtro Alfa-Beta. In: IX Simpósio Brasileiro de Automação Inteligente, 2009, Brasília-DF. Anais do IX Simpósio Brasileiro de Automação Inteligente, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Distance and Visual Information Fusion",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: International Instrumentation and Measurement Technology Conference - I2MTC 2009, 2009, Singapure. I2MTC 2009 Proceedings, 2009. p. 791-796.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Based on Distance and Visual Information Fusion. In: International Instrumentation and Measurement Technology Conference - I2MTC 2009, 2009, Singapure. I2MTC 2009 Proceedings, 2009. p. 791-796."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Avaliação da Imprecisão Odométrica em Robôs Móveis Considerando as Incertezas Associadas ao Processo de Fabricação",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Avaliação da Imprecisão Odométrica em Robôs Móveis Considerando as Incertezas Associadas ao Processo de Fabricação. In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-4."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Medição de Velocidade Angular Usando PLL: Medidas de Alta Resolução Usando Enconders de Baixa Resolução",
+          "autores": "; ; ; FREIRE, E. O. ;",
+          "periodico": "In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-5.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; . Medição de Velocidade Angular Usando PLL: Medidas de Alta Resolução Usando Enconders de Baixa Resolução. In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-5."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Sistema Automatizado para Calibração de Analisadores de Fração de Água em Óleo",
+          "autores": "COSTA, I. M. ; ; ARAUJO, S. V. ; FREIRE, E. O. ;",
+          "periodico": "In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-4.",
+          "doi": "",
+          "citacao_completa": "COSTA, I. M. ; ; ARAUJO, S. V. ; FREIRE, E. O. ; . Sistema Automatizado para Calibração de Analisadores de Fração de Água em Óleo. In: VIII Seminário Internacional de Metrologia Elétrica, 2009, João Pessoa. Proceedings of VIII Semetro, 2009. p. 1-4."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Um Método de Visão Robótica para Identificação de Cordões de Solda em Tanques de Armazenamento Visando Inspeção Automatizada",
+          "autores": "; ; MOURA, M. A. ; FREIRE, E. O. ;",
+          "periodico": "In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; MOURA, M. A. ; FREIRE, E. O. ; . Um Método de Visão Robótica para Identificação de Cordões de Solda em Tanques de Armazenamento Visando Inspeção Automatizada. In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Reconhecimento Automático de Objetos Baseado em Cor e Forma para Aplicações em Robótica",
+          "autores": "; ; FREIRE, E. O.",
+          "periodico": "In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. . Reconhecimento Automático de Objetos Baseado em Cor e Forma para Aplicações em Robótica. In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Sistema para Identificação, Localização e Estimação de Cordões de Solda Presentes em Tanques de Armazenamento de Ccombustíveis Derivados do Petróleo",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Sistema para Identificação, Localização e Estimação de Cordões de Solda Presentes em Tanques de Armazenamento de Ccombustíveis Derivados do Petróleo. In: XVII Congresso Brasileiro de Automática - CBA'2008, 2008, Juiz de Fora - MG. Anais do XVII Congresso Brasileiro de Automática, 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Execution Monitoring Applied to Data Estimation Processes",
+          "autores": "FREIRE, E. O. ; ; ;",
+          "periodico": "In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador-BA. Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Execution Monitoring Applied to Data Estimation Processes. In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador-BA. Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "A Robotic Vision System Using a Modified Hough Transform to Perform Weld Line Detection on Storage Tanks",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador-BA. Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . A Robotic Vision System Using a Modified Hough Transform to Perform Weld Line Detection on Storage Tanks. In: Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008, Salvador-BA. Latin American Robotics Symposium (JRI 2008 - EnRI-LARS2008), 2008."
+        },
+        {
+          "ano": 2008,
+          "titulo": "High Resolution Analogical Measurement of Motor's Angular Velocity Using Low Resolution Optical Encoders",
+          "autores": "; ; ; FREIRE, E. O. ;",
+          "periodico": "In: Workshop Robocontrol'08 - 3rd Applied Robotics and Collaborative Systems Engineering, 2008, Bauru-SP. Workshop Robocontrol'08 - 3rd Applied Robotics and Collaborative Systems Engineering, 2008.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; . High Resolution Analogical Measurement of Motor's Angular Velocity Using Low Resolution Optical Encoders. In: Workshop Robocontrol'08 - 3rd Applied Robotics and Collaborative Systems Engineering, 2008, Bauru-SP. Workshop Robocontrol'08 - 3rd Applied Robotics and Collaborative Systems Engineering, 2008."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de um Sistema de Baixo Custo para Identificação de Cordões de Solda para Inspeção Automatizada de Tanques Esféricos",
+          "autores": "; ; ; FREIRE, E. O. ; ;",
+          "periodico": "In: VIII Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis-SC. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; ; . Desenvolvimento de um Sistema de Baixo Custo para Identificação de Cordões de Solda para Inspeção Automatizada de Tanques Esféricos. In: VIII Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis-SC. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistema de Visão Artificial Baseado em Detecção de Cores (Para Sistema de Controle de Robôs Celulares com Realimentação Visual)",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: VIII Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis-SC. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Sistema de Visão Artificial Baseado em Detecção de Cores (Para Sistema de Controle de Robôs Celulares com Realimentação Visual). In: VIII Simpósio Brasileiro de Automação Inteligente, 2007, Florianópolis-SC. Anais do VIII Simpósio Brasileiro de Automação Inteligente, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Fillet Weld Identification for Automatic Inspection of Spherical Tanks",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "In: 2007 IEEE Instrumentation and Measurement Technology Conference, 2007, Varsóvia. 2007 IEEE Instrumentation and Measurement Technology Conference Proceedings, 2007.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Fillet Weld Identification for Automatic Inspection of Spherical Tanks. In: 2007 IEEE Instrumentation and Measurement Technology Conference, 2007, Varsóvia. 2007 IEEE Instrumentation and Measurement Technology Conference Proceedings, 2007."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Segmentação de Placas de Veículos Usando Extração de Características Baseado em DFT e Agrupamento",
+          "autores": "; ; ; FREIRE, E. O.",
+          "periodico": "In: WVC 2007 ? III Workshop de Visão Computacional, 2007, São José do Rio Preto. Anais do III Workshop de Visão Computacional, 2007. p. 121-126.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. . Segmentação de Placas de Veículos Usando Extração de Características Baseado em DFT e Agrupamento. In: WVC 2007 ? III Workshop de Visão Computacional, 2007, São José do Rio Preto. Anais do III Workshop de Visão Computacional, 2007. p. 121-126."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Stable AGV Navigation Based on Visual and Ultrasonic Data Fusion",
+          "autores": "FREIRE, E. O. ; SORIA, C. ; CARELLI, R.",
+          "periodico": "In: XX Congreso Argentino de Control Automatico - AADECA, 2006, Buenos Aires. Anales del XX Congreso Argentino de Control Automatico - AADECA, 2006.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; SORIA, C. ; CARELLI, R. . Stable AGV Navigation Based on Visual and Ultrasonic Data Fusion. In: XX Congreso Argentino de Control Automatico - AADECA, 2006, Buenos Aires. Anales del XX Congreso Argentino de Control Automatico - AADECA, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Estimação de Parâmetros para Navegação de um Robô Móvel a Partir de Dados Obtidos por um Sistema de VIsão Computacional",
+          "autores": "; ; ; FREIRE, E. O. ; ;",
+          "periodico": "In: XVI Congresso Brasileiro de Automática - CBA 2006, 2006, Salvador. Anais do XVI Congresso Brasileiro de Automática - CBA 2006, 2006. p. 3457-3462.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; ; . Estimação de Parâmetros para Navegação de um Robô Móvel a Partir de Dados Obtidos por um Sistema de VIsão Computacional. In: XVI Congresso Brasileiro de Automática - CBA 2006, 2006, Salvador. Anais do XVI Congresso Brasileiro de Automática - CBA 2006, 2006. p. 3457-3462."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Corridor Following Based On The Fusion Of Redundant Control Signals",
+          "autores": "FREIRE, E. O. ; SORIA, C. ; CARELLI, R.",
+          "periodico": "In: XII Latin American Congress on Automation Control, 2006, Salvador. Proceedings of the XII Latin American Congress on Automation Control, 2006. p. 270-275.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; SORIA, C. ; CARELLI, R. . Corridor Following Based On The Fusion Of Redundant Control Signals. In: XII Latin American Congress on Automation Control, 2006, Salvador. Proceedings of the XII Latin American Congress on Automation Control, 2006. p. 270-275."
+        },
+        {
+          "ano": 2006,
+          "titulo": "AGV Corridor Navigation Based on Data Fusion",
+          "autores": "SORIA, C. ; CARELLI, R. ; FREIRE, E. O.",
+          "periodico": "In: XVI Congresso Brasileiro de Automática - CBA 2006, 2006, Salvador. Anais do XVI Congresso Brasileiro de Automática - CBA 2006, 2006. p. 2742-2747.",
+          "doi": "",
+          "citacao_completa": "SORIA, C. ; CARELLI, R. ; FREIRE, E. O. . AGV Corridor Navigation Based on Data Fusion. In: XVI Congresso Brasileiro de Automática - CBA 2006, 2006, Salvador. Anais do XVI Congresso Brasileiro de Automática - CBA 2006, 2006. p. 2742-2747."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Uma Proposta de Extensão de UML-RT para Permitir a Modelagem de Sistemas Mecatrônicos",
+          "autores": "; ; FREIRE, E. O.",
+          "periodico": "In: XII Congreso Argentino de Ciencias de la Computación - CACIC 2006, 2006, San Luis. Anales del XII Congreso Argentino de Ciencias de la Computación - CACIC 2006, 2006.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. . Uma Proposta de Extensão de UML-RT para Permitir a Modelagem de Sistemas Mecatrônicos. In: XII Congreso Argentino de Ciencias de la Computación - CACIC 2006, 2006, San Luis. Anales del XII Congreso Argentino de Ciencias de la Computación - CACIC 2006, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Multimodal Biometric Fusion Joint Typist (Keystroke) and Speaker Verification",
+          "autores": "; FREIRE, E. O.",
+          "periodico": "In: International Telecommunicatios Symposium- ITS 2006, 2006, Fortaleza. Proceedings of the International Telecommunicatios Symposium- ITS 2006, 2006. p. 609-614.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. . Multimodal Biometric Fusion Joint Typist (Keystroke) and Speaker Verification. In: International Telecommunicatios Symposium- ITS 2006, 2006, Fortaleza. Proceedings of the International Telecommunicatios Symposium- ITS 2006, 2006. p. 609-614."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Equalization of Keystroke Timing Histograms for Improved Identification Performance",
+          "autores": "; ; FREIRE, E. O.",
+          "periodico": "In: International Telecommunicatios Symposium- ITS 2006, 2006, Fortaleza. Proceedings of the International Telecommunicatios Symposium- ITS 2006, 2006. p. 560-565.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. . Equalization of Keystroke Timing Histograms for Improved Identification Performance. In: International Telecommunicatios Symposium- ITS 2006, 2006, Fortaleza. Proceedings of the International Telecommunicatios Symposium- ITS 2006, 2006. p. 560-565."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Stable AGV Corridor Navigation with Fused Redundant Control Signals",
+          "autores": "FREIRE, E. O. ; CARELLI, R. ; SORIA, C.",
+          "periodico": "In: VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005, São Luis - MA. Anais do VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; CARELLI, R. ; SORIA, C. . Stable AGV Corridor Navigation with Fused Redundant Control Signals. In: VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005, São Luis - MA. Anais do VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Desenvolvimento de um Sistema de Controle para Navegação de um Robô Móvel Baseado em Fusão de Sinais de Controle e Realimentação Visual",
+          "autores": "; ; ; FREIRE, E. O. ;",
+          "periodico": "In: VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005, São Luis - MA. Anais do VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005.",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. ; . Desenvolvimento de um Sistema de Controle para Navegação de um Robô Móvel Baseado em Fusão de Sinais de Controle e Realimentação Visual. In: VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005, São Luis - MA. Anais do VII SBAI - Simpósio Brasileiro de Automação Inteligente, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Stable AGV Corridor Navigation based on Data and Control Signal Fusion",
+          "autores": "CARELLI, R. ; SORIA, C. ; FREIRE, E. O.",
+          "periodico": "In: XI Reunion en Procesamiento de la Informacion y Control, RPIC 2005, 2005, Cordoba - Argentina. Proceedings of the XI Reunion en Procesamiento de la Informacion y Control, RPIC 2005, 2005.",
+          "doi": "",
+          "citacao_completa": "CARELLI, R. ; SORIA, C. ; FREIRE, E. O. . Stable AGV Corridor Navigation based on Data and Control Signal Fusion. In: XI Reunion en Procesamiento de la Informacion y Control, RPIC 2005, 2005, Cordoba - Argentina. Proceedings of the XI Reunion en Procesamiento de la Informacion y Control, RPIC 2005, 2005."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Navegação de Robôs Móveis por Fusão de Sinais de Controle e Realimentação Visual",
+          "autores": "; ; SANTANA, M. J. C. ; SILVA, D. D. ; FREIRE, E. O.",
+          "periodico": "In: Escola Regional de Computação Bahia Sergipe, 2005, Salvador-BA. Anais da V Escola Regional de Computação Bahia Sergipe, 2005.",
+          "doi": "",
+          "citacao_completa": "; ; SANTANA, M. J. C. ; SILVA, D. D. ; FREIRE, E. O. . Navegação de Robôs Móveis por Fusão de Sinais de Controle e Realimentação Visual. In: Escola Regional de Computação Bahia Sergipe, 2005, Salvador-BA. Anais da V Escola Regional de Computação Bahia Sergipe, 2005."
+        },
+        {
+          "ano": 2004,
+          "titulo": "A New Clustering Algorithm for Multilayer Perceptrons with Hebbian Learning based on Kullback-Leibler Divergence",
+          "autores": "; ; FREIRE, E. O.",
+          "periodico": "In: VIII Brazilian Symposium on Neural Networks - SBRN´2004, 2004, São Luis-MA. Proceedings of the VIII Brazilian Symposium on Neural Networks - SBRN´2004, 2004.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. . A New Clustering Algorithm for Multilayer Perceptrons with Hebbian Learning based on Kullback-Leibler Divergence. In: VIII Brazilian Symposium on Neural Networks - SBRN´2004, 2004, São Luis-MA. Proceedings of the VIII Brazilian Symposium on Neural Networks - SBRN´2004, 2004."
+        },
+        {
+          "ano": 2087,
+          "titulo": "Sensores Aplicados a Robôs Móveis com Fusão de Sinais de Controle",
+          "autores": "; FREIRE, E. O.",
+          "periodico": "In: 2º Congresso Temático de Dinâmica e Controle da SBMAC, 2003, São José dos Campos ? SP. Anais do 2º Congresso Temático de Dinâmica e Controle da SBMAC, 2003. v. 2. p. 2087-2133.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. . Sensores Aplicados a Robôs Móveis com Fusão de Sinais de Controle. In: 2º Congresso Temático de Dinâmica e Controle da SBMAC, 2003, São José dos Campos ? SP. Anais do 2º Congresso Temático de Dinâmica e Controle da SBMAC, 2003. v. 2. p. 2087-2133."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A new mobile robot control architecture via control output fusion",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O.",
+          "periodico": "In: XV IFAC World Congress, 2002, Barcelona. Proceedings of the XV IFAC World Congress (Artigo No 351), 2002.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O. . A new mobile robot control architecture via control output fusion. In: XV IFAC World Congress, 2002, Barcelona. Proceedings of the XV IFAC World Congress (Artigo No 351), 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Mobile Robot Control Architecture via Control Output Fusion: Stability Issues",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R.",
+          "periodico": "In: 10th Mediterranean Conference on Control and Automation - MED'2002, 2002, Lisboa. Proceedings of the 10th Mediterranean Conference on Control and Automation - MED'2002 (Artigo FA 6-5), 2002.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. . Mobile Robot Control Architecture via Control Output Fusion: Stability Issues. In: 10th Mediterranean Conference on Control and Automation - MED'2002, 2002, Lisboa. Proceedings of the 10th Mediterranean Conference on Control and Automation - MED'2002 (Artigo FA 6-5), 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A Control Architecture for Mobile Robot using Fusion of the Output of Distinct Controllers",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R.",
+          "periodico": "In: 17th IEEE International Symposium on Inteligent Control - ISIC´02, 2002, Vancouver. Proceedings of the 17th IEEE International Symposium on Inteligent Control - ISIC´02, 2002. p. 142-147.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. . A Control Architecture for Mobile Robot using Fusion of the Output of Distinct Controllers. In: 17th IEEE International Symposium on Inteligent Control - ISIC´02, 2002, Vancouver. Proceedings of the 17th IEEE International Symposium on Inteligent Control - ISIC´02, 2002. p. 142-147."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Sobre a Estabilidade do Controle de Robôs Móveis via Fusão das Saídas de Diversos Controladores",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R.",
+          "periodico": "In: XIV Congresso Brasileiro de Automática - CBA 2002, 2002, Natal. Anais do XIV Congresso Brasileiro de Automática - CBA 2002, 2002. p. 2914-2920.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. . Sobre a Estabilidade do Controle de Robôs Móveis via Fusão das Saídas de Diversos Controladores. In: XIV Congresso Brasileiro de Automática - CBA 2002, 2002, Natal. Anais do XIV Congresso Brasileiro de Automática - CBA 2002, 2002. p. 2914-2920."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Stable AGV Corridor Navigation with Fused Vision-Based Control Signals",
+          "autores": "CARELLI, R. ; SORIA, C. ; NASISI, O. ; FREIRE, E. O.",
+          "periodico": "In: IECON'02 - 28 Annual Conference of the IEEE Industrial Electronics Society, 2002, Sevilha. Proceedings of the IECON'02 - 28 Annual Conference of the IEEE Industrial Electronics Society, 2002. p. 2433-2438.",
+          "doi": "",
+          "citacao_completa": "CARELLI, R. ; SORIA, C. ; NASISI, O. ; FREIRE, E. O. . Stable AGV Corridor Navigation with Fused Vision-Based Control Signals. In: IECON'02 - 28 Annual Conference of the IEEE Industrial Electronics Society, 2002, Sevilha. Proceedings of the IECON'02 - 28 Annual Conference of the IEEE Industrial Electronics Society, 2002. p. 2433-2438."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Mobile Robot Navigation Based on the Fusion of Control Signals from Different Controllers",
+          "autores": "FREIRE, E. O. ; CARELLI, R. ; MUT, V. ; SORIA, C. ; ;",
+          "periodico": "In: 2001 European Control Conference, ECC 01, 2001, Porto. Proceedings do 2001 European Control Conference, ECC 01, 2001. p. 1828-1833.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; CARELLI, R. ; MUT, V. ; SORIA, C. ; ; . Mobile Robot Navigation Based on the Fusion of Control Signals from Different Controllers. In: 2001 European Control Conference, ECC 01, 2001, Porto. Proceedings do 2001 European Control Conference, ECC 01, 2001. p. 1828-1833."
+        },
+        {
+          "ano": 2001,
+          "titulo": "A Mobile Robot Prototype with Multiple Sensing Levels Included in an Agent-Based Control System",
+          "autores": "FREIRE, E. O. ; ; FIGUEIREDO, G. ; ;",
+          "periodico": "In: 5th World Multi-Conference on Systemics, Cybernetics and Informatics - SCI2001, 2001, Orlando. Volume IX, Industrial Systems: Part I, 2001. v. IX. p. 48-53.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; FIGUEIREDO, G. ; ; . A Mobile Robot Prototype with Multiple Sensing Levels Included in an Agent-Based Control System. In: 5th World Multi-Conference on Systemics, Cybernetics and Informatics - SCI2001, 2001, Orlando. Volume IX, Industrial Systems: Part I, 2001. v. IX. p. 48-53."
+        },
+        {
+          "ano": 2001,
+          "titulo": "On the Control of a Mobile Robot: A Comparative Study Regarding a New Approach and Two Well-Known Approaches",
+          "autores": "FREIRE, E. O. ; CARELLI, R. ; MUT, V. ; SECCHI, H. A. ; ;",
+          "periodico": "In: 5th World Multi-Conference on Systemics, Cybernetics and Informatics - SCI2001, 2001, Orlando.. Volume IX, Industrial Systems: Part I, 2001. v. IX. p. 42-47.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; CARELLI, R. ; MUT, V. ; SECCHI, H. A. ; ; . On the Control of a Mobile Robot: A Comparative Study Regarding a New Approach and Two Well-Known Approaches. In: 5th World Multi-Conference on Systemics, Cybernetics and Informatics - SCI2001, 2001, Orlando.. Volume IX, Industrial Systems: Part I, 2001. v. IX. p. 42-47."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Uma Nova Arquitetura de Controle para Navegação de Robôs Móveis: Fusão das Saídas de Distintos Controladores",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O.",
+          "periodico": "In: V Simpósio Brasileiro de Automação Inteligente - V SBAI, 2001, Canela-RS. CD V - SBAI 2001 (Artigo No 1086), 2001.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O. . Uma Nova Arquitetura de Controle para Navegação de Robôs Móveis: Fusão das Saídas de Distintos Controladores. In: V Simpósio Brasileiro de Automação Inteligente - V SBAI, 2001, Canela-RS. CD V - SBAI 2001 (Artigo No 1086), 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Navegación de Robots Móviles Basada en Fusión de Salidas de Distintos Controladores",
+          "autores": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O.",
+          "periodico": "In: IX Reunión de Trabajo en Procesamiento de la Información y Control - IX RPIC, 2001, Santa Fe. Anales de la IX Reunión de Trabajo en Procesamiento de la Información y Control, 2001. p. 440-445.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; CARELLI, R. ; NASISI, O. . Navegación de Robots Móviles Basada en Fusión de Salidas de Distintos Controladores. In: IX Reunión de Trabajo en Procesamiento de la Información y Control - IX RPIC, 2001, Santa Fe. Anales de la IX Reunión de Trabajo en Procesamiento de la Información y Control, 2001. p. 440-445."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Development of a Mobile Robot with Multiple Sensing Levels and Behavior-Based Control System",
+          "autores": "FREIRE, E. O. ; ; ;",
+          "periodico": "In: V Simpósio Brasileiro de Automação Inteligente - SBAI'2001, 2001, Canela-RS. CD V - SBAI 2001 (Artigo No 1122), 2001.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Development of a Mobile Robot with Multiple Sensing Levels and Behavior-Based Control System. In: V Simpósio Brasileiro de Automação Inteligente - SBAI'2001, 2001, Canela-RS. CD V - SBAI 2001 (Artigo No 1122), 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Prototyping a Wheeled Mobile Robot Embedding Multiple Sensors and Agent-Based Control System",
+          "autores": "FREIRE, E. O. ; ; ;",
+          "periodico": "In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 004), 2000.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Prototyping a Wheeled Mobile Robot Embedding Multiple Sensors and Agent-Based Control System. In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 004), 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Teleoperation of a Mobile Robot Through the Internet",
+          "autores": "; ; FREIRE, E. O. ;",
+          "periodico": "In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 002), 2000.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Teleoperation of a Mobile Robot Through the Internet. In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 002), 2000."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Neural Network Recognition of Geometric References Applied to Ultrasound Echo Signals",
+          "autores": "; FREIRE, E. O. ; ; VIANNA, J. E. S. ; ROSI, R. M.",
+          "periodico": "In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 014), 2000.",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. ; ; VIANNA, J. E. S. ; ROSI, R. M. . Neural Network Recognition of Geometric References Applied to Ultrasound Echo Signals. In: IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000, 2000, Lansing, MI, USA. Proceedings of the IEEE 43rd Midwest Symposium on Circuits and Systems - MWSCAS'2000 (Artigo No 014), 2000."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Object Recognition for an Agent-Based Controlled Mobile Robot",
+          "autores": "; ; FREIRE, E. O. ; ; SCHNEEBELI, H. A.",
+          "periodico": "In: 5th IFAC Workshop on Intelligent Manufacturing Systems - IMS'98, 1998, Gramado. Preprints of the 5th IFAC Workshop on Intelligent Manufacturing Systems - IMS'98, 1998. p. 323-328.",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; SCHNEEBELI, H. A. . Object Recognition for an Agent-Based Controlled Mobile Robot. In: 5th IFAC Workshop on Intelligent Manufacturing Systems - IMS'98, 1998, Gramado. Preprints of the 5th IFAC Workshop on Intelligent Manufacturing Systems - IMS'98, 1998. p. 323-328."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Um Sistema De Sensoriamento Externo Para Robôs Móveis Com Controle Baseado Em Agentes",
+          "autores": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. ;",
+          "periodico": "In: XII Congresso Brasileiro de Automática - CBA'1998, 1998, Uberlândia. XII Congreso Brasileiro de Automática, 1998. v. 2. p. 581-586.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. ; . Um Sistema De Sensoriamento Externo Para Robôs Móveis Com Controle Baseado Em Agentes. In: XII Congresso Brasileiro de Automática - CBA'1998, 1998, Uberlândia. XII Congreso Brasileiro de Automática, 1998. v. 2. p. 581-586."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Development of an External Sensing System for an Agent-Based Controlled Mobile Robot",
+          "autores": "FREIRE, E. O. ; ; ;",
+          "periodico": "In: 3th IFAC Symposium on Intelligent Autonomous Vehicles, 1998, Madri. Preprints of the 3th IFAC Symposium on Intelligent Autonomous Vehicles, 1998. v. 1. p. 243-248.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Development of an External Sensing System for an Agent-Based Controlled Mobile Robot. In: 3th IFAC Symposium on Intelligent Autonomous Vehicles, 1998, Madri. Preprints of the 3th IFAC Symposium on Intelligent Autonomous Vehicles, 1998. v. 1. p. 243-248."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Sistema Sensorial Ultra-Sônico para Robô Móvel com Controle Baseado em Agentes",
+          "autores": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A.",
+          "periodico": "In: 3o Simpósio Brasileiro de Automação Inteligente - 3o SBAI, 1997, Vitória. Anais do 3o Simpósio Brasileiro de Automação Inteligente - 3o SBAI, 1997. p. 471-476.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. . Sistema Sensorial Ultra-Sônico para Robô Móvel com Controle Baseado em Agentes. In: 3o Simpósio Brasileiro de Automação Inteligente - 3o SBAI, 1997, Vitória. Anais do 3o Simpósio Brasileiro de Automação Inteligente - 3o SBAI, 1997. p. 471-476."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Development of a Ultrasonic Sensing System for a Mobile Robot",
+          "autores": "FREIRE, E. O. ;",
+          "periodico": "In: VII Reunión de Trabajo en Procesamiento de la Información y Control - VII RPIC, 1997, San Juan. Anales del VII Reunión de Trabajo en Procesamiento de la Información y Control - VII RPIC, 1997. v. 2. p. 427-432.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; . Development of a Ultrasonic Sensing System for a Mobile Robot. In: VII Reunión de Trabajo en Procesamiento de la Información y Control - VII RPIC, 1997, San Juan. Anales del VII Reunión de Trabajo en Procesamiento de la Información y Control - VII RPIC, 1997. v. 2. p. 427-432."
+        },
+        {
+          "ano": 1997,
+          "titulo": "An Agent-Based Ultrasonic Sensing System for Mobile Robots",
+          "autores": "FREIRE, E. O. ; ;",
+          "periodico": "In: IEEE 40th Midwest Symposium on Circuits and Systems - MWSCAS'1997, 1997, Sacramento. Proceedings of the IEEE 40th Midwest Symposium on Circuits and Systems - MWSCAS'1997, 1997. v. 1. p. 646-649.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; . An Agent-Based Ultrasonic Sensing System for Mobile Robots. In: IEEE 40th Midwest Symposium on Circuits and Systems - MWSCAS'1997, 1997, Sacramento. Proceedings of the IEEE 40th Midwest Symposium on Circuits and Systems - MWSCAS'1997, 1997. v. 1. p. 646-649."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Performance improvement of a mobile robot navigation system through ultrasonic sensors",
+          "autores": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A.",
+          "periodico": "In: ADVANCED SUMMER INSTITUTE - ASI'96. Life Cycle Approaches to Production Systems, 1996, Toulouse. Preprints of the ADVANCED SUMMER INSTITUTE - ASI'96. Life Cycle Approaches to Production Systems, 1996.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. . Performance improvement of a mobile robot navigation system through ultrasonic sensors. In: ADVANCED SUMMER INSTITUTE - ASI'96. Life Cycle Approaches to Production Systems, 1996, Toulouse. Preprints of the ADVANCED SUMMER INSTITUTE - ASI'96. Life Cycle Approaches to Production Systems, 1996."
+        },
+        {
+          "ano": 1996,
+          "titulo": "Sistema de sensoriamento ultra-sônico para robô móvel baseado em agentes",
+          "autores": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. ;",
+          "periodico": "In: CONGRESO LATINOAMERICANO DE CONTROL AUTOMÁTICO/ XV SIMPOSIO NACIONAL DE CONTROL AUTOMÁTICO, 1996, Buenos Aires. CONGRESO LATINOAMERICANO DE CONTROL AUTOMÁTICO/ XV SIMPOSIO NACIONAL DE CONTROL AUTOMÁTICO, 1996. v. 2. p. 910-915.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; SCHNEEBELI, H. A. ; . Sistema de sensoriamento ultra-sônico para robô móvel baseado em agentes. In: CONGRESO LATINOAMERICANO DE CONTROL AUTOMÁTICO/ XV SIMPOSIO NACIONAL DE CONTROL AUTOMÁTICO, 1996, Buenos Aires. CONGRESO LATINOAMERICANO DE CONTROL AUTOMÁTICO/ XV SIMPOSIO NACIONAL DE CONTROL AUTOMÁTICO, 1996. v. 2. p. 910-915."
+        }
+      ]
+    },
+    {
+      "name": "Resumos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2003,
+          "titulo": "Desenvolvimento de um Sistema de Controle Servo-Visual para Robôs Móveis",
+          "autores": "; SOUZA, C. A. B. ; FREIRE, E. O.",
+          "periodico": "In: 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC, 2003, Recife-PE. 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC (Trabalho No 10862), 2003.",
+          "doi": "",
+          "citacao_completa": "; SOUZA, C. A. B. ; FREIRE, E. O. . Desenvolvimento de um Sistema de Controle Servo-Visual para Robôs Móveis. In: 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC, 2003, Recife-PE. 55a Reunião Anual da Sociedade Brasileira para o Progresso da Ciência - SBPC (Trabalho No 10862), 2003."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "PROJETO DE UM SENSOR DE TORQUE SEM FIO PARA EIXOS GIRANTES",
+          "autores": "BRITO, I. V. ; HOU, M. ; FREIRE, E. O.",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "BRITO, I. V. ; HOU, M. ; FREIRE, E. O. . PROJETO DE UM SENSOR DE TORQUE SEM FIO PARA EIXOS GIRANTES. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "APLICAÇÃO DE MAPAS DE SALIÊNCIA COMO LIMITADORES DE REGIÃO PARA DETECTORES CLÁSSICOS NA TAREFA DE ODOMETRIA VISUAL",
+          "autores": "CORREIA, A. S. ; FREIRE, E. O. ; ;",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "CORREIA, A. S. ; FREIRE, E. O. ; ; . APLICAÇÃO DE MAPAS DE SALIÊNCIA COMO LIMITADORES DE REGIÃO PARA DETECTORES CLÁSSICOS NA TAREFA DE ODOMETRIA VISUAL. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Projeto e Desenvolvimento de um Sistema de Eletromiografia de Superfície",
+          "autores": "SILVEIRA JUNIOR, J. L. ; ; FREIRE, E. O. ;",
+          "periodico": "2018. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "SILVEIRA JUNIOR, J. L. ; ; FREIRE, E. O. ; . Projeto e Desenvolvimento de um Sistema de Eletromiografia de Superfície. 2018. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2018,
+          "titulo": "The Polarized RRT-Edge Approach",
+          "autores": "CORREIA, A. S. ; FREIRE, E. O. ; ; ; KAMARRY, S.",
+          "periodico": "2018. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "CORREIA, A. S. ; FREIRE, E. O. ; ; ; KAMARRY, S. . The Polarized RRT-Edge Approach. 2018. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Simple Visual Odometry Approach Based on Point Clouds",
+          "autores": "SILVEIRA JUNIOR, J. L. ; FREIRE, E. O. ; ;",
+          "periodico": "2015. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "SILVEIRA JUNIOR, J. L. ; FREIRE, E. O. ; ; . A Simple Visual Odometry Approach Based on Point Clouds. 2015. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "An algorithm inspired by the deterministic annealing approach to avoid local minima in artificial potential fields",
+          "autores": "; FREIRE, E. O. ;",
+          "periodico": "2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. ; . An algorithm inspired by the deterministic annealing approach to avoid local minima in artificial potential fields. 2013. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A geometrical path planning heuristic inspired by elastic networks and C-Space Traversal approaches for mobile robots in unknown environments.",
+          "autores": "; FREIRE, E. O.",
+          "periodico": "2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "; FREIRE, E. O. . A geometrical path planning heuristic inspired by elastic networks and C-Space Traversal approaches for mobile robots in unknown environments.. 2013. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Human Based Benchmark for Robot Navigation Assessment",
+          "autores": "FREIRE, E. O. ; ; ; ;",
+          "periodico": "2010. (Apresentação de Trabalho/Conferência ou palestra).",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. ; ; ; ; . Human Based Benchmark for Robot Navigation Assessment. 2010. (Apresentação de Trabalho/Conferência ou palestra)."
+        },
+        {
+          "ano": 2010,
+          "titulo": "A Model-Based Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Using Visual Information and Alfa-Beta Filter",
+          "autores": "; ; ; FREIRE, E. O.",
+          "periodico": "2010. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "; ; ; FREIRE, E. O. . A Model-Based Fault-Tolerant Weld Line Detection for Automatic Inspection of Storage Tanks Using Visual Information and Alfa-Beta Filter. 2010. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos",
+          "autores": "; ; FREIRE, E. O. ; ;",
+          "periodico": "2009. (Apresentação de Trabalho/Simpósio).",
+          "doi": "",
+          "citacao_completa": "; ; FREIRE, E. O. ; ; . Avaliação de Desempenho de Arquiteturas de Navegação de Robôs Móveis com Base em Padrões Humanos. 2009. (Apresentação de Trabalho/Simpósio)."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Desenvolvimento de uma Nova Arquitetura de Controle para Navegação de Robôs Móveis",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2003. (Apresentação de Trabalho/Comunicação).",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Desenvolvimento de uma Nova Arquitetura de Controle para Navegação de Robôs Móveis. 2003. (Apresentação de Trabalho/Comunicação)."
+        }
+      ]
+    },
+    {
+      "name": "Assessoria e consultoria",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2018."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2017.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2017."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2015.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2014."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Membro do Comitê de Programa do Congresso Brasileiro de Automática - CBA 2014",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2014.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Congresso Brasileiro de Automática - CBA 2014. 2014."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Membro do Comitê de Programa do WGWR/WUWR 2013",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do WGWR/WUWR 2013. 2013."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Membro do Comitê de Programa do International Conference on Advanced Robotics - ICAR",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2013.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do International Conference on Advanced Robotics - ICAR. 2013."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Membro do Comitê de Programa do International Symposium on Innovation and Technology - ISIT",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2012.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do International Symposium on Innovation and Technology - ISIT. 2012."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Membro do Comitê de Programa do International Conference on Computational Intelligence and Communication Networks - CICN",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do International Conference on Computational Intelligence and Communication Networks - CICN. 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Membro do Comitê de Programa do IEEE International Conference on Communication Systems and Network Technologies - CSNT",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do IEEE International Conference on Communication Systems and Network Technologies - CSNT. 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Membro do Comitê de Programa do World Congress on Information and Communication Technologies - WICT",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do World Congress on Information and Communication Technologies - WICT. 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Membro do Comitê de Programa do International Conference on Computer Science and Information Technology - ICCSIT",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2011.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do International Conference on Computer Science and Information Technology - ICCSIT. 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2010.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2010."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2009.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2009."
+        },
+        {
+          "ano": 2008,
+          "titulo": "Membro do Comitê de Programa do Latin American Robotics Symposium - LARS",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2008.",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Membro do Comitê de Programa do Latin American Robotics Symposium - LARS. 2008."
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "citations": [
+        {
+          "ano": 2000,
+          "titulo": "Robô Móvel a Rodas",
+          "autores": "; SCHNEEBELI, H. A. ; ; ; FREIRE, E. O. ;",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "; SCHNEEBELI, H. A. ; ; ; FREIRE, E. O. ; . Robô Móvel a Rodas. 2000."
+        }
+      ]
+    },
+    {
+      "name": "Redes sociais, websites e blogs",
+      "citations": [
+        {
+          "ano": 2018,
+          "titulo": "Quando terei um robô para me ajudar nas tarefas domésticas?",
+          "autores": "FREIRE, E. O.",
+          "periodico": "2018; Tema: Robótica. (Site).",
+          "doi": "",
+          "citacao_completa": "FREIRE, E. O. . Quando terei um robô para me ajudar nas tarefas domésticas?. 2018; Tema: Robótica. (Site)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2024,
+          "titulo": "Técnica para Redução do Tempo de Ensaios de Termografia Ativa Modulada em Células Fotovoltaicas",
+          "membros": "Freire, E. ; Oliveira, Romulo A.; Lisboa, Edson B.",
+          "candidato": "RENAN OLIVEIRA SILVA",
+          "citacao_completa": "Freire, E. ; Oliveira, Romulo A.; Lisboa, Edson B.. Participação em banca de RENAN OLIVEIRA SILVA. Técnica para Redução do Tempo de Ensaios de Termografia Ativa Modulada em Células Fotovoltaicas. 2024. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": "MONITORAMENTO AUTOMATIZADO DE ISOLAMENTOS POR IMAGEAMENTO ULTRAVIOLETA EMPREGANDO APRENDIZADO PROFUNDO",
+          "membros": "Freire, E. ; ; Florentino, Marcus T. B.",
+          "candidato": "Gustavo Aragão Rodrigues",
+          "citacao_completa": "Freire, E. ; ; Florentino, Marcus T. B.. Participação em banca de Gustavo Aragão Rodrigues. MONITORAMENTO AUTOMATIZADO DE ISOLAMENTOS POR IMAGEAMENTO ULTRAVIOLETA EMPREGANDO APRENDIZADO PROFUNDO. 2023. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2023,
+          "titulo": "DESENVOLVIMENTO DE UM MÉTODO DE MONITORAMENTO E DETECÇÃO DE DEFEITOS EM CÉLULAS FOTOVOLTAICAS UTILIZANDO TERMOGRAFIA ATIVA MODULADA",
+          "membros": "Freire, E. ; Santos-Junior, José A.; Oliveira, Romulo A.",
+          "candidato": "THIAGO MOTA VIEIRA",
+          "citacao_completa": "Freire, E. ; Santos-Junior, José A.; Oliveira, Romulo A.. Participação em banca de THIAGO MOTA VIEIRA. DESENVOLVIMENTO DE UM MÉTODO DE MONITORAMENTO E DETECÇÃO DE DEFEITOS EM CÉLULAS FOTOVOLTAICAS UTILIZANDO TERMOGRAFIA ATIVA MODULADA. 2023. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Odometria Multifrequência para Veículos Aéreos Autônomos",
+          "membros": "Colombine, Esther L.; Freire, E. ; Pedrini, Hélio",
+          "candidato": "Patrick de Carvalho Tavares Rezende Ferreira",
+          "citacao_completa": "Colombine, Esther L.; Freire, E. ; Pedrini, Hélio. Participação em banca de Patrick de Carvalho Tavares Rezende Ferreira. Odometria Multifrequência para Veículos Aéreos Autônomos. 2022. Dissertação (Mestrado em Ciência da Computação) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2021,
+          "titulo": "(Re)planejamento de Rota em Tempo Real para Missões Estratégicas",
+          "membros": "BRANDAO, A. S.; SARCINELLI FILHO, Mário; CARELLI, Ricardo; Freire, E. ; Santos, Milthon C. P.",
+          "candidato": "João Vítor Rodrigues de Vasconcelos",
+          "citacao_completa": "BRANDAO, A. S.; SARCINELLI FILHO, Mário; CARELLI, Ricardo; Freire, E. ; Santos, Milthon C. P.. Participação em banca de João Vítor Rodrigues de Vasconcelos. (Re)planejamento de Rota em Tempo Real para Missões Estratégicas. 2021. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Viçosa."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Detecção de falhas em materiais isolantes com termografia ativa pulsada",
+          "membros": "FREIRE, E. O. ; COSTA, A. L. M.; MARTINS, C. O. D.",
+          "candidato": "WELLINGTON FRANCISCO DA SILVA",
+          "citacao_completa": "FREIRE, E. O. ; COSTA, A. L. M.; MARTINS, C. O. D.. Participação em banca de WELLINGTON FRANCISCO DA SILVA. Detecção de falhas em materiais isolantes com termografia ativa pulsada. 2019. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Rastreamento de Células em Vídeos 3D",
+          "membros": "; ; FREIRE, E. O. ; CANUTO, J. C.",
+          "candidato": "DAVY OLIVEIRA BARROS SOUSA",
+          "citacao_completa": "; ; FREIRE, E. O. ; CANUTO, J. C.. Participação em banca de DAVY OLIVEIRA BARROS SOUSA. Rastreamento de Células em Vídeos 3D. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": "ARNeuro: Mobile Augmented Reality for Craniotomy Planning",
+          "membros": "DANTAS, D. O.; ; FREIRE, E. O. ; MATINS JUNIOR, D. C.",
+          "candidato": "MARCEL OLIVEIRA ALVES",
+          "citacao_completa": "DANTAS, D. O.; ; FREIRE, E. O. ; MATINS JUNIOR, D. C.. Participação em banca de MARCEL OLIVEIRA ALVES. ARNeuro: Mobile Augmented Reality for Craniotomy Planning. 2018. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Estudo Dimensional de Características Aplicadas à Leitura Labial",
+          "membros": "FREIRE, E. O. ; CANUTO, J. C.;",
+          "candidato": "FILLIPE LEVI GUEDES MADUREIRA",
+          "citacao_completa": "FREIRE, E. O. ; CANUTO, J. C.; . Participação em banca de FILLIPE LEVI GUEDES MADUREIRA. Estudo Dimensional de Características Aplicadas à Leitura Labial. 2018. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Projeto, Implementação e Desempenhos dos Algoritmos Criptográficos AES, PRESENT e CLEFIA em FPGA",
+          "membros": "FREIRE, E. O. ; SALGUEIRO, E. M.; PEREIRA, F. D.",
+          "candidato": "WILLIAM PEDROSA MAIA",
+          "citacao_completa": "FREIRE, E. O. ; SALGUEIRO, E. M.; PEREIRA, F. D.. Participação em banca de WILLIAM PEDROSA MAIA. Projeto, Implementação e Desempenhos dos Algoritmos Criptográficos AES, PRESENT e CLEFIA em FPGA. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Reconciliação Dinâmica de Dados baseada em Estimadores em uma malha de controle MPC",
+          "membros": "FREIRE, E. O. ; ; OLIVEIRA JUNIOR, A. M.",
+          "candidato": "GUILHERME MOURA AFONSO DA SILVA",
+          "citacao_completa": "FREIRE, E. O. ; ; OLIVEIRA JUNIOR, A. M.. Participação em banca de GUILHERME MOURA AFONSO DA SILVA. Reconciliação Dinâmica de Dados baseada em Estimadores em uma malha de controle MPC. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Arquitetura de Subsunção Baseada em Objetivo de Controle Principal",
+          "membros": "FREIRE, E. O. ; CANUTO, J. C.;",
+          "candidato": "PHILLIPE CARDOSO SANTOS",
+          "citacao_completa": "FREIRE, E. O. ; CANUTO, J. C.; . Participação em banca de PHILLIPE CARDOSO SANTOS. Arquitetura de Subsunção Baseada em Objetivo de Controle Principal. 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2017,
+          "titulo": "Planejamento de Movimento para Robôs Móveis Baseado em uma Representação Compacta da Rapidly-Exploring Random Tree (RRT)",
+          "membros": "; FREIRE, E. O. ;",
+          "candidato": "STEPHANIE KAMARRY ALVES DE SOUSA",
+          "citacao_completa": "; FREIRE, E. O. ; . Participação em banca de STEPHANIE KAMARRY ALVES DE SOUSA. Planejamento de Movimento para Robôs Móveis Baseado em uma Representação Compacta da Rapidly-Exploring Random Tree (RRT). 2017. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Proposta de uma metodologia para obtenção de vocabulários de gestos intuitivos para a interação homem-robô",
+          "membros": "FREIRE, E. O. ; ; ;",
+          "candidato": "Clebeson Canuto dos Santos",
+          "citacao_completa": "FREIRE, E. O. ; ; ; . Participação em banca de Clebeson Canuto dos Santos. Proposta de uma metodologia para obtenção de vocabulários de gestos intuitivos para a interação homem-robô. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Problema de Perseguição-Evasão baseado em Random Walk",
+          "membros": "FREIRE, E. O. ; ; CANUTO, J. C.",
+          "candidato": "Antônio Renato Cruz Gonçalves",
+          "citacao_completa": "FREIRE, E. O. ; ; CANUTO, J. C.. Participação em banca de Antônio Renato Cruz Gonçalves. Problema de Perseguição-Evasão baseado em Random Walk. 2016. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Um Novo Método de Planejamento de Caminho para Robôs Baseado em Espuma Aleatória",
+          "membros": "ALSINA, P. J.; MEDEIROS, A. A. D.; MARTINS, A. M.; FREIRE, E. O.",
+          "candidato": "Yuri Sarmento Silveira",
+          "citacao_completa": "ALSINA, P. J.; MEDEIROS, A. A. D.; MARTINS, A. M.; FREIRE, E. O. . Participação em banca de Yuri Sarmento Silveira. Um Novo Método de Planejamento de Caminho para Robôs Baseado em Espuma Aleatória. 2016. Dissertação (Mestrado em Engenharia Mecatrônica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Alinhamento do Modelo de Forma Ativa com Maquinas de Vetores de Suporte Aplicado na Detecção de Veículos",
+          "membros": "; FREIRE, E. O. ; GONZAGA, A.",
+          "candidato": "MARIA GÉSSICA DOS SANTOS LIMA ARAGÃO",
+          "citacao_completa": "; FREIRE, E. O. ; GONZAGA, A.. Participação em banca de MARIA GÉSSICA DOS SANTOS LIMA ARAGÃO. Alinhamento do Modelo de Forma Ativa com Maquinas de Vetores de Suporte Aplicado na Detecção de Veículos. 2016. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Extratores de características acústicas inspirados no sistema periférico auditivo",
+          "membros": "; FREIRE, E. O. ; Evandro Sales",
+          "candidato": "Christiane Raulino Almeida",
+          "citacao_completa": "; FREIRE, E. O. ; Evandro Sales. Participação em banca de Christiane Raulino Almeida. Extratores de características acústicas inspirados no sistema periférico auditivo. 2014. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Uma Abordagem Inspirada no Recozimento Determinístico para Escapar de Mínimos Locais em Navegação por Campos Potenciais Artificiais",
+          "membros": "FREIRE, E. O. ; ; ALSINA, P. J.",
+          "candidato": "NARA STRAPPA FACCHINETTI DORIA",
+          "citacao_completa": "FREIRE, E. O. ; ; ALSINA, P. J.. Participação em banca de NARA STRAPPA FACCHINETTI DORIA. Uma Abordagem Inspirada no Recozimento Determinístico para Escapar de Mínimos Locais em Navegação por Campos Potenciais Artificiais. 2013. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Planejamento de Caminhos em Ambientes Desconhecidos Baseado em Uma Abordagem Geometrica”",
+          "membros": "FREIRE, E. O. ; ; ALSINA, P. J.",
+          "candidato": "Davi de Oliveira Caldas",
+          "citacao_completa": "FREIRE, E. O. ; ; ALSINA, P. J.. Participação em banca de Davi de Oliveira Caldas. Planejamento de Caminhos em Ambientes Desconhecidos Baseado em Uma Abordagem Geometrica”. 2013. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Uso de Análise Espectral e Máquinas de Vetores de Suporte no Reconhecimento de Assinaturas Vibracionais de Equipamentos Eletromecanicos",
+          "membros": "; FREIRE, E. O. ; ; VAREJAO, F. M.",
+          "candidato": "Carlos Augusto dos Santos",
+          "citacao_completa": "; FREIRE, E. O. ; ; VAREJAO, F. M.. Participação em banca de Carlos Augusto dos Santos. Uso de Análise Espectral e Máquinas de Vetores de Suporte no Reconhecimento de Assinaturas Vibracionais de Equipamentos Eletromecanicos. 2013. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Pré-Processamento dos Intervalos de Tempos Observados na Dinâmica de Digitação (KeyStroke) de Senhas Curtas",
+          "membros": "; FREIRE, E. O. ; MORENO, E. D.; Evandro Sales",
+          "candidato": "MURILO ALVES BEZERRA JUNIOR",
+          "citacao_completa": "; FREIRE, E. O. ; MORENO, E. D.; Evandro Sales. Participação em banca de MURILO ALVES BEZERRA JUNIOR. Pré-Processamento dos Intervalos de Tempos Observados na Dinâmica de Digitação (KeyStroke) de Senhas Curtas. 2013. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Educ: Um Simulador de Ambiente de Robótica Educacional em Plataforma Virtual",
+          "membros": "GONÇALVEZ, L. M. G.; BURLAMARQUI, A. M. F.; FREIRE, E. O.",
+          "candidato": "Carla da Costa Fernandes",
+          "citacao_completa": "GONÇALVEZ, L. M. G.; BURLAMARQUI, A. M. F.; FREIRE, E. O. . Participação em banca de Carla da Costa Fernandes. Educ: Um Simulador de Ambiente de Robótica Educacional em Plataforma Virtual. 2013. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Um Framework de Especificação e Modelagem de Estratégias de Jogo para Modalidade SIMUROSOT de Futebol de Robôs",
+          "membros": "FREIRE, E. O. ; ; CHELLA, M. T.; ALSINA, P. J.",
+          "candidato": "RICARDO ARIEL CORREA RABELO",
+          "citacao_completa": "FREIRE, E. O. ; ; CHELLA, M. T.; ALSINA, P. J.. Participação em banca de RICARDO ARIEL CORREA RABELO. Um Framework de Especificação e Modelagem de Estratégias de Jogo para Modalidade SIMUROSOT de Futebol de Robôs. 2012. Dissertação (Mestrado em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Localização de Fontes Sonoras em Recintos Fechados Aplicada à Televigilância Médica",
+          "membros": "FREIRE, E. O. ; ; CAVALCANTE, C. C.",
+          "candidato": "ROGERIO REUS SANTIN",
+          "citacao_completa": "FREIRE, E. O. ; ; CAVALCANTE, C. C.. Participação em banca de ROGERIO REUS SANTIN. Localização de Fontes Sonoras em Recintos Fechados Aplicada à Televigilância Médica. 2012. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Desenvolvimento de um Aparelho Portátil que Emprega a Técnica de Oscilações Forçadas para Estudo do Sistema Respiratório",
+          "membros": "FREIRE, E. O. ; ; SILVA, W. M.",
+          "candidato": "BRUNO BITTENCOURT DA COSTA",
+          "citacao_completa": "FREIRE, E. O. ; ; SILVA, W. M.. Participação em banca de BRUNO BITTENCOURT DA COSTA. Desenvolvimento de um Aparelho Portátil que Emprega a Técnica de Oscilações Forçadas para Estudo do Sistema Respiratório. 2012. Dissertação (Mestrado em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Controle de Formações Flexíveis de Robôs Móveis com Desvio de Obstáculos",
+          "membros": "; CARELLI, R.; MARTINS, F. N.; CALDEIRA, E. M. O.; FREIRE, E. O.",
+          "candidato": "Vinícius Thiago Lecco Rampinelli",
+          "citacao_completa": "; CARELLI, R.; MARTINS, F. N.; CALDEIRA, E. M. O.; FREIRE, E. O. . Participação em banca de Vinícius Thiago Lecco Rampinelli. Controle de Formações Flexíveis de Robôs Móveis com Desvio de Obstáculos. 2010. Dissertação (Mestrado em Programa de Pós-Graduação em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Desenvolvimento de Uma Arquitetura de Navegação Deliberativa Utilizando a Teoria de Controle Supervisório",
+          "membros": "; FREIRE, E. O. ; HSU, L.; CARRILHO, E.",
+          "candidato": "Lucas Molina",
+          "citacao_completa": "; FREIRE, E. O. ; HSU, L.; CARRILHO, E.. Participação em banca de Lucas Molina. Desenvolvimento de Uma Arquitetura de Navegação Deliberativa Utilizando a Teoria de Controle Supervisório. 2010. Dissertação (Mestrado em PEE-COPPE/UFRJ) - Universidade Federal do Rio de Janeiro."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Reconfiguração Dinâmica de Estratégias Distribuídas em Dispositivos (Foundation Fieldbus) para Otimização de Processos na Indústria do Petróleo",
+          "membros": "DORIA NETO, A. D.; MELO, J. D.; OLIVEIRA, L. A. H. G.; FREIRE, E. O.",
+          "candidato": "Leonardo Sávio Guanabara Ramalho",
+          "citacao_completa": "DORIA NETO, A. D.; MELO, J. D.; OLIVEIRA, L. A. H. G.; FREIRE, E. O. . Participação em banca de Leonardo Sávio Guanabara Ramalho. Reconfiguração Dinâmica de Estratégias Distribuídas em Dispositivos (Foundation Fieldbus) para Otimização de Processos na Indústria do Petróleo. 2009. Dissertação (Mestrado em Prog. Pós-Grad. em Ciências e Eng. de Petróleo) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Estudo e Implementação de Algoritmos Inteligentes para Detecção de Falhas na Medição de Gás Natural",
+          "membros": "MELO, J. D.; DORIA NETO, A. D.; OLIVEIRA, L. A. H. G.; MARTINS, A. M.; FREIRE, E. O.",
+          "candidato": "Juliana Pegado de Medeiros",
+          "citacao_completa": "MELO, J. D.; DORIA NETO, A. D.; OLIVEIRA, L. A. H. G.; MARTINS, A. M.; FREIRE, E. O. . Participação em banca de Juliana Pegado de Medeiros. Estudo e Implementação de Algoritmos Inteligentes para Detecção de Falhas na Medição de Gás Natural. 2009. Dissertação (Mestrado em Prog. Pós-Grad. em Ciências e Eng. de Petróleo) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Sistema para Posicionamento de Sensores Aplicados à Inspeção de Cordões de Solda em Tanques de Armazenamento de Combustíveis Derivados do Petróleo",
+          "membros": "; FREIRE, E. O. ; ; CAVALCANTI, J. H. F.",
+          "candidato": "Elyson Ádan Nunes Carvalho",
+          "citacao_completa": "; FREIRE, E. O. ; ; CAVALCANTI, J. H. F.. Participação em banca de Elyson Ádan Nunes Carvalho. Sistema para Posicionamento de Sensores Aplicados à Inspeção de Cordões de Solda em Tanques de Armazenamento de Combustíveis Derivados do Petróleo. 2007. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Navegação e Desvio de Obstáculos Usando um Robô Móvel Dotado de Sensor de Varredura Laser",
+          "membros": "; ;",
+          "candidato": "Flávio Garcia Pereira",
+          "citacao_completa": "; ; . Participação em banca de Flávio Garcia Pereira. Navegação e Desvio de Obstáculos Usando um Robô Móvel Dotado de Sensor de Varredura Laser. 2006. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Desvio Tangencial de Obstáculos para um Robô Móvel Navegando em Ambientes Semi-Estruturados",
+          "membros": "; ; ; CALDEIRA, E. M. O.",
+          "candidato": "André Ferreira",
+          "citacao_completa": "; ; ; CALDEIRA, E. M. O.. Participação em banca de André Ferreira. Desvio Tangencial de Obstáculos para um Robô Móvel Navegando em Ambientes Semi-Estruturados. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Controle da Navegação de um Robô Móvel em um Corredor com Redundância de Controladores",
+          "membros": "; ; ; CALDEIRA, E. M. O.",
+          "candidato": "Daniel Fernando Tello Gamarra",
+          "citacao_completa": "; ; ; CALDEIRA, E. M. O.. Participação em banca de Daniel Fernando Tello Gamarra. Controle da Navegação de um Robô Móvel em um Corredor com Redundância de Controladores. 2004. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "ESPAÇO DE TRABALHO DE DUAS CAMADAS: UMA NOVA ABORDAGEM PARA O TRANSPORTE COOPERATIVO DE OBJETOS COM DESVIO DE OBSTÁCULOS POR SISTEMAS COM MÚLTIPLOS ROBÔS",
+          "membros": "Costa, Edson G.; Assis, Francisco M.; SARCINELLI FILHO, Mário; Freire, E.",
+          "candidato": "STEPHANIE KAMARRY ALVES DE SOUSA",
+          "citacao_completa": "Costa, Edson G.; Assis, Francisco M.; SARCINELLI FILHO, Mário; Freire, E. . Participação em banca de STEPHANIE KAMARRY ALVES DE SOUSA. ESPAÇO DE TRABALHO DE DUAS CAMADAS: UMA NOVA ABORDAGEM PARA O TRANSPORTE COOPERATIVO DE OBJETOS COM DESVIO DE OBSTÁCULOS POR SISTEMAS COM MÚLTIPLOS ROBÔS. 2022. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PLANEJAMENTO DE CAMINHOS SUAVES E SEGUROS BASEADOS EM ESPUMA PROBABILÍSTICA PARA SISTEMAS ROBÓTICOS AUTÔNOMOS",
+          "membros": "ALSINA, P. J.; MARTINS, A. M.; MEDEIROS, A. A. D.; Aranibar, Dennis Barrios; Freire, E.",
+          "candidato": "LUÍS BRUNO PEREIRA DO NASCIMENTO",
+          "citacao_completa": "ALSINA, P. J.; MARTINS, A. M.; MEDEIROS, A. A. D.; Aranibar, Dennis Barrios; Freire, E. . Participação em banca de LUÍS BRUNO PEREIRA DO NASCIMENTO. PLANEJAMENTO DE CAMINHOS SUAVES E SEGUROS BASEADOS EM ESPUMA PROBABILÍSTICA PARA SISTEMAS ROBÓTICOS AUTÔNOMOS. 2021. Tese (Doutorado em Prog. Pos-Grad. em Eng. Elétrica e de Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2021,
+          "titulo": "M-FABRIK: UMA NOVA ABORDAGEM DE CINEMÁTICA INVERSA PARA ROBÔS MANIPULADORES MÓVEIS",
+          "membros": "Costa, Edson G.; LUCIANO, B. A.; ALSINA, P. J.; Toal, Daniel; Freire, E.",
+          "candidato": "PHILLIPE CARDOSO SANTOS",
+          "citacao_completa": "Costa, Edson G.; LUCIANO, B. A.; ALSINA, P. J.; Toal, Daniel; Freire, E. . Participação em banca de PHILLIPE CARDOSO SANTOS. M-FABRIK: UMA NOVA ABORDAGEM DE CINEMÁTICA INVERSA PARA ROBÔS MANIPULADORES MÓVEIS. 2021. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Planejamento de Movimento para Robôs Móveis Baseado na Condição de Horizonte Continuado (CHC)",
+          "membros": "; PEREIRA, G. A. S.; ALSINA, P. J.; CATUNDA, S. Y.; FREIRE, E. O. ;",
+          "candidato": "Lucas Molina",
+          "citacao_completa": "; PEREIRA, G. A. S.; ALSINA, P. J.; CATUNDA, S. Y.; FREIRE, E. O. ; . Participação em banca de Lucas Molina. Planejamento de Movimento para Robôs Móveis Baseado na Condição de Horizonte Continuado (CHC). 2014. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Detecção de Pessoas e Reconhecimento de Gestos para Interação e Cooperação Entre Seres Humanos e Robôs",
+          "membros": "FREIRE, E. O. ; ; ; Evandro Sales; MARTINS, F. N.; K. F. Côco",
+          "candidato": "Flávio Garcia Pereira",
+          "citacao_completa": "FREIRE, E. O. ; ; ; Evandro Sales; MARTINS, F. N.; K. F. Côco. Participação em banca de Flávio Garcia Pereira. Detecção de Pessoas e Reconhecimento de Gestos para Interação e Cooperação Entre Seres Humanos e Robôs. 2012. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Estabilidade de Sistemas Chaveados Baseados em Objetivo de Controle Principal",
+          "membros": "; BORGES, G. A.; ALSINA, P. J.; CATUNDA, S. Y.; ; FREIRE, E. O.",
+          "candidato": "Elyson Ádan Nunes Carvalho",
+          "citacao_completa": "; BORGES, G. A.; ALSINA, P. J.; CATUNDA, S. Y.; ; FREIRE, E. O. . Participação em banca de Elyson Ádan Nunes Carvalho. Estabilidade de Sistemas Chaveados Baseados em Objetivo de Controle Principal. 2012. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Sistema de Segmentação de Planos 3D Baseado em Homografia Afim, Fluxo Óptico e Reconstrução Métrica",
+          "membros": "MEDEIROS, A. A. D.; GONÇALVEZ, L. M. G.; CARVALHO, B. M.; FREIRE, E. O. ; PEREIRA, G. A. S.",
+          "candidato": "Kelson Rômulo Teixeira Aires",
+          "citacao_completa": "MEDEIROS, A. A. D.; GONÇALVEZ, L. M. G.; CARVALHO, B. M.; FREIRE, E. O. ; PEREIRA, G. A. S.. Participação em banca de Kelson Rômulo Teixeira Aires. Sistema de Segmentação de Planos 3D Baseado em Homografia Afim, Fluxo Óptico e Reconstrução Métrica. 2009. Tese (Doutorado em Prog. Pos-Grad. em Eng. Elétrica e de Computação) - Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Mapeamento Topológico Baseado na Extração de Características Geométricas a partir de Dados Sensoriais",
+          "membros": "MEDEIROS, A. A. D.; ALSINA, P. J.; GONÇALVEZ, L. M. G.; BOTELHO, S. S. C.;",
+          "candidato": "Diogo Pinheiro Fernandes Pedrosa",
+          "citacao_completa": "MEDEIROS, A. A. D.; ALSINA, P. J.; GONÇALVEZ, L. M. G.; BOTELHO, S. S. C.; . Participação em banca de Diogo Pinheiro Fernandes Pedrosa. Mapeamento Topológico Baseado na Extração de Características Geométricas a partir de Dados Sensoriais. 2006. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal do Rio Grande do Norte."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2012,
+          "titulo": "Planejamento de Movimento Ótimo para Robôs Móveis Inspirado em Propagação Térmica",
+          "membros": "; PEREIRA, G. A. S.; ALSINA, P. J.; CATUNDA, S. Y.; ; FREIRE, E. O.",
+          "candidato": "Lucas Molina",
+          "citacao_completa": "; PEREIRA, G. A. S.; ALSINA, P. J.; CATUNDA, S. Y.; ; FREIRE, E. O. . Participação em banca de Lucas Molina. Planejamento de Movimento Ótimo para Robôs Móveis Inspirado em Propagação Térmica. 2012. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal de Campina Grande."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Detecção de Seres Humanos e Reconhecimento de Gestos para Interação entre Homens e Robôs",
+          "membros": "FREIRE, E. O. ; ; ; Evandro Sales; MARTINS, F. N.; K. F. Côco",
+          "candidato": "Flavio Garcia Pereira",
+          "citacao_completa": "FREIRE, E. O. ; ; ; Evandro Sales; MARTINS, F. N.; K. F. Côco. Participação em banca de Flavio Garcia Pereira. Detecção de Seres Humanos e Reconhecimento de Gestos para Interação entre Homens e Robôs. 2011. Exame de qualificação (Doutorando em Engenharia Elétrica) - Universidade Federal do Espírito Santo."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Mestrado",
+      "citations": [
+        {
+          "ano": 2021,
+          "titulo": "Odometria Visual-inercial Multifrequência para Veículos Aéreos Autônomos",
+          "membros": "Colombine, Esther L.; Pedrini, Hélio; Freire, E.",
+          "candidato": "Patrick de Carvalho Tavares Rezende Ferreira",
+          "citacao_completa": "Colombine, Esther L.; Pedrini, Hélio; Freire, E. . Participação em banca de Patrick de Carvalho Tavares Rezende Ferreira. Odometria Visual-inercial Multifrequência para Veículos Aéreos Autônomos. 2021. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Estadual de Campinas."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Análise da robustez de extratores de caracteristicas acusticas",
+          "membros": "; FREIRE, E. O. ;",
+          "candidato": "Christiane Raulino Almeida",
+          "citacao_completa": "; FREIRE, E. O. ; . Participação em banca de Christiane Raulino Almeida. Análise da robustez de extratores de caracteristicas acusticas. 2014. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Navegação de Robôs Móveis em Formação Líder-Seguidor para Escolta",
+          "membros": "; FREIRE, E. O. ; BRANDAO, A. S.",
+          "candidato": "Flavio Santiago de Carvalho Bispo",
+          "citacao_completa": "; FREIRE, E. O. ; BRANDAO, A. S.. Participação em banca de Flavio Santiago de Carvalho Bispo. Navegação de Robôs Móveis em Formação Líder-Seguidor para Escolta. 2014. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Planejamento de Trajetoria de Robos Moveis em Ambientes Desconhecidos Atraves de um Algoritmo Inspirado em Redes Elasticas",
+          "membros": "FREIRE, E. O. ; ; ALSINA, P. J.",
+          "candidato": "Davi de Oliveira Caldas",
+          "citacao_completa": "FREIRE, E. O. ; ; ALSINA, P. J.. Participação em banca de Davi de Oliveira Caldas. Planejamento de Trajetoria de Robos Moveis em Ambientes Desconhecidos Atraves de um Algoritmo Inspirado em Redes Elasticas. 2013. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Uso de Análise Cepstral e Espectral no Reconhecimento de Assinaturas Vibracionais de Equipamentos Eletromecânicos",
+          "membros": "FREIRE, E. O. ; ; ; ESTOMBELO, C. A.",
+          "candidato": "CARLOS AUGUSTO DOS SANTOS",
+          "citacao_completa": "FREIRE, E. O. ; ; ; ESTOMBELO, C. A.. Participação em banca de CARLOS AUGUSTO DOS SANTOS. Uso de Análise Cepstral e Espectral no Reconhecimento de Assinaturas Vibracionais de Equipamentos Eletromecânicos. 2012. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Modelagem probabilística dos intervalos de tempos observados em digitação (KeyStroke) de senhas curtas",
+          "membros": "FREIRE, E. O. ; MORENO, E. D.; ; Evandro Sales",
+          "candidato": "MURILO ALVES BEZERRA JUNIOR",
+          "citacao_completa": "FREIRE, E. O. ; MORENO, E. D.; ; Evandro Sales. Participação em banca de MURILO ALVES BEZERRA JUNIOR. Modelagem probabilística dos intervalos de tempos observados em digitação (KeyStroke) de senhas curtas. 2012. Exame de qualificação (Mestrando em Ciência da Computação) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Desenvolvimento de um Aparelho Portátil que Emprega a Técnica de Oscilações Forçadas para Estudo do Sistema Respiratório",
+          "membros": "FREIRE, E. O. ; ; SILVA, W. M.",
+          "candidato": "BRUNO BITTENCOURT DA COSTA",
+          "citacao_completa": "FREIRE, E. O. ; ; SILVA, W. M.. Participação em banca de BRUNO BITTENCOURT DA COSTA. Desenvolvimento de um Aparelho Portátil que Emprega a Técnica de Oscilações Forçadas para Estudo do Sistema Respiratório. 2012. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Sistema Inteligente de Suporte Operacional em Processos de Tratamento Primário de Petróleo",
+          "membros": "FREIRE, E. O. ; SOTOMAYOR, O. A. Z.; MARQUES, J. J.",
+          "candidato": "CARLOS EDUARDO VIANA NUNES",
+          "citacao_completa": "FREIRE, E. O. ; SOTOMAYOR, O. A. Z.; MARQUES, J. J.. Participação em banca de CARLOS EDUARDO VIANA NUNES. Sistema Inteligente de Suporte Operacional em Processos de Tratamento Primário de Petróleo. 2011. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Uso do Recozimento Determinístico para Evitar Mínimos Locais em Navegação por campos Potenciais Artificiais",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "NARA STRAPPA FACCHINETTI DORIA",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de NARA STRAPPA FACCHINETTI DORIA. Uso do Recozimento Determinístico para Evitar Mínimos Locais em Navegação por campos Potenciais Artificiais. 2011. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Localização de Fontes Sonoras em Recintos Fechados Aplicada à Televigilância Médica",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "ROGERIO REUS SANTIN",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de ROGERIO REUS SANTIN. Localização de Fontes Sonoras em Recintos Fechados Aplicada à Televigilância Médica. 2011. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Previsão de consumo em Sistemas de distribuição de Gás Natural com a utilização de Redes Neural Artificial",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "GUSTAVO LIMA CRUZ",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de GUSTAVO LIMA CRUZ. Previsão de consumo em Sistemas de distribuição de Gás Natural com a utilização de Redes Neural Artificial. 2011. Exame de qualificação (Mestrando em ENGENHARIA ELÉTRICA) - Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": ".Projeto e Instrumentação de um Theremin",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "Raphael Cardoso de Oliveira Jesus",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de Raphael Cardoso de Oliveira Jesus.Projeto e Instrumentação de um Theremin. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Navegação de Robôs Móveis Baseados em Controle Fuzzy Evolutivo (TCC1)",
+          "membros": "CARVALHO, A. B.; ; FREIRE, E. O.",
+          "candidato": "Matheus Carvalho de Oliveira",
+          "citacao_completa": "CARVALHO, A. B.; ; FREIRE, E. O. . Participação em banca de Matheus Carvalho de Oliveira.Navegação de Robôs Móveis Baseados em Controle Fuzzy Evolutivo (TCC1). 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2018,
+          "titulo": ".Navegação de Robôs Móveis Baseados em Controle Fuzzy Evolutivo (TCC2)",
+          "membros": "CARVALHO, A. B.; ; FREIRE, E. O.",
+          "candidato": "Matheus Carvalho de Oliveira",
+          "citacao_completa": "CARVALHO, A. B.; ; FREIRE, E. O. . Participação em banca de Matheus Carvalho de Oliveira.Navegação de Robôs Móveis Baseados em Controle Fuzzy Evolutivo (TCC2). 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2016,
+          "titulo": ".Reconhecimento de Assinatura Digital",
+          "membros": "; CANUTO, J. C.; FREIRE, E. O.",
+          "candidato": "Isla Ketly Costa Anjos",
+          "citacao_completa": "; CANUTO, J. C.; FREIRE, E. O. . Participação em banca de Isla Ketly Costa Anjos.Reconhecimento de Assinatura Digital. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Desenvolvimento de um Sistema Supervisório para Navegação de Robôs Móveis Baseados em Objetivos de Controle Principal",
+          "membros": "; ; FREIRE, EDUARDO O. ;",
+          "candidato": "Phillipe Cardoso Santos",
+          "citacao_completa": "; ; FREIRE, EDUARDO O. ; . Participação em banca de Phillipe Cardoso Santos.Desenvolvimento de um Sistema Supervisório para Navegação de Robôs Móveis Baseados em Objetivos de Controle Principal. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Planejamento de Movimento para Robôs Móveis Utilizando Rapdly-Exploring Random Tree (RRT)",
+          "membros": "; ; FREIRE, E. O.",
+          "candidato": "Stephanie Kamarry Alves de Sousa",
+          "citacao_completa": "; ; FREIRE, E. O. . Participação em banca de Stephanie Kamarry Alves de Sousa.Planejamento de Movimento para Robôs Móveis Utilizando Rapdly-Exploring Random Tree (RRT). 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2015,
+          "titulo": ".Navegação de Múltiplos Robôs em Formação com Desvio de Obstáculos",
+          "membros": "; ; FREIRE, E. O. ;",
+          "candidato": "Marcelo dos Santos Botelho Gonçalves",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Participação em banca de Marcelo dos Santos Botelho Gonçalves.Navegação de Múltiplos Robôs em Formação com Desvio de Obstáculos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Regras Práticas de Sintonia de Controladores PID",
+          "membros": "SOTOMAYOR, O. A. Z.; ; FREIRE, E. O.",
+          "candidato": "Marsol Luz Araújo",
+          "citacao_completa": "SOTOMAYOR, O. A. Z.; ; FREIRE, E. O. . Participação em banca de Marsol Luz Araújo.Regras Práticas de Sintonia de Controladores PID. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Neto.Navegação de Múltiplos Robôs em Formação",
+          "membros": "; ; FREIRE, E. O. ;",
+          "candidato": "Luiz Miranda C",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Participação em banca de Luiz Miranda C. Neto.Navegação de Múltiplos Robôs em Formação. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Sistema de Medição de Força para Determinação de Limiar de Dor em Animais de Laboratório",
+          "membros": "; ; FREIRE, E. O.",
+          "candidato": "Matheus Garcia Fonseca",
+          "citacao_completa": "; ; FREIRE, E. O. . Participação em banca de Matheus Garcia Fonseca.Sistema de Medição de Força para Determinação de Limiar de Dor em Animais de Laboratório. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2014,
+          "titulo": ".Sistema de Medição de Nível Baseado em Sensores de Deslocamento Fixo e Strain-gages",
+          "membros": "; FREIRE, E. O. ; LEITE, J. A. F.",
+          "candidato": "Arthur William de Oliveira Souza",
+          "citacao_completa": "; FREIRE, E. O. ; LEITE, J. A. F.. Participação em banca de Arthur William de Oliveira Souza.Sistema de Medição de Nível Baseado em Sensores de Deslocamento Fixo e Strain-gages. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Sistema de Irrigação Automatizado Baseado na Medida de Evapotranspiração",
+          "membros": "; ; FREIRE, E. O.",
+          "candidato": "Mateus Ventura Souza",
+          "citacao_completa": "; ; FREIRE, E. O. . Participação em banca de Mateus Ventura Souza.Sistema de Irrigação Automatizado Baseado na Medida de Evapotranspiração. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Navegação de Múltiplos Robôs em Formação",
+          "membros": "; ; FREIRE, E. O. ;",
+          "candidato": "Luiz Miranda Cavalcante Neto",
+          "citacao_completa": "; ; FREIRE, E. O. ; . Participação em banca de Luiz Miranda Cavalcante Neto.Navegação de Múltiplos Robôs em Formação. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2013,
+          "titulo": ".Desenvolvimento de um Sistema Supervisório para Navegação de Rôbos Móveis Baseado em Objetivo de Controle Principal",
+          "membros": "; FREIRE, E. O. ;",
+          "candidato": "Phillipe Cardoso Santos",
+          "citacao_completa": "; FREIRE, E. O. ; . Participação em banca de Phillipe Cardoso Santos.Desenvolvimento de um Sistema Supervisório para Navegação de Rôbos Móveis Baseado em Objetivo de Controle Principal. 2013. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Desenvolvimento e Estudo de um Robô Móvel Esférico",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "Emisson Santana de Oliveira",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de Emisson Santana de Oliveira.Desenvolvimento e Estudo de um Robô Móvel Esférico. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Controle Avançado de Técnicas de Perfuração com Pressão Controlada",
+          "membros": "MARQUES, J. J.; FREIRE, E. O. ; SOTOMAYOR, O. A. Z.",
+          "candidato": "Taís de Carvalho Calado",
+          "citacao_completa": "MARQUES, J. J.; FREIRE, E. O. ; SOTOMAYOR, O. A. Z.. Participação em banca de Taís de Carvalho Calado.Controle Avançado de Técnicas de Perfuração com Pressão Controlada. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Fusão em Hardware de Sinais de Controle Chaveados Aplicada à Robótica Móvel",
+          "membros": "; FREIRE, E. O. ; LEITE, J. A. F.; ;",
+          "candidato": "Marcos Vinicius Silva Alves",
+          "citacao_completa": "; FREIRE, E. O. ; LEITE, J. A. F.; ; . Participação em banca de Marcos Vinicius Silva Alves.Fusão em Hardware de Sinais de Controle Chaveados Aplicada à Robótica Móvel. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Eletrônica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Controle de Oscilações em Sistemas de Elevação Artificial de Petróleo por Injeção Contínua de Gás (Gas Lift)",
+          "membros": "FREIRE, E. O. ; ; SOTOMAYOR, O. A. Z.",
+          "candidato": "Ive Thiara Alves Teixeira",
+          "citacao_completa": "FREIRE, E. O. ; ; SOTOMAYOR, O. A. Z.. Participação em banca de Ive Thiara Alves Teixeira.Controle de Oscilações em Sistemas de Elevação Artificial de Petróleo por Injeção Contínua de Gás (Gas Lift). 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Monitoramento e Detecção de Falhas em Processos Industriais Baseado em Análise por Componentes Principais (PCA)",
+          "membros": "SANTANA, P. L.; FREIRE, E. O. ; SOTOMAYOR, O. A. Z.",
+          "candidato": "Gabriela do Prado Castro",
+          "citacao_completa": "SANTANA, P. L.; FREIRE, E. O. ; SOTOMAYOR, O. A. Z.. Participação em banca de Gabriela do Prado Castro.Monitoramento e Detecção de Falhas em Processos Industriais Baseado em Análise por Componentes Principais (PCA). 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Detecção e Diagnóstico de Situações Anormais em Sistemas de Separação Trifásica Água-Óleo-Gás",
+          "membros": "SOTOMAYOR, O. A. Z.; ; FREIRE, E. O.",
+          "candidato": "Bruno Guimarães Santana",
+          "citacao_completa": "SOTOMAYOR, O. A. Z.; ; FREIRE, E. O. . Participação em banca de Bruno Guimarães Santana.Detecção e Diagnóstico de Situações Anormais em Sistemas de Separação Trifásica Água-Óleo-Gás. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Controle de Golfadas em Processos de Tratamento Primário de Petróleo",
+          "membros": "SOTOMAYOR, O. A. Z.; FREIRE, E. O. ; LIMA, F. S.",
+          "candidato": "David de Oliveira Azevedo Júnior",
+          "citacao_completa": "SOTOMAYOR, O. A. Z.; FREIRE, E. O. ; LIMA, F. S.. Participação em banca de David de Oliveira Azevedo Júnior.Controle de Golfadas em Processos de Tratamento Primário de Petróleo. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Projeto de um Sistema Para Estimação da Posição e Velocidade de Robôs Móveis com Restrições Holonômicas Utilizando Sensores de Fluxo Óptico",
+          "membros": "FREIRE, E. O. ; ; LEITE, J. A. F.",
+          "candidato": "Matheus Alves Moura",
+          "citacao_completa": "FREIRE, E. O. ; ; LEITE, J. A. F.. Participação em banca de Matheus Alves Moura.Projeto de um Sistema Para Estimação da Posição e Velocidade de Robôs Móveis com Restrições Holonômicas Utilizando Sensores de Fluxo Óptico. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2009,
+          "titulo": ".Desenvolvimento de um Sistema de Estimação de Posição e Orientação de Robôs Móveis",
+          "membros": "FREIRE, E. O. ; ;",
+          "candidato": "José Gilmar Nunes de Carvalho Filho",
+          "citacao_completa": "FREIRE, E. O. ; ; . Participação em banca de José Gilmar Nunes de Carvalho Filho.Desenvolvimento de um Sistema de Estimação de Posição e Orientação de Robôs Móveis. 2009. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2004,
+          "titulo": ".Estudo de um Novo Algoritmo (MLP CLUST) para Agrupamento de Dados - Aplicação a Sinais Bioédicos",
+          "membros": "; BATISTA, L. S.;",
+          "candidato": "Murilo Alves Bezerra Júnior",
+          "citacao_completa": "; BATISTA, L. S.; . Participação em banca de Murilo Alves Bezerra Júnior.Estudo de um Novo Algoritmo (MLP CLUST) para Agrupamento de Dados - Aplicação a Sinais Bioédicos. 2004. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Desenvolvimento de um Sistema de Visão Computacional para Aplicações de Controle Servo-Visual de Robôs Móveis",
+          "membros": "; ; OLIVEIRA, L. P. B.",
+          "candidato": "Carlos Alberto Bezerra de Souza",
+          "citacao_completa": "; ; OLIVEIRA, L. P. B.. Participação em banca de Carlos Alberto Bezerra de Souza.Desenvolvimento de um Sistema de Visão Computacional para Aplicações de Controle Servo-Visual de Robôs Móveis. 2003. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Desenvolvimento de um Sistema Automético de Contagem de Grãos a Partir de Fotos Digitalizadas",
+          "membros": "; ; OLIVEIRA, L. P. B.",
+          "candidato": "Adriano José Nascimento Pinto",
+          "citacao_completa": "; ; OLIVEIRA, L. P. B.. Participação em banca de Adriano José Nascimento Pinto.Desenvolvimento de um Sistema Automético de Contagem de Grãos a Partir de Fotos Digitalizadas. 2003. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2003,
+          "titulo": ".Estudo da Compressão de Sinais de Voz pela Deconvolução",
+          "membros": "; ; OLIVEIRA, L. P. B.",
+          "candidato": "Helder Aragão",
+          "citacao_completa": "; ; OLIVEIRA, L. P. B.. Participação em banca de Helder Aragão.Estudo da Compressão de Sinais de Voz pela Deconvolução. 2003. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2002,
+          "titulo": ".Um Disassembler para Assembly Intel 80*86",
+          "membros": "BATISTA, O. M. N.; ;",
+          "candidato": "Diogo de Castro Cavalcante",
+          "citacao_completa": "BATISTA, O. M. N.; ; . Participação em banca de Diogo de Castro Cavalcante.Um Disassembler para Assembly Intel 80*86. 2002. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2002,
+          "titulo": ".Implementação de Módulos Funcionais para Processamento Digital de Sinais (PDS) Através de Placas de Áudio",
+          "membros": "; ; HIDALGO, A. R.",
+          "candidato": "Alex Paulo Alves de Oliveira",
+          "citacao_completa": "; ; HIDALGO, A. R.. Participação em banca de Alex Paulo Alves de Oliveira.Implementação de Módulos Funcionais para Processamento Digital de Sinais (PDS) Através de Placas de Áudio. 2002. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2002,
+          "titulo": ".Obtenção de Modelos 3D de Objetos Reais a Partir de Múltiplas Imagens 2D",
+          "membros": "; ;",
+          "candidato": "Clênia Melo Araújo",
+          "citacao_completa": "; ; . Participação em banca de Clênia Melo Araújo.Obtenção de Modelos 3D de Objetos Reais a Partir de Múltiplas Imagens 2D. 2002. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Estudo de Operadores Avançados de Detecção de Bordas",
+          "membros": "; HIDALGO, A. R.;",
+          "candidato": "Kleber Henrique de Jesus Prado",
+          "citacao_completa": "; HIDALGO, A. R.; . Participação em banca de Kleber Henrique de Jesus Prado.Estudo de Operadores Avançados de Detecção de Bordas. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Estudo de Métodos de Segmentação de Imagens",
+          "membros": "; HIDALGO, A. R.;",
+          "candidato": "Vyvia de Oliveira Ferreira",
+          "citacao_completa": "; HIDALGO, A. R.; . Participação em banca de Vyvia de Oliveira Ferreira.Estudo de Métodos de Segmentação de Imagens. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Desenvolvimento de um Sistema de Teleoperação para um Robô Móvel",
+          "membros": "; HIDALGO, A. R.;",
+          "candidato": "Max Santana Rolemberg Farias",
+          "citacao_completa": "; HIDALGO, A. R.; . Participação em banca de Max Santana Rolemberg Farias.Desenvolvimento de um Sistema de Teleoperação para um Robô Móvel. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Reconhecimento e Classificação Visual de Objetos e Referências Geométricas",
+          "membros": "; HIDALGO, A. R.;",
+          "candidato": "Alysson Távora Chagas",
+          "citacao_completa": "; HIDALGO, A. R.; . Participação em banca de Alysson Távora Chagas.Reconhecimento e Classificação Visual de Objetos e Referências Geométricas. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Como Implementar um Algoritmo de Treinamento para Redes Neurais Artificiais Supervisionadas",
+          "membros": "HIDALGO, A. R.; ;",
+          "candidato": "Elinavilmo de Morgado Santos",
+          "citacao_completa": "HIDALGO, A. R.; ; . Participação em banca de Elinavilmo de Morgado Santos.Como Implementar um Algoritmo de Treinamento para Redes Neurais Artificiais Supervisionadas. 2001. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Processamento de Dados) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Reconhecimento de Tipos de Frases Através de Redes Neurais Artificiais",
+          "membros": "; ; HIDALGO, A. R.",
+          "candidato": "Fernanda Almeida Passos",
+          "citacao_completa": "; ; HIDALGO, A. R.. Participação em banca de Fernanda Almeida Passos.Reconhecimento de Tipos de Frases Através de Redes Neurais Artificiais. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Reconhecimento de Comandos Vocais Através de Redes Neurais Artificiais",
+          "membros": "; ; HIDALGO, A. R.",
+          "candidato": "Tais Nunes Lobo",
+          "citacao_completa": "; ; HIDALGO, A. R.. Participação em banca de Tais Nunes Lobo.Reconhecimento de Comandos Vocais Através de Redes Neurais Artificiais. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2001,
+          "titulo": ".Reconhecimento de Timbres de Vozes (Autenticação) Através de Redes Neurais Artificiais",
+          "membros": "; ; HIDALGO, A. R.",
+          "candidato": "Aroaldo Soares Júnior",
+          "citacao_completa": "; ; HIDALGO, A. R.. Participação em banca de Aroaldo Soares Júnior.Reconhecimento de Timbres de Vozes (Autenticação) Através de Redes Neurais Artificiais. 2001. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2000,
+          "titulo": ".Construção de um Robô Móvel de Baixo Custo com Fins Educacionais",
+          "membros": "; HIDALGO, A. R.;",
+          "candidato": "Othon Stuart Ferreira Campos",
+          "citacao_completa": "; HIDALGO, A. R.; . Participação em banca de Othon Stuart Ferreira Campos.Construção de um Robô Móvel de Baixo Custo com Fins Educacionais. 2000. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2000,
+          "titulo": ".Estudo e Aplicações de Técnicas de Processamento de Imagens na Robótica",
+          "membros": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.",
+          "candidato": "George Leite Júnio",
+          "citacao_completa": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.. Participação em banca de George Leite Júnio.Estudo e Aplicações de Técnicas de Processamento de Imagens na Robótica. 2000. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2000,
+          "titulo": ".Estudo e Aplicações de Métodos de Detcção de Bordas na Robótica",
+          "membros": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.",
+          "candidato": "Jorge Eduardo Oliveira Leite",
+          "citacao_completa": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.. Participação em banca de Jorge Eduardo Oliveira Leite.Estudo e Aplicações de Métodos de Detcção de Bordas na Robótica. 2000. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 2000,
+          "titulo": ".Estudo e Aplicações de Técnicas de Visão Computacional na Robótica",
+          "membros": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.",
+          "candidato": "Daysi Guarany Ramalho",
+          "citacao_completa": "; HIDALGO, A. R.; SANTOS-JÚNIOR, J. M. R.. Participação em banca de Daysi Guarany Ramalho.Estudo e Aplicações de Técnicas de Visão Computacional na Robótica. 2000. Trabalho de Conclusão de Curso (Graduação em Ciência da Computação) - Universidade Tiradentes."
+        },
+        {
+          "ano": 1999,
+          "titulo": ".Processamento de Linguagem Natural",
+          "membros": ";",
+          "candidato": "Anderson Ferreira Santos",
+          "citacao_completa": "; . Participação em banca de Anderson Ferreira Santos.Processamento de Linguagem Natural. 1999. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Processamento de Dados) - Universidade Tiradentes."
+        },
+        {
+          "ano": 1999,
+          "titulo": ".SmartCard: A Revolução dos Cartões",
+          "membros": "SIMÕES, M. A. C.;",
+          "candidato": "Hedjane Oliveira Cunha",
+          "citacao_completa": "SIMÕES, M. A. C.; . Participação em banca de Hedjane Oliveira Cunha.SmartCard: A Revolução dos Cartões. 1999. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Processamento de Dados) - Universidade Tiradentes."
+        },
+        {
+          "ano": 1999,
+          "titulo": ".Animação de Personagens Tridimensionais",
+          "membros": ";",
+          "candidato": "Breno Azevedo da Silva",
+          "citacao_completa": "; . Participação em banca de Breno Azevedo da Silva.Animação de Personagens Tridimensionais. 1999. Trabalho de Conclusão de Curso (Graduação em Tecnologia em Processamento de Dados) - Universidade Tiradentes."
+        }
+      ]
+    },
+    {
+      "name": "Professor titular",
+      "citations": [
+        {
+          "ano": 2022,
+          "titulo": "Freire, E. . Banca de progressão para acesso a classe E/Titular do docente JUGURTA ROSA MONTALVÃO FILHO. 2022. Universid",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "Freire, E. . Banca de progressão para acesso a classe E/Titular do docente JUGURTA ROSA MONTALVÃO FILHO. 2022. Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2013,
+          "titulo": "; FREIRE, E. O. ; LEITE, J. A. F.. Concurso Público de Provas e Títulos para Professor Efetivo do Departamento de Engenh",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; FREIRE, E. O. ; LEITE, J. A. F.. Concurso Público de Provas e Títulos para Professor Efetivo do Departamento de Engenharia Elétrica - Edital 003/2013. 2013. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2012,
+          "titulo": "SOTOMAYOR, O. A. Z.; FREIRE, E. O. ; . Banca Examinadora de Processo seletivo simplificado para contratação de professor",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "SOTOMAYOR, O. A. Z.; FREIRE, E. O. ; . Banca Examinadora de Processo seletivo simplificado para contratação de professor temporário para o Departamento de Engenharia Elétrica (Edital 021/2012) na Matéria de Ensino Automação e Controle. 2012. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2010,
+          "titulo": "GONÇALVEZ, L. M. G.; FREIRE, E. O. ; SIEBRA, C.. Concurso Público de Provas e Títulos para o Cargo de Professor Adjunto ",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "GONÇALVEZ, L. M. G.; FREIRE, E. O. ; SIEBRA, C.. Concurso Público de Provas e Títulos para o Cargo de Professor Adjunto do Departamento de Informática, na área de Automação e Sistemas Dinâmicos. 2010. Universidade Federal da Paraíba."
+        },
+        {
+          "ano": 2009,
+          "titulo": "FREIRE, E. O. ; BOTELHO, S. S. C.; GONCALVES, E. M. N.. Concurso Público de Provas e Títulos para o Cargo de Professor A",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "FREIRE, E. O. ; BOTELHO, S. S. C.; GONCALVES, E. M. N.. Concurso Público de Provas e Títulos para o Cargo de Professor Adjunto do Departamento de Engenharia da Computação, na área de Robótica. 2009. Universidade Federal do Rio Grande do Norte."
+        },
+        {
+          "ano": 2006,
+          "titulo": "; OLIVEIRA, L. P. B.; . Concurso Público para Professor Adjunto para o Departamento de Física. 2006. Universidade Federa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; OLIVEIRA, L. P. B.; . Concurso Público para Professor Adjunto para o Departamento de Física. 2006. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2005,
+          "titulo": "; FONTES, A. B.; LEITE, J. A. F.. Banca Examinadora de Concurso Público para Professor Adjunto do Departamento de Física",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; FONTES, A. B.; LEITE, J. A. F.. Banca Examinadora de Concurso Público para Professor Adjunto do Departamento de Física (Edital No 56/2004). 2005. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2005,
+          "titulo": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Visitante do Departa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Visitante do Departamento de Física (Edital No 57/2004). 2005. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2005,
+          "titulo": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Visitante do Departa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Visitante do Departamento de Física (Edital No 27/2005). 2005. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2004,
+          "titulo": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Depart",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Departamento de Física. 2004. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2004,
+          "titulo": "; LEITE, J. A. F.; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Depart",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; LEITE, J. A. F.; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Departamento de Física. 2004. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2004,
+          "titulo": "; LEITE, J. A. F.; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Depart",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; LEITE, J. A. F.; SILVA, V. A.. Banca Examinadora de Processo Seletivo Simplificado para Professor Substituto do Departamento de Física. 2004. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2004,
+          "titulo": "LEITE, J. A. F.; FONTES, A. B.; . Banca Examinadora de Concurso Público para Professor Adjunto do Departamento de Física",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LEITE, J. A. F.; FONTES, A. B.; . Banca Examinadora de Concurso Público para Professor Adjunto do Departamento de Física (Edital No 02/2004). 2004. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2003,
+          "titulo": "; SANTANA, E. G.; MENEZES, M.. Banca examinadora para seleção de professor substituto para as matérias de Física A e Fís",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; SANTANA, E. G.; MENEZES, M.. Banca examinadora para seleção de professor substituto para as matérias de Física A e Física Básica do Departamento de Física da Universidade Federal de Sergipe. 2003. Universidade Federal de Sergipe."
+        },
+        {
+          "ano": 2003,
+          "titulo": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora deProcesso Seletivo Simplificado para Professor Substituto do Departa",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "LEITE, J. A. F.; ; SILVA, V. A.. Banca Examinadora deProcesso Seletivo Simplificado para Professor Substituto do Departamento de Física. 2003. Universidade Federal de Sergipe."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2003,
+          "titulo": ". Consultor Ad-Hoc da Fundação de Amparo à Pesquisa do Estado de Sergipe. 2003. Fundação de Amparo à Pesquisa de Sergipe",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Consultor Ad-Hoc da Fundação de Amparo à Pesquisa do Estado de Sergipe. 2003. Fundação de Amparo à Pesquisa de Sergipe."
+        }
+      ]
+    }
+  ]
+}

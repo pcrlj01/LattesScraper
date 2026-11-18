@@ -1,0 +1,86 @@
+{
+  "name": "Eduardo Valmir de Souza",
+  "lattes_id": "0044379500572862",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Bidirectional Dual Active Clamping Push-pull Dc-dc Converter",
+          "autores": "SOUZA, EDUARDO ; WALTRICH, GIERRI ; Barbi, Ivo",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 21, p. 322-331, 2016.",
+          "doi": "http://dx.doi.org/10.18618/rep.2016.4.2640",
+          "citacao_completa": "SOUZA, EDUARDO ; WALTRICH, GIERRI ; Barbi, Ivo . Bidirectional Dual Active Clamping Push-pull Dc-dc Converter. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 21, p. 322-331, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Conversor CC-CC Bidirecional Flyback-Push-Pull",
+          "autores": "SOUZA, E. V. ; BARBI, I.",
+          "periodico": "Eletrônica de Potência (Impresso) , v. 20, p. 195, 2015.",
+          "doi": "",
+          "citacao_completa": "SOUZA, E. V. ; BARBI, I. . Conversor CC-CC Bidirecional Flyback-Push-Pull. Eletrônica de Potência (Impresso) , v. 20, p. 195, 2015."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Bidirectional Current-Fed Flyback-Push-Pull DC-DC Converter",
+          "autores": "DE SOUZA, EDUARDO VALMIR ; Barbi, Ivo",
+          "periodico": "In: 2011 Brazilian Power Electronics Conference (COBEP 2011), 2011, Natal. XI Brazilian Power Electronics Conference. p. 8.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2011.6085171",
+          "citacao_completa": "DE SOUZA, EDUARDO VALMIR ; Barbi, Ivo . Bidirectional Current-Fed Flyback-Push-Pull DC-DC Converter. In: 2011 Brazilian Power Electronics Conference (COBEP 2011), 2011, Natal. XI Brazilian Power Electronics Conference. p. 8."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Bidirectional Current-Fed Flyback-Push-Pull DC-DC",
+          "autores": "Ivo Barbi ; SOUZA, E. V.",
+          "periodico": "2011. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "Ivo Barbi ; SOUZA, E. V. . Bidirectional Current-Fed Flyback-Push-Pull DC-DC. 2011. (Apresentação de Trabalho/Congresso)."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "Controle coordenado de conversores cc-cc com saídas conectadas em paralelo voltado ao processamento de energia fotovoltaico",
+          "membros": "HAUSMANN, R.; SOUZA, E. V. ; KIRSTEN, A. L.; HELDWEIN, M. L.",
+          "candidato": "Frederico Costa dos Santos",
+          "citacao_completa": "HAUSMANN, R.; SOUZA, E. V. ; KIRSTEN, A. L.; HELDWEIN, M. L.. Participação em banca de Frederico Costa dos Santos. Controle coordenado de conversores cc-cc com saídas conectadas em paralelo voltado ao processamento de energia fotovoltaico. 2017. Dissertação (Mestrado em Programa de Pós-graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2014,
+          "titulo": ".Estudo e comparação de métodos de anti-ilhamento para sistemas de geração solar fotovoltaica conectados à rede elétrica",
+          "membros": "COELHO, R. F.; MARTINS, D. C.; LAZZARIN, T. B.; SOUZA, E. V.",
+          "candidato": "Frederico Brandt Torres",
+          "citacao_completa": "COELHO, R. F.; MARTINS, D. C.; LAZZARIN, T. B.; SOUZA, E. V. . Participação em banca de Frederico Brandt Torres.Estudo e comparação de métodos de anti-ilhamento para sistemas de geração solar fotovoltaica conectados à rede elétrica. 2014. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2012,
+          "titulo": ".Análise experimental para levantamento dos parâmetros da máquina síncrona de imã permanente",
+          "membros": "SOUZA, E. V. ; HELDWEIN, M. L.; PERIN, A. J.",
+          "candidato": "Anderson da Silva",
+          "citacao_completa": "SOUZA, E. V. ; HELDWEIN, M. L.; PERIN, A. J.. Participação em banca de Anderson da Silva.Análise experimental para levantamento dos parâmetros da máquina síncrona de imã permanente. 2012. Trabalho de Conclusão de Curso (Graduação em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    }
+  ]
+}

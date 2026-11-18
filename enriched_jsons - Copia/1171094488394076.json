@@ -1,0 +1,62 @@
+{
+  "name": "Francisco Muller Machado",
+  "lattes_id": "1171094488394076",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "An optimized ECG android system using data compression scheme for cloud storage",
+          "autores": "BERTOGNA, EDUARDO GIOMETTI ; MACHADO, FRANCISCO MULLER ; Sovierzoski, Miguel Antonio",
+          "periodico": "Health and Technology , v. 10, p. 1163-1171, 2020.",
+          "doi": "http://dx.doi.org/10.1007/s12553-020-00464-z",
+          "citacao_completa": "BERTOGNA, EDUARDO GIOMETTI ; MACHADO, FRANCISCO MULLER ; Sovierzoski, Miguel Antonio . An optimized ECG android system using data compression scheme for cloud storage. Health and Technology , v. 10, p. 1163-1171, 2020."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Uma Abordagem para Transmissão de Sinal Cardíaco através de Bluetooth e Servidor em Nuvem",
+          "autores": "MACHADO, FRANCISCO MULLER ; BERTOGNA, E. G. ; SOVIERZOWSKI, M. A.",
+          "periodico": "Journal of Health Informatics , v. 8sup.I, p. 819-828, 2016.",
+          "doi": "",
+          "citacao_completa": "MACHADO, FRANCISCO MULLER ; BERTOGNA, E. G. ; SOVIERZOWSKI, M. A. . Uma Abordagem para Transmissão de Sinal Cardíaco através de Bluetooth e Servidor em Nuvem. Journal of Health Informatics , v. 8sup.I, p. 819-828, 2016."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2017,
+          "titulo": "An IoT Approach to an ECG Online Monitor System in an Android Application",
+          "autores": "MACHADO, F. M. ; BERTOGNA, E. G. ; Sovierzoski, M. A.",
+          "periodico": "In: VII Latin American Congress on Biomedical Engineering CLAIB 2016. (Org.). IFMBE Proceedings. 1ed.Bucaramanga, Santander: Springer Singapore, 2017, v. 60, p. 237-240.",
+          "doi": "http://dx.doi.org/10.1007/978-981-10-4086-3_60",
+          "citacao_completa": "MACHADO, F. M. ; BERTOGNA, E. G. ; Sovierzoski, M. A. . An IoT Approach to an ECG Online Monitor System in an Android Application. In: VII Latin American Congress on Biomedical Engineering CLAIB 2016. (Org.). IFMBE Proceedings. 1ed.Bucaramanga, Santander: Springer Singapore, 2017, v. 60, p. 237-240."
+        },
+        {
+          "ano": 2016,
+          "titulo": "An mHealth Remote Monitor System Approach Applied to MCC Using ECG Signal in an Android Application",
+          "autores": "MACHADO, FRANCISCO MULLER ; Ferreira, Marlon Silva ; Sovierzoski, Miguel Antonio",
+          "periodico": "In: WorldCist. (Org.). Advances in Intelligent Systems and Computing. 1ed.: Springer International Publishing, 2016, v. 2, p. 43-49.",
+          "doi": "http://dx.doi.org/10.1007/978-3-319-31307-8_5",
+          "citacao_completa": "MACHADO, FRANCISCO MULLER ; Ferreira, Marlon Silva ; Sovierzoski, Miguel Antonio . An mHealth Remote Monitor System Approach Applied to MCC Using ECG Signal in an Android Application. In: WorldCist. (Org.). Advances in Intelligent Systems and Computing. 1ed.: Springer International Publishing, 2016, v. 2, p. 43-49."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2015,
+          "titulo": ".ECG Wirelss",
+          "membros": "BORBA, G. B.; FARIA, R.; MACHADO, FRANCISCO MULLER",
+          "candidato": "Alexis Miyaoka Garcia",
+          "citacao_completa": "BORBA, G. B.; FARIA, R.; MACHADO, FRANCISCO MULLER . Participação em banca de Alexis Miyaoka Garcia.ECG Wirelss. 2015. Trabalho de Conclusão de Curso (Graduação em Eletrônica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    }
+  ]
+}

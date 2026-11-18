@@ -1,0 +1,192 @@
+{
+  "name": "Bruno Bertoldi",
+  "lattes_id": "1432655257272483",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Thermal Characterization of Magnetic Components in Still Air",
+          "autores": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; DE SOUSA, GEAN JACQUES MAIA ; BARBOSA, JADER RISO ; HELDWEIN, MARCELO LOBO",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 38, p. 7459-7470, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2023.3253076",
+          "citacao_completa": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; DE SOUSA, GEAN JACQUES MAIA ; BARBOSA, JADER RISO ; HELDWEIN, MARCELO LOBO . Thermal Characterization of Magnetic Components in Still Air. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 38, p. 7459-7470, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Thermal Network Models for Toroidal and E-Core Inductors in Still Air",
+          "autores": "MILITÃO, LUCAS ANDRADE ; BERTOLDI, BRUNO ; FURLAN, ANDRÉ GIOVANI LEAL ; HELDWEIN, MARCELO LOBO ; RISO BARBOSA, JADER",
+          "periodico": "IEEE Transactions on Power Electronics , v. 38, p. 15879-15892, 2023.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2023.3317144",
+          "citacao_completa": "MILITÃO, LUCAS ANDRADE ; BERTOLDI, BRUNO ; FURLAN, ANDRÉ GIOVANI LEAL ; HELDWEIN, MARCELO LOBO ; RISO BARBOSA, JADER . Thermal Network Models for Toroidal and E-Core Inductors in Still Air. IEEE Transactions on Power Electronics , v. 38, p. 15879-15892, 2023."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Design of a smart LED lamp to monitor insect populations in an integrated pest management approach",
+          "autores": "CARVALHO, MAICON W. M. DE ; HICKEL, EDUARDO R. ; BERTOLDI, BRUNO ; KNABBEN, GUSTAVO C. ; NOVAES, YALES R. DE",
+          "periodico": "Revista Brasileira de Engenharia Agricola e Ambiental , v. 25, p. 270-276, 2021.",
+          "doi": "http://dx.doi.org/10.1590/1807-1929/agriambi.v25n4p270-276",
+          "citacao_completa": "CARVALHO, MAICON W. M. DE ; HICKEL, EDUARDO R. ; BERTOLDI, BRUNO ; KNABBEN, GUSTAVO C. ; NOVAES, YALES R. DE . Design of a smart LED lamp to monitor insect populations in an integrated pest management approach. Revista Brasileira de Engenharia Agricola e Ambiental , v. 25, p. 270-276, 2021."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Sonne - inovação tecnológica para aplicação no manejo integrado de pragas",
+          "autores": "KNABBEN, GUSTAVO CARLOS ; CARVALHO, MAICON WILLIAM MACHADO ; BERTOLDI, BRUNO ; NOVAES, YALES RÔMULO ; HICKEL, EDUARDO RODRIGUES ; HINZ, ROBERT HARI",
+          "periodico": "AGROPECUÁRIA CATARINENSE , v. 32, p. 41-44, 2019.",
+          "doi": "http://dx.doi.org/10.22491/rac.2019.v32n1.3",
+          "citacao_completa": "KNABBEN, GUSTAVO CARLOS ; CARVALHO, MAICON WILLIAM MACHADO ; BERTOLDI, BRUNO ; NOVAES, YALES RÔMULO ; HICKEL, EDUARDO RODRIGUES ; HINZ, ROBERT HARI . Sonne - inovação tecnológica para aplicação no manejo integrado de pragas. AGROPECUÁRIA CATARINENSE , v. 32, p. 41-44, 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Attractiveness of light-emitting diodes (LEDs) of different wavelengths to the South American rice water weevil",
+          "autores": "HICKEL, EDUARDO RODRIGUES ; KNABBEN, GUSTAVO CARLOS ; ZOTTO, DÉBORA DAL ; CARVALHO, MAICON WILLIAM MACHADO ; BERTOLDI, BRUNO ; NOVAES, YALES RÔMULO",
+          "periodico": "ARQUIVOS DO INSTITUTO BIOLÓGICO (ONLINE) , v. 85, p. 1-6, 2018.",
+          "doi": "http://dx.doi.org/10.1590/1808-1657000382016",
+          "citacao_completa": "HICKEL, EDUARDO RODRIGUES ; KNABBEN, GUSTAVO CARLOS ; ZOTTO, DÉBORA DAL ; CARVALHO, MAICON WILLIAM MACHADO ; BERTOLDI, BRUNO ; NOVAES, YALES RÔMULO . Attractiveness of light-emitting diodes (LEDs) of different wavelengths to the South American rice water weevil. ARQUIVOS DO INSTITUTO BIOLÓGICO (ONLINE) , v. 85, p. 1-6, 2018."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Modeling and Control of a Quasi-Resonant DC-DC Converter for Thin-Film PV Module Integration",
+          "autores": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; MARTINS, DENIZAR CRUZ ; COELHO, ROBERTO FRANCISCO ; SCHMITZ, LENON",
+          "periodico": "In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/cobep66423.2025.11231682",
+          "citacao_completa": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; MARTINS, DENIZAR CRUZ ; COELHO, ROBERTO FRANCISCO ; SCHMITZ, LENON . Modeling and Control of a Quasi-Resonant DC-DC Converter for Thin-Film PV Module Integration. In: 2025 Brazilian Power Electronics Conference (COBEP), 2025, Vitoria. 2025 Brazilian Power Electronics Conference (COBEP), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Analytic iGSE Solution for Core Loss Calculation in Single-Phase VSI or Totem-Pole PFC for Hysteresis Control",
+          "autores": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; COELHO, ROBERTO FRANCISCO ; SCHMITZ, LENON",
+          "periodico": "In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ecce58356.2025.11260249",
+          "citacao_completa": "ORIGE, MATEUS CONSTANTINO ; BERTOLDI, BRUNO ; COELHO, ROBERTO FRANCISCO ; SCHMITZ, LENON . Analytic iGSE Solution for Core Loss Calculation in Single-Phase VSI or Totem-Pole PFC for Hysteresis Control. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Optimal Interphase Transformer Design Applied to an Interleaved Vienna Rectifier",
+          "autores": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; ORTMANN, MARCIO SILVEIRA ; HELDWEIN, MARCELO LOBO",
+          "periodico": "In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/ecce58356.2025.11260334",
+          "citacao_completa": "BERTOLDI, BRUNO ; MILITÃO, LUCAS ANDRADE ; ORTMANN, MARCIO SILVEIRA ; HELDWEIN, MARCELO LOBO . Optimal Interphase Transformer Design Applied to an Interleaved Vienna Rectifier. In: 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025, Philadelphia. 2025 IEEE Energy Conversion Conference Congress and Exposition (ECCE), 2025. p. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Variable-step DFT Algorithm to Speed Up Optimization Routines Applied to a Three-Phase Interleaved Vienna Rectifier",
+          "autores": "BERTOLDI, B. ; GRABOVSKI, E. F. C. ; LANGE, A. B. ; HELDWEIN, M. L.",
+          "periodico": "In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/cobep/spec44138.2019.9065893",
+          "citacao_completa": "BERTOLDI, B. ; GRABOVSKI, E. F. C. ; LANGE, A. B. ; HELDWEIN, M. L. . Variable-step DFT Algorithm to Speed Up Optimization Routines Applied to a Three-Phase Interleaved Vienna Rectifier. In: 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019, Santos. 2019 IEEE 15th Brazilian Power Electronics Conference and 5th IEEE Southern Power Electronics Conference (COBEP/SPEC), 2019. p. 1."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Non-Ideal SEPIC DCM Modeling for LED Lighting Applications",
+          "autores": "BERTOLDI, BRUNO ; JUNIOR, MARCIO MOURA BRIDON ; DALLRASTA, MATHEUS SCHRAMM ; MOCELLINI, MARCOS PAULO ; MATEO DANIEL ROIG, GREIDANUS ; KIRSTEN, ANDRE LUIS ; HELDWEIN, MARCELO LOBO",
+          "periodico": "In: 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018, Singapore. 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/spec.2018.8635896",
+          "citacao_completa": "BERTOLDI, BRUNO ; JUNIOR, MARCIO MOURA BRIDON ; DALLRASTA, MATHEUS SCHRAMM ; MOCELLINI, MARCOS PAULO ; MATEO DANIEL ROIG, GREIDANUS ; KIRSTEN, ANDRE LUIS ; HELDWEIN, MARCELO LOBO . A Non-Ideal SEPIC DCM Modeling for LED Lighting Applications. In: 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018, Singapore. 2018 IEEE 4th Southern Power Electronics Conference (SPEC), 2018. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Desenvolvimento de protótipos pelos alunos das fases iniciais da graduação como forma de amenizar o problema de evasão",
+          "autores": "SPONCHIADO, G. G. ; DEVIGILI, A. S. ; BERTOLDI, B. ; TEIXEIRA, J. R. ; LEAL, A. B.",
+          "periodico": "In: XLIII Congresso Brasileiro de Educação em Engenharia, 2015, São Bernardo do Campo. XLIII Congresso Brasileiro de Educação em Engenharia, 2015.",
+          "doi": "",
+          "citacao_completa": "SPONCHIADO, G. G. ; DEVIGILI, A. S. ; BERTOLDI, B. ; TEIXEIRA, J. R. ; LEAL, A. B. . Desenvolvimento de protótipos pelos alunos das fases iniciais da graduação como forma de amenizar o problema de evasão. In: XLIII Congresso Brasileiro de Educação em Engenharia, 2015, São Bernardo do Campo. XLIII Congresso Brasileiro de Educação em Engenharia, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A influência da estrutura organizacional nas relações tutoriais de um grupo PET",
+          "autores": "NASCIMENTO, G. ; BERTOLDI, B. ; DEVIGILI, A. S. ; DOBRIKOPF, A. G. ; TEIXEIRA, J. R. ; FLORENCIO, J. L. ; PEDRINI, R. ; CASARA, V. P. ; LEAL, A. B.",
+          "periodico": "In: ENAPET - Encontro Nacional dos Grupos PET, 2014, Santa Maria. ENAPET - Encontro Nacional dos Grupos PET, 2014.",
+          "doi": "",
+          "citacao_completa": "NASCIMENTO, G. ; BERTOLDI, B. ; DEVIGILI, A. S. ; DOBRIKOPF, A. G. ; TEIXEIRA, J. R. ; FLORENCIO, J. L. ; PEDRINI, R. ; CASARA, V. P. ; LEAL, A. B. . A influência da estrutura organizacional nas relações tutoriais de um grupo PET. In: ENAPET - Encontro Nacional dos Grupos PET, 2014, Santa Maria. ENAPET - Encontro Nacional dos Grupos PET, 2014."
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Variable-step DFT Algorithm to Speed Up Optimization Routines Applied to a Three-Phase Interleaved Vienna Rectifier",
+          "autores": "BERTOLDI, B. ; GRABOVSKI, E. F. C. ; LANGE, A. B. ; HELDWEIN, MARCELO LOBO",
+          "periodico": "2019. (Apresentação de Trabalho/Congresso).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. ; GRABOVSKI, E. F. C. ; LANGE, A. B. ; HELDWEIN, MARCELO LOBO . Variable-step DFT Algorithm to Speed Up Optimization Routines Applied to a Three-Phase Interleaved Vienna Rectifier. 2019. (Apresentação de Trabalho/Congresso)."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Sistema Supervisório Aplicado em Conversores",
+          "autores": "BERTOLDI, B.",
+          "periodico": "2016. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. . Sistema Supervisório Aplicado em Conversores. 2016. (Apresentação de Trabalho/Seminário)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "SONNE - Sistema de Gerenciamento, Conversão e Armazenamento de Energia Solar Fotovoltaica para Aplicação em Armadilha Luminosa com LEDs",
+          "autores": "BERTOLDI, B. ; CARVALHO, M.",
+          "periodico": "2015. (Apresentação de Trabalho/Seminário).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. ; CARVALHO, M. . SONNE - Sistema de Gerenciamento, Conversão e Armazenamento de Energia Solar Fotovoltaica para Aplicação em Armadilha Luminosa com LEDs. 2015. (Apresentação de Trabalho/Seminário)."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Sun Power - Controladores de Carga de Alta Eficiência (Sinapse)",
+          "autores": "CARVALHO, M. ; BERTOLDI, B. ; KNABBEN, G. C. ; STEIN, F. G. ; LODI, B.",
+          "periodico": "2016.",
+          "doi": "",
+          "citacao_completa": "CARVALHO, M. ; BERTOLDI, B. ; KNABBEN, G. C. ; STEIN, F. G. ; LODI, B. . Sun Power - Controladores de Carga de Alta Eficiência (Sinapse). 2016."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2016,
+          "titulo": "Sistema Supervisório Aplicado em Conversores",
+          "autores": "BERTOLDI, B. ; KNABBEN, G. C. ; NEGRI, G. H. ; NOVAES, Y. R. ; LEAL, A. B. ; CARVALHO, M. W. M.",
+          "periodico": "2016. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. ; KNABBEN, G. C. ; NEGRI, G. H. ; NOVAES, Y. R. ; LEAL, A. B. ; CARVALHO, M. W. M. . Sistema Supervisório Aplicado em Conversores. 2016. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Oficina de Engenharia Elétrica",
+          "autores": "FERGUTZ, M. ; BERTOLDI, B. ; NASCIMENTO, G.",
+          "periodico": "2015. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "FERGUTZ, M. ; BERTOLDI, B. ; NASCIMENTO, G. . Oficina de Engenharia Elétrica. 2015. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Proteus",
+          "autores": "BERTOLDI, B. ; BECKER, L.",
+          "periodico": "2015. (Curso de curta duração ministrado/Especialização).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. ; BECKER, L. . Proteus. 2015. (Curso de curta duração ministrado/Especialização)."
+        },
+        {
+          "ano": 2015,
+          "titulo": "SONNE - Sistema de gerenciamento, conversão e armazenamento de energia solar fotovoltaica para aplicação em armadilha luminosa com LEDs",
+          "autores": "BERTOLDI, B. ; CARVALHO, M. W. M. ; NOVAES, Y. R. ; OLIVEIRA, S. V. G. ; STEIN, F. G.",
+          "periodico": "2015. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "BERTOLDI, B. ; CARVALHO, M. W. M. ; NOVAES, Y. R. ; OLIVEIRA, S. V. G. ; STEIN, F. G. . SONNE - Sistema de gerenciamento, conversão e armazenamento de energia solar fotovoltaica para aplicação em armadilha luminosa com LEDs. 2015. (Relatório de pesquisa)."
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

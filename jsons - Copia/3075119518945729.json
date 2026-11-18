@@ -1,0 +1,493 @@
+{
+  "name": "Ohara Kerusauskas Rayel",
+  "lattes_id": "3075119518945729",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "; ; ; RAYEL, O. K. ; . Deep Learning for Bluetooth Low Energy Indoor Positioning: A Comparative Analysis of Fingerprinting Accuracy and Generalization to Unseen Locations. IEEE Access , v. 14, p. 10395-10405, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2026.3654369"
+        },
+        {
+          "texto": "; ; ; ; RAYEL, O. K. ; ; . Pose Recognition System Using Bluetooth Low Energy and Machine Learning Techniques. IEEE Internet of Things Journal , v. 13, p. 16815-16830, 2026.",
+          "ano": 2026,
+          "doi": "http://dx.doi.org/10.1109/JIOT.2026.3660732"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; ; ; . AoA and RSSI-Based BLE Indoor Positioning System with Kalman Filter and Data Fusion. IEEE Internet of Things Journal , v. 12, p. 15348-15359, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/JIOT.2025.3530866"
+        },
+        {
+          "texto": "; ; ; ; ; RAYEL, OHARA KERUSAUSKAS ; . Deep Learning for Real-Time PPE Usage Monitoring Using Wearable IMU Sensors. IEEE Access , v. 13, p. 82492-82502, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3567871"
+        },
+        {
+          "texto": "; ; RAYEL, OHARA KERUSAUSKAS ; . Controlling AoA Estimation Errors in Rician Fading via Measurement Quality Classification. IEEE Access , v. 13, p. 107377-107385, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/ACCESS.2025.3580273"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; ; ; ; . A Comprehensive BLE-Compliant Dataset for Indoor Positioning Systems. Ieee Open Journal Of The Communications Society , v. 6, p. 10171-10190, 2025.",
+          "ano": 2025,
+          "doi": "http://dx.doi.org/10.1109/OJCOMS.2025.3640550"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; . Weighted-Centroid localization using LoRaWAN network on large outdoor areas. Internet Technology Letters , p. 1-6, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1002/itl2.367"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; . Improving Bluetooth Mesh Energy Ef-ciency Using Clustering. Journal of Communication and Information Systems (JCIS), , v. 36, p. 156-165, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.14209/jcis.2021.17"
+        },
+        {
+          "texto": "; ; ; ; RAYEL, OHARA KERUSAUSKAS ; . LoRaWAN vs. 6TiSCH: Which one scales better?. COMPUTER COMMUNICATIONS , v. 184, p. 1-11, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1016/j.comcom.2021.12.004"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; ; . Towards Improving TSCH Energy Efficiency: An Analytical Approach to a Practical Implementation. SENSORS , v. 20, p. 6047, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.3390/s20216047"
+        },
+        {
+          "texto": "; ; RAYEL, O. K. ; . Energy-Efficiency of Selective Relaying in a MIMO Network-Coded Cooperative System. IEEE Access , v. 8, p. 92322-92331, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/access.2020.2994937"
+        },
+        {
+          "texto": "; ; RAYEL, OHARA KERUSAUSKAS ; ; ONIRETI, OLUWAKAYODE ; IMRAN, MUHAMMAD ALI . Energy Efficiency of Multiple Antenna Cellular Networks Considering a Realistic Power Consumption Model. IEEE Transactions on Green Communications and Networking , v. 3, p. 1-1, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/tgcn.2018.2868505"
+        },
+        {
+          "texto": "; ; ; ; RAYEL, OHARA K. ; . On the performance of two-user full-duplex network-coded cooperation. INTERNATIONAL JOURNAL OF COMMUNICATION SYSTEMS , v. 32, p. e3931, 2019.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1002/dac.3931"
+        },
+        {
+          "texto": "; ; ; ; RAYEL, O. K. . Outage performance of a network coding aided multi-user cooperative secondary network. Transactions on Emerging Telecommunications Technologies , v. 28, p. e2943, 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1002/ett.2943"
+        },
+        {
+          "texto": "RAYEL, OHARA KERUSAUSKAS ; ; ; ; IMRAN, MUHAMMAD ALI . Energy Efficiency-Spectral Efficiency Trade-Off of Transmit Antenna Selection. IEEE Transactions on Communications (Print) , v. 62, p. 4293-4303, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/TCOMM.2014.2364040"
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; ; . Energy Efficiency of Network Coded Cooperative Communications in Nakagami-m Fading. IEEE Signal Processing Letters , v. 20, p. 960-963, 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/LSP.2013.2276438"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "RAYEL, OHARA KERUSAUSKAS ; ; ; ; . Energy Efficiency of Nonbinary Network-Coded Cooperation. In: Muhammad Zeeshan Shakir; Muhammad Ali Imran; Khalid A. Qaraqe; Mohamed-Slim Alouini; Athanasios V. Vasilakos. (Org.). Studies in Systems, Decision and Control. 1ed.: Springer International Publishing, 2016, v. 50, p. 169-188.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1007/978-3-319-27568-0_8"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; ; ; RAYEL, O. K. ; ; ; . Indoor Positioning System via Bluetooth Low Energy and mmWave Radar Sensor Fusion. In: 2026 XLIV Simpósio Brasileiro de Telecomunicações (SBrT), 2026, Salvador. To appear in the Proceedings of the 2026 XLIV Simpósio Brasileiro de Telecomunicações (SBrT), 2026.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "; KERUSAUSKAS RAYEL, OHARA ; . Hybrid Indoor Localization System Combining Multilateration and Fingerprinting. In: IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022, Brussels. IECON 2022 &#45; 48th Annual Conference of the IEEE Industrial Electronics Society, 2022. p. 1.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/IECON49645.2022.9968816"
+        },
+        {
+          "texto": "; RAYEL, OHARA KERUSAUSKAS ; . Low-Cost Indoor Localization System Combining Multilateration and Kalman Filter. In: 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), 2021, Kyoto. 2021 IEEE 30th International Symposium on Industrial Electronics (ISIE), 2021. p. 1.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1109/ISIE45552.2021.9576353"
+        },
+        {
+          "texto": "; RAYEL, OHARA KERUSAUSKAS ; ; . Kalman Filtering-Aided Hybrid Indoor Positioning System With Fingerprinting And Multilateration. In: 2020 IEEE 91st Vehicular Technology Conference (VTC2020Spring), 2020, Antwerp. 2020 IEEE 91st Vehicular Technology Conference (VTC2020-Spring), 2020. p. 1.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1109/VTC2020-Spring48590.2020.9129422"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; . Revisão do Estado da Arte em Desenvolvimento de Mapa do Potencial Eólico de Regiões Urbanas. In: 2020 VIII Congresso Brasileiro de Energia Solar (CBENS), 2020, Fortaleza. Anais do 2020 VIII Congresso Brasileiro de Energia Solar (CBENS), 2020.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. ; . Metodologia para Elaboração de Mapa de Potencial Eólico de Regiões Metropolitanas. In: 2020 XII Congresso Brasileiro de Planejamento Energético (CBPE), 2020, Online. Anais do 2020 XII Congresso Brasileiro de Planejamento Energético (CBPE), 2020. p. 1-12.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, OHARA K. ; . Wind Data Forecast using Artificial Neural Networks. In: 2019 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019, Doha. 2019 2nd International Conference on Smart Grid and Renewable Energy (SGRE), 2019. p. 1.",
+          "ano": 2019,
+          "doi": "http://dx.doi.org/10.1109/SGRE46976.2019.9020669"
+        },
+        {
+          "texto": "; ; ; ONIRETI, O. ; RAYEL, O. K. . On the Area Energy Efficiency of Multiple Transmit Antenna Small Base Stations. In: 2017 IEEE Global Communications Conference (GLOBECOM), 2017, Singapore. 2017 IEEE Global Communications Conference (GLOBECOM), 2017.",
+          "ano": 2017,
+          "doi": "http://dx.doi.org/10.1109/GLOCOM.2017.8254204"
+        },
+        {
+          "texto": "; ; ; RAYEL, OHARA K. ; ; . Secrecy outage probability of network-coded cooperation without channel state information. In: 2015 International Symposium on Wireless Communication Systems, 2015, Brussels. 2015 International Symposium on Wireless Communication Systems (ISWCS). p. 696-700.",
+          "ano": 2015,
+          "doi": "http://dx.doi.org/10.1109/ISWCS.2015.7454438"
+        },
+        {
+          "texto": "; RAYEL, O. K. ; ; . Cognitive Radio System with a Two-User Non-Binary Network-Coded Cooperative Secondary Network. In: 2014 22nd European Signal Processing Conference (EUSIPCO), 2014, Lisboa. 2014 22nd European Signal Processing Conference (EUSIPCO), 2014. p. 845-849.",
+          "ano": 2014,
+          "doi": ""
+        },
+        {
+          "texto": "; RAYEL, OHARA K. ; ; . Network-coded cooperation for a two-user wiretap channel. In: ICASSP 2014 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2014, Florence. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). p. 5691-5714.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1109/ICASSP.2014.6854693"
+        },
+        {
+          "texto": "RAYEL, OHARA KERUSAUSKAS ; ; ; . Network Coding for Cooperative MIMO Vehicular Ad-Hoc Networks. In: 2013 IEEE 78th Vehicular Technology Conference (VTC Fall), 2013, Las Vegas. 2013 IEEE 78th Vehicular Technology Conference (VTC Fall). p. 1-5.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.1109/VTCFall.2013.6692301"
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Cooperação com Codificação de Rede Aplicada a Redes Veiculares MIMO com Enlaces Assimétricos. In: 2013 XXXI Simpósio Brasileiro de Telecomunicações (SBrT), 2013, Fortaleza. 2013 XXXI Simpósio Brasileiro de Telecomunicações (SBrT), 2013.",
+          "ano": 2013,
+          "doi": "http://dx.doi.org/10.14209/SBRT.2013.142"
+        },
+        {
+          "texto": "RAYEL, OHARA ; ; ; ; . On the energy efficiency of feedback-assisted network coding in multiuser cooperative systems. In: 2012 IEEE 23rd International Symposium on Personal, Indoor and Mobile Radio Communications (PIMRC 2012), 2012, Sydney. 2012 IEEE 23rd International Symposium on Personal, Indoor and Mobile Radio Communications - (PIMRC). p. 66-70.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/PIMRC.2012.6682729"
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Análise da Eficiência Energética de Sistemas Cooperativos com Codificação de Rede. In: 2012 XXX Simpósio Brasileiro de Telecomunicações (SBrT), 2012, Brasília. 2012 XXX Simpósio Brasileiro de Telecomunicações (SBrT), 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.14209/SBRT.2012.163"
+        }
+      ]
+    },
+    {
+      "name": "Resumos expandidos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Implementação da transformada rápida de Fourier em lógica reconfigurável a partir da linguagem VHDL. In: X Seminário de Iniciação Científica e Tecnológica do CEFET-PR, 2005, Curitiba. Anais do 10. Seminário de Iniciação Científica e Tecnológica / Centro Federal de Educação Tecnológica do Paraná. Curitiba: Editora CEFET-PR, 2005. v. 1. p. 181-184.",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "; ; RAYEL, O. K. ; ; ONIRETI, O. ; IMRAN, M. A. . On the Area Energy Efficiency of Multiple Transmit Antenna Small Base Stations. 2017. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; RAYEL, O. K. ; ; . Secrecy Outage Probability of Network-Coded Cooperation without Channel State Information. 2015. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Network Coding for Cooperative MIMO Vehicular Ad-Hoc Networks. 2013. (Apresentação de Trabalho/Conferência ou palestra).",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Análise da Eficiência Energética de Sistemas Cooperativos com Codificação de Rede. 2012. (Apresentação de Trabalho/Simpósio).",
+          "ano": 2012,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Implementação da transformada rápida de Fourier em lógica reconfigurável a partir da linguagem VHDL. 2005. (Apresentação de Trabalho/Seminário).",
+          "ano": 2005,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "items": [
+        {
+          "texto": "RAYEL, O. K. . Rastreador Pessoal/Comunicador Satelital. 2010.",
+          "ano": 2010,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. . Rastreador de Veículos. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. . PScope - Osciloscópio Digital USB. 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "items": [
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Jayme de Queiroz. Sistema de Rastreamento de Humanos para Ambientes Fechados Utilizando Fusão de Sensores Triangulação Bluetooth Low Energy e Radar de Ondas Milimétricas. 2026. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2026,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; . Participação em banca de Andrey Fabris. Sistema de Posicionamento em Ambientes Internos baseado em Bluetooth Low Energy com uso de Filtragem Estocástica e Fusão de Sensores. 2025. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; RAYEL, O. K. ; . Participação em banca de Luiz Eduardo Hupalo. Physical Layer Network Slicing for eMBB and mMTC with Distributed Power Allocation. 2023. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de João Luís Verdegay De Barros. Análise de Desempenho de Redes Sem Fio de Baixo Consumo Energético por Meio de Simuladores de Eventos Discretos. 2023. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Guilherme Pazetto Telles. Algoritmos de Localização em Ambientes Externos Aplicando Rede LoRaWAN. 2022. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2022,
+          "doi": ""
+        },
+        {
+          "texto": "GONCALVES, J. A. C.; ; ; RAYEL, O. K. . Participação em banca de Leonardo Sestrem de Oliveira. Practical Implementation of a Hybrid Indoor Localization System. 2021. Dissertação (Mestrado em Engenharia Industrial Ramo: Engenharia Eletrotécnica) - Instituto Politécnico de Bragança.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Angela Cristina Eyng. Sistema Híbrido de Localização para Ambientes Internos Assistido por Filtro de Kalman e Fusão de Vetores de Estado. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; . Participação em banca de Bruna Juliane Vieira. Metodologia para Elaboração de Mapa de Potencial Eólico de Regiões Metropolitanas. 2020. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Elço João dos Santos Junior. Wireless RAN slicing for 5G physical layer with max-matching diversity channel allocation and hybrid multiple access. 2020. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Marcos Antônio de Sordi. Otimização da Eficiência Energética em Redes operando com TSCH: Avaliação Analítica de uma Implementação Prática. 2019. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Erich Arnon Heilmann. Otimização de Parâmetros para Minimização do Consumo de Energia em Redes de Sensores Sem Fio com Restrições de Atraso e Confiabilidade. 2018. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; . Participação em banca de Marcio Nassif Maluf. Modelagem comportamental de amplificadores de potência de radiofrequência usando série de Volterra com dimensão reduzida e truncamentos independentes. 2018. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Daniel Hayashida Simão. Análise do Consumo Energético em Redes Subaquáticas utilizando Códigos Fontanais. 2017. Dissertação (Mestrado em Sistemas de Energia) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Thiago Henrique Ton. Comunicação Cooperativa com Codificação de Rede e Alocação de Subportadoras. 2017. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Jamil de Araujo Farhat. Eficiência Energética e Throughput Seguros em Decode-and-Forward Seletivo com Alocação de Potência Distribuída. 2015. Dissertação (Mestrado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "items": [
+        {
+          "texto": "; ; ; RAYEL, O. K. ; . Participação em banca de Marco Antônio Chiodi Junior. Eficiência Energética de Seleção de Relays em um Sistema Cooperativo MIMO com Codificação de Rede. 2021. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; RAYEL, O. K. . Participação em banca de Hermano Pereira. Métrica de Roteamento para prolongar o Tempo de Operação de Redes de Baixa Potência com Perdas. 2020. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; ; . Participação em banca de Eduardo Alves Hodgson. Compensando a perda de Eficiência Espectral da Transferência Sem Fio de Energia por Rádio Frequência com Codificação Analógica Conjunta Fonte-Canal. 2017. Tese (Doutorado em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "items": [
+        {
+          "texto": "; ; . Participação em banca de Marco Antônio Chiodi Júnior. Eficiência Energética de Seleção de Relays em um Sistema Cooperativo MIMO com Codificação de Rede. 2019. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Zaqueu Cabral Pereira. Análise da Eficiência Energética de Redes Cooperativas em Ambientes Subaquáticos utilizando Codificação de Rede. 2016. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Eduardo Alves Hodgson. Transferência Sem Fio de Energia e Informação com Codificação Analógica. 2015. Exame de qualificação (Doutorando em Engenharia Elétrica e Informática Industrial) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "items": [
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Lucca Klassen.Sensor virtual para bateria de veículos pesados. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Guilherme Agner Rodrigues Ribeiro e Julio H. Moro Balarini.Avaliação de Acurácia de Localização em Redes LoRa com base em RSSI E TDoA através de Simulações Computacionais. 2025. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2025,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Carlos Eduardo Mazurkivic Graciano e Gabriela Dalpiaz Kobren.BluEase: Dispositivo para melhoria da Acessibilidade e Mobilidade Urbana de Pessoas com Deficiência Visual. 2024. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2024,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; RAYEL, O. K. . Participação em banca de Claudio Vinicius Ohara Soares e Guilherme Neotti.Disposito indicador da máxima linearidade na polarização de LEDs para uso em VLC. 2023. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2023,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Caio Gerwandsznajder N. Silva e Kaique Luttierre Gonçalves.Controle de um Pêndulo Invertido sujeito a erros de comunicação. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de César Augusto M. R. de Assis e Leonardo Camelo Casagrande.Análise Comparativa de Algoritmos de Busca de Máxima Potência em Sistemas de Geração Distribuída. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "; ; RAYEL, O. K. . Participação em banca de Daniel Bruce Lane e Viviane Klassen de Oliveira.Controlador de Fluxo e Temperatura para Cultivo de Células. 2021. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2021,
+          "doi": ""
+        },
+        {
+          "texto": "RAYEL, O. K. ; ; ; . Participação em banca de Ana Carolina Burlan Correa.Medidor de Umidade de Grãos com Interface de Usuário utilizando Protocolos de Comunicação para Internet das Coisas. 2020. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2020,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Geovana Gomes Machado, Marcel Shunji Aoki e Rafael Nogara.Redes de Sensores Sem Fio para Controle de Irrigação. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Aline Policarpo e Gracielle Silvério de Lima.Implementação de filtros digitais utilizando Raspberry Pi e Matlab/Simulink. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Rafael Hiroaki Marques Tanaka.Plataforma de carro elétrico em escala reduzida para estudo e desenvolvimento de controles eletrônicos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Ana C. R. dos Santos, Igor de S. Morimatsu e Vinicius Guizo.Dispositivo com monitoramento remoto que libera comprimidos aos idosos. 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Alexandre Calado de Oliveira.Sistema microcontrolado para análise e monitoramento de emissão de gases tóxicos utilizando protocolo IEEE 802.15.4 (ZigBee). 2019. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2019,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Douglas Tubiana, Guilherme Grosskreutz e Patrick de Souza.Controle de Iluminação Residencial com fita de LED endereçável: Utilizando um aplicativo de Smartphone. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Eduardo Rosso Diniz e Thiago Bisetto Zortea.Sistema supervisório para gerenciamento de consumo de energia elétrica em uma residência. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Bruno T. M. Capaverde, Ivan L. Batista e Matheus K. da Rosa.Rede de Sensores Sem Fio Aplicada à Meteorologia Florestal. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Lucas Camargo de Jesus Correia.Avaliação de Eficiência Energética Residencial utilizando Internet das Coisas. 2018. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2018,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Caio C. Pellegrim, Leticia B. Proença e Victor E. de Jesus.Panela com controle de temperatura para etapa de brassagem na fabricação de cerveja artesanal. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Bruno Barbaroto.Estudo de Caso para Enlace de Comunicação via Rádio. 2017. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; . Participação em banca de Gustavo C. de Lyra, Thiago E. da Silva e Vinicius A. Marcis.Sistema regenerativo de energia para veículos elétricos. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Aluizio Andreatta Junior e Rafael Dittert Pelizzaro.Desenvolvimento de um equipamento para refrigeração de latas. 2016. Trabalho de Conclusão de Curso (Graduação em Engenharia de Controle e Automação) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2016,
+          "doi": ""
+        },
+        {
+          "texto": "; ; ; . Participação em banca de Breno Mendes Ferreira.Utilização de radiofrequência para telemetria de motores automotivos. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; . Participação em banca de Cleverson Santos, Heros Silva e Jardel de Carvalho.Desenvolvimento de um mecanismo de posicionamento de placas fotovoltaicas para rastreamento solar via Raspberry PI. 2015. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná.",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "items": [
+        {
+          "texto": "; ; ; ; . Comissão Julgadora do Concurso Público de Provas e Títulos para a Carreira do Magistério Superior, para a Classe de Professor Adjunto A, Regime de Trabalho: 20 horas semanais, Departamento de Engenharia Elétrica, Área de Conhecimento Eletrônica e Telecomunicações, Edital nº 200/17 - PROGEPE-UFPR.. 2017. Universidade Federal do Paraná.",
+          "ano": 2017,
+          "doi": ""
+        }
+      ]
+    }
+  ]
+}

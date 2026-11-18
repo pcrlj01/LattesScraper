@@ -1,0 +1,172 @@
+{
+  "name": "Daniele de Alcantara Barbosa",
+  "lattes_id": "2645332464470206",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "HONÓRIO, LEONARDO M. ; BARBOSA, DANIELE A. ; OLIVEIRA, EDIMAR J. ; GARCIA, PAULO A. NEPOMUCENO ; SANTOS, MURILLO F. . A multiple kernel classification approach based on a Quadratic Successive Geometric Segmentation methodology with a fault diagnosis case. ISA TRANSACTIONS , v. 74, p. 209-216, 2018.",
+          "ano": 2018,
+          "doi": "http://dx.doi.org/10.1016/j.isatra.2018.01.013"
+        },
+        {
+          "texto": "GASPAR VALENTE, WANDER ANTUNES ; DE MELLO HONÓRIO, LEONARDO ; ; DE ALCANTARA BARBOSA, DANIELE ; BOAS, ELIAS RAMOS VILAS . A Successive Geometric Segmentation Approach Applied to Double-Circuit Transmission Lines Fault Classification and Location. Journal of Control, Automation and Electrical Systems , v. 1, p. 1-11, 2016.",
+          "ano": 2016,
+          "doi": "http://dx.doi.org/10.1007/s40313-016-0252-4"
+        },
+        {
+          "texto": "DE MELLO HONÓRIO, LEONARDO ; ; DE ALCÂNTARA BARBOSA, DANIELE ; DE MORAES, CARLOS HENRIQUE VALÉRIO ; ALMEIDA, RODRIGO M. A. ; BOAS, ANA SOPHIA CAVALCANTI A. V. . Construction of Artificial Neural Networks for Pattern Recognition Using a Successive Geometric Segmentation Method. Journal of Control, Automation and Electrical Systems , v. 25, p. 319-329, 2014.",
+          "ano": 2014,
+          "doi": "http://dx.doi.org/10.1007/s40313-014-0119-5"
+        },
+        {
+          "texto": "; DA SILVA, ARMANDO M. LEITE ; BARBOSA, DANIELE A. . A Cluster and Gradient-Based Artificial Immune System Applied in Optimization Scenarios. IEEE Transactions on Evolutionary Computation , v. 16, p. 301-318, 2012.",
+          "ano": 2012,
+          "doi": "http://dx.doi.org/10.1109/tevc.2010.2044242"
+        },
+        {
+          "texto": "; ; BARBOSA, D. A. ; DELBONI, Luis Fernando . Solving optimal power flow problems using a probabilistic -constrained evolutionary approach. IET Generation, Transmission & Distribution (Print) , v. 4, p. 674, 2010.",
+          "ano": 2010,
+          "doi": "http://dx.doi.org/10.1049/iet-gtd.2009.0208"
+        },
+        {
+          "texto": "; BARBOSA, D. A. ; SOUZA, A. C. Z. ; LOPES, Cristina Videira . Intelligent Optimal Power Flow System Development Using Aspect-Oriented Modeling. IEEE Transactions on Power Systems , v. 22, p. 1826-1834, 2007.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2007.907539"
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "items": [
+        {
+          "texto": "; VERMAAS, L. L. G. ; JESUS, E. ; FREIRE, M. ; BARBOSA, D. A. . Intelligent Vehicle Survey and Applications. In: Germando Lambert-Torres; Jair Minoro Abe; João Inácio da Silva Filho; Helga Gonzaga Martins. (Org.). ADVANCES IN TECHNOLOGICAL APPLICATIONS OF LOGICAL AND INTELLIGENT SYSTEMS. : IOS PRESS, 2008, v. 186, p. 205-235.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "DE MELLO HONÓRIO, LEONARDO ; DA SILVA, ARMANDO M. LEITE ; BARBOSA, DANIELE A. . A Gradient-Based Artificial Immune System Applied to Optimal Power Flow Problems. Lecture Notes in Computer Science. 1ed.: Springer Berlin Heidelberg, 2007, v. , p. 1-12.",
+          "ano": 2007,
+          "doi": "http://dx.doi.org/10.1007/978-3-540-73922-7_1"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "; BOA, A. S. C. A. V. ; BARBOSA, D. A. ; MARCATO, A. L. M. . Desenvolvimento de um Veículo Subaquático Autônomo Para Supervisão Inteligente de Reservatórios. In: Simpósio Brasileiro de Automação Inteligente, 2013. Simpósio Brasileiro de Automação Inteligente, 2013.",
+          "ano": 2013,
+          "doi": ""
+        },
+        {
+          "texto": "VERMAAS, L. L. G. ; ; FREIRE, M. ; BARBOSA, D. A. . Learning Fuzzy Systems by a Co-Evolutionary Artificial-Immune-Based Algorithm. In: 8th International Workshop on Fuzzy Logic and Applications - WILF2009, 2009, Palermo. 8th International Workshop on Fuzzy Logic and Applications - WILF 2009, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. ; ; LOPES, Cristina Videira . Concepts of Aspect-Oriented Modeling Applied to Optimal Power Flow Problems.. In: International Conference on Intelligent System Applications to Power Systems, 2009, Curitiba. International Conference on Intelligent System Applications to Power Systems, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. ; ; . Lagrangian method based on population Applied to Optimal Power Flow Problems. In: International Conference on Intelligent System Applications to Power Systems, 2009, Curitiba. International Conference on Intelligent System Applications to Power Systems, 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. ; ; . Sistema Imunológico Artificial Orientado Via Gradiente para Problemas de Fluxo de Potência Ótimo. In: XVII CBA Congresso Brasileiro de Automática, 2008, Juiz de Fora. Anais do XVII CBA (artigo 40062), 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "; VERMAAS, L. L. G. ; FREIRE, M. ; BARBOSA, D. A. . Ajuste automático de regras Fuzzy para Estacionamento Paralelo utilizando Sistemas Imunológicos Artificiais. In: VI LAPTEC 2007 - Congress of Logic Applied to Technology, 2007, Santos. VI LAPTEC 2007 - Congress of Logic Applied to Technology, 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; Michael C A C Fleuri de ; BARBOSA, D. A. ; BASTOS, Guilherme de Sousa . Agentes Polimórficos Dinâmicos Inteligentes: Teoria e Técnicas de Implementação. In: XVI Congresso Brasileiro de Automática, 2006, Salvador. CBA2006, 2006. v. XVI. p. 2213-2218.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. ; LOPES, Cristina Videira . ANALISE E DESENVOLVIMENTO DO METODO PRIMAL- DUAL DE PONTOS INTERIORES APLICADO NA RESOLUÇÃO DO PROBLEMA DE FLUXO DE POTÊNCIA USANDO PROGRAMAÇÃO ORIENTADA A ASPECTOS. In: VII SBAI/II LARS - VII Simpósio Brasileiro de Automação Inteligente, 2005, São Luis. VII SBAI/II LARS - VII Simpósio Brasileiro de Automação Inteligente, 2005. v. 7. p. 2-4.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; LOPES, Cristina Videira ; BARBOSA, D. A. . Resolução de sistemas de Múltiplas Equações com AOP - Programação Orientada a Aspectos. In: Congresso Nacional de Tecnologia da Informação e Comunicação, 2005, Belo Horizonte. SUCESU 2005, 2005. v. 1.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. ; SOUZA, Luis Edival de . Sistema de Desenvolvimento de Lógica Fuzzy Orientado a Objetos. In: Congresso Nacional de Tecnologia da Informação, 2004, Florianopólis. SUCESU2004, 2004.",
+          "ano": 2004,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Programas de computador sem registro",
+      "items": [
+        {
+          "texto": "; BARBOSA, D. A. . Sistema de Aprendizado de Regras de Inferência Difusa através de Sistema Imunológico Artificial co-evolucionário. 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. . Sistema de Otimização de Problemas Não Lineares com restrições utilizando Sistema Imunológico Artificial Alfa-Relaxado. 2009.",
+          "ano": 2009,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. . Sistema de Análise de Fluxo Ótimo de Potência utilizando Orientação a Aspecto. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. ; Wellinton Dias ; . Sistema de Gerenciamento Fupai. 2007.",
+          "ano": 2007,
+          "doi": ""
+        },
+        {
+          "texto": "; BARBOSA, D. A. . Sistema de Desenvolvimento, Simulação e Execução de Lógica Difusa Orientada a Objeto.. 2005.",
+          "ano": 2005,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. ; ; Wellinton Dias . Sistema de Análise do Binômio RiscoxRetorno utilizando Lógica Fuzzy e AHP - UNIFEI / DUKE ENERGY. 2003.",
+          "ano": 2003,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "items": [
+        {
+          "texto": "BARBOSA, D. A. . Relatório CEMAT. 2008.",
+          "ano": 2008,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. . Relatório Visual Power Flow Tools. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. . Relatório Fupai. 2006.",
+          "ano": 2006,
+          "doi": ""
+        },
+        {
+          "texto": "BARBOSA, D. A. . Relatório Ánalise e Otimização de Redes Elétricas. 2006.",
+          "ano": 2006,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

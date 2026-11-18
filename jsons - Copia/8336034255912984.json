@@ -1,0 +1,87 @@
+{
+  "name": "Bruno Rocha Colonetti",
+  "lattes_id": "8336034255912984",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "items": [
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON ; BORGES PICARELLI, LUCAS . Hydrothermal Unit-Commitment Problem of a Large-Scale System with Representation of Forbidden Zones. Energies , v. 15, p. 39, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.3390/en15010039"
+        },
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON ; LARROYD, PAULO ; BELTRÁN, FELIPE . A novel cooperative multi-search benders decomposition for solving the hydrothermal unit-commitment problem. INTERNATIONAL JOURNAL OF ELECTRICAL POWER & ENERGY SYSTEMS , v. 134, p. 107390, 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1016/j.ijepes.2021.107390"
+        },
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON CRISTIAN . Stochastic hydrothermal unit commitment models via stabilized benders decomposition. ELECTRICAL ENGINEERING , v. 103, p. 2197-2211, 2021.",
+          "ano": 2021,
+          "doi": "http://dx.doi.org/10.1007/s00202-020-01206-0"
+        },
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON CRISTIAN ; DE OLIVEIRA, WELINGTON . A Mixed-Integer and Asynchronous Level Decomposition with Application to the Stochastic Hydrothermal Unit-Commitment Problem. Algorithms , v. 13, p. 235, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.3390/a13090235"
+        },
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON C. . Combining Lagrangian relaxation, benders decomposition, and the level bundle method in the stochastic hydrothermal unit-commitment problem. International Transactions on Electrical Energy Systems , v. 30, p. e12514, 2020.",
+          "ano": 2020,
+          "doi": "http://dx.doi.org/10.1002/2050-7038.12514"
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "items": [
+        {
+          "texto": "COLONETTI, B. R. ; ; CAMPOZANA, K. S. . MODEL FOR THE EVALUATION OF THE IMPACT OF ELECTRIC VEHICLE INTEGRATION ON THE ADEQUACY OF GENERATING SYSTEMS. In: Congresso Regional de Iniciação Científica e Tecnológica em Engenharia, 2016, Joinville. Anais do Congresso Regional de Iniciação Científica e Tecnológica em Engenharia. Bauru: Canal6, 2016. v. XXIII. p. 1-1.",
+          "ano": 2016,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Artigos aceitos para publicação",
+      "items": [
+        {
+          "texto": "COLONETTI, BRUNO ; FINARDI, ERLON ; BRITO, SAMUEL ; ZAVALA, VICTOR . Parallel Dual Dynamic Integer Programming for Large-Scale Hydrothermal Unit-Commitment. IEEE TRANSACTIONS ON POWER SYSTEMS , 2022.",
+          "ano": 2022,
+          "doi": "http://dx.doi.org/10.1109/tpwrs.2022.3187059"
+        }
+      ]
+    },
+    {
+      "name": "Apresentações de Trabalho",
+      "items": [
+        {
+          "texto": "; ; COLONETTI, B. R. . Design, Construction and Experimental Performance of a Chemisorption Chiller Driven by Hot Water. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "COLONETTI, B. R. ; ; . Análise de Transferência de Calor no Evaporador de um Chiller por Adsorção. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        },
+        {
+          "texto": "; ; COLONETTI, B. R. . Experimental performance of a chemisorption chiller driven by hot water with temperature up to 75 °C. 2015. (Apresentação de Trabalho/Congresso).",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "items": [
+        {
+          "texto": "COLONETTI, B. R. . Análise de transferência de calor na evaporação em um chiller por adsorção. 2015. (Relatório de pesquisa).",
+          "ano": 2015,
+          "doi": ""
+        }
+      ]
+    }
+  ],
+  "committees": []
+}

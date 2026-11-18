@@ -1,0 +1,1517 @@
+{
+  "name": "Eduardo Félix Ribeiro Romaneli",
+  "lattes_id": "1223078719595762",
+  "publications": [
+    {
+      "name": "Artigos completos publicados em periódicos",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Dual Input Interleaved Three-Phase Rectifier In Discontinuous Conduction Mode For Application In Small Wind Turbines",
+          "autores": "TODYS, GUILHERME M. ; CUSTÓDIO, LUÍS P. ; ; ASSEF, AMAURI A. ; GULES, ROGER ; BANDEIRA JR., DELVANEI G. ; ROMANELI, EDUARDO F. R. ; CORTEZ, DANIEL F.",
+          "periodico": "REVISTA ELETRÔNICA DE POTÊNCIA , v. 30, p. e202509, 2025.",
+          "doi": "http://dx.doi.org/10.18618/rep.e202509",
+          "citacao_completa": "TODYS, GUILHERME M. ; CUSTÓDIO, LUÍS P. ; ; ASSEF, AMAURI A. ; GULES, ROGER ; BANDEIRA JR., DELVANEI G. ; ROMANELI, EDUARDO F. R. ; CORTEZ, DANIEL F. . Dual Input Interleaved Three-Phase Rectifier In Discontinuous Conduction Mode For Application In Small Wind Turbines. REVISTA ELETRÔNICA DE POTÊNCIA , v. 30, p. e202509, 2025."
+        },
+        {
+          "ano": 2025,
+          "titulo": "Infrared Detection of Substation Objects Using the Visible Light Spectrum",
+          "autores": "GOMES, ANDREAS ANAEL PEREIRA ; ; GANACIM, FRANCISCO ; FERNANDES, LEONARDO GÖBEL ; POMBEIRO, ANSELMO ; BOBKO, NARA ; ROMANELI, E. F. R.",
+          "periodico": "BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 68, p. e25240843, 2025.",
+          "doi": "http://dx.doi.org/10.1590/1678-4324-2025240843",
+          "citacao_completa": "GOMES, ANDREAS ANAEL PEREIRA ; ; GANACIM, FRANCISCO ; FERNANDES, LEONARDO GÖBEL ; POMBEIRO, ANSELMO ; BOBKO, NARA ; ROMANELI, E. F. R. . Infrared Detection of Substation Objects Using the Visible Light Spectrum. BRAZILIAN ARCHIVES OF BIOLOGY AND TECHNOLOGY (ONLINE) , v. 68, p. e25240843, 2025."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A Semantically Annotated 15-Class Ground Truth Dataset for Substation Equipment to Train Semantic Segmentation Models",
+          "autores": "GOMES, ANDREAS ANAEL PEREIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; BOBKO, NARA ; FERNANDES, LEONARDO GÖBEL ; POMBEIRO, ANSELMO ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "Data , v. 8, p. 118, 2023.",
+          "doi": "http://dx.doi.org/10.3390/data8070118",
+          "citacao_completa": "GOMES, ANDREAS ANAEL PEREIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; BOBKO, NARA ; FERNANDES, LEONARDO GÖBEL ; POMBEIRO, ANSELMO ; Romaneli, Eduardo Félix Ribeiro . A Semantically Annotated 15-Class Ground Truth Dataset for Substation Equipment to Train Semantic Segmentation Models. Data , v. 8, p. 118, 2023."
+        },
+        {
+          "ano": 2023,
+          "titulo": "Impacts of Atmospheric and Load Conditions on the Power Substation Equipment Temperature Model",
+          "autores": "JUNIOR, OSNI SILVA ; CONINCK, JOSE CARLOS PEREIRA ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; POMBEIRO, ANSELMO ; FERNANDES, LEONARDO GÖBEL ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "Energies , v. 16, p. 4295, 2023.",
+          "doi": "http://dx.doi.org/10.3390/en16114295",
+          "citacao_completa": "JUNIOR, OSNI SILVA ; CONINCK, JOSE CARLOS PEREIRA ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; POMBEIRO, ANSELMO ; FERNANDES, LEONARDO GÖBEL ; Romaneli, Eduardo Félix Ribeiro . Impacts of Atmospheric and Load Conditions on the Power Substation Equipment Temperature Model. Energies , v. 16, p. 4295, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Current Sensorless MPPT With a CCM Interleaved Boost Converter for Renewable Energy System",
+          "autores": "TONOLO, EDWIN ; SOARES, JEFFERSON ; ROMANELI, EDUARDO ;",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 37, p. 11296-11304, 2022.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2022.3166747",
+          "citacao_completa": "TONOLO, EDWIN ; SOARES, JEFFERSON ; ROMANELI, EDUARDO ; . Current Sensorless MPPT With a CCM Interleaved Boost Converter for Renewable Energy System. IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 37, p. 11296-11304, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comparison of Traditional Image Segmentation Methods Applied to Thermograms of Power Substation Equipment",
+          "autores": "TAKEUCHI, RENAN DE OLIVEIRA ALVES ; ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; FERNANDES, LEONARDO GÖBEL ; Romaneli, Eduardo Félix Ribeiro ; JUNIOR, JAIR URBANETZ",
+          "periodico": "Energies , v. 15, p. 7477, 2022.",
+          "doi": "http://dx.doi.org/10.3390/en15207477",
+          "citacao_completa": "TAKEUCHI, RENAN DE OLIVEIRA ALVES ; ; MAGRIN, FABIANO GUSTAVO SILVEIRA ; GANACIM, FRANCISCO ITAMARATI SECOLO ; FERNANDES, LEONARDO GÖBEL ; Romaneli, Eduardo Félix Ribeiro ; JUNIOR, JAIR URBANETZ . Comparison of Traditional Image Segmentation Methods Applied to Thermograms of Power Substation Equipment. Energies , v. 15, p. 7477, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "System for acquisition and transmission of thermal images to monitor equipment of an electrical substation",
+          "autores": "SANSON NETO, ODAIR JOSÉ ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "The Journal of Engineering and Exact Sciences , v. 8, p. 14750-01e, 2022.",
+          "doi": "http://dx.doi.org/10.18540/jcecvl8iss7pp14750-01e",
+          "citacao_completa": "SANSON NETO, ODAIR JOSÉ ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro . System for acquisition and transmission of thermal images to monitor equipment of an electrical substation. The Journal of Engineering and Exact Sciences , v. 8, p. 14750-01e, 2022."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Transformerless UPS System Based on the Half-Bridge Hybrid Switched-Capacitor Operating as AC-DC and DC-DC Converter",
+          "autores": "; ; CORTEZ, DANIEL ; ; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-1, 2020.",
+          "doi": "http://dx.doi.org/10.1109/tie.2020.2970672",
+          "citacao_completa": "; ; CORTEZ, DANIEL ; ; ROMANELI, EDUARDO FELIX RIBEIRO ; . Transformerless UPS System Based on the Half-Bridge Hybrid Switched-Capacitor Operating as AC-DC and DC-DC Converter. IEEE TRANSACTIONS ON INDUSTRIAL ELECTRONICS , v. 1, p. 1-1, 2020."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Grid-Tie Single Phase Inverter Based on the Boost-Full-Bridge Converter With Active Reduction of the Low Frequency Input Current Ripple",
+          "autores": "CESAR MOURA FAE, JULIO ; GATI, VICTOR ; GULES, ROGER ; RIBEIRO FELIX ROMANELI, EDUARDO ; ANDRÉ BADIN, ALCEU ;",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 25, p. 1-12, 2020.",
+          "doi": "http://dx.doi.org/10.18618/rep.2020.4.0037",
+          "citacao_completa": "CESAR MOURA FAE, JULIO ; GATI, VICTOR ; GULES, ROGER ; RIBEIRO FELIX ROMANELI, EDUARDO ; ANDRÉ BADIN, ALCEU ; . Grid-Tie Single Phase Inverter Based on the Boost-Full-Bridge Converter With Active Reduction of the Low Frequency Input Current Ripple. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 25, p. 1-12, 2020."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Soft-Switching High Static Gain DC-DC Converter Without Auxiliary Switches",
+          "autores": "MEIER, MARTIN BREUS ; AVELINO DA SILVA, S. ; ; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "IEEE Transactions on Industrial Electronics , v. 65, p. 2335-2345, 2018.",
+          "doi": "http://dx.doi.org/10.1109/TIE.2017.2739684",
+          "citacao_completa": "MEIER, MARTIN BREUS ; AVELINO DA SILVA, S. ; ; ROMANELI, EDUARDO FELIX RIBEIRO ; . Soft-Switching High Static Gain DC-DC Converter Without Auxiliary Switches. IEEE Transactions on Industrial Electronics , v. 65, p. 2335-2345, 2018."
+        },
+        {
+          "ano": 2015,
+          "titulo": "High-Power-Factor Rectifier Using the Modified SEPIC Converter Operating in Discontinuous Conduction Mode",
+          "autores": "BIANCHIN, CARLOS GABRIEL ; ; ; RIBEIRO ROMANELI, EDUARDO FELIX",
+          "periodico": "IEEE Transactions on Power Electronics , v. 30, p. 4349-4364, 2015.",
+          "doi": "http://dx.doi.org/10.1109/TPEL.2014.2360172",
+          "citacao_completa": "BIANCHIN, CARLOS GABRIEL ; ; ; RIBEIRO ROMANELI, EDUARDO FELIX . High-Power-Factor Rectifier Using the Modified SEPIC Converter Operating in Discontinuous Conduction Mode. IEEE Transactions on Power Electronics , v. 30, p. 4349-4364, 2015."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A Three-phase Power-factor Correction Scheme Using An Autotransformer And Two Single-phase Buck Rectifiers",
+          "autores": "PINHEIRO, G. D. ; ; ; ROMANELI, E. F. R.",
+          "periodico": "ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 20, p. 85-93, 2015.",
+          "doi": "http://dx.doi.org/10.18618/REP.2015.1.085093",
+          "citacao_completa": "PINHEIRO, G. D. ; ; ; ROMANELI, E. F. R. . A Three-phase Power-factor Correction Scheme Using An Autotransformer And Two Single-phase Buck Rectifiers. ELETRÔNICA DE POTÊNCIA (IMPRESSO) , v. 20, p. 85-93, 2015."
+        },
+        {
+          "ano": 2014,
+          "titulo": "A MODIFIED SEPIC CONVERTER WITH HIGH STATIC GAIN FOR RENEWABLE APPLICATIONS",
+          "autores": "; DOS SANTOS, WALTER ; DOS REIS, FLAVIO ; FELIX, EDUARDO ; ; ROMANELI, RIBEIRO",
+          "periodico": "IEEE Transactions on Power Electronics , v. 29, p. 1-1, 2014.",
+          "doi": "http://dx.doi.org/10.1109/tpel.2013.2296053",
+          "citacao_completa": "; DOS SANTOS, WALTER ; DOS REIS, FLAVIO ; FELIX, EDUARDO ; ; ROMANELI, RIBEIRO . A MODIFIED SEPIC CONVERTER WITH HIGH STATIC GAIN FOR RENEWABLE APPLICATIONS. IEEE Transactions on Power Electronics , v. 29, p. 1-1, 2014."
+        },
+        {
+          "ano": 2012,
+          "titulo": "",
+          "autores": "; ; Romaneli, Eduardo Félix Ribeiro ; ;",
+          "periodico": "IEEE Transactions on Industrial Electronics (1982. Print) , v. 59, p. 1859-1868, 2012.",
+          "doi": "http://dx.doi.org/10.1109/TIE.2011.2126537",
+          "citacao_completa": "; ; Romaneli, Eduardo Félix Ribeiro ; ; . . IEEE Transactions on Industrial Electronics (1982. Print) , v. 59, p. 1859-1868, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Effects of Intense Physical Activity with Free Water Replacement on Bioimpedance Parameters and Body Fluid Estimates",
+          "autores": "NEVES, E B ; ULBRICHT, L ; KRUEGER, E ; ROMANELI, E F R ;",
+          "periodico": "Journal of Physics. Conference Series (Print) , v. 407, p. 012002-8, 2012.",
+          "doi": "http://dx.doi.org/10.1088/1742-6596/407/1/012002",
+          "citacao_completa": "NEVES, E B ; ULBRICHT, L ; KRUEGER, E ; ROMANELI, E F R ; . Effects of Intense Physical Activity with Free Water Replacement on Bioimpedance Parameters and Body Fluid Estimates. Journal of Physics. Conference Series (Print) , v. 407, p. 012002-8, 2012."
+        },
+        {
+          "ano": 2010,
+          "titulo": "",
+          "autores": "; ; ROMANELI, E. F. R. ;",
+          "periodico": "IEEE Transactions on Power Electronics , v. 25, p. 310-321, 2010.",
+          "doi": "http://dx.doi.org/10.1109/TPEL.2009.2027323",
+          "citacao_completa": "; ; ROMANELI, E. F. R. ; . . IEEE Transactions on Power Electronics , v. 25, p. 310-321, 2010."
+        },
+        {
+          "ano": 2008,
+          "titulo": "",
+          "autores": "Prudente, Marcos ; Pfitscher, Luciano L. ; Emmendoerfer, Gustavo ; Romaneli, Eduardo F. ;",
+          "periodico": "IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 23, p. 871-887, 2008.",
+          "doi": "http://dx.doi.org/10.1109/TPEL.2007.915762",
+          "citacao_completa": "Prudente, Marcos ; Pfitscher, Luciano L. ; Emmendoerfer, Gustavo ; Romaneli, Eduardo F. ; . . IEEE TRANSACTIONS ON POWER ELECTRONICS , v. 23, p. 871-887, 2008."
+        }
+      ]
+    },
+    {
+      "name": "Capítulos de livros publicados",
+      "citations": [
+        {
+          "ano": 2025,
+          "titulo": "Mathematical Modeling to Estimate Perfusion in Pressure Injuries",
+          "autores": "Voziniak, P. J. S. ; CONINCK, J. C. P. ; Romaneli, E. F. R. ;",
+          "periodico": "IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 702-710.",
+          "doi": "http://dx.doi.org/10.1007/978-3-031-94921-0_76",
+          "citacao_completa": "Voziniak, P. J. S. ; CONINCK, J. C. P. ; Romaneli, E. F. R. ; . Mathematical Modeling to Estimate Perfusion in Pressure Injuries. IFMBE Proceedings. 1ed.: Springer Nature Switzerland, 2025, v. , p. 702-710."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Prevalence of Work-related Musculoskeletal Disorders (WMSD) Symptoms among Milkers in the State of Paraná, Brazil",
+          "autores": "; E. F. R. Romaneli ; ; MALDANER, M. ;",
+          "periodico": "In: Editores: Pedro M. Arezes et al.. (Org.). Occupational Safety and Hygiene II. 1ed.London: CRC Press ? Taylor & F, 2014, v. 1, p. 1-1.",
+          "doi": "",
+          "citacao_completa": "; E. F. R. Romaneli ; ; MALDANER, M. ; . Prevalence of Work-related Musculoskeletal Disorders (WMSD) Symptoms among Milkers in the State of Paraná, Brazil. In: Editores: Pedro M. Arezes et al.. (Org.). Occupational Safety and Hygiene II. 1ed.London: CRC Press ? Taylor & F, 2014, v. 1, p. 1-1."
+        },
+        {
+          "ano": 2012,
+          "titulo": "GERAÇÃO DISTRIBUÍDA: A EXPERIÊNCIA DA UTFPR NO DESENVOLVIMENTO DE CONVERSORES ESTÁTICOS APLICADOS NA CONEXÃO DE MÓDULOS FOTOVOLTAICOS À REDE ELÉTRICA",
+          "autores": "ROMANELI, E. F. R. ; ;",
+          "periodico": "In: PEREIRA, Thulio C. G. (Org.). Dossiê de pesquisa: fontes renováveis de energia. 1ed.Curitiba: COPEL, 2012, v. , p. 27-.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; . GERAÇÃO DISTRIBUÍDA: A EXPERIÊNCIA DA UTFPR NO DESENVOLVIMENTO DE CONVERSORES ESTÁTICOS APLICADOS NA CONEXÃO DE MÓDULOS FOTOVOLTAICOS À REDE ELÉTRICA. In: PEREIRA, Thulio C. G. (Org.). Dossiê de pesquisa: fontes renováveis de energia. 1ed.Curitiba: COPEL, 2012, v. , p. 27-."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos completos publicados em anais de congressos",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Reconstrução Tridimensional de uma Subestação de Energia Elétrica para Localização de Equipamentos a Partir de Termogramas",
+          "autores": "; ; ; Bobko, N. ; ROMANELI, E.F.R",
+          "periodico": "In: Congresso Nacional de Matemática Aplicada e Computacional (CNMAC), 2023, Bonito MS. Anais do CNMAC 2023, 2023.",
+          "doi": "",
+          "citacao_completa": "; ; ; Bobko, N. ; ROMANELI, E.F.R . Reconstrução Tridimensional de uma Subestação de Energia Elétrica para Localização de Equipamentos a Partir de Termogramas. In: Congresso Nacional de Matemática Aplicada e Computacional (CNMAC), 2023, Bonito MS. Anais do CNMAC 2023, 2023."
+        },
+        {
+          "ano": 2022,
+          "titulo": "ANÁLISE DE MÉTODOS DE SEGMENTAÇÃO APLICADOS À IMAGENS TÉRMICAS DE EQUIPAMENTOS EM SUBESTAÇÕES DE ENERGIA",
+          "autores": "ANDRADE, ERICK JOSE TELES DE ; MAGRIN, FABIANO G. S. ; FERNANDES, LEONARDO GÖBEL ; ; Romaneli, Eduardo Félix Ribeiro ; GANACIM, FRANCISCO",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022.",
+          "doi": "http://dx.doi.org/10.29327/167942.3-248",
+          "citacao_completa": "ANDRADE, ERICK JOSE TELES DE ; MAGRIN, FABIANO G. S. ; FERNANDES, LEONARDO GÖBEL ; ; Romaneli, Eduardo Félix Ribeiro ; GANACIM, FRANCISCO . ANÁLISE DE MÉTODOS DE SEGMENTAÇÃO APLICADOS À IMAGENS TÉRMICAS DE EQUIPAMENTOS EM SUBESTAÇÕES DE ENERGIA. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SISTEMA DE AQUISIÇÃO E TRANSMISSÃO DE IMAGENS TERMOGRÁFICAS PARA MONITORAMENTO DE EQUIPAMENTOS DE UMA SUBESTAÇÃO DE ENERGIA",
+          "autores": "SANSON NETO, ODAIR JOSÉ ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022.",
+          "doi": "http://dx.doi.org/10.29327/167942.3-257",
+          "citacao_completa": "SANSON NETO, ODAIR JOSÉ ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro . SISTEMA DE AQUISIÇÃO E TRANSMISSÃO DE IMAGENS TERMOGRÁFICAS PARA MONITORAMENTO DE EQUIPAMENTOS DE UMA SUBESTAÇÃO DE ENERGIA. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "SISTEMA DE CONTROLE WEB PARA GERENCIAMENTO DE COLETAS AUTOMATIZADAS DE IMAGENS TERMOGRÁFICAS",
+          "autores": "SILVA, JOÃO PEDRO DA MATTA GALERA DA ; SOARES, JOÃO HENRIQUE CAMPOS ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022.",
+          "doi": "http://dx.doi.org/10.29327/167942.3-259",
+          "citacao_completa": "SILVA, JOÃO PEDRO DA MATTA GALERA DA ; SOARES, JOÃO HENRIQUE CAMPOS ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro . SISTEMA DE CONTROLE WEB PARA GERENCIAMENTO DE COLETAS AUTOMATIZADAS DE IMAGENS TERMOGRÁFICAS. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022."
+        },
+        {
+          "ano": 2022,
+          "titulo": "Comparativo de Pan-Tilts para Monitoramento Térmico de Ativos em Subestações de Energia",
+          "autores": "DÁRIO, MATHEUS FORTUNATO ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022.",
+          "doi": "http://dx.doi.org/10.29327/167942.3-260",
+          "citacao_completa": "DÁRIO, MATHEUS FORTUNATO ; FERNANDES, LEONARDO GÖBEL ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; Romaneli, Eduardo Félix Ribeiro . Comparativo de Pan-Tilts para Monitoramento Térmico de Ativos em Subestações de Energia. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2022, Online. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2022."
+        },
+        {
+          "ano": 2021,
+          "titulo": "Aplicação de Câmeras Termográficas para Monitoramento de Ativos em Subestações Elétricas",
+          "autores": "SILVA, JOÃO PEDRO DA MATTA GALERA DA ; DÁRIO, MATHEUS FORTUNATO ; ROMANELI, EDUARDO FELIX RIBEIRO ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; FERNANDES, LEONARDO GÖBEL",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021. v. 1. p. 1-6.",
+          "doi": "http://dx.doi.org/10.29327/143026.2-141",
+          "citacao_completa": "SILVA, JOÃO PEDRO DA MATTA GALERA DA ; DÁRIO, MATHEUS FORTUNATO ; ROMANELI, EDUARDO FELIX RIBEIRO ; BADIN, ALCEU ANDRÉ ; SANTOS, WINDERSON EUGENIO DOS ; FERNANDES, LEONARDO GÖBEL . Aplicação de Câmeras Termográficas para Monitoramento de Ativos em Subestações Elétricas. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2021,
+          "titulo": "ANÁLISE COMPARATIVA DO DESEMPENHO ESTIMADO DE MÓDULOS FOTOVOLTAICOS EM DIFERENTES CLIMAS BRASILEIROS NO ANO DE 2020.",
+          "autores": "SANTOS, FABIANO PEREIRA DOS ; ROMANELI, EDUARDO FELIX RIBEIRO ; TIEPOLO, GERSON MAXIMO",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021.",
+          "doi": "http://dx.doi.org/10.29327/143026.2-142",
+          "citacao_completa": "SANTOS, FABIANO PEREIRA DOS ; ROMANELI, EDUARDO FELIX RIBEIRO ; TIEPOLO, GERSON MAXIMO . ANÁLISE COMPARATIVA DO DESEMPENHO ESTIMADO DE MÓDULOS FOTOVOLTAICOS EM DIFERENTES CLIMAS BRASILEIROS NO ANO DE 2020.. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021."
+        },
+        {
+          "ano": 2021,
+          "titulo": "PROJETO E AQUISIÇÃO DE SFCR PARA MANAUS: ENTRAVES E DESAFIOS EM PERÍODO DE PANDEMIA.",
+          "autores": "SANTOS, FABIANO PEREIRA DOS ; ROMANELI, EDUARDO FELIX RIBEIRO ; TIEPOLO, GERSON MAXIMO ; FONTINELLE4, M.E ENG. CARLOS GOMES",
+          "periodico": "In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021.",
+          "doi": "http://dx.doi.org/10.29327/143026.2-143",
+          "citacao_completa": "SANTOS, FABIANO PEREIRA DOS ; ROMANELI, EDUARDO FELIX RIBEIRO ; TIEPOLO, GERSON MAXIMO ; FONTINELLE4, M.E ENG. CARLOS GOMES . PROJETO E AQUISIÇÃO DE SFCR PARA MANAUS: ENTRAVES E DESAFIOS EM PERÍODO DE PANDEMIA.. In: Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia, 2021, UFVJM. Anais do(a) Anais do Congresso Brasileiro Interdisciplinar em Ciência e Tecnologia. Recife: Even3, 2021."
+        },
+        {
+          "ano": 2020,
+          "titulo": "A Low Power Photovoltaic Water Pumping System based on a DC-DC Step-up Converter and Standard Frequency Converters",
+          "autores": "FEY, ALICE NOGUEIRA ; LEITE, VICENTE ; RIBEIRO ROMANELI, EDUARDO FELIX",
+          "periodico": "In: 2020 9th International Conference on Renewable Energy Research and Application (ICRERA), 2020, Glasgow. 2020 9th International Conference on Renewable Energy Research and Application (ICRERA). Glasgow: IEEE, 2020. v. 1. p. 138-143.",
+          "doi": "http://dx.doi.org/10.1109/ICRERA49962.2020.9242833",
+          "citacao_completa": "FEY, ALICE NOGUEIRA ; LEITE, VICENTE ; RIBEIRO ROMANELI, EDUARDO FELIX . A Low Power Photovoltaic Water Pumping System based on a DC-DC Step-up Converter and Standard Frequency Converters. In: 2020 9th International Conference on Renewable Energy Research and Application (ICRERA), 2020, Glasgow. 2020 9th International Conference on Renewable Energy Research and Application (ICRERA). Glasgow: IEEE, 2020. v. 1. p. 138-143."
+        },
+        {
+          "ano": 2020,
+          "titulo": "ESTUDO DE CONVERSORES THREE-PORT PARA APLICAÇÃO EM SISTEMAS FOTOVOLTAICOS COM BACKUP DE ENERGIA",
+          "autores": "RODRIGUES, M. A. ; CREMASCO, N. P. ; ROMANELI, E.F.R ; URBANETZ JR., J.",
+          "periodico": "In: VIII Congresso Brasileiro de Energia Solar ? CBENS, 2020, Fortaleza - CE. Anais do VIII Congresso Brasileiro de Energia Solar ? CBENS, 2020. v. 1.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, M. A. ; CREMASCO, N. P. ; ROMANELI, E.F.R ; URBANETZ JR., J. . ESTUDO DE CONVERSORES THREE-PORT PARA APLICAÇÃO EM SISTEMAS FOTOVOLTAICOS COM BACKUP DE ENERGIA. In: VIII Congresso Brasileiro de Energia Solar ? CBENS, 2020, Fortaleza - CE. Anais do VIII Congresso Brasileiro de Energia Solar ? CBENS, 2020. v. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Modos de Operação do inversor bidirecional aplicáveis ao Sistema Fotovoltaico Conectado a rede com armazenamento de Energia",
+          "autores": "RODRIGUES, M. A. ; ROMANELI, E.F.R ; URBANETZ JR., J.",
+          "periodico": "In: XII Congresso Brasileiro de Planejamento Energético - CBPE, 2020, On Line. Anais do XII Congresso Brasileiro de Planejamento Energético - CBPE, 2020. v. 1.",
+          "doi": "",
+          "citacao_completa": "RODRIGUES, M. A. ; ROMANELI, E.F.R ; URBANETZ JR., J. . Modos de Operação do inversor bidirecional aplicáveis ao Sistema Fotovoltaico Conectado a rede com armazenamento de Energia. In: XII Congresso Brasileiro de Planejamento Energético - CBPE, 2020, On Line. Anais do XII Congresso Brasileiro de Planejamento Energético - CBPE, 2020. v. 1."
+        },
+        {
+          "ano": 2020,
+          "titulo": "Rastreamento do ponto de máxima potência para o controle do retificador trifásico duplo boost intercalado em modo de condução descontínua com aplicação em gerador eólico de pequeno porte",
+          "autores": "CUSTODIO, L. P. ; ; ; ; ; ROMANELI, E.F.R",
+          "periodico": "In: XXIII Congresso Brasileiro de Automática (CBA 2020), 2020, Virtual. Anais do XXIII Congresso Brasileiro de Automática, 2020. v. 1.",
+          "doi": "",
+          "citacao_completa": "CUSTODIO, L. P. ; ; ; ; ; ROMANELI, E.F.R . Rastreamento do ponto de máxima potência para o controle do retificador trifásico duplo boost intercalado em modo de condução descontínua com aplicação em gerador eólico de pequeno porte. In: XXIII Congresso Brasileiro de Automática (CBA 2020), 2020, Virtual. Anais do XXIII Congresso Brasileiro de Automática, 2020. v. 1."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Thermal Asymmetries and Mean Foot Temperature",
+          "autores": "ZOLET, CERISE M. L. S. ; ; ROMANELI, EDUARDO F. R. ; NEVES, EDUARDO B.",
+          "periodico": "In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 2821.",
+          "doi": "http://dx.doi.org/10.1109/embc.2019.8857378",
+          "citacao_completa": "ZOLET, CERISE M. L. S. ; ; ROMANELI, EDUARDO F. R. ; NEVES, EDUARDO B. . Thermal Asymmetries and Mean Foot Temperature. In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 2821."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Using Thermography as Auxiliary Tool to Thyroid Cancer Diagnosis: a Case Study",
+          "autores": "CAMARGO, V. M. B. ; GAMBA, H. ; Romaneli, E. F. R. ;",
+          "periodico": "In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 5498.",
+          "doi": "http://dx.doi.org/10.1109/embc.2019.8856801",
+          "citacao_completa": "CAMARGO, V. M. B. ; GAMBA, H. ; Romaneli, E. F. R. ; . Using Thermography as Auxiliary Tool to Thyroid Cancer Diagnosis: a Case Study. In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 5498."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Attentional bias for emotional faces in depressed and non-depressed individuals: an eye-tracking study",
+          "autores": "FIGUEIREDO, G. R. ; Ripka, W. L. ; Romaneli, E. F. R. ;",
+          "periodico": "In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 5419.",
+          "doi": "http://dx.doi.org/10.1109/embc.2019.8857878",
+          "citacao_completa": "FIGUEIREDO, G. R. ; Ripka, W. L. ; Romaneli, E. F. R. ; . Attentional bias for emotional faces in depressed and non-depressed individuals: an eye-tracking study. In: 2019 41st Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC), 2019, Berlin. 2019 41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2019. p. 5419."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Comparison between thermal recovery in women with Raynaud?s Phenomenon and not diagnosed women using thermography",
+          "autores": "CAMPOS, M.F ; HEIMBECHER, C.T ; ROMANELI, E.F.R ; RIPKA, W.L ; ; STADINIK, A.M",
+          "periodico": "In: 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018, Honolulu. 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018. p. 3886.",
+          "doi": "http://dx.doi.org/10.1109/EMBC.2018.8513367",
+          "citacao_completa": "CAMPOS, M.F ; HEIMBECHER, C.T ; ROMANELI, E.F.R ; RIPKA, W.L ; ; STADINIK, A.M . Comparison between thermal recovery in women with Raynaud?s Phenomenon and not diagnosed women using thermography. In: 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018, Honolulu. 2018 40th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2018. p. 3886."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Performance Analysis of GEFS and GEVS AntiIslanding Methods for Three-Phase Grid Connected Photovoltaic Systems",
+          "autores": "ROMANELI, E.F.R ; ;",
+          "periodico": "In: INDUSCON, 2018, São Paulo - SP. Anais do INDUSCON, 2018.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2018.8627193",
+          "citacao_completa": "ROMANELI, E.F.R ; ; . Performance Analysis of GEFS and GEVS AntiIslanding Methods for Three-Phase Grid Connected Photovoltaic Systems. In: INDUSCON, 2018, São Paulo - SP. Anais do INDUSCON, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A UPS System Suitable for Noise-Sensitive Loads",
+          "autores": "ROMANELI, E.F.R ; ; ; AVILA, V. H.",
+          "periodico": "In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON 2018, 2018.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2018.8627208",
+          "citacao_completa": "ROMANELI, E.F.R ; ; ; AVILA, V. H. . A UPS System Suitable for Noise-Sensitive Loads. In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON 2018, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Desenvolvimento de um Inversor com Isolação em Alta Frequencia Aplicado a Sistemas Fotovoltaicos",
+          "autores": "ROMANELI, E.F.R ; ; ;",
+          "periodico": "In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E.F.R ; ; ; . Desenvolvimento de um Inversor com Isolação em Alta Frequencia Aplicado a Sistemas Fotovoltaicos. In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "A Switched-Capacitor Double Boost Converter for a Photovoltaic Application",
+          "autores": "; ROMANELI, E.F.R ; ;",
+          "periodico": "In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2018.8627214",
+          "citacao_completa": "; ROMANELI, E.F.R ; ; . A Switched-Capacitor Double Boost Converter for a Photovoltaic Application. In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Busca pelo ponto de máxima potência (PMP) de módulos fotovoltaicos empregando o método clássico P&O associado à Lógica Fuzzy",
+          "autores": "; ; ROMANELI, E.F.R ; ;",
+          "periodico": "In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018.",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E.F.R ; ; . Busca pelo ponto de máxima potência (PMP) de módulos fotovoltaicos empregando o método clássico P&O associado à Lógica Fuzzy. In: INDUSCON, 2018, São Paulo SP. Anais do INDUSCON, 2018."
+        },
+        {
+          "ano": 2016,
+          "titulo": "Design and implementation of an AC-AC \"uk converter",
+          "autores": "BENEDITO SIQUEIRA, RODOLFO ; VIEIRO, ELIS MARINA SANTOS ; ROMANELI, EDUARDO FELIX RIBEIRO",
+          "periodico": "In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2016.7874520",
+          "citacao_completa": "BENEDITO SIQUEIRA, RODOLFO ; VIEIRO, ELIS MARINA SANTOS ; ROMANELI, EDUARDO FELIX RIBEIRO . Design and implementation of an AC-AC \"uk converter. In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "A half-bridge doubler boost operating as AC-DC and DC-DC converter",
+          "autores": "; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2016.7874514",
+          "citacao_completa": "; ROMANELI, EDUARDO FELIX RIBEIRO ; . A half-bridge doubler boost operating as AC-DC and DC-DC converter. In: 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016, Curitiba. 2016 12th IEEE International Conference on Industry Applications (INDUSCON), 2016. p. 1."
+        },
+        {
+          "ano": 2016,
+          "titulo": "AVALIAÇÃO DA ANÁLISE DE COMPOSIÇÃO CORPORAL POR EQUAÇÕES BASEADAS EM DXA ENTRE ADOLESCENTES",
+          "autores": "BERALDO, L. M. ; GUIMARAES, I. A. ; Romaneli, E. F. R. ; ULBRICHT, L",
+          "periodico": "In: XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016, Foz do Iguaçu. Anais do CEBEB 2016, 2016.",
+          "doi": "",
+          "citacao_completa": "BERALDO, L. M. ; GUIMARAES, I. A. ; Romaneli, E. F. R. ; ULBRICHT, L . AVALIAÇÃO DA ANÁLISE DE COMPOSIÇÃO CORPORAL POR EQUAÇÕES BASEADAS EM DXA ENTRE ADOLESCENTES. In: XXV Congresso Brasileiro de Engenharia Biomédica (CBEB 2016), 2016, Foz do Iguaçu. Anais do CEBEB 2016, 2016."
+        },
+        {
+          "ano": 2015,
+          "titulo": "A high static gain CUK DC-DC converter",
+          "autores": "DE SOUZA, JEAN P. ; DE OLIVEIRA, PRISCILA ; ; ROMANELI, EDUARDO F. R. ;",
+          "periodico": "In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2015.7420064",
+          "citacao_completa": "DE SOUZA, JEAN P. ; DE OLIVEIRA, PRISCILA ; ; ROMANELI, EDUARDO F. R. ; . A high static gain CUK DC-DC converter. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "An isolated three-phase power-factor correction rectifier using an autotransformer and two single-phase single-stage rectifiers",
+          "autores": "DUARTE, JANDERSON ; ; ; ROMANELI, EDUARDO F. R.",
+          "periodico": "In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2015.7420069",
+          "citacao_completa": "DUARTE, JANDERSON ; ; ; ROMANELI, EDUARDO F. R. . An isolated three-phase power-factor correction rectifier using an autotransformer and two single-phase single-stage rectifiers. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2015,
+          "titulo": "Design and implementation of a high efficiency AC-AC Buck converter",
+          "autores": "; VIEIRA, ELIS M. ; POLASSE, JULIENE ; ROMANELI, EDUARDO F. R. ;",
+          "periodico": "In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2015.7420054",
+          "citacao_completa": "; VIEIRA, ELIS M. ; POLASSE, JULIENE ; ROMANELI, EDUARDO F. R. ; . Design and implementation of a high efficiency AC-AC Buck converter. In: 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015, Fortaleza. 2015 IEEE 13th Brazilian Power Electronics Conference and 1st Southern Power Electronics Conference (COBEP/SPEC), 2015. p. 1."
+        },
+        {
+          "ano": 2014,
+          "titulo": "Gestão Científica de Conhecimentos: Um Estudo Acerca da Formação e do Desenvolvimento Profissional de Professores",
+          "autores": "; BORGES, C. M. F. ; ; Romaneli, E.F.R.",
+          "periodico": "In: XXIV Jornadas Luso Espanholas de Gestão Científica, 2014, Leiria - Portugal. Anais XXIV Jornadas Luso Espanholas de Gestão Científica, 2014. v. 1. p. 1-18.",
+          "doi": "",
+          "citacao_completa": "; BORGES, C. M. F. ; ; Romaneli, E.F.R. . Gestão Científica de Conhecimentos: Um Estudo Acerca da Formação e do Desenvolvimento Profissional de Professores. In: XXIV Jornadas Luso Espanholas de Gestão Científica, 2014, Leiria - Portugal. Anais XXIV Jornadas Luso Espanholas de Gestão Científica, 2014. v. 1. p. 1-18."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Evaluation of Gastroesophageal Reflux in Infants Treated with Osteopathy Using the I-GERQ-R Questionnaire",
+          "autores": "; Romaneli, E. F. R. ; M. GEMELLI",
+          "periodico": "In: XIII Mediterranean Conference on Medical and Biological Engineering and Computing 2013, 2013, Sevilha, Espanha. IFMBE Proceedings, 2013. v. 41. p. 1067-1071.",
+          "doi": "",
+          "citacao_completa": "; Romaneli, E. F. R. ; M. GEMELLI . Evaluation of Gastroesophageal Reflux in Infants Treated with Osteopathy Using the I-GERQ-R Questionnaire. In: XIII Mediterranean Conference on Medical and Biological Engineering and Computing 2013, 2013, Sevilha, Espanha. IFMBE Proceedings, 2013. v. 41. p. 1067-1071."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Development of a new single phase high power factor rectifier with ZVS commutation and high frequency isolation",
+          "autores": "BERNARDO DE ALVARENGA, DANIEL ; MEIER, MARTIN BREUS ; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference. p. 7.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2013.6785088",
+          "citacao_completa": "BERNARDO DE ALVARENGA, DANIEL ; MEIER, MARTIN BREUS ; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ; . Development of a new single phase high power factor rectifier with ZVS commutation and high frequency isolation. In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference. p. 7."
+        },
+        {
+          "ano": 2013,
+          "titulo": "A three-phase power-factor correction scheme using an autotransformer and two single-phase Buck rectifiers",
+          "autores": "PINHEIRO, GEOVANE DUARTE ; ; ; ROMANELI, EDUARDO RIBEIRO FELIX",
+          "periodico": "In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference. p. 23.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2013.6785090",
+          "citacao_completa": "PINHEIRO, GEOVANE DUARTE ; ; ; ROMANELI, EDUARDO RIBEIRO FELIX . A three-phase power-factor correction scheme using an autotransformer and two single-phase Buck rectifiers. In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference. p. 23."
+        },
+        {
+          "ano": 2013,
+          "titulo": "Output power feedforward technique applied to a high power factor rectifier with high frequency transformer",
+          "autores": "GANACIM, JULIO CESAR SECOLO ; MEIER, MARTIN BREUS ; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference, 2013. p. 406-413.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2013.6785148",
+          "citacao_completa": "GANACIM, JULIO CESAR SECOLO ; MEIER, MARTIN BREUS ; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ; . Output power feedforward technique applied to a high power factor rectifier with high frequency transformer. In: 2013 Brazilian Power Electronics Conference (COBEP 2013), 2013, Gramado. 2013 Brazilian Power Electronics Conference, 2013. p. 406-413."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Biophotogrammetry model of respiratory motion analysis applied to children",
+          "autores": "; ; ; ; ; ROMANELI, E. F. R.",
+          "periodico": "In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012.",
+          "doi": "http://dx.doi.org/10.1109/EMBC.2012.6346448",
+          "citacao_completa": "; ; ; ; ; ROMANELI, E. F. R. . Biophotogrammetry model of respiratory motion analysis applied to children. In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Evaluation of pelvis slope and flattening on children gymnasts by biophotogrammetry technique",
+          "autores": "; ; ; ; ROMANELI, E. F. R.",
+          "periodico": "In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012.",
+          "doi": "http://dx.doi.org/10.1109/EMBC.2012.6346336",
+          "citacao_completa": "; ; ; ; ROMANELI, E. F. R. . Evaluation of pelvis slope and flattening on children gymnasts by biophotogrammetry technique. In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Comparison between body fat measurements obtained by portable ultrasound and caliper in young adults",
+          "autores": "; ; ; ROMANELI, E. F. R.",
+          "periodico": "In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012.",
+          "doi": "http://dx.doi.org/10.1109/EMBC.2012.6346337",
+          "citacao_completa": "; ; ; ROMANELI, E. F. R. . Comparison between body fat measurements obtained by portable ultrasound and caliper in young adults. In: 2012 34th Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC), 2012, San Diego. 2012 Annual International Conference of the IEEE Engineering in Medicine and Biology Society, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Geração Distribuída: Projeto e Implementação de Um Módulo CA baseado no Conversor PUSH-PULL Alimentado em Corrente Destinado ã Conexão de Painéis Fotovoltaicos à rede Elétrica",
+          "autores": "PEREIRA, J. S. ; Romaneli, E.F.R. ; ;",
+          "periodico": "In: XVII SICITE, 2012, Curitiba PR. Anais do XVII SICITE, 2012.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, J. S. ; Romaneli, E.F.R. ; ; . Geração Distribuída: Projeto e Implementação de Um Módulo CA baseado no Conversor PUSH-PULL Alimentado em Corrente Destinado ã Conexão de Painéis Fotovoltaicos à rede Elétrica. In: XVII SICITE, 2012, Curitiba PR. Anais do XVII SICITE, 2012."
+        },
+        {
+          "ano": 2012,
+          "titulo": "Development of parallel operation of UPS with variable virtual resistance and flexible communication",
+          "autores": "; ; EDUARDO FELIX RIBEIRO ROMANELI",
+          "periodico": "In: 2012 10th IEEE/IAS International Conference on Industry Applications INDUSCON 2012, 2012, Fortaleza. 2012 10th IEEE/IAS International Conference on Industry Applications, 2012. p. 1.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2012.6451436",
+          "citacao_completa": "; ; EDUARDO FELIX RIBEIRO ROMANELI . Development of parallel operation of UPS with variable virtual resistance and flexible communication. In: 2012 10th IEEE/IAS International Conference on Industry Applications INDUSCON 2012, 2012, Fortaleza. 2012 10th IEEE/IAS International Conference on Industry Applications, 2012. p. 1."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Distributed Generation: Design",
+          "autores": "; ; ROMANELI, E. F. R. ; ;",
+          "periodico": "And Implementation Of An Ac Module. Based On A Current Fed Push-pull Converter. For Connecting Photovoltaic Panels To. Eletric Grid. In: XI Congresso Brasileiro de Eletrônica de Potência - COBEP 2011, 2011, Natal - RN. Anais do XI Congresso Brasileiro de Eletrônica de Potência, 2011. p. 20-25.",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E. F. R. ; ; . Distributed Generation: Design. And Implementation Of An Ac Module. Based On A Current Fed Push-pull Converter. For Connecting Photovoltaic Panels To. Eletric Grid. In: XI Congresso Brasileiro de Eletrônica de Potência - COBEP 2011, 2011, Natal - RN. Anais do XI Congresso Brasileiro de Eletrônica de Potência, 2011. p. 20-25."
+        },
+        {
+          "ano": 2011,
+          "titulo": "A modified SEPIC converter with high static gain for renewable applications",
+          "autores": "; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ;",
+          "periodico": "In: 2011 Brazilian Power Electronics Conference (COBEP 2011), 2011, Natal. XI Brazilian Power Electronics Conference. p. 162-167.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2011.6085178",
+          "citacao_completa": "; ; ; ROMANELI, EDUARDO FELIX RIBEIRO ; . A modified SEPIC converter with high static gain for renewable applications. In: 2011 Brazilian Power Electronics Conference (COBEP 2011), 2011, Natal. XI Brazilian Power Electronics Conference. p. 162-167."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Projeto de um Módulo CA com Conversor Push-Pull Alimentado em Corrente",
+          "autores": "PEREIRA, J. S. ; Romaneli, E.F.R.",
+          "periodico": "In: XVI SICITE, 2011, Ponta Grossa PR. Anais do XVI SICITE, 2011.",
+          "doi": "",
+          "citacao_completa": "PEREIRA, J. S. ; Romaneli, E.F.R. . Projeto de um Módulo CA com Conversor Push-Pull Alimentado em Corrente. In: XVI SICITE, 2011, Ponta Grossa PR. Anais do XVI SICITE, 2011."
+        },
+        {
+          "ano": 2011,
+          "titulo": "Desenvolvimento de Controle Digital Para Nível Médio em Inversores Monofásicos senoidais Alimentando transformadores",
+          "autores": "SANTOS, A. H. ; Romaneli, E.F.R.",
+          "periodico": "In: XVI SICITE, 2011, Ponta Grossa PR. Anais do XVI SICITE, 2011.",
+          "doi": "",
+          "citacao_completa": "SANTOS, A. H. ; Romaneli, E.F.R. . Desenvolvimento de Controle Digital Para Nível Médio em Inversores Monofásicos senoidais Alimentando transformadores. In: XVI SICITE, 2011, Ponta Grossa PR. Anais do XVI SICITE, 2011."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Desenvolvimento de Algoritmo de Nível Médio de Tensão para Inversores Senoidais",
+          "autores": "ROMANELI, E. F. R. ; ; ; PIMENTEL, C. E. F.",
+          "periodico": "In: CBA 2010 - XVIII Congresso Brasileiro de Automática, 2010, Bonito MS. Anais do Congresso, 2010.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; ; PIMENTEL, C. E. F. . Desenvolvimento de Algoritmo de Nível Médio de Tensão para Inversores Senoidais. In: CBA 2010 - XVIII Congresso Brasileiro de Automática, 2010, Bonito MS. Anais do Congresso, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "SISTEMA REJEIÇÃO DE DISTÚRBIO E RASTREAMENTO H∞ E H2 DE APLICADO AO CONVERSOR CC-CC BOOST USANDO LMIS",
+          "autores": "; ; ROMANELI, E. F. R. ;",
+          "periodico": "In: CBA 2010 - XVIII Congresso Brasileiro de Automática, 2010, Bonito MS. Anais do Congresso, 2010.",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E. F. R. ; . SISTEMA REJEIÇÃO DE DISTÚRBIO E RASTREAMENTO H∞ E H2 DE APLICADO AO CONVERSOR CC-CC BOOST USANDO LMIS. In: CBA 2010 - XVIII Congresso Brasileiro de Automática, 2010, Bonito MS. Anais do Congresso, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "DESENVOLVIMENTO DE CONTROLE DE NÍVEL MÉDIO DE TENSÃO PARA INVERSORES SENOIDAIS",
+          "autores": "PIMENTEL, C. E. F. ; ; ROMANELI, E. F. R.",
+          "periodico": "In: SICITE 2010, 2010, Cornélio Procópio PR. Anais do Sicite, 2010.",
+          "doi": "",
+          "citacao_completa": "PIMENTEL, C. E. F. ; ; ROMANELI, E. F. R. . DESENVOLVIMENTO DE CONTROLE DE NÍVEL MÉDIO DE TENSÃO PARA INVERSORES SENOIDAIS. In: SICITE 2010, 2010, Cornélio Procópio PR. Anais do Sicite, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "FIRMWARE DE FILTRO ATIVO UNIVERSAL DE 3 BRAÇOS",
+          "autores": "RIBEIRO, M. V. C. ; ROMANELI, E. F. R.",
+          "periodico": "In: SICITE 2010, 2010, Cornélio Procópio PR. Anais do Sicite, 2010.",
+          "doi": "",
+          "citacao_completa": "RIBEIRO, M. V. C. ; ROMANELI, E. F. R. . FIRMWARE DE FILTRO ATIVO UNIVERSAL DE 3 BRAÇOS. In: SICITE 2010, 2010, Cornélio Procópio PR. Anais do Sicite, 2010."
+        },
+        {
+          "ano": 2010,
+          "titulo": "Development and implementation of a three phase active filter",
+          "autores": "; ; ; ROMANELI, EDUARDO FELIX RIBEIRO",
+          "periodico": "In: 2010 9th IEEE/IAS International Conference on Industry Applications INDUSCON 2010, 2010, Sao Paulo. 2010 9th IEEE/IAS International Conference on Industry Applications - INDUSCON 2010. v. 1. p. 1-6.",
+          "doi": "http://dx.doi.org/10.1109/INDUSCON.2010.5739967",
+          "citacao_completa": "; ; ; ROMANELI, EDUARDO FELIX RIBEIRO . Development and implementation of a three phase active filter. In: 2010 9th IEEE/IAS International Conference on Industry Applications INDUSCON 2010, 2010, Sao Paulo. 2010 9th IEEE/IAS International Conference on Industry Applications - INDUSCON 2010. v. 1. p. 1-6."
+        },
+        {
+          "ano": 2009,
+          "titulo": "A soft-switching universal-input voltage HPF rectifier implemented with a modified sepic converter",
+          "autores": "; ; ROMANELI, EDUARDO FELIX ;",
+          "periodico": "In: 2009 Brazilian Power Electronics Conference (COBEP), 2009, Bonito-Mato Grosso do Sul. 2009 Brazilian Power Electronics Conference. p. 948.",
+          "doi": "http://dx.doi.org/10.1109/COBEP.2009.5347768",
+          "citacao_completa": "; ; ROMANELI, EDUARDO FELIX ; . A soft-switching universal-input voltage HPF rectifier implemented with a modified sepic converter. In: 2009 Brazilian Power Electronics Conference (COBEP), 2009, Bonito-Mato Grosso do Sul. 2009 Brazilian Power Electronics Conference. p. 948."
+        },
+        {
+          "ano": 2009,
+          "titulo": "Geração Distribuida: Aplicação de Conversores Estáticos na Conexão de Painéis Fotovoltaicos à Rede Elétrica",
+          "autores": "; ROMANELI, E. F. R. ;",
+          "periodico": "In: 4o Congresso Internacional de Bioenergia, 2009, Curitiba PR. Anais do 4o Congresso Internacional de Bioenergia. Curitiba, 2009.",
+          "doi": "",
+          "citacao_completa": "; ROMANELI, E. F. R. ; . Geração Distribuida: Aplicação de Conversores Estáticos na Conexão de Painéis Fotovoltaicos à Rede Elétrica. In: 4o Congresso Internacional de Bioenergia, 2009, Curitiba PR. Anais do 4o Congresso Internacional de Bioenergia. Curitiba, 2009."
+        },
+        {
+          "ano": 2009,
+          "titulo": "HARDWARE DE FILTRO ATIVO UNIVERSAL DE 3 BRAÇOS",
+          "autores": "ROMANELI, E. F. R. ; GONCALVES, R. C.",
+          "periodico": "In: Seminário de Iniciação Científica e Tecnológica da UTFPR, 2009, Pato Branco-PR. Anais do Seminário de Iniciação Científica e Tecnológica da UTFPR, 2009.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; GONCALVES, R. C. . HARDWARE DE FILTRO ATIVO UNIVERSAL DE 3 BRAÇOS. In: Seminário de Iniciação Científica e Tecnológica da UTFPR, 2009, Pato Branco-PR. Anais do Seminário de Iniciação Científica e Tecnológica da UTFPR, 2009."
+        },
+        {
+          "ano": 2006,
+          "titulo": "Projeto e Implementação de um Conversor Microcontrolado para Acionamento de um Veículo Elétrico",
+          "autores": "ROMANELI, E. F. R. ; ; Chagas, L. ; PAROL, L. ; CELUPI, F.",
+          "periodico": "In: Seminário Paranaense de Engenharia Elétrica SPPE, 2006, Curitiba PR. Anais SPEE, 2006.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; Chagas, L. ; PAROL, L. ; CELUPI, F. . Projeto e Implementação de um Conversor Microcontrolado para Acionamento de um Veículo Elétrico. In: Seminário Paranaense de Engenharia Elétrica SPPE, 2006, Curitiba PR. Anais SPEE, 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": "PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR BUCK CA ? CA CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS (DSP)",
+          "autores": "ROMANELI, E. F. R. ; ADUR, D. N. ; BELOU, G.",
+          "periodico": "In: Seminário Paranaense de Engenharia Elétrica SPPE, 2006, Curitiba PR. Anais SPEE, 2006.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ADUR, D. N. ; BELOU, G. . PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR BUCK CA ? CA CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS (DSP). In: Seminário Paranaense de Engenharia Elétrica SPPE, 2006, Curitiba PR. Anais SPEE, 2006."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Desenvolvimento de um kit de baixo custo para motorização de cadeiras de rodas",
+          "autores": "ROMANELI, E. F. R. ; PFAFFENZELLER, Ana Carolina ; PACHECO, Juliano ; SANTOS, Marcel Paereira dos",
+          "periodico": "In: Seminário Paranaense de Engenharia Elétrica, 2004, Curitiba. Palestras e Apresentação de trabalhos, 2004.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; PFAFFENZELLER, Ana Carolina ; PACHECO, Juliano ; SANTOS, Marcel Paereira dos . Desenvolvimento de um kit de baixo custo para motorização de cadeiras de rodas. In: Seminário Paranaense de Engenharia Elétrica, 2004, Curitiba. Palestras e Apresentação de trabalhos, 2004."
+        },
+        {
+          "ano": 2003,
+          "titulo": "THREE LEVEL 24 KW 35 KHZ DC-DC CONVERTER FOR TELECOMMUNICATIONS",
+          "autores": "ROMANELI, E. F. R. ; ; FONTE, Carlos Illa ; GIRARDI, Denise",
+          "periodico": "In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2003, Fortaleza, 2003.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; FONTE, Carlos Illa ; GIRARDI, Denise . THREE LEVEL 24 KW 35 KHZ DC-DC CONVERTER FOR TELECOMMUNICATIONS. In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2003, Fortaleza, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "ACTIVE CLAMP FOR OUTPUT RECTIFIERS STAGES OF ISOLATED DC-DC CONVERTERS",
+          "autores": "ROMANELI, E. F. R. ; FONTE, Carlos Illa ; GIRARDI, Denise",
+          "periodico": "In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2003, Fortaleza, 2003.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; FONTE, Carlos Illa ; GIRARDI, Denise . ACTIVE CLAMP FOR OUTPUT RECTIFIERS STAGES OF ISOLATED DC-DC CONVERTERS. In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2003, Fortaleza, 2003."
+        },
+        {
+          "ano": 2003,
+          "titulo": "A COMPUTAÇÃO GRÁFICA E O DESENVOLVIMENTO DE PRODUTOS",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "In: the ICECE (International Conference on Engineering and Computer Education), 2003, Santos, 2003.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . A COMPUTAÇÃO GRÁFICA E O DESENVOLVIMENTO DE PRODUTOS. In: the ICECE (International Conference on Engineering and Computer Education), 2003, Santos, 2003."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Análise Comparativa entre o Autotransformador Estrela Diferencial eo LIT Aplicados na Correção de Fator de Potência",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "In: Congresso Brasileiro de Automática, 2002, Natal. XIV Congresso Brasileiro de Automática - CBA 2002 CDROM, 2002.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . Análise Comparativa entre o Autotransformador Estrela Diferencial eo LIT Aplicados na Correção de Fator de Potência. In: Congresso Brasileiro de Automática, 2002, Natal. XIV Congresso Brasileiro de Automática - CBA 2002 CDROM, 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Conversor CC-CC Phase-Shift Ponte Completa Isolado Com Baixa Ondulação de Corrente na Entrada e na Saída Operando Em Malha Fechada",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Congresso Brasileiro de Automática, 2002, Natal, 2002.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Conversor CC-CC Phase-Shift Ponte Completa Isolado Com Baixa Ondulação de Corrente na Entrada e na Saída Operando Em Malha Fechada. In: Congresso Brasileiro de Automática, 2002, Natal, 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Novo Conversor CC-CC Isolado Tipo Ponte Completa com Modulação Phase Shift e Baixo Nível de EMI Conduzido Operando Em Malha Fechada",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. p. 12-17.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Novo Conversor CC-CC Isolado Tipo Ponte Completa com Modulação Phase Shift e Baixo Nível de EMI Conduzido Operando Em Malha Fechada. In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. p. 12-17."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Metodologia de Projeto de Inversores Monofásicos Alimentando Cargas Não Lineares",
+          "autores": "ROMANELI, E. F. R. ; ;",
+          "periodico": "In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Semonário de Eletrônica de Potência do INEP - 2002, 2002. v. Unico. p. 132-137.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; . Metodologia de Projeto de Inversores Monofásicos Alimentando Cargas Não Lineares. In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Semonário de Eletrônica de Potência do INEP - 2002, 2002. v. Unico. p. 132-137."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A Conservação de Energia Através da Aplicação de Autotransformadores na Correção de fator de Potência",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. v. único. p. 126-131.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . A Conservação de Energia Através da Aplicação de Autotransformadores na Correção de fator de Potência. In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. v. único. p. 126-131."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Novo Driver Isolado Para Acionamento de Interruptores Tipo IGBT e Mosfet",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. v. único. p. 45-48.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Novo Driver Isolado Para Acionamento de Interruptores Tipo IGBT e Mosfet. In: Seminário de Eletrônica de Potência, 2002, Florianópolis. Seminário de Eletrônica de Potência do INEP - 2002, 2002. v. único. p. 45-48."
+        },
+        {
+          "ano": 2001,
+          "titulo": "A New Isolated Phase-Shift Controlled Non-Pulsating Input and Output Current Converter",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Power Electronics Specialist Conference PESC, 2001, Vancouver. PESC2001 Vancouver Conference Proceedings. Piscataway, NJ, EUA: IEEE Service Center, 2001. v. 1. p. 237-242.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . A New Isolated Phase-Shift Controlled Non-Pulsating Input and Output Current Converter. In: Power Electronics Specialist Conference PESC, 2001, Vancouver. PESC2001 Vancouver Conference Proceedings. Piscataway, NJ, EUA: IEEE Service Center, 2001. v. 1. p. 237-242."
+        },
+        {
+          "ano": 2001,
+          "titulo": "A New Isolated Phase-Shift Controlled Full Bridge Converter",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2001, Florianópolis. 6 Congresso Brasileiro de Eletrônica de Potência-COBEP2001 Proceedings, 2001. v. 1. p. 81-86.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . A New Isolated Phase-Shift Controlled Full Bridge Converter. In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 2001, Florianópolis. 6 Congresso Brasileiro de Eletrônica de Potência-COBEP2001 Proceedings, 2001. v. 1. p. 81-86."
+        },
+        {
+          "ano": 2000,
+          "titulo": "An Isolated ZVS-PWM Active Clamping Non-Pulsating Input and Output Current DC-DC Converter",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Power Electronics Specialist Conference PESC, 2000, Galway - Irlanda. PESC00 - Conference Proceedings. Piscataway, NJ, EUA: IEEE Service Center, 2000. v. 1. p. 205-210.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . An Isolated ZVS-PWM Active Clamping Non-Pulsating Input and Output Current DC-DC Converter. In: Power Electronics Specialist Conference PESC, 2000, Galway - Irlanda. PESC00 - Conference Proceedings. Piscataway, NJ, EUA: IEEE Service Center, 2000. v. 1. p. 205-210."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Novo Inversor Phase-Shift isolado com baixa ondulação de corrente",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Congresso Internacional de Infra-estrutura de Telecomunicações, 2000, Florianópolis. CININTEL2000 Anais. Campinas, SP: Serifa Editoração e Informática S/C Ltda., 2000. v. único. p. 381-392.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Novo Inversor Phase-Shift isolado com baixa ondulação de corrente. In: Congresso Internacional de Infra-estrutura de Telecomunicações, 2000, Florianópolis. CININTEL2000 Anais. Campinas, SP: Serifa Editoração e Informática S/C Ltda., 2000. v. único. p. 381-392."
+        },
+        {
+          "ano": 2000,
+          "titulo": "A New DC-DC Converter with Low Current Ripple Caracteristics",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: International Telecommunications Energy Conference - INTELEC, 2000, Phoenix. INTELEC00 Proceedings. Piscataway, NJ, EUA: IEEE Press, 2000. p. 31.1-31.1.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . A New DC-DC Converter with Low Current Ripple Caracteristics. In: International Telecommunications Energy Conference - INTELEC, 2000, Phoenix. INTELEC00 Proceedings. Piscataway, NJ, EUA: IEEE Press, 2000. p. 31.1-31.1."
+        },
+        {
+          "ano": 1999,
+          "titulo": "A Three-phase Voltage Source Boost Inverter Induction Motor Drive",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 1999, Foz do Iguaçu. COBEP 99. Curitiba PR: Imprensa Universitária da Universidade Federal do Paraná, 1999. v. 2. p. 811-815.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . A Three-phase Voltage Source Boost Inverter Induction Motor Drive. In: Congresso Brasileiro de Eletrônica de Potência-COBEP, 1999, Foz do Iguaçu. COBEP 99. Curitiba PR: Imprensa Universitária da Universidade Federal do Paraná, 1999. v. 2. p. 811-815."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Inversor Elevador de Tensão para Acionamento de Motor de Indução Trifásico",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "In: Seminário de Eletrônica de Potência, 1998, Florianópolis. IV Seminário de Eletrônica de Potência SEP98, 1998.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Inversor Elevador de Tensão para Acionamento de Motor de Indução Trifásico. In: Seminário de Eletrônica de Potência, 1998, Florianópolis. IV Seminário de Eletrônica de Potência SEP98, 1998."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Inversor de Tensão Senoidal de Tensão de 2kVA",
+          "autores": "ROMANELI, E. F. R. ; ;",
+          "periodico": "In: Seminário de Eletrônica de Potência, 1998, Florianópolis. IV Seminário de Eletrônica de Potência SEP98, 1998.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; . Inversor de Tensão Senoidal de Tensão de 2kVA. In: Seminário de Eletrônica de Potência, 1998, Florianópolis. IV Seminário de Eletrônica de Potência SEP98, 1998."
+        }
+      ]
+    },
+    {
+      "name": "Outras produções bibliográficas",
+      "citations": [
+        {
+          "ano": 2001,
+          "titulo": "Novos Conversores CC-CC ZVS PWM Isolados com Grampeamento Ativo e Baixa Ondulaçãao de Corrente na Entrada e na Saída",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "Florianópolis 2001 (Tese).",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . Novos Conversores CC-CC ZVS PWM Isolados com Grampeamento Ativo e Baixa Ondulaçãao de Corrente na Entrada e na Saída. Florianópolis 2001 (Tese)."
+        },
+        {
+          "ano": 1998,
+          "titulo": "Inversor Boost Trifásico: AnáliseTeórica, Simulação e Experimentação 1998 (Dissertação de mestrado).",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . Inversor Boost Trifásico: AnáliseTeórica, Simulação e Experimentação 1998 (Dissertação de mestrado)."
+        }
+      ]
+    },
+    {
+      "name": "Produtos tecnológicos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - CT",
+          "autores": "; TIEPOLO, G. M. ; RIBEIRO FELIX ROMANELI, EDUARDO ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; RIBEIRO FELIX ROMANELI, EDUARDO ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - CT. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - PG",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - PG. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - PB",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - PB. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - MD",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - MD. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - CP",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - CP. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica - CM",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica - CM. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Usina Geradora Fotovoltaica 10kWp com Backup de Energia",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Usina Geradora Fotovoltaica 10kWp com Backup de Energia. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão EPE - CT",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão EPE - CT. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão EPE - PB",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão EPE - PB. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão EPE - PG",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão EPE - PG. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão EPE - CP",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão EPE - CP. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão SONDA - CT",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão SONDA - CT. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão SONDA - MD",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão SONDA - MD. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Estação Solarimétrica Experimental padão SONDA - CM",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Estação Solarimétrica Experimental padão SONDA - CM. 2019."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Retificador trifásico 3 níveis utilizando conversores boost intercalado DCM (Primeiro Protótipo)",
+          "autores": "; ; ROMANELI, E.F.R ; ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E.F.R ; ; . Retificador trifásico 3 níveis utilizando conversores boost intercalado DCM (Primeiro Protótipo). 2019."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Conversor CC-CC 60V 24 kW",
+          "autores": "ROMANELI, E. F. R. ; ; FONTE, Carlos Illa",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; FONTE, Carlos Illa . Conversor CC-CC 60V 24 kW. 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "UPS para Telecomunicações",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . UPS para Telecomunicações. 2002."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Compensador para Inversor Senoidal Trifásico",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2002.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Compensador para Inversor Senoidal Trifásico. 2002."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Fonte de Alimentação Ininterrupta (UPS) Senoidal 110V 10kVA",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Fonte de Alimentação Ininterrupta (UPS) Senoidal 110V 10kVA. 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Driver para Acionamento de IGBTs e MOSFETS",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Driver para Acionamento de IGBTs e MOSFETS. 2001."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Conversor CC-CC com baixa ondulação de corrente na entrada e na saída",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2001.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Conversor CC-CC com baixa ondulação de corrente na entrada e na saída. 2001."
+        },
+        {
+          "ano": 2000,
+          "titulo": "Fonte de Alimentação Ininterrupta (UPS) Senoidal 220V 10kVA",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "2000.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Fonte de Alimentação Ininterrupta (UPS) Senoidal 220V 10kVA. 2000."
+        },
+        {
+          "ano": 1999,
+          "titulo": "Inversor Senoidal de 10 kVA",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "1999.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Inversor Senoidal de 10 kVA. 1999."
+        },
+        {
+          "ano": 1998,
+          "titulo": "UPS Senoidal de 1 kVA",
+          "autores": "ROMANELI, E. F. R. ; ;",
+          "periodico": "1998.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; ; . UPS Senoidal de 1 kVA. 1998."
+        },
+        {
+          "ano": 1997,
+          "titulo": "Inversor Boost Trifásico",
+          "autores": "ROMANELI, E. F. R. ;",
+          "periodico": "1997.",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. ; . Inversor Boost Trifásico. 1997."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos técnicos",
+      "citations": [
+        {
+          "ano": 2019,
+          "titulo": "Relatório P&D ANEEL PD 2866-0464/2017 ano de 2019",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2019.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Relatório P&D ANEEL PD 2866-0464/2017 ano de 2019. 2019."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Relatório P&D ANEEL PD 2866-0464/2017 ano de 2018",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Relatório P&D ANEEL PD 2866-0464/2017 ano de 2018. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Pato Branco",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Pato Branco. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Medianeira",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Medianeira. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Campo Mourão",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Campo Mourão. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Cornélio Procópio",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Cornélio Procópio. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Ponta Grossa",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Ponta Grossa. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Relatório Demostrativo Anual (RDA) 2018",
+          "autores": "; ; ROMANELI, E.F.R ; ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E.F.R ; ; . Relatório Demostrativo Anual (RDA) 2018. 2018."
+        },
+        {
+          "ano": 2018,
+          "titulo": "Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Curitiba",
+          "autores": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ;",
+          "periodico": "2018.",
+          "doi": "",
+          "citacao_completa": "; TIEPOLO, G. M. ; ROMANELI, E.F.R ; LELUDAK, J. A. ; . Memorial descritivo de impalntação de usinas geradoras e estações solarimétricas - Curitiba. 2018."
+        }
+      ]
+    },
+    {
+      "name": "Demais tipos de produção técnica",
+      "citations": [
+        {
+          "ano": 2023,
+          "titulo": "Relatório conclusivo de projeto P&D UTFPR/COPEL/ANEEL PD-2866-0528/2020",
+          "autores": "ROMANELI, E.F.R ; ; Bobko, N. ; ; ; ; CONINCK, J. C. P. ; ; ; ; JUNIOR, OSNI SILVA ; TAKEUCHI, RENAN DE OLIVEIRA ALVES",
+          "periodico": "2023. (Relatório de pesquisa).",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E.F.R ; ; Bobko, N. ; ; ; ; CONINCK, J. C. P. ; ; ; ; JUNIOR, OSNI SILVA ; TAKEUCHI, RENAN DE OLIVEIRA ALVES . Relatório conclusivo de projeto P&D UTFPR/COPEL/ANEEL PD-2866-0528/2020. 2023. (Relatório de pesquisa)."
+        },
+        {
+          "ano": 2023,
+          "titulo": "A Semantically Annotated 15-Class Ground Truth Dataset for Substation Equipment",
+          "autores": "; ROMANELI, E.F.R ; GANACIM, FRANCISCO ; ; ; ; ; Bobko, N. ; MAGRIN, FABIANO G. S. ;",
+          "periodico": "2023. (Banco de dados).",
+          "doi": "",
+          "citacao_completa": "; ROMANELI, E.F.R ; GANACIM, FRANCISCO ; ; ; ; ; Bobko, N. ; MAGRIN, FABIANO G. S. ; . A Semantically Annotated 15-Class Ground Truth Dataset for Substation Equipment. 2023. (Banco de dados)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Apresentação dos resultados iniciais do projeto - Primeiro Protótipo",
+          "autores": "; ; ROMANELI, E.F.R ; ;",
+          "periodico": "2019. (Apresentação de trabalho).",
+          "doi": "",
+          "citacao_completa": "; ; ROMANELI, E.F.R ; ; . Apresentação dos resultados iniciais do projeto - Primeiro Protótipo. 2019. (Apresentação de trabalho)."
+        },
+        {
+          "ano": 2019,
+          "titulo": "Transformerless UPS System Based on the Half-Bridge Hybrid Switched-Capacitor Operating as AC-DC and DC-DC Converter",
+          "autores": "; ; ; ROMANELI, E.F.R ;",
+          "periodico": "2019. (Artigo submetido).",
+          "doi": "",
+          "citacao_completa": "; ; ; ROMANELI, E.F.R ; . Transformerless UPS System Based on the Half-Bridge Hybrid Switched-Capacitor Operating as AC-DC and DC-DC Converter. 2019. (Artigo submetido)."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Projeto de Inversores de UPS",
+          "autores": "ROMANELI, E. F. R.",
+          "periodico": "2002. .",
+          "doi": "",
+          "citacao_completa": "ROMANELI, E. F. R. . Projeto de Inversores de UPS. 2002. ."
+        }
+      ]
+    }
+  ],
+  "committees": [
+    {
+      "name": "Mestrado",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": "Controladores Baseados no Princípio do Modelo Interno com Ação Anti-Windup",
+          "membros": "MICHELS, L.; ; ; NOVAES, Y. R.",
+          "candidato": "Cláudio Eduardo Soares",
+          "citacao_completa": "MICHELS, L.; ; ; NOVAES, Y. R.. Participação em banca de Cláudio Eduardo Soares. Controladores Baseados no Princípio do Modelo Interno com Ação Anti-Windup. 2011. Dissertação (Mestrado em Engenharia Elétrica) - Universidade do Estado de Santa Catarina."
+        },
+        {
+          "ano": 2007,
+          "titulo": "Desenvolvimento de equipamento Portátil de Segurança Eletrônica para Monitorar o Afastamento de Crianças do seu Responsável em Shopping Center",
+          "membros": "DEMONTI, R.; PENTEADO, R. A.;",
+          "candidato": "Edson Bernardes de Oliveira",
+          "citacao_completa": "DEMONTI, R.; PENTEADO, R. A.; . Participação em banca de Edson Bernardes de Oliveira. Desenvolvimento de equipamento Portátil de Segurança Eletrônica para Monitorar o Afastamento de Crianças do seu Responsável em Shopping Center. 2007. Dissertação (Mestrado em PRODETEC) - Instituto de Engenharia do Paraná."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Os Meios Multissensoriais da Tecnologia de Ensino na Era da Informática",
+          "membros": "; PEREIRA, Alice T Cybis; ; FIGUEIREDO, Luiz Fernado Gonçalves de",
+          "candidato": "Maria Luisa Campolina Costa Carvalho",
+          "citacao_completa": "; PEREIRA, Alice T Cybis; ; FIGUEIREDO, Luiz Fernado Gonçalves de. Participação em banca de Maria Luisa Campolina Costa Carvalho. Os Meios Multissensoriais da Tecnologia de Ensino na Era da Informática. 2003. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Arquitetura Computacional: Uma Abordagem Voltada para o Desenvolvimento de Softwares Educacionais Inteligentes",
+          "membros": "; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de",
+          "candidato": "Danielle Comitante Leão",
+          "citacao_completa": "; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de. Participação em banca de Danielle Comitante Leão. Arquitetura Computacional: Uma Abordagem Voltada para o Desenvolvimento de Softwares Educacionais Inteligentes. 2003. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Condições de Trabalho e Toxinfecção Alimentar em Serviço de Alimentação Inserido em uma Empresa Hoteleira: Um Estudo de Caso",
+          "membros": "TAVARES, A. G. B.; ; ULBRICHT, Vania Ribas; SOUZA, A. A.;",
+          "candidato": "Anelise Guedes Brigido Tavares",
+          "citacao_completa": "TAVARES, A. G. B.; ; ULBRICHT, Vania Ribas; SOUZA, A. A.; . Participação em banca de Anelise Guedes Brigido Tavares. Condições de Trabalho e Toxinfecção Alimentar em Serviço de Alimentação Inserido em uma Empresa Hoteleira: Um Estudo de Caso. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Ética na Sociedade Informatizada",
+          "membros": "DAVID, S.; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas",
+          "candidato": "Sandro David",
+          "citacao_completa": "DAVID, S.; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas. Participação em banca de Sandro David. Ética na Sociedade Informatizada. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Uma Avaliação Comparativa de Interfaces Homem-Computador em Geometria Dinâmica",
+          "membros": "RODRIGUES, D. W. L.; ; ULBRICHT, Vania Ribas; BRAVIANO, G.",
+          "candidato": "Daniel Willie Lacerda Rodrigues",
+          "citacao_completa": "RODRIGUES, D. W. L.; ; ULBRICHT, Vania Ribas; BRAVIANO, G.. Participação em banca de Daniel Willie Lacerda Rodrigues. Uma Avaliação Comparativa de Interfaces Homem-Computador em Geometria Dinâmica. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Uso da Tecnologia na Educação Rural - Estudo de Caso",
+          "membros": "CANONE, I. M.; ; ; ULBRICHT, Vania Ribas; CZIULIK, C.",
+          "candidato": "Ivan Matos Canone",
+          "citacao_completa": "CANONE, I. M.; ; ; ULBRICHT, Vania Ribas; CZIULIK, C.. Participação em banca de Ivan Matos Canone. Uso da Tecnologia na Educação Rural - Estudo de Caso. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Desenvolvimento de um Ambiente Hipermídia para o Ensino dos Poliédros de Platão, regulares e Convexos",
+          "membros": "CECATTO, C. A.; ; ULBRICHT, Vania Ribas; PEREIRA, E. M.",
+          "candidato": "Carlos Alberto Cecatto",
+          "citacao_completa": "CECATTO, C. A.; ; ULBRICHT, Vania Ribas; PEREIRA, E. M.. Participação em banca de Carlos Alberto Cecatto. Desenvolvimento de um Ambiente Hipermídia para o Ensino dos Poliédros de Platão, regulares e Convexos. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Conversor CC-CC para Aplicações com Elevada Tensão de Entrada e Alta Potência",
+          "membros": "GIRARDI, Denise; ; ; SOUZA, A. F.; MARTINS, Denizar Cruz",
+          "candidato": "Denise Girardi",
+          "citacao_completa": "GIRARDI, Denise; ; ; SOUZA, A. F.; MARTINS, Denizar Cruz. Participação em banca de Denise Girardi. Conversor CC-CC para Aplicações com Elevada Tensão de Entrada e Alta Potência. 2002. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Sistema Trifásico de 10kW, com Alto Fator de Potência e Controle de Luminosidade, para um Grupo de Lâmpadas Fluorescente",
+          "membros": "; ; ; MARTINS, Denizar Cruz; KASSICK, Enio Valmor; SOUZA, A. F.",
+          "candidato": "Jair Urbanetz Júnior",
+          "citacao_completa": "; ; ; MARTINS, Denizar Cruz; KASSICK, Enio Valmor; SOUZA, A. F.. Participação em banca de Jair Urbanetz Júnior. Sistema Trifásico de 10kW, com Alto Fator de Potência e Controle de Luminosidade, para um Grupo de Lâmpadas Fluorescente. 2002. Dissertação (Mestrado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A Interação no Processo de Ensino-Aprendizagem em Matemática",
+          "membros": "RODRIGUES, R. A.; ; BRAVIANO, G.; ULBRICHT, Vania Ribas",
+          "candidato": "Rosimeire Aparecida Rodrigues",
+          "citacao_completa": "RODRIGUES, R. A.; ; BRAVIANO, G.; ULBRICHT, Vania Ribas. Participação em banca de Rosimeire Aparecida Rodrigues. A Interação no Processo de Ensino-Aprendizagem em Matemática. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "O Uso do Computador no Ensino para Formar Processar, Gerenciar Informações e Construir Conhecimento: Visão Diagnóstica",
+          "membros": "SILVA, M. O. S.; ; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de",
+          "candidato": "Marilza Oliveira Seixas da Silva",
+          "citacao_completa": "SILVA, M. O. S.; ; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de. Participação em banca de Marilza Oliveira Seixas da Silva. O Uso do Computador no Ensino para Formar Processar, Gerenciar Informações e Construir Conhecimento: Visão Diagnóstica. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Ambientes Computacionais Amigáveis e suas Reais Contribuições para o Processo de Ensino Aprendizagem",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas",
+          "candidato": "Camilo de Lélis Martins Pereira",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas. Participação em banca de Camilo de Lélis Martins Pereira. Ambientes Computacionais Amigáveis e suas Reais Contribuições para o Processo de Ensino Aprendizagem. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Observatórios Astronômicos Virtuais e o Ensino de Ciências",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; COSTA, J. C.; OURIVES, E. A. A.",
+          "candidato": "Amauri José da Luz Pereira",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; COSTA, J. C.; OURIVES, E. A. A.. Participação em banca de Amauri José da Luz Pereira. Observatórios Astronômicos Virtuais e o Ensino de Ciências. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Inovação na Educação Profissional: Curso Superior de Tecnologia em Quimica Ambiental",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas;",
+          "candidato": "Maria Cristina da Silva",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas; . Participação em banca de Maria Cristina da Silva. Inovação na Educação Profissional: Curso Superior de Tecnologia em Quimica Ambiental. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "As Novas Tecnologias Educacionais e a Formação de Enfermeiros na UEFS:Possibilidades e Perspectivas",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ; ULBRICHT, Vania Ribas",
+          "candidato": "Maria Angela de Merícia Correia Saback",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ; ULBRICHT, Vania Ribas. Participação em banca de Maria Angela de Merícia Correia Saback. As Novas Tecnologias Educacionais e a Formação de Enfermeiros na UEFS:Possibilidades e Perspectivas. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "O Professor do Século XXI - Desafios e Perspectivas Atuais da Escola Pública do Paraná",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ; ULBRICHT, Vania Ribas",
+          "candidato": "Laira Aparecida Machado Ribas",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ; ULBRICHT, Vania Ribas. Participação em banca de Laira Aparecida Machado Ribas. O Professor do Século XXI - Desafios e Perspectivas Atuais da Escola Pública do Paraná. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Recomentações para o Uso de Softwares Educativos como Ferramenta para a Ampliação do Vocabulário em Crianças com Disturbio Específico de Linguagem",
+          "membros": "; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas",
+          "candidato": "Denise Brandão de Oliveira e Britto",
+          "citacao_completa": "; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas. Participação em banca de Denise Brandão de Oliveira e Britto. Recomentações para o Uso de Softwares Educativos como Ferramenta para a Ampliação do Vocabulário em Crianças com Disturbio Específico de Linguagem. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "A Matemática Financeira e o Uso da Informática em Educação de Nível Superior",
+          "membros": "; PEREIRA, Alice T Cybis; ; FIGUEIREDO, Luiz Fernado Gonçalves de",
+          "candidato": "Gerson Amorim de Castro",
+          "citacao_completa": "; PEREIRA, Alice T Cybis; ; FIGUEIREDO, Luiz Fernado Gonçalves de. Participação em banca de Gerson Amorim de Castro. A Matemática Financeira e o Uso da Informática em Educação de Nível Superior. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "O Uso das Novas Tecnologias no Curso de Pedagogia: Um Estudo de Caso na UESC-BA",
+          "membros": "; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas",
+          "candidato": "Vera Lúcia Ramos de Oliveira",
+          "citacao_completa": "; ; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas. Participação em banca de Vera Lúcia Ramos de Oliveira. O Uso das Novas Tecnologias no Curso de Pedagogia: Um Estudo de Caso na UESC-BA. 2002. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2001,
+          "titulo": "As Organizações Virtuais e o Teletrabalho na Era das Grandes Redes de Computadores",
+          "membros": "RABELO, A.; ; PEREIRA, Alice T Cybis; FIGUEIREDO, Luiz Fernado Gonçalves de;",
+          "candidato": "Air Rabelo",
+          "citacao_completa": "RABELO, A.; ; PEREIRA, Alice T Cybis; FIGUEIREDO, Luiz Fernado Gonçalves de; . Participação em banca de Air Rabelo. As Organizações Virtuais e o Teletrabalho na Era das Grandes Redes de Computadores. 2001. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Modelo de Ambiente Virtual de Apoio ao Ensino Presencial",
+          "membros": "MACEDO, R. P.; ; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de; ; LUZ, R. P.",
+          "candidato": "Ricardo Pedrosa Macedo",
+          "citacao_completa": "MACEDO, R. P.; ; ULBRICHT, Vania Ribas; FIGUEIREDO, Luiz Fernado Gonçalves de; ; LUZ, R. P.. Participação em banca de Ricardo Pedrosa Macedo. Modelo de Ambiente Virtual de Apoio ao Ensino Presencial. 2001. Dissertação (Mestrado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Teses de doutorado",
+      "citations": [
+        {
+          "ano": 2020,
+          "titulo": "Desenvolvimento de conversores CC-CC bidirecionais não isolados e com elevada taxa de conversão estática derivados das estruturas SEPIC e Ćuk",
+          "membros": "; OLIVEIRA, S. V. G.; MACHADO, R. Q.; ; ROMANELI, E.F.R",
+          "candidato": "Marcos Paulo Hirth",
+          "citacao_completa": "; OLIVEIRA, S. V. G.; MACHADO, R. Q.; ; ROMANELI, E.F.R . Participação em banca de Marcos Paulo Hirth. Desenvolvimento de conversores CC-CC bidirecionais não isolados e com elevada taxa de conversão estática derivados das estruturas SEPIC e Ćuk. 2020. Tese (Doutorado em Programa de Pós-Graduação em Engenharia Elétrica e Informática Industrial () - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Conversores CC-CC com Elevada Tensão de Entrada para fontes Auxiliares",
+          "membros": "; ; KASSICK, Enio Valmor; MARTINS, Denizar Cruz; PERIN, Arnaldo José; PINHEIRO, Humberto",
+          "candidato": "Kefas Damazio Coelho",
+          "citacao_completa": "; ; KASSICK, Enio Valmor; MARTINS, Denizar Cruz; PERIN, Arnaldo José; PINHEIRO, Humberto. Participação em banca de Kefas Damazio Coelho. Conversores CC-CC com Elevada Tensão de Entrada para fontes Auxiliares. 2004. Tese (Doutorado em Engenharia Elétrica) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Sistemas Estéticos Seqüênciais: Proposta de Desenvolvimento de Modelo Híbrido para Ensino na Escola Regular na Área de Educação Artística",
+          "membros": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas; LACERDA, Maria Helena Wyllie; PEREIRA, Sônia Maria; BARROS, Nelci Moreira de",
+          "candidato": "Michael John Chapman",
+          "citacao_completa": "; FIGUEIREDO, Luiz Fernado Gonçalves de; ULBRICHT, Vania Ribas; LACERDA, Maria Helena Wyllie; PEREIRA, Sônia Maria; BARROS, Nelci Moreira de. Participação em banca de Michael John Chapman. Sistemas Estéticos Seqüênciais: Proposta de Desenvolvimento de Modelo Híbrido para Ensino na Escola Regular na Área de Educação Artística. 2003. Tese (Doutorado em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Qualificações de Doutorado",
+      "citations": [
+        {
+          "ano": 2002,
+          "titulo": "Avaliação da Aprendizagem de Geometria Descritiva Utilizando Visual GD",
+          "membros": "GONÇALVES, M. M.; ; ULBRICHT, Vania Ribas; LACERDA, M. H. W.; FIGUEIREDO, Luiz Fernado Gonçalves de",
+          "candidato": "Marília Matos Gonçalves",
+          "citacao_completa": "GONÇALVES, M. M.; ; ULBRICHT, Vania Ribas; LACERDA, M. H. W.; FIGUEIREDO, Luiz Fernado Gonçalves de. Participação em banca de Marília Matos Gonçalves. Avaliação da Aprendizagem de Geometria Descritiva Utilizando Visual GD. 2002. Exame de qualificação (Doutorando em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2002,
+          "titulo": "Ambientes Hipermídia para o Desenvolvimento das Inteligências Múltiplas",
+          "membros": "BUGAY, E. L.; ; ULBRICHT, Vania Ribas; CATAPAN, A. H.; PEREIRAA, S. M.; BIZZOTTO, C.",
+          "candidato": "Edson Luiz Bugay",
+          "citacao_completa": "BUGAY, E. L.; ; ULBRICHT, Vania Ribas; CATAPAN, A. H.; PEREIRAA, S. M.; BIZZOTTO, C.. Participação em banca de Edson Luiz Bugay. Ambientes Hipermídia para o Desenvolvimento das Inteligências Múltiplas. 2002. Exame de qualificação (Doutorando em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2001,
+          "titulo": "Um Estudo Multifocal com Vistas à Determinação de um Guia Paramétrico para Otimização Ergonômica dos Recursos Didáticos Visuais Projetados no Ensino Presencial ou a Distância",
+          "membros": "LINCHO, P. R.; ; ULBRICHT, Vania Ribas; PEREIRA, Alice T Cybis; FIGUEIREDO, Luiz Fernado Gonçalves de; MERINO, E. A. D.",
+          "candidato": "Paulo Renato Lincho",
+          "citacao_completa": "LINCHO, P. R.; ; ULBRICHT, Vania Ribas; PEREIRA, Alice T Cybis; FIGUEIREDO, Luiz Fernado Gonçalves de; MERINO, E. A. D.. Participação em banca de Paulo Renato Lincho. Um Estudo Multifocal com Vistas à Determinação de um Guia Paramétrico para Otimização Ergonômica dos Recursos Didáticos Visuais Projetados no Ensino Presencial ou a Distância. 2001. Exame de qualificação (Doutorando em Engenharia de Produção) - Universidade Federal de Santa Catarina."
+        }
+      ]
+    },
+    {
+      "name": "Trabalhos de conclusão de curso de graduação",
+      "citations": [
+        {
+          "ano": 2011,
+          "titulo": ".Projeto e Desenvolvimento de um Conversor CC-CC Sepic com Iisolação Galvânica em Alta Frequência",
+          "membros": "; ;",
+          "candidato": "Carlos Eduardo Ferreira Pimentel",
+          "citacao_completa": "; ; . Participação em banca de Carlos Eduardo Ferreira Pimentel.Projeto e Desenvolvimento de um Conversor CC-CC Sepic com Iisolação Galvânica em Alta Frequência. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Estudo de Transformadores Trifásicos/Bifásicos aplicados aos Retificadores Multipulsos Isolados com Alto FP",
+          "membros": "; ROCHA, Joaquim Eloir;",
+          "candidato": "Beatriz Haddad de Oliveira",
+          "citacao_completa": "; ROCHA, Joaquim Eloir; . Participação em banca de Beatriz Haddad de Oliveira.Estudo de Transformadores Trifásicos/Bifásicos aplicados aos Retificadores Multipulsos Isolados com Alto FP. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2011,
+          "titulo": ".Estudo e Desenvolvimento de Conversor CC-CC não Isolado e com elevado ganho Estático pa Aplicações em Fontes Renováveis",
+          "membros": "; ;",
+          "candidato": "Eduardo Kamaroski Neto",
+          "citacao_completa": "; ; . Participação em banca de Eduardo Kamaroski Neto.Estudo e Desenvolvimento de Conversor CC-CC não Isolado e com elevado ganho Estático pa Aplicações em Fontes Renováveis. 2011. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Sistema Preditivo para Gerenciamento de Demanda em Consumidores Individuais",
+          "membros": "; COSTA, Andrea Lúcia; MARTIN, C.",
+          "candidato": "Saulo Tiburtius",
+          "citacao_completa": "; COSTA, Andrea Lúcia; MARTIN, C.. Participação em banca de Saulo Tiburtius.Sistema Preditivo para Gerenciamento de Demanda em Consumidores Individuais. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": ".Sistema de Busca da Máxima Potência para Acionamento de um Motor CC Alimentado por Paineis Fotovoltaicos",
+          "membros": "; ROCHA, Joaquim Eloir; ;",
+          "candidato": "Géssica Michelle dos Santos",
+          "citacao_completa": "; ROCHA, Joaquim Eloir; ; . Participação em banca de Géssica Michelle dos Santos.Sistema de Busca da Máxima Potência para Acionamento de um Motor CC Alimentado por Paineis Fotovoltaicos. 2010. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2008,
+          "titulo": ".Aperfeiçoamento do Sistema de controle de um Protótipo de Proteção Microcontrolado, com Abertura de Chaves Totalmente Controlada",
+          "membros": "ROCHA, Joaquim Eloir; ; Rizzato, F.A.P.; Winter, R.",
+          "candidato": "Jonas Augusto Telöcken",
+          "citacao_completa": "ROCHA, Joaquim Eloir; ; Rizzato, F.A.P.; Winter, R.. Participação em banca de Jonas Augusto Telöcken.Aperfeiçoamento do Sistema de controle de um Protótipo de Proteção Microcontrolado, com Abertura de Chaves Totalmente Controlada. 2008. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".Inversor monofásico para geração distribuída a partir de fontes renováveis",
+          "membros": "; CASSILHA, A. C.; ROCHA, Joaquim Eloir; Winter, R.;",
+          "candidato": "Guilherme Taborda Ribas",
+          "citacao_completa": "; CASSILHA, A. C.; ROCHA, Joaquim Eloir; Winter, R.; . Participação em banca de Guilherme Taborda Ribas.Inversor monofásico para geração distribuída a partir de fontes renováveis. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".PROJETO E IMPLEMENTAÇÃO DE UM FILTRO ATIVO SÉRIE MONOFÁSICO PARA CORREÇÃO DE DISTORÇÃO HARMÔNICA DE TENSÃO CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS",
+          "membros": "; LOBO, A. F.; ; DEMONTI, R.; Winter, R.",
+          "candidato": "PRISCILA FACCO DE MELO",
+          "citacao_completa": "; LOBO, A. F.; ; DEMONTI, R.; Winter, R.. Participação em banca de PRISCILA FACCO DE MELO.PROJETO E IMPLEMENTAÇÃO DE UM FILTRO ATIVO SÉRIE MONOFÁSICO PARA CORREÇÃO DE DISTORÇÃO HARMÔNICA DE TENSÃO CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2007,
+          "titulo": ".PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR CC-CA TRIFÁSICO PARA ACIONAMENTO E CONTROLE ESCALAR DE UM MOTOR TRIFÁSICO UTILIZANDO DSP",
+          "membros": "; LOBO, A. F.; Pinho, A. C.; ROCHA, Joaquim Eloir",
+          "candidato": "RAFAEL IVAN HARTMANN",
+          "citacao_completa": "; LOBO, A. F.; Pinho, A. C.; ROCHA, Joaquim Eloir. Participação em banca de RAFAEL IVAN HARTMANN.PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR CC-CA TRIFÁSICO PARA ACIONAMENTO E CONTROLE ESCALAR DE UM MOTOR TRIFÁSICO UTILIZANDO DSP. 2007. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Goniômetro com arranjo de espelho",
+          "membros": "; ; Dallabona, C. A.;",
+          "candidato": "Diogo Biasuz Dahlke",
+          "citacao_completa": "; ; Dallabona, C. A.; . Participação em banca de Diogo Biasuz Dahlke.Goniômetro com arranjo de espelho. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".Conversor CC-CC de 3 kW microcontrolado para acionamento de um motor série com frenagem regenerativa",
+          "membros": "Pinho, A. C.; Winter, R.; Faria, R. A.;",
+          "candidato": "Francisco Figueiredo Silva Neto",
+          "citacao_completa": "Pinho, A. C.; Winter, R.; Faria, R. A.; . Participação em banca de Francisco Figueiredo Silva Neto.Conversor CC-CC de 3 kW microcontrolado para acionamento de um motor série com frenagem regenerativa. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR BOOST MONOFÁSICO APLICADO À CORREÇÃO DE FATOR DE POTÊNCIA CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS",
+          "membros": "; AOKI, Alexandre Razi; ROCHA, Joaquim Eloir; Martins, W. M.",
+          "candidato": "KRISTIE KAMINSKI KÜSTER",
+          "citacao_completa": "; AOKI, Alexandre Razi; ROCHA, Joaquim Eloir; Martins, W. M.. Participação em banca de KRISTIE KAMINSKI KÜSTER.PROJETO E IMPLEMENTAÇÃO DE UM CONVERSOR BOOST MONOFÁSICO APLICADO À CORREÇÃO DE FATOR DE POTÊNCIA CONTROLADO POR PROCESSADOR DIGITAL DE SINAIS. 2006."
+        },
+        {
+          "ano": 2006,
+          "titulo": ".PROJETO DE CONTROLE DIGITAL MICROCONTROLADO PARA UMA FONTE CHAVEADA NA CONFIGURAÇÃO FLYBACK",
+          "membros": "; Pinho, A. C.; ;",
+          "candidato": "Cleberson Lopes do Nascimento",
+          "citacao_completa": "; Pinho, A. C.; ; . Participação em banca de Cleberson Lopes do Nascimento.PROJETO DE CONTROLE DIGITAL MICROCONTROLADO PARA UMA FONTE CHAVEADA NA CONFIGURAÇÃO FLYBACK. 2006. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2005,
+          "titulo": "Eggéa.Interruptor Microcontrolado para Gerenciamento de Sistemas de Iluminação Utilizando Interface Serial UART com Computador",
+          "membros": "; ANDRADE, Luciana de Sillos de; SANCHEZ, Walter Denis Cruz",
+          "candidato": "Luís H Gregório e Rodrigo F",
+          "citacao_completa": "; ANDRADE, Luciana de Sillos de; SANCHEZ, Walter Denis Cruz. Participação em banca de Luís H Gregório e Rodrigo F. Eggéa.Interruptor Microcontrolado para Gerenciamento de Sistemas de Iluminação Utilizando Interface Serial UART com Computador. 2005. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": "M",
+          "membros": "; WOLSKI, Belmiro; COSTA, Andrea Lúcia; CARSTENS, Josemar; SANCHEZ, Walter Denis Cruz",
+          "candidato": "Jefferson S",
+          "citacao_completa": "; WOLSKI, Belmiro; COSTA, Andrea Lúcia; CARSTENS, Josemar; SANCHEZ, Walter Denis Cruz. Participação em banca de Jefferson S. M. Wistuba, Rodrigo Priss e Vilmair E. Wirmond.Módulo didático para estudo de seletividade em relés de sobrecorrente eletromecânicos. 2004. Trabalho de Conclusão de Curso (Graduação em Engenharia Industrial Elétrica) - Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Outros tipos",
+      "citations": [
+        {
+          "ano": 2004,
+          "titulo": "Unidade de monitoramento de baixo custo para equipamentos de anestesia",
+          "membros": "; FIORAVANTI, Célia Cristina Bojarczuk; ; AOKI, Alexandre Razi",
+          "candidato": "Cristiano Roberto Tulio",
+          "citacao_completa": "; FIORAVANTI, Célia Cristina Bojarczuk; ; AOKI, Alexandre Razi. Participação em banca de Cristiano Roberto Tulio. Unidade de monitoramento de baixo custo para equipamentos de anestesia. 2004. Outra participação, Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2004,
+          "titulo": "Desenvolvimento de kit de motorização de cadeira de rodas",
+          "membros": "; COLLING, Ivan Eidt; ROCHA, Joaquim Eloir",
+          "candidato": "Ana Carolina Pfaffenzeller",
+          "citacao_completa": "; COLLING, Ivan Eidt; ROCHA, Joaquim Eloir. Participação em banca de Ana Carolina Pfaffenzeller. Desenvolvimento de kit de motorização de cadeira de rodas. 2004. Outra participação, Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2003,
+          "titulo": "A Importância do Jogo na Educação",
+          "membros": "",
+          "candidato": "Ana Maria dos Santos Granato",
+          "citacao_completa": ". Participação em banca de Ana Maria dos Santos Granato. A Importância do Jogo na Educação. 2003. Outra participação, Universidade Estadual do Paraná."
+        },
+        {
+          "ano": 2003,
+          "titulo": "Guia de aplicação e manutenção de banco de baterias",
+          "membros": "",
+          "candidato": "Carlos alberto Karasinski",
+          "citacao_completa": ". Participação em banca de Carlos alberto Karasinski. Guia de aplicação e manutenção de banco de baterias. 2003. Outra participação, Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Concurso público",
+      "citations": [
+        {
+          "ano": 2010,
+          "titulo": "; ; COLLING, Ivan Eidt. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010. Universidade Tecnol",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; ; COLLING, Ivan Eidt. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "; Pinho, A. C.; COLLING, Ivan Eidt. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010. Univers",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; Pinho, A. C.; COLLING, Ivan Eidt. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "; COSTA, Andrea Lúcia; AOKI, Alexandre Razi. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; COSTA, Andrea Lúcia; AOKI, Alexandre Razi. Concurso Público para Professor de Ensino Superior no Campus Curitiba. 2010. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2010,
+          "titulo": "COLLING, Ivan Eidt; ROCHA, Joaquim Eloir; . Concurso Público para Professor de Ensino Superior. 2010. Universidade Tecno",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "COLLING, Ivan Eidt; ROCHA, Joaquim Eloir; . Concurso Público para Professor de Ensino Superior. 2010. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2009,
+          "titulo": "; BETINI, R. C.; BOMBACINI, M. R.. Concurso Público para Professor de Ensino Básico, Técnico e Tecnológico. 2009. Univer",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; BETINI, R. C.; BOMBACINI, M. R.. Concurso Público para Professor de Ensino Básico, Técnico e Tecnológico. 2009. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2005,
+          "titulo": "; COLLING, Ivan Eidt; COSTA, Andrea Lúcia. Concurso Público para Professor de Ensino Superior. 2005. Universidade Tecnol",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "; COLLING, Ivan Eidt; COSTA, Andrea Lúcia. Concurso Público para Professor de Ensino Superior. 2005. Universidade Tecnológica Federal do Paraná."
+        },
+        {
+          "ano": 2005,
+          "titulo": "COLLING, Ivan Eidt; ; COSTA, Andrea Lúcia. Concurso Público para Professor de Ensino Superior. 2005. Universidade Tecnol",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": "COLLING, Ivan Eidt; ; COSTA, Andrea Lúcia. Concurso Público para Professor de Ensino Superior. 2005. Universidade Tecnológica Federal do Paraná."
+        }
+      ]
+    },
+    {
+      "name": "Outras participações",
+      "citations": [
+        {
+          "ano": 2004,
+          "titulo": ". Participação no comitê científico do CONAHPA 2004. 2004. Universidade Federal de Santa Catarina.",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Participação no comitê científico do CONAHPA 2004. 2004. Universidade Federal de Santa Catarina."
+        },
+        {
+          "ano": 2003,
+          "titulo": ". Comissão de Especialistas para Julgamento do 17o Prêmio Paranaense de Ciência e Tecnologia. 2003. Secretaria da Ciênci",
+          "membros": "",
+          "candidato": "",
+          "citacao_completa": ". Comissão de Especialistas para Julgamento do 17o Prêmio Paranaense de Ciência e Tecnologia. 2003. Secretaria da Ciência Tecnologia e Ensino Superior."
+        }
+      ]
+    }
+  ]
+}
